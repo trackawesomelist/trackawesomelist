@@ -2,9 +2,77 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.7K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / Weekly / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
+
+### Hosting:
+
+- Website: <https://kinsta.com/static-site-hosting/>
+
+  Description: **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare.
+
+
+
+### Remote Jobs:
+
+- Website: <https://okjob.io>
+
+
+- Website: <https://www.realworkfromanywhere.com>
+
+
+- Website: <https://www.moaijobs.com>
+
+
+
+### Youtube Channels:
+
+- Website: [Code with Harry](https://www.youtube.com/@CodeWithHarry)
+
+
+
+### UI Inspiration:
+
+- Website: <https://websitevice.com/>
+
+
+
+### Online Tools:
+
+- Website: [Markdown Tools](https://markdowntools.com)
+
+  Description: A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown
+
+
+- Website: [OnlineInterview.io](https://onlineinterview.io/)
+
+  Description: Free interviewing platform with shared code editor, drawing board and video chat.
+
+
+
+### UI Components:
+
+- Website: [Headless UI](https://headlessui.com/)
+
+  Description: Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.
+
+
+
+### Others:
+
+- Website: [PerfectBugReport.io](https://perfectbugreport.io/)
+
+  Description: A simple checklist of the essential items to include in bug reports.
+
+
+- Website: [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
+
+  Description: an interactive cheatsheet of Vue, Vue Router, and Pinia.
+
+
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
@@ -21,16 +89,6 @@ Awesome Web Development Resources.
 ### Code Editors:
 
 - Website: [CodeLobster](https://codelobster.com/)
-
-
-
-## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
-
-### Online Tools:
-
-- Website: \[ \[Markdown Tools(<https://markdowntools.com>)
-
-  Description: A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown
 
 
 
@@ -243,12 +301,6 @@ Awesome Web Development Resources.
 
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
-
-### Remote Jobs:
-
-- Website: <https://devemploy.com>
-
-
 
 ### Youtube Channels:
 
@@ -547,14 +599,6 @@ Awesome Web Development Resources.
 
 
 
-## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
-
-### UI Inspiration:
-
-- Website: <https://landingexam.com>
-
-
-
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Learning Platforms:
@@ -575,7 +619,9 @@ Awesome Web Development Resources.
 
 - Website: <https://supabase.com>
 
-  Description: **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+  Description: **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime
+
+  : subscriptions and Storage.
 
 
 - Website: <https://railway.app/>
@@ -614,9 +660,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://mazwai.com>
-
-
-- Website: <https://lifeofvids.com>
 
 
 - Website: <https://www.pexels.com>
@@ -780,9 +823,6 @@ Awesome Web Development Resources.
 - Website: <https://ocw.mit.edu/>
 
 
-- Website: <https://open.appacademy.io/>
-
-
 - Website: <https://web.dev/>
 
 
@@ -796,9 +836,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://cssbattle.dev/>
-
-
-- Website: <https://bento.io/>
 
 
 - Website: <https://fullstackopen.com/en/>
@@ -930,9 +967,6 @@ Awesome Web Development Resources.
 - Website: <https://jobspresso.co>
 
 
-- Website: <https://wfh.io>
-
-
 - Website: <https://4dayweek.io>
 
 
@@ -988,9 +1022,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://iradesign.io>
-
-
-- Website: <https://interfacer.xyz>
 
 
 - Website: <https://blush.design>
@@ -1310,9 +1341,6 @@ Awesome Web Development Resources.
 
 
 ### UI Inspiration:
-
-- Website: <https://uigarage.net>
-
 
 - Website: <https://httpster.net>
 

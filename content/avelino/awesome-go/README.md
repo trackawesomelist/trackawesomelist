@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
+### Security
+
+*   [luks.go (⭐80)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+
 ## [Aug 16, 2024](/content/2024/08/16/README.md)
 
 ### Configuration

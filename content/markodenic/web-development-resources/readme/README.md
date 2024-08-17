@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 6.7K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -26,58 +26,61 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Table of Contents
 
-*   [Hosting](#hosting)
-*   [Learning Platforms](#learning-platforms)
-*   [Coding Challenge Platforms](#coding-challenge-platforms)
-*   [Freelancing platforms](#freelancing-platforms)
-*   [Remote Jobs](#remote-jobs)
-*   [Photos](#photos)
-*   [Videos](#videos)
-*   [Illustrations](#illustrations)
-*   [Icons](#icons)
-*   [Fonts](#fonts)
-*   [Youtube Channels](#youtube-channels)
-*   [Podcasts](#podcasts)
-*   [Code Editors](#code-editors)
-*   [Color Palettes](#color-palettes)
-*   [UI Inspiration](#ui-inspiration)
-*   [Docs](#docs)
-*   [Animation Libraries](#animation-libraries)
-*   [Charts](#charts)
-*   [Chrome Extensions](#chrome-extensions)
-*   [Website Optimization Tools](#website-optimization-tools)
-*   [HTML/CSS/JavaScript templates](#htmlcssjavascript-templates)
-*   [Newsletters](#newsletters)
-*   [CSS Generators](#css-generators)
-*   [CSS Games 🎮](#css-games)
-*   [Online Tools](#online-tools)
-*   [UI Components](#ui-components)
-*   [Vue UI libraries](#vue-ui-libraries)
-*   [React UI libraries](#react-ui-libraries)
-*   [Angular UI libraries](#angular-ui-libraries)
-*   [Others](#others)
+*   [Awesome Web Development Resources ](#awesome-web-development-resources-)
+    *   [Table of Contents](#table-of-contents)
+    *   [Hosting:](#hosting)
+    *   [Learning Platforms:](#learning-platforms)
+    *   [Coding Challenge Platforms:](#coding-challenge-platforms)
+    *   [Freelancing platforms:](#freelancing-platforms)
+    *   [Remote Jobs:](#remote-jobs)
+    *   [Photos:](#photos)
+    *   [Videos:](#videos)
+    *   [Illustrations:](#illustrations)
+    *   [Icons:](#icons)
+    *   [Fonts:](#fonts)
+    *   [Youtube Channels:](#youtube-channels)
+    *   [Podcasts:](#podcasts)
+    *   [Code Editors:](#code-editors)
+    *   [Color Palettes:](#color-palettes)
+    *   [UI Inspiration:](#ui-inspiration)
+    *   [Docs:](#docs)
+    *   [Animation Libraries:](#animation-libraries)
+    *   [Charts:](#charts)
+    *   [Chrome Extensions:](#chrome-extensions)
+    *   [Website Optimization Tools:](#website-optimization-tools)
+    *   [HTML/CSS/JavaScript templates:](#htmlcssjavascript-templates)
+    *   [Newsletters:](#newsletters)
+    *   [CSS Generators:](#css-generators)
+    *   [CSS Games:](#css-games)
+    *   [Online Tools:](#online-tools)
+    *   [UI Components:](#ui-components)
+    *   [Vue UI libraries:](#vue-ui-libraries)
+    *   [React UI libraries:](#react-ui-libraries)
+    *   [Angular UI libraries:](#angular-ui-libraries)
+    *   [Others:](#others)
 
 ## Hosting:
 
-| Website                                          | Description                                                                                                                                                                                                                   |
-| ------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <https://netlify.com>                            | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                              |
-| <https://firebase.google.com>                    | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                         |
-| <https://aws.amazon.com>                         | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                             |
-| <https://pages.github.com>                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                           |
-| <https://vercel.com>                             | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                |
-| <https://surge.sh>                               | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                          |
-| <https://render.com>                             | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                             |
-| <https://docs.gitlab.com/ee/user/project/pages/> | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                           |
-| <https://stormkit.io>                            | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                       |
-| <https://www.digitalocean.com/>                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
-| <https://www.000webhost.com/>                    | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                              |
-| <https://infinityfree.net/>                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                       |
-| <https://pages.cloudflare.com/>                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                   |
-| <https://supabase.com>                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                           |
-| <https://railway.app/>                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                     |
-| <https://fly.io/>                                | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                           |
-| <https://fleek.co/>                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                 |
+| Website                                          | Description                                                                                                                                                                                                                                    |                            |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| <https://netlify.com>                            | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.                                                                                               |                            |
+| <https://firebase.google.com>                    | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |                            |
+| <https://aws.amazon.com>                         | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |                            |
+| <https://pages.github.com>                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                            |                            |
+| <https://vercel.com>                             | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                                 |                            |
+| <https://surge.sh>                               | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                           |                            |
+| <https://render.com>                             | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                              |                            |
+| <https://docs.gitlab.com/ee/user/project/pages/> | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |                            |
+| <https://stormkit.io>                            | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |                            |
+| <https://www.digitalocean.com/>                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |                            |
+| <https://www.000webhost.com/>                    | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.                                                                                               |                            |
+| <https://infinityfree.net/>                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |                            |
+| <https://pages.cloudflare.com/>                  | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |                            |
+| <https://supabase.com>                           | **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime                                                                                                       | subscriptions and Storage. |
+| <https://railway.app/>                           | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |                            |
+| <https://fly.io/>                                | **Fly** is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |                            |
+| <https://kinsta.com/static-site-hosting/>        | **Kinsta** provides all-in-one cloud hosting for web apps, databases, WordPress sites and static websites. Fast and secure deployments from GitHub, GitLab and Bitbucket to an infrastructure powered by Google Cloud Platform and Cloudflare. |                            |
+| <https://fleek.co/>                              | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |                            |
 
 [⬆ back to top](#table-of-contents)
 
@@ -103,13 +106,11 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.guru99.com/>                        |
 | <https://trailhead.salesforce.com/>              |
 | <https://ocw.mit.edu/>                           |
-| <https://open.appacademy.io/>                    |
 | <https://web.dev/>                               |
 | <https://scrimba.com>                            |
 | <https://thegymnasium.com>                       |
 | <https://www.amigoscode.com>                     |
 | <https://cssbattle.dev/>                         |
-| <https://bento.io/>                              |
 | <https://fullstackopen.com/en/>                  |
 | <https://upskillcourses.com/courses>             |
 | <https://www.geeksforgeeks.org/web-development/> |
@@ -179,34 +180,35 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Remote Jobs:
 
-| Website                               |
-| ------------------------------------- |
-| <https://workremote.cc/>              |
-| <https://www.showwcase.com/jobs>      |
-| <https://www.remotefrontendjobs.com/> |
-| <https://jobboardsearch.com>          |
-| <https://www.flexjobs.com>            |
-| <https://remote.co/remote-jobs>       |
-| <https://justremote.co>               |
-| <https://weworkremotely.com>          |
-| <https://remoteok.io>                 |
-| <https://himalayas.app>               |
-| <https://jobspresso.co>               |
-| <https://wfh.io>                      |
-| <https://4dayweek.io>                 |
-| <https://www.hiretechladies.com>      |
-| <https://nowhiteboard.org>            |
-| <https://www.coolstartupjobs.com>     |
-| <https://wellfound.com/>              |
-| <https://www.smartremotejobs.com>     |
-| <https://www.remotehub.com>           |
-| <https://startup.jobs/remote-jobs>    |
-| <https://jobsinjs.com>                |
-| <https://devemploy.com>               |
-| <https://echojobs.io>                 |
-| <https://AiJobsTracker.com/remote>    |
-| <https://www.remote.io>               |
-| <https://web3.career/remote-jobs>     |
+| Website                                |
+| -------------------------------------- |
+| <https://workremote.cc/>               |
+| <https://www.showwcase.com/jobs>       |
+| <https://www.remotefrontendjobs.com/>  |
+| <https://jobboardsearch.com>           |
+| <https://www.flexjobs.com>             |
+| <https://remote.co/remote-jobs>        |
+| <https://justremote.co>                |
+| <https://weworkremotely.com>           |
+| <https://remoteok.io>                  |
+| <https://himalayas.app>                |
+| <https://jobspresso.co>                |
+| <https://4dayweek.io>                  |
+| <https://www.hiretechladies.com>       |
+| <https://nowhiteboard.org>             |
+| <https://www.coolstartupjobs.com>      |
+| <https://wellfound.com/>               |
+| <https://www.smartremotejobs.com>      |
+| <https://www.remotehub.com>            |
+| <https://startup.jobs/remote-jobs>     |
+| <https://jobsinjs.com>                 |
+| <https://echojobs.io>                  |
+| <https://AiJobsTracker.com/remote>     |
+| <https://www.remote.io>                |
+| <https://web3.career/remote-jobs>      |
+| <https://okjob.io>                     |
+| <https://www.realworkfromanywhere.com> |
+| <https://www.moaijobs.com>             |
 
 [⬆ back to top](#table-of-contents)
 
@@ -239,7 +241,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://mixkit.co>            |
 | <https://www.vidsplay.com>     |
 | <https://mazwai.com>           |
-| <https://lifeofvids.com>       |
 | <https://www.pexels.com>       |
 | <https://coverr.co>            |
 | <https://www.splitshire.com>   |
@@ -258,7 +259,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.drawkit.com>                    |
 | <https://icons8.com/ouch>                    |
 | <https://iradesign.io>                       |
-| <https://interfacer.xyz>                     |
 | <https://blush.design>                       |
 | <https://storyset.com>                       |
 | <https://themeisle.com/illustrations>        |
@@ -360,6 +360,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Sonny Sangha](https://www.youtube.com/c/SonnySangha)                         |
 | [LearnCode.academy](https://www.youtube.com/@learncodeacademy/videos)         |
 | [Corey Schafer](https://www.youtube.com/@coreyms)                             |
+| [Code with Harry](https://www.youtube.com/@CodeWithHarry)                     |
 
 [⬆ back to top](#table-of-contents)
 
@@ -432,8 +433,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                        |
 | ------------------------------ |
-| <https://landingexam.com>      |
-| <https://uigarage.net>         |
+| <https://websitevice.com/>     |
 | <https://httpster.net>         |
 | <https://www.awwwards.com>     |
 | <https://dribbble.com>         |
@@ -612,7 +612,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                |
 | [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                       |
 | [tablebackend.com](https://tablebackend.com/)                                    | A backend for your simple projects using oowerful canvas-based data grid for handling millions of rows.      |
-| \[ \[Markdown Tools(<https://markdowntools.com>)                                 | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
+| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                  |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                            |
 
 [⬆ back to top](#table-of-contents)
 
@@ -625,6 +626,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
+| [Headless UI](https://headlessui.com/)   | Completely unstyled, fully accessible UI components, designed to integrate with Tailwind CSS.       |
 
 [⬆ back to top](#table-of-contents)
 
@@ -676,6 +678,8 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Cssrepo](https://cssrepo.com/)                                 | A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS |
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                                              |
 | [MakeMeta](https://makemeta.app/)                               | Effortlessly generate Meta Tags for your website!                                                  |
+| [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.                               |
+| [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                                           |
 
 [⬆ back to top](#table-of-contents)
 

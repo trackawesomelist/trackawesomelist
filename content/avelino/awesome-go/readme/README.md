@@ -2254,6 +2254,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [goSecretBoxPassword (⭐59)](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 *   [Interpol (⭐4)](https://github.com/avahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
 *   [lego (⭐7.6k)](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+*   [luks.go (⭐80)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 *   [memguard (⭐2.5k)](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 *   [multikey (⭐5)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 *   [nacl (⭐545)](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
