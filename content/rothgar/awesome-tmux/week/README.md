@@ -8,6 +8,14 @@ A list of awesome resources for tmux
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
+### Tools and session management
+
+*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+
+### Status Bar
+
+*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+
 ### Plugins
 
 *   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.

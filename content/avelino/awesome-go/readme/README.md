@@ -2026,6 +2026,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [utp (⭐173)](https://github.com/anacrolix/utp) - Go uTP micro transport protocol implementation.
 *   [vssh (⭐952)](https://github.com/yahoo/vssh) - Go library for building network and server automation over SSH protocol.
 *   [water (⭐1.9k)](https://github.com/songgao/water) - Simple TUN/TAP library.
+*   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 *   [webrtc (⭐13k)](https://github.com/pions/webrtc) - A pure Go implementation of the WebRTC API.
 *   [winrm (⭐422)](https://github.com/masterzen/winrm) - Go WinRM client to remotely execute commands on Windows machines.
 *   [xtcp (⭐151)](https://github.com/xfxdev/xtcp) - TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol.

@@ -1,31 +1,44 @@
 # Awesome List Updates on Aug 12 - Aug 18, 2024
 
-33 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [AI Scientist (⭐4.5k)](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)
+*   [DSPy (⭐16k)](https://github.com/stanfordnlp/dspy): The framework for programming—not prompting—foundation models ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social)
+
+## [2. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+
+### Automation / Ruby
+
+*   [k6 browser (⭐334)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
+
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
 *   [Human-level few-shot concept induction through minimax entropy learning](https://www.science.org/doi/full/10.1126/sciadv.adg2488) - ***Science Advances***, 2024. \[[All Versions](https://scholar.google.com/scholar?\&cluster=9084477652494351940)]. This paper introduces a computational model designed to emulate human inductive reasoning on abstract reasoning tasks, such as those in IQ tests, using a minimax entropy approach. This method combines identifying the most effective constraints on data via minimum entropy with determining the best combination of them via maximum entropy.
 
-## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [4. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Mathematics / Waveform Generator
 
 *   [micropython-npyfile (⭐1)](https://github.com/jonnor/micropython-npyfile/) - Numpy .npy file support for MicroPython, supports read/write/streaming.
 
-## [3. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [5. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Algebra / Galois Theory
 
 *   📝 [Galois Theory](https://eclass.uoa.gr/modules/document/file.php/MATH594/Stewart%20Galois%204th%20edition.pdf) - Ian Stewart
 *   📝 [Galois Theory](https://arxiv.org/pdf/2408.07499) — Tom Leinster (University of Edinburgh)
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -35,7 +48,7 @@
 
 *   [CodeBehind Framework (⭐49)](https://github.com/elanatframework/Code_behind) - Modern and powerful back-end framework under ASP.NET Core.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
@@ -45,7 +58,7 @@
 
 *   [Cork](https://corkmac.app) - An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/buresdv/cork)
 
-## [6. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### PaaS
 
@@ -55,31 +68,31 @@
 
 *   [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.flexera.com/blog/finops/docker-vs-vms-combining-both-for-cloud-portability-nirvana/)
 
-## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [9. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Database clients
 
 *   [vduckdb (⭐15)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
-## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/) (August, 2024)
 
-## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
 *   [Ionic Framework (⭐843)](https://github.com/candelibas/awesome-ionic#readme)
 
-## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [12. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
 *   [Playwright Tips (videos)](https://www.youtube.com/playlist?list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc) - Video walkthroughs of common challenges testing and monitoring with Playwright.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -126,7 +139,7 @@
     *   [c410-f3r/wtx-bench (⭐0)](https://github.com/c410-f3r/wtx-bench) - Web benchmarks
     *   [TeXitoi/benchmarksgame-rs (⭐69)](https://github.com/TeXitoi/benchmarksgame-rs) - Implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -197,7 +210,7 @@
 *   [NDJSON (⭐655) (⭐655)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐334) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI Tools Directories
 
@@ -219,7 +232,7 @@
 
 *   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -233,56 +246,64 @@
 
 *   [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) — Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
 
-## [15. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [17. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Open Source Projects
 
 *   [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
-## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [18. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Tools and session management
+
+*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+
+### Status Bar
+
+*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 
 ### Plugins
 
 *   [kmux-status (⭐4)](https://github.com/tardunge/kmux-status) - Tmux plugin to render kubernetes context and other indicators on the status-line.
 
-## [17. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Indexes
 
 *   [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers
 
-## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [20. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Machine Learning
 
 *   [iOS-GenAI-Sampler (⭐59)](https://github.com/shu223/iOS-GenAI-Sampler) - A collection of Generative AI examples on iOS.
 
-## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [21. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Music and Audio Editors / Voxel Editors
 
 *   :free: [Famistudio (⭐1.6k)](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
 *   :free: [FamiTracker (⭐362)](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 
-## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [22. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [sorin-modified-dark (⭐0)](https://github.com/hrmeetsingh/sorin-modified-dark) - Based on [sorin (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin). Minimalist, adds decorators for `git` status and current directory.
 
-## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [24. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
-## [23. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [25. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -301,7 +322,7 @@
 *   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐25k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
     , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 
-## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [26. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -329,13 +350,13 @@
 
 *   [Auto-Differentiation Website](https://auto-differentiation.github.io/) - Background and  resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD).
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [wtx (⭐63)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
-## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
@@ -383,6 +404,7 @@
 
 *   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 *   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
+*   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
 ### Testing Frameworks
 
@@ -409,7 +431,7 @@
 
 *   [golang-benchmarks (⭐130)](https://github.com/SimonWaldherr/golang-benchmarks) - a collection of golang benchmarks.
 
-## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -427,13 +449,13 @@
 
 *   [mawkler/demicolon.nvim (⭐15)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 
-## [28. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Tutorials and Hints
 
 *   [Learn X in Y minutes where X=Coq](https://learnxinyminutes.com/docs/coq/) - Whirlwind tour of Coq as a language.
 
-## [29. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [31. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
@@ -444,22 +466,14 @@
 *   [nixbsd (⭐393)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
 *   [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
-## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [32. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Multimedia
 
 *   [Gapless](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 *   [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
 
-## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Data Science
 
@@ -538,13 +552,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [32. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [34. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [graphql-sunset (⭐0)](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -567,6 +581,10 @@
 
 *   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐29k)](https://github.com/ianstormtaylor/slate).
@@ -574,6 +592,10 @@
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [uppy](https://uppy.io/docs/angular/) - [Uppy (⭐29k)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

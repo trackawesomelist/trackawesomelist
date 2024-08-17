@@ -6,6 +6,16 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Aug 17, 2024](/content/2024/08/17/README.md)
+
+### Tools and session management
+
+*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+
+### Status Bar
+
+*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+
 ## [Aug 14, 2024](/content/2024/08/14/README.md)
 
 ### Plugins

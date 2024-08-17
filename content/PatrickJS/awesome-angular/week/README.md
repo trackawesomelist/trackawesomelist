@@ -29,6 +29,10 @@
 
 *   [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐29k)](https://github.com/ianstormtaylor/slate).
@@ -36,6 +40,10 @@
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [uppy](https://uppy.io/docs/angular/) - [Uppy (⭐29k)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

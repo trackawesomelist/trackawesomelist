@@ -53,6 +53,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [automux (⭐7)](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 *   [disconnected (⭐14)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 *   [dmux (⭐305)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [harpoon (⭐10)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 *   [libtmux (⭐997)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [powerline (⭐14k)](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 *   [tmux-powerline (⭐3.4k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
@@ -105,6 +106,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 *   [aws-tmux (⭐30)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 *   [gitmux (⭐598)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [muxbar (⭐2)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
 *   [tmux-battery (⭐486)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-clima (⭐8)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
 *   [tmux-colortag (⭐96)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
