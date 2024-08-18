@@ -2,9 +2,15 @@
 
 A curated list of host-parasite information
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 29 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 35 · 🏷️ Miscellaneous
 
 [ [Daily](/content/ecohealthalliance/awesome-parasite/README.md) / Weekly / [Overview](/content/ecohealthalliance/awesome-parasite/readme/README.md) ]
+
+## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
+
+### Museums & Collections
+
+*   [Invertebrate Zoology collection of the Museum of Texas Tech University](https://www.depts.ttu.edu/nsrl/collections/Invertebrate_Zoology/index.php) - Previously the Medical Zoology Collection, a portion of this collection includs endo- and ecto-parasites of medical and veterinary importance. Accessible through [GBIF](https://www.gbif.org/dataset/13fdfab7-e281-428d-8c1f-e72eb7398e97).
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 

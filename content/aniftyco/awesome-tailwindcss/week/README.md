@@ -10,6 +10,7 @@
 
 ### UI Libraries, Components & Templates
 
+*   📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 *   🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)

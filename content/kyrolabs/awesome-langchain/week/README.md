@@ -8,6 +8,10 @@
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
+### Tools / Services
+
+*   [CopilotKit (⭐9.3k)](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+
 ### Other LLM Frameworks / Videos Playlists
 
 *   [AI Scientist (⭐4.5k)](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)

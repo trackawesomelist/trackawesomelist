@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Aug 18, 2024](/content/2024/08/18/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
+
 ## [Aug 13, 2024](/content/2024/08/13/README.md)
 
 ### UI Libraries, Components & Templates

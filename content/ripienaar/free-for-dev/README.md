@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 18, 2024](/content/2024/08/18/README.md)
+
+### Generative AI
+
+*   [Ultra AI](https://ultraai.app) - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.
+
 ## [Aug 16, 2024](/content/2024/08/16/README.md)
 
 ### APIs, Data, and ML
@@ -327,10 +333,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
-
-### Education and Career Development
-
-*   [Free ATS Resume AI Solutions](https://ayehigh.com) - Free platform with lots of GenAI Powered Resume Solutions helpful for Analyzing, Rewriting, Grooming and Shortlisting Resumes and help in Career Growth.
 
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 
@@ -1426,10 +1428,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [DronaHQ](https://www.dronahq.com/) — DronaHQ - a low code platform that helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automation, custom admin panels, operational apps 10X faster.
 
 ## [Mar 24, 2023](/content/2023/03/24/README.md)
-
-### APIs, Data, and ML
-
-*   [Exspanse](https://exspanse.com) - MLOPS Platform to build, train and deploy ML models and AI solutions. The free plan allows the creation of unlimited projects, 5Gb of cloud storage, and five docker container images.
 
 ### Code Generation
 
@@ -4386,12 +4384,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
 
-## [Jan 09, 2021](/content/2021/01/09/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [shtab.app](https://shtab.app/) - Project management service that makes collaboration in the office remotely transparent with a tracker based on AI.
-
 ## [Jan 06, 2021](/content/2021/01/06/README.md)
 
 ### IDE and Code Editing
@@ -4894,12 +4886,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.
 
-## [May 30, 2020](/content/2020/05/30/README.md)
-
-### Search
-
-*   [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects.
-
 ## [May 23, 2020](/content/2020/05/23/README.md)
 
 ### APIs, Data, and ML
@@ -4976,10 +4962,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [geocodify.com](https://geocodify.com/) — Geocoding and Geoparsing via API or CSV Upload. 10k free queries/month.
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
-
-### Security and PKI
-
-*   [Virushee](https://virushee.com/) — Privacy-oriented file/data scanning powered by hybrid heuristic and AI-assisted engine. It is possible to use internal dynamic sandbox analysis. Limited to 50MB per file upload
 
 ### Issue Tracking and Project Management
 

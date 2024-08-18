@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Aug 18, 2024](/content/2024/08/18/README.md)
+
+### Tools / Services
+
+*   [CopilotKit (⭐9.3k)](https://github.com/CopilotKit/CopilotKit): A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas ![GitHub Repo stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social)
+
 ## [Aug 17, 2024](/content/2024/08/17/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
