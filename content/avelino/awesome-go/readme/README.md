@@ -65,7 +65,7 @@ We use the *[Golang Bridge (⭐398)](https://github.com/gobridge/about-us/blob/m
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines (⭐126k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐126k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐127k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐127k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 > *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -407,8 +407,8 @@ Please take a quick gander at the [contribution guidelines (⭐126k)](https://gi
 *   [acmd (⭐115)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐601)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐295)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐799)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐301)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐816)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐16)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 *   [cli (⭐728)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
@@ -473,7 +473,7 @@ Please take a quick gander at the [contribution guidelines (⭐126k)](https://gi
 *   [conflate (⭐32)](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 *   [env (⭐4.7k)](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
 *   [env (⭐58)](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs.
-*   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
+*   [env (⭐4)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 *   [envconfig (⭐240)](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 *   [envh (⭐99)](https://github.com/antham/envh) - Helpers to manage environment variables.
 *   [fig (⭐367)](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
@@ -2369,7 +2369,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [raymond (⭐596)](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 *   [Razor (⭐851)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 *   [Soy (⭐171)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
-*   [sprig (⭐4.1k)](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+*   [sprout (⭐71)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 *   [tbd (⭐25)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 *   [templ (⭐7.6k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
@@ -2391,6 +2391,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [commander (⭐224)](https://github.com/SimonBaeumer/commander) - Tool for testing cli applications on windows, linux and osx.
 *   [cupaloy (⭐295)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
 *   [dbcleaner (⭐160)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
+*   [dft (⭐2)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 *   [dsunit (⭐44)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
 *   [embedded-postgres (⭐802)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 *   [endly (⭐262)](https://github.com/viant/endly) - Declarative end to end functional testing.
@@ -2747,7 +2748,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [fzf (⭐63k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐969)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐970)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [gitbatch (⭐1.5k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐115)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.

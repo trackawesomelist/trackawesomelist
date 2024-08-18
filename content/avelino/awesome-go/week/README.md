@@ -60,9 +60,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [luks.go (⭐80)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 
+### Template Engines
+
+*   [sprout (⭐71)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+
 ### Testing Frameworks
 
 *   [arch-go (⭐151)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
+*   [dft (⭐2)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 
 ### Parsers/Encoders/Decoders
 
@@ -147,7 +152,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Configuration
 
-*   [env (⭐3)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
+*   [env (⭐4)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 
 ### Project Layout
 
@@ -2518,8 +2523,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [argparse (⭐601)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐295)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐799)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐301)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐816)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [cli (⭐728)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -3801,7 +3806,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [raymond (⭐596)](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 *   [Razor (⭐851)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 *   [Soy (⭐171)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
-*   [sprig (⭐4.1k)](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 *   [tbd (⭐25)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 
 ### Testing Frameworks
@@ -3953,7 +3957,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fzf (⭐63k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐969)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐970)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 *   [go-astitodo (⭐63)](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 *   [go-bind-plugin (⭐184)](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).

@@ -5,8 +5,8 @@
 
 - [Top Repos](top/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Public Apis](/content/content/public-apis/public-apis/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)

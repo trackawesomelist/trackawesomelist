@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Aug 18, 2024](/content/2024/08/18/README.md)
+
+### Software / Recipe Management
+
+*   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐61)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
+
+### Software / Web Servers
+
+*   [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code (⭐5.4k)](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+
 ## [Aug 11, 2024](/content/2024/08/11/README.md)
 
 ### Software / Web Servers
@@ -48,17 +58,17 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [E-Label](https://filipecarneiro.github.io/ELabel/) - Solution for electronic labels, with QR Codes, on wine bottles sold within the European Union. ([Source Code (⭐11)](https://github.com/filipecarneiro/ELabel)) `MIT` `Docker`
+*   [E-Label](https://filipecarneiro.github.io/ELabel/) - Solution for electronic labels, with QR Codes, on wine bottles sold within the European Union. ([Source Code (⭐12)](https://github.com/filipecarneiro/ELabel)) `MIT` `Docker`
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Meelo (⭐23)](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
+*   [Meelo (⭐28)](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
 
 ## [Jul 17, 2024](/content/2024/07/17/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐2.9k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
+*   [Hoarder App](https://hoarder.app/) - A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.hoarder.app), [Source Code (⭐3.1k)](https://github.com/hoarder-app/hoarder)) `AGPL-3.0` `Docker`
 
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
@@ -497,7 +507,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐7.2k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
+*   [Kestra](https://kestra.io) - Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT. ([Source Code (⭐7.4k)](https://github.com/kestra-io/kestra)) `Apache-2.0` `Docker`
 
 ### Software / Learning and Courses
 
@@ -585,7 +595,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Manufacturing
 
-*   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.2k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
+*   [CNCjs](https://cnc.js.org/) - A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ([Source Code (⭐2.3k)](https://github.com/cncjs/cncjs/)) `MIT` `Nodejs`
 *   [Fluidd](https://docs.fluidd.xyz/) - Lightweight & responsive user interface for Klipper, the 3D printer firmware. ([Source Code (⭐1.4k)](https://github.com/fluidd-core/fluidd)) `GPL-3.0` `Docker/Nodejs`
 *   [Mainsail](https://docs.mainsail.xyz/) - A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ([Source Code (⭐1.6k)](https://github.com/mainsail-crew/mainsail)) `GPL-3.0` `Docker/Python`
 *   [Octoprint](https://octoprint.org/) - A snappy web interface for controlling consumer 3D printers. ([Source Code (⭐8.2k)](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
@@ -937,10 +947,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jun 15, 2023](/content/2023/06/15/README.md)
 
-### Software / Analytics
-
-*   [PoeticMetric](https://www.poeticmetric.com) - Free as in freedom, open source, privacy-first and regulation-compliant web analytics tool. ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code (⭐226)](https://github.com/th0th/poeticmetric)) `AGPL-3.0` `Docker`
-
 ### Software / Polls and Events
 
 *   [Input](https://getinput.co) - A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐172)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
@@ -1230,7 +1236,7 @@ A list of Free Software network services and web applications which can be hoste
 *   [EDA](https://eda.jortilles.com/en/jortilles-english/) - Web application for data analysis and visualization. ([Source Code (⭐112)](https://github.com/jortilles/EDA)) `AGPL-3.0` `Nodejs/Docker`
 *   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code (⭐18k)](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 *   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code (⭐4.4k)](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`
-*   [Metabase](https://metabase.com/) - Easy, open-source way for everyone in your company to ask questions and learn from data. ([Source Code (⭐37k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
+*   [Metabase](https://metabase.com/) - Easy, open-source way for everyone in your company to ask questions and learn from data. ([Source Code (⭐38k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
 *   [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐852)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 *   [Open Web Analytics](http://www.openwebanalytics.com/) - Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ([Source Code (⭐2.4k)](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) `GPL-2.0` `PHP`
 *   [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code (⭐19k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
@@ -2908,7 +2914,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
 *   [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐864)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
-*   [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code (⭐29)](https://github.com/eprints/eprints3.4)) `GPL-3.0` `Perl`
+*   [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code (⭐31)](https://github.com/eprints/eprints3.4)) `GPL-3.0` `Perl`
 
 ### Software / Feed Readers
 

@@ -21,6 +21,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Symfony HTML Sanitizer (⭐231)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 *   [Valinor (⭐1.3k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 
+### Configuration / Miscellaneous
+
+*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+
 ### Configuration / PHP Installation
 
 *   [Static PHP CLI (⭐1.2k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
@@ -1602,7 +1606,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [ClassPreloader (⭐361)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-*   [SuperClosure (⭐1.7k)](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
