@@ -8,6 +8,11 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [rose-pine-man (⭐3)](https://github.com/const-void/rose-pine-man) - Colorizes `man` pages.
+*   [snr (⭐0)](https://github.com/raisedadead/zsh-snr) - Passes the selected output of the first command to the next.
+
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [chezmoi (⭐0)](https://github.com/mass8326/zsh-chezmoi) - Adds completions and aliases for [chezmoi](https://www.chezmoi.io/). Detects if you have `git` aliases and generates `chezmoi` aliases for them.
@@ -1125,7 +1130,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bat (⭐10)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐48k)](https://github.com/sharkdp/bat) users.
-*   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) - Remaps vi-mode for the French bépo keyboard.
+*   [bepoptimist (⭐1)](https://github.com/sheoak/zsh-bepoptimist/) Remaps vi-mode for the French [bépo](http://bepo.fr/wiki/Accueil) keyboard.
 *   [shell-fns (⭐2)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
+
+### Other Free Resources
+
+*   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### APIs, Data, and ML

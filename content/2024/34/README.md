@@ -1,12 +1,65 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2024
 
-10 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+
+### Audio / AI Voice Cloning
+
+*   [Descript Overdub](https://www.descript.com/overdub) - [Review](https://theresanai.com/descript-overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
+*   [Respeecher](https://www.respeecher.com/) - [Review](https://theresanai.com/respeecher) -  A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
+*   [ElevenLabs](https://elevenlabs.io/) - [Review](https://theresanai.com/elevenlabs) - Known for ultra-realistic voice cloning and emotion modeling, setting a new standard in AI-driven voice synthesis.
+*   [Murf AI](https://murf.ai/) - [Review](https://theresanai.com/murf) - User-friendly platform for quick, high-quality voiceovers, favored for commercial and marketing applications.
+*   [iSpeech](https://www.ispeech.org/) - [Review](https://theresanai.com/ispeech) - A versatile solution for corporate applications with support for a wide array of languages and voices.
+*   [Veritone Voice](https://www.veritone.com/solutions/voice/) - [Review](https://theresanai.com/veritone-voice) - Focuses on maintaining brand consistency with highly customizable voice cloning used in media and entertainment.
+*   [Microsoft Azure Neural TTS](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - Review - Scalable and highly customizable, ideal for integration into enterprise applications.
+*   [WellSaid Labs](https://www.wellsaidlabs.com/) - [Review](https://theresanai.com/wellsaid-labs) - Gaining traction for its natural-sounding voiceovers, particularly in corporate training and e-learning.
+*   [Lovo.ai](https://www.lovo.ai/) - [Review](https://theresanai.com/lovo-ai) - A compelling choice for creative professionals, especially useful in ads and explainer videos.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [Narwhals (⭐304)](https://github.com/narwhals-dev/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@narwhals-dev](https://github.com/narwhals-dev).
+*   [photoshoot (⭐2)](https://github.com/ngriffiths13/photoshoot) - A pytest plugin library for doing snapshot testing with Polars DataFrames by [@ngriffiths13](https://github.com/ngriffiths13).
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+## [4. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+
+### Downloaders
+
+*   [waifuc (⭐236)](https://github.com/deepghs/waifuc) - Anime image data collector for training models. \[English]
+
+### Image Processing
+
+*   [imgutils (⭐154)](https://github.com/deepghs/imgutils) - Image processing library with various anime-style image processing models. \[English]
+
+### Developer Groups
+
+*   DeepGHS ([GitHub](https://github.com/deepghs) / [Hugging Face](https://huggingface.co/deepghs)) \[English]
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Other Free Resources
+
+*   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
+
+## [6. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### 3D / Godot 4.3
+
+*   [OpenLiberty (⭐68)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+
+## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
 
@@ -60,7 +113,7 @@
 
 *   [Azure ML Prompt flow](https://microsoft.github.io/promptflow/index.html): A set of LLMOps tools designed to facilitate the creation of LLM-based AI applications \[Sep 2023] > [How to Evaluate & Upgrade Model Versions in the Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/how-to-evaluate-amp-upgrade-model-versions-in-the-azure-openai/ba-p/4218880) \[14 Aug 2024]
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -85,13 +138,13 @@
 
 *   [mevn-boilerplate (⭐145)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
-## [3. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [audio-katas (⭐53)](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -113,7 +166,7 @@
 
 *   [vite-plugin-typo3 (⭐2)](https://github.com/s2b/vite-plugin-typo3) - Frontend integration for TYPO3 CMS.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Parsing html / Isomorphic web frameworks
 
@@ -121,7 +174,7 @@
     *   a port of the Python library html5lib.
     *   compared to Plump: Plump is a mix of an XML and an HTML parser and breaks on some HTML rules ([example (⭐119)](https://github.com/Shinmera/plump/issues/50]), while cl-html5-parser is a fully compliant HTML parser.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Computation
 
@@ -133,13 +186,13 @@
 
 *   [arthurhenrique/rusti-cal (⭐52)](https://github.com/arthurhenrique/rusti-cal) \[[rusti-cal](https://crates.io/crates/rusti-cal)] - A cal(1) clone lightning-fast \~ more than 9999 years \~ Written in Rust.
 
-## [7. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [13. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -149,13 +202,18 @@
 
 *   [angular-odata (⭐47)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [15. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [Gluetun VPN client (⭐7.1k)](https://github.com/qdm12/gluetun) -  VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.  `MIT` `docker`
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [rose-pine-man (⭐3)](https://github.com/const-void/rose-pine-man) - Colorizes `man` pages.
+*   [snr (⭐0)](https://github.com/raisedadead/zsh-snr) - Passes the selected output of the first command to the next.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
