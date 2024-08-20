@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 20, 2024](/content/2024/08/20/README.md)
+
+### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
+
+*   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
+
 ## [Aug 19, 2024](/content/2024/08/19/README.md)
 
 ### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
@@ -1697,7 +1703,7 @@
     Camel Agents - a Hugging Face Space by camel-ai
     [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
 *   [ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) \[Sep 2023]
-*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
+*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer. Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
 *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
 
 ### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**

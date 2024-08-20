@@ -2071,6 +2071,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     *   Very Simple LangChain example using Open AI: [langchain-ask-pdf (⭐588)](https://github.com/alejandro-ao/langchain-ask-pdf) \[Apr 2023]
     *   [marvin (⭐5.1k)](https://github.com/PrefectHQ/marvin): a lightweight AI toolkit for building natural language interfaces. \[Mar 2023]
     *   [langfuse (⭐5.2k)](https://github.com/langfuse/langfuse): Traces, evals, prompt management and metrics to debug and improve your LLM application. \[May 2023]
+    *   [mindsdb (⭐26k)](https://github.com/mindsdb/mindsdb): The open-source virtual database for building AI from enterprise data. It supports SQL syntax for development and deployment, with over 70 technology and data integrations. \[Aug 2018]
 *   Agent Applications & LLMOps
     *   Agent Applications and Libraries: [X-ref](#agent-applications-and-libraries)
     *   OSS Alternatives for OpenAI Code Interpreter: [X-ref](#oss-alternatives-for-openai-code-interpreter-aka-advanced-data-analytics)
@@ -2133,7 +2134,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     Camel Agents - a Hugging Face Space by camel-ai
     [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
 *   [ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) \[Sep 2023]
-*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
+*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer. Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
 *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
 *   [SeeAct](https://osu-nlp-group.github.io/SeeAct): GPT-4V(ision) is a Generalist Web Agent, if Grounded \[Jan 2024]
 *   [Qwen-Agent (⭐2.9k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
@@ -2146,6 +2147,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [PR-Agent (⭐5.2k)](https://github.com/Codium-ai/pr-agent): Efficient code review and handle pull requests, by providing AI feedbacks and suggestions \[Jan 2023]
 *   [composio (⭐4.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
 *   [SakanaAI AI-Scientist (⭐4.5k)](https://github.com/SakanaAI/AI-Scientist): Towards Fully Automated Open-Ended Scientific Discovery \[Aug 2024]
+*   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
 
 #### **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 

@@ -51,6 +51,7 @@
 ### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
 
 *   [SakanaAI AI-Scientist (⭐4.5k)](https://github.com/SakanaAI/AI-Scientist): Towards Fully Automated Open-Ended Scientific Discovery \[Aug 2024]
+*   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
 
 ### **Caching** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -1662,7 +1663,7 @@
     Camel Agents - a Hugging Face Space by camel-ai
     [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
 *   [ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) \[Sep 2023]
-*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
+*   [GPT Pilot (⭐29k)](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer. Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
 *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
 
 ### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
