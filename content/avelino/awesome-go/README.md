@@ -6,6 +6,19 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 21, 2024](/content/2024/08/21/README.md)
+
+### Actor Model
+
+*   [Ergo (⭐2.7k)](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+*   [Goakt (⭐79)](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
+*   [Hollywood (⭐1.1k)](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+*   [ProtoActor (⭐5k)](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+
+### Artificial Intelligence
+
+*   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
+
 ## [Aug 18, 2024](/content/2024/08/18/README.md)
 
 ### Template Engines

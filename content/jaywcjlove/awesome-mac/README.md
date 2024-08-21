@@ -8,6 +8,10 @@
 
 ## [Aug 21, 2024](/content/2024/08/21/README.md)
 
+### Reading and Writing Tools / Markdown Tools
+
+*   [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
+
 ### Communication / Collaboration and Team Tools
 
 *   [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.

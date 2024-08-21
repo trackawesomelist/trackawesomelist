@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
+### Applications / Utilities
+
+*   [dcapal (⭐52)](https://github.com/dcapal/dcapal) - DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.
+
 ### Libraries / Computation
 
 *   Science

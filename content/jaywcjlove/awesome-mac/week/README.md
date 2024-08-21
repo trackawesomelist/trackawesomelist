@@ -8,6 +8,10 @@
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
+### Reading and Writing Tools / Markdown Tools
+
+*   [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
+
 ### Design and Product / Design Tools
 
 *   [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor for Mac.

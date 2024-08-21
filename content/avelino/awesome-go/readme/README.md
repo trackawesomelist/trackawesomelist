@@ -73,6 +73,7 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 
 *   [Awesome Go](#awesome-go)
     *   [Contents](#contents)
+    *   [Actor Model](#actor-model)
     *   [Artificial Intelligence](#artificial-intelligence)
     *   [Audio and Music](#audio-and-music)
     *   [Authentication and OAuth](#authentication-and-oauth)
@@ -218,10 +219,20 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 
 **[⬆ back to top](#contents)**
 
+## Actor Model
+
+*Libraries for building actor-based programs.*
+
+*   [Ergo (⭐2.7k)](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+*   [Goakt (⭐79)](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
+*   [Hollywood (⭐1.1k)](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+*   [ProtoActor (⭐5k)](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+
 ## Artificial Intelligence
 
 *Libraries for building programs that leverage AI.*
 
+*   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 *   [langchaingo (⭐4k)](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
 *   [LocalAI (⭐22k)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 *   [Ollama (⭐84k)](https://github.com/jmorganca/ollama) - Run large language models locally.

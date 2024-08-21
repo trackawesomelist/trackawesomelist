@@ -113,7 +113,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   <details>
 
-    <summary>Expand</summary>
+    <summary>Expand: Benchmarking Large Language Models in Retrieval-Augmented Generation</summary>
 
     1.  Noise robustness (External documents contain noises, struggled with noise above 80%)
 
@@ -125,7 +125,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
     </details>
 
-*   <details>
+*   <details open>
 
     <summary>Expand: Research Papers</summary>
 
@@ -154,28 +154,17 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     1.  Indexing Stage: Preparing a knowledge base.
     2.  Querying Stage: Querying the indexed data to retrieve relevant information.
     3.  Responding Stage: Generating responses based on the retrieved information. [ref](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation)
-
 *   How to optimize RAG pipeline: [Indexing optimization](https://newsletter.theaiedge.io/p/how-to-optimize-your-rag-pipelines) \[24 Oct 2023]
-
 *   Advanced RAG Patterns: How to improve RAG peformance [ref](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patterns-part1-841faad8b3c2) / [ref](https://cloudatlas.me/how-to-improve-rag-peformance-advanced-rag-patterns-part2-0c84e2df66e6) \[17 Oct 2023]
-
     1.  Data quality: Clean, standardize, deduplicate, segment, annotate, augment, and update data to make it clear, consistent, and context-rich.
     2.  Embeddings fine-tuning: Fine-tune embeddings to domain specifics, adjust them according to context, and refresh them periodically to capture evolving semantics.
     3.  Retrieval optimization: Refine chunking, embed metadata, use query routing, multi-vector retrieval, re-ranking, hybrid search, recursive retrieval, query engine, [HyDE](https://arxiv.org/abs/2212.10496) \[20 Dec 2022], and vector search algorithms to improve retrieval efficiency and relevance.
     4.  Synthesis techniques: Query transformations, prompt templating, prompt conditioning, function calling, and fine-tuning the generator to refine the generation step.
-
     *   HyDE: Implemented in [LangChain: HypotheticalDocumentEmbedder (⭐91k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
-
 *   Demystifying Advanced RAG Pipelines: An LLM-powered advanced RAG pipeline built from scratch [git (⭐776)](https://github.com/pchunduri6/rag-demystified) \[19 Oct 2023]
-
 *   [9 Effective Techniques To Boost Retrieval Augmented Generation (RAG) Systems](https://towardsdatascience.com/9-effective-techniques-to-boost-retrieval-augmented-generation-rag-systems-210ace375049) [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/9-effective-rag-techniques.png): ReRank, Prompt Compression, Hypothetical Document Embedding (HyDE), Query Rewrite and Expansion, Enhance Data Quality, Optimize Index Structure, Add Metadata, Align Query with Documents, Mixed Retrieval (Hybrid Search) \[2 Jan 2024]
-
-*   [cite](https://twitter.com/yi_ding/status/1721728060876300461) \[7 Nov 2023] `OpenAI has put together a pretty good roadmap for building a production RAG system.` Naive RAG -> Tune Chunks -> Rerank & Classify -> Prompt Engineering. In `llama_index`... [Youtube](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/oai-rag-success-story.jpg" width="500">
-
+*   [cite](https://twitter.com/yi_ding/status/1721728060876300461) \[7 Nov 2023] `OpenAI has put together a pretty good roadmap for building a production RAG system.` Naive RAG -> Tune Chunks -> Rerank & Classify -> Prompt Engineering. In `llama_index`... [Youtube](https://www.youtube.com/watch?v=ahnGLM-RC1Y)  <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/oai-rag-success-story.jpg" width="500">
 *   [Graph RAG](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
-
 *   [Evaluation with Ragas](https://towardsdatascience.com/visualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557): UMAP (often used to reduce the dimensionality of embeddings) with Ragas metrics for visualizing RAG results. \[Mar 2024] / `Ragas provides metrics`: Context Precision, Context Relevancy, Context Recall, Faithfulness, Answer Relevance, Answer Semantic Similarity, Answer Correctness, Aspect Critique [git (⭐6.2k)](https://github.com/explodinggradients/ragas) \[May 2023]
 
 ### **The Problem with RAG**
@@ -184,12 +173,8 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     1.  A question is not semantically similar to its answers. Cosine similarity may favor semantically similar texts that do not contain the answer.
     2.  Semantic similarity gets diluted if the document is too long. Cosine similarity may favor short documents with only the relevant information.
     3.  The information needs to be contained in one or a few documents. Information that requires aggregations by scanning the whole data.
-
 *   [Seven Failure Points When Engineering a Retrieval Augmented Generation System](https://arxiv.org/abs/2401.05856): 1. Missing Content, 2. Missed the Top Ranked Documents, 3. Not in Context, 4. Not Extracted, 5. Wrong Format, 6. Incorrect Specificity, 7. Lack of Thorough Testing \[11 Jan 2024]
-
-*   Solving the core challenges of Retrieval-Augmented Generation [ref](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c) \[Feb 2024]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rag-12-pain-points-solutions.jpg" width="500">
+*   Solving the core challenges of Retrieval-Augmented Generation [ref](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c) \[Feb 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rag-12-pain-points-solutions.jpg" width="500">
 
 ### **RAG Solution Design & Application**
 
@@ -247,7 +232,6 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   LlamaIndex Toolkits: `LlamaHub`: A library of data loaders for LLMs [git (⭐3.4k)](https://github.com/run-llama/llama-hub) \[Feb 2023] / `LlamaIndex CLI`: a command line tool to generate LlamaIndex apps [ref](https://llama-2.ai/llamaindex-cli/) \[Nov 2023] / `LlamaParse`: A unique parsing tool for intricate documents [git (⭐2.3k)](https://github.com/run-llama/llama_parse) \[Feb 2024]
 
     <details>
-
       <summary>High-Level Concepts</summary>
 
     *   Query engine vs Chat engine
@@ -310,27 +294,24 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   [Chat engine ReAct mode](https://gpt-index.readthedocs.io/en/stable/examples/chat_engine/chat_engine_react.html), [FLARE Query engine](https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine.html)
 *   Multimodal RAG Pipeline [ref](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea) \[Nov 2023]
-*   From Simple to Advanced RAG [ref](https://twitter.com/jerryjliu0/status/1711419232314065288) \[10 Oct 2023]
+*   From Simple to Advanced RAG [ref](https://twitter.com/jerryjliu0/status/1711419232314065288) \[10 Oct 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/advanced-rag.png" width="430">
+*   [Building and Productionizing RAG](https://docs.google.com/presentation/d/1rFQ0hPyYja3HKRdGEgjeDxr0MSE8wiQ2iu4mDtwR6fc/edit#slide=id.p): [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/archive/LlamaIndexTalk_PyDataGlobal.pdf): Optimizing RAG Systems 1. Table Stakes 2. Advanced Retrieval: Small-to-Big 3. Agents 4. Fine-Tuning 5. Evaluation \[Nov 2023]
+*   [A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b) RAG cheat sheet shared above was inspired by [RAG survey paper](https://arxiv.org/abs/2312.10997). [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/advanced-rag-diagram-llama-index.png) \[Jan 2024]
+*   [Fine-Tuning a Linear Adapter for Any Embedding Model](https://medium.com/llamaindex-blog/fine-tuning-a-linear-adapter-for-any-embedding-model-8dd0a142d383): Fine-tuning the embeddings model requires you to reindex your documents. With this approach, you do not need to re-embed your documents. Simply transform the query instead. \[7 Sep 2023]
+*   4 RAG techniques implemented in [llama\_index (⭐34k)](https://github.com/jerryjliu/llama_index) / [cite](https://x.com/ecardenas300/status/1704188276565795079) \[20 Sep 2023] / [git (⭐432)](https://github.com/weaviate/recipes/tree/main/integrations/llamaindex)
 
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/advanced-rag.png" width="430">
+<details>
+<summary>Expand: 4 RAG techniques</summary>
 
-    *   [Building and Productionizing RAG](https://docs.google.com/presentation/d/1rFQ0hPyYja3HKRdGEgjeDxr0MSE8wiQ2iu4mDtwR6fc/edit#slide=id.p): [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/archive/LlamaIndexTalk_PyDataGlobal.pdf): Optimizing RAG Systems 1. Table Stakes 2. Advanced Retrieval: Small-to-Big 3. Agents 4. Fine-Tuning 5. Evaluation \[Nov 2023]
-    *   [A Cheat Sheet and Some Recipes For Building Advanced RAG](https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b) RAG cheat sheet shared above was inspired by [RAG survey paper](https://arxiv.org/abs/2312.10997). [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/advanced-rag-diagram-llama-index.png) \[Jan 2024]
-    *   [Fine-Tuning a Linear Adapter for Any Embedding Model](https://medium.com/llamaindex-blog/fine-tuning-a-linear-adapter-for-any-embedding-model-8dd0a142d383): Fine-tuning the embeddings model requires you to reindex your documents. With this approach, you do not need to re-embed your documents. Simply transform the query instead. \[7 Sep 2023]
-    *   4 RAG techniques implemented in [llama\_index (⭐34k)](https://github.com/jerryjliu/llama_index) / [cite](https://x.com/ecardenas300/status/1704188276565795079) \[20 Sep 2023] / [git (⭐432)](https://github.com/weaviate/recipes/tree/main/integrations/llamaindex)
+1.  SQL Router Query Engine: Query router that can reference your vector database or SQL database
 
-        <details>
-        <summary>Expand</summary>
+2.  Sub Question Query Engine: Break down the complex question into sub-questions
 
-        1.  SQL Router Query Engine: Query router that can reference your vector database or SQL database
+3.  Recursive Retriever + Query Engine: Reference node relationships, rather than only finding a node (chunk) that is most relevant.
 
-        2.  Sub Question Query Engine: Break down the complex question into sub-questions
+4.  Self Correcting Query Engines: Use an LLM to evaluate its own output.
 
-        3.  Recursive Retriever + Query Engine: Reference node relationships, rather than only finding a node (chunk) that is most relevant.
-
-        4.  Self Correcting Query Engines: Use an LLM to evaluate its own output.
-
-        </details>
+</details>
 
 ### **Vector Database Comparison**
 
@@ -524,14 +505,16 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **Azure Reference Architectures**
 
-|                                                                                                                                                                           |                                                                                                                               |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|                               [Azure OpenAI Embeddings QnA (⭐44)](https://github.com/Azure-Samples/azure-open-ai-embeddings-qna) \[Apr 2023]                              |       [Azure Cosmos DB + OpenAI ChatGPT (⭐252)](https://github.com/Azure-Samples/cosmosdb-chatgpt) C# blazor \[Mar 2023]      |
-|                <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-architecture.png" alt="embeddin_azure_csharp" width="200"/>               |   <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cosmos-gpt.png" alt="gpt-cosmos" width="200"/>  |
-| [C# Implementation (⭐572)](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search \[Apr 2023] |  [Simple ChatGPT UI application (⭐116)](https://github.com/Azure/openai-at-scale) Typescript, ReactJs and Flask  \[Apr 2023]  |
-|            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-architecture-csharp2.png" alt="embeddin_azure_csharp" width="200"/>           |   <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen.png" alt="gpt-cosmos" width="200"/>  |
-|                                      [Azure Video Indexer demo](https://aka.ms/viopenaidemo) Azure Video Indexer + OpenAI \[Apr 2023]                                     | [Miyagi (⭐713)](https://github.com/Azure-Samples/miyagi) Integration demonstrate for multiple langchain libraries \[Feb 2023] |
-|                  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-videoindexer.png" alt="demo-videoindexer" width="200"/>                 |     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/wip-azure.png" alt="miyagi" width="200"/>     |
+|                                                                                                                                                                           |                                                                                                                                            |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+|                               [Azure OpenAI Embeddings QnA (⭐44)](https://github.com/Azure-Samples/azure-open-ai-embeddings-qna) \[Apr 2023]                              |             [Azure Cosmos DB + OpenAI ChatGPT (⭐252)](https://github.com/Azure-Samples/cosmosdb-chatgpt) C# blazor \[Mar 2023]             |
+|                <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-architecture.png" alt="embeddin_azure_csharp" width="200"/>               |         <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cosmos-gpt.png" alt="gpt-cosmos" width="200"/>         |
+| [C# Implementation (⭐572)](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search \[Apr 2023] |         [Simple ChatGPT UI application (⭐116)](https://github.com/Azure/openai-at-scale) Typescript, ReactJs and Flask  \[Apr 2023]        |
+|            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-architecture-csharp2.png" alt="embeddin_azure_csharp" width="200"/>           |         <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen.png" alt="gpt-cosmos" width="200"/>         |
+|                                      [Azure Video Indexer demo](https://aka.ms/viopenaidemo) Azure Video Indexer + OpenAI \[Apr 2023]                                     |        [Miyagi (⭐713)](https://github.com/Azure-Samples/miyagi) Integration demonstrate for multiple langchain libraries \[Feb 2023]       |
+|                  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-videoindexer.png" alt="demo-videoindexer" width="200"/>                 |            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/wip-azure.png" alt="miyagi" width="200"/>           |
+|              [ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) (⭐5.8k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]              | [Chat with your data - Solution accelerator (⭐727)](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) \[Jun 2023] |
+|                    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen2.png" alt="demo-videoindexer" height="130"/>                    |          <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cwyd-solution-architecture.png" width="200"/>         |
 
 *   Referece Application and Architecture
     *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
@@ -544,6 +527,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
     *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
     *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
+    *   [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137) \[20 Aug 2024]
 
 *   Azure OpenAI Accelerator
     *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐316)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
@@ -599,10 +583,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 <!-- - azure-search-vector-sample\azure-search-vector-python-sample.ipynb: Vector and Hybrid Search -->
 
-*   A set of capabilities designed to improve relevance in these scenarios. We use a combination of hybrid retrieval (vector search + keyword search) + semantic ranking as the most effective approach for improved relevance out-of–the-box. `TL;DR: Retrieval Performance; Hybrid search + Semantic rank > Hybrid search > Vector only search > Keyword only` [ref](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-outperforming-vector-search-with-hybrid/ba-p/3929167) \[18 Sep 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files\acs-hybrid.png" alt="acs" width="350"/>
-
+*   A set of capabilities designed to improve relevance in these scenarios. We use a combination of hybrid retrieval (vector search + keyword search) + semantic ranking as the most effective approach for improved relevance out-of–the-box. `TL;DR: Retrieval Performance; Hybrid search + Semantic rank > Hybrid search > Vector only search > Keyword only` [ref](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-outperforming-vector-search-with-hybrid/ba-p/3929167) \[18 Sep 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files\acs-hybrid.png" alt="acs" width="300"/>
 *   Hybrid search using Reciprocal Rank Fusion (RRF): Reciprocal Rank Fusion (RRF) is an algorithm that evaluates the search scores from multiple, previously ranked results to produce a unified result set. In Azure Cognitive Search, RRF is used whenever there are two or more queries that execute in parallel. [ref](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking)
 
 ### **Azure Enterprise Services**
@@ -647,7 +628,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   Semantic Kernel Planner [ref](https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-planners-actionplanner/) \[24 Jul 2023]
 
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files\sk-evolution_of_planners.jpg" alt="sk-plan" width="390"/>
+    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files\sk-evolution_of_planners.jpg" alt="sk-plan" width="300"/>
 
 *   Is Semantic Kernel Planner the same as LangChain agents?
 
@@ -704,10 +685,10 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     | Steps     | A plan is a series of steps for the kernel to execute                                                                                                                                                                                                                                                 |
     | Pipeline  | Executing the steps results in fulfilling the user's ASK                                                                                                                                                                                                                                              |
 *   [Architecting AI Apps with Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/architecting-ai-apps-with-semantic-kernel/) How you could recreate Microsoft Word Copilot \[6 Mar 2024]
-      <details>
-        <summary>Expand</summary>
-        <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/semantic-kernel-with-word-copilot.png">
-      <details>
+    <details open>
+      <summary>Expand</summary>
+      <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/semantic-kernel-with-word-copilot.png" height="500">
+    </details>
 
 ### **DSPy**
 
@@ -1092,7 +1073,9 @@ class AgentType(str, Enum):
 
 ### **Finetuning**
 
-PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) \[24 Apr 2023]
+#### LLM Pre-training and Post-training Paradigms [X-ref](#large-language-models-in-2023)
+
+#### PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) \[24 Apr 2023]
 
 *   [PEFT](https://huggingface.co/blog/peft): Parameter-Efficient Fine-Tuning. PEFT is an approach to fine tuning only a few parameters. \[10 Feb 2023]
 
@@ -1145,7 +1128,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
      <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/LoRA.png" alt="LoRA" width="390"/>
 
-    <details>
+    <details open>
 
     <summary>Expand: LoRA Family</summary>
 
@@ -1169,7 +1152,6 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [LoRA learns less and forgets less](https://arxiv.org/abs/2405.09673): Compared to full training, LoRA has less learning but better retention of original knowledge. \[15 May 2024]
 
 *   [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) \[19 Nov 2023]: Best practical guide of LoRA.
-
     1.  QLoRA saves 33% memory but increases runtime by 39%, useful if GPU memory is a constraint.
     2.  Optimizer choice for LLM finetuning isn’t crucial. Adam optimizer’s memory-intensity doesn’t significantly impact LLM’s peak memory.
     3.  Apply LoRA across all layers for maximum performance.
@@ -1221,16 +1203,13 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
     </details>
 
-*   <details>
+*   <details open>
 
     <summary>Expand: LongLoRA</summary>
 
     1.  [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.12307)]: A combination of sparse local attention and LoRA [git (⭐2.6k)](https://github.com/dvlab-research/LongLoRA) \[21 Sep 2023]
 
-    *   Key Takeaways from LongLora
-
-        <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/longlora.png" alt="long-lora"/>
-
+    *   Key Takeaways from LongLora <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/longlora.png" alt="long-lora" width="350"/>
         1.  The document states that LoRA alone is not sufficient for long context extension.
 
         2.  Although dense global attention is needed during inference, fine-tuning the model can be done by sparse local attention, shift short attention (S2-Attn).
@@ -1243,9 +1222,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
 #### **Llama Finetuning**
 
-*   A key difference between [Llama 1](https://arxiv.org/abs/2302.13971): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.13971)] \[27 Feb 2023] and [Llama 2](https://arxiv.org/abs/2307.09288): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09288)] \[18 Jul 2023] is the architectural change of attention layer, in which Llama 2 takes advantage of Grouped Query Attention (GQA) mechanism to improve efficiency. [x-ref](#open-source-large-language-models)
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/grp-attn.png" alt="llm-grp-attn" width="400"/>
+*   A key difference between [Llama 1](https://arxiv.org/abs/2302.13971): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2302.13971)] \[27 Feb 2023] and [Llama 2](https://arxiv.org/abs/2307.09288): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.09288)] \[18 Jul 2023] is the architectural change of attention layer, in which Llama 2 takes advantage of Grouped Query Attention (GQA) mechanism to improve efficiency. [x-ref](#open-source-large-language-models) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/grp-attn.png" alt="llm-grp-attn" width="400"/>
 
 *   [Multi-query attention (MQA)](https://arxiv.org/abs/2305.13245): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.13245)] \[22 May 2023]
 
@@ -1253,7 +1230,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 
     <details>
 
-    <summary>Coding LLaMA 2: KV Cache, Grouped Query Attention, Rotary PE</summary>
+    <summary>Expand: KV Cache, Grouped Query Attention, Rotary PE</summary>
 
     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llama2.png" width="300" />
 
@@ -1313,43 +1290,19 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 ### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)**
 
 *   Machine learning technique that trains a "reward model" directly from human feedback and uses the model as a reward function to optimize an agent's policy using reinforcement learning.
-
-*   [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2203.02155)] is a model trained by OpenAI to follow instructions using human feedback. \[4 Mar 2022]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf.png" width="400" />
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf2.png" width="400" />
-
+*   [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2203.02155)] is a model trained by OpenAI to follow instructions using human feedback. \[4 Mar 2022] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf.png" width="400" /> <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf2.png" width="400" /> <br/>
     [cite](https://docs.argilla.io/)
-
-*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html)
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" />
-
+*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" />
     <!-- [SFTTrainer](https://huggingface.co/docs/trl/main/en/trainer#trl.SFTTrainer) from TRL -->
-
-    TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" />
-
+    TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" /> <br/>
     The three steps in the process: 1. pre-training on large web-scale data, 2. supervised fine-tuning on instruction data (instruction tuning), and 3. RLHF. [ref](https://aman.ai/primers/ai/RLHF/) \[ⓒ 2023]
-
-*   `Supervised Fine-Tuning (SFT)` fine-tuning a pre-trained model on a specific task or domain using labeled data. This can cause more significant shifts in the model’s behavior compared to RLHF.
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rlhf-dpo.png" width="400" />
-
+*   `Supervised Fine-Tuning (SFT)` fine-tuning a pre-trained model on a specific task or domain using labeled data. This can cause more significant shifts in the model’s behavior compared to RLHF. <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rlhf-dpo.png" width="400" />
 *   [Reinforcement Learning from Human Feedback (RLHF)](https://arxiv.org/abs/1909.08593)) is a process of pretraining and retraining a language model using human feedback to develop a scoring algorithm that can be reapplied at scale for future training and refinement. As the algorithm is refined to match the human-provided grading, direct human feedback is no longer needed, and the language model continues learning and improving using algorithmic grading alone. \[18 Sep 2019] [ref](https://huggingface.co/blog/rlhf) \[9 Dec 2022]
     *   `Proximal Policy Optimization (PPO)` is a reinforcement learning method using first-order optimization. It modifies the objective function to penalize large policy changes, specifically those that move the probability ratio away from 1. Aiming for TRPO (Trust Region Policy Optimization)-level performance without its complexity which requires second-order optimization.
-
 *   [Direct Preference Optimization (DPO)](https://arxiv.org/abs/2305.18290): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.18290)]: 1. RLHF can be complex because it requires fitting a reward model and performing significant hyperparameter tuning. On the other hand, DPO directly solves a classification problem on human preference data in just one stage of policy training. DPO more stable, efficient, and computationally lighter than RLHF. 2. `Your Language Model Is Secretly a Reward Model`  \[29 May 2023]
     *   Direct Preference Optimization (DPO) uses two models: a trained model (or policy model) and a reference model (copy of trained model). The goal is to have the trained model output higher probabilities for preferred answers and lower probabilities for rejected answers compared to the reference model.  [ref](https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac): RHLF vs DPO \[Jan 2, 2024] / [ref](https://pakhapoomsarapat.medium.com/forget-rlhf-because-dpo-is-what-you-actually-need-f10ce82c9b95) \[1 Jul 2023]
-
-*   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐395)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
-
+*   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐395)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
 *   [Reinforcement Learning from AI Feedback (RLAF)](https://arxiv.org/abs/2309.00267): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.00267)]: Uses AI feedback to generate instructions for the model. TLDR: CoT (Chain-of-Thought, Improved), Few-shot (Not improved). Only explores the task of summarization. After training on a few thousand examples, performance is close to training on the full dataset. RLAIF vs RLHF: In many cases, the two policies produced similar summaries. \[1 Sep 2023]
-
 *   OpenAI Spinning Up in Deep RL!: An educational resource to help anyone learn deep reinforcement learning. [git (⭐9.9k)](https://github.com/openai/spinningup) \[Nov 2018]
 
 ## **Model Compression for Large Language Models**
@@ -1533,51 +1486,29 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [5 Approaches To Solve LLM Token Limits](https://dholmes.co.uk/blog/5-approaches-to-solve-llm-token-limits/) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/token-limits-5-approaches.pdf) \[2023]
 *   [Byte-Pair Encoding (BPE)](https://arxiv.org/abs/1508.07909): P.2015. The most widely used tokenization algorithm for text today. BPE adds an end token to words, splits them into characters, and merges frequent byte pairs iteratively until a stop criterion. The final tokens form the vocabulary for new data encoding and decoding. \[31 Aug 2015] / [ref](https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0) \[13 Aug 2021]
 *   [Tokencost (⭐1.4k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
-*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
+*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
 
 ### **Trustworthy, Safe and Secure LLM**
 
 *   [NeMo Guardrails (⭐3.9k)](https://github.com/NVIDIA/NeMo-Guardrails): Building Trustworthy, Safe and Secure LLM Conversational Systems \[Apr 2023]
-
 *   [Trustworthy LLMs](https://arxiv.org/abs/2308.05374): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.05374)]: Comprehensive overview for assessing LLM trustworthiness; Reliability, safety, fairness, resistance to misuse, explainability and reasoning, adherence to social norms, and robustness. \[10 Aug 2023]
-
     <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-trustworthiness.png" width="450"> -->
-
-*   [Political biases of LLMs](https://arxiv.org/abs/2305.08283): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.08283)]: From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models. \[15 May 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/political-llm.png" width="450">
-
+*   [Political biases of LLMs](https://arxiv.org/abs/2305.08283): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.08283)]: From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models. \[15 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/political-llm.png" width="450">
 *   Red Teaming: The term red teaming has historically described systematic adversarial attacks for testing security vulnerabilities. LLM red teamers should be a mix of people with diverse social and professional backgrounds, demographic groups, and interdisciplinary expertise that fits the deployment context of your AI system. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
-
 *   [The Foundation Model Transparency Index](https://arxiv.org/abs/2310.12941): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.12941)]: A comprehensive assessment of the transparency of foundation model developers [ref](https://crfm.stanford.edu/fmti/) \[19 Oct 2023]
-
 *   [Hallucinations](https://arxiv.org/abs/2311.05232): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2311.05232)]: A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions \[9 Nov 2023]
-
 *   [Hallucination Leaderboard (⭐1.1k)](https://github.com/vectara/hallucination-leaderboard/): Evaluate how often an LLM introduces hallucinations when summarizing a document. \[Nov 2023]
-
 *   [OpenAI Weak-to-strong generalization](https://arxiv.org/abs/2312.09390): In the superalignment problem, humans must supervise models that are much smarter than them. The paper discusses supervising a GPT-4 or 3.5-level model using a GPT-2-level model. It finds that while strong models supervised by weak models can outperform the weak models, they still don’t perform as well as when supervised by ground truth. [git (⭐2.5k)](https://github.com/openai/weak-to-strong) \[14 Dec 2023]
-
 *   [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/abs/2401.01313): A compre
     hensive survey of over thirty-two techniques developed to mitigate hallucination in LLMs \[2 Jan 2024]
-
 *   [Anthropic Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking): simple long-context attack, Bypassing safety guardrails by bombarding them with unsafe or harmful questions and answers. \[3 Apr 2024]
-
 *   [FactTune](https://arxiv.org/abs/2311.08401): A procedure that enhances the factuality of LLMs without the need for human feedback. The process involves the fine-tuning of a separated LLM using methods such as DPO and RLAIF, guided by preferences generated by [FActScore (⭐258)](https://github.com/shmsw25/FActScore). \[14 Nov 2023] `FActScore` works by breaking down a generation into a series of atomic facts and then computing the percentage of these atomic facts by a reliable knowledge source.
-
 *   [The Instruction Hierarchy](https://arxiv.org/abs/2404.13208): Training LLMs to Prioritize Privileged Instructions. The OpenAI highlights the need for instruction privileges in LLMs to prevent attacks and proposes training models to conditionally follow lower-level instructions based on their alignment with higher-level instructions. \[19 Apr 2024]
-
 *   [Mapping the Mind of a Large Language Model](https://cdn.sanity.io/files/4zrzovbb/website/e2ae0c997653dfd8a7cf23d06f5f06fd84ccfd58.pdf): Anthrophic, A technique called "dictionary learning" can help understand model behavior by identifying which features respond to a particular input, thus providing insight into the model's "reasoning." [ref](https://www.anthropic.com/research/mapping-mind-language-model) \[21 May 2024]
-
 *   [Frontier Safety Framework](https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/): Google DeepMind, Frontier Safety Framework, a set of protocols designed to identify and mitigate potential harms from future AI systems. \[17 May 2024]
-
 *   [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/): Sparse Autoencoders identify key features, enhancing the interpretability of language models like GPT-4. They extract 16 million interpretable features using GPT-4's outputs as input for training. \[6 Jun 2024]
-
 *   [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development): NIST released the first complete version of the NIST AI RMF Playbook on March 30, 2023
-
 *   [Guardrails Hub](https://hub.guardrailsai.com): Guardrails for common LLM validation use cases
-
 *   [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y): Model Collapse. We find that indiscriminate use of model-generated content in training causes irreversible defects in the resulting models, in which tails of the original content distribution disappear. \[24 Jul 2024]
 
 ### **Large Language Model Is: Abilities**
@@ -1608,6 +1539,7 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
 *   [AI Model Review](https://aimodelreview.com/): Compare 75 AI Models on 200+ Prompts Side By Side.
 *   [Artificial Analysis](https://artificialanalysis.ai/): Independent analysis of AI models and API providers.
 *   [Inside language models (from GPT to Olympus)](https://lifearchitect.ai/models/)
+*   [LLM Pre-training and Post-training Paradigms](https://sebastianraschka.com/blog/2024/new-llm-pre-training-and-post-training.html) \[17 Aug 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-dev-pipeline-overview.png" width="350" />
 
 ### **Evolutionary Tree of Large Language Models**
 
@@ -1679,12 +1611,14 @@ PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) 
     2.  [NeMo](https://mistral.ai/news/mistral-nemo/): 12B model with 128k context length that outperforms LLama 3 8B \[18 Jul 2024]
 *   Groq
     1.  [Llama-3-Groq-Tool-Use](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/): a model optimized for function calling \[Jul 2024]
+*   Alibaba
+    1.  [Qwen series](https://github.com/QwenLM) > [Qwen2 (⭐7k)](https://github.com/QwenLM/Qwen2): 29 languages. 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B. \[Feb 2024]
 *   GPT for Domain Specific [X-ref](#gpt-for-domain-specific)
 *   MLLM (multimodal large language model) [X-ref](#mllm-multimodal-large-language-model)
 *   Large Language Models (in 2023) [X-ref](#large-language-models-in-2023)
 
 <details>
-<summary>Expand</summary>
+<summary>Expand: Llama variants emerged in 2023</summary>
 
 *   Upstage's 70B Language Model Outperforms GPT-3.5: [ref](https://en.upstage.ai/newsroom/upstage-huggingface-llm-no1) \[1 Aug 2023]
 *   [Falcon LLM](https://falconllm.tii.ae/) Apache 2.0 license \[Mar 2023]
