@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Aug 21, 2024](/content/2024/08/21/README.md)
+
+### UI Libraries, Components & Templates
+
+*   🧩 [Motion Primitives](https://motion-primitives.com) - Beautifully designed motion components built using Tailwind CSS and Framer Motion.
+
 ## [Aug 18, 2024](/content/2024/08/18/README.md)
 
 ### UI Libraries, Components & Templates
@@ -34,7 +40,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐285)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐296)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐17)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [May 06, 2024](/content/2024/05/06/README.md)

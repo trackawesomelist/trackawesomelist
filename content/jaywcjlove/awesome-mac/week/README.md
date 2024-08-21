@@ -12,6 +12,10 @@
 
 *   [Pixen](https://pixenapp.com/mac/) - Native pixel art and animation editor for Mac.
 
+### Communication / Collaboration and Team Tools
+
+*   [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Utilities / Window Management

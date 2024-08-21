@@ -228,6 +228,7 @@
 *   🧩 [Shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 *   🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
 *   🧩 [Penguin UI](https://www.penguinui.com) - Plug-n-play UI component library for Tailwind CSS & Alpine JS.
+*   🧩 [Motion Primitives](https://motion-primitives.com) - Beautifully designed motion components built using Tailwind CSS and Framer Motion.
 *   📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 *   📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 *   📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
@@ -297,7 +298,7 @@
 *   🚀 [Vitailse (⭐141)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 *   🚀 [Vite-Boot (⭐239)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 *   🚀 [AstroWind (⭐3k)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
-*   🚀 [Angular-Tailwind (⭐285)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐296)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐17)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## Learning

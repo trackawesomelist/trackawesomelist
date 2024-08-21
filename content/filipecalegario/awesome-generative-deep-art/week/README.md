@@ -6,6 +6,17 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
+
+### Critical Views about Generative AI
+
+*   [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE)
+*   [Thoughts on GenAI by James Gosling](https://www.linkedin.com/pulse/thoughts-genai-james-gosling-nab0c/)
+
+### Image Segmentation / Deforum
+
+*   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Generative AI Tools Directories

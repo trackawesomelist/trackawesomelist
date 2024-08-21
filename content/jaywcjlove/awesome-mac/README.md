@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Aug 21, 2024](/content/2024/08/21/README.md)
+
+### Communication / Collaboration and Team Tools
+
+*   [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
+
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 
 ### Design and Product / Design Tools

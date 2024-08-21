@@ -6,6 +6,24 @@ A curated list of Artificial Intelligence Top Tools
 
 [ Daily / [Weekly](/content/mahseema/awesome-ai-tools/week/README.md) / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
 
+## [Aug 21, 2024](/content/2024/08/21/README.md)
+
+### Code / Developer tools
+
+*   [AI Kernel Explorer (⭐4)](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+
+### Audio / AI Music Generators
+
+*   [Splash Pro](https://www.splashpro.com) - [Review](https://theresanai.com/splash-pro) - A versatile platform offering intuitive music creation tools for all skill levels.
+*   [AIVA](https://www.aiva.ai) - [Review](https://theresanai.com/aiva) - AI composer specializing in classical and cinematic music creation.
+*   [Mubert](https://www.mubert.com) - [Review](https://theresanai.com/mubert) - Real-time generative music tailored for different use cases.
+*   [Soundraw](https://soundraw.io) - [Review](https://theresanai.com/soundraw) - Allows users to customize music compositions based on mood and style.
+*   [Beatoven.ai](https://www.beatoven.ai) - [Review](https://theresanai.com/beatoven-ai) - AI-driven music generation focused on evoking specific emotions.
+*   [Boomy](https://www.boomy.com) - [Review](https://theresanai.com/boomy) - Democratizes music creation with quick track generation and monetization.
+*   [Ecrett Music](https://www.ecrettmusic.com) - [Review](https://theresanai.com/ecrett-music) - Designed for video creators, offering royalty-free music.
+*   [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
+*   [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
+
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 
 ### Audio / AI Voice Cloning

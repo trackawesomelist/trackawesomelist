@@ -6,6 +6,16 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Aug 21, 2024](/content/2024/08/21/README.md)
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐398) (⭐397)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+
+### Projects / Workflow engine
+
+*   [Cadence (⭐8.1k) (⭐8.1k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
+
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 
 ### Projects / API Management
@@ -22,7 +32,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐399) (⭐397)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 *   [OpenAPI Explorer (⭐302) (⭐300)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 
 ### Projects / API Gateway
@@ -158,7 +167,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Activiti (⭐10k) (⭐10k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Cadence (⭐8k) (⭐8.1k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
 ## [Jul 17, 2024](/content/2024/07/17/README.md)
 

@@ -224,6 +224,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+*   [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE)
+*   [Thoughts on GenAI by James Gosling](https://www.linkedin.com/pulse/thoughts-genai-james-gosling-nab0c/)
 *   [Automated Social Science: Language Models as Scientist and Subjects | NBER](https://www.nber.org/papers/w32381)
 *   [When Will the GenAI Bubble Burst? - by Gary Marcus](https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst)
 *   [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI | TechCrunch](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
@@ -1103,6 +1105,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [THUDM/CogVideo (⭐5.5k)](https://github.com/THUDM/CogVideo): text-to-video generation
 *   [baowenbo/DAIN (⭐8.2k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
+*   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
 # Audio and Music
 

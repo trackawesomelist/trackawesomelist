@@ -22,7 +22,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐399) (⭐397)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [DapperDox (⭐398) (⭐397)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 *   [OpenAPI Explorer (⭐302) (⭐300)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 
 ### Projects / API Gateway
@@ -64,6 +64,10 @@ A curated list of awesome system integration software and resources.
 ### Projects / Messaging
 
 *   [Eclipse Mosquitto (⭐8.8k) (⭐8.8k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+
+### Projects / Workflow engine
+
+*   [Cadence (⭐8.1k) (⭐8.1k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
 ### Resources / Data Formats
 
@@ -158,7 +162,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Activiti (⭐10k) (⭐10k)](https://github.com/Activiti/Activiti) - A lightweight and Java-centric open-source engine for executing BPMN (Business Process Model and Notation) workflows.
-*   [Cadence (⭐8k) (⭐8.1k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
