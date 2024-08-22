@@ -2,15 +2,25 @@
 
 A collection of various awesome lists for hackers, pentesters and security researchers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) · ⭐ 77K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hack-with-Github/Awesome-Hacking/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) · ⭐ 82K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/Hack-with-Github/Awesome-Hacking/week/README.md) / [Overview](/content/Hack-with-Github/Awesome-Hacking/readme/README.md) ]
+
+## [Aug 22, 2024](/content/2024/08/22/README.md)
+
+### Other Useful Repositories
+
+- Repository: [CyberChef](https://gchq.github.io/CyberChef/)
+
+  Description: A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
+
+
 
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Web3 Security (⭐1.1k)](https://github.com/Anugrahsr/Awesome-web3-Security)
+- Repository: [Web3 Security (⭐1.2k)](https://github.com/Anugrahsr/Awesome-web3-Security)
 
   Description: A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 
@@ -20,7 +30,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Celluar Hacking (⭐2.5k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
+- Repository: [Celluar Hacking (⭐2.8k)](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 
   Description: This is a list of hacking research in the 3G/4G/5G cellular security space.
 
@@ -30,7 +40,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [CVE PoC updated daily (⭐6k)](https://github.com/trickest/cve)
+- Repository: [CVE PoC updated daily (⭐6.4k)](https://github.com/trickest/cve)
 
   Description: List of CVE Proof of Concepts (PoCs) updated daily by Trickest
 
@@ -40,17 +50,17 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Capsulecorp Pentest (⭐763)](https://github.com/r3dy/capsulecorp-pentest)
+- Repository: [Capsulecorp Pentest (⭐798)](https://github.com/r3dy/capsulecorp-pentest)
 
   Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 
 
-- Repository: [Real-time Communications hacking & pentesting resources (⭐353)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- Repository: [Real-time Communications hacking & pentesting resources (⭐391)](https://github.com/EnableSecurity/awesome-rtc-hacking)
 
   Description: Covers VoIP, WebRTC and VoLTE security related topics
 
 
-- Repository: [Reinforcement Learning for Cyber Security (⭐636)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- Repository: [Reinforcement Learning for Cyber Security (⭐712)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
   Description: List of awesome reinforcement learning for security resources
 
@@ -60,7 +70,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [The Art of Hacking Series (⭐16k)](https://github.com/The-Art-of-Hacking/h4cker)
+- Repository: [The Art of Hacking Series (⭐18k)](https://github.com/The-Art-of-Hacking/h4cker)
 
   Description: List of resources  includes thousands of cybersecurity-related references and resources
 
@@ -73,7 +83,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 
 
-- Repository: [Vulhub (⭐16k)](https://github.com/vulhub/vulhub)
+- Repository: [Vulhub (⭐17k)](https://github.com/vulhub/vulhub)
 
   Description: Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -83,7 +93,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Mainframe Hacking (⭐389)](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
+- Repository: [Mainframe Hacking (⭐405)](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
 
   Description: List of Awesome Mainframe Hacking/Pentesting Resources
 
@@ -93,7 +103,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Embedded and IoT Security (⭐1.6k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- Repository: [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 
   Description: A curated list of awesome resources about embedded and IoT security
 
@@ -113,7 +123,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Gray Hacker Resources (⭐132)](https://github.com/bt3gl/Gray-Hacker-Resources)
+- Repository: [Gray Hacker Resources (⭐142)](https://github.com/bt3gl/Gray-Hacker-Resources)
 
   Description: Useful for CTFs, wargames, pentesting
 
@@ -143,7 +153,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Serverless Security (⭐568)](https://github.com/puresec/awesome-serverless-security/)
+- Repository: [Serverless Security (⭐579)](https://github.com/puresec/awesome-serverless-security/)
 
   Description: Collection of Serverless security related resources
 
@@ -163,7 +173,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Detection Lab (⭐4.5k)](https://github.com/clong/DetectionLab)
+- Repository: [Detection Lab (⭐4.6k)](https://github.com/clong/DetectionLab)
 
   Description: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 
@@ -183,7 +193,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [YARA (⭐3.2k)](https://github.com/InQuest/awesome-yara)
+- Repository: [YARA (⭐3.4k)](https://github.com/InQuest/awesome-yara)
 
   Description: List of awesome YARA rules, tools, and people
 
@@ -213,7 +223,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Red Teaming (⭐6.5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- Repository: [Red Teaming (⭐6.8k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
   Description: List of Awesome Red Team / Red Teaming Resources
 
@@ -223,7 +233,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Lockpicking (⭐1.3k)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.4k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 
@@ -233,12 +243,12 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Reversing (⭐3.9k)](https://github.com/fdivrp/awesome-reversing)
+- Repository: [Reversing (⭐4k)](https://github.com/fdivrp/awesome-reversing)
 
   Description: List of awesome reverse engineering resources
 
 
-- Repository: [Vehicle Security (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+- Repository: [Vehicle Security (⭐3k)](https://github.com/jaredthecoder/awesome-vehicle-security)
 
   Description: List of resources for learning about vehicle security and car hacking
 
@@ -246,12 +256,12 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Free Programming Books (⭐319k)](https://github.com/EbookFoundation/free-programming-books)
+- Repository: [Free Programming Books (⭐331k)](https://github.com/EbookFoundation/free-programming-books)
 
   Description: Free programming books for developers
 
 
-- Repository: [ThreatHunter-Playbook (⭐3.8k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+- Repository: [ThreatHunter-Playbook (⭐4k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
 
   Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
@@ -261,7 +271,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐1k)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1.1k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -281,7 +291,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Social Engineering (⭐2.5k)](https://github.com/v2-dev/awesome-social-engineering)
+- Repository: [Social Engineering (⭐2.6k)](https://github.com/v2-dev/awesome-social-engineering)
 
   Description: List of awesome social engineering resources
 
@@ -291,7 +301,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.4k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.6k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 
@@ -301,7 +311,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Payloads (⭐3.5k)](https://github.com/foospidy/payloads)
+- Repository: [Payloads (⭐3.6k)](https://github.com/foospidy/payloads)
 
   Description: Collection of web attack payloads
 
@@ -311,7 +321,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [CVE PoC (⭐3.2k)](https://github.com/qazbnm456/awesome-cve-poc)
+- Repository: [CVE PoC (⭐3.3k)](https://github.com/qazbnm456/awesome-cve-poc)
 
   Description: List of CVE Proof of Concepts (PoCs)
 
@@ -321,7 +331,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.3k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.6k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 
@@ -331,7 +341,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 
@@ -341,7 +351,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [PayloadsAllTheThings (⭐57k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- Repository: [PayloadsAllTheThings (⭐59k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
   Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
 
@@ -361,7 +371,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Industrial Control System Security (⭐1.5k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+- Repository: [Industrial Control System Security (⭐1.6k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 
   Description: List of resources related to Industrial Control System (ICS) security
 
@@ -371,7 +381,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.8k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 
@@ -381,7 +391,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Cyber Skills (⭐3.3k)](https://github.com/joe-shenouda/awesome-cyber-skills)
+- Repository: [Cyber Skills (⭐3.5k)](https://github.com/joe-shenouda/awesome-cyber-skills)
 
   Description: Curated list of hacking environments where you can train your cyber skills legally and safely
 
@@ -391,7 +401,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐6.8k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐7.1k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -401,7 +411,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐581)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐585)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 
@@ -411,7 +421,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.3k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.5k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 
@@ -421,7 +431,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐16k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐18k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 
@@ -441,12 +451,12 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Resource List (⭐317)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐324)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐2.2k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.3k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 
@@ -456,57 +466,57 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [Android Security (⭐7.7k)](https://github.com/ashishb/android-security-awesome)
+- Repository: [Android Security (⭐8k)](https://github.com/ashishb/android-security-awesome)
 
   Description: Collection of Android security related resources
 
 
-- Repository: [AppSec (⭐6.1k)](https://github.com/paragonie/awesome-appsec)
+- Repository: [AppSec (⭐6.2k)](https://github.com/paragonie/awesome-appsec)
 
   Description: Resources for learning about application security
 
 
-- Repository: [Bug Bounty (⭐4.4k)](https://github.com/djadmin/awesome-bug-bounty)
+- Repository: [Bug Bounty (⭐4.5k)](https://github.com/djadmin/awesome-bug-bounty)
 
   Description: List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 
 
-- Repository: [CTF (⭐9.1k)](https://github.com/apsdehal/awesome-ctf)
+- Repository: [CTF (⭐9.5k)](https://github.com/apsdehal/awesome-ctf)
 
   Description: List of CTF frameworks, libraries, resources and softwares
 
 
-- Repository: [DevSecOps (⭐4.4k)](https://github.com/devsecops/awesome-devsecops)
+- Repository: [DevSecOps (⭐4.5k)](https://github.com/devsecops/awesome-devsecops)
 
   Description: List of awesome DevSecOps tools with the help from community experiments and contributions
 
 
-- Repository: [Exploit Development (⭐1.8k)](https://github.com/FabioBaroni/awesome-exploit-development)
+- Repository: [Exploit Development (⭐1.9k)](https://github.com/FabioBaroni/awesome-exploit-development)
 
   Description: Resources for learning about Exploit Development
 
 
-- Repository: [Fuzzing (⭐5.1k)](https://github.com/secfigo/Awesome-Fuzzing)
+- Repository: [Fuzzing (⭐5.2k)](https://github.com/secfigo/Awesome-Fuzzing)
 
   Description: List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
 
 
-- Repository: [Honeypots (⭐8k)](https://github.com/paralax/awesome-honeypots)
+- Repository: [Honeypots (⭐8.3k)](https://github.com/paralax/awesome-honeypots)
 
   Description: List of honeypot resources
 
 
-- Repository: [Incident Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response)
+- Repository: [Incident Response (⭐7.4k)](https://github.com/meirwah/awesome-incident-response)
 
   Description: List of tools for incident response
 
 
-- Repository: [InfoSec (⭐5k)](https://github.com/onlurking/awesome-infosec)
+- Repository: [InfoSec (⭐5.1k)](https://github.com/onlurking/awesome-infosec)
 
   Description: List of awesome infosec courses and training resources
 
 
-- Repository: [IoT Hacks (⭐2k)](https://github.com/nebgnahz/awesome-iot-hacks)
+- Repository: [IoT Hacks (⭐2.1k)](https://github.com/nebgnahz/awesome-iot-hacks)
 
   Description: Collection of Hacks in IoT Space
 
@@ -521,12 +531,12 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: Collection of tools developed by researchers in the Computer Science area to process network traces
 
 
-- Repository: [Pentest (⭐20k)](https://github.com/enaqx/awesome-pentest)
+- Repository: [Pentest (⭐21k)](https://github.com/enaqx/awesome-pentest)
 
   Description: List of awesome penetration testing resources, tools and other shiny things
 
 
-- Repository: [PHP Security (⭐30k)](https://github.com/ziadoz/awesome-php#security)
+- Repository: [PHP Security (⭐31k)](https://github.com/ziadoz/awesome-php#security)
 
   Description: Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 
@@ -536,12 +546,12 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: List of awesome security talks
 
 
-- Repository: [SecLists (⭐53k)](https://github.com/danielmiessler/SecLists)
+- Repository: [SecLists (⭐56k)](https://github.com/danielmiessler/SecLists)
 
   Description: Collection of multiple types of lists used during security assessments
 
 
-- Repository: [Security (⭐11k)](https://github.com/sbilly/awesome-security)
+- Repository: [Security (⭐12k)](https://github.com/sbilly/awesome-security)
 
   Description: Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 
@@ -551,17 +561,17 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: List of static analysis tools, linters and code quality checkers for various programming languages
 
 
-- Repository: [Threat Intelligence (⭐7.2k)](https://github.com/hslatman/awesome-threat-intelligence)
+- Repository: [Threat Intelligence (⭐7.8k)](https://github.com/hslatman/awesome-threat-intelligence)
 
   Description: List of Awesome Threat Intelligence resources
 
 
-- Repository: [Web Hacking (⭐5.4k)](https://github.com/infoslack/awesome-web-hacking)
+- Repository: [Web Hacking (⭐5.7k)](https://github.com/infoslack/awesome-web-hacking)
 
   Description: List of web application security
 
 
-- Repository: [WiFi Arsenal (⭐1.8k)](https://github.com/0x90/wifi-arsenal)
+- Repository: [WiFi Arsenal (⭐1.9k)](https://github.com/0x90/wifi-arsenal)
 
   Description: Pack of various useful/useless tools for 802.11 hacking
 
@@ -569,22 +579,22 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [Bug Bounty Reference (⭐3.6k)](https://github.com/ngalongc/bug-bounty-reference)
+- Repository: [Bug Bounty Reference (⭐3.7k)](https://github.com/ngalongc/bug-bounty-reference)
 
   Description: List of bug bounty write-up that is categorized by the bug nature
 
 
-- Repository: [CTF Tool (⭐248)](https://github.com/SandySekharan/CTF-tool)
+- Repository: [CTF Tool (⭐250)](https://github.com/SandySekharan/CTF-tool)
 
   Description: List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
 
 
-- Repository: [Forensics (⭐3.6k)](https://github.com/Cugu/awesome-forensics)
+- Repository: [Forensics (⭐3.8k)](https://github.com/Cugu/awesome-forensics)
 
   Description: List of awesome forensic analysis tools and resources
 
 
-- Repository: [IOC (⭐740)](https://github.com/sroberts/awesome-iocs)
+- Repository: [IOC (⭐777)](https://github.com/sroberts/awesome-iocs)
 
   Description: Collection of sources of indicators of compromise
 
@@ -594,7 +604,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
   Description: Collection of cheatsheets for various infosec tools and topics
 
 
-- Repository: [Shell (⭐31k)](https://github.com/alebcay/awesome-shell)
+- Repository: [Shell (⭐32k)](https://github.com/alebcay/awesome-shell)
 
   Description: List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 
@@ -604,7 +614,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Awesome Repositories
 
-- Repository: [OSX and iOS Security (⭐1.2k)](https://github.com/ashishb/osx-and-ios-security-awesome)
+- Repository: [OSX and iOS Security (⭐1.3k)](https://github.com/ashishb/osx-and-ios-security-awesome)
 
   Description: OSX and iOS related security tools
 
@@ -612,17 +622,17 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ### Other Useful Repositories
 
-- Repository: [APT Notes (⭐3.4k)](https://github.com/kbandla/APTnotes)
+- Repository: [APT Notes (⭐3.5k)](https://github.com/kbandla/APTnotes)
 
   Description: Various public documents, whitepapers and articles about APT campaigns
 
 
-- Repository: [Infosec Reference (⭐5.4k)](https://github.com/rmusser01/Infosec_Reference)
+- Repository: [Infosec Reference (⭐5.5k)](https://github.com/rmusser01/Infosec_Reference)
 
   Description: Information Security Reference That Doesn't Suck
 
 
-- Repository: [Pentest Wiki (⭐3.3k)](https://github.com/nixawk/pentest-wiki)
+- Repository: [Pentest Wiki (⭐3.4k)](https://github.com/nixawk/pentest-wiki)
 
   Description: A free online security knowledge library for pentesters / researchers
 

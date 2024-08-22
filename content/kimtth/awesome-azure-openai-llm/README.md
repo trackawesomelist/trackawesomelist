@@ -6,6 +6,56 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 22, 2024](/content/2024/08/22/README.md)
+
+### **RAG Pipeline & Advanced RAG**
+
+*   [Graph RAG (by NebulaGraph)](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
+
+### **DSPy** / **Semantic Kernel Glossary**
+
+*   [Prompt Like a Data Scientist: Auto Prompt Optimization and Testing with DSPy](https://towardsdatascience.com/prompt-like-a-data-scientist-auto-prompt-optimization-and-testing-with-dspy-ff699f030cb7) \[6 May 2024]
+
+### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐1.1k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques \[Aug 2024]
+
+### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama Finetuning**
+
+*   phi-series: cost-effective small language models (SLMs) [ref](https://azure.microsoft.com/en-us/products/phi-3)
+
+    <details>
+    <summary>Expand</summary>
+
+    *   Phi-3.5-MoE-instruct: [ref](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) \[Aug 2024]
+
+    *   phi-3: Phi-3-mini, with 3.8 billion parameters, supports 4K and 128K context, instruction tuning, and hardware optimization. \[Apr 2024] [ref](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
+        *   phi-3-vision (multimodal), phi-3-small, phi-3 (7b), phi-sillica (Copilot+PC designed for NPUs)
+
+    *   phi-2: open source, and 50% better at mathematical reasoning. [git](https://huggingface.co/microsoft/phi-2) \[Dec 2023]
+
+    *   [phi-1.5](https://arxiv.org/abs/2309.05463): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.05463)]: Textbooks Are All You Need II. Phi 1.5 is trained solely on synthetic data. Despite having a mere 1 billion parameters compared to Llama 7B's much larger model size, Phi 1.5 often performs better in benchmark tests. \[11 Sep 2023]
+
+    *   [phi-1](https://arxiv.org/abs/2306.11644): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.11644)]: Despite being small in size, phi-1 attained 50.6% on HumanEval and 55.5% on MBPP. Textbooks Are All You Need. [ref](https://analyticsindiamag.com/microsoft-releases-1-3-bn-parameter-language-model-outperforms-llama/) \[20 Jun 2023]
+
+    </details>
+
+### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
+
+*   [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435): Automated Design of Agentic Systems (ADAS), which aims to automatically create powerful agentic system designs, including inventing novel building blocks and/or combining them. \[15 Aug 2024]
+
+### **Agents: AutoGPT and Communicative Agents** / Tool use: LLM to Master APIs
+
+*   [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard_live.html) V2 \[Aug 2024]
+
+### **Awesome demo** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Vercel announced V0.dev](https://v0.dev/chat/AjJVzgx): Make a snake game with chat \[Oct 2023]
+
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
+
 ## [Aug 21, 2024](/content/2024/08/21/README.md)
 
 ### **Retrieval-Augmented Generation: Research Papers**
@@ -907,24 +957,6 @@
 
 *   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐395)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
 
-### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama Finetuning**
-
-*   phi-series: cost-effective small language models (SLMs)
-
-    <details>
-    <summary>Expand</summary>
-
-    *   phi-3: Phi-3-mini, with 3.8 billion parameters, supports 4K and 128K context, instruction tuning, and hardware optimization. \[Apr 2024] [ref](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
-        *   phi-3-vision (multimodal), phi-3-small, phi-3 (7b), phi-sillica (Copilot+PC designed for NPUs)
-
-    *   phi-2: open source, and 50% better at mathematical reasoning. [git](https://huggingface.co/microsoft/phi-2) \[Dec 2023]
-
-    *   [phi-1.5](https://arxiv.org/abs/2309.05463): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.05463)]: Textbooks Are All You Need II. Phi 1.5 is trained solely on synthetic data. Despite having a mere 1 billion parameters compared to Llama 7B's much larger model size, Phi 1.5 often performs better in benchmark tests. \[11 Sep 2023]
-
-    *   [phi-1](https://arxiv.org/abs/2306.11644): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.11644)]: Despite being small in size, phi-1 attained 50.6% on HumanEval and 55.5% on MBPP. Textbooks Are All You Need. [ref](https://analyticsindiamag.com/microsoft-releases-1-3-bn-parameter-language-model-outperforms-llama/) \[20 Jun 2023]
-
-    </details>
-
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
 *   [ChatGPT Memory](https://openai.com/blog/memory-and-new-controls-for-chatgpt): Remembering things you discuss `across all chats` saves you from having to repeat information and makes future conversations more helpful. \[Apr 2024]
@@ -1453,13 +1485,13 @@
     *   [PlanRAG](https://arxiv.org/abs/2406.12430): Decision Making. Decision QA benchmark, DQA. Plan -> Retrieve -> Make a decision (PlanRAG) [git (⭐112)](https://github.com/myeon9h/PlanRAG) \[18 Jun 2024]
     *   [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219): `Best Performance Practice`: Query Classification, Hybrid with HyDE (retrieval), monoT5 (reranking), Reverse (repacking), Recomp (summarization). `Balanced Efficiency Practice`: Query Classification, Hybrid (retrieval), TILDEv2 (reranking), Reverse (repacking), Recomp (summarization). \[1 Jul 2024]
     *   [Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/abs/2407.16833): Long-Context consistently outperforms RAG in terms of average performance. However, RAG's significantly lower cost remains a distinct advantage. \[23 Jul 2024]
+    *   [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921) \[15 Aug 2024]
 
     </details>
 
 ### **RAG Pipeline & Advanced RAG**
 
 *   How to optimize RAG pipeline: [Indexing optimization](https://newsletter.theaiedge.io/p/how-to-optimize-your-rag-pipelines) \[24 Oct 2023]
-*   [Graph RAG](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
 
 ### **Azure Reference Architectures** / **Azure AI Search**
 
@@ -1667,7 +1699,7 @@
     https://zhuanlan.zhihu.com/p/104393915
     -->
 *   Meta (aka. Facebook)
-    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.1k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
+    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.2k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
     2.  [facebookresearch/segment-anything(SAM)](https://arxiv.org/abs/2304.02643): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.02643)]: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [git (⭐46k)](https://github.com/facebookresearch/segment-anything) \[5 Apr 2023]
     3.  [facebookresearch/SeamlessM4T](https://arxiv.org/abs/2308.11596): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.11596)]: SeamlessM4T is the first all-in-one multilingual multimodal AI translation and transcription model. This single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations for up to 100 languages depending on the task. [ref](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/) \[22 Aug 2023]
     4.  [Chameleon](https://arxiv.org/abs/2405.09818): Early-fusion token-based mixed-modal models capable of understanding and generating images and text in any arbitrary sequence. The unified approach uses fully token-based representations for both image and textual modalities. \[16 May 2024]
@@ -1928,7 +1960,7 @@
 
 ### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
 
-*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" />
+*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" /> <br/>
     <!-- [SFTTrainer](https://huggingface.co/docs/trl/main/en/trainer#trl.SFTTrainer) from TRL -->
     TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" /> <br/>
     The three steps in the process: 1. pre-training on large web-scale data, 2. supervised fine-tuning on instruction data (instruction tuning), and 3. RLHF. [ref](https://aman.ai/primers/ai/RLHF/) \[ⓒ 2023]
@@ -2363,7 +2395,7 @@
 
 ### **Finetuning** / **Llama Finetuning**
 
-*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023]
+*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023] <br/>
 
     <details>
 

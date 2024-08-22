@@ -145,6 +145,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [PlanRAG](https://arxiv.org/abs/2406.12430): Decision Making. Decision QA benchmark, DQA. Plan -> Retrieve -> Make a decision (PlanRAG) [git (⭐112)](https://github.com/myeon9h/PlanRAG) \[18 Jun 2024]
     *   [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219): `Best Performance Practice`: Query Classification, Hybrid with HyDE (retrieval), monoT5 (reranking), Reverse (repacking), Recomp (summarization). `Balanced Efficiency Practice`: Query Classification, Hybrid (retrieval), TILDEv2 (reranking), Reverse (repacking), Recomp (summarization). \[1 Jul 2024]
     *   [Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/abs/2407.16833): Long-Context consistently outperforms RAG in terms of average performance. However, RAG's significantly lower cost remains a distinct advantage. \[23 Jul 2024]
+    *   [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921) \[15 Aug 2024]
 
     </details>
 
@@ -164,7 +165,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   Demystifying Advanced RAG Pipelines: An LLM-powered advanced RAG pipeline built from scratch [git (⭐776)](https://github.com/pchunduri6/rag-demystified) \[19 Oct 2023]
 *   [9 Effective Techniques To Boost Retrieval Augmented Generation (RAG) Systems](https://towardsdatascience.com/9-effective-techniques-to-boost-retrieval-augmented-generation-rag-systems-210ace375049) [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/9-effective-rag-techniques.png): ReRank, Prompt Compression, Hypothetical Document Embedding (HyDE), Query Rewrite and Expansion, Enhance Data Quality, Optimize Index Structure, Add Metadata, Align Query with Documents, Mixed Retrieval (Hybrid Search) \[2 Jan 2024]
 *   [cite](https://twitter.com/yi_ding/status/1721728060876300461) \[7 Nov 2023] `OpenAI has put together a pretty good roadmap for building a production RAG system.` Naive RAG -> Tune Chunks -> Rerank & Classify -> Prompt Engineering. In `llama_index`... [Youtube](https://www.youtube.com/watch?v=ahnGLM-RC1Y)  <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/oai-rag-success-story.jpg" width="500">
-*   [Graph RAG](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
+*   [Graph RAG (by NebulaGraph)](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
 *   [Evaluation with Ragas](https://towardsdatascience.com/visualize-your-rag-data-evaluate-your-retrieval-augmented-generation-system-with-ragas-fc2486308557): UMAP (often used to reduce the dimensionality of embeddings) with Ragas metrics for visualizing RAG results. \[Mar 2024] / `Ragas provides metrics`: Context Precision, Context Relevancy, Context Recall, Faithfulness, Answer Relevance, Answer Semantic Similarity, Answer Correctness, Aspect Critique [git (⭐6.2k)](https://github.com/explodinggradients/ragas) \[May 2023]
 
 ### **The Problem with RAG**
@@ -192,9 +193,9 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   RAG context relevancy metric: Ragas, TruLens, DeepEval [ref](https://towardsdatascience.com/the-challenges-of-retrieving-and-evaluating-relevant-context-for-rag-e362f6eaed34) \[Jun 2024]
         *   `Context Relevancy (in Ragas) = S / Total number of sentences in retrieved context`
         *   `Contextual Relevancy (in DeepEval) = Number of Relevant Statements / Total Number of Statements`
-    *   [Papers with code](https://paperswithcode.com/method/rag)
+    *   [Papers with code](https://paperswithcode.com/method/rag): RAG
     *   [What AI Engineers Should Know about Search](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search) \[25 Jun 2024]
-    *   [GraphRAG](https://arxiv.org/abs/2404.16130): Original Documents -> Knowledge Graph (Group Summaries) -> Partial Responses -> Final Response
+    *   [GraphRAG (by Microsoft)](https://arxiv.org/abs/2404.16130): Original Documents -> Knowledge Graph (Group Summaries) -> Partial Responses -> Final Response. local and global search.
         [ref](https://microsoft.github.io/graphrag) [git (⭐15k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
     *   [GraphRAG Implementation with LlamaIndex (⭐35k)](https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/cookbooks/GraphRAG_v1.ipynb) \[15 Jul 2024]
     *   [Learn RAG with LangChain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
@@ -702,6 +703,8 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 *   DSPy RAG example in weviate recipes: `recipes > integrations` [git (⭐432)](https://github.com/weaviate/recipes)
 
+*   [Prompt Like a Data Scientist: Auto Prompt Optimization and Testing with DSPy](https://towardsdatascience.com/prompt-like-a-data-scientist-auto-prompt-optimization-and-testing-with-dspy-ff699f030cb7) \[6 May 2024]
+
 *   Instead of a hard-coded prompt template, "Modular approach: compositions of modules -> compile". Building blocks such as ChainOfThought or Retrieve and compiling the program, optimizing the prompts based on specific metrics. Unifying strategies for both prompting and fine-tuning in one tool, Pythonic operations, prioritizing and tracing program execution. These features distinguish it from other LMP frameworks such as LangChain, and LlamaIndex. [ref](https://towardsai.net/p/machine-learning/inside-dspy-the-new-language-model-programming-framework-you-need-to-know-about) \[Jan 2023]
 
 *   Automatically iterate until the best result is achieved: 1. Collect Data -> 2. Write DSPy Program -> 3. Define validtion logic -> 4. Compile DSPy program
@@ -1070,6 +1073,7 @@ class AgentType(str, Enum):
 *   [Copilot prompts (⭐141)](https://github.com/pnp/copilot-prompts): Examples of prompts for Microsoft Copilot. \[25 Apr 2024]
 *   [In-The-Wild Jailbreak Prompts on LLMs (⭐1.8k)](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts). Collected from December 2022 to December 2023 \[Aug 2023]
 *   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐1.1k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques \[Aug 2024]
 
 ### **Finetuning**
 
@@ -1226,7 +1230,7 @@ class AgentType(str, Enum):
 
 *   [Multi-query attention (MQA)](https://arxiv.org/abs/2305.13245): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.13245)] \[22 May 2023]
 
-*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023]
+*   Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm [Youtube](https://www.youtube.com/watch?v=oM4VmoabDAI) / [git (⭐205)](https://github.com/hkproj/pytorch-llama) \[03 Sep 2023] <br/>
 
     <details>
 
@@ -1292,7 +1296,7 @@ class AgentType(str, Enum):
 *   Machine learning technique that trains a "reward model" directly from human feedback and uses the model as a reward function to optimize an agent's policy using reinforcement learning.
 *   [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2203.02155)] is a model trained by OpenAI to follow instructions using human feedback. \[4 Mar 2022] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf.png" width="400" /> <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rhlf2.png" width="400" /> <br/>
     [cite](https://docs.argilla.io/)
-*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" />
+*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" /> <br/>
     <!-- [SFTTrainer](https://huggingface.co/docs/trl/main/en/trainer#trl.SFTTrainer) from TRL -->
     TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" /> <br/>
     The three steps in the process: 1. pre-training on large web-scale data, 2. supervised fine-tuning on instruction data (instruction tuning), and 3. RLHF. [ref](https://aman.ai/primers/ai/RLHF/) \[ⓒ 2023]
@@ -1334,10 +1338,12 @@ class AgentType(str, Enum):
 
 ### **Knowledge Distillation: Reducing Model Size with Textbooks**
 
-*   phi-series: cost-effective small language models (SLMs)
+*   phi-series: cost-effective small language models (SLMs) [ref](https://azure.microsoft.com/en-us/products/phi-3)
 
     <details>
     <summary>Expand</summary>
+
+    *   Phi-3.5-MoE-instruct: [ref](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) \[Aug 2024]
 
     *   phi-3: Phi-3-mini, with 3.8 billion parameters, supports 4K and 128K context, instruction tuning, and hardware optimization. \[Apr 2024] [ref](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
         *   phi-3-vision (multimodal), phi-3-small, phi-3 (7b), phi-sillica (Copilot+PC designed for NPUs)
@@ -1690,7 +1696,7 @@ class AgentType(str, Enum):
         <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cocoa.gif" width="200" />
 
 *   Meta (aka. Facebook)
-    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.1k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
+    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.2k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
     2.  [facebookresearch/segment-anything(SAM)](https://arxiv.org/abs/2304.02643): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.02643)]: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [git (⭐46k)](https://github.com/facebookresearch/segment-anything) \[5 Apr 2023]
     3.  [facebookresearch/SeamlessM4T](https://arxiv.org/abs/2308.11596): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.11596)]: SeamlessM4T is the first all-in-one multilingual multimodal AI translation and transcription model. This single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations for up to 100 languages depending on the task. [ref](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/) \[22 Aug 2023]
     4.  [Chameleon](https://arxiv.org/abs/2405.09818): Early-fusion token-based mixed-modal models capable of understanding and generating images and text in any arbitrary sequence. The unified approach uses fully token-based representations for both image and textual modalities. \[16 May 2024]
@@ -2041,8 +2047,11 @@ class AgentType(str, Enum):
     *   [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793) \[6 May 2024]
 *   [AI Agents That Matter](https://arxiv.org/abs/2407.01502): AI agent evaluations for optimizing both accuracy and cost. Focusing solely on accuracy can lead to overfitting and high costs. `retry, warming, escalation` \[1 Jul 2024]
 *   [Generative AI Design Patterns for Agentic AI Systems (⭐577)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
+*   [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435): Automated Design of Agentic Systems (ADAS), which aims to automatically create powerful agentic system designs, including inventing novel building blocks and/or combining them. \[15 Aug 2024]
 
 #### Tool use: LLM to Master APIs
+
+*   [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard_live.html) V2 \[Aug 2024]
 
 *   [Gorilla: An API store for LLMs](https://arxiv.org/abs/2305.15334): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.15334)]: Gorilla: Large Language Model Connected with Massive APIs [git (⭐11k)](https://github.com/ShishirPatil/gorilla) \[24 May 2023]
 
@@ -2124,6 +2133,7 @@ class AgentType(str, Enum):
 *   [Mobile ALOHA](https://youtu.be/HaaZ8ss-HP4?si=iMYKzvx8wQhf39yU): A day of Mobile ALOHA \[4 Jan 2024]
 *   [groq](https://github.com/groq): An LPU Inference Engine, the LPU is reported to be 10 times faster than NVIDIA’s GPU performance [ref](https://www.gamingdeputy.com/groq-unveils-worlds-fastest-large-model-500-tokens-per-second-shatters-record-self-developed-lpu-outperforms-nvidia-gpu-by-10-times/) \[Jan 2024]
 *   [Sora](https://youtu.be/HK6y8DAPN_0?si=FPZaGk4fP2d456QP): Introducing Sora — OpenAI’s text-to-video model \[Feb 2024]
+*   [Vercel announced V0.dev](https://v0.dev/chat/AjJVzgx): Make a snake game with chat \[Oct 2023]
 
 ## **Section 10: General AI Tools and Extensions**
 
@@ -2236,6 +2246,7 @@ databricks-dolly-15k: Instruction-Tuned [git](https://huggingface.co/datasets/da
 *   [Artificial Analysis LLM Performance Leaderboard](https://huggingface.co/spaces/ArtificialAnalysis/LLM-Performance-Leaderboard): Performance benchmarks & pricing across API providers of LLMs
 *   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
 *   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
+*   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
 
 ### **LLM Evalution Benchmarks**
 

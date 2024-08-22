@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Aug 22, 2024](/content/2024/08/22/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
+
 ## [Aug 21, 2024](/content/2024/08/21/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins

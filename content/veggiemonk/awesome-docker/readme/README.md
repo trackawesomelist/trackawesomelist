@@ -238,6 +238,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐29k
 *   [Calico][calico] - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 *   [Flannel (⭐8.7k)](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [@coreos][coreos]
 *   [Freeflow (⭐595)](https://github.com/Microsoft/Freeflow) - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By [@Microsoft](https://github.com/Microsoft)
+*   [MyIP (⭐5.7k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
 *   [netshoot (⭐8.3k)](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues by [@nicolaka](https://github.com/nicolaka)
 *   [Pipework (⭐4.2k)](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [@jpetazzo][jpetazzo]
 *   [Weave][weave] (The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
@@ -376,7 +377,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐29k
 Native desktop applications for managing and montoring docker hosts and clusters
 
 *   [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Official native app. Only for Windows and MacOS
-*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
+*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) :skull: - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
 *   [DockStation (⭐2.1k)](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock\_station](https://twitter.com/dock_station)
 *   [Lifeboat (⭐185)](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 *   [Simple Docker UI (⭐596)](https://github.com/felixgborrego/simple-docker-ui) - built on Electron. By [@felixgborrego](https://github.com/felixgborrego/)
@@ -667,7 +668,7 @@ Services to securely store your Docker images.
 *   [Rust Universal Compiler (⭐29)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602][peco602]
 *   [uniget (⭐9)](https://github.com/uniget-org/cli) - uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [@nicholasdille](https://github.com/nicholasdille)
 *   [Vagga (⭐1.9k)](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
-*   [Zsh-in-Docker (⭐867)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
+*   [Zsh-in-Docker (⭐875)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
 
 ### Garbage Collection
 

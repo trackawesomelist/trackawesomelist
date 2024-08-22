@@ -1,12 +1,38 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2024
 
-27 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [1. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other Useful Repositories
+
+- Repository: [CyberChef](https://gchq.github.io/CyberChef/)
+
+  Description: A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.
+
+
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [yetone/avante.nvim (⭐638)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
+
+### Keybinding / Diagnostics
+
+*   [debugloop/layers.nvim (⭐11)](https://github.com/debugloop/layers.nvim) -  Craft temporary keymap overlays and layered modes with ease.
+
+## [3. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Networking
+
+*   [MyIP (⭐5.7k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
+
+## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Graphical User Interface / Apache License
 
@@ -16,13 +42,13 @@
 
 *   [sal](https://web.archive.org/web/20240525031005/https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library): customized containers, AUnit extensions and various generics.
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Drivers
 
 *   [Trilogy (⭐692)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
 
-## [3. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [6. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
@@ -41,13 +67,13 @@
 *   [Wagtail tutorial template (⭐3)](https://github.com/thibaudcolas/wagtail-tutorial-template)
 *   [Wagtail news template (⭐3)](https://github.com/torchbox/wagtail-news-template)
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [MojoAuth](https://mojoauth.com/) - Complete CIAM solution with Enterprise SSO and extensive out-of-the-box enterprise features.
 
-## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Actor Model
 
@@ -60,19 +86,23 @@
 
 *   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+### Uncategorized
+
+*   [goenum (⭐9)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
+
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
 *   [allangomes/kotlinwind.css (⭐6)](https://github.com/allangomes/kotlinwind.css) - Kotlin DSL for CSS based on Tailwind.
 
-## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [10. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
 *   [Dolphie (⭐565)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -87,19 +117,19 @@
 
 *   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Motion Primitives](https://motion-primitives.com) - Beautifully designed motion components built using Tailwind CSS and Framer Motion.
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [sized-dst](https://crates.io/crates/sized-dst): Owned container for dynamically-sized types (such as trait objects) backed by stack memory. - ![crates.io](https://img.shields.io/crates/v/sized-dst.svg)
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -167,7 +197,7 @@
 *   [NDJSON (⭐660) (⭐655)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐336) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -181,7 +211,7 @@
 
 *   [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
 
-## [13. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [16. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Code / Developer tools
 
@@ -211,11 +241,12 @@
 *   [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 *   [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [17. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-distance (⭐38)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Libraries/Packages/Scripts / Python
 
@@ -228,7 +259,7 @@
 
 *   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=OTVDmA6CRlQ) ⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by [@KeithGalli](https://github.com/KeithGalli). Associated github repo is [here (⭐2)](https://github.com/KeithGalli/polars-livestream).
 
-## [15. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [18. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Downloaders
 
@@ -242,7 +273,7 @@
 
 *   DeepGHS ([GitHub](https://github.com/deepghs) / [Hugging Face](https://huggingface.co/deepghs)) \[English]
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Education and Career Development
 
@@ -252,13 +283,13 @@
 
 *   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
 
-## [17. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 4.3
 
 *   [OpenLiberty (⭐68)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
-## [18. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [21. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Retrieval-Augmented Generation: Research Papers**
 
@@ -276,6 +307,10 @@
 
     </details>
 
+### **RAG Pipeline & Advanced RAG**
+
+*   [Graph RAG (by NebulaGraph)](https://medium.com/@nebulagraph/graph-rag-the-new-llm-stack-with-knowledge-graphs-e1e902c504ed): NebulaGraph proposes the concept of Graph RAG, which is a retrieval enhancement technique based on knowledge graphs. [demo](https://www.nebula-graph.io/demo) \[8 Sep 2023]
+
 ### **LlamaIndex**
 
 *   [Building and Productionizing RAG](https://docs.google.com/presentation/d/1rFQ0hPyYja3HKRdGEgjeDxr0MSE8wiQ2iu4mDtwR6fc/edit#slide=id.p): [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/archive/LlamaIndexTalk_PyDataGlobal.pdf): Optimizing RAG Systems 1. Table Stakes 2. Advanced Retrieval: Small-to-Big 3. Agents 4. Fine-Tuning 5. Evaluation \[Nov 2023]
@@ -287,9 +322,37 @@
 *   Recursive Retriever + Query Engine: Reference node relationships, rather than only finding a node (chunk) that is most relevant.
 *   Self Correcting Query Engines: Use an LLM to evaluate its own output.
 
+### **DSPy** / **Semantic Kernel Glossary**
+
+*   [Prompt Like a Data Scientist: Auto Prompt Optimization and Testing with DSPy](https://towardsdatascience.com/prompt-like-a-data-scientist-auto-prompt-optimization-and-testing-with-dspy-ff699f030cb7) \[6 May 2024]
+
+### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
+
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐1.1k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques \[Aug 2024]
+
 ### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
 
 *   `Supervised Fine-Tuning (SFT)` fine-tuning a pre-trained model on a specific task or domain using labeled data. This can cause more significant shifts in the model’s behavior compared to RLHF. <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rlhf-dpo.png" width="400" />
+
+### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama Finetuning**
+
+*   phi-series: cost-effective small language models (SLMs) [ref](https://azure.microsoft.com/en-us/products/phi-3)
+
+    <details>
+    <summary>Expand</summary>
+
+    *   Phi-3.5-MoE-instruct: [ref](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct) \[Aug 2024]
+
+    *   phi-3: Phi-3-mini, with 3.8 billion parameters, supports 4K and 128K context, instruction tuning, and hardware optimization. \[Apr 2024] [ref](https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-whats-possible-with-slms/)
+        *   phi-3-vision (multimodal), phi-3-small, phi-3 (7b), phi-sillica (Copilot+PC designed for NPUs)
+
+    *   phi-2: open source, and 50% better at mathematical reasoning. [git](https://huggingface.co/microsoft/phi-2) \[Dec 2023]
+
+    *   [phi-1.5](https://arxiv.org/abs/2309.05463): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.05463)]: Textbooks Are All You Need II. Phi 1.5 is trained solely on synthetic data. Despite having a mere 1 billion parameters compared to Llama 7B's much larger model size, Phi 1.5 often performs better in benchmark tests. \[11 Sep 2023]
+
+    *   [phi-1](https://arxiv.org/abs/2306.11644): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.11644)]: Despite being small in size, phi-1 attained 50.6% on HumanEval and 55.5% on MBPP. Textbooks Are All You Need. [ref](https://analyticsindiamag.com/microsoft-releases-1-3-bn-parameter-language-model-outperforms-llama/) \[20 Jun 2023]
+
+    </details>
 
 ### **Large Language Models (in 2023)** / **GPT series release date**
 
@@ -335,6 +398,14 @@
 
     </details>
 
+### **Agents: AutoGPT and Communicative Agents** / Agent Design Patterns
+
+*   [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435): Automated Design of Agentic Systems (ADAS), which aims to automatically create powerful agentic system designs, including inventing novel building blocks and/or combining them. \[15 Aug 2024]
+
+### **Agents: AutoGPT and Communicative Agents** / Tool use: LLM to Master APIs
+
+*   [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard_live.html) V2 \[Aug 2024]
+
 ### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
 
 *   [SakanaAI AI-Scientist (⭐4.5k)](https://github.com/SakanaAI/AI-Scientist): Towards Fully Automated Open-Ended Scientific Discovery \[Aug 2024]
@@ -344,11 +415,19 @@
 
 *   [Prompt caching with Claude](https://www.anthropic.com/news/prompt-caching): Reducing costs by up to 90% and latency by up to 85% for long prompts. \[15 Aug 2024]
 
+### **Awesome demo** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Vercel announced V0.dev](https://v0.dev/chat/AjJVzgx): Make a snake game with chat \[Oct 2023]
+
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
+
 ### **LLMOps: Large Language Model Operations** / Math
 
 *   [Azure ML Prompt flow](https://microsoft.github.io/promptflow/index.html): A set of LLMOps tools designed to facilitate the creation of LLM-based AI applications \[Sep 2023] > [How to Evaluate & Upgrade Model Versions in the Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/how-to-evaluate-amp-upgrade-model-versions-in-the-azure-openai/ba-p/4218880) \[14 Aug 2024]
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -373,13 +452,13 @@
 
 *   [mevn-boilerplate (⭐145)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
-## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [audio-katas (⭐53)](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
 
-## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [24. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -401,7 +480,7 @@
 
 *   [vite-plugin-typo3 (⭐2)](https://github.com/s2b/vite-plugin-typo3) - Frontend integration for TYPO3 CMS.
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Parsing html / Isomorphic web frameworks
 
@@ -409,7 +488,7 @@
     *   a port of the Python library html5lib.
     *   compared to Plump: Plump is a mix of an XML and an HTML parser and breaks on some HTML rules ([example (⭐119)](https://github.com/Shinmera/plump/issues/50)), while cl-html5-parser is a fully compliant HTML parser.
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
@@ -429,13 +508,13 @@
 
 *   [arthurhenrique/rusti-cal (⭐52)](https://github.com/arthurhenrique/rusti-cal) \[[rusti-cal](https://crates.io/crates/rusti-cal)] - A cal(1) clone lightning-fast \~ more than 9999 years \~ Written in Rust.
 
-## [24. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [27. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
 
-## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -456,13 +535,13 @@
 
 *   [angular-odata (⭐47)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 
-## [26. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / VPN
 
 *   [Gluetun VPN client (⭐7.1k)](https://github.com/qdm12/gluetun) -  VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.  `MIT` `docker`
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

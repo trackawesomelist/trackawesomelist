@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
+
+### Networking
+
+*   [MyIP (⭐5.7k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### PaaS
@@ -530,7 +536,7 @@
 ### Desktop
 
 *   [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Official native app. Only for Windows and MacOS
-*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
+*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) :skull: - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
 *   [DockStation (⭐2.1k)](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock\_station](https://twitter.com/dock_station)
 *   [Lifeboat (⭐185)](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 *   [Simple Docker UI (⭐596)](https://github.com/felixgborrego/simple-docker-ui) - built on Electron. By [@felixgborrego](https://github.com/felixgborrego/)
@@ -612,7 +618,7 @@
 *   [docker-alpine (⭐5.7k)](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image *(5MB)* using Alpine Linux by [@gliderlabs](https://github.com/gliderlabs)
 *   [docker-gen (⭐4.4k)](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder](https://github.com/jwilder)
 *   [GoSu (⭐4.7k)](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
-*   [is-docker (⭐217)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐318k)](https://github.com/sindresorhus/awesome)
+*   [is-docker (⭐217)](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus (⭐320k)](https://github.com/sindresorhus/awesome)
 *   [lstags (⭐326)](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 *   [NVIDIA-Docker (⭐17k)](https://github.com/NVIDIA/nvidia-docker) - The NVIDIA Container Runtime for Docker by [@NVIDIA](https://github.com/nvidia)
 *   [su-exec (⭐967)](https://github.com/ncopa/su-exec) - This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa)
@@ -775,7 +781,7 @@
 *   [Gebug (⭐633)](https://github.com/moshebe/gebug) - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 *   [Lando (⭐4.1k)](https://github.com/lando/lando) - Lando is for developers who want to quickly specify and painlessly spin up the services and tools needed to develop their projects. By [Tandem](https://thinktandem.io/)
 *   [Vagga (⭐1.9k)](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
-*   [Zsh-in-Docker (⭐867)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
+*   [Zsh-in-Docker (⭐875)](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
 
 ### Garbage Collection / Other
 

@@ -19,6 +19,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 
+### Uncategorized
+
+*   [goenum (⭐9)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Configuration

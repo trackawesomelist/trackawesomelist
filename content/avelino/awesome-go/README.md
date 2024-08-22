@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 22, 2024](/content/2024/08/22/README.md)
+
+### Uncategorized
+
+*   [goenum (⭐9)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
+
 ## [Aug 21, 2024](/content/2024/08/21/README.md)
 
 ### Actor Model

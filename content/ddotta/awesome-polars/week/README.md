@@ -11,6 +11,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-distance (⭐38)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Libraries/Packages/Scripts / Python
 
