@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
+
+### Authentication & Identity
+
+*   [MojoAuth](https://mojoauth.com/) - Complete CIAM solution with Enterprise SSO and extensive out-of-the-box enterprise features.
+
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
 ### Scraping

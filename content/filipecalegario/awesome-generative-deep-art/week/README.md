@@ -13,6 +13,10 @@ A curated list of Generative AI tools, works, models, and references
 *   [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE)
 *   [Thoughts on GenAI by James Gosling](https://www.linkedin.com/pulse/thoughts-genai-james-gosling-nab0c/)
 
+### Prompt Engineering
+
+*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐1.1k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+
 ### Image Segmentation / Deforum
 
 *   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
@@ -742,7 +746,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐63k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐64k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
@@ -1435,7 +1439,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Multimodal Embedding Space / Deforum
 
-*   [facebookresearch/ImageBind (⭐8.1k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.2k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 

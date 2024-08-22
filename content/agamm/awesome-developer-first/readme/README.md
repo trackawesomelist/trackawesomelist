@@ -97,6 +97,7 @@ For the latest additions [click here (⭐837)](https://github.com/agamm/awesome-
 *   [Kinde](https://kinde.com/) - Authentification and user management as a service.
 *   [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 *   [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+*   [MojoAuth](https://mojoauth.com/) - Complete CIAM solution with Enterprise SSO and extensive out-of-the-box enterprise features.
 *   [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
 *   [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
 *   [Oso](https://www.osohq.com/) - Authorization framework (RBAC).

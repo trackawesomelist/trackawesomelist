@@ -549,6 +549,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐1.1k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 *   [ncwilson78/System-Prompt-Library (⭐26)](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 *   [Promptstacks](https://www.promptstacks.com/): a prompt engineering community
 *   [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
@@ -642,7 +643,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   \[🔥🔥] [Ollama](https://ollama.ai/): run Llama 2, Code Llama, and other models locally
 *   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐63k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐64k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### Function Calling
 
@@ -1213,7 +1214,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 *   [Microsoft KOSMOS-2](https://twitter.com/mervenoyann/status/1720126908384366649): new capabilities of perceiving object descriptions (e.g., bounding boxes) and grounding text to the visual world [\[HF demo\]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [\[arxiv\]](https://arxiv.org/abs/2306.14824)
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
-*   [facebookresearch/ImageBind (⭐8.1k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.2k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 # Datasets
 
