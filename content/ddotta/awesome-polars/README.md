@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Aug 23, 2024](/content/2024/08/23/README.md)
+
+### Resources / Blog posts
+
+*   [Benchmarking energy usage and performance of Polars and pandas](https://pola.rs/posts/benchmark-energy-performance/) - A blog post by [the Polars team](https://pola.rs/) itself benchmarking Polars and Pandas.
+
 ## [Aug 22, 2024](/content/2024/08/22/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
@@ -72,7 +78,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
-### Official news :
+### Official news
 
 *   **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
 *   **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).

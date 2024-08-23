@@ -129,6 +129,24 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Nix in 100 Seconds](https://youtu.be/FJVFXsNzYZQ?si=lf_HgLiHYAnX-_vx) - A YouTube video from Fireship presenting Nix in 100 seconds.
 
+#### [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Email
+
+*   [Plunk](https://useplunk.com) - 3K emails/month for free
+
+#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Package Managers
+
+*   [rebos](https://crates.io/crates/rebos) - A declarative way to automate package management on any linux distro [![crate](https://img.shields.io/crates/v/rebos?logo=rust)](https://crates.io/crates/rebos)
+
+#### [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Resources / Blog posts
+
+*   [Benchmarking energy usage and performance of Polars and pandas](https://pola.rs/posts/benchmark-energy-performance/) - A blog post by [the Polars team](https://pola.rs/) itself benchmarking Polars and Pandas.
+
 ### [Aug 22, 2024](/content/2024/08/22/README.md)
 
 
@@ -158,25 +176,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Wagtail tutorial template (⭐3)](https://github.com/thibaudcolas/wagtail-tutorial-template)
 *   [Wagtail news template (⭐3)](https://github.com/torchbox/wagtail-news-template)
 
-#### [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Education and Career Development
-
-*   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
-
-#### [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Development tools / IDEs
-
-*   [RustRover](https://www.jetbrains.com/rust/) - A powerful Rust IDE by JetBrains, free for individual non-commercial use
-
-#### [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Database Drivers
 
 *   [Trilogy (⭐692)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
 
-#### [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Graphical User Interface / Apache License
 
@@ -186,13 +192,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [sal](https://web.archive.org/web/20240525031005/https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library): customized containers, AUnit extensions and various generics.
 
-#### [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+#### [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ##### Networking
 
 *   [MyIP (⭐5.7k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
 
-#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### AI / Diagnostics
 
@@ -202,7 +208,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [debugloop/layers.nvim (⭐11)](https://github.com/debugloop/layers.nvim) -  Craft temporary keymap overlays and layered modes with ease.
 
-#### [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+#### [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ##### Other Useful Repositories
 
@@ -212,19 +218,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Uncategorized
 
 *   [goenum (⭐9)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
 
-#### [11. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
-
-#### [12. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **RAG Pipeline & Advanced RAG**
 
@@ -274,11 +274,29 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
 
-#### [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering
 
 *   [Anthropic's Prompt Engineering Interactive Tutorial (⭐1.1k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Education and Career Development
+
+*   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
+
+#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Development tools / IDEs
+
+*   [RustRover](https://www.jetbrains.com/rust/) - A powerful Rust IDE by JetBrains, free for individual non-commercial use
+
+#### [13. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### [Aug 21, 2024](/content/2024/08/21/README.md)
 
@@ -341,13 +359,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Unite](https://furnacecreek.org/unite/) - The only native GroupMe app for Mac.
 
-#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Utilities
-
-*   [dcapal (⭐52)](https://github.com/dcapal/dcapal) - DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.
-
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Actor Model
 
@@ -360,17 +372,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 
-#### [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars-distance (⭐38)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
-
-##### Libraries/Packages/Scripts / Python
-
-*   [PDS(polars-ds) (⭐299)](https://github.com/abstractqqq/polars_ds_extension) - A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.[@abstractqqq](https://github.com/abstractqqq).
-
-#### [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **Retrieval-Augmented Generation: Research Papers**
 
@@ -407,13 +409,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LLM Pre-training and Post-training Paradigms](https://sebastianraschka.com/blog/2024/new-llm-pre-training-and-post-training.html) \[17 Aug 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-dev-pipeline-overview.png" width="350" />
 
-#### [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+#### [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ##### UI Libraries, Components & Templates
 
 *   🧩 [Motion Primitives](https://motion-primitives.com) - React motion components built with Tailwind CSS and Framer Motion.
 
-#### [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Critical Views about Generative AI
 
@@ -424,11 +426,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
-#### [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Web
 
 *   [allangomes/kotlinwind.css (⭐6)](https://github.com/allangomes/kotlinwind.css) - Kotlin DSL for CSS based on Tailwind.
+
+#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Utilities
+
+*   [dcapal (⭐52)](https://github.com/dcapal/dcapal) - DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.
+
+#### [12. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-distance (⭐38)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+
+##### Libraries/Packages/Scripts / Python
+
+*   [PDS(polars-ds) (⭐299)](https://github.com/abstractqqq/polars_ds_extension) - A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.[@abstractqqq](https://github.com/abstractqqq).
 
 ---
 
@@ -439,12 +457,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 318K 📝 08&#x2F;14 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 190K 📝 08&#x2F;18 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 127K 📝 08&#x2F;22 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;23 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 82K 📝 08&#x2F;22 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 74K 📝 08&#x2F;21 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 72K 📝 08&#x2F;19 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-8. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 308K 📝 08&#x2F;03 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K 📝 08&#x2F;22 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K 📝 08&#x2F;23 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+9. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 308K 📝 08&#x2F;03 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 10. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 30K 📝 08&#x2F;22 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
 11. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 08&#x2F;18 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 12. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 58K 📝 08&#x2F;11 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -1032,7 +1050,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;23 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;10 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1160,7 +1178,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 08&#x2F;18 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 682, 📝 08&#x2F;22 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 682, 📝 08&#x2F;23 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1172,7 +1190,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 5.7K, 📝 02&#x2F;25 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 431, 📝 22&#x2F;01&#x2F;06 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 08&#x2F;22 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K, 📝 08&#x2F;22 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 45K, 📝 08&#x2F;23 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 8.6K, 📝 22&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 218, 📝 21&#x2F;10&#x2F;27 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

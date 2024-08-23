@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Aug 23, 2024](/content/2024/08/23/README.md)
+
+### Applications / Package Managers
+
+*   [rebos](https://crates.io/crates/rebos) - A declarative way to automate package management on any linux distro [![crate](https://img.shields.io/crates/v/rebos?logo=rust)](https://crates.io/crates/rebos)
+
 ## [Aug 22, 2024](/content/2024/08/22/README.md)
 
 ### Development tools / IDEs
@@ -2524,7 +2530,7 @@ A curated list of Rust code and resources.
         *   [ihalila/pancurses (⭐392)](https://github.com/ihalila/pancurses) \[[pancurses](https://crates.io/crates/pancurses)] - curses library, supports linux and windows
         *   [jeaye/ncurses-rs (⭐674)](https://github.com/jeaye/ncurses-rs) \[[ncurses](https://crates.io/crates/ncurses)] - [ncurses](https://www.gnu.org/software/ncurses/) bindings
     *   [ogham/rust-term-grid (⭐65)](https://github.com/ogham/rust-term-grid) \[[term\_grid](https://crates.io/crates/term_grid)] - Library for putting things in a grid
-    *   [ratatui-org/ratatui (⭐9.3k)](https://github.com/ratatui-org/ratatui) \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
+    *   [ratatui-org/ratatui (⭐9.5k)](https://github.com/ratatui/ratatui) \[[ratatui](https://crates.io/crates/ratatui)] - Library that's all about cooking up terminal user interfaces (TUIs)
     *   [redox-os/termion (⭐2.1k)](https://github.com/redox-os/termion) \[[termion](https://crates.io/crates/termion)] - bindless library for controlling terminals/TTY
     *   [ruterm](https://crates.io/crates/ruterm) - tiny & simple library for working with TTY
     *   Termbox
@@ -4027,7 +4033,7 @@ A curated list of Rust code and resources.
 ### Development tools / Transpiling
 
 *   [immunant/c2rust (⭐3.9k)](https://github.com/immunant/c2rust) - C to Rust translator and cross checker built atop Clang/LLVM.
-*   [jameysharp/corrode (⭐2.1k)](https://github.com/jameysharp/corrode) - A C to Rust translator written in Haskell.
+*   [jameysharp/corrode (⭐2.2k)](https://github.com/jameysharp/corrode) - A C to Rust translator written in Haskell.
 
 ### Libraries / Game development
 

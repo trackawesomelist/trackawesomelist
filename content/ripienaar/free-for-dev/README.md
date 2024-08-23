@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 23, 2024](/content/2024/08/23/README.md)
+
+### Email
+
+*   [Plunk](https://useplunk.com) - 3K emails/month for free
+
 ## [Aug 22, 2024](/content/2024/08/22/README.md)
 
 ### Education and Career Development

@@ -20,6 +20,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [photoshoot (⭐2)](https://github.com/ngriffiths13/photoshoot) - A pytest plugin library for doing snapshot testing with Polars DataFrames by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [polar\_patch (⭐1)](https://github.com/Summit-Sailors/polar_patch) - Python package that brings type safety and type checking for custom Polars plugins by [@Summit-Sailors](https://github.com/Summit-Sailors).
 
+### Resources / Blog posts
+
+*   [Benchmarking energy usage and performance of Polars and pandas](https://pola.rs/posts/benchmark-energy-performance/) - A blog post by [the Polars team](https://pola.rs/) itself benchmarking Polars and Pandas.
+
 ### Resources / Talks and videos
 
 *   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=OTVDmA6CRlQ) ⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by [@KeithGalli](https://github.com/KeithGalli). Associated github repo is [here (⭐2)](https://github.com/KeithGalli/polars-livestream).
@@ -50,7 +54,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
-### Official news :
+### Official news
 
 *   **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
 *   **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).
