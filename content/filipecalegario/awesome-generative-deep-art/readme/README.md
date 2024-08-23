@@ -516,7 +516,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Let Us Show You How GPT Works — Using Jane Austen - The New York Times](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 *   [Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks | arxiv](https://arxiv.org/abs/2304.14732): "a novel framework called Search-in-the-Chain (SearChain) to improve the accuracy, credibility and traceability of LLM-generated content for multi-hop question answering"
 *   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐9.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-*   [hpcaitech/ColossalAI (⭐38k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
+*   [hpcaitech/ColossalAI (⭐39k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 *   [microsoft/LoRA (⭐10k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 *   [kyrolabs/awesome-langchain (⭐7.3k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
@@ -1293,7 +1293,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [kyrolabs/awesome-langchain (⭐7.3k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework
 *   [KangweiiLiu/Awesome\_Audio-driven\_Talking-Face-Generation (⭐120)](https://github.com/KangweiiLiu/Awesome_Audio-driven_Talking-Face-Generation): A curated list of resources of audio-driven talking face generation
 *   \[🔥] [amrzv/awesome-colab-notebooks (⭐1.3k)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐5.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐5.5k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐334)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 *   [margaretmz/awesome-ai-art-design (⭐29)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐281)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
@@ -1319,6 +1319,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+*   [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 *   [ResumeDive](https://resumedive.com): A resume boosting service using AI
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent
 *   [fynk](https://fynk.com/): AI powered contract management software

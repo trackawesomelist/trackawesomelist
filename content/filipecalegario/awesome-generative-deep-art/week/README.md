@@ -21,6 +21,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Content Studio AI](https://contentstudioai.com/): Faceless Video Generator
 
+### Auxiliary tools and concepts / Deforum
+
+*   [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Generative AI Tools Directories
@@ -1450,7 +1454,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐9.1k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
-*   [hpcaitech/ColossalAI (⭐38k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
+*   [hpcaitech/ColossalAI (⭐39k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 *   [microsoft/LoRA (⭐10k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
 ### Related Awesome Lists / Deforum
@@ -2093,7 +2097,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐5.4k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+*   \[🔥🔥🔥] [steven2358/awesome-generative-ai (⭐5.5k)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [chaosreactor/awesome-generative-ai (⭐40)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
