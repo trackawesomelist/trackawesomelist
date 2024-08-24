@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Aug 24, 2024](/content/2024/08/24/README.md)
+
+### Templates / Vanilla
+
+*   [vite-swagger-ui (⭐1)](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
+
+### Templates / Vue 3
+
+*   [vite-ts-starter (⭐115)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
+
 ## [Aug 19, 2024](/content/2024/08/19/README.md)
 
 ### Templates / React

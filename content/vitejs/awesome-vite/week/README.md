@@ -8,6 +8,14 @@
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
+### Templates / Vanilla
+
+*   [vite-swagger-ui (⭐1)](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
+
+### Templates / Vue 3
+
+*   [vite-ts-starter (⭐115)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
+
 ### Templates / React
 
 *   [React Dapp Starter (⭐1)](https://github.com/Manta-Network/react-dapp-starter) - Enterprise-ready Web3 DApp starter with `TypeScript`, `TailwindCSS`, `Web3Modal`, `Wagmi`, `Shadcn UI`, `Zustand`, and `TanStack Query` for scalable decentralized applications.

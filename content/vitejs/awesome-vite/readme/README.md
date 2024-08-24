@@ -75,6 +75,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-vanilla-library-template (⭐20)](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 *   [vite-alpine-template (⭐2)](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 *   [vite-ts-lib-starter (⭐3)](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
+*   [vite-swagger-ui (⭐1)](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
 
 #### Vue 3
 
@@ -106,6 +107,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [materio-free-vuetify-nuxtjs-admin-template (⭐43)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 *   [vite-plugin-vue-style-bundler (⭐6)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
 *   [celeris-web (⭐380)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
+*   [vite-ts-starter (⭐115)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 
 #### Vue 2
 
