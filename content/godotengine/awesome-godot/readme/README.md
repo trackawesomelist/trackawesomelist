@@ -22,6 +22,7 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 *   [Games](#games)
     *   [2D](#2d)
     *   [3D](#3d)
+    *   \[XR] (#xr)
 *   [Projects](#projects)
 *   [Templates](#templates)
 *   [Demos](#demos)
@@ -54,7 +55,7 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 *   [Pocket Broomball (⭐30)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 *   [Portal 2D (⭐87)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 *   [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
-*   [Starship Olympics (⭐491)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [Starship Olympics (⭐500)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 *   [TuxBuilder (⭐209)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 #### Godot 3.1
@@ -121,6 +122,17 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 
 *   [Cheese Hunter (⭐16)](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
+### XR
+
+#### Godot 4.1
+
+*   [Piggy Rescue (⭐3)](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+#### Godot 3.5
+
+*   [Beep Saber VR (⭐102)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+*   [Friday Night Funkin\` (⭐40)](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
 ## Projects
 
 *Non-game Open source projects made with Godot (tools/utilities).*
@@ -150,6 +162,7 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 
 #### Godot 4.2+
 
+*   [Godot XR Template (⭐126)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 *   [Maaack's Game Template (⭐361)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 #### Godot 3.5+
@@ -267,13 +280,15 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 
 *   [AnimatedShape2D (⭐110)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 *   [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
-*   [Dialogue Engine (⭐21)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
+*   [Dialogue Engine (⭐30)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 *   [Godot Google Play Game Services (⭐95)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+*   [Godot XR Tools (⭐488)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 *   [LimboAI (⭐992)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 *   [Maaack's Game Template Plugin (⭐361)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Maaack's Menus Template (⭐112)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐18)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 *   [PixelPen (⭐64)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+*   [TerraBrush (⭐594)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 #### Godot 3.2+
 
@@ -424,7 +439,7 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 
 *Alternative themes for the built-in script editor.*
 
-*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐529)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐539)](https://github.com/chriskempson/base16) themes.
 *   [Godot syntax themes (⭐376)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 *   [Syntax themes by Geequlim (⭐55)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
@@ -458,7 +473,6 @@ See [Vivraan/godot-lang-support (⭐323)](https://github.com/Vivraan/godot-lang-
 
 *   [codetranslator (⭐49)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gd2cs.py (⭐86)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
-*   [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 *   [godot-actions (⭐26)](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 *   [godot-ci (⭐691)](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.

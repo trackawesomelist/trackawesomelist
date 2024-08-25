@@ -136,10 +136,6 @@
 
 *   [allangomes/kotlinwind.css (⭐6)](https://github.com/allangomes/kotlinwind.css) - Kotlin DSL for CSS based on Tailwind.
 
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
 ### Libraries/Frameworks / Data Science
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
@@ -425,6 +421,24 @@
 ### 3D / Godot 4.3
 
 *   [OpenLiberty (⭐68)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+
+### XR / Godot 4.1
+
+*   [Piggy Rescue (⭐3)](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+### XR / Godot 3.5
+
+*   [Beep Saber VR (⭐102)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+*   [Friday Night Funkin\` (⭐40)](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
+### Templates / Godot 4.2+
+
+*   [Godot XR Template (⭐126)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
+
+### Plugins and scripts / Godot 4.2+
+
+*   [Godot XR Tools (⭐488)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+*   [TerraBrush (⭐594)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 ## [27. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 

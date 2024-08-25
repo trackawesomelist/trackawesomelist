@@ -6,6 +6,26 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Aug 25, 2024](/content/2024/08/25/README.md)
+
+### XR / Godot 4.1
+
+*   [Piggy Rescue (⭐3)](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+### XR / Godot 3.5
+
+*   [Beep Saber VR (⭐102)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+*   [Friday Night Funkin\` (⭐40)](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
+### Templates / Godot 4.2+
+
+*   [Godot XR Template (⭐126)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
+
+### Plugins and scripts / Godot 4.2+
+
+*   [Godot XR Tools (⭐488)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+*   [TerraBrush (⭐594)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
+
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 
 ### 3D / Godot 4.3
@@ -16,13 +36,13 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### 2D / Godot 3.2+
 
-*   [Starship Olympics (⭐491)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
+*   [Starship Olympics (⭐500)](https://github.com/notapixelstudio/starship-olympics) - Fast-paced local party game with starships that battle in a top-down arena.
 
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
 ### Plugins and scripts / Godot 4.2+
 
-*   [Dialogue Engine (⭐21)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
+*   [Dialogue Engine (⭐30)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 
 ## [Aug 05, 2024](/content/2024/08/05/README.md)
 
@@ -870,7 +890,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Other / Godot version unknown
 
 *   [codetranslator (⭐49)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
-*   [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - Translates GDScript to GDNative C++ (WIP).
 
 ## [Sep 17, 2020](/content/2020/09/17/README.md)
 
@@ -926,7 +945,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐529)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐31)](https://github.com/Calinou/base16-godot) - All [base16 (⭐539)](https://github.com/chriskempson/base16) themes.
 
 ## [Jan 29, 2019](/content/2019/01/29/README.md)
 
