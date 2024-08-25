@@ -600,31 +600,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [rlychrisg/keepcursor.nvim (⭐1)](https://github.com/rlychrisg/keepcursor.nvim) - A collection of functions to control how the screen is positioned around the cursor.
 
-#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Authentication, Authorization, and User Management
-
-*   [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
-
-##### Education and Career Development
-
-*   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
-
-##### Email
-
-*   [Plunk](https://useplunk.com) - 3K emails/month for free
-
-##### Other Free Resources
-
-*   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
-
-#### [34. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+#### [33. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ##### Tools / Libraries and tools for developers
 
 *   [sphinx-intl (⭐71)](https://github.com/sphinx-doc/sphinx-intl) - A Sphinx utility that make it easy to translate and to apply translations.
 
-#### [35. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [34. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### 3D / Godot 4.3
 
@@ -648,7 +630,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Godot XR Tools (⭐488)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 *   [TerraBrush (⭐594)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
-#### [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Web
 
@@ -731,6 +713,48 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
+#### [36. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+
+##### Books / Monograph
+
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐896)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   [Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
+*   [Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.
+*   [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
+*   [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
+*   [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
+*   [The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book) - The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant.
+
+##### Lecture Notes / Monograph
+
+*   [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
+*   [Martin-Löf. Intuitionistic Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Notes by Giovanni Sambin of a series of type theory lectures given in Padua, June 1980.
+*   [Helsinki. Haskell MOOC](https://haskell.mooc.fi) - An online course on functional programming with Haskell programming language, and a live interactive Telegram community.
+*   [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A modern course on data structures and functional programming using OCaml.
+
+##### Network Groups / Monograph
+
+*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.1k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
+
+#### [37. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Authentication, Authorization, and User Management
+
+*   [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
+*   [Stack Auth](https://stack-auth.com) — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
+
+##### Education and Career Development
+
+*   [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
+
+##### Email
+
+*   [Plunk](https://useplunk.com) - 3K emails/month for free
+
+##### Other Free Resources
+
+*   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
+
 ---
 
 - Next: [Aug 12 - Aug 18, 2024](&#x2F;content&#x2F;2024&#x2F;33&#x2F;README.md)
@@ -740,7 +764,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 318K 📝 08&#x2F;14 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 190K 📝 08&#x2F;18 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 127K 📝 08&#x2F;22 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K 📝 08&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 87K 📝 08&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 82K 📝 08&#x2F;22 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 74K 📝 08&#x2F;21 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 72K 📝 08&#x2F;19 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -897,7 +921,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K, 📝 23&#x2F;01&#x2F;05 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md) - ([Source ⭐ 139, 📝 21&#x2F;04&#x2F;04 ](https://github.com/aaronhma/awesome-tensorflow-js)) - Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js
 - [Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md) - ([Source ⭐ 960, 📝 22&#x2F;02&#x2F;15 ](https://github.com/margaretmz/awesome-tensorflow-lite)) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
-- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 553, 📝 01&#x2F;24 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
+- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 647, 📝 08&#x2F;25 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 - [Awesome Xai](/content/altamiracorp/awesome-xai/README.md) - ([Source ⭐ 54, 📝 21&#x2F;05&#x2F;04 ](https://github.com/altamiracorp/awesome-xai)) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 - [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 165K, 📝 21&#x2F;07&#x2F;23 ](https://github.com/ossu/computer-science)) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
@@ -1333,7 +1357,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.8K, 📝 04&#x2F;13 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 86K, 📝 08&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 87K, 📝 08&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;10 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 11K, 📝 23&#x2F;10&#x2F;11 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 3.4K, 📝 03&#x2F;15 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
