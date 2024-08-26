@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Hacking](/content/content/Hack-with-Github/Awesome-Hacking/README.md)
@@ -2077,6 +2077,7 @@
 - [Days](daily/README.md)
   - [2024](2024/month/README.md)
     - [8](2024/8/day/README.md)
+      - [Aug 26, 2024](2024/08/26/README.md)
       - [Aug 25, 2024](2024/08/25/README.md)
       - [Aug 24, 2024](2024/08/24/README.md)
       - [Aug 23, 2024](2024/08/23/README.md)
@@ -5990,6 +5991,7 @@
       - [Sep 11, 2012](2012/09/11/README.md)
 - [Weeks](week/README.md)
   - [2024](2024/week/README.md)
+    - [Aug 26 - Sep 01, 2024](2024/35/README.md)
     - [Aug 19 - Aug 25, 2024](2024/34/README.md)
     - [Aug 12 - Aug 18, 2024](2024/33/README.md)
     - [Aug 05 - Aug 11, 2024](2024/32/README.md)
