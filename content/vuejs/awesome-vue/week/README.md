@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
+
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Resources / Podcasts
@@ -166,7 +172,7 @@
 
 *   [vue-default-page (⭐26)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐955)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐986)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
@@ -895,7 +901,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐13k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐14k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [vue-birthday-reminder (⭐3)](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 
 ### Components & Libraries / Frameworks
@@ -1499,7 +1505,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.8k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -4427,7 +4433,7 @@
 
 *   [Idea Re-Vue (⭐14)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
 *   [VueFront (⭐388)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
-*   [MQTTX (⭐3.7k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 *   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
 ### Components & Libraries / UI Components

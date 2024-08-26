@@ -904,7 +904,7 @@
 *   [Akaunting (⭐7.9k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 *   [VueFront (⭐388)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 *   [Mockup-server (⭐124)](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
-*   [MQTTX (⭐3.7k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 *   [Pychat (⭐231)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 *   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 *   [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
@@ -931,11 +931,11 @@
 *   [Trooveo (⭐9)](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
 *   [Yacht (⭐3.3k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 *   [Antares SQL (⭐1.7k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
-*   [Bagisto (⭐13k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐14k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [Samaya (⭐10)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 *   [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 *   [GrandNode 2.0 (⭐1.1k)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
-*   [Aimeos (⭐3.8k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 *   [XIV ToDo (⭐123)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 *   [Interface X (⭐80)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
@@ -1427,6 +1427,7 @@
 *   [vue-vben-admin (⭐24k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 *   [Geeker-Admin (⭐7k)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 *   [gin-vue-admin (⭐21k)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
+*   [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 
 #### Server-side rendering
 
@@ -1972,7 +1973,7 @@ Tooltips / popovers
 *   [vue-datepicker-ui (⭐427)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 *   [vue-tailwind-datepicker (⭐224)](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 *   [qalendar (⭐243)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
-*   [schedule-x (⭐955)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐986)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 #### Map
 

@@ -320,6 +320,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-lib-types (⭐4)](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
 *   [vite-plugin-minipic (⭐30)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 *   [vite-plugin-robots (⭐7)](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
+*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
 #### Transformers
 
@@ -788,7 +789,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [Slidev (⭐32k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 *   [Astro (⭐45k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐553)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐7.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐2.6k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐440)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐316)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

@@ -1,12 +1,78 @@
 # Awesome List Updates on Aug 26 - Sep 01, 2024
 
-3 awesome lists updated this week.
+9 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [1. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+
+### Techniques / Linux
+
+*   [PANIX - Persistence Against \*NIX - Features (⭐318)](https://github.com/Aegrah/PANIX?tab=readme-ov-file#features) - List of persistence techniques.
+*   [Linux Detection Engineering -  A primer on persistence mechanisms](https://www.elastic.co/security-labs/primer-on-persistence-mechanisms) - List of Linux persistence mechanisms.
+
+### Techniques / Cloud
+
+*   [Persisting on Entra ID applications and User Managed Identities with Federated Credentials](https://dirkjanm.io/persisting-with-federated-credentials-entra-apps-managed-identities/) - Persist on Entra ID applications and User Managed Identities with Federated Credentials.
+
+### Detection Testing / Windows
+
+*   [PANIX (⭐318)](https://github.com/Aegrah/PANIX) - A highly customizable Linux persistence tool. Perform various persistence techniques against Linux systems, among others Debian and RHEL.
+
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+
+### Frameworks, Libraries and Tools / Queue and Messaging
+
+*   [NServiceBus (⭐2.1k)](https://github.com/particular/nservicebus) - NServiceBus is part of the [Particular Service Platform](https://particular.net/service-platform), which contains tools to build, monitor, and debug distributed systems.
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
+
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-sticky-kit (⭐2)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+
+### Authorization / Policy models
+
+*   [Service-to-service authorization: A guide to non-user principals](https://www.cerbos.dev/blog/service-to-service-authorization) - Discover how assigning identities to services (non-user principals) can simplify authentication, enhance security, and streamline authorization in complex distributed systems. A useful guide for IAM teams managing microservices and APIs.
+
+### Authorization / ReBAC frameworks
+
+*   [Permify (⭐3.5k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
+
+### Authorization / AWS policy tools
+
+*   [An AWS IAM Security Tooling Reference](https://ramimac.me/aws-iam-tools-2024) - A comprehensive list of (maintained) tools for AWS IAM.
+
+### Authorization / Other tools
+
+*   [Gubernator (⭐84)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
+
+### OAuth2 & OpenID / Other tools
+
+*   [How to Implement a Secure Central Authentication Service in Six Steps](https://shopify.engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
+*   [Authgear (⭐78)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
+
+### Trust & Safety / User Identity
+
+*   [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) - Some groups and content are illegal in some juridictions. This is an example of a blocklist.
+
+## [7. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### Tools
 
@@ -22,7 +88,7 @@
 *   Hyperautomation: A Business Guide to Navigating the Future with Robotic Process Automation.
 *   The Art of Automation: A Guide to Using Automation to Enhance Business Performance.
 
-## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [8. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Learning / Helpers
 
@@ -32,7 +98,7 @@
 
 *   [Kubernetes Podcast - OpenTofu, with Ohad Maislish](https://kubernetespodcast.com/episode/232-opentofu/)
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 

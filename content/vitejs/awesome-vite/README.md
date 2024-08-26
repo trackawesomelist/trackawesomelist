@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Aug 26, 2024](/content/2024/08/26/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+
 ## [Aug 24, 2024](/content/2024/08/24/README.md)
 
 ### Templates / Vanilla
@@ -1298,7 +1304,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐7.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐7.8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
