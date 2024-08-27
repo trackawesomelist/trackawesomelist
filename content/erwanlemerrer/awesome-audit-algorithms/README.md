@@ -2,9 +2,15 @@
 
 A curated list of algorithms and papers for auditing black-box algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 85 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 88 · 🏷️ Theory
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
+
+## [Aug 27, 2024](/content/2024/08/27/README.md)
+
+### Papers / 2023
+
+*   [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
 
 ## [Jul 17, 2024](/content/2024/07/17/README.md)
 
@@ -259,8 +265,8 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 ### Papers / 2016
 
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
-*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐340)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
-*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐304)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
+*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐342)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
+*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐305)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 

@@ -2,7 +2,7 @@
 
 A curated list of algorithms and papers for auditing black-box algorithms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 85 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 88 · 🏷️ Theory
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / Overview ]
 
@@ -39,6 +39,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ### 2023
 
+*   [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
 *   [XAudit : A Theoretical Look at Auditing with Explanations](https://arxiv.org/pdf/2206.04740.pdf) - (Arxiv) *Formalizes the role of explanations in auditing and investigates if and how model explanations
     can help audits.*
 *   [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - (Arxiv) *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
@@ -121,8 +122,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 *   [Auditing Black-Box Models for Indirect Influence](https://arxiv.org/abs/1602.07043) - (ICDM) *Evaluate the influence of a variable on a black-box model by "cleverly" removing it from the dataset and looking at the accuracy gap*
 *   [Iterative Orthogonal Feature Projection for Diagnosing Bias in Black-Box Models](https://arxiv.org/abs/1611.04967) - (FATML Workshop) *Performs feature ranking to analyse black-box models*
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
-*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐340)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
-*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐304)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
+*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐342)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
+*   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐305)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*
 *   [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - (WWW) [(Code)](http://personalization.ccs.neu.edu) *Develops a methodology for detecting algorithmic pricing, and use it empirically to analyze their prevalence and behavior on Amazon Marketplace.*
