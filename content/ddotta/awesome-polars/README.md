@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Aug 27, 2024](/content/2024/08/27/README.md)
+
+### Libraries/Packages/Scripts / R
+
+*   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+
 ## [Aug 23, 2024](/content/2024/08/23/README.md)
 
 ### Resources / Blog posts

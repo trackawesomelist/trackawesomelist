@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Aug 27, 2024](/content/2024/08/27/README.md)
+
+### Email
+
+*   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
+
 ## [Aug 25, 2024](/content/2024/08/25/README.md)
 
 ### Authentication, Authorization, and User Management
