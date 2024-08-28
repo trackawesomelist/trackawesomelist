@@ -12,6 +12,15 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [OllamaFarm (⭐8)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
+### Blockchain
+
+*   [lnd (⭐7.6k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
+
+### Standard CLI
+
+*   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
+*   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
+
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Actor Model
@@ -46,7 +55,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Game Development
 
-*   [grid (⭐15)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
+*   [grid (⭐16)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 
 ### Goroutines
 
@@ -55,7 +64,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [Cogent Core (⭐1.6k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
+*   [Cogent Core (⭐1.7k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 
 ### IoT (Internet of Things)
 
@@ -63,11 +72,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Job Scheduler
 
-*   [Cadence-client (⭐340)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+*   [Cadence-client (⭐344)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 
 ### Messaging
 
-*   [rabbitroutine (⭐108)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
+*   [rabbitroutine (⭐109)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 
 ### Language Detection
 
@@ -75,7 +84,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+*   [go-multiproxy (⭐6)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 *   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 *   [webhooked (⭐34)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
@@ -165,7 +174,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [Fuego (⭐704)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐761)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
@@ -2548,8 +2557,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
 *   [carapace (⭐301)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐816)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
-*   [cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
-*   [cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐176)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
 *   [cmd (⭐41)](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way.

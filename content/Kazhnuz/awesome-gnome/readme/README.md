@@ -95,7 +95,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 *   [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
 *   [Time Tracker](https://flathub.org/apps/com.lynnmichaelmartin.TimeTracker) - Local-first project time tracker with sync option via cloud or network storage (CSV file).
-*   [Newelle (⭐112)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
+*   [Newelle (⭐114)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
 ### Well Being
 
@@ -152,7 +152,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle][GNOME Circle]
 *   [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Graphical interface for advanced GNOME settings.
 *   [HydraPaper](https://hydrapaper.gabmus.org) - Set a different background for each monitor.
-*   [Dynamic Gnome Wallpapers (⭐345)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐354)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 *   [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
 *   [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 *   [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) - Flatpak permission manager.
@@ -165,6 +165,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Luminance (⭐92)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 *   [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
+*   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle][GNOME Circle]
 
 ### Utilities
 
@@ -278,14 +279,14 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Upstream Style
 
-*   [MoreWaita (⭐482)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐488)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐199)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 #### Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -293,9 +294,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 #### Homogeneous Icons
 
-*   [Obsidian (⭐185)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
-*   [Numix Circle (⭐879)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐161)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Obsidian (⭐187)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Numix Circle (⭐880)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐162)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 #### Skeumorphic Icons
 
@@ -304,17 +305,17 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Cursors
 
 *   [ComixCursors](https://www.gnome-look.org/p/999996) - X11 mouse theme with a comics feeling.
-*   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ### Themes for non-GTK apps
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐141)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
-*   [Discord GNOME Theme (⭐8)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+*   [Adwaita theme for VS Code (⭐142)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Discord GNOME Theme (⭐10)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 *   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
-*   [Thunderbird GNOME Theme (⭐272)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
-*   [Obsidian Adwaita Theme (⭐102)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Thunderbird GNOME Theme (⭐277)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Obsidian Adwaita Theme (⭐103)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community
 

@@ -61,7 +61,7 @@ We use the *[Golang Bridge (⭐400)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐215k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐217k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -305,6 +305,7 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 *   [gosemble (⭐9)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 *   [gossamer (⭐425)](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
 *   [kubo (⭐16k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
+*   [lnd (⭐7.6k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
 *   [solana-go (⭐798)](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 *   [tendermint (⭐5.7k)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
@@ -422,8 +423,6 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 *   [carapace (⭐301)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐816)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐16)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
-*   [cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
-*   [cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐176)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
 *   [cmd (⭐41)](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way.
@@ -450,6 +449,7 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 *   [liner (⭐1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mcli (⭐29)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
 *   [mitchellh/cli (⭐1.7k)](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
+*   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [mow.cli (⭐871)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 *   [ops (⭐1.3k)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
 *   [pflag (⭐2.4k)](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
@@ -459,6 +459,7 @@ Please take a quick gander at the [contribution guidelines (⭐127k)](https://gi
 *   [strumt (⭐60)](https://github.com/antham/strumt) - Library to create prompt chain.
 *   [subcmd (⭐8)](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
 *   [survey (⭐4.1k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
+*   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 *   [ts (⭐20)](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
 *   [ukautz/clif (⭐129)](https://github.com/ukautz/clif) - Small command line interface framework.
 *   [urfave/cli (⭐22k)](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
@@ -1237,7 +1238,7 @@ additional ordered map implementations.
 *   [go3d (⭐308)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet (⭐1.3k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.6k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
-*   [grid (⭐15)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
+*   [grid (⭐16)](https://github.com/s0rg/grid) - Generic 2D grid with ray-casting, shadow-casting and path finding.
 *   [Harfang3D (⭐551)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 *   [Leaf (⭐5.2k)](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano (⭐2.8k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
@@ -1371,7 +1372,7 @@ additional ordered map implementations.
 *Toolkits*
 
 *   [app (⭐7.9k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
-*   [Cogent Core (⭐1.6k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
+*   [Cogent Core (⭐1.7k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 *   [DarwinKit (⭐4.9k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 *   [energy (⭐357)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
 *   [fyne (⭐24k)](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
@@ -1493,7 +1494,7 @@ additional ordered map implementations.
 
 *Libraries for scheduling jobs.*
 
-*   [Cadence-client (⭐340)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
+*   [Cadence-client (⭐344)](https://github.com/uber-go/cadence-client) - A framework for authoring workflows and activities running on top of the Cadence orchestration engine made by Uber.
 *   [cdule (⭐48)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 *   [cheek (⭐140)](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 *   [clockwerk (⭐144)](https://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
@@ -1724,7 +1725,7 @@ additional ordered map implementations.
 *   [oplog (⭐111)](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 *   [pubsub (⭐424)](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.
 *   [Quamina (⭐376)](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
-*   [rabbitroutine (⭐108)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
+*   [rabbitroutine (⭐109)](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 *   [rabbus (⭐97)](https://github.com/rafaeljesus/rabbus) - A tiny wrapper over amqp exchanges and queues.
 *   [rabtap (⭐257)](https://github.com/jandelgado/rabtap) - RabbitMQ swiss army knife cli app.
 *   [RapidMQ (⭐68)](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
@@ -1992,7 +1993,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [gnet (⭐16)](https://github.com/fish-tennis/gnet) - `gnet` is a high-performance networking framework,especially for game servers.
 *   [gNxI (⭐256)](https://github.com/google/gnxi) - A collection of tools for Network Management that use the gNMI and gNOI protocols.
 *   [go-getter (⭐1.6k)](https://github.com/hashicorp/go-getter) - Go library for downloading files or directories from various sources using a URL.
-*   [go-multiproxy (⭐1)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
+*   [go-multiproxy (⭐6)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 *   [go-powerdns (⭐86)](https://github.com/joeig/go-powerdns) - PowerDNS API bindings for Golang.
 *   [go-sse (⭐10)](https://github.com/lampctl/go-sse) - Go client and server implementation of HTML server-sent events.
 *   [go-stun (⭐657)](https://github.com/ccding/go-stun) - Go implementation of the STUN client (RFC 3489 and RFC 5389).
@@ -2995,7 +2996,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Fireball (⭐60)](https://github.com/zpatrick/fireball) - More "natural" feeling web framework.
 *   [Flamingo (⭐442)](https://github.com/i-love-flamingo/flamingo) - Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 *   [Flamingo Commerce (⭐497)](https://github.com/i-love-flamingo/flamingo-commerce) - Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
-*   [Fuego (⭐704)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
+*   [Fuego (⭐761)](https://github.com/go-fuego/fuego) - The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
 *   [Gearbox (⭐753)](https://github.com/abahmed/gearbox) - A web framework written in Go with a focus on high performance and memory optimization.
 *   [Gin (⭐78k)](https://github.com/gin-gonic/gin) - Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.
 *   [Ginrpc (⭐289)](https://github.com/xxjwxc/ginrpc) - Gin parameter automatic binding tool,gin rpc tools.

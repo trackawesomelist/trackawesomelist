@@ -2,7 +2,7 @@
 
 A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nadunindunil/awesome-material-ui/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui) · ⭐ 199 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/nadunindunil/awesome-material-ui/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui) · ⭐ 219 · 🏷️ Front-End Development
 
 [ [Daily](/content/nadunindunil/awesome-material-ui/README.md) / [Weekly](/content/nadunindunil/awesome-material-ui/week/README.md) / Overview ]
 
@@ -52,7 +52,7 @@ These are tools and utilities to help build apps using Material-UI Design.
 
 Here are utilities that can help you customize your theme and ability to change it in browser.
 
-*   [Create Material-UI Theme (⭐87)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
+*   [Create Material-UI Theme (⭐88)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
 *   [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) - Material-UI theme/palette generator.
 *   [Material-UI Theme Editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
 
@@ -62,11 +62,11 @@ Material-UI Design family of projects.
 
 *   [material-ui-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material UI applications that features live previewing.
 *   [Material palette generator](https://m2.material.io/inline-tools/color/) - The official Material Design palette generator can be used to generate a palette for any color you choose.
-*   [Components Extra (⭐91)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+*   [Components Extra (⭐88)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 *   [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
 *   [Material UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - VSCode extension providing snippets.
 *   [Material UI Codemorphs](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-codemorphs) - VSCode extension providing codemods.
-*   [Eslint: detect unused classes (⭐29)](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint plugin to detect unused styling classes with `@mui/styles`.
+*   [Eslint: detect unused classes (⭐31)](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint plugin to detect unused styling classes with `@mui/styles`.
 
 ## Components
 
@@ -78,10 +78,10 @@ A list of UI components built with Material-UI Design.
 *   [Material-UI Upload (⭐36)](https://github.com/corpix/material-ui-upload) - Upload controls made in Material-UI using FileAPI.
 *   [Super Select Field (⭐266)](https://github.com/Sharlaan/material-ui-superselectfield) - Multi-selection autocomplete dropdown component for Material-UI.
 *   [Material JSON Schema Form (⭐4)](https://github.com/nadunindunil/material-jsonschema-form) - Material-UI form generated from json.
-*   [Notistack (⭐3.7k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-*   [Material-UI Dropzone (⭐478)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
-*   [Formik-Material-UI (⭐968)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
-*   [Redux-Form-Material-UI (⭐834)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
+*   [Notistack (⭐3.9k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
+*   [Material-UI Dropzone (⭐484)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
+*   [Formik-Material-UI (⭐971)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
+*   [Redux-Form-Material-UI (⭐831)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
 *   [Final-Form-Material-UI (⭐92)](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material-UI with Final Form.
 *   [Material-UI Auto Rotating Carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
 *   [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
@@ -89,11 +89,12 @@ A list of UI components built with Material-UI Design.
 *   [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 *   [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
 *   [Material-UI Medium Blog (⭐14)](https://github.com/sabesansathananthan/material-ui-medium-blog) - Extended Material-UI Card component to show the Medium blogs.
-*   [React Github Repo Cards (⭐18)](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
-*   [React molecule-components (⭐91)](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
-*   [Material-UI NestedMenuItem (⭐71)](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
-*   [React-planet (⭐162)](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
-*   [MUI Phone Input (⭐2)](https://github.com/typesnippet/mui-phone-input) - Advanced, highly customizable phone input component for Material UI.
+*   [React Github Repo Cards (⭐22)](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
+*   [React molecule-components (⭐88)](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
+*   [Material-UI NestedMenuItem (⭐73)](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
+*   [React-planet (⭐179)](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
+*   [MUI Phone Input (⭐4)](https://github.com/typesnippet/mui-phone-input) - Advanced, highly customizable phone input component for Material UI.
+*   [mui-treasury (⭐2.4k)](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
 ## Applications
 
@@ -109,14 +110,14 @@ A list of mature apps built with Material-UI Design.
 
 A list of starter projects and boilerplates built with Material-UI Design.
 
-*   [Create React App example (mui-org/material-ui) (⭐90k)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - Create React App example from official Material-UI repo.
+*   [Create React App example (mui-org/material-ui) (⭐93k)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - Create React App example from official Material-UI repo.
 *   [Create-react-app-material-ui (⭐22)](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
 *   [React-materialui-boilerplate (⭐32)](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 *   [Gatsby-starter-material-ui (⭐33)](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
-*   [Saas (⭐3.7k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
-*   [Create-react-app-material-typescript-redux (⭐288)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
+*   [Saas (⭐4k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
+*   [Create-react-app-material-typescript-redux (⭐290)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines (⭐199)](https://github.com/nadunindunil/awesome-material-ui/blob/master/contributing.md).
+Your contributions are always welcome! [Click Here to read the guidelines (⭐219)](https://github.com/nadunindunil/awesome-material-ui/blob/master/contributing.md).
 

@@ -6,6 +6,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Aug 28, 2024](/content/2024/08/28/README.md)
+
+### System and Customization
+
+*   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
 ## [Aug 16, 2024](/content/2024/08/16/README.md)
 
 ### Multimedia
@@ -22,7 +28,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Productivity and Time
 
-*   [Newelle (⭐112)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
+*   [Newelle (⭐114)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
 ### Development and Design
 
@@ -48,7 +54,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Discord GNOME Theme (⭐8)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+*   [Discord GNOME Theme (⭐10)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
@@ -254,7 +260,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐185)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐187)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
 
 ### Cursors / Skeumorphic Icons
 
@@ -299,20 +305,20 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐272)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐277)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐141)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Adwaita theme for VS Code (⭐142)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
 ## [Jan 07, 2024](/content/2024/01/07/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐102)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐103)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [Dec 29, 2023](/content/2023/12/29/README.md)
 
@@ -340,7 +346,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐482)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐488)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
@@ -374,7 +380,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐345)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐354)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ## [May 05, 2021](/content/2021/05/05/README.md)
 
@@ -415,7 +421,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐199)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [Jul 10, 2019](/content/2019/07/10/README.md)
 
@@ -440,7 +446,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [Sep 25, 2017](/content/2017/09/25/README.md)
@@ -459,15 +465,15 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐879)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
-*   [Numix Square (⭐161)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
+*   [Numix Circle (⭐880)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Square (⭐162)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [Aug 16, 2017](/content/2017/08/16/README.md)
 
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
