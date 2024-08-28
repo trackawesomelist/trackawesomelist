@@ -1,18 +1,81 @@
 # Awesome List Updates on Aug 28, 2024
 
-8 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Vector Database Comparison**
+
+*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+
+### **Azure Reference Architectures** / **Azure AI Search**
+
+*   [Integrated vectorization](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/integrated-vectorization-with-azure-openai-for-azure-ai-search/ba-p/4206836): Automatically splits documents into chunks, creates embeddings with Azure OpenAI, maps them to an Azure AI Search index, and automates query vectorization. \[24 Aug 2024]
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   [Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor](https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor/): Step-by-step guide to building an AI monitoring dashboard using Semantic Kernel and Azure Monitor to track token usage and custom metrics. \[23 Aug 2024]
+
+### **GPT for Domain Specific** / **GPT series release date**
+
+*   [Qwen2-Math (⭐393)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐942)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+
+### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
+
+*   Agent Framework
+    *   [Open AI Assistant](https://platform.openai.com/docs/assistants/overview)
+    *   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework
+    *   [MetaGPT (⭐43k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
+    *   [crewAI (⭐18k)](https://github.com/joaomdmoura/CrewAI): Framework for orchestrating role-playing, autonomous AI agents. \[Oct 2023]
+    *   [LangGraph](https://langchain-ai.github.io/langgraph/): Built on top of LangChain
+    *   [composio (⭐5.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
+    *   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
+    *   [Qwen-Agent (⭐2.9k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
+    *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
+
+### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / R
+
+*   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / Automated DSL Design
+
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+
+## [4. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+
+### Logos
+
+*   [Web3 Icons (⭐43)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### AI / Diagnostics
+
+*   [3v0k4/exit.nvim (⭐3)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
+
+### Utility / Diagnostics
+
+*   [ptdewey/pendulum-nvim (⭐17)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
+
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Translation
 
 *   [Simplytranslate](https://codeberg.org/ManeraKai/simplytranslate) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Blockchain
 
@@ -23,13 +86,13 @@
 *   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
-## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [Django-Bridge (⭐92)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -104,13 +167,13 @@
 *   [Protocol Buffers (⭐65k) (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐338) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### System and Customization
 
 *   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -120,13 +183,13 @@
 
 *   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
 
-## [7. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [12. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Components
 
 *   [mui-treasury (⭐2.4k)](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

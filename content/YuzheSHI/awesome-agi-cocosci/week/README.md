@@ -2,9 +2,15 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 271 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 274 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
+
+## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
+
+### Domain Specific Language / Automated DSL Design
+
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -87,7 +93,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐46)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
+*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐48)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
 *   [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
 
 ### Theory of Mind / AI Assisted Research
@@ -193,13 +199,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐36)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
+*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐37)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### Abduction / Applications in AI
 
-*   [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758) - ***AAAI Spring Symposium Series 2021 on Artificial Intelligence for Synthetic Biology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=543730388062329581\&as_sdt=0,5)]. This work proposes an automated biodesign engineering framework empowered by Abductive Meta-Interpretive Learning (MetaAbd), a novel machine learning approach that combines symbolic and sub-symbolic machine learning, to further enhance the design-build-test-learn cycle by enabling the learning machine to 1) exploit domain knowledge and learn human-interpretable models that are expressed by formal languages such as first-order logic; 2) simultaneously optimise the structure and parameters of the models to make accurate numerical predictions; 3) reduce the cost of experiments and effort on data annotation by actively generating hypotheses and examples.
+*   [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758) - ***AAAI Spring Symposium Series 2021 on Artificial Intelligence for Synthetic Biology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=543730388062329581)]. This work proposes an automated biodesign engineering framework empowered by Abductive Meta-Interpretive Learning (MetaAbd), a novel machine learning approach that combines symbolic and sub-symbolic machine learning, to further enhance the design-build-test-learn cycle by enabling the learning machine to 1) exploit domain knowledge and learn human-interpretable models that are expressed by formal languages such as first-order logic; 2) simultaneously optimise the structure and parameters of the models to make accurate numerical predictions; 3) reduce the cost of experiments and effort on data annotation by actively generating hypotheses and examples.
 
 ### Domain Specific Language / Declarative DSL Applications
 
@@ -225,7 +231,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Abduction / Applications in AI
 
-*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
+*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
 
 ### Domain Specific Language / Design Practises
 
@@ -408,7 +414,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592\&hl=en\&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+*   [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 *   [Learning skillful medium-range global weather forecasting](https://www.science.org/doi/10.1126/science.adi2336) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=269756601245477923\&hl=en\&as_sdt=0,5)].
 *   [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326)].
 
@@ -432,14 +438,14 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐19)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
+*   [Metabolic activity organizes olfactory representations](https://elifesciences.org/articles/82502) - ***eLife***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8857896396450033667\&hl=en\&as_sdt=0,5)]. \[[Code & Data (⭐20)](https://github.com/osmoai/publications/tree/main/qian_et_al_2023)]. Odorous compounds with similar POM representations are more likely to co-occur within a substance and be metabolically closely related; metabolic reaction sequences also follow smooth paths in POM despite large jumps in molecular structure.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐19)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
-*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐66)](https://github.com/YunzhuLi/VisGel)].
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐20)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001\&hl=en\&as_sdt=0,5)]. \[[Project (⭐67)](https://github.com/YunzhuLi/VisGel)].
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -453,7 +459,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7198604620204619820\&hl=en\&as_sdt=0,5)].
+*   [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7198604620204619820)]. This paer introduces an artificial-intelligence-based method for accurate, medium-range global weather forecasting. It shows that three-dimensional deep networks equipped with Earth-specific priors are effective at dealing with complex patterns in weather data, and that a hierarchical temporal aggregation strategy reduces accumulation errors in medium-range forecasting. Trained on 39 years of global data, the program, Pangu-Weather, obtains stronger deterministic forecast results on reanalysis data in all tested variables when compared with the world’s best NWP system, the operational integrated forecasting system of the European Centre for Medium-Range Weather Forecasts.
 *   [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009\&hl=en\&as_sdt=0,5)].
 *   [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907\&hl=en\&as_sdt=0,5)].
 
@@ -465,7 +471,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767\&hl=en\&as_sdt=0,5)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+*   [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767)]. \[[Nature News](https://www.nature.com/articles/d41586-023-01353-x)]. This work studies Bayesian optimization algorithms to investigate how artificial intelligence (AI) might decrease the cost of developing complex semiconductor chip processes. In particular, this work create a controlled virtual process game to systematically benchmark the performance of humans and computers for the design of a semiconductor fabrication process. The authors find that human engineers excel in the early stages of development, whereas the algorithms are far more cost-efficient near the tight tolerances of the target.
 
 ### Cognitive Development / Commonsense Knowledgebase
 
@@ -475,11 +481,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.1k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
+*   [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) - ***CVPR'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=1657173986906232916\&hl=en\&as_sdt=0,5)]. \[[Project (⭐8.2k)](https://github.com/facebookresearch/ImageBind)]. Cross-modality representation fusion by aligning all other modalities to the visual modality.
 
 ### Complexity & Information Theory / Theory
 
-*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Code (⭐7)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work studies the two computation modes of concept generalization in the natural visual spectrum, *i.e.*, rule-based and similarity-based generalization, when the problem space scales up and when the complexity of concepts becomes diverse.
+*   [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. \[[Code (⭐8)](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. \[[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work studies the two computation modes of concept generalization in the natural visual spectrum, *i.e.*, rule-based and similarity-based generalization, when the problem space scales up and when the complexity of concepts becomes diverse.
 
 ### Science Logology / Science Education
 
@@ -487,7 +493,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Science Logology / AI Assisted Research
 
-*   [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501\&hl=en\&as_sdt=0,5)].
+*   [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501)]. This paper presents RETFound, a foundation model for retinal images that learns generalizable representations from unlabelled retinal images and provides a basis for label-efficient model adaptation in several applications. Specifically, RETFound is trained on 1.6 million unlabelled retinal images by means of self-supervised learning and then adapted to disease detection tasks with explicit labels.
 
 ### PKU / Commonsense Knowledgebase
 
@@ -765,7 +771,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
-*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐98)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
+*   [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288\&hl=en\&as_sdt=0,5)]. \[[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. \[[Code (⭐99)](https://github.com/AbductiveLearning/ABL-HED)]. The original paper on Abductive Learning, a derivative-free approach for neuro-symbolic learning.
 *   [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.NeurIPS.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071\&hl=en\&as_sdt=0,5)].
 *   [Visual Concept-Metaconcept Learning](https://papers.NeurIPS.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1888051343232298875\&hl=en\&as_sdt=0,5)].
 
@@ -1085,7 +1091,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Abduction / Applications in AI
 
 *   [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182\&hl=en\&as_sdt=0,5)]. A canonical application of logical abduction on biodesign.
-*   [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6286436358625670901\&hl=en\&as_sdt=0,5)]. A canonical application of observation- and explanation- based method for protein structure prediction instead of first-principle-based methods.
 *   [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322\&hl=en\&as_sdt=0,5)]. A computational account on interpretation as Abduction.
 *   [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub) - ***Artificial Intelligence***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629\&hl=en\&as_sdt=0,5)]. Casual abduction in Bayesian networks.
 *   [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext) - ***Journal of Logic Computation***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518\&hl=en\&as_sdt=0,5)]. The original paper in ALP.
@@ -1272,7 +1277,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐602)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐603)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -1372,6 +1377,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829\&hl=en\&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
+
+### Science Logology / AI Assisted Research
+
+*   [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) - ***Nature***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=6286436358625670901)]. This paper provides the first computational method that can regularly predict protein structures with atomic accuracy even in cases in which no similar structure is known. This approach is a canonical application of observation- and explanation- based method for protein structure prediction instead of first-principle-based methods.
 
 ### Theory of Mind / AI Assisted Research
 
@@ -1640,7 +1649,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐902)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐904)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -1700,7 +1709,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Problem Solving / Reinforcement Learning
 
-*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐117)](https://github.com/pokaxpoka/sunrise)].
+*   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)]. \[[Code (⭐119)](https://github.com/pokaxpoka/sunrise)].
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐64)](https://github.com/flowersteam/TeachMyAgent)].
 
@@ -1874,7 +1883,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Generative Model
 
-*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐50)](https://github.com/ruiqigao/recovery_likelihood)].
+*   [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4399294843209736764)]. \[[Code (⭐49)](https://github.com/ruiqigao/recovery_likelihood)].
 
 ### Problem Solving / Human-Level Problem Solving
 

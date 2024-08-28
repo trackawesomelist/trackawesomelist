@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Aug 28, 2024](/content/2024/08/28/README.md)
+
+### Libraries/Packages/Scripts / R
+
+*   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+
 ## [Aug 27, 2024](/content/2024/08/27/README.md)
 
 ### Libraries/Packages/Scripts / R

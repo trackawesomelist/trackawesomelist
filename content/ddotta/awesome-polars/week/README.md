@@ -11,6 +11,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Libraries/Packages/Scripts / R
 
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+*   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 

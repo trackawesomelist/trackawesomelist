@@ -1,24 +1,71 @@
 # Awesome List Updates on Aug 26 - Sep 01, 2024
 
-23 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Vector Database Comparison**
+
+*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+
+### **Azure Reference Architectures** / **Azure AI Search**
+
+*   [Integrated vectorization](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/integrated-vectorization-with-azure-openai-for-azure-ai-search/ba-p/4206836): Automatically splits documents into chunks, creates embeddings with Azure OpenAI, maps them to an Azure AI Search index, and automates query vectorization. \[24 Aug 2024]
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   [Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor](https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor/): Step-by-step guide to building an AI monitoring dashboard using Semantic Kernel and Azure Monitor to track token usage and custom metrics. \[23 Aug 2024]
+
+### **GPT for Domain Specific** / **GPT series release date**
+
+*   [Qwen2-Math (⭐393)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐942)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+
+### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
+
+*   Agent Framework
+    *   [Open AI Assistant](https://platform.openai.com/docs/assistants/overview)
+    *   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework
+    *   [MetaGPT (⭐43k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
+    *   [crewAI (⭐18k)](https://github.com/joaomdmoura/CrewAI): Framework for orchestrating role-playing, autonomous AI agents. \[Oct 2023]
+    *   [LangGraph](https://langchain-ai.github.io/langgraph/): Built on top of LangChain
+    *   [composio (⭐5.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
+    *   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
+    *   [Qwen-Agent (⭐2.9k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
+    *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
+
+### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Automated DSL Design
+
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+
+## [3. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+
+### Logos
+
+*   [Web3 Icons (⭐43)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
+
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Translation
 
 *   [Simplytranslate](https://codeberg.org/ManeraKai/simplytranslate) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [Django-Bridge (⭐92)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -93,25 +140,26 @@
 *   [Protocol Buffers (⭐65k) (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐338) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
 *   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [5. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [8. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Components
 
 *   [mui-treasury (⭐2.4k)](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
-## [6. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / R
 
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+*   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
-## [7. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [10. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Extensions
 
@@ -158,7 +206,7 @@
 *   [xk6-tcp (⭐12)](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 *   [xk6-top (⭐26)](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -180,7 +228,7 @@
 
 *   [secret-values (⭐11)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
 
-## [9. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -195,23 +243,24 @@
 *   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/finestructure/Hummingbird)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
 *   [StubbornVegeta/llm.nvim (⭐2)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+*   [3v0k4/exit.nvim (⭐3)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 
 ### Web Development / Diagnostics
 
@@ -222,6 +271,10 @@
 
 *   [killitar/obscure.nvim (⭐2)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
+### Utility / Diagnostics
+
+*   [ptdewey/pendulum-nvim (⭐17)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
+
 ### Terminal Integration / Diagnostics
 
 *   [kassio/neoterm (⭐1.3k)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
@@ -230,13 +283,13 @@
 
 *   [OXY2DEV/foldtext.nvim (⭐18)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 
-## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [16. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [17. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -323,7 +376,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [15. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [18. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Linux
 
@@ -338,19 +391,19 @@
 
 *   [PANIX (⭐318)](https://github.com/Aegrah/PANIX) - A highly customizable Linux persistence tool. Perform various persistence techniques against Linux systems, among others Debian and RHEL.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [NServiceBus (⭐2.1k)](https://github.com/particular/nservicebus) - NServiceBus is part of the [Particular Service Platform](https://particular.net/service-platform), which contains tools to build, monitor, and debug distributed systems.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 
-## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [21. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -364,13 +417,13 @@
 
 *   [angular-toolbox (⭐3)](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 
-## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
 *   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [23. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / Policy models
 
@@ -397,7 +450,7 @@
 
 *   [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) - Some groups and content are illegal in some juridictions. This is an example of a blocklist.
 
-## [21. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [24. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### Tools
 
@@ -413,7 +466,7 @@
 *   Hyperautomation: A Business Guide to Navigating the Future with Robotic Process Automation.
 *   The Art of Automation: A Guide to Using Automation to Enhance Business Performance.
 
-## [22. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [25. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Learning / Helpers
 
@@ -423,7 +476,7 @@
 
 *   [Kubernetes Podcast - OpenTofu, with Ohad Maislish](https://kubernetespodcast.com/episode/232-opentofu/)
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 

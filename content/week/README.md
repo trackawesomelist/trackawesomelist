@@ -124,42 +124,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
 
-#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### AI / Diagnostics
-
-*   [StubbornVegeta/llm.nvim (⭐2)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
-
-##### Web Development / Diagnostics
-
-*   [farias-hecdin/CSSVarViewer (⭐0)](https://github.com/farias-hecdin/CSSVarViewer) - Easily visualize the content of your CSS variables in a virtual text.
-*   [farias-hecdin/CSSVarHighlight (⭐1)](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [killitar/obscure.nvim (⭐2)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
-
-##### Terminal Integration / Diagnostics
-
-*   [kassio/neoterm (⭐1.3k)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
-
-##### Editing Support / Diagnostics
-
-*   [OXY2DEV/foldtext.nvim (⭐18)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
-
-#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Email
 
 *   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
 
-#### [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Window Management
 
 *   [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/finestructure/Hummingbird)
 
-#### [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Tools
 
@@ -181,7 +158,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [secret-values (⭐11)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
 
-#### [14. Awesome K6](/content/grafana/awesome-k6/README.md)
+#### [13. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ##### Extensions
 
@@ -228,13 +205,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [xk6-tcp (⭐12)](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 *   [xk6-top (⭐26)](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
 
-#### [15. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / R
-
-*   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
-
-#### [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -248,13 +219,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [angular-toolbox (⭐3)](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 
-#### [17. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+#### [15. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ##### Components
 
 *   [mui-treasury (⭐2.4k)](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
-#### [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Extensions
 
@@ -341,13 +312,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [19. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [17. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### System and Customization
 
 *   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-#### [20. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -422,13 +393,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Protocol Buffers (⭐65k) (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐338) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [21. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [19. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / Full-stack frameworks
 
 *   [Django-Bridge (⭐92)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
-#### [22. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [20. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Artificial Intelligence
 
@@ -443,11 +414,93 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
-#### [23. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [21. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Translation
 
 *   [Simplytranslate](https://codeberg.org/ManeraKai/simplytranslate) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
+
+#### [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### AI / Diagnostics
+
+*   [StubbornVegeta/llm.nvim (⭐2)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+*   [3v0k4/exit.nvim (⭐3)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
+
+##### Web Development / Diagnostics
+
+*   [farias-hecdin/CSSVarViewer (⭐0)](https://github.com/farias-hecdin/CSSVarViewer) - Easily visualize the content of your CSS variables in a virtual text.
+*   [farias-hecdin/CSSVarHighlight (⭐1)](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [killitar/obscure.nvim (⭐2)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+
+##### Utility / Diagnostics
+
+*   [ptdewey/pendulum-nvim (⭐17)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
+
+##### Terminal Integration / Diagnostics
+
+*   [kassio/neoterm (⭐1.3k)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
+
+##### Editing Support / Diagnostics
+
+*   [OXY2DEV/foldtext.nvim (⭐18)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
+
+#### [23. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+
+##### Logos
+
+*   [Web3 Icons (⭐43)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
+
+#### [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Automated DSL Design
+
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+
+#### [25. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / R
+
+*   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+*   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+
+#### [26. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **Vector Database Comparison**
+
+*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+
+##### **Azure Reference Architectures** / **Azure AI Search**
+
+*   [Integrated vectorization](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/integrated-vectorization-with-azure-openai-for-azure-ai-search/ba-p/4206836): Automatically splits documents into chunks, creates embeddings with Azure OpenAI, maps them to an Azure AI Search index, and automates query vectorization. \[24 Aug 2024]
+
+##### **Semantic Kernel** / **Code Recipes**
+
+*   [Step-by-Step Guide to Building a Powerful AI Monitoring Dashboard with Semantic Kernel and Azure Monitor](https://devblogs.microsoft.com/semantic-kernel/step-by-step-guide-to-building-a-powerful-ai-monitoring-dashboard-with-semantic-kernel-and-azure-monitor/): Step-by-step guide to building an AI monitoring dashboard using Semantic Kernel and Azure Monitor to track token usage and custom metrics. \[23 Aug 2024]
+
+##### **GPT for Domain Specific** / **GPT series release date**
+
+*   [Qwen2-Math (⭐393)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐942)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+
+##### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
+
+*   Agent Framework
+    *   [Open AI Assistant](https://platform.openai.com/docs/assistants/overview)
+    *   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework
+    *   [MetaGPT (⭐43k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
+    *   [crewAI (⭐18k)](https://github.com/joaomdmoura/CrewAI): Framework for orchestrating role-playing, autonomous AI agents. \[Oct 2023]
+    *   [LangGraph](https://langchain-ai.github.io/langgraph/): Built on top of LangChain
+    *   [composio (⭐5.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
+    *   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
+    *   [Qwen-Agent (⭐2.9k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
+    *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
+
+##### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
 
 ---
 
@@ -466,7 +519,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 9. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 308K 📝 08&#x2F;03 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 10. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 30K 📝 08&#x2F;22 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
 11. [Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md) - ([Source ⭐ 20K 📝 08&#x2F;26 ](https://github.com/thangchung/awesome-dotnet-core)) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 08&#x2F;27 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K 📝 08&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 13. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 08&#x2F;28 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 14. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 08&#x2F;18 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 15. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 08&#x2F;26 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
@@ -710,7 +763,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 08&#x2F;27 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 15K, 📝 08&#x2F;28 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -870,7 +923,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 301, 📝 08&#x2F;22 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 301, 📝 08&#x2F;28 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 
 ### Learn
 
@@ -898,7 +951,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md) - ([Source ⭐ 781, 📝 20&#x2F;04&#x2F;22 ](https://github.com/transitive-bullshit/awesome-ffmpeg)) - 👻 A curated list of awesome FFmpeg resources.
 - [Awesome Fonts](/content/brabadu/awesome-fonts/README.md) - ([Source ⭐ 1.1K, 📝 23&#x2F;04&#x2F;10 ](https://github.com/brabadu/awesome-fonts)) - Curated list of fonts and everything
 - [Awesome Gif](/content/davisonio/awesome-gif/README.md) - ([Source ⭐ 547, 📝 23&#x2F;03&#x2F;14 ](https://github.com/davisonio/awesome-gif)) - A curated list of awesome GIF resources.
-- [Awesome Icons](/content/notlmn/awesome-icons/README.md) - ([Source ⭐ 691, 📝 04&#x2F;21 ](https://github.com/notlmn/awesome-icons)) - A curated list of awesome downloadable SVG/PNG/Font icon projects
+- [Awesome Icons](/content/notlmn/awesome-icons/README.md) - ([Source ⭐ 729, 📝 08&#x2F;28 ](https://github.com/notlmn/awesome-icons)) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Awesome Music](/content/ciconia/awesome-music/README.md) - ([Source ⭐ 1.7K, 📝 05&#x2F;20 ](https://github.com/ciconia/awesome-music)) - Awesome Music Projects
 - [Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md) - ([Source ⭐ 1.8K, 📝 22&#x2F;10&#x2F;06 ](https://github.com/44bits/awesome-opensource-documents)) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md) - ([Source ⭐ 799, 📝 22&#x2F;12&#x2F;23 ](https://github.com/Siilwyn/awesome-pixel-art)) - Curated list of everything awesome around pixel art.
@@ -1179,7 +1232,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 08&#x2F;18 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 682, 📝 08&#x2F;27 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 682, 📝 08&#x2F;28 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1247,7 +1300,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 274, 📝 08&#x2F;16 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 274, 📝 08&#x2F;28 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 19K, 📝 07&#x2F;07 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 88, 📝 08&#x2F;27 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
