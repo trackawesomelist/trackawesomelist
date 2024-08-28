@@ -65,7 +65,7 @@
 
 ### 3D / Apache License
 
-*   [ada-doom-3 (⭐252)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+*   [ada-doom-3 (⭐257)](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Multimedia / Apache License
 

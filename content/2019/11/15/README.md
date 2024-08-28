@@ -24,7 +24,7 @@
 
 ### Algorithms / Windows
 
-*   [Comprehensive list of interview questions of top tech companies (⭐6.3k)](https://github.com/rishabh115/Interview-Questions)
+*   [Comprehensive list of interview questions of top tech companies (⭐7.1k)](https://github.com/rishabh115/Interview-Questions)
 
 ## [4. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Okta (⭐70)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
+*   [Okta (⭐83)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 
 ## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -107,7 +107,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/raspberry_pi.webp">
 
-[**Raspberry Pi**](https://discord.com/invite/bVVbSqQ) \
+[**Raspberry Pie**](https://discord.com/invite/raspberry-pie-204621105720328193) \
 Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
 Language: English
 ### DIY

@@ -66,7 +66,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [Encog (⭐743)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
+*   [Encog (⭐744)](https://github.com/encog/encog-java-core) - An advanced neural network and machine learning framework. Encog contains classes to create a wide variety of networks, as well as support classes to normalize and process data for these neural networks. Encog trainings using multithreaded resilient propagation. Encog can also make use of a GPU to further speed processing time. A GUI based workbench is also provided to help model and train neural networks.
 *   [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework.
 
 ### Java / Deep Learning
@@ -75,7 +75,7 @@
 
 ### JavaScript / Natural Language Processing
 
-*   [nlp.js (⭐6.1k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
+*   [nlp.js (⭐6.2k)](https://github.com/axa-group/nlp.js) - An NLP library built in node over Natural, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -83,7 +83,7 @@
 
 ### Julia / General-Purpose Machine Learning
 
-*   [MLJ (⭐1.7k)](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
+*   [MLJ (⭐1.8k)](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rockyzhang24/arctic.nvim (⭐152)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐158)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

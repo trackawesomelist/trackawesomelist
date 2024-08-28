@@ -16,7 +16,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐244)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐247)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -82,7 +82,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [CoreWiki (⭐389)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
+*   [CoreWiki (⭐415)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
 ## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Anime
 
-- API: [AniList (⭐1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1.1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -229,7 +229,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐334)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐342)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -385,7 +385,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐27)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐28)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -993,7 +993,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐120)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐123)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1004,7 +1004,7 @@
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐25)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐28)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -1351,7 +1351,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐66)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐69)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -1941,7 +1941,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐333)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐342)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -1985,7 +1985,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐186)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐190)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2076,7 +2076,7 @@
   CORS: Unknown
 
 
-- API: [Universities List (⭐1.2k)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.3k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -2217,7 +2217,7 @@
   CORS: Unknown
 
 
-- API: [Medium (⭐2.2k)](https://github.com/Medium/medium-api-docs)
+- API: [Medium (⭐2.3k)](https://github.com/Medium/medium-api-docs)
 
   Description: Community of readers and writers offering unique perspectives on ideas
 
@@ -3111,7 +3111,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐370)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐387)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 

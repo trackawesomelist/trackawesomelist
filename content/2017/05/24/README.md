@@ -18,7 +18,7 @@
 
 ### Networking
 
-*   [Breep (⭐135)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐138)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 
 ## [5. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐222)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐223)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 
-*   [eflame (⭐421)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐422)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -30,7 +30,7 @@
 
 ### Testing
 
-*   [blacksmith (⭐195)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐196)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐43)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers

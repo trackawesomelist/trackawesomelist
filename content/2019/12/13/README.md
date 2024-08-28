@@ -22,7 +22,7 @@
 
 ### Mobile
 
-*   [rutils (⭐246)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [rutils (⭐247)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Dead
 
-*   [CloudBank (⭐28)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
+*   [CloudBank (⭐31)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
 
 ## [6. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Others
 
-*   [Gilded Rose Original - C# (⭐376)](https://github.com/NotMyself/GildedRose)
+*   [Gilded Rose Original - C# (⭐399)](https://github.com/NotMyself/GildedRose)
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

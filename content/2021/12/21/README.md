@@ -22,7 +22,7 @@
 
 ### Art & Design
 
-- API: [EmojiHub (⭐117)](https://github.com/cheatsnake/emojihub)
+- API: [EmojiHub (⭐126)](https://github.com/cheatsnake/emojihub)
 
   Description: Get emojis by categories and groups
 
@@ -73,7 +73,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐402)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐404)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -109,17 +109,17 @@
 
 *   [OpenOwnership Register](https://register.openownership.org/)
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### SVG / Barcode
+### Other Parsing
 
-*   [SVGView (⭐574)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐600)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
-*   [ULogViewer (⭐329)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐347)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

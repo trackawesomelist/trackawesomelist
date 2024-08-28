@@ -34,7 +34,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReverseMarkdown (⭐217)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
+*   [ReverseMarkdown (⭐260)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

@@ -10,7 +10,7 @@
 
 ### **Learning and Supplementary Materials** / Korean
 
-*   [Large Language Models: Application through Production (⭐715)](https://github.com/databricks-academy/large-language-models): A course on edX & Databricks Academy
+*   [Large Language Models: Application through Production (⭐727)](https://github.com/databricks-academy/large-language-models): A course on edX & Databricks Academy
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -93,7 +93,7 @@
 
 ### Database Tools
 
-*   [Upsert (⭐654)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐652)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -109,7 +109,7 @@
 
 ### Framework Components
 
-*   [addict (⭐646)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐645)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 
 ### Books
 

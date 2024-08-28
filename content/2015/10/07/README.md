@@ -39,13 +39,13 @@
 
 ### Packages / Parsing
 
-*   [xml2js (⭐4.8k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
+*   [xml2js (⭐4.9k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
-*   [geocalc (⭐144)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐146)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

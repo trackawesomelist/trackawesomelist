@@ -88,11 +88,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Restier (⭐452)](https://github.com/OData/RESTier) - RESTier is a RESTful API development framework for building standardized, OData V4 based RESTful services on .NET platform.
+*   [Restier (⭐468)](https://github.com/OData/RESTier) - RESTier is a RESTful API development framework for building standardized, OData V4 based RESTful services on .NET platform.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [NWebsec (⭐524)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
+*   [NWebsec (⭐541)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
 
 ## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

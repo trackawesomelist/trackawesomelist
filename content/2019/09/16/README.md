@@ -40,7 +40,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.3k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.5k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

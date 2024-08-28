@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [spdlog (⭐23k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
+*   [spdlog (⭐24k)](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 
 ### Networking
 

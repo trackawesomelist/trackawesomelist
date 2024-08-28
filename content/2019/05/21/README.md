@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐446)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐456)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐847)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐863)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐364)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐367)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [7. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐864)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐886)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 

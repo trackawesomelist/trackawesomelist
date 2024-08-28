@@ -22,18 +22,18 @@
 
 ### Open Source / Other
 
-*   [Headset (⭐779)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+*   [Headset (⭐782)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compression
 
-*   [sharpcompress (⭐2.1k)](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
+*   [sharpcompress (⭐2.2k)](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
 
 ### Frameworks, Libraries and Tools / Cryptography
 
-*   [BCrypt.NET-Core (⭐213)](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
-*   [BouncyCastle PCL (⭐92)](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
+*   [BCrypt.NET-Core (⭐217)](https://github.com/neoKushan/BCrypt.Net-Core) - .NET Core port of BCrypt.NET used to store passwords securely.
+*   [BouncyCastle PCL (⭐91)](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 
 ### Starter Kits / Workflow
 

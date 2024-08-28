@@ -26,7 +26,7 @@
 
 ### Caching
 
-*   [lru\_cache (⭐37)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+*   [lru\_cache (⭐36)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 
 ### Examples and funny stuff
 
@@ -39,7 +39,7 @@
 
 ### HTTP
 
-*   [yuri (⭐12)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+*   [yuri (⭐13)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
 
 ### Images
 
@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐520)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐525)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 

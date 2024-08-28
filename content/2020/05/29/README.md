@@ -34,16 +34,16 @@ Language: English
 
 ### Packages / a11y
 
-*   [ember-a11y-refocus (⭐16)](https://github.com/MelSumner/ember-a11y-refocus) - Provides an unobtrusive navigation narration element for Ember applications.
+*   [ember-a11y-refocus (⭐18)](https://github.com/MelSumner/ember-a11y-refocus) - Provides an unobtrusive navigation narration element for Ember applications.
 
 ### Packages / Charts
 
-*   [ember-charts (⭐793)](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks.
+*   [ember-charts (⭐785)](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks.
 
 ### Packages / Control flow
 
 *   Generators
-    *   [ember-concurrency (⭐672)](https://github.com/machty/ember-concurrency) - Ember.js Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
+    *   [ember-concurrency (⭐691)](https://github.com/machty/ember-concurrency) - Ember.js Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
     *   [ember-master-tab (⭐11)](https://github.com/rhyek/ember-master-tab) - A library that provides a service which helps running a function on only one tab of an Ember application.
 
 ### Packages / Examples
@@ -148,15 +148,15 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐23)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐24)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
 *   [Livox](https://www.livoxtech.com/) - LIDAR manufacturer.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
-    *   [GitHub organization :octocat:](https://github.com/Livox-SDK) ![](https://img.shields.io/badge/ROS-2-34aec5)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/Livox-SDK) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

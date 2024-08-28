@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [Test database (⭐3.9k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐4k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Math
 
-*   [GLM (⭐8.9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

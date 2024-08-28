@@ -40,7 +40,7 @@
 
 ### More Awesome Lists
 
-*   [Help Wanted (⭐67)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

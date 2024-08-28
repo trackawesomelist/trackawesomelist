@@ -138,7 +138,7 @@
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [firebase-admin-dotnet (⭐333)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
+*   [firebase-admin-dotnet (⭐364)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
 ## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 

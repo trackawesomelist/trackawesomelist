@@ -61,13 +61,13 @@
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Prisma (⭐38k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐305)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+    *   :octocat: [prisma-markdown (⭐336)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
-*   [Devicon (⭐9k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
+*   [Devicon (⭐9.6k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
 ## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

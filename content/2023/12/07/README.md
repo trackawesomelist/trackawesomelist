@@ -33,20 +33,20 @@
 
 ### Other / [Other](#other-1)
 
-*   [promformat (⭐33)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐34)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
 *   [promval (⭐4)](https://github.com/facetoe/promval) :warning: — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
-*   [Transformers (⭐127k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+*   [Transformers (⭐130k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 
 ## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-elasticstack (⭐154)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
+*   [terraform-provider-elasticstack (⭐162)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 
 ---
 

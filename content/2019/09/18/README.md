@@ -34,7 +34,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐836)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐853)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [dasblog-core (⭐423)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
+*   [dasblog-core (⭐470)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
 
 ---
 

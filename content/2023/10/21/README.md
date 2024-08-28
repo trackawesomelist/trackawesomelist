@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2023
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,7 @@
 
 ### Configuration
 
-*   [toml11 (⭐979)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+*   [toml11 (⭐1k)](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -84,9 +84,15 @@
 
 ### Terminal Integration / Diagnostics
 
-*   [niuiic/terminal.nvim (⭐19)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+*   [niuiic/terminal.nvim (⭐20)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
-## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
+
+## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Logo Generator
 
@@ -96,7 +102,7 @@
 
 *   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -167,13 +173,13 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       13 |  90m |
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
 *   [Galette](https://galette.eu/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 
-## [9. Magictools](/content/ellisonleao/magictools/README.md)
+## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Communities / Voxel Editors
 
@@ -184,7 +190,7 @@
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

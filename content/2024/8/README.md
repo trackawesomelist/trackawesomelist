@@ -32,11 +32,11 @@
 
 ### Clients
 
-*   [genql (⭐861)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
+*   [genql (⭐866)](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 
 ### Type / React
 
-*   [gql.tada (⭐2.4k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
+*   [gql.tada (⭐2.5k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
 
 ## [4. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Utility / Mocking
 
-*   [JKScope (⭐10)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
+*   [JKScope (⭐12)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [Wire](https://wirereader.app) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](\[id6456571712]\(https://apps.apple.com/us/app/wire-rss-news-reader/id1438331258\))
+*   [Wire](https://wirereader.app) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](\[id6456571712]\(https://apps.apple.com/app/wire-rss-news-reader/id1438331258\)) <sup>[1420](https://t.me/s/aboutrss/1420)</sup>
 
 ### 🔍 Feed Search Engines / 酷Q Plugin
 
@@ -109,7 +109,7 @@
 
 *   [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 
-### Phone Calls / Animation
+### Audio / Phone Calls
 
 *   [AICaller.io](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 
@@ -117,37 +117,38 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [rateslib (⭐74)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
+*   [rateslib (⭐112)](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
 
 ### Python / Risk Analysis
 
-*   [empyrical-reloaded (⭐40)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.2k)](https://github.com/quantopian/empyrical) fork.
-*   [pyfolio-reloaded (⭐291)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.4k)](https://github.com/quantopian/pyfolio) fork.
+*   [empyrical-reloaded (⭐45)](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical (⭐1.3k)](https://github.com/quantopian/empyrical) fork.
+*   [pyfolio-reloaded (⭐323)](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio (⭐5.6k)](https://github.com/quantopian/pyfolio) fork.
 
 ### R / Financial Instruments and Pricing
 
-*   [RQuantLib (⭐117)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
+*   [RQuantLib (⭐118)](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
 
 ### Java / FrameWorks
 
-*   [JQuantLib (⭐120)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
+*   [JQuantLib (⭐125)](https://github.com/frgomes/jquantlib) - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
 
 ### Frameworks / Data Visualization
 
-*   [QuantLib (⭐4.9k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    *   [JQuantLib (⭐120)](https://github.com/frgomes/jquantlib) - Java port.
-    *   [RQuantLib (⭐117)](https://github.com/eddelbuettel/rquantlib) - R port.
+*   [QuantLib (⭐5.1k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+    *   QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++ (⭐13)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
+    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐229)](https://github.com/auto-differentiation/xad/)
+    *   [JQuantLib (⭐125)](https://github.com/frgomes/jquantlib) - Java port.
+    *   [RQuantLib (⭐118)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
     *   [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-    *   [QLNet (⭐375)](https://github.com/amaggiulli/qlnet) - .Net port.
-    *   [PyQL (⭐923)](https://github.com/enthought/pyql) - Python port.
-    *   [QuantLib.jl (⭐135)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+    *   [QLNet (⭐380)](https://github.com/amaggiulli/qlnet) - .Net port.
+    *   [PyQL (⭐966)](https://github.com/enthought/pyql) - Python port.
+    *   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Julia port.
     *   [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
-    *   [QuantLib with Automatic Differention enabled (⭐12)](https://github.com/auto-differentiation/quantlib-xad) - Integration of Automatic Differentiation with the QuantLib library
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [book\_irds3 (⭐42)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
+*   [book\_irds3 (⭐47)](https://github.com/attack68/book_irds3) - Code repository for Pricing and Trading Interest Rate Derivatives.
 
 ## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
@@ -157,9 +158,9 @@
 *   [Documentation for Rust API](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
 *   [Documentation for R API](https://rpolars.github.io/reference/index.html) - Official API Reference for R.
 
-### Libraries/Packages/Scripts / Python
+### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-xdt (⭐164)](https://github.com/pola-rs/polars-xdt) - Polars plugin offering eXtra stuff for DateTimes (originally by [@MarcoGorelli](https://github.com/MarcoGorelli)).
+*   [polars-xdt (⭐175)](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Resources / Tutorials & workshops
 
@@ -171,7 +172,7 @@
 *   [Polars - modern data frame library](https://dskrzypiec.dev/polars/) - A blog post that describes why Polars could be a better alternative to pandas, dplyr or data.table by [@DSkrzypiec](https://github.com/DSkrzypiec).
 *   [Lightning-fast queries with Polars](https://dev.to/astrojuanlu/lightning-fast-queries-with-polars-1bp3) - Another blog post that is a good introduction to Polars by [@astrojuanlu](https://github.com/astrojuanlu).
 *   [Exploring Polars - The Lightning-Fast DataFrame Library in Python](https://medium.com/@HeCanThink/exploring-polars-the-lightning-fast-dataframe-library-in-python-2d01aa332f70) - A blog post on the basics of Polars by [@mddas](https://github.com/mddas).
-*   [Date and DateTime Manipulation in Polars](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐1)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
+*   [Date and DateTime Manipulation in Polars](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here (⭐2)](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 *   [Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency](https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1) - A blog post that describes the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
 *   [LazyFrame: Exploring Laziness in Dataframes from Polars in Python](https://medium.com/@HeCanThink/lazyframe-exploring-laziness-in-dataframes-from-polars-in-python-46da61d48e79) - A blog post that introduces LazyFrames with Polars an Python by [Manoj Das](https://medium.com/@HeCanThink).
 *   [Data Statistics in Polars](https://python.plainenglish.io/data-statistics-in-polars-8268be9843c5) - A post that explains how to extract insightful information from your data in Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
@@ -185,7 +186,7 @@
 ### Communications / Non-Verbal Communication
 
 *   [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGRAPH Asia'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109\&hl=en\&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
-*   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511\&as_sdt=0,5)].
+*   [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511)].
 
 ### Domain Specific Language / Design Theory
 
@@ -229,11 +230,11 @@
 ### Network / Messaging
 
 *   [skunkwerks/zamqp (⭐4)](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
-*   [nine-lives-later/zzmq (⭐12)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
+*   [nine-lives-later/zzmq (⭐14)](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ### Parser / Package managers
 
-*   [00JCIV00/cova (⭐80)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
+*   [00JCIV00/cova (⭐83)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -257,13 +258,13 @@
 
 ### CLI
 
-*   [args (⭐1.3k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
+*   [args (⭐1.4k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
 *   [cxxopts (⭐4.1k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
-*   [TermOx (⭐643)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
+*   [TermOx (⭐656)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
 
 ### Image Processing
 
-*   [fpng (⭐840)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
+*   [fpng (⭐857)](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. \[Unlicense]
 *   [libpng (⭐1.2k)](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 
 ### Scripting
@@ -272,7 +273,7 @@
 
 ### Miscellaneous
 
-*   [CCTZ (⭐585)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
+*   [CCTZ (⭐589)](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
 
 ## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -291,24 +292,24 @@
 ### ORM/ODM Extensions
 
 *   Auditing and Versioning
-    *   [active\_snapshot (⭐100)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
+    *   [active\_snapshot (⭐105)](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
     *   [acts\_as\_archival (⭐128)](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
-    *   [ActsAsParanoid (⭐1.4k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
-    *   [Audited (⭐3.3k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
+    *   [ActsAsParanoid (⭐1.5k)](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
+    *   [Audited (⭐3.4k)](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
     *   [Destroyed At (⭐350)](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
     *   [Discard (⭐2.1k)](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
     *   [Logidze (⭐1.6k)](https://github.com/palkan/logidze) - Database changes log for Rails.
     *   [marginalia (⭐1.7k)](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
-    *   [mongoid-history (⭐390)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
+    *   [mongoid-history (⭐391)](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
     *   [PaperTrail (⭐6.7k)](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
     *   [Paranoia (⭐2.9k)](https://github.com/radar/paranoia) - A re-implementation of acts\_as\_paranoid for Rails 3 and 4, using much, much, much less code.
-    *   [PermenantRecords (⭐270)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
+    *   [PermenantRecords (⭐271)](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 
 ## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
-*   [go-tg (⭐83)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+*   [go-tg (⭐91)](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 
 ### Build Automation
 
@@ -316,11 +317,11 @@
 
 ### Configuration
 
-*   [konf (⭐206)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+*   [konf (⭐221)](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 
 ### Interfaces to Multiple Backends
 
-*   [dynamo (⭐17)](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
+*   [dynamo (⭐18)](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
 
 ### NoSQL Database Drivers
 
@@ -328,15 +329,15 @@
 
 ### Distributed Systems
 
-*   [Tarmac (⭐318)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
+*   [Tarmac (⭐325)](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with WebAssembly
 
 ### Job Scheduler
 
-*   [go-dag (⭐10)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
+*   [go-dag (⭐18)](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 
 ### Dependency Injection
 
-*   [kod (⭐106)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
+*   [kod (⭐128)](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 
 ### Strings
 
@@ -352,34 +353,30 @@
 
 ### Web Frameworks
 
-*   [Yokai (⭐293)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+*   [Yokai (⭐350)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 
 ## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
-### Applications / Blockchain
-
-*   [Subspace (⭐365)](https://github.com/subspace/subspace) - The first layer-one blockchain that can fully resolve the blockchain trilemma by simultaneously achieving scalability, security, and decentralization.
-
 ### Applications / Database
 
-*   [ParadeDB (⭐4.7k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
-*   [USearch (⭐1.9k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
+*   [ParadeDB (⭐5.3k)](https://github.com/paradedb/paradedb/) - ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics.
+*   [USearch (⭐2.1k)](https://github.com/unum-cloud/usearch) - Similarity Search Engine for Vectors and Strings [![crates.io](https://img.shields.io/crates/v/usearch.svg)](https://crates.io/crates/usearch)
 
 ### Applications / Productivity
 
-*   [yashs662/rust\_kanban (⭐151)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
+*   [yashs662/rust\_kanban (⭐163)](https://github.com/yashs662/rust_kanban) \[[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 
 ### Applications / Text processing
 
-*   [ashvardanian/stringzilla (⭐1.9k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
+*   [ashvardanian/stringzilla (⭐2k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 
 ### Libraries / Data processing
 
-*   [pg\_analytics (⭐4.7k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_analytics (⭐5.3k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Libraries / Data structures
 
-*   [ashvardanian/simsimd (⭐799)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐853)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -674,17 +671,17 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-output-monitor (⭐743)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
+*   [nix-output-monitor (⭐806)](https://github.com/maralorn/nix-output-monitor) - A tool to produce useful graphs and statistics when building derivations.
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
-*   [FastEndpoints (⭐4.2k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
+*   [FastEndpoints (⭐4.4k)](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 
 ### PDF
 
-*   [QPdfSharp (⭐12)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
+*   [QPdfSharp (⭐13)](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 
 ## [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -694,7 +691,7 @@
 
 ### Libraries/Frameworks / Data Science
 
-*   [sigbla/sigbla-app (⭐18)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
+*   [sigbla/sigbla-app (⭐19)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
 
 ## [28. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
@@ -760,7 +757,7 @@
 
 ### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [ggerganov/whisper.cpp (⭐33k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
+*   [ggerganov/whisper.cpp (⭐34k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
 *   [Good Tape](https://goodtape.io/): paid service for transcription
 *   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
@@ -769,7 +766,7 @@
 ### Frameworks • Libraries • Ecosystems
 
 *   [Godot](https://godotengine.org) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
-*   [Fragment.tools (⭐775)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
+*   [Fragment.tools (⭐806)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
@@ -819,7 +816,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2.1k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
+*   [bitmagnet](https://bitmagnet.io) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code (⭐2.3k)](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 
 ## [34. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -859,9 +856,9 @@
 
 ## [39. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
-### **Langchain Impressive Features** / DSPy optimizer
+### **LangChain features and related libraries** / DSPy optimizer
 
-*   [LangGraph (⭐4.2k)](https://github.com/langchain-ai/langgraph): Build and navigate language agents as graphs \[Aug 2023]
+*   [LangGraph (⭐5.2k)](https://github.com/langchain-ai/langgraph): Build and navigate language agents as graphs \[Aug 2023]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
@@ -869,7 +866,7 @@
 
 ### **Learning and Supplementary Materials** / Korean
 
-*   [CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization (⭐7.6k)](https://github.com/poloclub/cnn-explainer) \[Apr 2020]
+*   [CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization (⭐7.9k)](https://github.com/poloclub/cnn-explainer) \[Apr 2020]
 *   [Foundational concepts like Transformers, Attention, and Vector Database](https://www.linkedin.com/posts/alphasignal_can-foundational-concepts-like-transformers-activity-7163890641054232576-B1ai) \[Feb 2024]
 
 ### **Agents: AutoGPT and Communicative Agents** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
@@ -878,19 +875,19 @@
     *   We provide our models with a working Python interpreter in a sandboxed, firewalled execution environment, along with some ephemeral disk space.
 *   [OSS Code Interpreter (⭐3.7k)](https://github.com/shroominic/codeinterpreter-api) A LangChain implementation of the ChatGPT Code Interpreter. \[Jul 2023]
 *   [gpt-code-ui (⭐3.5k)](https://github.com/ricklamers/gpt-code-ui) An open source implementation of OpenAI's ChatGPT Code interpreter. \[May 2023]
-*   [Open Interpreter (⭐51k)](https://github.com/KillianLucas/open-interpreter): Let language models run code on your computer. \[Jul 2023]
-*   [SlashGPT (⭐269)](https://github.com/snakajima/SlashGPT) The tool integrated with "jupyter" agent \[Apr 2023]
+*   [Open Interpreter (⭐52k)](https://github.com/KillianLucas/open-interpreter): Let language models run code on your computer. \[Jul 2023]
+*   [SlashGPT (⭐268)](https://github.com/snakajima/SlashGPT) The tool integrated with "jupyter" agent \[Apr 2023]
 
 ### **Caching** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
-*   GPTCache: Semantic cache for LLMs. Fully integrated with LangChain and llama\_index. [git (⭐6.9k)](https://github.com/zilliztech/GPTCache) \[Mar 2023]
+*   GPTCache: Semantic cache for LLMs. Fully integrated with LangChain and llama\_index. [git (⭐7k)](https://github.com/zilliztech/GPTCache) \[Mar 2023]
 
-### **Evaluation Benchmark** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [MMLU (Massive Multi-task Language Understanding)](https://arxiv.org/abs/2009.03300): LLM performance across 57 tasks including elementary mathematics, US history, computer science, law, and more. \[7 Sep 2020]
 *   [BIG-bench](https://arxiv.org/abs/2206.04615): Consists of 204 evaluations, contributed by over 450 authors, that span a range of topics from science to social reasoning. The bottom-up approach; anyone can submit an evaluation task. [git (⭐2.8k)](https://github.com/google/BIG-bench) \[9 Jun 2022]
 *   [HELM](https://arxiv.org/abs/2211.09110): Evaluation scenarios like reasoning and disinformation using standardized metrics like accuracy, calibration, robustness, and fairness. The top-down approach; experts curate and decide what tasks to evaluate models on. [git (⭐1.8k)](https://github.com/stanford-crfm/helm) \[16 Nov 2022]
-*   [HumanEval](https://arxiv.org/abs/2107.03374): Hand-Written Evaluation Set for Code Generation Bechmark. 164 Human written Programming Problems. [ref](https://paperswithcode.com/task/code-generation) / [git (⭐2.1k)](https://github.com/openai/human-eval) \[7 Jul 2021]
+*   [HumanEval](https://arxiv.org/abs/2107.03374): Hand-Written Evaluation Set for Code Generation Bechmark. 164 Human written Programming Problems. [ref](https://paperswithcode.com/task/code-generation) / [git (⭐2.2k)](https://github.com/openai/human-eval) \[7 Jul 2021]
 
 ## [40. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
@@ -900,16 +897,16 @@
 
 ### Tools / Wrappers
 
-*   [Atmos (⭐637)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
-*   [Terramate (⭐3.1k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
-*   [easy\_infra (⭐66)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
+*   [Atmos (⭐696)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+*   [Terramate (⭐3.2k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
+*   [easy\_infra (⭐67)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 *   [tfam (⭐21)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 *   [tfexe (⭐2)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 *   [tfwrapper (⭐130)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 
 ### Tools / CI
 
-*   [pre-commit-opentofu (⭐31)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
+*   [pre-commit-opentofu (⭐37)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 
 ### Tools / State
 
@@ -917,20 +914,20 @@
 
 ### Tools / Providers
 
-*   [tfschema (⭐292)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
+*   [tfschema (⭐293)](https://github.com/minamijoyo/tfschema) - Schema inspector for providers.
 
 ### Tools / Platforms
 
 *   [digger (⭐2.8k)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-*   [walrus (⭐411)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
+*   [walrus (⭐423)](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
 
 ### Tools / Registry
 
-*   [boring-registry (⭐159)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+*   [boring-registry (⭐166)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
-*   [terratag (⭐912)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [terratag (⭐926)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 
 ### Learning / Helpers
 
@@ -1111,13 +1108,13 @@
 
 ### Workflow
 
-*   [Multiwoven (⭐693)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
+*   [Multiwoven (⭐728)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 
 ## [50. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [multiwoven (⭐605)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+*   [multiwoven (⭐728)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 
 ## [51. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -1169,15 +1166,15 @@
 
 ### (requires Neovim 0.5)
 
-*   [deathbeam/lspecho.nvim (⭐18)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
+*   [deathbeam/lspecho.nvim (⭐19)](https://github.com/deathbeam/lspecho.nvim) - Echo LSP progress to cmdline or embed it in status line.
 
 ### Completion / Diagnostics
 
-*   [deathbeam/autocomplete.nvim (⭐29)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
+*   [deathbeam/autocomplete.nvim (⭐37)](https://github.com/deathbeam/autocomplete.nvim) - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 
 ### Register / Diagnostics
 
-*   [kr40/nvim-macros (⭐40)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
+*   [kr40/nvim-macros (⭐47)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1185,27 +1182,27 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐44)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐48)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐54)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐69)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ### Editing Support / Diagnostics
 
-*   [AckslD/nvim-trevJ.lua (⭐163)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
+*   [AckslD/nvim-trevJ.lua (⭐165)](https://github.com/AckslD/nvim-trevJ.lua) - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
 
 ## [57. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit4 (⭐457)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
+*   [GdUnit4 (⭐518)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework (Godot 4.x).
 
 ## [58. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
-*   💼🧬🧩 [Fluid (⭐305)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
+*   💼🧬🧩 [Fluid (⭐584)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
 
 ### UI Libraries, Components & Templates
 

@@ -39,16 +39,16 @@
 
 ### Auth
 
-*   [FastAPI Azure Auth (⭐390)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
-*   [FastAPI Users (⭐4.1k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
+*   [FastAPI Azure Auth (⭐423)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
+*   [FastAPI Users (⭐4.4k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI template (⭐1.7k)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
+*   [FastAPI template (⭐1.9k)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
 
 ### Open Source Projects / Other Tools
 
-*   [Bunnybook (⭐260)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
+*   [Bunnybook (⭐268)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Silverback (⭐226)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
+*   [Silverback (⭐250)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Applications / Operating systems
 
-*   [0x59616e/SteinsOS (⭐115)](https://github.com/0x59616e/SteinsOS) - An OS for armv8-a architecture.
+*   [0x59616e/SteinsOS (⭐114)](https://github.com/0x59616e/SteinsOS) - An OS for armv8-a architecture.
 
 ## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 

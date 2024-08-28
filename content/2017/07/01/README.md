@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-img (⭐416)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
+*   [v-img (⭐415)](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
 
 ---
 

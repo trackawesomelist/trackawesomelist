@@ -333,7 +333,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐1.7k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+*   [Toutatis (⭐1.8k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
@@ -356,7 +356,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐1.1k)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐1.2k)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -482,15 +482,15 @@
 
 ### Integrations
 
-*   [jest-playwright (⭐528)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐530)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐101)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐160k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐99k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [playwright-jest-examples (⭐102)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐161k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐100k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐274)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐288)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [Blockstack (⭐293)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐17k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
 ## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
@@ -510,7 +510,7 @@
 
 ### Personality
 
-- API: [Dictum (⭐152)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐159)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 
@@ -630,10 +630,6 @@
 
 ## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
-### Security / Barcode
-
-*   [SecurePropertyStorage (⭐471)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
-
 ### Converters
 
 *   [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift online code converter and Xcode extension.
@@ -719,17 +715,21 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Cache Block (⭐6)](https://github.com/AccordBox/wagtail_cache_block) - A templatetag which add HTML fragment cache to your StreamField block
+*   [Wagtail Cache Block (⭐7)](https://github.com/AccordBox/wagtail_cache_block) - A templatetag which add HTML fragment cache to your StreamField block
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐43)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐44)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
+### Security
+
+*   [SecurePropertyStorage (⭐470)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+
 ### CSV
 
-*   [CodableCSV (⭐440)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
+*   [CodableCSV (⭐446)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -941,7 +941,7 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3.1k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Elasticity / Scala
 
@@ -964,7 +964,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐34)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐35)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -986,7 +986,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐293)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐300)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ### Components & Libraries / UI Components
 
@@ -1022,11 +1022,11 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ASP.NET MVC (⭐33k)](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
+*   [ASP.NET MVC (⭐35k)](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [EasyNetQ (⭐2.8k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
+*   [EasyNetQ (⭐2.9k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 
 ## [55. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

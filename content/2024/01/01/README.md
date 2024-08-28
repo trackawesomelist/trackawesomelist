@@ -10,7 +10,7 @@
 
 ### Applications / Games
 
-*   [chess-tui (⭐341)](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation ♟️
+*   [chess-tui (⭐347)](https://github.com/thomas-mauran/chess-tui) - A Chess TUI implementation ♟️
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

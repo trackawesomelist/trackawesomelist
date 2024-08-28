@@ -4,6 +4,12 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
+
+### List of blogs and websites
+
+*   [Localhost server stack](https://webstack.wikimint.com) - wmWebStack: A lightweight, customizable server package designed for web development. Featuring essential tools like PHP, MySQL, and Apache, wmWebStack empowers developers to create, test, and secure their web projects effortlessly.
+
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
 ### List of interesting topics

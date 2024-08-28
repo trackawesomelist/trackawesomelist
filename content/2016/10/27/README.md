@@ -16,7 +16,7 @@
 
 ### System
 
-*   [Finder New item (⭐32)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
+*   [Finder New item (⭐35)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -57,8 +57,8 @@
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [FluentScheduler (⭐2.6k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
-*   [stateless (⭐5.1k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
+*   [FluentScheduler (⭐2.7k)](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
+*   [stateless (⭐5.5k)](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### Frameworks, Libraries and Tools / Serialization
 
@@ -78,7 +78,7 @@
 
 ### Misc
 
-*   [ByteSize (⭐541)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐551)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 

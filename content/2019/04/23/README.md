@@ -48,10 +48,6 @@
 
 *   [Scripting with style](https://wiki.bash-hackers.org/scripting/style)
 
-### Frameworks / RSpec
-
-*   [The RSpec Style Guide (⭐878)](https://github.com/rubocop-hq/rspec-style-guide#readme)
-
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo

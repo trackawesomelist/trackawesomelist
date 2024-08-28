@@ -47,7 +47,7 @@
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐2k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐2.1k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -82,11 +82,11 @@
 
 ### Apps / StreamField
 
-*   [Wagtail ClearStream (⭐34)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
+*   [Wagtail ClearStream (⭐35)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐384)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐392)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ---
 

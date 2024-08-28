@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,11 +35,13 @@
 
 *   [steam-inventory-stream (⭐8)](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
-### Security / Barcode
+### Security
 
-*   [SecurePropertyStorage (⭐471)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐470)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Converters
 
@@ -49,65 +51,65 @@
 
 *   [LightRoute (⭐92)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / PHP
 
 *   [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 
-## [7. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [8. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mod Loaders / Archives
 
 *   [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / DNS
 
 *   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.8k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Shell`
 
-## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [10. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [How They Test (⭐5.8k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
-## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 
-## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Testing
 
 *   [Detect Flaky Tests with BuildPulse (⭐7)](https://github.com/Workshop64/buildpulse-action)
 
-## [12. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [13. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
-*   [jest-playwright (⭐528)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
+*   [jest-playwright (⭐530)](https://github.com/playwright-community/jest-playwright/) - Jest adapter for running Playwright.
 
 ### Showcases
 
-*   [playwright-jest-examples (⭐101)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐160k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
-*   [TypeScript (⭐99k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
+*   [playwright-jest-examples (⭐102)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
+*   [VS Code (⭐161k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [TypeScript (⭐100k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐274)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
-*   [Blockstack (⭐288)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
+*   [Blockstack (⭐293)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐17k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Directory Navigation
 
 *   [z.lua (⭐2.9k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 *   [zoxide (⭐18k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

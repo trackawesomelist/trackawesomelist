@@ -62,7 +62,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐2.1k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐2.2k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -150,7 +150,7 @@ Topics: React, JavaScript, jQuery\
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [aspnetcore-security-headers (⭐243)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+*   [aspnetcore-security-headers (⭐264)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
 ---
 

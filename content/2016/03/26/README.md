@@ -134,7 +134,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Smali/Baksmali (⭐6.2k)](https://github.com/JesusFreke/smali) – apk decompilation
+*   [Smali/Baksmali (⭐6.3k)](https://github.com/JesusFreke/smali) – apk decompilation
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

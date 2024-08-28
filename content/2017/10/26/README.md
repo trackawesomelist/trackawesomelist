@@ -33,13 +33,13 @@
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐455)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐457)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [123 Essential JavaScript Interview Question (⭐4.1k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
+*   [123 Essential JavaScript Interview Question (⭐4.9k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

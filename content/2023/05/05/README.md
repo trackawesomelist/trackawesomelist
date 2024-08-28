@@ -34,7 +34,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐29k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐30k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -44,7 +44,7 @@
 
 ### Status Bar
 
-*   [tmux-transient-status (⭐7)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
+*   [tmux-transient-status (⭐11)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

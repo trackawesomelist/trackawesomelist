@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22, 2024
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,19 +16,13 @@
 
 ### DevOps / Discovery
 
-*   [nixidy (⭐34)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
+*   [nixidy (⭐43)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 
 ### Programming Languages / Gleam
 
-*   [nix-gleam (⭐9)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
+*   [nix-gleam (⭐10)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Low-code Platform
 
@@ -47,13 +41,13 @@
 
 *   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [Neon (⭐4)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
+*   [Neon (⭐5)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -64,13 +58,13 @@
 
 *   [Visual Studio 2022 Preview release notes](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes-preview#blazorwasmdebuggerimprovements) - July 9, 2024 - This release focuses on quality-of-life enhancements for all developers and workloads. When you use Visual Studio, you want to feel empowered and productive. That's why quality-of-life features are so important: they make coding a smooth and enjoyable experience, free of unnecessary hassles and headaches. We hope you'll love this update.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [0xstepit/flow.nvim (⭐74)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+*   [0xstepit/flow.nvim (⭐134)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -96,17 +90,17 @@
 
 *   [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
-## [9. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [8. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / ChatGPT
 
 *   [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular-18-boilerplate (⭐42)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
+*   [Angular-18-boilerplate (⭐47)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
 
 ### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -114,9 +108,9 @@
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [valibot (⭐5.6k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+*   [valibot (⭐5.8k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
@@ -124,4 +118,5 @@
 
 ---
 
+- Prev: [Jul 23, 2024](/content/2024/07/23/README.md)
 - Next: [Jul 21, 2024](/content/2024/07/21/README.md)

@@ -23,9 +23,9 @@
 
 ### Applications
 
-*   [LCVPN (⭐537)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [LCVPN (⭐540)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 *   [Meshbird (⭐3.5k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
-*   [nuTorrent ☠️ (⭐233)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+*   [nuTorrent ☠️ (⭐234)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
 ## [4. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐216)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐217)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -117,7 +117,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐38)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐40)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 
@@ -294,7 +294,7 @@
 
 ### System
 
-*   [baked\_file\_system (⭐176)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [baked\_file\_system (⭐177)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
 *   [hardware (⭐72)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
@@ -360,7 +360,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐588)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐586)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -384,26 +384,26 @@
 
 ### Packages / Automation
 
-*   [ember-cli-dependency-lint (⭐79)](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
+*   [ember-cli-dependency-lint (⭐83)](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
 
 ### Packages / End-user customization
 
-*   [ember-wormhole (⭐287)](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
+*   [ember-wormhole (⭐284)](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
 
 ### Packages / Helpers
 
-*   [ember-root-url (⭐11)](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
-*   [ember-cli-string-helpers (⭐72)](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
+*   [ember-root-url (⭐10)](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
+*   [ember-cli-string-helpers (⭐75)](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
 
 ### Packages / Articles
 
-*   [A collection of links that summarize EmberConf 2017 (⭐99)](https://github.com/poteto/emberconf-2017)
-*   [A collection of links that summarize EmberConf 2016 (⭐269)](https://github.com/poteto/emberconf-2016)
-*   [A collection of links that summarize EmberConf 2015 (⭐245)](https://github.com/poteto/emberconf-2015)
+*   [A collection of links that summarize EmberConf 2017 (⭐101)](https://github.com/poteto/emberconf-2017)
+*   [A collection of links that summarize EmberConf 2016 (⭐268)](https://github.com/poteto/emberconf-2016)
+*   [A collection of links that summarize EmberConf 2015 (⭐244)](https://github.com/poteto/emberconf-2015)
 
 ### Packages / Styleguides
 
-*   [ember-styleguide (⭐76)](https://github.com/ember-learn/ember-styleguide)
+*   [ember-styleguide (⭐79)](https://github.com/ember-learn/ember-styleguide)
 *   [Softlayer Ember.js (⭐40)](https://github.com/softlayer/ember-style-guide)
 *   [Netguru Ember.js](https://github.com/netguru/ember-styleguide)
 *   [DockYard Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
@@ -593,11 +593,11 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐356)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐359)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Compression
 
-*   [DotNetZip.Semverd (⭐546)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
+*   [DotNetZip.Semverd (⭐545)](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 
 ### Cryptography
 
@@ -605,7 +605,7 @@
 
 ### ETL
 
-*   [Cinchoo ETL (⭐755)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
+*   [Cinchoo ETL (⭐762)](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 *   [Reactive ETL](https://archive.codeplex.com/?p=reactiveetl) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ### Event aggregator and messenger
@@ -614,11 +614,11 @@
 
 ### GUI
 
-*   [Office Ribbon (⭐739)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
+*   [Office Ribbon (⭐749)](https://github.com/RibbonWinForms/RibbonWinForms) - A library that implements MS Office Ribbon for WinForms.
 
 ### HTTP
 
-*   [Refit (⭐8.2k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+*   [Refit (⭐8.4k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 
 ### Minification
 
@@ -638,7 +638,7 @@
 
 ### PDF
 
-*   [WkhtmlToPdf (⭐264)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+*   [WkhtmlToPdf (⭐265)](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 
 ### Reactive Programming
 
@@ -656,7 +656,7 @@
 
 *   [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 *   [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **\[$]**
-*   [WampSharp (⭐386)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+*   [WampSharp (⭐385)](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 
 ---
 

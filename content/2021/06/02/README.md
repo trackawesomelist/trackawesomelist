@@ -21,7 +21,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [mizlan/iswap.nvim (⭐494)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [mizlan/iswap.nvim (⭐496)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Python / Risk Analysis
 
-*   [Empyrial (⭐873)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+*   [Empyrial (⭐909)](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
 
 ## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Applications
 
-*   [Pollen (⭐7)](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
+*   [Pollen (⭐6)](https://github.com/maxtheaxe/pollen): A decentralized messaging service that functions without any internet or mesh connection. Written in Python.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -57,7 +57,7 @@
 
 ### File Management and Sharing
 
-*   [OnionShare (⭐6.1k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+*   [OnionShare (⭐6.2k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐64)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐66)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

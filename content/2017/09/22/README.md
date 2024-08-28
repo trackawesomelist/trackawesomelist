@@ -100,17 +100,17 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐930)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐932)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [FluentFTP (⭐2.7k)](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
+*   [FluentFTP (⭐3k)](https://github.com/robinrodricks/FluentFTP/) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 
 ### Frameworks, Libraries and Tools / Query Builders
 
-*   [SqlKata (⭐2.8k)](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+*   [SqlKata (⭐3.1k)](https://github.com/sqlkata/querybuilder) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

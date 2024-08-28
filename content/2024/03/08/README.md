@@ -60,7 +60,7 @@
 
 ### Tools / Services
 
-*   [MindSQL (⭐139)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
+*   [MindSQL (⭐168)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -70,22 +70,22 @@
 
 ### State Libraries
 
-*   [exome (⭐215)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐222)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐131)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐156)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Finetuning** / **Prompt Template Language**
+### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
 
-*   [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2106.09685)]: LoRA is one of PEFT technique. To represent the weight updates with two smaller matrices (called update matrices) through low-rank decomposition. [git (⭐9.7k)](https://github.com/microsoft/LoRA) \[17 Jun 2021]
+*   [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2106.09685)]: LoRA is one of PEFT technique. To represent the weight updates with two smaller matrices (called update matrices) through low-rank decomposition. [git (⭐10k)](https://github.com/microsoft/LoRA) \[17 Jun 2021]
 
      <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/LoRA.png" alt="LoRA" width="390"/>
 
-    <details>
+    <details open>
 
     <summary>Expand: LoRA Family</summary>
 
@@ -106,7 +106,7 @@
 
     </details>
 
-### **Quantization Techniques** / **Llama 2 Finetuning**
+### **Quantization Techniques** / **Llama Finetuning**
 
 *   [The Era of 1-bit LLMs](https://arxiv.org/abs/2402.17764): All Large Language Models are in 1.58 Bits. BitNet b1.58, in which every single parameter (or weight) of the LLM is ternary {-1, 0, 1}. \[27 Feb 2024]
 
@@ -119,15 +119,15 @@
 
 *   [Spreadsheets-are-all-you-need (⭐1.1k)](https://github.com/ianand/spreadsheets-are-all-you-need): Spreadsheets-are-all-you-need implements the forward pass of GPT2 entirely in Excel using standard spreadsheet functions. \[Sep 2023]
 
-### **Evaluation Benchmark** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
-*   [LLMPerf Leaderboard (⭐403)](https://github.com/ray-project/llmperf-leaderboard): Evaulation the performance of LLM APIs. \[Dec 2023]
+*   [LLMPerf Leaderboard (⭐414)](https://github.com/ray-project/llmperf-leaderboard): Evaulation the performance of LLM APIs. \[Dec 2023]
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Applications in AI
 
-*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
+*   [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=10875437066608527790)]. \[[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. \[[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments.
 
 ### Domain Specific Language / Design Practises
 
@@ -137,7 +137,7 @@
 
 ### Third-Party Packages / Commands
 
-*   [django-typer (⭐59)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
+*   [django-typer (⭐66)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
 
 ## [8. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
@@ -151,13 +151,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [LukasPietzschmann/boo.nvim (⭐31)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
+*   [LukasPietzschmann/boo.nvim (⭐32)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-commands (⭐14)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
+*   [ai-commands (⭐18)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

@@ -118,7 +118,7 @@
 
 ### Cryptography
 
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
@@ -135,7 +135,7 @@
 
 *   Batch Processing
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-    *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    *   [luigi (⭐18k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [PySpark (⭐39k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     *   [Ray (⭐32k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing
@@ -1478,23 +1478,23 @@
 
 ### Frameworks, Libraries and Tools / Bot
 
-*   [BotSharp (⭐1.6k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
-*   [Telegram.Bot (⭐2.8k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-*   [Funogram (⭐94)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+*   [BotSharp (⭐2.1k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+*   [Telegram.Bot (⭐3.1k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
+*   [Funogram (⭐106)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [cake-build (⭐3.7k)](https://github.com/cake-build/cake) - Cross platform build automation system.
-*   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
+*   [cake-build (⭐3.9k)](https://github.com/cake-build/cake) - Cross platform build automation system.
+*   [Colorful.Console (⭐1.3k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [AspNetCore.Diagnostics.HealthChecks (⭐3.7k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-    *   [BeatPulse (⭐606)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+*   [AspNetCore.Diagnostics.HealthChecks (⭐4k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+    *   [BeatPulse (⭐603)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [JWT Simple Server (⭐191)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
+*   [JWT Simple Server (⭐193)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
 ## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -1538,25 +1538,25 @@
 
 ### Programming Languages
 
-*   [Q# (⭐154)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐156)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Front-End Development
 
-*   [CSS (⭐4.9k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐5k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 
 *   [PICO-8 (⭐2.6k)](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-*   [Minecraft (⭐410)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐425)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐248)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐250)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
@@ -1564,13 +1564,13 @@
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐72)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐73)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Board Games (⭐291)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐292)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 *   [Scientific Computing (⭐1.3k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐295)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Amazon Sellers (⭐304)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1599,7 +1599,6 @@
 
 ### Climate
 
-*   [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 *   [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 
 ## [60. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
@@ -1662,7 +1661,7 @@
 
 ### Networking
 
-*   [Dnsruby (⭐194)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
+*   [Dnsruby (⭐196)](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 
 ### PDF
 
@@ -1713,7 +1712,7 @@
 
 ### Game Engine
 
-*   [Halley (⭐3.5k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
+*   [Halley (⭐3.6k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
 
 ---
 

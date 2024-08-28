@@ -33,7 +33,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Peatio (⭐44)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+*   [Peatio (⭐45)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ### HTTP Clients and tools
 
@@ -53,7 +53,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐819)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐841)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

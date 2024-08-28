@@ -73,7 +73,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [VueFront (⭐389)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
+*   [VueFront (⭐388)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 
 ### Components & Libraries / UI Utilities
 
@@ -195,12 +195,12 @@
 
 ### Testing
 
-*   [Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Testing (⭐1.8k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐998)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐426)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-*   [TAP (⭐621)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐700)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐429)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [TAP (⭐624)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+*   [JMeter (⭐707)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

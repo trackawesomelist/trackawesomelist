@@ -90,7 +90,7 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐207k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐208k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ---
 

@@ -30,11 +30,11 @@
 
 *   GitHub actions
     *   [icepuma/rust-action (⭐78)](https://github.com/icepuma/rust-action) - rust github action
-    *   [peaceiris/actions-mdbook (⭐284)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
+    *   [peaceiris/actions-mdbook (⭐288)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
 
 ### Libraries / Text search
 
-*   [andylokandy/simsearch-rs (⭐159)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
+*   [andylokandy/simsearch-rs (⭐164)](https://github.com/andylokandy/simsearch-rs) \[[simsearch](https://crates.io/crates/simsearch)] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
 
 ### Libraries / Unsafe
 
@@ -54,7 +54,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ETCD Manager (⭐464)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
+*   [ETCD Manager (⭐474)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

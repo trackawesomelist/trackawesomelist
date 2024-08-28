@@ -55,22 +55,22 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.4k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.7k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.4k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.8k)](https://github.com/fengyuanchen/viewerjs)
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Indicators
 
-*   [Tulipy (⭐89)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐804)](https://github.com/TulipCharts/tulipindicators))
+*   [Tulipy (⭐92)](https://github.com/cirla/tulipy) - Financial Technical Analysis Indicator Library (Python bindings for [tulipindicators (⭐826)](https://github.com/TulipCharts/tulipindicators))
 
 ### Python / Trading & Backtesting
 
 *   [qtpylib (⭐2.1k)](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading <http://qtpylib.io>
-*   [Qlib (⭐14k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
+*   [Qlib (⭐15k)](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
 
 ### Python / Time Series
 
-*   [tsmoothie (⭐706)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
+*   [tsmoothie (⭐731)](https://github.com/cerlymarco/tsmoothie) - A python library for time-series smoothing and outlier detection in a vectorized way.
 
 ### Python / Data Sources
 
@@ -89,7 +89,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [MEDIUM\_NoteBook (⭐2k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
+*   [MEDIUM\_NoteBook (⭐2.1k)](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of [cerlymarco](https://github.com/cerlymarco)'s posts on Medium.
 
 ---
 

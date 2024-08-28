@@ -10,13 +10,13 @@
 
 ### Programming Languages/Frameworks/Platforms / Vue.js
 
-*   [List of 300 VueJS Interview Questions (⭐1.8k)](https://github.com/sudheerj/vuejs-interview-questions)
+*   [List of 300 VueJS Interview Questions (⭐2.5k)](https://github.com/sudheerj/vuejs-interview-questions)
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐3.6k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐3.7k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Packages / Polyfills
 
-*   [ember-angle-bracket-invocation-polyfill (⭐77)](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
+*   [ember-angle-bracket-invocation-polyfill (⭐76)](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
 
 ## [3. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

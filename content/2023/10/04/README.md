@@ -38,8 +38,8 @@
 
 ### Templates / React
 
-*   [vite-react-chakra-starter (⭐92)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
-*   [vite-react-tailwind-starter (⭐25)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-chakra-starter (⭐96)](https://github.com/sozonome/vite-react-chakra-starter) - Starter template for creating React App with TypeScript and Chakra UI. Configured with ESLint, Prettier, and Husky.
+*   [vite-react-tailwind-starter (⭐31)](https://github.com/sozonome/vite-react-tailwind-starter) - Starter template for creating React App with TypeScript and Tailwind CSS with Shadcn UI. Configured with ESLint, Prettier, and Husky.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -76,28 +76,73 @@
 
 
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / Wicket
+### 0 - Meta-Lists
 
-*   [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
-*   [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer
+*   [Visualgo: Algorithm and Data Structure Visualization](https://visualgo.net) - Visualise data structures and algorithms through animation
 
-### JavaScript / Node.js
+### Algorithms & Data Structures
 
-*   [Introduction to Node.js](https://nodejs.dev/en/learn/) (HTML)
+*   [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
+*   [Problems on Algorithms (Second Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Artificial Intelligence
 
-*   [Python 3 Patterns, Recipes, and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/) - Bruce Eckel & Friends
+*   [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
-### R / Tornado
+### Blockchain
 
-*   [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example) - Michael Clark
+*   [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 
-### Rust / Sinatra
+### Cloud Computing
 
-*   [Rust Atomics and Locks](https://marabos.nl/atomics) - Mara Bos (HTML)
+*   [Multi-tenant Applications for the Cloud, 3rd Edition](https://www.microsoft.com/en-us/download/details.aspx?id=29263)
+
+### Competitive Programming
+
+*   [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) - Johan Sannemo (PDF)
+
+### Compiler Design
+
+*   [Compiling Scala for the Java Virtual Machine](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
+*   [Compiling Techniques (1969)](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
+*   [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) - Bob Nystrom (HTML)
+*   [Implementing Functional Languages: A Tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
+*   [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) - Jack W. Crenshaw (PDF)
+*   [Practical and Theoretical Aspects of Compiler Construction](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
+
+### Computer Vision
+
+*   [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
+*   [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Richard Szeliski
+
+### Containers
+
+*   [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
+
+### Data Science
+
+*   [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](https://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
+*   [School of Data Handbook](https://schoolofdata.org/handbook/)
+*   [Theory and Applications for Advanced Text Mining](https://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+
+### Database
+
+*   [Database Explorations](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Database Fundamentals](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
+*   [Databases, Types, and The Relational Model: The Third Manifesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Temporal Database Management](https://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
+*   [The Theory of Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+
+### Game Development
+
+*   [Game Programming Patterns](https://gameprogrammingpatterns.com) - Bob Nystrom
+*   [Procedural Content Generation in Games](https://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
+
+### Networking
+
+*   [Securing Wireless Networks for the Home User Guide](https://mohamedation.com/securing-wifi/en/) - Mohamed Adel (HTML)
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

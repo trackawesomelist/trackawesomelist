@@ -20,15 +20,11 @@
 
 *   [GraphQL Weekly](https://www.graphqlweekly.com/). A weekly newsletter highlighting resources and news from the GraphQL community.
 
-### Go / Svelte
-
-*   [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
-
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Official
 
-*   [Adapty (⭐357)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
+*   [Adapty (⭐361)](https://github.com/adaptyteam/AdaptySDK-iOS) - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

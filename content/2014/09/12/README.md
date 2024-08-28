@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peerwiki (⭐312)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐313)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 

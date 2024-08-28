@@ -22,7 +22,7 @@
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐208)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐212)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
-*   [Babylon iOS Interview Questions (⭐393)](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
+*   [Babylon iOS Interview Questions (⭐396)](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

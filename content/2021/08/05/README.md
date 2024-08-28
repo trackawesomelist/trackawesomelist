@@ -27,7 +27,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-ui (⭐426)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+*   [vue-datepicker-ui (⭐427)](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

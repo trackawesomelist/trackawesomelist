@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [muxile (⭐96)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐101)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [GdUnit3 (⭐309)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
+*   [GdUnit3 (⭐310)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

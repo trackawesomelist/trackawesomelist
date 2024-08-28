@@ -33,7 +33,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐153)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [LeafPlayer (⭐155)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
 
 ### Components & Libraries / UI Utilities
 

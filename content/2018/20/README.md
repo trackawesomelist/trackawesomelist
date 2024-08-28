@@ -1,6 +1,6 @@
 # Awesome List Updates on May 14 - May 20, 2018
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -228,15 +228,15 @@
 
 ### Frameworks, Libraries and Tools / Internationalization
 
-*   [NetCoreStack.Localization (⭐85)](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
+*   [NetCoreStack.Localization (⭐86)](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [ML.NET (⭐8.6k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
+*   [ML.NET (⭐9k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [WorkflowEngine.NET (⭐826)](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
+*   [WorkflowEngine.NET (⭐876)](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 
 ## [24. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -256,7 +256,7 @@
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐193)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [gh-home (⭐192)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 *   [npm-home (⭐196)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.6k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
@@ -271,9 +271,9 @@
 *   [get-stdin (⭐337)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 *   [Ink (⭐26k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
 *   [terminal-link (⭐613)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐949)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [terminal-image (⭐968)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐20k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
-*   [sudo-block (⭐97)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
+*   [sudo-block (⭐98)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 
 ### Packages / Build tools
 
@@ -295,14 +295,14 @@
     *   [delay (⭐606)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
     *   [promise-memoize (⭐59)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
     *   [valvelet (⭐38)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐1.2k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [p-map (⭐1.3k)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
     *   [More… (⭐4.7k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
 ### Packages / Real-time
 
-*   [Socket.io (⭐60k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
+*   [Socket.io (⭐61k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 *   [Faye (⭐4.4k)](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
 *   [deepstream.io (⭐294)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
 
@@ -353,17 +353,7 @@
 
 *   [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### JavaScript / Wicket
-
-*   [JavaScript ES6 and beyond (⭐1k)](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
-
-### R / Tornado
-
-*   [Introduction to Probability and Statistics Using R (⭐136)](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
-
-## [27. Awesome](/content/craftcms/awesome/week/README.md)
+## [26. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Security
 
@@ -436,7 +426,7 @@
 *   [Sonos](https://www.sonos.com)
 *   [Wildbit](https://wildbit.com)
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assembly Manipulation
 
@@ -445,19 +435,19 @@
 
 ### CLI
 
-*   [Gui.cs (⭐9.4k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐9.5k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐643)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐651)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
-## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [28. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Databases
 
 *   [razi (⭐37)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 
-## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Chats
 
@@ -469,7 +459,7 @@
 
 *   [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
 
-## [31. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [30. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
@@ -483,19 +473,19 @@
 
 *   [riddley (⭐193)](https://github.com/ztellman/riddley)
 
-## [32. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
+## [31. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
 ### Miscellaneous / Advanced
 
 *   [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
-## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_templates (⭐114)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
-## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
@@ -505,11 +495,11 @@
 
 *   [L-systems (⭐30)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
-## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
-*   [ember-template-recast (⭐34)](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
+*   [ember-template-recast (⭐40)](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
 
 ### Packages / Content management systems
 
@@ -521,7 +511,7 @@
 
 ### Packages / Examples
 
-*   [Ghost Admin Client (⭐619)](https://github.com/TryGhost/Ghost-Admin)
+*   [Ghost Admin Client (⭐626)](https://github.com/TryGhost/Ghost-Admin)
 
 ### Packages / Gists
 
@@ -533,7 +523,7 @@
 *   [Isaac Lee: Use D3 with Ember](https://www.youtube.com/watch?v=vD7H9O--tu4)
 *   [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / iOS SDK
 
@@ -551,14 +541,14 @@
 
 *   [littlstar/s3-lambda :fire::fire::fire::fire: (⭐1.1k)](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
 
-## [37. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [36. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [한국어 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
 *   [Português do Europe (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -622,7 +612,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | -------------------------------------- |
 | open, password on wall | ✔     | ✔      | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -636,12 +626,15 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 *   [vue-gallery-slideshow (⭐169)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
-## [40. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+
+### Apps / Content Management
+
+*   [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐29)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
-*   [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
+*   [Wagtail App Pages (⭐30)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 
 ---
 

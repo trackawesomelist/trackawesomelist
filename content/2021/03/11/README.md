@@ -16,11 +16,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐216)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐220)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐203)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐207)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐44k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐45k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -119,7 +119,7 @@
 ### Programming Languages
 
 *   [C (⭐3.4k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐643)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐652)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
@@ -127,8 +127,8 @@
 
 ### Development Environment
 
-*   [Fish (⭐4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐3k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Fish (⭐4.1k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -136,16 +136,16 @@
 
 ### Business
 
-*   [Developer-First Products (⭐823)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐837)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐69k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐70k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 
 *   [Userscripts (⭐1.7k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐1.2k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

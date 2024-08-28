@@ -18,7 +18,7 @@
 
 ### Packages / UI libs
 
-*   [Frontile (⭐40)](https://github.com/josemarluedke/frontile) - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+*   [Frontile (⭐52)](https://github.com/josemarluedke/frontile) - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Anime
 
-- API: [AnimeChan (⭐1.2k)](https://github.com/RocktimSaikia/anime-chan)
+- API: [AnimeChan (⭐1.3k)](https://github.com/RocktimSaikia/anime-chan)
 
   Description: Anime quotes (over 10k+)
 
@@ -133,7 +133,7 @@
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐54k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐55k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 

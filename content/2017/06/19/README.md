@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [akka.net (⭐4.5k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
+*   [akka.net (⭐4.7k)](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

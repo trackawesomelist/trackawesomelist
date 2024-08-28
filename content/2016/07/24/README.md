@@ -20,8 +20,8 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [msbuild (⭐5k)](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
-*   [vsts-agent (⭐1.6k)](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
+*   [msbuild (⭐5.2k)](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine is a platform for building applications.
+*   [vsts-agent (⭐1.7k)](https://github.com/Microsoft/vsts-agent/blob/master/README.md) - Visual Studio Team Services Build and Release Agent.
 
 ## [3. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

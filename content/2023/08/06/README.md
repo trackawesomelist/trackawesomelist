@@ -20,7 +20,7 @@
 
 ### Modules / CLI utils
 
-*   [tui (⭐262)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
+*   [tui (⭐263)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 
 ## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [linrongbin16/fzfx.nvim (⭐109)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
+*   [linrongbin16/fzfx.nvim (⭐114)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Text processing
 
-*   [lexical\_uuid (⭐1)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
+*   [lexical\_uuid (⭐2)](https://github.com/Coachonko/lexical_uuid) - Lexicographically-sortable universally unique identifiers.
 
 ## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

@@ -32,16 +32,10 @@
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
-### Libraries / Computation
-
-*   Science
-    *   [cpmech/russell (⭐92)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
-    *   [indigits/scirust (⭐262)](https://github.com/indigits/scirust) - Scientific computing library
-
 ### Libraries / Mobile
 
 *   Android / iOS
-    *   [ivnsch/rust\_android\_ios (⭐238)](https://github.com/ivnsch/rust_android_ios) - An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
+    *   [ivnsch/rust\_android\_ios (⭐240)](https://github.com/ivnsch/rust_android_ios) - An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 
 ## [4. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -74,7 +68,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [jim-at-jibba/ariake.nvim (⭐10)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+*   [jim-at-jibba/ariake.nvim (⭐15)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
 
 ---
 

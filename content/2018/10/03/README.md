@@ -173,7 +173,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐307)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

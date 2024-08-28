@@ -50,7 +50,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐581)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐585)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 
@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AngleSharp (⭐4.8k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
+*   [AngleSharp (⭐5.1k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
 ---
 

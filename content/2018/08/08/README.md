@@ -329,7 +329,7 @@
 ### Starter Kits / Workflow
 
 *   [Arch](https://github.com/Arch) - The collection of .NET Core libraries that are created by software architects who embrace all the new stuff in .NET Core.
-    *   [AutoHistory (⭐757)](https://github.com/Arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
+    *   [AutoHistory (⭐774)](https://github.com/Arch/AutoHistory) - A plugin for Microsoft.EntityFrameworkCore to support automatically recording data changes history.
 
 ## [14. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -366,7 +366,7 @@
 
 ### Open Source / Other
 
-*   [Mark Text (⭐45k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
+*   [Mark Text (⭐46k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 
 ### Boilerplates / Other
 

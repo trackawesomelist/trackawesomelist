@@ -212,7 +212,7 @@
 
 ### Apps / Translations
 
-*   [wagtailtrans (⭐103)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+*   [wagtailtrans (⭐104)](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -327,7 +327,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Infosec Getting Started (⭐581)](https://github.com/gradiuscypher/infosec_getting_started)
+- Repository: [Infosec Getting Started (⭐585)](https://github.com/gradiuscypher/infosec_getting_started)
 
   Description: A collection of resources, documentation, links, etc to help people learn about Infosec
 
@@ -343,11 +343,11 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [MailBody (⭐154)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
+*   [MailBody (⭐158)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AngleSharp (⭐4.8k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
+*   [AngleSharp (⭐5.1k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
 ## [38. Amas](/content/sindresorhus/amas/week/README.md)
 

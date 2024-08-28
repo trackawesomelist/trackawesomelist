@@ -43,7 +43,7 @@
 
 ### Developer
 
-*   [Packagist (⭐21)](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org).
+*   [Packagist (⭐19)](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org).
 
 ### Miscellaneous
 

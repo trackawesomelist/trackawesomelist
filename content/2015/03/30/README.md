@@ -29,17 +29,17 @@
 ### Files and Directories
 
 *   [librex (⭐36)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
-*   [zarex (⭐27)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+*   [zarex (⭐28)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐145)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐146)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐350)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐351)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

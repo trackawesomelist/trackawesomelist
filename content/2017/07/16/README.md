@@ -27,7 +27,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Explore-Github (⭐55)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+*   [Explore-Github (⭐56)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

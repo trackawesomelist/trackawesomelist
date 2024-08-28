@@ -8,11 +8,11 @@
 
 ## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Langchain vs Competitors** / **Prompting Frameworks**
+### **LangChain vs Competitors** / **Prompting Frameworks**
 
 *   [What Are Tools Anyway?](https://arxiv.org/abs/2403.15452): 1. For a small number (e.g., 5–10) of tools, LMs can directly select from contexts. However, with a larger number (e.g., hundreds), an additional retrieval step involving a retriever model is often necessary. 2. LM-used tools incl. Tool creation and reuse. Tool is not useful when machine translation, summarization, and sentiment analysis (among others).  3. Evaluation metrics \[18 Mar 2024]
 
-### **Langchain vs Competitors** / **Prompt Template Language**
+### **LangChain vs Competitors** / **Prompt Template Language**
 
 *   Semantic Kernel supports HandleBars and Jinja2. \[Mar 2024]
 
@@ -29,15 +29,17 @@
         independently assigns scores to each candidate, whereas RankPrompt ranks candidates through a
         systematic, step-by-step comparative evaluation. \[19 Mar 2024]
 
+    3.  [Language Models as Compilers](https://arxiv.org/abs/2404.02575): With extensive experiments on seven algorithmic reasoning tasks, Think-and-Execute is effective. It enhances large language models’ reasoning by using task-level logic and pseudocode, outperforming instance-specific methods. \[20 Mar 2023]
+
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
 *   [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library): Anthropic released a Claude 3 AI prompt library \[Mar 2024]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
-*   [Sakana.ai: Evolutionary Optimization of Model Merging Recipes.](https://arxiv.org/abs/2403.13187): A Method to Combine 500,000 OSS Models. [git (⭐1.1k)](https://github.com/SakanaAI/evolutionary-model-merge) \[19 Mar 2024]
+*   [Sakana.ai: Evolutionary Optimization of Model Merging Recipes.](https://arxiv.org/abs/2403.13187): A Method to Combine 500,000 OSS Models. [git (⭐1.2k)](https://github.com/SakanaAI/evolutionary-model-merge) \[19 Mar 2024]
 
-### **3. Visual Prompting & Visual Grounding** / **Llama 2 Finetuning**
+### **3. Visual Prompting & Visual Grounding** / **Llama Finetuning**
 
 *   [What is Visual prompting](https://landing.ai/what-is-visual-prompting/): Similarly to what has happened in NLP, large pre-trained vision transformers have made it possible for us to implement Visual Prompting. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/vPrompt.pdf) \[26 Apr 2023]
 *   [What is Visual Grounding](https://paperswithcode.com/task/visual-grounding): Visual Grounding (VG) aims to locate the most relevant object or region in an image, based on a natural language query.
@@ -63,13 +65,6 @@
 
 *   [Open100: Top 100 Open Source achievements.](https://www.benchcouncil.org/evaluation/opencs/annual.html)
 
-### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
-
-*   [Qwen-Agent (⭐2.6k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
-*   [skyvern (⭐5.4k)](https://github.com/skyvern-ai/skyvern): Automate browser-based workflows with LLMs and Computer Vision \[Feb 2024]
-*   [LaVague (⭐5k)](https://github.com/lavague-ai/LaVague): Automate automation with Large Action Model framework. Generate Selenium code. \[Feb 2024]
-*   [MetaGPT (⭐41k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
-
 ## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
@@ -80,7 +75,7 @@
 
 ### Applications / System tools
 
-*   [ynqa/jnv (⭐4.6k)](https://github.com/ynqa/jnv) - Interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
+*   [ynqa/jnv (⭐4.7k)](https://github.com/ynqa/jnv) - Interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
 
 ## [4. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -127,11 +122,11 @@
 
 ### AI / Diagnostics
 
-*   [simplegpt.nvim (⭐9)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
+*   [simplegpt.nvim (⭐10)](https://github.com/you-n-g/simplegpt.nvim) - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 
 ### Utility / Diagnostics
 
-*   [SUSTech-data/neopyter (⭐53)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [SUSTech-data/neopyter (⭐69)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 
 ---
 

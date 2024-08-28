@@ -10,7 +10,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSX and iOS Security (⭐1.2k)](https://github.com/ashishb/osx-and-ios-security-awesome)
+- Repository: [OSX and iOS Security (⭐1.3k)](https://github.com/ashishb/osx-and-ios-security-awesome)
 
   Description: OSX and iOS related security tools
 
@@ -18,17 +18,17 @@
 
 ### Other Useful Repositories
 
-- Repository: [APT Notes (⭐3.4k)](https://github.com/kbandla/APTnotes)
+- Repository: [APT Notes (⭐3.5k)](https://github.com/kbandla/APTnotes)
 
   Description: Various public documents, whitepapers and articles about APT campaigns
 
 
-- Repository: [Infosec Reference (⭐5.4k)](https://github.com/rmusser01/Infosec_Reference)
+- Repository: [Infosec Reference (⭐5.5k)](https://github.com/rmusser01/Infosec_Reference)
 
   Description: Information Security Reference That Doesn't Suck
 
 
-- Repository: [Pentest Wiki (⭐3.3k)](https://github.com/nixawk/pentest-wiki)
+- Repository: [Pentest Wiki (⭐3.4k)](https://github.com/nixawk/pentest-wiki)
 
   Description: A free online security knowledge library for pentesters / researchers
 

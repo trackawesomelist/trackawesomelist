@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -92,7 +92,7 @@
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐292)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Open Source / Other
 
-*   [Buttercup Desktop (⭐4.2k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
+*   [Buttercup Desktop (⭐4.3k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
 ## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -136,7 +136,7 @@
 
 *   [CppVerbalExpressions (⭐378)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐8.7k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [RE2 (⭐8.9k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
 *   [SLRE (⭐524)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 
 ## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
@@ -339,7 +339,7 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 ### Others
 
-*   [Functional Structures Refactoring Kata (⭐31)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
+*   [Functional Structures Refactoring Kata (⭐32)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 *   [incremental\_katas (⭐62)](https://github.com/Gianfrancoalongi/incremental_katas)
 
 ## [40. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
@@ -471,29 +471,19 @@ Topics: WebAPI, Microservices, JavaScript\
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [42. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
-
-### Elixir / Non-X86
-
-*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐143)](https://github.com/radar/joyofelixir) *(:construction: in process)*
-
-## [43. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [42. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [44. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [43. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Altium
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [45. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -512,7 +502,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [46. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [45. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -530,13 +520,13 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [47. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [46. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 

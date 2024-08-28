@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐425)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐429)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -94,7 +94,7 @@
 
 ### SDK and API Clients
 
-*   [Countly SDK for Windows (⭐24)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
+*   [Countly SDK for Windows (⭐25)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 
 ## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

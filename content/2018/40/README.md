@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01 - Oct 07, 2018
 
-84 awesome lists updated this week.
+83 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -11,7 +11,7 @@
 ### System Programming
 
 *   **Embedded systems**
-    *   [OMicroB (⭐130)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+    *   [OMicroB (⭐134)](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
     *   [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
     *   [ocaml-esp32 (⭐18)](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
@@ -62,7 +62,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐451)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐455)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 *   [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -79,7 +79,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐624)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐630)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
@@ -272,28 +272,28 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Reverse Engineering
 
-*   [Jadx (⭐38k)](https://github.com/skylot/jadx)
+*   [Jadx (⭐40k)](https://github.com/skylot/jadx)
 
 ### Academic/Research/Publications/Books / Others
 
-*   [doridori/Android-Security-Reference (⭐877)](https://github.com/doridori/Android-Security-Reference)
-*   [android app security checklist (⭐830)](https://github.com/b-mueller/android_app_security_checklist)
-*   [Mobile App Pentest Cheat Sheet (⭐4.3k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+*   [doridori/Android-Security-Reference (⭐901)](https://github.com/doridori/Android-Security-Reference)
+*   [android app security checklist (⭐844)](https://github.com/b-mueller/android_app_security_checklist)
+*   [Mobile App Pentest Cheat Sheet (⭐4.5k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ## [26. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
-*   [bump-3dpd (⭐69)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+*   [bump-3dpd (⭐70)](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 
 ### Helpers
 
-*   [cartographer (⭐69)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [cartographer (⭐72)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 *   [lovely-windows (⭐14)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐423)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐429)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
@@ -301,11 +301,11 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Shaders
 
-*   [Moonshine (⭐503)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐523)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐423)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐429)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 
@@ -324,12 +324,12 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [DotNet.Glob (⭐345)](https://github.com/dazinator/DotNet.Glob) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
-*   [WebEssentials.AspNetCore.ServiceWorker (⭐325)](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) - ASP.NET Core Progressive Web Apps.
+*   [DotNet.Glob (⭐360)](https://github.com/dazinator/DotNet.Glob) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
+*   [WebEssentials.AspNetCore.ServiceWorker (⭐340)](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) - ASP.NET Core Progressive Web Apps.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SerilogAnalyzer (⭐288)](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
+*   [SerilogAnalyzer (⭐309)](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
 *   [sourcelink (⭐1.2k)](https://github.com/dotnet/sourcelink) - SourceLink is a language- and source-control agnostic system for providing first-class source debugging experiences for binaries.
 
 ## [28. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
@@ -405,7 +405,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐307)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [34. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
@@ -502,7 +502,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Components & Libraries / UI Utilities
 
-*   [vue2-perfect-scrollbar (⭐274)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
+*   [vue2-perfect-scrollbar (⭐275)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -600,7 +600,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Memory Allocation
 
 *   [Hoard (⭐1.1k)](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
-*   [jemalloc (⭐9.2k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+*   [jemalloc (⭐9.3k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ### PDF
 
@@ -625,7 +625,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Libraries / JavaScript
 
 *   [MEAN.JS (⭐4.9k)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
-*   [MERN (mern-starter) (⭐5.1k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
+*   [MERN (mern-starter) (⭐5.2k)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
 
 ### Libraries / Julia
@@ -638,7 +638,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Libraries / R
 
-*   [mongolite (⭐282)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+*   [mongolite (⭐285)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Libraries / Ruby
 
@@ -647,10 +647,10 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Administration
 
-*   [MongoDB Smasher (⭐33)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
+*   [MongoDB Smasher (⭐34)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
 *   [mtools (⭐1.9k)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
-*   [nginx-gridfs (⭐793)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
-*   [nginx-mongodb-rest (⭐30)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
+*   [nginx-gridfs (⭐794)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
+*   [nginx-mongodb-rest (⭐32)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
 
 ### Tools / Data
 
@@ -666,9 +666,9 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Development
 
-*   [mgodatagen (⭐312)](https://github.com/feliixx/mgodatagen) - Random data generator
-*   [Mongo Seeding (⭐547)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
-*   [Mongoeye (⭐157)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+*   [mgodatagen (⭐322)](https://github.com/feliixx/mgodatagen) - Random data generator
+*   [Mongo Seeding (⭐556)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+*   [Mongoeye (⭐161)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Tools / Monitoring
@@ -677,17 +677,17 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Tools / Web
 
-*   [mongo-express (⭐5.3k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
+*   [mongo-express (⭐5.5k)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
 *   [mongoadmin (⭐250)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
 *   [mongri (⭐75)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
 
 ### Applications / Web
 
-*   [Countly (⭐5.4k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+*   [Countly (⭐5.5k)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
 *   [Leanote (⭐12k)](https://github.com/leanote/leanote) - Evernote clone built with Go
 *   [NodeBB (⭐14k)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
 *   [Reaction (⭐12k)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
-*   [SaaS Boilerplate (⭐3.9k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
+*   [SaaS Boilerplate (⭐4k)](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
 *   [uptime (⭐3.6k)](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 
 ## [51. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
@@ -695,10 +695,6 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Monitoring & Debugging / Scala
 
 *   [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
-
-### Articles & Papers / Scala
-
-*   [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8354433) :small\_orange\_diamond:<sup>PDF</sup> - Overview of the state of microservices in both industrial and academia.
 
 ## [52. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -749,11 +745,11 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Logging
 
-*   [Sentry (⭐574)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
+*   [Sentry (⭐576)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
 ### Office
 
-*   [NetOffice (⭐681)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+*   [NetOffice (⭐689)](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
 
 ### ORM
 
@@ -782,7 +778,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ### Querying / Symfony2
 
 *   [HTTP Prompt (⭐8.9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
-*   [Insomnia (⭐33k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐34k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 
 ## [58. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -795,7 +791,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [homebox (⭐454)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
+*   [homebox (⭐460)](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`
 *   [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`
 
 ### Software / Communication - Social Networks and Forums
@@ -804,7 +800,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐961)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
+*   [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code (⭐971)](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`
 *   [WordPress](https://wordpress.org/) - World's most-used blogging and CMS engine. ([Source Code (⭐19k)](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
 ### Software / Groupware
@@ -813,7 +809,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Software / Learning and Courses
 
-*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐769)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
+*   [Chamilo LMS](https://chamilo.org/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code (⭐781)](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 
 ### Software / Software Development - Project Management
 
@@ -829,7 +825,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ### Open Source / Other
 
-*   [Netron (⭐26k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐27k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 
@@ -1010,13 +1006,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
 
-## [66. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Lua / PicoLisp
-
-*   [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
-
-## [67. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [66. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
@@ -1030,7 +1020,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [Mara Averick](https://twitter.com/dataandme)
 
-## [68. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [67. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -1049,7 +1039,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
 *   [CodePier](https://codepier.io?ref=awesome-laravel)
 
-## [69. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [68. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -1060,7 +1050,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 
-## [70. Awesome](/content/craftcms/awesome/week/README.md)
+## [69. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Presentations / Tutorials
 
@@ -1089,13 +1079,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 *   [Nissin Foods](http://nissinfoods.com/)
 *   [Reddit Inc.](https://www.redditinc.com/)
 
-## [71. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [70. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [MojiScript (⭐149)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
-## [72. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [71. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / India 🇮🇳
 
@@ -1565,19 +1555,19 @@ Topics: Developer Tools\
 Topics: ReasonML, React, Software Philosophy\
 <https://twitter.com/_chenglou>
 
-## [73. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [72. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
 *   [kaocha (⭐778)](https://github.com/lambdaisland/kaocha)
 
-## [74. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [73. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Videos / IRC
 
 *   [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 
-## [75. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [74. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulator Development / Misc
 
@@ -1596,13 +1586,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [vtGBte (⭐28)](https://github.com/paul-arutyunov/vtGBte) - A minimalistic ncurses tile editor.
 
-## [76. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [75. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Speakers (⭐758)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
-## [77. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [76. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -1620,19 +1610,19 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 
-## [78. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [77. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / TypeScript
 
 *   [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
-## [79. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [78. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
 *   [Awesome Typography (⭐1.2k)](https://github.com/Jolg42/awesome-typography)
 
-## [80. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [79. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -1642,13 +1632,13 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
-## [81. Amas](/content/sindresorhus/amas/week/README.md)
+## [80. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
-## [82. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [81. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Courses
 
@@ -1657,13 +1647,13 @@ Topics: ReasonML, React, Software Philosophy\
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
-## [83. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [82. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmake\_check (⭐20)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [84. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [83. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

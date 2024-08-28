@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Tossit (⭐63)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+*   [Tossit (⭐62)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐45)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐44)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other Useful Repositories
 
-- Repository: [Lockpicking (⭐1.3k)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.4k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 

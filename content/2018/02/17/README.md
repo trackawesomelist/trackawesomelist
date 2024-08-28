@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [CurlThin (⭐63)](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl\_multi interface.
+*   [CurlThin (⭐68)](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl\_multi interface.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

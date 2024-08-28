@@ -10,26 +10,26 @@
 
 ### Tools / Environment managers
 
-*   [tfswitcher (⭐4)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
+*   [tfswitcher (⭐3)](https://github.com/ASleepyCat/tfswitcher) - Terraform and OpenTofu version switcher written in Rust.
 
 ## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
-*   [Wagtail SEO (⭐57)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
+*   [Wagtail SEO (⭐61)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Apps / Modeladmin
 
-*   [wagtail-treemodeladmin (⭐42)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+*   [wagtail-treemodeladmin (⭐45)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Headless Preview (⭐114)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+*   [Wagtail Headless Preview (⭐118)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Tailwind & Stimulus blog (⭐356)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
-*   [Wagtail for Platform.sh (⭐3)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
+*   [Wagtail Tailwind & Stimulus blog (⭐367)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
+*   [Wagtail for Platform.sh (⭐5)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 
 ### Resources / Articles
 
@@ -38,4 +38,4 @@
 ---
 
 - Prev: [Dec 24, 2023](/content/2023/12/24/README.md)
-- Next: [Dec 18, 2023](/content/2023/12/18/README.md)
+- Next: [Dec 19, 2023](/content/2023/12/19/README.md)

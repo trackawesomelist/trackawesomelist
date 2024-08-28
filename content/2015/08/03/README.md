@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐911)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐921)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐944)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐945)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -82,7 +82,7 @@
 
 ### JSON
 
-*   [json\_web\_token\_ex (⭐142)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
+*   [json\_web\_token\_ex (⭐143)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
 
 ---
 

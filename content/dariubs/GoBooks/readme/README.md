@@ -2,7 +2,7 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 16K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 17K · 🏷️ Books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / [Weekly](/content/dariubs/GoBooks/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ List of Golang books
         *   [2022 - Practical Go Lessons *Free*](#2022---practical-go-lessons-free)
         *   [2022 - Pro Go](#2022---pro-go)
         *   [2022 - Go for DevOps](#2022---go-for-devops)
-        *   [2022 - gRPC Microservices in Go](#2022---grpc-microservices-in-go)
+        *   [2023 - gRPC Microservices in Go](#2023---grpc-microservices-in-go)
         *   [2023 - Learn Go With Tests *Free*](#2023---learn-go-with-tests-free)
         *   [2023 - Go 101 *Free*](#2023---go-101-free)
         *   [2023 - Persian - Go Programming Language *Free*](#2023---persian---go-programming-language-free)
@@ -109,7 +109,7 @@ List of Golang books
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github (⭐534)](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐541)](https://github.com/miekg/learninggo).
 
 ### 2018 - [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -525,7 +525,7 @@ Much of the modern world is built on cryptography, and this book introduces read
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project (⭐4.9k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐5.1k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
@@ -602,7 +602,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐131)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐136)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### 2023 - [Let's Go!](https://lets-go.alexedwards.net/)
 
@@ -665,7 +665,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki (⭐119k)](https://github.com/golang/go/wiki/Books)
+### [More Books on the Go Wiki (⭐122k)](https://github.com/golang/go/wiki/Books)
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -679,11 +679,11 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Golangbot.com Articles](https://golangbot.com/)
 
-### [Tuxerrante repo on go exercises (⭐2)](https://github.com/tuxerrante/go_exercises)
+### [Tuxerrante repo on go exercises (⭐4)](https://github.com/tuxerrante/go_exercises)
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules (⭐16k)](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules (⭐17k)](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
 
 # License
 

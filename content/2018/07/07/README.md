@@ -26,7 +26,7 @@
 
 ### Contents / High-Availability
 
-*   [PAF (⭐334)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+*   [PAF (⭐337)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 
 ### Contents / Extensions
 
@@ -76,7 +76,7 @@
 
 ### Packages / Libraries
 
-*   [Howler.js (⭐23k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
+*   [Howler.js (⭐24k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
 
 ---
 

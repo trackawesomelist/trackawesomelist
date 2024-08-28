@@ -10,7 +10,7 @@
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐184k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐185k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐160k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐161k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

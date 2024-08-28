@@ -5842,7 +5842,7 @@
 *   [Community](https://capacitorjs.com/community)
 *   [Blog](https://capacitorjs.com/blog)
 *   [Enterprise](https://capacitorjs.com/enterprise)
-*   [Repository (⭐11k)](https://github.com/ionic-team/capacitor)
+*   [Repository (⭐12k)](https://github.com/ionic-team/capacitor)
 *   [Twitter](https://twitter.com/capacitorjs)
 
 ### Guides
@@ -5861,9 +5861,9 @@
 
 ### Platforms
 
-*   [@capacitor/android (⭐11k)](https://github.com/ionic-team/capacitor)
-*   [@capacitor/ios (⭐11k)](https://github.com/ionic-team/capacitor)
-*   [@capacitor-community/electron (⭐303)](https://github.com/capacitor-community/electron)
+*   [@capacitor/android (⭐12k)](https://github.com/ionic-team/capacitor)
+*   [@capacitor/ios (⭐12k)](https://github.com/ionic-team/capacitor)
+*   [@capacitor-community/electron (⭐321)](https://github.com/capacitor-community/electron)
 
 ### Plugins
 
@@ -5896,62 +5896,62 @@
 
 ### Plugins / Community Plugins
 
-*   [@aparajita/capacitor-biometric-auth (⭐104)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
-*   [@capacitor-community/vue-cli-plugin-capacitor (⭐133)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3/4 Plugin for Capacitor.
+*   [@aparajita/capacitor-biometric-auth (⭐120)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+*   [@capacitor-community/vue-cli-plugin-capacitor (⭐131)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3/4 Plugin for Capacitor.
 *   [@capacitor-community/twitter (⭐11)](https://github.com/capacitor-community/twitter) - Capacitor plugin to enable TwitterKit.
-*   [@capacitor-community/fcm (⭐231)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
-*   [@capacitor-community/intercom (⭐51)](https://github.com/capacitor-community/intercom) - Enable Intercom for Capacitor apps.
-*   [@capacitor-community/media (⭐87)](https://github.com/capacitor-community/media) - Capacitor plugin to activate extra media features.
-*   [@capacitor-community/firebase-analytics (⭐155)](https://github.com/capacitor-community/firebase-analytics) - Enable Firebase Analytics for Capacitor Apps.
-*   [@capacitor-community/camera-preview (⭐172)](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code.
-*   [@capacitor-community/date-picker (⭐81)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
-*   [@capacitor-community/firebase-crashlytics (⭐69)](https://github.com/capacitor-community/firebase-crashlytics) - Capacitor plugin for Firebase Crashlytics.
-*   [@capacitor-community/sqlite (⭐409)](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
-*   [@capacitor-community/stripe (⭐178)](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor.
-*   [@capacitor-community/react-hooks (⭐240)](https://github.com/capacitor-community/react-hooks) - React hooks for Capacitor.
-*   [@capacitor-community/keep-awake (⭐113)](https://github.com/capacitor-community/keep-awake) - Capacitor plugin to prevent devices from dimming or locking the screen.
-*   [@capacitor-community/http (⭐208)](https://github.com/capacitor-community/http) - Community plugin for native HTTP.
-*   [@capacitor-community/text-to-speech (⭐85)](https://github.com/capacitor-community/text-to-speech) - Capacitor plugin for synthesizing speech from text.
-*   [@capacitor-community/native-audio (⭐94)](https://github.com/capacitor-community/native-audio) - Capacitor community plugin for playing sounds.
-*   [@capacitor-community/firebase-remote-config (⭐22)](https://github.com/capacitor-community/firebase-remote-config) - Capacitory community plugin for Firebase Remote Config.
+*   [@capacitor-community/fcm (⭐239)](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging for Capacitor apps.
+*   [@capacitor-community/intercom (⭐56)](https://github.com/capacitor-community/intercom) - Enable Intercom for Capacitor apps.
+*   [@capacitor-community/media (⭐98)](https://github.com/capacitor-community/media) - Capacitor plugin to activate extra media features.
+*   [@capacitor-community/firebase-analytics (⭐159)](https://github.com/capacitor-community/firebase-analytics) - Enable Firebase Analytics for Capacitor Apps.
+*   [@capacitor-community/camera-preview (⭐182)](https://github.com/capacitor-community/camera-preview) - Capacitor plugin that allows camera interaction from HTML code.
+*   [@capacitor-community/date-picker (⭐83)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
+*   [@capacitor-community/firebase-crashlytics (⭐70)](https://github.com/capacitor-community/firebase-crashlytics) - Capacitor plugin for Firebase Crashlytics.
+*   [@capacitor-community/sqlite (⭐462)](https://github.com/capacitor-community/sqlite) - Community plugin for native & electron SQLite databases.
+*   [@capacitor-community/stripe (⭐188)](https://github.com/capacitor-community/stripe) - Stripe Mobile SDK wrapper for Capacitor.
+*   [@capacitor-community/react-hooks (⭐244)](https://github.com/capacitor-community/react-hooks) - React hooks for Capacitor.
+*   [@capacitor-community/keep-awake (⭐120)](https://github.com/capacitor-community/keep-awake) - Capacitor plugin to prevent devices from dimming or locking the screen.
+*   [@capacitor-community/http (⭐209)](https://github.com/capacitor-community/http) - Community plugin for native HTTP.
+*   [@capacitor-community/text-to-speech (⭐93)](https://github.com/capacitor-community/text-to-speech) - Capacitor plugin for synthesizing speech from text.
+*   [@capacitor-community/native-audio (⭐104)](https://github.com/capacitor-community/native-audio) - Capacitor community plugin for playing sounds.
+*   [@capacitor-community/firebase-remote-config (⭐23)](https://github.com/capacitor-community/firebase-remote-config) - Capacitory community plugin for Firebase Remote Config.
 *   [@capacitor-community/in-app-purchases](https://github.com/capacitor-community/in-app-purchases) - WIP: In App Purchases plugin for Capacitor.
-*   [@capacitor-community/native-market (⭐25)](https://github.com/capacitor-community/native-market) - Capacitor community plugin for native market for Play Store/App Store.
-*   [@capacitor-community/capacitor-googlemaps-native (⭐141)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
-*   [@capacitor-community/contacts (⭐110)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
-*   [@capacitor-community/apple-sign-in (⭐133)](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support.
+*   [@capacitor-community/native-market (⭐26)](https://github.com/capacitor-community/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+*   [@capacitor-community/capacitor-googlemaps-native (⭐150)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Capacitor Plugin using native Google Maps SDK for Android and iOS.
+*   [@capacitor-community/contacts (⭐114)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
+*   [@capacitor-community/apple-sign-in (⭐137)](https://github.com/capacitor-community/apple-sign-in) - Sign in with Apple Support.
 *   [@capacitor-community/flipper (⭐10)](https://github.com/capacitor-community/flipper) - Capacitory community plugin for Flipper.
-*   [@capacitor-community/facebook-login (⭐91)](https://github.com/capacitor-community/facebook-login) - Facebook Login support.
-*   [@capacitor-community/admob (⭐197)](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob.
-*   [@capacitor-community/speech-recognition (⭐72)](https://github.com/capacitor-community/speech-recognition) - Capacitor community plugin for speech recognition.
-*   [@capacitor-community/realm (⭐23)](https://github.com/capacitor-community/realm) - Capacitor community plugin for native Realm.
+*   [@capacitor-community/facebook-login (⭐101)](https://github.com/capacitor-community/facebook-login) - Facebook Login support.
+*   [@capacitor-community/admob (⭐209)](https://github.com/capacitor-community/admob) - Community plugin for using Google AdMob.
+*   [@capacitor-community/speech-recognition (⭐84)](https://github.com/capacitor-community/speech-recognition) - Capacitor community plugin for speech recognition.
+*   [@capacitor-community/realm (⭐25)](https://github.com/capacitor-community/realm) - Capacitor community plugin for native Realm.
 *   [@capacitor-community/auth0 (⭐9)](https://github.com/capacitor-community/auth0) - A native plugin for Auth0 authentication provider.
-*   [@capacitor-community/barcode-scanner (⭐425)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor.
-*   [@capacitor-community/background-geolocation (⭐167)](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
-*   [@capacitor-community/bluetooth-le (⭐238)](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy.
+*   [@capacitor-community/barcode-scanner (⭐435)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor.
+*   [@capacitor-community/background-geolocation (⭐181)](https://github.com/capacitor-community/background-geolocation) - Capacitor plugin which lets you receive geolocation updates even while the app is backgrounded.
+*   [@capacitor-community/bluetooth-le (⭐265)](https://github.com/capacitor-community/bluetooth-le) - Capacitor plugin for Bluetooth Low Energy.
 *   [@capacitor-community/uxcam (⭐5)](https://github.com/capacitor-community/uxcam) - UXCam and FullStory app analytics.
-*   [@capacitor-community/privacy-screen (⭐70)](https://github.com/capacitor-community/privacy-screen) - Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
+*   [@capacitor-community/privacy-screen (⭐77)](https://github.com/capacitor-community/privacy-screen) - Capacitor plugin that protects your app from displaying a screenshot in Recents screen/App Switcher.
 *   [@capacitor-community/screen-brightness (⭐21)](https://github.com/capacitor-community/screen-brightness) - Capacitor community plugin for controlling screen brightness on iOS and Android devices.
-*   [@capacitor-community/app-icon (⭐68)](https://github.com/capacitor-community/app-icon) - Capacitor plugin for managing an iOS app's icon.
-*   [@capacitor-community/card-scanner (⭐10)](https://github.com/capacitor-community/card-scanner) - Simple card scanner for Capacitor Applications.
-*   [@capacitor-community/safe-area (⭐29)](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
-*   [@capacitor-community/appcenter-sdk-capacitor (⭐34)](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
-*   [@capacitor-community/photoviewer (⭐47)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
-*   [@codetrix-studio/capacitor-google-auth (⭐246)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
-*   [@teamhive/capacitor-video-recorder (⭐55)](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
-*   [capacitor-data-storage-sqlite (⭐74)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
+*   [@capacitor-community/app-icon (⭐74)](https://github.com/capacitor-community/app-icon) - Capacitor plugin for managing an iOS app's icon.
+*   [@capacitor-community/card-scanner (⭐11)](https://github.com/capacitor-community/card-scanner) - Simple card scanner for Capacitor Applications.
+*   [@capacitor-community/safe-area (⭐45)](https://github.com/capacitor-community/safe-area) - A plugin to expose the safe area insets from the native iOS/Android device to your web project.
+*   [@capacitor-community/appcenter-sdk-capacitor (⭐35)](https://github.com/capacitor-community/appcenter-sdk-capacitor) - Capacitor Plugin for Microsoft's Visual Studio App Center SDK.
+*   [@capacitor-community/photoviewer (⭐49)](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
+*   [@codetrix-studio/capacitor-google-auth (⭐264)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth.
+*   [@teamhive/capacitor-video-recorder (⭐58)](https://github.com/TeamHive/capacitor-video-recorder) - Video recorder plugin for Capacitor.
+*   [capacitor-data-storage-sqlite (⭐75)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Capacitor Data Storage SQlite Plugin.
 *   [capacitor-firebase-auth (⭐261)](https://github.com/baumblatt/capacitor-firebase-auth) - Capacitor Firebase Authentication Plugin.
-*   [capacitor-video-player (⭐99)](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
+*   [capacitor-video-player (⭐111)](https://github.com/jepiqueau/capacitor-video-player) - Capacitor Video Player Plugin.
 
 ### Demo Apps / Community Plugins
 
-*   [capacitor-plugin-demo (⭐83)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-plugin-demo (⭐95)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 *   [capacitor-testapp (⭐34)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
 
 ### Tools / Community Plugins
 
 *   [@capacitor/docgen (⭐12)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
-*   [@capacitor/plugin (⭐63)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [cordova-res (⭐472)](https://github.com/ionic-team/cordova-res) - Local Cordova icon/splash screen resource generation tool.
+*   [@capacitor/plugin (⭐73)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+*   [cordova-res (⭐500)](https://github.com/ionic-team/cordova-res) - Local Cordova icon/splash screen resource generation tool.
 
 ### Related Lists / Community Plugins
 
@@ -6008,7 +6008,7 @@
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [SharpPcap (⭐1.2k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+*   [SharpPcap (⭐1.3k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ## [15. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -6058,7 +6058,7 @@
 
 ### Science & Math
 
-- API: [inspirehep.net (⭐38)](https://github.com/inspirehep/rest-api-doc)
+- API: [inspirehep.net (⭐40)](https://github.com/inspirehep/rest-api-doc)
 
   Description: High Energy Physics info. system
 
@@ -6195,7 +6195,7 @@
 ### Tech or IT / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [Mac iOS Tech Blogs By Women](https://inessential.com/2015/11/16/blogs_by_women)
-*   [Software Engineering Blogs (⭐30k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
+*   [Software Engineering Blogs (⭐31k)](https://github.com/kilimchoi/engineering-blogs/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/kilimchoi/engineering-blogs/)
 *   [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
 ### Aggregators of Indieblogs / Crypto or Blockchain relevant
@@ -6345,20 +6345,20 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [AgonesSDK (⭐55)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐5.9k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
-*   [StoryTeller Engine (⭐26)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
+*   [AgonesSDK (⭐57)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐6k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
+*   [StoryTeller Engine (⭐30)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
 ## [24. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
-*   [hololive-fusion-generator (⭐111)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
+*   [hololive-fusion-generator (⭐112)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
 ## [25. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 
-*   [Bitcoin Spring Boot Starter (⭐59)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+*   [Bitcoin Spring Boot Starter (⭐60)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
 ## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -6390,11 +6390,11 @@
 
 ### Game Engine
 
-*   [o3de (⭐7.5k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐7.6k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
-*   [config-loader (⭐193)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐194)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
 ## [30. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
@@ -6410,8 +6410,8 @@
 
 ### Utils
 
-*   [expect-playwright (⭐145)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
-*   [eslint-plugin-playwright (⭐244)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
+*   [expect-playwright (⭐146)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
+*   [eslint-plugin-playwright (⭐253)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
 ## [32. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -6455,19 +6455,19 @@
 
 ### FIAT
 
-*   [Debitum (⭐84)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐85)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
-*   [create-vite (⭐66k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐151)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐127)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
-*   [vite-plugin-tips (⭐60)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+*   [vite-plugin-restart (⭐159)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐134)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-tips (⭐61)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [39. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -6489,11 +6489,11 @@
 
 ### Assets
 
-*   [Vite Ruby (⭐1.2k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐1.3k)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐337)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐339)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
@@ -6501,7 +6501,7 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐53)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐55)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -6523,7 +6523,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐9.1k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐9.3k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ## [44. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -6540,12 +6540,12 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐120)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐123)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [QuickTok (⭐28)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐135)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐136)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
 ## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [machine-learning-for-trading (⭐12k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
+*   [machine-learning-for-trading (⭐13k)](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

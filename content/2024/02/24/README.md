@@ -16,13 +16,13 @@
 
 ### Utility / Mocking
 
-*   [JKScope (⭐10)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
+*   [JKScope (⭐12)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
-*   [Wire](https://wirereader.app) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](\[id6456571712]\(https://apps.apple.com/us/app/wire-rss-news-reader/id1438331258\))
+*   [Wire](https://wirereader.app) [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](\[id6456571712]\(https://apps.apple.com/app/wire-rss-news-reader/id1438331258\)) <sup>[1420](https://t.me/s/aboutrss/1420)</sup>
 
 ### 🔍 Feed Search Engines / 酷Q Plugin
 
@@ -32,7 +32,7 @@
 
 ### Parser / Package managers
 
-*   [00JCIV00/cova (⭐80)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
+*   [00JCIV00/cova (⭐83)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

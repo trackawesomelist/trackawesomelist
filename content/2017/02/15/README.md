@@ -65,7 +65,7 @@
 
 ### Developer
 
-*   [ng (⭐44)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
+*   [ng (⭐45)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

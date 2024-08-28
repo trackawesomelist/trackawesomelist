@@ -39,7 +39,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Profiler and Optimization
 
-*   [Derailed Benchmarks (⭐2.9k)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
+*   [Derailed Benchmarks (⭐3k)](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

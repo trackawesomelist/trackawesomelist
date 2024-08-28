@@ -162,7 +162,7 @@
 ### Back-End Development
 
 *   [Vagrant (⭐596)](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-*   [Pyramid (⭐549)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+*   [Pyramid (⭐550)](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 *   [Phalcon (⭐604)](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 *   [Dropwizard (⭐92)](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 *   [Lumen (⭐327)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.

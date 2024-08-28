@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2020
 
-72 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,23 +18,7 @@
 
 *   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Non-linear video editing freeware with commercial plan used to create some Hollywood movies.
 
-## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
-
-### Version Control
-
-*   [jupyter-nbrequirements (⭐18)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
-
-## [4. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
-
-### Protocol / Platforms
-
-*   [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
-
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
-
-### Internationalization / Image Picker
-
-*   [attranslate (⭐322)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -43,6 +27,18 @@
 ### State management / Standard
 
 *   [Provider (⭐5.1k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
+
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Version Control
+
+*   [jupyter-nbrequirements (⭐18)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
+
+## [5. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+
+### Protocol / Platforms
+
+*   [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
 
 ## [6. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -68,8 +64,8 @@
 
 ### Go / Erlang
 
-*   [Fiber (⭐31k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
-*   [Gin (⭐75k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
+*   [Fiber (⭐33k)](https://github.com/gofiber/fiber) - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+*   [Gin (⭐77k)](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
 *   [Go Chassis (⭐2.7k)](https://github.com/go-chassis/go-chassis) - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 
 ### Perl / Scala
@@ -158,21 +154,21 @@
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐236)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐238)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
-*   [clml (⭐258)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clml (⭐259)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [Multi-prometheus proxy (⭐37)](https://github.com/matt-deboer/mpp) - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
-*   [Promxy (⭐1k)](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
-*   [Trickster (⭐1.9k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
+*   [Promxy (⭐1.1k)](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
+*   [Trickster (⭐2k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
 
 ## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -209,12 +205,12 @@
 
 ### CMS
 
-*   [Storytime (⭐753)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
+*   [Storytime (⭐754)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
 
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐185)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [ActiveFlag (⭐188)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
     *   [Bitfields (⭐224)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
@@ -232,15 +228,11 @@
 ### Libraries
 
 *   [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-    *   [GitHub repository :octocat: (⭐4.3k)](https://github.com/NVIDIAGameWorks/kaolin/)
-    *   [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.3k)](https://github.com/NVIDIAGameWorks/kaolin/)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.05063.pdf)
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
-    *   [GitHub repository :octocat: (⭐2.4k)](https://github.com/pyvista/pyvista)
-    *   [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
-
-### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-
-*   [LOAM J. Zhang and S. Singh :red\_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.5k)](https://github.com/pyvista/pyvista)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://joss.theoj.org/papers/10.21105/joss.01450)
 
 ## [26. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -261,12 +253,12 @@
 
 ### Account Management
 
-*   [Kratos (⭐9.8k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
-*   [Conjur (⭐701)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
+*   [Kratos (⭐11k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
+*   [Conjur (⭐750)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
-### Authorization / Open-source policy frameworks
+### Authorization / ABAC frameworks
 
-*   [Casbin (⭐16k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
+*   [Casbin (⭐17k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
 
 ## [28. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -280,53 +272,51 @@
 
 *   [concent (⭐1.3k)](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
 
-## [30. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Utilities
-
-*   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### System / Navigation Demos
 
 *   [react-native-system-setting (⭐386)](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
 
-## [32. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [31. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### Helpful links / Other
 
 *   [TFProfiler (⭐26)](https://github.com/iglaweb/TFProfiler) - An Android-based app to profile TensorFlow Lite models and measure its performance on smartphone.
 
-## [33. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [32. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### i18n & l10n
+
+*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 ### Open Source Projects
 
-*   [Ionic 5 WhatsApp clone (⭐51)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 5 WhatsApp clone (⭐60)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / System
 
 *   [Phate6660/nixinfo (⭐46)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
 
-## [35. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [34. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Research / Data
 
 *   [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 
-## [36. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [35. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme) / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
 
-## [37. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [36. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Configuration / Text-Based User Interfaces
 
-*   [Configurate (⭐348)](https://github.com/SpongePowered/Configurate) - Configuration library with support for various configuration formats and transformations.
+*   [Configurate (⭐355)](https://github.com/SpongePowered/Configurate) - Configuration library with support for various configuration formats and transformations.
 
 ### Podcasts and Screencasts / Mocking
 
@@ -337,29 +327,29 @@
 
 *   [foojay.io](https://foojay.io)
 
-## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [37. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   📁 [V-Dashboard (⭐892)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
+*   📁 [V-Dashboard (⭐899)](https://github.com/wobsoriano/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Starters & Themes
 
 *   🚀 [Vite + React + Tailwind Starter (⭐210)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 
-## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [38. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
 *   [ADMINLTE (⭐263)](https://github.com/sjefvanleeuwen/blazor-adminlte) - ![stars](https://img.shields.io/github/stars/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/sjefvanleeuwen/blazor-adminlte?style=flat-square\&cacheSeconds=86400) ADMINLTE for Blazor is a collection of reusable components, with which you can easily develop digital services as a designer or developer. Think of buttons, form elements and page templates. This project adapts ADMINLTE 3 so the components can be used from dotnet core Blazor.
-*   [Material.Blazor (⭐242)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
+*   [Material.Blazor (⭐243)](https://github.com/Material-Blazor/Material.Blazor) - ![stars](https://img.shields.io/github/stars/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Material-Blazor/Material.Blazor?style=flat-square\&cacheSeconds=86400) An alternative Material Theme Razor Component Library. Material.Blazor focuses sharply on giving you pure markup from [Google's material-components-web (⭐17k)](https://github.com/material-components/material-components-web/tree/master/packages) - we don't try to sit between you and your use of Google's CSS and SASS because they do it better than we ever could. We also have some cool "plus" components. [See our demo and comprehensive documentation](https://material-blazor.com).
 *   [MComponents (⭐62)](https://github.com/manureini/MComponents) - ![stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square\&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 
 ### 2D/3D Rendering engines / CSS
 
-*   [BlazorSize (⭐324)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
+*   [BlazorSize (⭐330)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
-## [40. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [39. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Unofficial Distributions / AlmaLinux OS
 
@@ -369,7 +359,7 @@
 
 *   [Windows Subsystem for Linux 2 (WSL 2): Tips, Tricks and Techniques by Stuart Leeks](https://www.amazon.co.uk/Windows-Subsystem-Linux-Tricks-Techniques/dp/1800562446/)
 
-## [41. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [40. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -401,27 +391,27 @@
 
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
 
-*   [Podsync (⭐1.4k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
+*   [Podsync (⭐1.5k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [alestic/lambdash :fire::fire::fire: (⭐529)](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 
-## [43. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Blogposts and opinions
 
 *   [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
 
-## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [43. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Multiverse (⭐83)](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -429,16 +419,16 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datagrid (⭐199)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
-*   [vue3-qr-reader (⭐87)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
+*   [vue-datagrid (⭐201)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+*   [vue3-qr-reader (⭐88)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
-## [46. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [45. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Factor Analysis
 
-*   [Spectre (⭐544)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+*   [Spectre (⭐581)](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
 
-## [47. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [46. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Generators / Meetups
 
@@ -448,7 +438,7 @@
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast, and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments, and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 
-## [48. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [47. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### DDL Tools / Free Indexers
 
@@ -462,46 +452,25 @@
 
 *   [betanin (⭐230)](https://github.com/sentriz/betanin) beets.io based man-in-the-middle of your torrent client and music player.
 
-## [49. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [HTPL Compiler (⭐9)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
-## [50. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [49. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Functional Programming
 
 *   [returns (⭐3.4k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
-## [51. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C++ / Non-X86
-
-*   [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) - Jasmin Blanchette, Mark Summerfield (PDF)
-
-### JavaScript / Node.js
-
-*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐515)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
-*   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.8k)](https://github.com/azat-co/practicalnode) - Azat Mardan
-
-### Nim / PicoLisp
-
-*   [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
-*   [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
-*   [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
-
-### Ruby / Ruby on Rails
-
-*   [Ruby Notes for Professionals](https://books.goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
-
-## [52. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [50. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Books
 
 *   [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - Free
 
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [51. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Date / Time picker
 
@@ -511,13 +480,13 @@
 
 *   [react-lottie-player (⭐481)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
 
-## [54. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
+## [52. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
 
 ### Workers / Recipes
 
 *   [Google reCAPTCHA verification (⭐33)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 
-## [55. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [53. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -534,7 +503,7 @@
 
     <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -592,7 +561,7 @@
 
 
 
-## [57. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [55. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -605,13 +574,13 @@
     ` - [Official Metasploit](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 *   `docker pull noncetonic/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/noncetonic/archlinux-pentest-lxde)
 
-## [58. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [56. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Presets
 
 *   [Laravel front-end preset (⭐145)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 
-## [59. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [57. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -623,7 +592,7 @@
 *   [gatling-tcp-extensions (⭐23)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
-## [60. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [58. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Video
 
@@ -647,7 +616,7 @@
 *   [parse-columns-cli (⭐64)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
-## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [59. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Science and Medicine
 
@@ -703,19 +672,19 @@
 
 
 
-## [62. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [60. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Storage
 
 *   [Delta Lake (⭐5.9k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
-## [63. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [61. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [vaexio](https://github.com/vaexio)
 
-## [64. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [62. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### URL
 
@@ -934,7 +903,7 @@
 *   [Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) - Learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com.
 *   [WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) - Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com.
 
-## [65. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [63. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### The TALL Stack
 
@@ -947,25 +916,25 @@
 
 *   [talltips](https://talltips.novate.co.uk/) - Collection of tips and ideas across the TALL stack.
 
-## [66. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [64. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Uncategorized / Twitter
 
 *   [rhasspy (⭐1.2k)](https://github.com/rhasspy/rhasspy) - Toolkit for developing custom voice assistants.
 
-## [67. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [65. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) (November, 2020)
 
-## [68. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [66. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks
 
 *   [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 
-## [69. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
@@ -983,13 +952,13 @@
 
 *   [Invidious (⭐16k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## [70. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [68. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐7.5k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐7.7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
-## [71. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [69. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### Module Listings
 
@@ -1005,7 +974,7 @@
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [PHPStorm / Webstorm Live Templates (⭐4)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
-## [72. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [70. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Shoes
 

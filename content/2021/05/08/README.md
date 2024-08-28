@@ -22,7 +22,7 @@
 
 ### Containers
 
-*   [C++ B-tree (⭐73)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
+*   [C++ B-tree (⭐74)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 

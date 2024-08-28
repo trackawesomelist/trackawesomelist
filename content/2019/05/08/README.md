@@ -10,7 +10,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐3.9k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
+*   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp. ([Source Code (⭐4k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Docker/Go`
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Table of Contents / Static Analysis
 
-*   [PHPCompatibility (⭐2.1k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+*   [PHPCompatibility (⭐2.2k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 
 ### Table of Contents / Architectural
 
@@ -154,7 +154,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [job (⭐144)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [job (⭐145)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

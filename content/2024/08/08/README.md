@@ -16,7 +16,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [samharju/serene.nvim (⭐9)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+*   [samharju/serene.nvim (⭐15)](https://github.com/samharju/serene.nvim) - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -28,7 +28,7 @@
 
 ### **LlamaIndex**
 
-*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html) / doc:[ref](https://gpt-index.readthedocs.io/en/latest/index.html) / blog:[ref](https://www.llamaindex.ai/blog) / [git (⭐34k)](https://github.com/run-llama/llama_index) \[Nov 2022]
+*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html) / doc:[ref](https://gpt-index.readthedocs.io/en/latest/index.html) / blog:[ref](https://www.llamaindex.ai/blog) / [git (⭐35k)](https://github.com/run-llama/llama_index) \[Nov 2022]
 
     > Fun fact this core idea was the initial inspiration for GPT Index (the former name of LlamaIndex) 11/8/2022 - almost a year ago!. [cite](https://twitter.com/jerryjliu0/status/1711817419592008037) / [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
     >
@@ -38,27 +38,23 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [Semantic Workbench (⭐11)](https://github.com/microsoft/semanticworkbench): Intelligent agents Development tool [ref](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695) \[Aug 2024]
+*   [Semantic Workbench (⭐37)](https://github.com/microsoft/semanticworkbench): Intelligent agents Development tool [ref](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695) \[Aug 2024]
 
 ### **Section 4** : LangChain Features, Usage, and Comparisons / DSPy optimizer
 
 *   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
-    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐90k)](https://github.com/langchain-ai/langchain)
+    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐91k)](https://github.com/langchain-ai/langchain)
 
 ### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
 
-*   [Awesome LangChain (⭐7.2k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
+*   [Awesome LangChain (⭐7.3k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
 *   DeepLearning.AI short course: LangChain for LLM Application Development [ref](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) / LangChain: Chat with Your Data [ref](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 ### **LangChain features and related libraries** / DSPy optimizer
 
 *   [LangChain/cache](https://python.langchain.com/docs/modules/model_io/models/llms/how_to/llm_caching): Reducing the number of API calls
 *   [LangChain/context-aware-splitting](https://python.langchain.com/docs/use_cases/question_answering/document-context-aware-QA): Splits a file into chunks while keeping metadata
-*   [LangChain Template (⭐90k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
-
-### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
-
-*   [composio (⭐4.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
+*   [LangChain Template (⭐91k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
 
 ## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -84,7 +80,7 @@
 
 ### Other plugins
 
-*   [Capacitor Calendar (⭐18)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
+*   [Capacitor Calendar (⭐21)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
 
 ## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -100,7 +96,7 @@
 
 ### Plugins and scripts / Godot 4.2+
 
-*   [Dialogue Engine (⭐21)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
+*   [Dialogue Engine (⭐30)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 
 ## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -111,7 +107,7 @@
 
 ### Tables / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-slickgrid (⭐391)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid (⭐6.8k)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
+*   [angular-slickgrid (⭐392)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid (⭐6.8k)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -125,4 +121,5 @@
 
 ---
 
+- Prev: [Aug 09, 2024](/content/2024/08/09/README.md)
 - Next: [Aug 07, 2024](/content/2024/08/07/README.md)

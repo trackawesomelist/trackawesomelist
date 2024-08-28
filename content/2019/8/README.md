@@ -14,7 +14,7 @@
 
 ### Shells, Interpreters and Emulators / Apache License
 
-*   [gsh (⭐99)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+*   [gsh (⭐102)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 
 ### Programming Languages / Apache License
 
@@ -42,7 +42,7 @@
 
 ### Regular Expression
 
-*   [Oniguruma (⭐2.2k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
+*   [Oniguruma (⭐2.3k)](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 
 ## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -278,26 +278,26 @@
 ### Platforms
 
 *   [IBM Cloud (⭐95)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐701)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
+*   [Firebase (⭐703)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐606)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐617)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐864)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐891)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐173)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐406)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐176)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐411)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐757)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐770)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -352,11 +352,11 @@
 
 ### Packages / Command-line apps
 
-*   [@ember/optional-features (⭐39)](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the foreseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
+*   [@ember/optional-features (⭐40)](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the foreseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
 
 ### Packages / Modifiers
 
-*   [ember-ref-modifier (⭐42)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
+*   [ember-ref-modifier (⭐44)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 
 ## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -418,7 +418,7 @@
 
 ### API Gateway / Symfony2
 
-*   [Express Gateway (⭐2.9k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
+*   [Express Gateway (⭐3k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
 ## [41. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -491,14 +491,14 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐49)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐52)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Notable (⭐22k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Notable (⭐23k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Articles / Other
 
@@ -524,25 +524,25 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Karambolo.Extensions.Logging.File (⭐128)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
+*   [Karambolo.Extensions.Logging.File (⭐145)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [impromptu-interface (⭐639)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
-*   [Sheller (⭐106)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
+*   [impromptu-interface (⭐655)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
+*   [Sheller (⭐107)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [AspNetCore.Proxy (⭐458)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
+*   [AspNetCore.Proxy (⭐506)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [npoi (⭐7)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
-*   [Open-XML-SDK (⭐3.7k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
+*   [npoi (⭐68)](https://github.com/tonyqus/npoi) - .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
+*   [Open-XML-SDK (⭐4k)](https://github.com/OfficeDev/Open-XML-SDK) - The Open XML SDK provides tools for working with Office Word, Excel, and PowerPoint documents.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [scoop (⭐19k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+*   [scoop (⭐21k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ### Community / Workflow
 

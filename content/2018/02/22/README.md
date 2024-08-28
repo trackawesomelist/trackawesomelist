@@ -29,7 +29,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Tamiat CMS (⭐519)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
+*   [Tamiat CMS (⭐520)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [EventFlow (⭐2.2k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
+*   [EventFlow (⭐2.3k)](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
 
 ### Books / Workflow
 
@@ -57,7 +57,7 @@
 
 ### Table of Contents / Strings
 
-*   [Device Detector (⭐2.8k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Device Detector (⭐2.9k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 
 ### Configuration / PHP Websites
 
@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐288)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐289)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 

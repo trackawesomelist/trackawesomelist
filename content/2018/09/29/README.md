@@ -12,8 +12,8 @@
 
 *   macOS - Operating system for Apple's Mac computers.
     *   [Screensavers (⭐3.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐73k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐40k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Apps (⭐74k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐41k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 

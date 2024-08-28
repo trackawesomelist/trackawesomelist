@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06 - May 12, 2019
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -32,13 +32,7 @@
 
 *   [Cilium](https://cilium.io/) - Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Django
-
-*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/2.2.x/django.pdf) (PDF) (2.2)
-
-## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Integration
 
@@ -48,44 +42,44 @@
 
 *   [phalcon-data-table (⭐1)](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
-## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Page Cache (⭐1k)](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Books / Other Resources
 
 *   [Rootkits and Bootkits](https://www.amazon.com/dp/1593277164) - Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
 
-## [7. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [6. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Projects
 
 *   [idris-ct (⭐231)](https://github.com/statebox/idris-ct) - Formally verified category theory library
 *   [typedefs (⭐359)](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language
 
-## [8. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [7. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / JavaScript
 
 *   [ava-tap-json (⭐1)](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
 
-## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Generating Touch Gestures to Zoom In and Out on Google Maps](https://appiumpro.com/editions/67)
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Code examples / Custom Dialog
 
 *   [Kotlin MVVM example (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -96,13 +90,13 @@
 
 *   [`accelerometer`](https://github.com/NeoBirth/accelerometer.rs) - Generic accelerometer support, including traits and types for taking readings from 2 or 3-axis accelerometers and tracking device orientations - ![crates.io](https://img.shields.io/crates/v/accelerometer.svg)
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Automation
 
 *   [DataFire (⭐583)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -112,7 +106,7 @@
 
 *   [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Painless fully bootable disk backups.
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -134,27 +128,27 @@
 
 *   [Schedule (⭐1.8k)](https://github.com/luoxiu/Schedule) :penguin: - A missing lightweight task scheduler with an incredibly human-friendly syntax.
 
-## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Web Development
 
 *   **Frameworks**:
-    *   [Opium (⭐748)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+    *   [Opium (⭐752)](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
     *   [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
     *   [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
-    *   [webmachine (⭐224)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
-    *   [incr\_dom (⭐371)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
+    *   [webmachine (⭐223)](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+    *   [incr\_dom (⭐376)](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js\_of\_ocaml
     *   [fmlib\_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
-    *   [ocaml-vdom (⭐192)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
+    *   [ocaml-vdom (⭐196)](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
-## [16. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [15. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Stackoverflow Q&A
 
 *   [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
 *   [Python script for scanning and advertising urls over Eddystone-URL (⭐64)](https://github.com/forksociety/PyBeacon)
 
-## [17. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [16. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Hooks
 
@@ -221,7 +215,7 @@
 *   [react-with-hooks (⭐152)](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API.
 *   [use-http (⭐2.2k)](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 
-## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### RESTful API
 
@@ -229,124 +223,124 @@
     tools for using Swagger to define and validate your interfaces in a Pyramid webapp. (Swagger 2.0 document)
 *   [pyramid-openapi3 (⭐78)](https://github.com/niteoweb/pyramid_openapi3) - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 
-## [19. Amas](/content/sindresorhus/amas/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
 
-## [20. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Blog posts
 
 *   [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
 
-## [21. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [20. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### DDL Link Sites / Free Indexers
 
 *   [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
 
-## [22. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [21. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Production-Dependencies-Guard (⭐87)](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
 
-## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Textures / Unspecified License
 
 *   [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) High quality set of textures with CC0 license.
 
-## [24. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [23. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Miscellaneous Tools
 
 *   [weasel-pageant (⭐247)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.7k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
 
-## [26. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [25. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Utilities
 
 *   [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 
-## [27. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [26. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
 
-## [28. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [IPDR (⭐515)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 *   [mahuta (⭐230)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
-## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
-*   [Duo Security MFA Authentication for Keycloak (⭐31)](https://github.com/mulesoft-labs/keycloak-duo-spi)
-*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐80)](https://github.com/InseeFr/Keycloak-FranceConnect)
+*   [Duo Security MFA Authentication for Keycloak (⭐32)](https://github.com/mulesoft-labs/keycloak-duo-spi)
+*   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐83)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
-## [30. Awesome](/content/craftcms/awesome/week/README.md)
+## [29. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Praises / Tutorials
 
 *   [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
-*   [TensorFlow Scala (⭐934)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
+*   [TensorFlow Scala (⭐937)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
 *   [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
 
-## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Housing
 
 *   [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
 
-## [34. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [33. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD By Examples - Library (⭐4.1k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
-## [35. Guides](/content/NARKOZ/guides/week/README.md)
+## [34. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Clojure
 
-*   [Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide#readme)
+*   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
-## [36. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐334)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐350)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
-## [37. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [36. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / General
 
 *   [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 *   [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits.
 
-## [38. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [37. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -362,14 +356,14 @@
 *   [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
 *   [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
-*   [Rerun (⭐977)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+*   [Rerun (⭐980)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -387,7 +381,7 @@
 
 *   [ARCore Plugin (⭐426)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -397,11 +391,11 @@
 
 *   [Java Developer Roadmap (⭐3.8k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
-## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Boilerplating
 
-*   [ember-boilerplate (⭐34)](https://github.com/mirego/ember-boilerplate) -  The stable base upon which we build our Ember.js projects at Mirego.
+*   [ember-boilerplate (⭐36)](https://github.com/mirego/ember-boilerplate) -  The stable base upon which we build our Ember.js projects at Mirego.
 
 ### Packages / Articles
 
@@ -428,7 +422,7 @@
 
 *   [lost-in-technology.com](https://www.lost-in-technology.com/blog/)
 
-## [43. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [42. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Basic linear algebra
 
@@ -440,7 +434,7 @@
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
     (MATLAB, BSD, [GitHub (⭐565)](https://github.com/chebfun/chebfun))
 
-## [44. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -452,7 +446,7 @@
 
 ### Packages / Job queues
 
-*   [RedisSMQ (⭐581)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+*   [RedisSMQ (⭐582)](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 ### Packages / Natural language processing
 
@@ -462,13 +456,13 @@
 
 *   [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
-## [45. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [44. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Dedexer](https://sourceforge.net/projects/dedexer/)
 
-## [46. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [45. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 

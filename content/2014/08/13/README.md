@@ -18,7 +18,7 @@
 ### Serialization
 
 *   [cereal (⭐4.1k)](https://github.com/USCiLab/cereal) - A C++11 library for serialization. \[BSD]
-*   [SimpleBinaryEncoding (⭐3k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
+*   [SimpleBinaryEncoding (⭐3.1k)](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 
 ### Web Application Framework
 

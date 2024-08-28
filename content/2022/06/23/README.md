@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐365)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐380)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -46,8 +46,8 @@
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐447)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
-*   [abecodes/tabout.nvim (⭐694)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [edluffy/specs.nvim (⭐458)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [abecodes/tabout.nvim (⭐709)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ## [6. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -73,8 +73,8 @@
 
 ### Databases / Data Sources
 
-*   [anime-streaming (⭐70)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
-*   [manga-platform (⭐26)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
+*   [anime-streaming (⭐73)](https://github.com/otakulogy/anime-streaming) - A curated list of worldwide legal anime streaming. \[English]
+*   [manga-platform (⭐28)](https://github.com/otakulogy/manga-platform) - A curated list of worldwide legal manga reading site. \[English]
 
 ### Web
 
@@ -95,7 +95,7 @@
 
 ### Utilities / System Related Tools
 
-*   [Time Machine Inspector (⭐83)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Time Machine Inspector (⭐88)](https://github.com/probablykasper/time-machine-inspector) - Find out what's hogging up your Time Machine backups. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/probablykasper/time-machine-inspector) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

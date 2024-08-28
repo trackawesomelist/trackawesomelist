@@ -284,12 +284,12 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [roslyn (⭐18k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
-*   [Sprache (⭐2.2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
+*   [roslyn (⭐19k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
+*   [Sprache (⭐2.3k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
 ### Frameworks, Libraries and Tools / Mathematics
 
-*   [UnitConversion (⭐172)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
+*   [UnitConversion (⭐180)](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
@@ -333,7 +333,7 @@
 
 ### System
 
-*   [Keyboard Maestro (⭐386)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
+*   [Keyboard Maestro (⭐408)](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ---
 

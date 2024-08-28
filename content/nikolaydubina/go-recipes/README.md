@@ -17,4 +17,4 @@
 ### Style Guide / Run Turtle Graphics online with [goplay.space](https://goplay.space/#wT_eZWJT69)
 
 *   [Google](https://google.github.io/styleguide/go)
-*   [Uber (⭐15k)](https://github.com/uber-go/guide)
+*   [Uber (⭐16k)](https://github.com/uber-go/guide)

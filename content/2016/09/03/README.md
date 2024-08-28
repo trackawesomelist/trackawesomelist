@@ -19,10 +19,10 @@
 *   [Ionic Firebase Chat App (⭐37)](https://github.com/ionic2blueprints/firebase-chat)
 *   [Ionic Ecommerce App (⭐26)](https://github.com/ionic2blueprints/ionic2-marketcloud)
 *   [Ionic Conference App based on Lanyrd API (⭐7)](https://github.com/ionic2blueprints/conference-app)
-*   [Ionic Stock Tracking App (⭐16)](https://github.com/ionic2blueprints/ionic2-stockmarket)
+*   [Ionic Stock Tracking App (⭐18)](https://github.com/ionic2blueprints/ionic2-stockmarket)
 *   [Ionic Wordpress Client (⭐20)](https://github.com/ionic2blueprints/ionic2-wp-client)
-*   [Ionic Media Player (⭐31)](https://github.com/ionic2blueprints/media-player)
-*   [Ionic Social App (⭐25)](https://github.com/ionic2blueprints/social-app)
+*   [Ionic Media Player (⭐30)](https://github.com/ionic2blueprints/media-player)
+*   [Ionic Social App (⭐27)](https://github.com/ionic2blueprints/social-app)
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

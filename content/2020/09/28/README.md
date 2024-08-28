@@ -39,7 +39,7 @@
 
 ### Development tools / Services
 
-*   [deps.rs (⭐421)](https://github.com/deps-rs/deps.rs) - Detect outdated or insecure dependencies
+*   [deps.rs (⭐422)](https://github.com/deps-rs/deps.rs) - Detect outdated or insecure dependencies
 
 ## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [FinancePy (⭐1.9k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+*   [FinancePy (⭐2k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
 ## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 

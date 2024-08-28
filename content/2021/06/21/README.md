@@ -57,9 +57,9 @@
 
 ## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### OAuth2 & OpenID / Macaroons
+### OAuth2 & OpenID / Other tools
 
-*   [Casdoor (⭐7.8k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐9.6k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.8k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Mods / Performance
 
-*   [Sodium (for Fabric) (⭐4.5k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐4.7k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

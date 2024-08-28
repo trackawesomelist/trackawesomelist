@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,13 +71,7 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [CSS Animation 101 (⭐5k)](https://github.com/cssanimation/css-animation-101)
-
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Machine Learning / Apache License
 
@@ -85,9 +79,9 @@ Topics: React, Socket.IO, Storybook, Accessibility\
 
 ### Patterns / Apache License
 
-*   [ada-promises (⭐7)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
+*   [ada-promises (⭐8)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 

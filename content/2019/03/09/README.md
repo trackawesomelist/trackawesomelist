@@ -10,11 +10,11 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DNTFrameworkCore (⭐301)](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
+*   [DNTFrameworkCore (⭐316)](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [DNTFrameworkCoreTemplate (⭐34)](https://github.com/rabbal/DNTFrameworkCoreTemplate) - Boilerplate project templates based on [DNTFrameworkCore (⭐301)](https://github.com/rabbal/DNTFrameworkCore)
+*   [DNTFrameworkCoreTemplate (⭐35)](https://github.com/rabbal/DNTFrameworkCoreTemplate) - Boilerplate project templates based on [DNTFrameworkCore (⭐316)](https://github.com/rabbal/DNTFrameworkCore)
 
 ## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

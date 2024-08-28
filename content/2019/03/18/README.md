@@ -32,7 +32,7 @@
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐207)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐210)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [System.CommandLine (⭐3.2k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
+*   [System.CommandLine (⭐3.4k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 
 ## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

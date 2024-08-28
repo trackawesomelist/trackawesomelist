@@ -161,7 +161,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Design Patterns implementation (⭐5.1k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Design Patterns implementation (⭐5.2k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [DeepMind Lab (⭐7k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
+*   [DeepMind Lab (⭐7.1k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 *   [ViZDoom (⭐1.7k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [15. Guides](/content/NARKOZ/guides/week/README.md)
@@ -191,7 +191,7 @@
 
 ### Programming Languages / C
 
-*   [C Code Style Guidelines](https://www.cs.swarthmore.edu/\~newhall/unixhelp/c_codestyle.html)
+*   [C Code Style Guidelines](https://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
 
 ### Programming Languages / C++
 
@@ -199,12 +199,12 @@
 
 ### Programming Languages / Elixir
 
-*   [Elixir Style Guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide#readme)
+*   [Elixir Style Guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide#readme)
 
 ### Programming Languages / JavaScript
 
 *   [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-*   [JavaScript SDK Design Guide (⭐1.3k)](https://github.com/hueitan/javascript-sdk-design#readme)
+*   [JavaScript SDK Design Guide (⭐1.4k)](https://github.com/hueitan/javascript-sdk-design#readme)
 
 ### Programming Languages / Java
 
@@ -232,7 +232,6 @@
 
 ### Other / Writing
 
-*   [Writing style](https://atlassian.design/server/foundations/writing-style/)
 *   [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 
 ## [16. Awesome Json](/content/burningtree/awesome-json/week/README.md)
@@ -624,12 +623,12 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [protoactor-dotnet (⭐1.6k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
+*   [protoactor-dotnet (⭐1.7k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [X.Web.Sitemap (⭐5)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
-*   [X.Web.RSS (⭐25)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
+*   [X.Web.RSS (⭐26)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ### Books / Workflow
 

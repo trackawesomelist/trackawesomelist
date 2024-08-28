@@ -63,7 +63,7 @@
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [Structure.Sketching (⭐77)](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
+*   [Structure.Sketching (⭐84)](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
 
 ### Frameworks, Libraries and Tools / Misc
 

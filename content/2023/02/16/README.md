@@ -34,7 +34,7 @@
 
 ### Open-source sites / Lists
 
-*   [guide (⭐29)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
+*   [guide (⭐31)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 
 ## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Detection Testing / Windows
 
-*   [PoisonApple (⭐214)](https://github.com/CyborgSecurity/PoisonApple) - Perform various persistence techniques on macOS.
+*   [PoisonApple (⭐220)](https://github.com/CyborgSecurity/PoisonApple) - Perform various persistence techniques on macOS.
 
 ## [8. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Software / Miscellaneous
 
-*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐174)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
+*   [mosparo](https://mosparo.io/) - The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ([Source Code (⭐178)](https://github.com/mosparo/mosparo)) `MIT` `PHP`
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

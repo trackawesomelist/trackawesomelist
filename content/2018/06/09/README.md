@@ -179,11 +179,11 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [AspNetCoreSpa (⭐1.4k)](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
+*   [AspNetCoreSpa (⭐1.5k)](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Dotnet Script (⭐2.5k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
+*   [Dotnet Script (⭐2.7k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

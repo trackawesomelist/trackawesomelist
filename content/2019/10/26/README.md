@@ -34,7 +34,7 @@
 
 ### Keyboard
 
-*   [Ribbon (⭐295)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
 ## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

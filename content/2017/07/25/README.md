@@ -12,7 +12,7 @@
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐471)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.4k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
@@ -83,13 +83,13 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐72)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐75)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐1k)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1.1k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -194,7 +194,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Castle.Core (⭐2.1k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
+*   [Castle.Core (⭐2.2k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

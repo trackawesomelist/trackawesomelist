@@ -138,7 +138,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Tools / Playground
 
-*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐99)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -150,7 +150,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Keyboard
 
-*   [KeyboardObserver (⭐161)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
+*   [KeyboardObserver (⭐160)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
 *   [KeyboardMan (⭐352)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
 *   [Typist (⭐1.1k)](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
 *   [KeyboardHideManager (⭐57)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
@@ -160,9 +160,9 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Utility / Collection View Layout
 
-*   [SwiftRandom (⭐560)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
+*   [SwiftRandom (⭐561)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
-*   [SwiftParsec (⭐226)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
+*   [SwiftParsec (⭐227)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐261)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
 *   [BFKit-Swift (⭐1k)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
 *   [DeviceGuru (⭐473)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
@@ -170,7 +170,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [AssistantKit (⭐586)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 *   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐829)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐830)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
 *   [SwiftSortUtils (⭐61)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
 *   [Retry (⭐498)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
@@ -185,8 +185,8 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [CleanClosureXcode (⭐185)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 *   [SwiftInitializerGenerator (⭐718)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
-*   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-*   [Import (⭐846)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+*   [XcodeEquatableGenerator (⭐190)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+*   [Import (⭐848)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 *   [Mark (⭐157)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
 *   [XShared (⭐73)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
 *   [DocumenterXcode (⭐35)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
@@ -284,24 +284,24 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Frameworks, Libraries and Tools / API
 
-*   [aspnet-api-versioning (⭐2.8k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+*   [aspnet-api-versioning (⭐3k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
 *   [CatLight](https://catlight.io) - Status notifier for developers that monitors builds and tasks in the project. Built using .Net Core and Electron.
-*   [GitInfo (⭐471)](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
-*   [GitVersioning (⭐1.2k)](https://github.com/AArnott/Nerdbank.GitVersioning) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
-*   [Image2Docker (⭐299)](https://github.com/docker/communitytools-image2docker-win) - PowerShell module which ports existing Windows application workloads to Docker.
-*   [Nuke (⭐2.1k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
-*   [Opserver (⭐4.4k)](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
+*   [GitInfo (⭐544)](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
+*   [GitVersioning (⭐1.3k)](https://github.com/AArnott/Nerdbank.GitVersioning) - Stamp your assemblies and NuGet packages with a version from a single, simple version.txt file and include git commit IDs for non-official builds.
+*   [Image2Docker (⭐304)](https://github.com/docker/communitytools-image2docker-win) - PowerShell module which ports existing Windows application workloads to Docker.
+*   [Nuke (⭐2.8k)](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
+*   [Opserver (⭐4.5k)](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Wyam (⭐134)](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
+*   [Wyam (⭐141)](https://github.com/Wyamio/Wyam) - Modular static content and static site generator.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [SecurityHeaders (⭐550)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
+*   [SecurityHeaders (⭐635)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
 
 ## [26. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
@@ -325,7 +325,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Plugins
 
-*   [tmux-1password (⭐248)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐251)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [29. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -395,7 +395,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐9.7k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐9.9k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
@@ -403,7 +403,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Networking
 
-*   [ENet (⭐2.6k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
+*   [ENet (⭐2.7k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
 ## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 

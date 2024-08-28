@@ -10,11 +10,11 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [NLog (⭐6k)](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
-    *   [NLog for ASP.NET and ASP.NET Core (⭐306)](https://github.com/NLog/NLog.Web) - NLog integration for ASP.NET & ASP.NET Core 1-3
-    *   [NLog.Extensions.Logging (⭐382)](https://github.com/NLog/NLog.Extensions.Logging) - NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
-    *   [NLog.Windows.Forms (⭐42)](https://github.com/NLog/NLog.Windows.Forms) - NLog targets specific for Windows.Forms
-    *   [NLog.MailKit (⭐11)](https://github.com/NLog/NLog.MailKit) - Alternative Mail target using the using MailKit library
+*   [NLog (⭐6.3k)](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
+    *   [NLog for ASP.NET and ASP.NET Core (⭐316)](https://github.com/NLog/NLog.Web) - NLog integration for ASP.NET & ASP.NET Core 1-3
+    *   [NLog.Extensions.Logging (⭐391)](https://github.com/NLog/NLog.Extensions.Logging) - NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
+    *   [NLog.Windows.Forms (⭐44)](https://github.com/NLog/NLog.Windows.Forms) - NLog targets specific for Windows.Forms
+    *   [NLog.MailKit (⭐13)](https://github.com/NLog/NLog.MailKit) - Alternative Mail target using the using MailKit library
 
 ## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐3.6k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

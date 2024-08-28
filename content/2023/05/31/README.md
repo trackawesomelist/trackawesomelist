@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Templates / React
 
-*   [react-vite-tailwindcss-template (⭐10)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+*   [react-vite-tailwindcss-template (⭐12)](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Calendar
 
-*   [date-picker-svelte (⭐296)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐302)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -74,15 +74,9 @@
 
 ### Tools / Misc
 
-*   [Ambrosia (⭐112)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
+*   [Ambrosia (⭐113)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using *other* LLMs.
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
-
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Ingestion
 
@@ -96,7 +90,7 @@
 
 *   [Substation (⭐173)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Base Tools / Other
 

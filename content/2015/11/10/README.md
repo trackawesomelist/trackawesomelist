@@ -22,7 +22,7 @@
 
 ### Caching
 
-*   [Kashmir (⭐266)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
+*   [Kashmir (⭐267)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 
 ## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 

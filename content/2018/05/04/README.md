@@ -326,7 +326,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐5.2k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐5.3k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

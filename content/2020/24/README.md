@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15 - Jun 21, 2020
 
-70 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,11 +22,11 @@
 
 ### Themes
 
-*   [tmux-power (⭐501)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐521)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐480)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐503)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐314)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+*   [AndroPyTool (⭐334)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -117,13 +117,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-snap (⭐162)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+*   [vue-snap (⭐163)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
 ## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
-*   [Go-micro (⭐21k)](https://github.com/micro/go-micro) - A distributed systems development framework.
+*   [Go-micro (⭐22k)](https://github.com/micro/go-micro) - A distributed systems development framework.
 *   [Micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 
 ## [16. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
@@ -182,7 +182,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor Highcharts (⭐32)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
+*   [Blazor Highcharts (⭐33)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 
 ## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -206,7 +206,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐956)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐974)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -277,7 +277,7 @@
 
 ### Applications
 
-*   [wezterm (⭐15k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐16k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [34. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -557,27 +557,27 @@
 
 ### Telegram
 
-*   [vgram (⭐142)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐145)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
-*   [FastAPI Auth (⭐131)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-*   [FastAPI Login (⭐585)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.5k)](https://github.com/maxcountryman/flask-login)).
-*   [FastAPI Permissions (⭐442)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
+*   [FastAPI Auth (⭐140)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+*   [FastAPI Login (⭐628)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.5k)](https://github.com/maxcountryman/flask-login)).
+*   [FastAPI Permissions (⭐466)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 
 ### Databases / ORMs
 
-*   [FastAPI SQLAlchemy (⭐580)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
-*   [GINO (⭐2.6k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
-    *   [FastAPI Example (⭐403)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
+*   [FastAPI SQLAlchemy (⭐600)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+*   [GINO (⭐2.7k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
+    *   [FastAPI Example (⭐413)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 *   [ORM (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
 
 ### Databases / Query Builders
 
-*   [asyncpgsa (⭐411)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐6.6k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
-*   [Databases (⭐3.7k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
+*   [asyncpgsa (⭐417)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐6.8k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
+*   [Databases (⭐3.8k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
 
 ### Databases / ODMs
 
@@ -589,24 +589,23 @@
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Client Generator (⭐323)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
-*   [FastAPI Versioning (⭐616)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
-*   [Jupyter Notebook REST API (⭐75)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
+*   [FastAPI Client Generator (⭐331)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
+*   [FastAPI Versioning (⭐640)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
+*   [Jupyter Notebook REST API (⭐77)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 
 ### Utils / Other Tools
 
-*   [FastAPI Contrib (⭐601)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
-*   [FastAPI Plugins (⭐338)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
-*   [FastAPI ServiceUtils (⭐32)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
-*   [FastAPI Utilities (⭐1.7k)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
+*   [FastAPI Contrib (⭐611)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
+*   [FastAPI Plugins (⭐358)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
+*   [FastAPI ServiceUtils (⭐33)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
+*   [FastAPI Utilities (⭐1.9k)](https://github.com/dmontagu/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 *   [Prerender Python Starlette (⭐15)](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender.
-*   [SlowApi (⭐990)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
-*   [Starlette Exporter (⭐290)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
+*   [SlowApi (⭐1.1k)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
+*   [Starlette Exporter (⭐305)](https://github.com/stephenhillier/starlette_exporter) - One more prometheus integration for FastAPI and Starlette.
 
 ### Official Resources / Other Tools
 
 *   [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
-*   [Source Code (⭐71k)](https://github.com/tiangolo/fastapi) - Hosted on GitHub.
 
 ### Podcasts / Other Tools
 
@@ -618,20 +617,20 @@
 
 ### Serverless / Other Tools
 
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐61)](https://github.com/Snailedlt/Markdown-Videos)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐71)](https://github.com/Snailedlt/Markdown-Videos)).
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI Model Server Skeleton (⭐343)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
-*   [cookiecutter-spacy-fastapi (⭐498)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
+*   [FastAPI Model Server Skeleton (⭐377)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
+*   [cookiecutter-spacy-fastapi (⭐505)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
 *   [Pywork (⭐11)](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) generator to scaffold a FastAPI app.
-*   [FastAPI Nano (⭐795)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
+*   [FastAPI Nano (⭐832)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ### Open Source Projects / Other Tools
 
-*   [Dispatch (⭐4.6k)](https://github.com/Netflix/dispatch) - Manage security incidents.
-*   [Mailer (⭐56)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
-*   [Sprites as a service (⭐300)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
+*   [Dispatch (⭐4.9k)](https://github.com/Netflix/dispatch) - Manage security incidents.
+*   [Mailer (⭐57)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
+*   [Sprites as a service (⭐304)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 *   [Slackers (⭐79)](https://github.com/uhavin/slackers) - Slack webhooks API.
 
 ## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
@@ -709,10 +708,6 @@
 
 ## [57. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
-### Layout / Barcode
-
-*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
-
 ### Keyboard / Barcode
 
 *   [KeyboardShortcuts (⭐1.9k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
@@ -783,13 +778,19 @@
 
 *   [Scapy (⭐9.8k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [64. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [64. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Layout
+
+*   [Grid (⭐1.7k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+
+## [65. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐138)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [66. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Dependency Injection
 
@@ -805,19 +806,19 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐206)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐207)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [66. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [67. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [steam-box (⭐153)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+*   [steam-box (⭐159)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [67. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [68. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -939,23 +940,23 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [68. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [69. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [Typesaurus (⭐348)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 
-## [69. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [70. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
-*   [yliveticker (⭐134)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
+*   [yliveticker (⭐139)](https://github.com/yahoofinancelive/yliveticker) - Live stream of market data from Yahoo Finance websocket.
 
 ### Python / Visualization
 
-*   [D-Tale (⭐4.6k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+*   [D-Tale (⭐4.7k)](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
 
-## [70. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [71. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

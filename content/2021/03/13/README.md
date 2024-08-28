@@ -50,7 +50,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [EffekseerForGodot3 (⭐129)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐131)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [JavaScript Modern Interview Code Challenges 2021 (⭐3.4k)](https://github.com/sadanandpai/javascript-code-challenges)
+*   [JavaScript Modern Interview Code Challenges 2021 (⭐4.2k)](https://github.com/sadanandpai/javascript-code-challenges)
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

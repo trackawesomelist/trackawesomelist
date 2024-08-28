@@ -16,13 +16,13 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [chomosuke/typst-preview.nvim (⭐206)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
+*   [chomosuke/typst-preview.nvim (⭐232)](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 
 ## [3. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
-*   [hoyolab-box (⭐4)](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
+*   [hoyolab-box (⭐6)](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 
 ## [4. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 

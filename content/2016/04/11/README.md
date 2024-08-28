@@ -8,7 +8,7 @@
 
 ## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Assert (⭐2.4k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 

@@ -10,7 +10,7 @@
 
 ### Packages / Text
 
-*   [detect-indent (⭐193)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
+*   [detect-indent (⭐195)](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Application Libraries
 
-*   [Batteries Included (⭐509)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Batteries Included (⭐514)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 
 ### Developer Tools
 
@@ -84,7 +84,7 @@
 
 ### Testing
 
-*   [QCheck (⭐332)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐343)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ---
 

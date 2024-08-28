@@ -16,13 +16,13 @@
 
 ### Development tools / Web Servers
 
-*   [Flox (⭐2.2k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
+*   [Flox (⭐2.3k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [MeanderingProgrammer/render-markdown.nvim (⭐979)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
+*   [MeanderingProgrammer/render-markdown.nvim (⭐1.1k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing markdown files directly.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [img-comparison-slider (⭐596)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
+*   [img-comparison-slider (⭐611)](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -54,4 +54,5 @@
 
 ---
 
+- Prev: [Aug 07, 2024](/content/2024/08/07/README.md)
 - Next: [Aug 05, 2024](/content/2024/08/05/README.md)

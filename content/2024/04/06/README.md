@@ -15,7 +15,7 @@
 ### Miscellaneous
 
 *   [nodgui](https://codeberg.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐317)](https://github.com/rdbende/Forest-ttk-theme).
+    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐334)](https://github.com/rdbende/Forest-ttk-theme).
     *   supports an SDL frame as an alternative to the Tk canvas when fast rendering is needed. For 2D (pixel-based) and 3D rendering (using openGL).
 
 ### Typing
@@ -29,7 +29,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [cl-nix-lite (⭐20)](https://github.com/hraban/cl-nix-lite) -  Common Lisp module for Nix, without Quicklisp. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0)
+*   [cl-nix-lite (⭐25)](https://github.com/hraban/cl-nix-lite) -  Common Lisp module for Nix, without Quicklisp. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0)
 
 ### Querying HTML/DOM, web scraping / Isomorphic web frameworks
 
@@ -43,7 +43,7 @@
 
 ### Others / Third-party APIs
 
-*   [shop3 (⭐143)](https://github.com/shop-planner/shop3) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
+*   [shop3 (⭐144)](https://github.com/shop-planner/shop3) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
 
 ### Emacs / Third-party APIs
 
@@ -56,7 +56,7 @@
 *   [alexa (⭐60)](https://github.com/quil-lang/alexa) -  A Lexical Analyzer Generator. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   ALEXA is a tool similar to lex or flex for generating lexical analyzers. Unlike tools like lex, however, ALEXA defines a domain-specific language within your Lisp program, so you don't need to invoke a separate tool.
 *   [uclp (⭐20)](https://github.com/ravi-delia/uclp) -  An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT.
-*   [CheckL (⭐44)](https://github.com/rpav/CheckL/) - Why write programs in Common Lisp but tests like Java? Meet CheckL!
+*   [CheckL (⭐43)](https://github.com/rpav/CheckL/) - Why write programs in Common Lisp but tests like Java? Meet CheckL!
     *   a testing library that checks the current test value against the previous one and offers restarts.
 
 ### Plotting / Third-party APIs
@@ -88,10 +88,10 @@
 
 ## [5. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
 
-### Books
+### Resources
 
-*   [The Productivity Blog](https://blog.productivity.directory) - Proven Productivity Tips, Tricks, and App Reviews to Streamline Your Life and Work.
-*   [The Productivity Newsletter](https://newsletter.productivity.directory) - Weekly Productivity Boost With Hot Productivity Hacks and Tools To Optimize Your Workflow And Achieve More.
+*   [The Productivity Blog](https://blog.productivity.directory) - Proven productivity tips, tricks, and app reviews to streamline your life and work.
+*   [The Productivity Newsletter](https://newsletter.productivity.directory) - Weekly productivity boost with hot productivity hacks and tools to optimize your workflow and achieve more.
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -105,8 +105,8 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLocalSearch (⭐5.4k)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
-*   [Plandex (⭐9.8k)](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)
+*   [LLocalSearch (⭐5.5k)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
+*   [Plandex (⭐10k)](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)
 
 ## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -142,11 +142,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ptdewey/darkearth-nvim (⭐9)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+*   [ptdewey/darkearth-nvim (⭐24)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
 
 ### Utility / Diagnostics
 
-*   [mistricky/codesnap.nvim (⭐485)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
+*   [mistricky/codesnap.nvim (⭐559)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 
 ## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
@@ -163,19 +163,21 @@
         *   [Microsoft Copilot Dashboard](https://insights.cloud.microsoft/#/CopilotDashboard) / [blog](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-ways-microsoft-copilot-and-viva-are-transforming-the/ba-p/3982293)
     3.  [Microsoft Office Copilot: Natural Language Commanding via Program Synthesis](https://arxiv.org/abs/2306.03460): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.03460)]: Semantic Interpreter, a natural language-friendly AI system for productivity software such as Microsoft Office that leverages large language models (LLMs) to execute user intent across application features. \[6 Jun 2023]
     4.  [NL2KQL](https://arxiv.org/abs/2404.02933): From Natural Language to Kusto Query \[3 Apr 2024]
+    5.  [SpreadsheetLLM](https://arxiv.org/abs/2407.09025): Introduces an efficient method to encode Excel sheets, outperforming previous approaches with 25 times fewer tokens.\[12 Jul 2024]
+    6.  [GraphRAG (by Microsoft)](https://arxiv.org/abs/2404.16130): RAG with a graph-based approach to efficiently answer both specific and broad questions over large text corpora1. [ref](https://microsoft.github.io/graphrag) [git (⭐15k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
 
 ### **Semantic Kernel** / **Code Recipes**
 
 *   [Learning Paths for Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/learning-paths-for-semantic-kernel/) \[28 Mar 2024]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Mixture-of-Depths](https://arxiv.org/abs/2404.02258): All tokens should not require the same effort to compute. The idea is to make token passage through a block optional. Each block selects the top-k tokens for processing, and the rest skip it. [ref](https://www.linkedin.com/embed/feed/update/urn:li:share:7181996416213372930) \[2 Apr 2024]
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
 *   [Anthropic Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking): simple long-context attack, Bypassing safety guardrails by bombarding them with unsafe or harmful questions and answers. \[3 Apr 2024]
-*   [FactTune](https://arxiv.org/abs/2311.08401): A procedure that enhances the factuality of LLMs without the need for human feedback. The process involves the fine-tuning of a separated LLM using methods such as DPO and RLAIF, guided by preferences generated by [FActScore (⭐239)](https://github.com/shmsw25/FActScore). \[14 Nov 2023] `FActScore` works by breaking down a generation into a series of atomic facts and then computing the percentage of these atomic facts by a reliable knowledge source.
+*   [FactTune](https://arxiv.org/abs/2311.08401): A procedure that enhances the factuality of LLMs without the need for human feedback. The process involves the fine-tuning of a separated LLM using methods such as DPO and RLAIF, guided by preferences generated by [FActScore (⭐258)](https://github.com/shmsw25/FActScore). \[14 Nov 2023] `FActScore` works by breaking down a generation into a series of atomic facts and then computing the percentage of these atomic facts by a reliable knowledge source.
 
 ---
 

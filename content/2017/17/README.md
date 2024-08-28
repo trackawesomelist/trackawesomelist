@@ -34,7 +34,7 @@
 
 ### More Awesome Lists
 
-*   [Help Wanted (⭐67)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Contents / GUI
 
-*   [temBoard (⭐444)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [temBoard (⭐450)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 
 ### Resources / Articles
 
@@ -174,7 +174,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐765)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐764)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.4k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.6k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 
@@ -253,23 +253,23 @@
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [Exceptionless.DateTimeExtensions (⭐228)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+*   [Exceptionless.DateTimeExtensions (⭐237)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Exceptionless (⭐531)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐550)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [NETStandard.HttpListener (⭐39)](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
+*   [NETStandard.HttpListener (⭐40)](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [SimMetrics.Net (⭐104)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
+*   [SimMetrics.Net (⭐125)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
 ## [22. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 

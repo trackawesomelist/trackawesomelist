@@ -20,7 +20,7 @@
 
 ### Anti-tracking / Alternative clients/modifications of Discord:
 
-*   [LibRedirect (⭐3.1k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+*   [LibRedirect (⭐3.2k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
 
 ### Privacy vs Security vs Anonymity / Alternative clients/modifications of Discord:
 
@@ -53,7 +53,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐76)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐75)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

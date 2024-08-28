@@ -28,7 +28,7 @@
 
 ### Files and Directories
 
-*   [exfswatch (⭐258)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
+*   [exfswatch (⭐261)](https://github.com/falood/exfswatch) - A file change watcher wrapper based on **fs**.
 
 ### Framework Components
 

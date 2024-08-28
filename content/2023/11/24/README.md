@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [scnlib (⭐997)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+*   [scnlib (⭐1k)](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [Jxstxs/conceal.nvim (⭐62)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
+*   [Jxstxs/conceal.nvim (⭐67)](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 
 ## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 

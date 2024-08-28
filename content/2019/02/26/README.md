@@ -426,23 +426,23 @@
 
 ### Frameworks, Libraries and Tools / Bot
 
-*   [BotSharp (⭐1.6k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
-*   [Telegram.Bot (⭐2.8k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
-*   [Funogram (⭐94)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
+*   [BotSharp (⭐2.1k)](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+*   [Telegram.Bot (⭐3.1k)](https://github.com/TelegramBots/Telegram.Bot) - C# Telegram Bot API library.
+*   [Funogram (⭐106)](https://github.com/Dolfik1/Funogram) - F# Telegram Bot Api library.
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [cake-build (⭐3.7k)](https://github.com/cake-build/cake) - Cross platform build automation system.
-*   [Colorful.Console (⭐1.2k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
+*   [cake-build (⭐3.9k)](https://github.com/cake-build/cake) - Cross platform build automation system.
+*   [Colorful.Console (⭐1.3k)](https://github.com/tomakita/Colorful.Console) - Style your C# console output!
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [AspNetCore.Diagnostics.HealthChecks (⭐3.7k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-    *   [BeatPulse (⭐606)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
+*   [AspNetCore.Diagnostics.HealthChecks (⭐4k)](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+    *   [BeatPulse (⭐603)](https://github.com/Xabaril/BeatPulse) - Enable load balancers to montior the status of deployed Web applications
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [JWT Simple Server (⭐191)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
+*   [JWT Simple Server (⭐193)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
 ## [17. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -478,15 +478,15 @@
 
 ### Programming Languages
 
-*   [Q# (⭐154)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐156)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Gaming
 
-*   [Minecraft (⭐410)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐425)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐248)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐250)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
@@ -494,7 +494,7 @@
 
 ### Miscellaneous
 
-*   [Board Games (⭐291)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐292)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [21. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

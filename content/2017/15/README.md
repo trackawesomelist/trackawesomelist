@@ -127,7 +127,7 @@
 
 ### Design Patterns / Windows
 
-*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans)
+*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐44k)](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.3k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.6k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 
@@ -409,7 +409,7 @@
 
 ### Questions
 
-*   [tensorflow-ocaml (⭐282)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+*   [tensorflow-ocaml (⭐283)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 ## [18. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
@@ -468,8 +468,8 @@
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [Structure.Sketching (⭐77)](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
-*   [veldrid (⭐2.3k)](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
+*   [Structure.Sketching (⭐84)](https://github.com/JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
+*   [veldrid (⭐2.5k)](https://github.com/mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -491,7 +491,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐427)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -581,13 +581,13 @@
 
 ### Resources / Tutorials
 
-*   [Build vue-hackernews-2.0 from Scratch (⭐87)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
+*   [Build vue-hackernews-2.0 from Scratch (⭐88)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 *   [Vue.js Introduction For People Who Know Just Enough jQuery To Get By](https://medium.com/@mattrothenberg/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 *   [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/)
 
 ### Components & Libraries / UI Components
 
-*   [vue-js-modal (⭐4.3k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
+*   [vue-js-modal (⭐4.4k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [33. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
@@ -818,7 +818,7 @@
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐227)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐228)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Videos
 
@@ -839,7 +839,7 @@
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐947)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐953)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [44. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -851,7 +851,7 @@
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐184)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐185)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 

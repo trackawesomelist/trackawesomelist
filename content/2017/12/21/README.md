@@ -50,19 +50,19 @@
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [nodatime (⭐2.6k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
+*   [nodatime (⭐2.7k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-storefront (⭐10k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
+*   [vue-storefront (⭐11k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 
 ## [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐8.8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ---
 

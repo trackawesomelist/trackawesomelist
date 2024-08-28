@@ -54,7 +54,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [gitignore.io (⭐7.8k)](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project <https://www.gitignore.io>.
+*   [gitignore.io (⭐8.2k)](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project <https://www.gitignore.io>.
 
 ## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

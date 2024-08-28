@@ -10,17 +10,17 @@
 
 ### Analysis
 
-*   [MySQLTuner-perl (⭐8.7k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [MySQLTuner-perl (⭐8.8k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
 
 ### Backup
 
-*   [MyDumper (⭐2.4k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
-*   [Percona Xtrabackup (⭐1.2k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+*   [MyDumper (⭐2.5k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
+*   [Percona Xtrabackup (⭐1.3k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ### Benchmarking
 
-*   [TPCC-MySQL (⭐472)](https://github.com/Percona-Lab/tpcc-mysql) (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+*   [TPCC-MySQL (⭐477)](https://github.com/Percona-Lab/tpcc-mysql) (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
 
 ### Connectors
 
@@ -29,17 +29,17 @@
 
 ### GUI
 
-*   [SQLyog Community edition (⭐2.1k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-*   [WebDB (⭐122)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
+*   [SQLyog Community edition (⭐2.2k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+*   [WebDB (⭐157)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ### Proxy
 
-*   [ProxySQL (⭐5.8k)](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
+*   [ProxySQL (⭐5.9k)](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
 
 ### Toolkits
 
 *   [go-mysql (⭐4.5k)](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
-*   [UnDROP (⭐372)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
+*   [UnDROP (⭐380)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 ## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -66,8 +66,8 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tailscale (heroeslament) (⭐6)](https://github.com/HeroesLament/zsh-tailscale-plugin) - Tab completion and aliases for [tailscale](https://www.tailscale.com/).
-*   [tailscale (hsrzq) (⭐2)](https://github.com/hsrzq/PluginForTailscale) - Tab completions for [tailscale](https://www.tailscale.com/). Only works on macOS.
+*   [tailscale (heroeslament) (⭐7)](https://github.com/HeroesLament/zsh-tailscale-plugin) - Tab completion and aliases for [tailscale](https://www.tailscale.com/).
+*   [tailscale (hsrzq) (⭐3)](https://github.com/hsrzq/PluginForTailscale) - Tab completions for [tailscale](https://www.tailscale.com/). Only works on macOS.
 
 ---
 

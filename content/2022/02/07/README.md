@@ -53,7 +53,7 @@
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐332)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐336)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 
@@ -82,13 +82,13 @@
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐272)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐288)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache RocketMQ (⭐20k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+*   [Apache RocketMQ (⭐21k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -673,7 +673,7 @@
 
 ### Science & Math
 
-- API: [Remote Calc (⭐4)](https://github.com/elizabethadegbaju/remotecalc)
+- API: [Remote Calc (⭐5)](https://github.com/elizabethadegbaju/remotecalc)
 
   Description: Decodes base64 encoding and parses it to return a solution to the calculation in JSON
 

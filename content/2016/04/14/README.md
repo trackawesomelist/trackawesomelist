@@ -34,17 +34,17 @@
 
 ### Geolocation
 
-*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐772)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐774)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐504)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### Queues and Messaging
 
@@ -84,11 +84,11 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐255)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐254)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐106)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

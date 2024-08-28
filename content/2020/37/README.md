@@ -55,7 +55,7 @@
 
 *   [Last.fm RSS Feeds](https://lfm.xiffy.nl/) <sup>[807](https://t.me/s/aboutrss/807)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xiffy/lfm)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2Notification / For Android device
+### RSS2Notification / RSS2GitHubProfile
 
 *   [Truepush](https://www.truepush.com/blog/rss-to-push-notifications/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [pushMonkey](https://blog.getpushmonkey.com/automate-push-notifications-rss-feeds/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
@@ -123,7 +123,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐243)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐244)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -177,9 +177,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1.2k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐27k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐28k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.7k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐2.9k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐3k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
@@ -310,7 +310,7 @@
 
 ### Projects / Libraries
 
-*   [TLC (⭐34)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [TLC (⭐37)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Projects / Tools
 
@@ -339,7 +339,7 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐240)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐251)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [23. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -507,12 +507,12 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Wave UI (⭐539)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
+*   [Wave UI (⭐544)](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 
 ### Components & Libraries / UI Components
 
-*   [vue-ultimate-skeleton-cards (⭐90)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
-*   [vue-router-tab (⭐467)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
+*   [vue-ultimate-skeleton-cards (⭐91)](https://github.com/neelansh15/vue-ultimate-skeleton-cards) - The Ultimate, fully-customizable Skeleton Card plugin for Vue 🚀
+*   [vue-router-tab (⭐468)](https://github.com/bhuh12/vue-router-tab) - Vue.js tab components, based on Vue Router.
 
 ## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -526,7 +526,30 @@
 
 *   [Joomla UI custom elements (⭐32)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
-## [44. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/week/README.md)
+## [44. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+
+### Datasets
+
+*   [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1903.11027.pdf)
+*   [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/2001.10117.pdf)
+*   [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50) - University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1905.08758.pdf)
+
+### Libraries
+
+*   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐11k)](https://github.com/intel-isl/Open3D)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
+
+### Frameworks
+
+*   [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
+    *   [GitHub oragnization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/autowarefoundation) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
+
+## [45. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/week/README.md)
 
 ### Carbon Design System
 
@@ -819,7 +842,7 @@
 *   [Wellington, New Zealand - IBM Cloud - Wellington](https://www.meetup.com/IBM-Cloud-Wellington/) - The Wellington 👁️🐝☁️meetup is the place for developers, engineers, architects, designers and everyone between to geek-out and talk all things tech. Covering topics such as Cloud, Application Modernisation, Internet of Things, Blockchain, Artificial Intelligence, Machine Learning, Data Analytics, Open Source and more.
 *   [Zürich, Switzerland - Quantum Computing Switzerland - Qool Stuff](https://www.meetup.com/Quantum-Computing-Switzerland-Qool-Stuff/) - In Switzerland there many things to discover: Mountains, Chocolate, Cheese Fondue, Quantum Computers, Trains, ... Wait Quantum? Yes! Join this MeetUp Group to hear and exchange about the latest and greatest news regarding Quantum Computers, Developer Platforms, Qiskit, Quantum Use Cases and many more Qool Stuff.
 
-## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -841,28 +864,28 @@
 
 *   [FloatingLabelTextFieldSwiftUI (⭐478)](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI is a small and lightweight SwiftUI framework written in completely SwiftUI (not using UIViewRepresentable) that allows to create beautiful and customisable floating label textfield!
 
-## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [47. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Template
 
 *   [VS Code ROS2 Workspace Template (⭐568)](https://github.com/athackst/vscode_ros2_workspace) -  Template for using VSCode as an IDE for ROS2 development.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
 *   [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
-*   [cl-ssh-keys (⭐21)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [cl-ssh-keys (⭐23)](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [cl-bcrypt (⭐12)](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   see also [cl-pass (⭐30)](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 
 ### Python
 
-*   [burgled-batteries (⭐112)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
+*   [burgled-batteries (⭐113)](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
-*   [cube (⭐35)](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT](https://opensource.org/licenses/MIT).
+*   [cube (⭐36)](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT](https://opensource.org/licenses/MIT).
 
 ### Utils / Third-party APIs
 
@@ -872,7 +895,7 @@
 
 *   [json-schema (⭐17)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [48. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [49. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
@@ -888,7 +911,7 @@
     *   [by @keon (⭐24k)](https://github.com/keon/algorithms)
     *   [by @vinta (⭐678)](https://github.com/vinta/fuck-coding-interviews)
 
-## [49. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [50. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -906,14 +929,14 @@
 
 *   [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/tracking-exposed) - Research, browser addons on tracking, profiling, and influence of algorithms.
 
-## [50. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [51. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Firecode (⭐34)](https://github.com/ChFlick/firecode) -  VS Code Firestore Rules Extension.
 *   🔧 [VSFire (⭐74)](https://github.com/toba/vsfire) - Deprecated ~~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~~
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Game Development
 
@@ -924,13 +947,13 @@
 
 *   [crystal-imgui (⭐67)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐58k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 
-## [52. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐449)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
-## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [54. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -944,33 +967,33 @@
 
 *   [IHRIS](https://www.ihris.org/toolkit-new/) - Health Information System for management of human resources for health.
 
-## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [55. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [AHT20](https://crates.io/crates/aht20) - I2C - Humidity and temperature sensor - [github (⭐3)](https://github.com/chocol4te/aht20) - ![crates.io](https://img.shields.io/crates/v/aht20.svg)
 *   [embedded-ccs811](https://crates.io/crates/embedded-ccs811) - I2C - Gas and VOC sensor driver for monitoring indoor air quality - [Intro blog post](https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/) - ![crates.io](https://img.shields.io/crates/v/embedded-ccs811.svg)
 
-## [55. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [56. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Books / Uncategorized
 
 *   [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. Authors: Emil Hvitfeldt and Julia Silge.
 
-## [56. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [57. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence / Mobile
 
 *   [Habitica (⭐1.3k)](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 
-## [57. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [58. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Restaurants
 
 *   Bonn, Germany
     *   [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
 
-## [58. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [59. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Audio and Video
 
@@ -1011,37 +1034,6 @@
 ### Utilities (uncategorized) / Others
 
 *   [Randommer](https://randommer.io/) - Random data generator and validator.
-
-## [59. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
-
-### Conventions
-
-*   Any list item with a Paper :newspaper: has a scientific paper or detailed description
-
-### Datasets
-
-*   [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
-    *   [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
-*   [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
-    *   [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
-*   [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50) - University of Toronto, aUToronto's self-driving car dataset, which contains GPS/IMU, 3D LIDAR, and Monocular camera data. It can be used for 3D pedestrian detection.
-    *   [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
-
-### Libraries
-
-*   [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
-    *   [GitHub repository :octocat: (⭐11k)](https://github.com/intel-isl/Open3D)
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
-
-### Frameworks
-
-*   [Autoware](https://www.autoware.ai/) - Popular framework in academic and research applications of autonomous vehicles.
-    *   [GitHub oragnization :octocat:](https://github.com/autowarefoundation) ![](https://img.shields.io/badge/ROS-2-34aec5)
-    *   [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
-
-### Algorithms / Basic matching algorithms
-
-*   [Normal distributions transform :red\_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 
 ## [60. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 

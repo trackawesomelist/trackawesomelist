@@ -66,7 +66,7 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Phpactor (⭐1.3k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
+*   [Phpactor (⭐1.4k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 
 ## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
@@ -88,14 +88,14 @@
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐428)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
-*   [RealWorld Example App - postgres (⭐2.7k)](https://github.com/nsidnev/fastapi-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐433)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - postgres (⭐2.8k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐693)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐697)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -197,7 +197,7 @@
 ### Tools / XML
 
 *   [dedep (⭐66)](https://github.com/egoist/dedep) - Manage dependency versions.
-*   [packer-provisioner-deno (⭐4)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
+*   [packer-provisioner-deno (⭐5)](https://github.com/dontlaugh/packer-provisioner-deno) - A Packer plugin that makes it easy to build virtual machine images with Deno scripts.
 *   [starter (⭐28)](https://github.com/denorg/starter) - Deno module starter template with GitHub Actions CI
 
 ### Articles / XML

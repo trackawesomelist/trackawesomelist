@@ -15,7 +15,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐314)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+*   [AndroPyTool (⭐334)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
 
 ### Academic/Research/Publications/Books / Others
 
@@ -78,7 +78,7 @@
 
 ### Go / Erlang
 
-*   [Go-micro (⭐21k)](https://github.com/micro/go-micro) - A distributed systems development framework.
+*   [Go-micro (⭐22k)](https://github.com/micro/go-micro) - A distributed systems development framework.
 *   [Micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)

@@ -69,7 +69,7 @@
 
 ### GUI
 
-*   [Glimmer (⭐526)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐541)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 

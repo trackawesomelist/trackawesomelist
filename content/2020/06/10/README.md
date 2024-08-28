@@ -53,7 +53,7 @@
 
 ### Applications
 
-*   [wezterm (⭐15k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐16k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐206)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐207)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 

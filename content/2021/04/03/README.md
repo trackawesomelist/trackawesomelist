@@ -10,7 +10,7 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐265)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐270)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

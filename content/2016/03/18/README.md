@@ -26,7 +26,7 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Darknet (⭐25k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+*   [Darknet (⭐26k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

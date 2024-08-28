@@ -226,7 +226,7 @@
 
 ### Third Party APIs
 
-*   [elixtagram (⭐83)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
+*   [elixtagram (⭐84)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
 ## [18. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
@@ -291,16 +291,16 @@
 
 ### Application Templates
 
-*   [Side-Waffle (⭐654)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
+*   [Side-Waffle (⭐655)](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 *   [Template10 (⭐1.4k)](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
 ### Git Tools
 
-*   [posh-git (⭐7.5k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [posh-git (⭐7.6k)](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐398)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐399)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -319,7 +319,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐448)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐453)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [24. Typography](/content/deanhume/typography/week/README.md)
 
@@ -486,7 +486,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 ### Resources / Tutorials
 
-*   [Web Audio Basics (⭐118)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
+*   [Web Audio Basics (⭐119)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
 ## [35. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 

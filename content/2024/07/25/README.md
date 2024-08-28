@@ -28,7 +28,7 @@
 *   [HumanEval (⭐2.2k)](https://github.com/openai/human-eval): Challenges coding skills. \[Published in 2021]
 *   [CodeXGLUE (⭐1.5k)](https://github.com/microsoft/CodeXGLUE): Programming tasks.
 *   [SWE-bench](https://www.swebench.com/): Software Engineering Benchmark. Real-world software issues sourced from GitHub.
-*   [MBPP (⭐33k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
+*   [MBPP (⭐34k)](https://github.com/google-research/google-research/tree/master/mbpp): Mostly Basic Python Programming. \[Published in 2021]
 
 ### **LLM Evalution Benchmarks** / Chatbot Assistance
 
@@ -38,10 +38,10 @@
 
 ### **LLM Evalution Benchmarks** / Reasoning
 
-*   [HellaSwag (⭐168)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
-*   [ARC (AI2 Reasoning Challenge) (⭐3.1k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
+*   [HellaSwag (⭐172)](https://github.com/rowanz/hellaswag): Commonsense reasoning. \[Published in 2019]
+*   [ARC (AI2 Reasoning Challenge) (⭐3.2k)](https://github.com/fchollet/ARC): Measures general fluid intelligence.
 *   [DROP](https://huggingface.co/datasets/drop): Evaluates discrete reasoning.
-*   [LogicQA (⭐102)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
+*   [LogicQA (⭐104)](https://github.com/lgw863/LogiQA-dataset): Evaluates logical reasoning skills.
 
 ### **LLM Evalution Benchmarks** / Translation
 
@@ -49,20 +49,20 @@
 
 ### **LLM Evalution Benchmarks** / Math
 
-*   [MATH (⭐786)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
-*   [GSM8K (⭐950)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
+*   [MATH (⭐806)](https://github.com/hendrycks/math): Tests ability to solve math problems. \[Published in 2021]
+*   [GSM8K (⭐975)](https://github.com/openai/grade-school-math): Arithmetic Reasoning. \[Published in 2021]
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [tlm (⭐1.1k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
+*   [tlm (⭐1.2k)](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Data streaming
 
-*   [swimos/swim-rust (⭐30)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
+*   [swimos/swim-rust (⭐275)](https://github.com/swimos/swim-rust) \[[swim-rust](https://crates.io/crates/swimos)] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@mistjs/vite-plugin-px2viewport (⭐7)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
+*   [@mistjs/vite-plugin-px2viewport (⭐8)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
 
 ## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Software / Feed Readers
 
-*   [Fusion (⭐682)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
+*   [Fusion (⭐945)](https://github.com/0x2E/fusion) - A lightweight RSS aggregator and reader. `MIT` `Go/Docker`
 
 ## [8. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -156,6 +156,12 @@ Language: English
 
 [**webdev and web\_design**](https://discord.com/invite/keD8rZp) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/webdev/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/ljosberinn/webdev-support-bot) \
 Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/world_of_coding.webp">
+
+[**World of Coding**](https://discord.com/invite/program) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://world-of-coding.tech/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/World-of-Coding) \
+Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`, `#infosec`, `#linux`, `#web-dev`, `#game-dev`, `#js`, `#python` \
 Language: English
 ### C and C++
 
@@ -289,7 +295,7 @@ Language: English \ <br>
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. Launches July 30.
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
@@ -299,31 +305,31 @@ Language: English \ <br>
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Genezio (⭐460)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
+*   [Genezio (⭐457)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [rachartier/tiny-code-action.nvim (⭐50)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
+*   [rachartier/tiny-code-action.nvim (⭐93)](https://github.com/rachartier/tiny-code-action.nvim) - Provides a simple way to run and visualize code actions with Telescope.
 
 ### Web Development / Diagnostics
 
-*   [mistweaverco/kulala.nvim (⭐316)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
+*   [mistweaverco/kulala.nvim (⭐536)](https://github.com/mistweaverco/kulala.nvim) - A minimal HTTP-client interface.
 
 ### Media / Diagnostics
 
-*   [AntonVanAssche/music-controls.nvim (⭐2)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
+*   [AntonVanAssche/music-controls.nvim (⭐9)](https://github.com/AntonVanAssche/music-controls.nvim) - Quickly control your favorite music player (Spotify, VLC, and more).
 
 ### Utility / Diagnostics
 
-*   [niuiic/todo.nvim (⭐0)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
+*   [niuiic/todo.nvim (⭐6)](https://github.com/niuiic/todo.nvim) - Simple but powerful todo manager based on text.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
+*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.1k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
 *   [welcome-banner (⭐2)](https://github.com/joshuadanpeterson/zsh-welcome-banner) - Displays a login banner with a random quote.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -333,4 +339,5 @@ Language: English \ <br>
 
 ---
 
+- Prev: [Jul 26, 2024](/content/2024/07/26/README.md)
 - Next: [Jul 24, 2024](/content/2024/07/24/README.md)

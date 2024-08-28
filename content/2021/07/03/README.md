@@ -130,7 +130,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-jet-reboot (⭐380)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+*   [django-jet-reboot (⭐391)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 
 ## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,22 +44,7 @@
 
 *   [Do we really need OOD and FDD?](https://www.youtube.com/watch?v=KW9U6HMKEgk) - Functional Declarative Design (FDD) opposed to Object-Oriented Design (OOD
 
-## [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
-
-### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-
-*   [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
-    *   [GitHub repository :octocat: (⭐509)](https://github.com/irapkaist/removert)
-    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
-
-### Algorithms / Object detection and object tracking
-
-*   [urban\_road\_filter :newspaper:](https://doi.org/10.3390/s22010194)-
-    Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
-    *   [GitHub repository :octocat: (⭐274)](https://github.com/jkk-research/urban_road_filter)
-    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
-
-## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [5. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [GoCD](https://gocd.io/)
 
@@ -77,7 +62,7 @@
 
 
 
-## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Physics
 
@@ -93,7 +78,7 @@
 *   [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
 *   [libGDX External Tutorials](https://libgdx.com/wiki/articles/external-tutorials) - Big list of official unofficial tutorials.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Transportation
 
@@ -101,7 +86,7 @@
 *   [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange is a European standard to exchange standardized time tables and other system characteristics used to describe transit systems.
 *   [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Papers Collection
 
@@ -109,7 +94,7 @@
 *   [\[PDF\] Active Divergence with Generative Deep Learning - A Survey and Taxonomy | Semantic Scholar](https://www.semanticscholar.org/paper/Active-Divergence-with-Generative-Deep-Learning-A-Broad-Berns/091c4ea2efaba23cd9024d8a063609c9a313b5cb)
 *   [\[PDF\] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 

@@ -28,28 +28,34 @@
 
 ### Web / Playground
 
-*   :octocat: [Langfuse (⭐4.2k)](https://github.com/langfuse/langfuse) - Open source LLM engineering platform 🪢 - Tracing, Prompt Mgmt, Evaluations, Analytics
+*   :octocat: [Langfuse (⭐4.9k)](https://github.com/langfuse/langfuse) - Open source LLM engineering platform 🪢 - Tracing, Prompt Mgmt, Evaluations, Analytics
 
-## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Debugging / Diagnostics
+
+*   [Willem-J-an/visidata.nvim (⭐20)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
+
+## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions / Community
 
 *   [Umami Analytics (⭐0)](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
 *   [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw\.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Peripherals
 
 *   Fingerprint reader
     *   [alvaroparker/libfprint-rs (⭐11)](https://github.com/alvaroparker/libfprint-rs) \[[libfprint-rs](https://crates.io/crates/libfprint-rs)] - Libfprint-rs provides a wrapper around the Linux libfprint library.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
@@ -59,27 +65,17 @@
 
 *   [Remi](https://www.remi.com/) - REMI is a leading provider of state, local, and national macroeconomic policy analysis models.
 
-## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### AR/VR/XR
 
 *   [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Marks / Diagnostics
-
-*   [abeldekat/harpoonline (⭐39)](https://github.com/abeldekat/harpoonline) - Create up-to-date harpoon2 information to be used in a status-line.
-
-### Debugging / Diagnostics
-
-*   [Willem-J-an/visidata.nvim (⭐19)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
-
 ## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [asdf (⭐223)](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf (⭐21k)](https://github.com/asdf-vm/asdf) version manager
+*   [asdf (⭐232)](https://github.com/asdf-community/asdf-hashicorp) - HashiCorp plugin for the [asdf (⭐21k)](https://github.com/asdf-vm/asdf) version manager
 
 ---
 

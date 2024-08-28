@@ -28,7 +28,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Django Cookiecutter Wagtail (⭐67)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+*   [Django Cookiecutter Wagtail (⭐70)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 
 ## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Packages / Examples
 
-*   [A wild tomster appears (⭐16)](https://github.com/scudco/tomsweeper)
+*   [A wild tomster appears (⭐17)](https://github.com/scudco/tomsweeper)
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Marked.cc (⭐43)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
+*   [Marked.cc (⭐44)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 
 ## [12. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 

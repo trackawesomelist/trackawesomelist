@@ -17,7 +17,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Industrial Control System Security (⭐1.5k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+- Repository: [Industrial Control System Security (⭐1.6k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 
   Description: List of resources related to Industrial Control System (ICS) security
 
@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐808)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐813)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [netmq (⭐2.8k)](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
+*   [netmq (⭐2.9k)](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 
 ## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

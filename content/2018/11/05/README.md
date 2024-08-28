@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [sodium (⭐825)](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
+*   [sodium (⭐848)](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
 
 ## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -29,7 +29,7 @@
 ### CLI
 
 *   [linenoise (⭐3.7k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐356)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise-ng (⭐360)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -86,7 +86,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐981)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐991)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

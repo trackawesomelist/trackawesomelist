@@ -10,7 +10,7 @@
 
 ### System
 
-*   [Swift Windows Switcher (⭐328)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐333)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 

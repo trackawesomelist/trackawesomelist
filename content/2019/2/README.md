@@ -88,7 +88,7 @@
 
 ### Bean Mapping
 
-*   [dOOv (⭐87)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐89)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -380,7 +380,7 @@
 
 ### OS / Linux
 
-*   [278 Test Questions and Answers for \*nix System Administrators (⭐9.1k)](https://github.com/trimstray/test-your-sysadmin-skills)
+*   [278 Test Questions and Answers for \*nix System Administrators (⭐11k)](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ### Coding exercises / Windows
 
@@ -514,7 +514,7 @@
 
 ### Image Processing
 
-*   [libjpeg-turbo (⭐3.6k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+*   [libjpeg-turbo (⭐3.7k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 
 ### Math
 
@@ -544,11 +544,11 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [Feast (⭐5.3k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.4k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyOD (⭐8.1k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
+*   [PyOD (⭐8.4k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
 ---
 

@@ -69,11 +69,6 @@
 
 *   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
-*   [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
-
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Universal Repository (GitHub) (⭐4k)](https://github.com/angular/universal)
@@ -100,13 +95,13 @@
 
 ### Math
 
-*   [OpenBLAS (⭐6.1k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐6.2k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
 ## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
-*   [Android Reports and Resources (⭐1.3k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
+*   [Android Reports and Resources (⭐1.4k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ## [14. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

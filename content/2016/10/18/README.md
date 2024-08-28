@@ -65,7 +65,7 @@
 
 ### More Awesome Lists
 
-*   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [moq.netcore (⭐5.4k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
+*   [moq.netcore (⭐5.9k)](https://github.com/Moq/moq4) - Most popular and friendly mocking framework for .NET.
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -91,13 +91,7 @@
 
 *   [Mailinator](https://www.mailinator.com/) - Disposable email service.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Software Development - IDE & Tools
-
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐9.9k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
-
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
@@ -108,13 +102,13 @@
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 *   [vue-page-guide (⭐54)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
-## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Components / Themes
 
 *   [ngx-recursive-form (⭐35)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Self-hosted VPNs
 
@@ -154,7 +148,7 @@
 
 *   [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### R / Data Manipulation | Data Analysis | Data Visualization
 

@@ -88,13 +88,9 @@
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
-### GUI
-
-*   [WinApi (⭐820)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
-
 ### State machines
 
-*   [LiquidState (⭐236)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐238)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -274,7 +270,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐414)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐415)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -336,9 +332,13 @@
 
 ## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
+### Frameworks, Libraries and Tools / GUI
+
+*   [WinApi (⭐820)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Stashbox (⭐130)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+*   [Stashbox (⭐138)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

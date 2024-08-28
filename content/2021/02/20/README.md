@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dd-form (⭐79)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+*   [vue-dd-form (⭐80)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

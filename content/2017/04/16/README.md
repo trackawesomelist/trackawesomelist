@@ -127,7 +127,7 @@
 
 ### Design Patterns / Windows
 
-*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans)
+*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐44k)](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -168,7 +168,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Cryptography (⭐5.3k)](https://github.com/sobolevn/awesome-cryptography)
+- Repository: [Cryptography (⭐5.6k)](https://github.com/sobolevn/awesome-cryptography)
 
   Description: Cryptography resources and tools
 

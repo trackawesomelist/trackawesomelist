@@ -90,7 +90,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [t3chnoboy/awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.9k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 ---
 

@@ -40,17 +40,17 @@
 
 ### Bloom and Cuckoo Filters
 
-*   [bloom (⭐2.3k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
+*   [bloom (⭐2.4k)](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
 
 ## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Drawing
 
-*   [grove.draworder (⭐10)](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
+*   [grove.draworder (⭐12)](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
 
 ### Helpers
 
-*   [grove.color (⭐10)](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
+*   [grove.color (⭐12)](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
 
 ## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐45)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐51)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

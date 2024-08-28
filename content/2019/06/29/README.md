@@ -32,7 +32,7 @@
 
 ### Packages / Job queues
 
-*   [better-queue (⭐493)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐495)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -58,7 +58,7 @@
 
 ### Frameworks, Libraries and Tools / Operating System
 
-*   [CosmosOS (⭐2.7k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+*   [CosmosOS (⭐2.9k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

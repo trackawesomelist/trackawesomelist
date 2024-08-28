@@ -11,18 +11,18 @@
 ### Packages / Command-line apps
 
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-*   [David (⭐966)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-*   [normit (⭐239)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+*   [David (⭐967)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+*   [normit (⭐240)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
 *   [log-update (⭐1.1k)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐474)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐738)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [ansi-escapes (⭐482)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐737)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
 *   [figures (⭐590)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐461)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-*   [yn (⭐261)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-*   [cli-cursor (⭐99)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+*   [string-width (⭐468)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [yn (⭐262)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+*   [cli-cursor (⭐102)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
@@ -31,22 +31,22 @@
 
 ### Packages / Streams
 
-*   [into-stream (⭐205)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [into-stream (⭐206)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 *   [byline (⭐323)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 *   [first-chunk-stream (⭐27)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐11)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
 
-*   [string-length (⭐159)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+*   [string-length (⭐160)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 *   [splice-string (⭐23)](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 
 ### Packages / Number
 
-*   [random-int (⭐85)](https://github.com/sindresorhus/random-int) - Generate a random integer.
+*   [random-int (⭐86)](https://github.com/sindresorhus/random-int) - Generate a random integer.
 *   [random-float (⭐36)](https://github.com/sindresorhus/random-float) - Generate a random float.
 *   [unique-random (⭐116)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
-*   [round-to (⭐155)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+*   [round-to (⭐156)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
 
 ### Packages / Math
 
@@ -59,15 +59,15 @@
 ### Packages / Parsing
 
 *   [parse5 (⭐3.6k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐592)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [strip-json-comments (⭐594)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 *   [strip-css-comments (⭐121)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
-*   [neat-csv (⭐313)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+*   [neat-csv (⭐315)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
 *   [binary-extract (⭐153)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
 *   [js-yaml (⭐6.2k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐5.4k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐5.5k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -79,11 +79,11 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐949)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐807)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
-*   [onetime (⭐159)](https://github.com/sindresorhus/onetime) - Only run a function once.
+*   [hasha (⭐952)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐808)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [onetime (⭐161)](https://github.com/sindresorhus/onetime) - Only run a function once.
 *   [os-locale (⭐223)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐3.5k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [file-type (⭐3.6k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [2. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -161,7 +161,7 @@ This book teaches the fundamental concepts and tools behind reporting modern dat
 ### Data Formats / Scala
 
 *   [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
-*   [MSGPACK (⭐6.8k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+*   [MSGPACK (⭐6.9k)](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Sites & Organizations / Scala
 
@@ -399,22 +399,22 @@ git add --all && git commit --amend --no-edit
 
 ### Compilers, Transpilers and Languages
 
-*   [ClojureCLR (⭐1.5k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
+*   [ClojureCLR (⭐1.6k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
 *   [Mono-basic (⭐108)](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-*   [Netjs (⭐959)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
+*   [Netjs (⭐961)](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 
 ### Testing
 
-*   [Machine.Specifications (⭐880)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-*   [Moq (⭐5.8k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+*   [Machine.Specifications (⭐884)](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+*   [Moq (⭐5.9k)](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 *   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-*   [Rhino Mocks (⭐256)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+*   [Rhino Mocks (⭐257)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
 ## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
-*   [Garner (⭐345)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+*   [Garner (⭐344)](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
 *   [Record Cache (⭐145)](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 
 ### Core Extensions
@@ -435,7 +435,7 @@ git add --all && git commit --amend --no-edit
 *   Data analysis/structures
     *   [daru (⭐1k)](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
     *   [Daru::View (⭐95)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
-    *   [Rgl (⭐414)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+    *   [Rgl (⭐415)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -640,11 +640,11 @@ git add --all && git commit --amend --no-edit
 
 ### Frameworks
 
-*   [OpenFrameworks (⭐9.8k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+*   [OpenFrameworks (⭐9.9k)](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 
 ### Database
 
-*   [redis3m (⭐188)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
+*   [redis3m (⭐189)](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. \[Apache2]
 
 ### Miscellaneous
 

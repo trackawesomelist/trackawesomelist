@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [AutoDI (⭐95)](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.
+*   [AutoDI (⭐96)](https://github.com/Keboo/AutoDI) - Super-fast compile-time dependency injection using IL weaving.
 
 ## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Blockchain Lite (⭐220)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+*   [Blockchain Lite (⭐221)](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Networking
 
-*   [evpp (⭐3.5k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
+*   [evpp (⭐3.6k)](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 
 ## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

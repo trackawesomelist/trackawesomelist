@@ -26,7 +26,7 @@
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
     *   [ocaml-redis (⭐75)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-    *   [pgx (⭐121)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
+    *   [pgx (⭐122)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
     *   [mysql\_protocol (⭐14)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
@@ -56,7 +56,7 @@
 
 ### Programming Languages / JavaScript
 
-*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐21k)](https://github.com/rwaldron/idiomatic.js#readme)
+*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐24k)](https://github.com/rwaldron/idiomatic.js#readme)
 
 ### Frameworks / AngularJS
 

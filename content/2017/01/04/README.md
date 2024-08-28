@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [RestEase (⭐998)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable.
+*   [RestEase (⭐1.1k)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Go / Natural Language Processing
 
-*   [snowball (⭐43)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
+*   [snowball (⭐44)](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 
 ## [9. Vim Galore](/content/mhinz/vim-galore/README.md)
 

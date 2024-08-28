@@ -1,36 +1,30 @@
 # Awesome List Updates on Oct 17, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### COBOL / Non-X86
-
-*   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
-
-## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [1. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Projects Using Seed
 
 *   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
-## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### 8\. Installation
 
 *   [WSL1 Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install) - Microsoft's official guide for WSL.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
 *   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. The free tier includes up to 100 single-page reports per month with the ability to customize color palettes and fonts.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -120,7 +114,7 @@
 
 
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Big Data
 
@@ -143,7 +137,7 @@
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 *   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
-## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 

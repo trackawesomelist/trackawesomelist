@@ -10,7 +10,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐147)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

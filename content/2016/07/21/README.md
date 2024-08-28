@@ -41,7 +41,7 @@
 ### Mobile Applications
 
 *   **Bindings**:
-    *   [Cordova plugins (⭐25)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+    *   [Cordova plugins (⭐26)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

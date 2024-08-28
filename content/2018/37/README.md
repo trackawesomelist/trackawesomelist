@@ -35,7 +35,7 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐160)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐163)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Others
 
-*   [Opening Hours Kata (⭐7)](https://github.com/christian-fei/opening-hours-kata)
+*   [Opening Hours Kata (⭐8)](https://github.com/christian-fei/opening-hours-kata)
 
 ## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -218,9 +218,9 @@
 
 ### Benchmarking
 
-*   [core\_bench (⭐47)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
-      - [Getting Started with Core\_bench (⭐47)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
-*   [benchmark (⭐26)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
+*   [core\_bench (⭐49)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
+      - [Getting Started with Core\_bench (⭐49)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
+*   [benchmark (⭐28)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 ### Blogs
 
@@ -251,29 +251,31 @@
 
     *   [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
 
+    *   [Mazeppa (⭐345)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
+
     *   [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
 
     *   [OCaml-Java](http://www.ocamljava.org/) - OCaml to Java bytecode compiler.
 
     *   [Opa Programming Language](http://opalang.org/)
 
-    *   [Rhine (⭐629)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+    *   [Rhine (⭐631)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐144)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐145)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
-    *   [tis-interpreter (⭐561)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+    *   [tis-interpreter (⭐565)](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
     *   [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
 
     *   [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
 
-    *   [Liquid ML (⭐36)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
+    *   [Liquid ML (⭐37)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 ### Datetime
 
-*   [ISO8601 (⭐29)](https://github.com/sagotch/ISO8601.ml)
+*   [ISO8601 (⭐30)](https://github.com/sagotch/ISO8601.ml)
 
 ### Developer Tools
 
@@ -281,7 +283,7 @@
 
 ### Exercises and Short Examples
 
-*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐43)](https://github.com/MassD/99).
+*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐44)](https://github.com/MassD/99).
 
 ### Formal Software Verification
 
@@ -293,7 +295,7 @@
 
 ### User Interface
 
-*   [Lambda-Term (⭐211)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
+*   [Lambda-Term (⭐208)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
 
 ### Language-related
 
@@ -302,7 +304,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐96)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐97)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -314,12 +316,12 @@
 
 ### Metrics
 
-*   [prometheus (⭐48)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
+*   [prometheus (⭐49)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ### Package Management
 
 *   **Build Tools**:
-    *   [dune (⭐1.5k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
+    *   [dune (⭐1.6k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
     *   [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
         *   [oasis2opam (⭐27)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
     *   [obuild (⭐54)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
@@ -331,9 +333,9 @@
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐274)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐278)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
-    *   [Awesome multicore OCaml (⭐136)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
+    *   [Awesome multicore OCaml (⭐144)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ### Questions
 
@@ -376,7 +378,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐244)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐247)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -469,7 +471,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [CoreWiki (⭐389)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
+*   [CoreWiki (⭐415)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
 ## [38. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -485,7 +487,7 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐26)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐27)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ### Miscellaneous / Development and testing
 
@@ -548,7 +550,7 @@
 
 ### Anime
 
-- API: [AniList (⭐1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
+- API: [AniList (⭐1.1k)](https://github.com/AniList/ApiV2-GraphQL-Docs)
 
   Description: Anime discovery & tracking
 
@@ -620,7 +622,7 @@
   CORS: Unknown
 
 
-- API: [Harvard Art Museums (⭐334)](https://github.com/harvardartmuseums/api-docs)
+- API: [Harvard Art Museums (⭐342)](https://github.com/harvardartmuseums/api-docs)
 
   Description: Art
 
@@ -776,7 +778,7 @@
   CORS: Unknown
 
 
-- API: [Russian Calendar (⭐27)](https://github.com/egno/work-calendar)
+- API: [Russian Calendar (⭐28)](https://github.com/egno/work-calendar)
 
   Description: Check if a date is a Russian holiday or not
 
@@ -1384,7 +1386,7 @@
   CORS: Unknown
 
 
-- API: [TacoFancy (⭐120)](https://github.com/evz/tacofancy-api)
+- API: [TacoFancy (⭐123)](https://github.com/evz/tacofancy-api)
 
   Description: Community-driven taco database
 
@@ -1395,7 +1397,7 @@
   CORS: Unknown
 
 
-- API: [The Report of the Week (⭐25)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
+- API: [The Report of the Week (⭐28)](https://github.com/andyklimczak/TheReportOfTheWeek-API)
 
   Description: Food & Drink Reviews
 
@@ -1742,7 +1744,7 @@
   CORS: Yes
 
 
-- API: [Mexico (⭐66)](https://github.com/IcaliaLabs/sepomex)
+- API: [Mexico (⭐69)](https://github.com/IcaliaLabs/sepomex)
 
   Description: Mexico RESTful zip codes API
 
@@ -2332,7 +2334,7 @@
   CORS: Yes
 
 
-- API: [Feedbin (⭐333)](https://github.com/feedbin/feedbin-api)
+- API: [Feedbin (⭐342)](https://github.com/feedbin/feedbin-api)
 
   Description: RSS reader
 
@@ -2376,7 +2378,7 @@
   CORS: Unknown
 
 
-- API: [The Old Reader (⭐186)](https://github.com/theoldreader/api)
+- API: [The Old Reader (⭐190)](https://github.com/theoldreader/api)
 
   Description: RSS reader
 
@@ -2467,7 +2469,7 @@
   CORS: Unknown
 
 
-- API: [Universities List (⭐1.2k)](https://github.com/Hipo/university-domains-list)
+- API: [Universities List (⭐1.3k)](https://github.com/Hipo/university-domains-list)
 
   Description: University names, countries and domains
 
@@ -2608,7 +2610,7 @@
   CORS: Unknown
 
 
-- API: [Medium (⭐2.2k)](https://github.com/Medium/medium-api-docs)
+- API: [Medium (⭐2.3k)](https://github.com/Medium/medium-api-docs)
 
   Description: Community of readers and writers offering unique perspectives on ideas
 
@@ -3502,7 +3504,7 @@
   CORS: Unknown
 
 
-- API: [Breaking Bad Quotes (⭐370)](https://github.com/shevabam/breaking-bad-quotes)
+- API: [Breaking Bad Quotes (⭐387)](https://github.com/shevabam/breaking-bad-quotes)
 
   Description: Some Breaking Bad quotes
 

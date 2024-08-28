@@ -22,7 +22,7 @@
 
 ### Audio
 
-*   [SELA (⭐210)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
+*   [SELA (⭐208)](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. \[MIT]
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -44,7 +44,7 @@
 
 ### ORM
 
-*   [LINQ to DB (⭐2.9k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+*   [LINQ to DB (⭐3k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
 ## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐773)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐774)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -242,7 +242,7 @@ git branch --contains <commit-ish>
 ### JavaScript Clients
 
 *   [restangular (⭐7.9k)](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily.
-*   [restful.js (⭐966)](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
+*   [restful.js (⭐967)](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 
 ### Node.js Clients
 
@@ -251,7 +251,7 @@ git branch --contains <commit-ish>
 
 ### Directly On Top Of A RMDB
 
-*   [postgrest (⭐22k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
+*   [postgrest (⭐23k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
 *   [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
 ### Node.js
@@ -263,11 +263,11 @@ git branch --contains <commit-ish>
 
 *   [Microrest (⭐185)](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
 *   [Negotiation (⭐1.4k)](https://github.com/willdurand/Negotiation) - Content negotiation library.
-*   [Drest (⭐88)](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
+*   [Drest (⭐87)](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
-*   [HAL (⭐202)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
+*   [HAL (⭐203)](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 *   [Apigility (⭐445)](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-*   [phprest (⭐310)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
+*   [phprest (⭐309)](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 *   [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 
 ### PHP / Symfony2
@@ -275,8 +275,8 @@ git branch --contains <commit-ish>
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 *   [stanlemon/rest-bundle (⭐123)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-*   [BazingaHateoasBundle (⭐293)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
-*   [Symfony REST Edition (⭐635)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+*   [BazingaHateoasBundle (⭐294)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+*   [Symfony REST Edition (⭐634)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 *   [DunglasApiBundle (⭐2.4k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
 
@@ -287,11 +287,11 @@ git branch --contains <commit-ish>
 ### Go / Symfony2
 
 *   [go-json-rest (⭐3.5k)](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
-*   [sleepy (⭐674)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
+*   [sleepy (⭐673)](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 *   [restit (⭐55)](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
-*   [go-relax (⭐153)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
+*   [go-relax (⭐152)](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 *   [go-rest (⭐128)](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
-*   [Goat (⭐156)](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
+*   [Goat (⭐155)](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 *   [Resoursea (⭐34)](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 
 ### Java / Symfony2
@@ -301,12 +301,12 @@ git branch --contains <commit-ish>
 ### Querying / Symfony2
 
 *   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-*   [jq (⭐29k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+*   [jq (⭐30k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 
 ### Mocking / Symfony2
 
-*   [FakeRest (⭐415)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
-*   [json-server (⭐71k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+*   [FakeRest (⭐434)](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
+*   [json-server (⭐72k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 
 ### SaaS Tools / Symfony2
 

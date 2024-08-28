@@ -10,7 +10,7 @@
 
 ### Database
 
-*   [SimDB (⭐504)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
+*   [SimDB (⭐515)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
 
 ## [2. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
@@ -36,7 +36,7 @@
 
 ### CLI Builders
 
-*   [clim (⭐120)](https://github.com/at-grandpa/clim) - Slim command line interface builder
+*   [clim (⭐121)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -75,7 +75,7 @@
 
 ### GUI
 
-*   [Avalonia (⭐24k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐25k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ---
 

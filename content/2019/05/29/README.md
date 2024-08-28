@@ -16,7 +16,7 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐677)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐687)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
 ## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Packages / Web Components
 
-*   [shadow-dom (⭐26)](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
+*   [shadow-dom (⭐29)](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
 
 ### Packages / Webpack
 
@@ -61,11 +61,11 @@
 
 ### Memory Allocation
 
-*   [C Smart Pointers (⭐1.5k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
+*   [C Smart Pointers (⭐1.6k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
 
 ### Networking
 
-*   [libhttpserver (⭐862)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐879)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐653)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐654)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools

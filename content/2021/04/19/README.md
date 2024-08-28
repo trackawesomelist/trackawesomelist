@@ -73,7 +73,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [OPAL (Open Policy Administration Layer) (⭐13)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
+*   [OPAL (Open Policy Administration Layer) (⭐14)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -132,7 +132,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐99)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐100)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
 ## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -150,11 +150,11 @@
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
-*   [Node.js Interview Questions in Chinese (⭐22k)](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
+*   [Node.js Interview Questions in Chinese (⭐25k)](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby on Rails
 
-*   [High-level Ruby on Rails Interview Questions (⭐78)](https://github.com/rishiip/ruby-on-rails-interview-questions)
+*   [High-level Ruby on Rails Interview Questions (⭐88)](https://github.com/rishiip/ruby-on-rails-interview-questions)
 
 ### Database technologies / SQLite
 
@@ -162,7 +162,7 @@
 
 ### DevOps / Windows
 
-*   [Linux System Administrator/DevOps Interview Questions (⭐4.4k)](https://github.com/chassing/linux-sysadmin-interview-questions)
+*   [Linux System Administrator/DevOps Interview Questions (⭐5k)](https://github.com/chassing/linux-sysadmin-interview-questions)
 *   [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 *   [Top 60+ DevOps Interview Questions & Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 

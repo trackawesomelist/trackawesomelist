@@ -41,7 +41,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐686)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐691)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -226,7 +226,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐673)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐676)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

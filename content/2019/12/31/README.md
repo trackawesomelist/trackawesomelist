@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐353)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐357)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
@@ -129,13 +129,13 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐88)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐91)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐448)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐449)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

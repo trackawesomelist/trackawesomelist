@@ -109,7 +109,7 @@
 
 ### Algorithms / Windows
 
-*   [Comprehensive list of interview questions of top tech companies (⭐6.3k)](https://github.com/rishabh115/Interview-Questions)
+*   [Comprehensive list of interview questions of top tech companies (⭐7.1k)](https://github.com/rishabh115/Interview-Questions)
 
 ## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Okta (⭐70)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
+*   [Okta (⭐83)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 
 ## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -202,13 +202,13 @@
 
 ### Projects / Boilerplate
 
-*   [django-project-template (⭐714)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+*   [django-project-template (⭐711)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 
 ## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
-*   [PicGo (⭐23k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
+*   [PicGo (⭐24k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
 *   [uPic (⭐3.4k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
 ## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
@@ -274,11 +274,11 @@
 
 ### Software / DNS - Control Panels & Domain Management
 
-*   [octoDNS (⭐3k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
+*   [octoDNS (⭐3.1k)](https://github.com/github/octodns) - DNS as code - Tools for managing DNS across multiple providers. `MIT` `Python`
 
 ### Software / IT Asset Management
 
-*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐3.9k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
+*   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface. ([Source Code (⭐4.1k)](https://github.com/glpi-project/glpi)) `GPL-3.0` `PHP`
 
 ## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -446,26 +446,26 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐66)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐67)](https://github.com/braintree/restricted-input)
 
 ## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐260)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐263)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 *   [Tailwind CSS (⭐13k)](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 
 ### Big Data
 
-*   [Qlik (⭐57)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+*   [Qlik (⭐59)](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 
 ### Gaming
 
-*   [PlayCanvas (⭐247)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐250)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ### Health and Social Science
 
-*   [Digital History (⭐219)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+*   [Digital History (⭐221)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
 ## [45. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -512,7 +512,7 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/raspberry_pi.webp">
 
-[**Raspberry Pi**](https://discord.com/invite/bVVbSqQ) \
+[**Raspberry Pie**](https://discord.com/invite/raspberry-pie-204621105720328193) \
 Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
 Language: English
 ### DIY

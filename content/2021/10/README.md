@@ -108,7 +108,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [EffekseerForGodot3 (⭐129)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
+*   [EffekseerForGodot3 (⭐131)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -183,11 +183,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐216)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐220)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐203)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐207)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -303,7 +303,7 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [JavaScript Modern Interview Code Challenges 2021 (⭐3.4k)](https://github.com/sadanandpai/javascript-code-challenges)
+*   [JavaScript Modern Interview Code Challenges 2021 (⭐4.2k)](https://github.com/sadanandpai/javascript-code-challenges)
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
@@ -337,15 +337,15 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Gokapi (⭐1.1k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
+*   [Gokapi (⭐1.2k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐3.9k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐44k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐45k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
@@ -418,7 +418,7 @@
 
 ### JSS
 
-*   [Headless Examples (⭐7)](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
+*   [Headless Examples (⭐8)](https://github.com/Sitecore/headless-examples) - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
 
 ### Integration
 
@@ -445,7 +445,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Kotlin: [chrome-devtools-kotlin (⭐42)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+*   Kotlin: [chrome-devtools-kotlin (⭐43)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
 ## [36. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
@@ -479,7 +479,7 @@
 ### Programming Languages
 
 *   [C (⭐3.4k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐643)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐652)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
@@ -487,8 +487,8 @@
 
 ### Development Environment
 
-*   [Fish (⭐4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐3k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Fish (⭐4.1k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -496,21 +496,21 @@
 
 ### Business
 
-*   [Developer-First Products (⭐823)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐837)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐69k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐70k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.7k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.8k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ### Miscellaneous
 
 *   [Userscripts (⭐1.7k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐1.2k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐124)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Translations (⭐130)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -522,7 +522,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐86)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐85)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ### Components & Libraries / UI Utilities
 
@@ -540,7 +540,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.8k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4.9k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

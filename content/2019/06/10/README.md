@@ -26,7 +26,7 @@
 
 ### Scala / Symfony2
 
-*   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
+*   [Chaos (⭐249)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -120,7 +120,7 @@
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐700)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐706)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Security
 
-*   [Fuzzing (⭐798)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐808)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

@@ -405,7 +405,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [19. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐925)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐402)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐935)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐403)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -530,7 +530,7 @@
 
 *   [graphql-batch (⭐1.4k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐470)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-guard (⭐471)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 *   [graphql-ruby (⭐5.4k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -605,7 +605,7 @@
 
 ### CLI
 
-*   [SharpNetSH (⭐72)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+*   [SharpNetSH (⭐75)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ### CMS
 
@@ -621,7 +621,7 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐3.3k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐3.4k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
@@ -629,14 +629,14 @@
 
 ### Logging
 
-*   [Essential Diagnostics (⭐66)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Essential Diagnostics (⭐67)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 *   [Semantic Logging Application Block (SLAB) (⭐217)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Vulnerability Research (⭐1k)](https://github.com/re-pronin/awesome-vulnerability-research)
+- Repository: [Vulnerability Research (⭐1.1k)](https://github.com/re-pronin/awesome-vulnerability-research)
 
   Description: List of resources about Vulnerability Research
 
@@ -748,23 +748,23 @@
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [CSharpFunctionalExtensions (⭐2k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
-*   [language-ext (⭐5.8k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
-*   [NetMQ.ReactiveExtensions (⭐63)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
-*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#.
-*   [reactive-streams-dotnet (⭐193)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
-*   [ReactiveUI (⭐7.7k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
-*   [Rx.NET (⭐6.2k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
-*   [Qactive (⭐153)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
+*   [CSharpFunctionalExtensions (⭐2.4k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
+*   [language-ext (⭐6.4k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
+*   [NetMQ.ReactiveExtensions (⭐66)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
+*   [Optional (⭐891)](https://github.com/nlkl/Optional) - A robust option type for C#.
+*   [reactive-streams-dotnet (⭐197)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
+*   [ReactiveUI (⭐8k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
+*   [Rx.NET (⭐6.6k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
+*   [Qactive (⭐157)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Castle.Core (⭐2.1k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
+*   [Castle.Core (⭐2.2k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [CoreWF (⭐17)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
-*   [workflow-core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
+*   [CoreWF (⭐18)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+*   [workflow-core (⭐5.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
 ## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -829,7 +829,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
+*   [vue-jalaali-datepicker (⭐12)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
 ## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

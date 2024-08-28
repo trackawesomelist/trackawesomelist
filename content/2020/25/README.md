@@ -43,11 +43,11 @@
 
 ### Packages / End-user customization
 
-*   [ember-stargate (⭐60)](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
+*   [ember-stargate (⭐67)](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
 
 ### Packages / Polyfills
 
-*   [ember-named-blocks-polyfill (⭐40)](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
+*   [ember-named-blocks-polyfill (⭐39)](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
 
 ### Packages / Examples
 
@@ -142,7 +142,7 @@
 
 ### Related / Other
 
-*   [awesome-electronjs-hacking (⭐539)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-electronjs-hacking (⭐557)](https://github.com/doyensec/awesome-electronjs-hacking)
 
 ## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Sensors / Light
 
-*   [bh1750 (⭐49)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
+*   [bh1750 (⭐52)](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C digital light sensor driver.
 
 ## [17. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
@@ -229,7 +229,6 @@
 
 *   [Compat (⭐3k)](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
 *   [ecmascript-compat (⭐64)](https://github.com/robatwilliams/es-compat) - Disable ECMAScript language features not supported by your browserslist targets.
-*   [es (⭐105)](https://github.com/mysticatea/eslint-plugin-es) - Disable specific ECMAScript language versions or individual features.
 *   [es5 (⭐54)](https://github.com/nkt/eslint-plugin-es5) - ESLint plugin for ES5 users (forbid ES2015+ usage).
 *   [ie11 (⭐14)](https://github.com/Volox/eslint-plugin-ie11) - Detect unsupported ES6 features in IE11.
 
@@ -263,7 +262,6 @@
 *   Flow
     *   [Flow (⭐1.1k)](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
     *   [Flow Errors (⭐402)](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
-*   [Node (⭐958)](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js.
 *   [SQL (⭐91)](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 *   [TypeScript (⭐15k)](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
 
@@ -403,29 +401,6 @@
 
 ## [34. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
-### C and C++
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/include.webp">
-
-[**#include**](https://www.includecpp.org/discord/#getting-started-with-discord) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.includecpp.org/) \
-Notable Channels: `#assembly`, `#c-language`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
-Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/c_plus_plus_help.webp">
-
-[**C++ Help**](https://discord.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Eelis/geordi) \
-Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase` \
-Language: English \ <br>
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/together_c_and_c_plus_plus.webp">
-
-[**Together C & C++**](https://discord.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Headline/discord-compiler-bot) \
-Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
-Language: English
-
-<!-- markdownlint-disable MD003-->
-
-<!-- markdownlint-disable MD020-->
 ### Apple Systems
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_hackintosh_paradise.webp">
@@ -468,8 +443,8 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/hackintosh_x86.webp">
 
-[**Hackintosh x86 & Tech**](https://discord.com/invite/qc89CQkX7j) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
-Notable Channels: `#app-fixes`, `#hackintosh-help`, `#benchmarks-and-desks`, `#hack-art`, `#linux`, `#useful-files`, `#coding`, `#efi-database` \
+[**Hackintosh x86**](https://discord.com/invite/hackintosh-x86-447936233084026890) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
+Notable Channels: `#support-1`, `#vm-kvm-support`, `#apple-silicon-macs`, `#apple-pre-silicon`, `#starlink-general-info` \
 Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/shortcuts.webp">
@@ -490,7 +465,7 @@ Language: English
 
 ### GIS
 
-*   [DEM Net Elevation API (⭐287)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+*   [DEM Net Elevation API (⭐294)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
 
 ### Real-time Communications
 
@@ -538,7 +513,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [v-idle (⭐71)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+*   [v-idle (⭐70)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 
 ### Components & Libraries / UI Utilities
 
@@ -552,7 +527,7 @@ Language: English
 
 ### Front-End Development
 
-*   [Building Blocks for Web Apps (⭐144)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+*   [Building Blocks for Web Apps (⭐145)](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 
 ### Related
 
@@ -562,24 +537,24 @@ Language: English
 
 ### Payments
 
-*   [AnimatedCardInput (⭐37)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
+*   [AnimatedCardInput (⭐38)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
 
 ## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐193)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐203)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
-*   [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code (⭐13k)](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
+*   [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code (⭐14k)](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
 
 ## [44. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Frameworks
 
-*   [Omnitone (⭐845)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
-*   [Mach1Spatial (⭐55)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
+*   [Omnitone (⭐852)](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
+*   [Mach1Spatial (⭐57)](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 
 ### Packages / Libraries
 
@@ -646,14 +621,14 @@ Language: English
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐591)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐593)](https://github.com/informalsystems/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ### Development tools / IDEs
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐791)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
-    *   [rust.vim (⭐3.8k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+    *   [crates.nvim (⭐826)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [rust.vim (⭐3.9k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐627)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
 ### Libraries / Parsing
@@ -910,7 +885,7 @@ Language: English
 
 ### Clients
 
-*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐177)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐178)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -932,7 +907,7 @@ Language: English
 
 ### Tools / XML
 
-*   [trex (⭐736)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐737)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Articles / XML
 
@@ -946,7 +921,7 @@ Language: English
 
 ### Apps / Outline Processor Markup Language
 
-*   [Brief (⭐211)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [Brief (⭐212)](https://github.com/brief-rss/brief) <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brief-rss/brief)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -990,7 +965,7 @@ Language: English
 
 ### Tools
 
-*   [Hardened Kernel Builder for RPi (⭐20)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
+*   [Hardened Kernel Builder for RPi (⭐21)](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.
 
 ---
 

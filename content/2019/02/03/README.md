@@ -22,7 +22,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Serverless Security (⭐568)](https://github.com/puresec/awesome-serverless-security/)
+- Repository: [Serverless Security (⭐579)](https://github.com/puresec/awesome-serverless-security/)
 
   Description: Collection of Serverless security related resources
 

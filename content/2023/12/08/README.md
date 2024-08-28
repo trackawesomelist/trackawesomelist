@@ -10,7 +10,7 @@
 
 ### Scraping
 
-*   [browserless](https://browserless.io) - Browser automation deployed to the could. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
+*   [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
 
 ## [2. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Workflow
 
-*   [PACE (⭐31)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+*   [PACE (⭐32)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
 
 ---
 

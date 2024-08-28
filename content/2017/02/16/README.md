@@ -24,7 +24,7 @@ Webpage: <http://www.novaarcada.pt/>
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [Storyteller (⭐271)](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET <http://storyteller.github.io>.
+*   [Storyteller (⭐268)](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET <http://storyteller.github.io>.
 
 ## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

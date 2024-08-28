@@ -46,9 +46,9 @@
 *   [cotton (⭐138)](https://github.com/rahmanfadhil/cotton) - SQL Database Toolkit for deno
 *   [dangoDB (⭐122)](https://github.com/oslabs-beta/dangoDB) - A MongoDB ODM for Deno.
 *   [deno\_mongo (⭐509)](https://github.com/denodrivers/deno_mongo) - MongoDB database driver.
-*   [deno\_mysql (⭐255)](https://github.com/denodrivers/mysql) - MySQL database driver.
+*   [deno\_mysql (⭐257)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
-*   [redis (⭐453)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+*   [redis (⭐454)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
 ## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 

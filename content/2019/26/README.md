@@ -16,7 +16,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [zvt (⭐3k)](https://github.com/zvtvz/zvt) - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
+*   [zvt (⭐3.1k)](https://github.com/zvtvz/zvt) - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
 
 ## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Packages / Job queues
 
-*   [better-queue (⭐493)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐495)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -88,7 +88,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Sorbet (⭐3.5k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+*   [Sorbet (⭐3.6k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
 ## [12. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐296)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐298)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -210,16 +210,16 @@
 
 ## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Import/Export Tool (⭐11)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
+*   [Wagtail Import/Export Tool (⭐12)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 
 ## [26. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
-*   [music-box (⭐107)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
-*   [strava-box (⭐41)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+*   [music-box (⭐109)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+*   [strava-box (⭐42)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 
 ## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -343,7 +343,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Casbin.NET (⭐1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
+*   [Casbin.NET (⭐1.1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 
 ### Frameworks, Libraries and Tools / GUI
 
@@ -351,15 +351,15 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReflectionMagic (⭐318)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
+*   [ReflectionMagic (⭐331)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
 
 ### Frameworks, Libraries and Tools / Operating System
 
-*   [CosmosOS (⭐2.7k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
+*   [CosmosOS (⭐2.9k)](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
+*   [Scriban (⭐3.1k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ## [42. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 

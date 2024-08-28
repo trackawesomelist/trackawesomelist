@@ -62,7 +62,7 @@
 
 ### Messaging / Scala
 
-*   [RocketMQ (⭐20k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+*   [RocketMQ (⭐21k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Storage / Scala
 
@@ -85,7 +85,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐346)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐347)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

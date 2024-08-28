@@ -16,7 +16,7 @@
 
 ### Training and Materials / Web articles
 
-*   [The Book of Secret Knowledge (⭐132k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐137k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

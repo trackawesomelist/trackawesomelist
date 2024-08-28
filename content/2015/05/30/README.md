@@ -42,7 +42,7 @@
 
 ### Command Line Applications
 
-*   [getopt (⭐246)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+*   [getopt (⭐247)](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 
 ### Framework Components
 
@@ -51,12 +51,12 @@
 
 ### Frameworks
 
-*   [trot (⭐414)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐415)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
-*   [database\_url (⭐8)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
-*   [isn (⭐8)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
+*   [database\_url (⭐9)](https://github.com/s-m-i-t-a/database_url) - Parse database URL and return keyword list for use with Ecto.
+*   [isn (⭐9)](https://github.com/Frost/isn) - Ecto types for the postgreSQL isn extension.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
 *   [sqlite\_ecto (⭐77)](https://github.com/jazzyb/sqlite_ecto) - SQLite3 adapter for Ecto.
 
@@ -68,7 +68,7 @@
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐41)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐440)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐443)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 

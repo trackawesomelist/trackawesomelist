@@ -74,7 +74,7 @@
 
 ### C bindings
 
-*   [clang.cr (⭐46)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
+*   [clang.cr (⭐47)](https://github.com/crystal-lang/clang.cr) - Libclang bindings
 
 ### CLI Builders
 
@@ -82,7 +82,7 @@
 
 ### Dependency Injection
 
-*   [Crystal-DI (⭐31)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+*   [Crystal-DI (⭐32)](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
 *   [syringe (⭐6)](https://github.com/Bonemind/syringe) - A simple and basic dependency injection shard for crystal
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)

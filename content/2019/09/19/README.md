@@ -56,7 +56,7 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐211k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)

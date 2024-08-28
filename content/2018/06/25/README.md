@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25, 2018
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -82,7 +82,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐835)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐841)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -96,13 +96,7 @@
 
 *   [tools.trace (⭐355)](https://github.com/clojure/tools.trace)
 
-## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Multimedia
-
-*   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
-
-## [11. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [10. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -113,7 +107,7 @@
 
 *   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
-## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
@@ -121,13 +115,13 @@
 *   [VHostScan (⭐1.1k)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [SubFinder (⭐8.7k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Mad science
 
 *   [Brain.js (⭐14k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / E individuals
 

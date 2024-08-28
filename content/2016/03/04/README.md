@@ -26,7 +26,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.8k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.9k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -68,10 +68,10 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐530)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐531)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐35)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-*   [Unicode Text Search (⭐187)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+*   [Unicode Text Search (⭐191)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 

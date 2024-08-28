@@ -2,7 +2,7 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jdorfman/awesome-json-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) · ⭐ 2.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jdorfman/awesome-json-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) · ⭐ 3.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/jdorfman/awesome-json-datasets/README.md) / [Weekly](/content/jdorfman/awesome-json-datasets/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Link of the month:* [Awesome Stacks by StackShare (⭐2.9k)](https://github.com/stackshareio/awesome-stacks)
+> *Link of the month:* [Awesome Stacks by StackShare (⭐3.4k)](https://github.com/stackshareio/awesome-stacks)
 
 *Sponsored link:* [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets\&utm_campaign=awesome-json-datasets-sponsorship\&utm_medium=referral)
 
@@ -52,7 +52,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## Climate
 
-*   [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 *   [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 *   [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1895-2015)*
 
@@ -292,14 +291,14 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## More Awesome Lists
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [Help Wanted (⭐67)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
-*   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
-*   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
-*   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-*   [Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
-*   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [JSON (⭐1.4k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Style Guides (⭐1.1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing
 

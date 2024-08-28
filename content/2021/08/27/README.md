@@ -49,11 +49,11 @@
 
 *   [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
-### Authorization / Open-source policy frameworks
+### Authorization / RBAC frameworks
 
-*   [Oso (⭐3.3k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐3.5k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
-### SAML / Macaroons
+### SAML / Other tools
 
 *   [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
 
@@ -99,7 +99,7 @@
   CORS: Yes
 
 
-- API: [CORS Proxy (⭐32)](https://github.com/burhanuday/cors-proxy)
+- API: [CORS Proxy (⭐35)](https://github.com/burhanuday/cors-proxy)
 
   Description: Get around the dreaded CORS error by using this proxy as a middle man
 

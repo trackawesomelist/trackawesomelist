@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials & workshops
 
-*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐48)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
+*   [Fast String Processing with Polars — Scam Emails Dataset](https://towardsdatascience.com/fast-string-processing-with-polars-scam-emails-dataset-fcf7054a929a) - A tutorial using Polars to  implement a text processing pipeline process by [@AntonsRuberts](https://github.com/AntonsRuberts). Code used is available on Github [here (⭐50)](https://github.com/aruberts/tutorials/tree/main/metaflow/fraud_email).
 
 ### Resources / Blog posts
 
@@ -20,13 +20,13 @@
 
 ### Standard CLI
 
-*   [readline (⭐78)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+*   [readline (⭐82)](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / Fonts
 
-*   [framebuf2 (⭐10)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
+*   [framebuf2 (⭐11)](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer extension: larger and rotated font, triangles and circles.
 
 ## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -62,12 +62,12 @@
 
 ### Network / HTTP
 
-*   [zigzap/zap (⭐2k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
+*   [zigzap/zap (⭐2.1k)](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [andrewrk/SDL (⭐62)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
-*   [andrewrk/ffmpeg (⭐139)](https://github.com/andrewrk/ffmpeg) - library only.
+*   [andrewrk/SDL (⭐63)](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
+*   [andrewrk/ffmpeg (⭐148)](https://github.com/andrewrk/ffmpeg) - library only.
 *   [andrewrk/libgroove (⭐290)](https://github.com/andrewrk/libgroove) - streaming audio processing library.
 *   [andrewrk/libsoundio (⭐1.9k)](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
 *   [kassane/libbpf (⭐2)](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
@@ -76,12 +76,12 @@
 ### C/C++ libraries packaged for Zig / C++
 
 *   [andrewrk/libchromaprint (⭐1)](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
-*   [kassane/asio (⭐5)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
+*   [kassane/asio (⭐6)](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
 *   [kassane/fmt (⭐0)](https://github.com/kassane/fmt) - Modern formatting library.
-*   [kassane/hana (⭐0)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
+*   [kassane/hana (⭐1)](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
 *   [kassane/catch2 (⭐0)](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 *   [kassane/outcome (⭐1)](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
-*   [kassane/json (⭐0)](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
+*   [kassane/json (⭐1)](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
 *   [kassane/libzmq (⭐2)](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
 ## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)

@@ -71,17 +71,17 @@
 
 ### Routing
 
-*   [orion (⭐123)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐124)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
-*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐45k)](https://github.com/rclone/rclone)) `MIT` `Go`
+*   [rclone](https://rclone.org/) - Command-line program to sync files and directories to and from different cloud storage providers.. ([Source Code (⭐46k)](https://github.com/rclone/rclone)) `MIT` `Go`
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐24k)](https://github.com/zyedidia/micro)) `MIT` `Go`
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐25k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -237,7 +237,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐331)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐339)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
@@ -263,8 +263,8 @@
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.8k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
-*   [Capitaine Cursors (⭐1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
+*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [31. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 

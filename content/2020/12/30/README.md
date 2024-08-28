@@ -10,7 +10,7 @@
 
 ### Graphics
 
-*   [vRayTracer (⭐46)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+*   [vRayTracer (⭐47)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

@@ -66,18 +66,18 @@
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [ZXing.Net (⭐2.4k)](https://github.com/micjahn/ZXing.Net/) - .Net port of the original java-based barcode reader and generator library zxing.
+*   [ZXing.Net (⭐2.7k)](https://github.com/micjahn/ZXing.Net/) - .Net port of the original java-based barcode reader and generator library zxing.
 
 ## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Machine Learning
 
 *   **Libraries**
-    *   [Ocaml-sklearn (⭐32)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+    *   [Ocaml-sklearn (⭐33)](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
     *   [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐17)](https://github.com/owlbarn/owl_mask_rcnn).
-    *   [PyTorch bindings (⭐397)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
-    *   [Ocaml-NN (⭐3)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
+    *   [PyTorch bindings (⭐404)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+    *   [Ocaml-NN (⭐4)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 
 ## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

@@ -10,7 +10,7 @@
 
 ### MVVM
 
-*   [Win Application Framework (WAF) (⭐703)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+*   [Win Application Framework (WAF) (⭐706)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
 

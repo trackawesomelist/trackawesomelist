@@ -162,7 +162,7 @@
 
 ### Integrations
 
-*   [Official Keycloak Node.js Connect Adapter (⭐660)](https://github.com/keycloak/keycloak-nodejs-connect)
+*   [Official Keycloak Node.js Connect Adapter (⭐663)](https://github.com/keycloak/keycloak-nodejs-connect)
 
 ## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -205,13 +205,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-my-photos (⭐53)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
+*   [vue-my-photos (⭐54)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐26k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐27k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -223,7 +223,7 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [Dockerize.NET (⭐175)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
+*   [Dockerize.NET (⭐176)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
 
 ## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Compression
 
-*   [libarchive (⭐2.9k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+*   [libarchive (⭐3k)](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
 
 ### Scripting
 

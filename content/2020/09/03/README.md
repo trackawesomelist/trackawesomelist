@@ -30,13 +30,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐893)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐897)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Performance
 
-*   [django-silk (⭐4.3k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
+*   [django-silk (⭐4.4k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 
 ### Resources / Educational
 
@@ -44,7 +44,7 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐19k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐20k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 

@@ -50,13 +50,13 @@
 
 ### Packages / Testing
 
-*   [Playwright (⭐64k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐65k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐653)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [basic-ftp (⭐657)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
 *   [cashify (⭐399)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐77)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [genepi (⭐80)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -66,7 +66,7 @@
 
 ### Tools / Misc
 
-*   [m2cgen (⭐2.7k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+*   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 ## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
@@ -128,7 +128,7 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐435)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐441)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
 ### Software / Games
 
@@ -138,11 +138,11 @@
 
 ### Typescript Project Starters
 
-*   [jsynowiec/node-typescript-boilerplate (⭐2.6k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+*   [jsynowiec/node-typescript-boilerplate (⭐2.7k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐43)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐44)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 
@@ -192,7 +192,7 @@
 
 ### Applications
 
-*   [Cabal (⭐835)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐836)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -224,7 +224,7 @@
 
 ### Plugins
 
-*   [tmux-jump (⭐321)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐342)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
 ## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -417,7 +417,7 @@
 
 *   [Open Product Management (⭐3.8k)](https://github.com/tron1991/open-product-management) - Resources, interviews, case studies, sample products & projects, communities, open source tools, free & paid services on product management, for technical people to learn the field.
 *   [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - A set of heuristics on tech companies and the ecosystem they live in.
-*   [How to exit vim, the Product Manager way (⭐6.8k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
+*   [How to exit vim, the Product Manager way (⭐7k)](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - A satire with a grain of truth, especially the comparison between the basic vs experienced level.
 
 ### Product Management / Product-Market Fit
 
@@ -462,13 +462,13 @@
 
 *   Visual Studio
     *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) - Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [PistonDevelopers/VisualRust (⭐702)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [48. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐590)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐624)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -482,7 +482,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐638)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐642)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [50. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -606,22 +606,22 @@
 
 ### For Developers
 
-*   [mkdkr (⭐363)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐364)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ### Shell Script Development
 
-*   [ansi (⭐604)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [ansi (⭐609)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 *   [argbash (⭐1.4k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 *   [assert.sh (⭐487)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 *   [async-bash (⭐137)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 *   [bash3boilerplate (⭐2.1k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐599)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [bashful (⭐601)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
 *   [bashify (⭐99)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
 *   [bashing (⭐77)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐93)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
-*   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
+*   [bashmanager (⭐94)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [Bash Infinity (⭐5.6k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
 *   [bash\_unit (⭐586)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐547)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [mo (⭐553)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 *   [semver\_bash (⭐246)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 *   [shfmt (⭐7k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.6k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -144,7 +144,7 @@
 
 ### Tools
 
-*   [hash-set (⭐15)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
+*   [hash-set (⭐16)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
 *   [cl-containers](https://common-lisp.net/project/cl-containers/) - an extensive library of data structures and utilities - queues, trees, heaps, doubly-linked lists, sets, bags,... [MIT](https://opensource.org/licenses/MIT)
 
 ## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -187,7 +187,7 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐42k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐43k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
@@ -207,13 +207,13 @@
 
 ### CLI
 
-*   [tabulate (⭐1.8k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+*   [tabulate (⭐1.9k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [jasper (⭐411)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
+*   [jasper (⭐420)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
 ## [25. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
@@ -297,7 +297,7 @@
 
 ### Open Source / Other
 
-*   [Upcount (⭐347)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐350)](https://github.com/madisvain/upcount) - Invoicing.
 
 ### Articles / Other
 
@@ -311,7 +311,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐353)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐357)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
@@ -350,13 +350,13 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐88)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐91)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / IoT
 
-*   [Apache StreamPipes (⭐490)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+*   [Apache StreamPipes (⭐583)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
 ## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -370,18 +370,7 @@
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [40. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
-*   [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
-
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [40. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -400,7 +389,7 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -419,7 +408,7 @@
 
 *   🍰 [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -434,13 +423,13 @@
 
 *   [CrSignals (⭐10)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [43. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Frameworks
 
@@ -459,17 +448,17 @@
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
-*   [AnimatedGradientView (⭐448)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
+*   [AnimatedGradientView (⭐449)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
 ### Button
 
 *   [FloatingButton (⭐1.1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -499,7 +488,7 @@
 
 
 
-## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [47. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

@@ -52,13 +52,13 @@
 ### Packages / External Components Integration
 
 *   [ember-lifecycle-component (⭐9)](https://github.com/NullVoxPopuli/ember-lifecycle-component) - A component with additional lifecycles for times when you may need need a template.
-*   [ember-vue-components (⭐9)](https://github.com/lifeart/ember-vue-components) - Vue.JS component API for Ember.
+*   [ember-vue-components (⭐10)](https://github.com/lifeart/ember-vue-components) - Vue.JS component API for Ember.
 
 ### Packages / Helpers
 
-*   [ember-event-helpers (⭐33)](https://github.com/buschtoens/ember-event-helpers) - Complimentary event template helpers to the `{{on}}` modifier.
-*   [ember-render-helpers (⭐20)](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
-*   [ember-truth-helpers (⭐701)](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
+*   [ember-event-helpers (⭐36)](https://github.com/buschtoens/ember-event-helpers) - Complimentary event template helpers to the `{{on}}` modifier.
+*   [ember-render-helpers (⭐22)](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
+*   [ember-truth-helpers (⭐707)](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Other Hardware
 
-*   [NFCPassportReader (⭐728)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
+*   [NFCPassportReader (⭐733)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
 ## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -104,7 +104,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐352)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐370)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

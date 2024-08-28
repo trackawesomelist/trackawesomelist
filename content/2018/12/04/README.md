@@ -183,7 +183,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [Meadow (⭐135)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
+*   [Meadow (⭐141)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
 ## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

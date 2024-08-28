@@ -10,7 +10,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐356)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐357)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Task Runners
 
@@ -20,7 +20,7 @@
 
 ### Algebra / Linear Algebra
 
-*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐524)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐527)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

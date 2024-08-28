@@ -16,8 +16,8 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [AvaloniaEdit (⭐527)](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit (⭐1.7k)](https://github.com/icsharpcode/AvalonEdit)
-    [HandyControls (⭐925)](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls.
+*   [AvaloniaEdit (⭐718)](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit (⭐1.8k)](https://github.com/icsharpcode/AvalonEdit)
+    [HandyControls (⭐1k)](https://github.com/ghost1372/HandyControls) - Contains some simple and commonly used WPF controls.
 
 ## [3. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 

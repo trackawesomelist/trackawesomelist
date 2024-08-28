@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   [Awesome Game Datasets (⭐675)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐689)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -46,19 +46,13 @@
 
 
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Java / Spring
-
-*   [Spring Framework Cookbook: Hot Recipes for Spring Framework](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) - JCGs (Java Code Geeks) (PDF)
-
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [AI Expert Roadmap (⭐23k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Business
 
@@ -66,21 +60,21 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐115)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐117)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
-## [8. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
+## [7. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
 ### Videos / [Foundation HTML5 Animation with JavaScript](https://www.amazon.com/Foundation-HTML5-Animation-JavaScript-Lamberta/dp/1430236655/)
 
 *   [Yuri Artyukh youtube channel](https://www.youtube.com/user/flintyara) - This man creates amazing web animations using various technologies for this, and recording it all in steam format.
 
-## [9. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [8. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### News
 
 *   [iPanda](http://en.ipanda.com/) iPanda offers news and live broadcasts of events concerning the release of pandas into the wild, panda mating and breeding, the debut of new-born baby pandas, etc. Also strive to spread knowledge about the conservation of the giant panda and other rare wildlife species, raising awareness to audience around the world about environmental protection.
 
-## [10. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [9. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning
 
@@ -396,7 +390,7 @@
 
 *   [Dolby Stream Validator](https://ott.dolby.com/OnDelKits_dev/StreamValidator/Start_Here.html)  -
 
-## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [10. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -404,13 +398,13 @@
 *   [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
 *   [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
-## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Music Downloading / Third Party Hosts
 
 *   [Deemix](https://codeberg.org/RemixDev/deemix) Another program with the same purpose. "Deemix is a python library that lets you download millions of songs \[from Deezer]". "Deemix is meant to replace Deezloader Remix".
 
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -418,13 +412,13 @@
 *   [Raspbian](http://www.raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
 *   [Twister OS](https://twisteros.com/) - Skinned version of Raspberry Pi OS with preinstalled apps like box86 and Retropie to introduce noobs to Linux and Raspberry Pi. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
-## [14. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [13. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [Pepicons](https://pepicons.com) - Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print ❏
 
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Fiction / Horror
 

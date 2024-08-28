@@ -42,7 +42,7 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [StringDB (⭐70)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
+*   [StringDB (⭐71)](https://github.com/SirJosh3917/StringDB) - StringDB is a modular, key/value pair archival DB designed to consume *tiny* amounts of ram & produce *tiny* databases.
 
 ### Frameworks, Libraries and Tools / Misc
 

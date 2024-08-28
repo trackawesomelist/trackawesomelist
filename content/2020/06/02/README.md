@@ -110,7 +110,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-card-stack (⭐76)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
+*   [vue-card-stack (⭐77)](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

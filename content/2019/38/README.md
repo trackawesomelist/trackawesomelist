@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐793)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐819)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐733)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐770)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐953)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐960)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐1.6k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐1.7k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -122,22 +122,10 @@
 
 *   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 
-### Utilities
-
-*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-
-### Windows / Design Tooling
-
-*   [PaperWM (⭐2.8k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Services integration / Design Tooling
-
-*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
-
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -277,7 +265,7 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐211k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [awesome-python (⭐212k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐60)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [23. Bots](/content/hackerkid/bots/week/README.md)
@@ -354,18 +342,18 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [dasblog-core (⭐423)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
+*   [dasblog-core (⭐470)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
 
 ## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Function extensions
 
-*   [cl-hooks (⭐15)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
+*   [cl-hooks (⭐16)](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 *   [method-hooks](https://gitlab.com/Gnuxie/method-hooks) - When CLOS method combination allow only one hook per method, this library allows an arbitrary number of them. Mozilla Public Licence.
 
 ### Typing
 
-*   👍 [trivial-types (⭐65)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [trivial-types (⭐66)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -434,7 +422,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐836)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐853)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 
@@ -520,7 +508,7 @@
 
 ### Software / Identity Management - Tools and web interfaces
 
-*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.3k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
+*   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐6.5k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
 
 ## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 

@@ -18,9 +18,9 @@
 
 ## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-### Libraries/Packages/Scripts / Python
+### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-ml (⭐2)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
+*   [polars-ml (⭐5)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Resource / Diagnostics
 
-*   [Nvim-training (⭐17)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+*   [Nvim-training (⭐27)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 
 ## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -78,4 +78,5 @@ Language: English
 
 ---
 
+- Prev: [Jul 27, 2024](/content/2024/07/27/README.md)
 - Next: [Jul 25, 2024](/content/2024/07/25/README.md)

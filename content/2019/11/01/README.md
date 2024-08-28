@@ -83,7 +83,7 @@
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐6.4k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐6.5k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Table of Contents / Continuous Integration
 
-*   [Setup PHP (⭐2.8k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
+*   [Setup PHP (⭐2.9k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

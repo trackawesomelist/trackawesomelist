@@ -35,7 +35,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [Pandas TA (⭐4.8k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
+*   [Pandas TA (⭐5.1k)](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
 
 ## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -114,7 +114,7 @@
 ### Manufacturers
 
 *   [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/c/IbeoAutomotive/)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/IbeoAutomotive/)
 
 ## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -29,11 +29,11 @@
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐193)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐198)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐572)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
+*   [Sail (⭐581)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
@@ -100,7 +100,7 @@
 
 ### Animals
 
-- API: [MeowFacts (⭐333)](https://github.com/wh-iterabb-it/meowfacts)
+- API: [MeowFacts (⭐382)](https://github.com/wh-iterabb-it/meowfacts)
 
   Description: Get random cat facts
 

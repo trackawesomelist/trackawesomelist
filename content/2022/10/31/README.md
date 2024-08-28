@@ -27,7 +27,7 @@
 *   [Material palette generator](https://m2.material.io/inline-tools/color/) - The official Material Design palette generator can be used to generate a palette for any color you choose.
 *   [Material UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - VSCode extension providing snippets.
 *   [Material UI Codemorphs](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-codemorphs) - VSCode extension providing codemods.
-*   [Eslint: detect unused classes (⭐29)](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint plugin to detect unused styling classes with `@mui/styles`.
+*   [Eslint: detect unused classes (⭐31)](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint plugin to detect unused styling classes with `@mui/styles`.
 
 ### Applications
 
@@ -38,14 +38,14 @@
 *   [Create-react-app-material-ui (⭐22)](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
 *   [React-materialui-boilerplate (⭐32)](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 *   [Gatsby-starter-material-ui (⭐33)](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
-*   [Saas (⭐3.7k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
-*   [Create-react-app-material-typescript-redux (⭐288)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
+*   [Saas (⭐4k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
+*   [Create-react-app-material-typescript-redux (⭐290)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [Weissle/easy-action (⭐38)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+*   [Weissle/easy-action (⭐39)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 
 ## [5. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [cargo-unused-features (⭐205)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+*   [cargo-unused-features (⭐229)](https://github.com/TimonPost/cargo-unused-features) :warning: — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positive.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
@@ -96,7 +96,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [touchlab/KMMBridge (⭐340)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [touchlab/KMMBridge (⭐348)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -117,13 +117,13 @@
 
 ### Reflection
 
-*   [Easy Reflection (⭐90)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
+*   [Easy Reflection (⭐91)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
 ## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
-*   [version (⭐92)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐95)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 
 ### Databases Implemented in Go
 
@@ -131,11 +131,11 @@
 
 ### Email
 
-*   [Mailpit (⭐4.9k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐5.3k)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Game Development
 
-*   [Harfang3D (⭐529)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐551)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐37)](https://github.com/harfang3d/harfang-go)).
 
 ### Logging
 
@@ -151,16 +151,16 @@
 
 ### Validation
 
-*   [valix (⭐26)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐27)](https://github.com/marrow16/valix) Go package for validating requests
 
 ### Video
 
-*   [go-m3u8 (⭐27)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐29)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 
 ### Web Frameworks
 
 *   [Atreugo (⭐1.2k)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐4.9k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Hertz (⭐5.1k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -199,27 +199,15 @@
     *   [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
     *   [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 
-## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Elixir / Non-X86
+### Artificial Intelligence
 
-*   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
+*   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 
-### Erlang / Phoenix
+### Quantum Computing
 
-*   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
-
-### R / Tornado
-
-*   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
-
-### Rust / Sinatra
-
-*   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
-
-### TypeScript / Vapor
-
-*   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
+*   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 
 ---
 

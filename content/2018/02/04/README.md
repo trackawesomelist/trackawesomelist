@@ -44,13 +44,13 @@
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐571)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐572)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [MassTransit (⭐6k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [MassTransit (⭐6.8k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
 
 ## [7. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2024
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,10 +24,8 @@
 *   [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
 *   [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
 *   [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
-*   [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
 *   [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
 *   [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
-*   [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
 *   [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
 *   [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
 *   [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
@@ -60,7 +58,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Hybris (⭐24)](https://github.com/eminyagiz42/awesome-hybris)
+*   [Awesome Hybris (⭐27)](https://github.com/eminyagiz42/awesome-hybris)
 
 ## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -75,17 +73,7 @@
 *   The VAR Guy's [The Open Source 50](https://web.archive.org/web/20171002071840/http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](https://web.archive.org/web/20171027055302/http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
     *   *(unmaintained)*
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Wicket
-
-*   [JavaScript for Data Science](https://third-bit.com/js4ds/) - Maya Gans, Toby Hodges, Greg Wilson (HTML)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
-
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Community Modules / Miscellaneous
 

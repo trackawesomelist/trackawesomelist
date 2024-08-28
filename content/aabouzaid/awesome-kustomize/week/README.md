@@ -2,7 +2,7 @@
 
 A curated and collaborative list of awesome Kustomize resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aabouzaid/awesome-kustomize/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aabouzaid/awesome-kustomize](https://github.com/aabouzaid/awesome-kustomize) · ⭐ 64 · 🏷️ DevOps
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aabouzaid/awesome-kustomize/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aabouzaid/awesome-kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize) · ⭐ 90 · 🏷️ DevOps
 
 [ [Daily](/content/aabouzaid/awesome-kustomize/README.md) / Weekly / [Overview](/content/aabouzaid/awesome-kustomize/readme/README.md) ]
 
@@ -10,13 +10,13 @@ A curated and collaborative list of awesome Kustomize resources
 
 ### Plugins / Generators
 
-*   [Merger (⭐9)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+*   [Merger (⭐27)](https://github.com/aabouzaid/kustomize-plugin-merger) - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
 ### Plugins / Generators
 
-*   [KRMFfnBuiltin (⭐2)](https://github.com/kaweezle/krmfnbuiltin) - Running builtin generators transformers (Exec).
+*   [KRMFfnBuiltin (⭐5)](https://github.com/kaweezle/krmfnbuiltin) - Running builtin generators transformers (Exec).
 
 ### Guides / Intermediate
 
@@ -26,29 +26,29 @@ A curated and collaborative list of awesome Kustomize resources
 
 ### Plugins / Generators
 
-*   [Secretize (⭐65)](https://github.com/bbl/secretize) - Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).
-*   [SopsSecretGenerator (⭐107)](https://github.com/goabout/kustomize-sopssecretgenerator/) - Generating Secrets from sops-encrypted files (Exec, Exec KRM).
-*   [KSops (⭐531)](https://github.com/viaduct-ai/kustomize-sops) - Generating Secrets from sops-encrypted files (Exec).
-*   [PolicyGenerator (⭐27)](https://github.com/open-cluster-management-io/policy-generator-plugin) - Generating Open Cluster Management policies (Exec).
+*   [Secretize (⭐68)](https://github.com/bbl/secretize) - Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).
+*   [SopsSecretGenerator (⭐113)](https://github.com/goabout/kustomize-sopssecretgenerator/) - Generating Secrets from sops-encrypted files (Exec, Exec KRM).
+*   [KSops (⭐628)](https://github.com/viaduct-ai/kustomize-sops) - Generating Secrets from sops-encrypted files (Exec).
+*   [PolicyGenerator (⭐29)](https://github.com/open-cluster-management-io/policy-generator-plugin) - Generating Open Cluster Management policies (Exec).
 
 ### Plugins / Transformers
 
-*   [HelmValuesTransformer (⭐12)](https://github.com/openinfradev/kustomize-helm-transformer) - Transforming values in HelmRelease CustomResource. It helps to manage a lot of HelmRelease's value in single transformer file (Exec).
+*   [HelmValuesTransformer (⭐14)](https://github.com/openinfradev/kustomize-helm-transformer) - Transforming values in HelmRelease CustomResource. It helps to manage a lot of HelmRelease's value in single transformer file (Exec).
 *   [TemplateTransformer (⭐12)](https://github.com/joshdk/template-transformer) - Providing a set of KRM Functions to run builtin transformers in place (Containerized KRM, Exec KRM).
 
 ### Plugins / Validators
 
-*   [KubeconformValidator (⭐5)](https://github.com/aabouzaid/kustomize-kubeconformvalidator) - Validating Kubernetes manifests using embedded Kubeconform (Containerized KRM, Exec KRM).
+*   [KubeconformValidator (⭐7)](https://github.com/aabouzaid/kustomize-kubeconformvalidator) - Validating Kubernetes manifests using embedded Kubeconform (Containerized KRM, Exec KRM).
 
 ### Misc / Tips & Tricks
 
-*   [Asdf-kustomize (⭐17)](https://github.com/Banno/asdf-kustomize) - Kustomize plugin for asdf version manager.
+*   [Asdf-kustomize (⭐21)](https://github.com/Banno/asdf-kustomize) - Kustomize plugin for asdf version manager.
 
 ### Related lists / Tips & Tricks
 
-*   [Awesome Kubernetes (⭐14k)](https://github.com/ramitsurana/awesome-kubernetes) - A curated list of awesome Kubernetes resources.
-*   [Awesome Kubectl plugins (⭐802)](https://github.com/ishantanu/awesome-kubectl-plugins) - A curated list of awesome Kubectl plugins.
-*   [Awesome Helm (⭐815)](https://github.com/cdwv/awesome-helm) - A curated list of awesome Helm charts and resources.
+*   [Awesome Kubernetes (⭐15k)](https://github.com/ramitsurana/awesome-kubernetes) - A curated list of awesome Kubernetes resources.
+*   [Awesome Kubectl plugins (⭐884)](https://github.com/ishantanu/awesome-kubectl-plugins) - A curated list of awesome Kubectl plugins.
+*   [Awesome Helm (⭐921)](https://github.com/cdwv/awesome-helm) - A curated list of awesome Helm charts and resources.
 
 ## [Apr 10 - Apr 16, 2023](/content/2023/15/README.md)
 

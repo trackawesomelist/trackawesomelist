@@ -49,17 +49,17 @@
 
 ### Packages / Libraries
 
-*   [Sound.js (⭐298)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
-*   [Circular Audio Wave (⭐242)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
+*   [Sound.js (⭐300)](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
+*   [Circular Audio Wave (⭐249)](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 *   [Wad (⭐1.9k)](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 
 ### Resources / Tutorials
 
-*   [WebAudio School (⭐401)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
+*   [WebAudio School (⭐402)](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
 
 ### Obsolete / Community
 
-*   [Gibberish (⭐386)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+*   [Gibberish (⭐387)](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 *   [lissajous (⭐398)](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
 *   [SSSynthesiser.js (⭐49)](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
 *   [WAAX (⭐303)](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
@@ -67,22 +67,22 @@
 *   [reverbGen (⭐54)](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
 *   [TuneJS (⭐169)](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
 *   [Beet.js (⭐114)](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
-*   [AudioKeys (⭐232)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+*   [AudioKeys (⭐234)](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 *   [web-audio-test-api (⭐67)](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
-*   [javascript-karplus-strong (⭐279)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+*   [javascript-karplus-strong (⭐282)](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 *   [osc-msg (⭐17)](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
 *   [Pizzicato (⭐1.7k)](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
-*   [Mooog (⭐28)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
+*   [Mooog (⭐29)](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
 *   [envelope-generator (⭐35)](https://github.com/itsjoesullivan/envelope-generator) - Simple ADSR envelope generator for web audio.
 *   [audio contour (⭐20)](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
-*   [web-audio-recorder-js (⭐767)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
-*   [audiolet (⭐894)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
+*   [web-audio-recorder-js (⭐770)](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
+*   [audiolet (⭐895)](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 *   [playnote (⭐2)](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
-*   [Recorderjs (⭐4.1k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
+*   [Recorderjs (⭐4.2k)](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
 *   [resampler (⭐39)](https://github.com/notthetup/resampler) - A utility for resampling audio.
 *   [bpm-detective (⭐133)](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 *   [web-audio-utils (⭐10)](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
-*   [web-audio-oscillators (⭐58)](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
+*   [web-audio-oscillators (⭐59)](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 *   [midi-ports (⭐16)](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 *   [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 *   [Code Player (⭐21)](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
@@ -204,7 +204,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐77k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐78k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
@@ -212,7 +212,7 @@
 
 ### Misc / Other
 
-*   [Clean Code JavaScript (⭐90k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+*   [Clean Code JavaScript (⭐91k)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 ## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [RepoDb (⭐1.6k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
+*   [RepoDb (⭐1.7k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 
 ## [12. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
@@ -285,7 +285,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐748)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐753)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.2k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.3k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -394,7 +394,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐231)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐233)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 

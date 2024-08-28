@@ -16,7 +16,7 @@
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐434)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐440)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C/deb`
 
 ## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 

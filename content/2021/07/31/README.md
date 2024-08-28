@@ -76,7 +76,7 @@
 
 ### Awesome Repositories
 
-- Repository: [The Art of Hacking Series (⭐16k)](https://github.com/The-Art-of-Hacking/h4cker)
+- Repository: [The Art of Hacking Series (⭐18k)](https://github.com/The-Art-of-Hacking/h4cker)
 
   Description: List of resources  includes thousands of cybersecurity-related references and resources
 
@@ -89,7 +89,7 @@
   Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
 
 
-- Repository: [Vulhub (⭐16k)](https://github.com/vulhub/vulhub)
+- Repository: [Vulhub (⭐17k)](https://github.com/vulhub/vulhub)
 
   Description: Pre-Built Vulnerable Environments Based on Docker-Compose
 
@@ -99,11 +99,11 @@
 
 ### Shaders
 
-*   [ngrading (⭐34)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
+*   [ngrading (⭐39)](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 
 ### UI
 
-*   [NLay (⭐34)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+*   [NLay (⭐39)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

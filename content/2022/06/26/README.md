@@ -17,7 +17,7 @@
 
 ### Front-End Development
 
-*   [React (⭐63k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+*   [React (⭐64k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐272)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
@@ -35,7 +35,7 @@
 
 ### Tools / Community providers
 
-*   [tfedit (⭐93)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐96)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / IDE
 
-*   [Terraform-ls (⭐957)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐984)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Logging
 
-*   [phuslu/log (⭐632)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐653)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

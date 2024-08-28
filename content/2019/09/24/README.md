@@ -210,7 +210,7 @@
 *   [Uucp (⭐20)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
 *   [Uunf (⭐22)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 *   [Uuseg (⭐23)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-*   [Uutf (⭐29)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
+*   [Uutf (⭐30)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 ## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -294,8 +294,8 @@
 
 ### Tools / Reverse Engineering
 
-*   [Simplify Android deobfuscator (⭐4.3k)](https://github.com/CalebFenton/simplify)
-*   [Andromeda (⭐686)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+*   [Simplify Android deobfuscator (⭐4.4k)](https://github.com/CalebFenton/simplify)
+*   [Andromeda (⭐695)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

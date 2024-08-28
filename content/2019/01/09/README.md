@@ -68,7 +68,7 @@
 
 ### OS / Linux
 
-*   [278 Test Questions and Answers for \*nix System Administrators (⭐9.1k)](https://github.com/trimstray/test-your-sysadmin-skills)
+*   [278 Test Questions and Answers for \*nix System Administrators (⭐11k)](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ### Coding exercises / Windows
 

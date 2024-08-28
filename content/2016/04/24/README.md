@@ -35,7 +35,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Neutrino (⭐307)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+*   [Neutrino (⭐311)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

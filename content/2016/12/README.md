@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2016
 
-28 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,11 +10,11 @@
 
 ### Misc
 
-*   [immutable (⭐202)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐203)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
-*   [crotest (⭐27)](https://github.com/emancu/crotest) - A tiny and simple test framework
+*   [crotest (⭐28)](https://github.com/emancu/crotest) - A tiny and simple test framework
 
 ## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [Smali/Baksmali (⭐6.2k)](https://github.com/JesusFreke/smali) – apk decompilation
+*   [Smali/Baksmali (⭐6.3k)](https://github.com/JesusFreke/smali) – apk decompilation
 
 ## [6. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
@@ -174,57 +174,7 @@
 *   [Simple Binary Encoding (⭐2.7k)](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
 *   [stream-lib (⭐2.2k)](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-
-### Clojure / Non-X86
-
-*   [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
-
-### ColdFusion / Non-X86
-
-*   [CFML In 100 Minutes (⭐94)](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
-
-### Delphi / Pascal / Non-X86
-
-*   [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
-
-### Linux / TeX
-
-*   [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
-
-### Lisp / TeX
-
-*   [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky (PDF, PS)
-*   [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
-*   [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
-*   [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
-
-### Perl / PicoLisp
-
-*   [Extreme Perl](http://www.extremeperl.org/bk/home) - R. Nagier (HTML, PDF)
-*   [Higher-Order Perl](http://hop.perl.plover.com/book/) - M. J. Dominus (PDF)
-*   [Perl for the Web](http://www.globalspin.com/thebook/) - C. Radcliff
-
-### Prolog / Zend
-
-*   [Introduction to Prolog for Mathematicians](http://www.j-paine.org/prolog/mathnotes/files/pms/pms.html) - J. Ireson-Ireson-Paine
-*   [Natural Language Processing Techniques in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/) - P. Blackburn, K. Striegnitz
-*   [Prolog and Natural - Language Analysis](http://www.mtome.com/Publications/PNLA/pnla-digital.html) - Fernando C. N. Pereira, Stuart M. Shieber
-
-### Scheme / Play Scala
-
-*   [Concrete Abstractions: An Introduction to Computer Science Using Scheme](https://gustavus.edu/+max/concrete-abstractions.html) - M. Hailperin, B. Kaiser, K. Knight
-*   [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
-
-### Smalltalk / Play Scala
-
-*   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
-
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -235,13 +185,13 @@
 *   [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
 *   [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
 
-## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
-## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -560,19 +510,19 @@
 
 
 
-## [15. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [14. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [yaraprocessor (⭐96)](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
-## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
 *   [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_34)
 
-## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [16. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
@@ -591,19 +541,19 @@
 
 *   [is-generator (⭐15)](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
-## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐185)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐191)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
-## [19. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [18. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [reagent-forms (⭐338)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -617,25 +567,25 @@
 
 *   Hypriot <http://blog.hypriot.com/>
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Infrastructure
 
 *   [php-pm (⭐6.5k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
-## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [21. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
-*   [mongodb-tools (⭐295)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+*   [mongodb-tools (⭐296)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Permissions / Barcode
 
 *   [Permission (⭐2.9k)](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 
-## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [23. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Contracts
 
@@ -645,7 +595,7 @@
 
 *   [No Starch Press](https://www.nostarch.com/writeforus.htm)
 
-## [25. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [24. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
@@ -663,19 +613,19 @@
 *   [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 *   [GitHub Issues (⭐47k)](https://github.com/ReactiveX/RxJava/issues)
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
 *   [DGraph (⭐19k)](https://github.com/dgraph-io/dgraph) - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
 
-## [27. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [26. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
-*   [Wavesurfer.js (⭐8.4k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
+*   [Wavesurfer.js (⭐8.5k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 

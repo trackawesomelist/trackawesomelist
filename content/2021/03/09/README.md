@@ -28,7 +28,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   Kotlin: [chrome-devtools-kotlin (⭐42)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+*   Kotlin: [chrome-devtools-kotlin (⭐43)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
 ## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Miscellaneous
 
-*   [Translations (⭐124)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐130)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐86)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐85)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

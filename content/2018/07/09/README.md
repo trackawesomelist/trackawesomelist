@@ -25,7 +25,7 @@
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐47)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐97)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐48)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐98)](https://github.com/thejpster/pc-keyboard).
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Packages / Articles
 
-*   [A collection of links that summarize EmberConf 2018 (⭐56)](https://github.com/nucleartide/emberconf-2018)
+*   [A collection of links that summarize EmberConf 2018 (⭐57)](https://github.com/nucleartide/emberconf-2018)
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

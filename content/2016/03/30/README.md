@@ -42,7 +42,7 @@
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐60)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐62)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Bittorrent
 
-*   [bento (⭐94)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐93)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

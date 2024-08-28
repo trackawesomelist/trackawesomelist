@@ -22,13 +22,13 @@
 
 ### Go / Erlang
 
-*   [Goa (⭐5.4k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
+*   [Goa (⭐5.6k)](https://github.com/goadesign/goa) - Design-based HTTP microservices in Go.
 
 ### Ruby / Scala
 
 *   [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 *   [Praxis (⭐300)](https://github.com/rightscale/praxis) - Framework for both designing and implementing APIs.
-*   [Scorched (⭐274)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
+*   [Scorched (⭐275)](https://github.com/wardrop/Scorched) - Light-weight web framework for Ruby.
 
 ## [4. Codeface](/content/chrissimpkins/codeface/README.md)
 

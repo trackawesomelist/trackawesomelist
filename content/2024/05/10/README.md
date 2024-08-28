@@ -12,7 +12,18 @@
 
 *   [PyGAD (⭐1.7k)](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Genetic Algorithm in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras">
 
-## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-reactive-storage (⭐34)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
+*   [ng2-webstorage (⭐427)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
+*   [ngx-indexed-db (⭐171)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
+*   [angular-async-local-storage (⭐676)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
+*   [ng-web-apis/storage (⭐725)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+*   [ngx-odm (⭐41)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
+
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Software for Creating APIs
 
@@ -32,7 +43,7 @@
 
 *   [transit-intensity (⭐3)](https://github.com/ioTransit/transit-intensity) - A simple project for measuring transit intensity written in Go.
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -43,7 +54,7 @@
 *   [LEARN](https://icleiusa.org/LEARN/) - This interactive web mapping tool was developed to help communities in the USA estimate the local greenhouse gas (GHG) impacts of their forests and trees.
 *   [NatureServe Explorer](https://explorer.natureserve.org/) - NatureServe is the definitive online guide for information on over 100,000 rare and endangered species and ecosystems in the Americas.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -56,21 +67,6 @@
 ### Storage and Media Processing
 
 *   [ImgBB](https://imgbb.com/) — ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
-
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
-
-### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-reactive-storage (⭐34)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
-*   [ng2-webstorage (⭐427)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
-*   [ngx-indexed-db (⭐167)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
-*   [angular-async-local-storage (⭐674)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
-*   [ng-web-apis/storage (⭐712)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
-*   [ngx-odm (⭐40)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 ## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -86,7 +82,7 @@
 
 ### Utility / Diagnostics
 
-*   [doctorfree/cheatsheet.nvim (⭐27)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
+*   [doctorfree/cheatsheet.nvim (⭐37)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
 ---
 

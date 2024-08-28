@@ -10,13 +10,13 @@
 
 ### Miscellaneous
 
-*   [Connectivity Data and Reports (⭐120)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+*   [Connectivity Data and Reports (⭐122)](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Security and Cryptography
 
-*   [nocoiner (⭐10)](https://github.com/marcoonroad/nocoiner) - A Commitment scheme library for Multi-party computations such as online auctions and gambling.
+*   [nocoiner (⭐11)](https://github.com/marcoonroad/nocoiner) - A Commitment scheme library for Multi-party computations such as online auctions and gambling.
 
 ### Semantic Technology
 
@@ -148,17 +148,17 @@ Free (Open Source)
 ### Frameworks, Libraries and Tools / API
 
 *   GraphQL
-    *   [Dapper.GraphQL (⭐282)](https://github.com/landmarkhw/Dapper.GraphQL) - A library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
+    *   [Dapper.GraphQL (⭐290)](https://github.com/landmarkhw/Dapper.GraphQL) - A library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
     *   [graphql-aspnetcore (⭐183)](https://github.com/JuergenGutsch/graphql-aspnetcore) - ASP.NET Core MiddleWare to create a GraphQL end-point.
-    *   [graphql-convention (⭐231)](https://github.com/graphql-dotnet/conventions) - This library is a complementary layer on top that allows you to automatically wrap your .NET classes into GraphQL schema definitions using existing property getters and methods as field resolvers
-    *   [graphiql-dotnet (⭐143)](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
+    *   [graphql-convention (⭐232)](https://github.com/graphql-dotnet/conventions) - This library is a complementary layer on top that allows you to automatically wrap your .NET classes into GraphQL schema definitions using existing property getters and methods as field resolvers
+    *   [graphiql-dotnet (⭐142)](https://github.com/JosephWoodward/graphiql-dotnet) - GraphiQL middleware for ASP.NET Core.
     *   [graphql-dotnetcore (⭐100)](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET Core based on [https://github.com/graphql/graphql-js (⭐20k)](https://github.com/graphql/graphql-js).
-    *   [graphql-dotnet (⭐5.6k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
-    *   [graphql-dotnet-server (⭐541)](https://github.com/graphql-dotnet/server) - GraphQL for .NET - Subscription Transport WebSockets.
-    *   [Hot Chocolate (⭐4.7k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
-    *   [FSharp.Data.GraphQL (⭐380)](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp implementation of Facebook GraphQL query language <https://fsprojects.github.io/FSharp.Data.GraphQL>.
-    *   [parser (⭐206)](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
-    *   [tanka-graphql (⭐57)](https://github.com/pekkah/tanka-graphql) - GraphQL execution and server libraries supporting SignalR, Apollo, schema manipulation and other features familiar from Apollo and graphql-js
+    *   [graphql-dotnet (⭐5.8k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+    *   [graphql-dotnet-server (⭐573)](https://github.com/graphql-dotnet/server) - GraphQL for .NET - Subscription Transport WebSockets.
+    *   [Hot Chocolate (⭐5.1k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+    *   [FSharp.Data.GraphQL (⭐395)](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp implementation of Facebook GraphQL query language <https://fsprojects.github.io/FSharp.Data.GraphQL>.
+    *   [parser (⭐214)](https://github.com/graphql-dotnet/parser) - A lexer and parser for GraphQL in .NET.
+    *   [tanka-graphql (⭐60)](https://github.com/pekkah/tanka-graphql) - GraphQL execution and server libraries supporting SignalR, Apollo, schema manipulation and other features familiar from Apollo and graphql-js
 
 ## [19. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -476,7 +476,7 @@ Free (Open Source)
 
 ### Serialization
 
-*   [protobuf (⭐64k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
+*   [protobuf (⭐65k)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. \[BSD]
 *   [upb (⭐1.5k)](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. \[BSD]
 
 ## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
@@ -627,7 +627,7 @@ Free (Open Source)
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐162)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐163)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 

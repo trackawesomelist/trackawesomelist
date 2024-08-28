@@ -28,7 +28,7 @@
 
 ### Web frameworks / Clack plugins
 
-*   [radiance (⭐311)](https://github.com/Shirakumo/radiance) - A web application environment and framework . [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [radiance (⭐312)](https://github.com/Shirakumo/radiance) - A web application environment and framework . [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   👍 [Snooze (⭐206)](https://github.com/joaotavora/snooze) - A RESTful web framework. Web server agnostic. Currently has support for Hunchentoot and Clack. Routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Developer utilities / Third-party APIs
@@ -59,25 +59,25 @@
 
 ### File Handling
 
-*   [gofs (⭐442)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
+*   [gofs (⭐455)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvoid-lua/nvoid (⭐94)](https://github.com/nvoid-lua/nvoid) - Simple Neovim config written in Lua with all the modern features available in any **IDE**
+*   [nvoid-lua/nvoid (⭐97)](https://github.com/nvoid-lua/nvoid) - Simple Neovim config written in Lua with all the modern features available in any **IDE**
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / GUI
 
-*   [slint-ui/slint (⭐16k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) - [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+*   [slint-ui/slint (⭐17k)](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) - [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [Slint (⭐16k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
+*   [Slint (⭐17k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 
 ## [10. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -100,15 +100,15 @@
 ### Packages / Mad science
 
 *   [webtorrent (⭐29k)](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
-*   [PDFKit (⭐9.6k)](https://github.com/foliojs/pdfkit) - PDF generation library.
+*   [PDFKit (⭐9.7k)](https://github.com/foliojs/pdfkit) - PDF generation library.
 *   [xlsx (⭐35k)](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 
 ### Packages / Command-line apps
 
 *   [http-server (⭐13k)](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
-*   [pen (⭐327)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
+*   [pen (⭐326)](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 *   [trymodule (⭐1.1k)](https://github.com/victorb/trymodule) - Try out npm packages in the terminal.
-*   [themer (⭐5.4k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
+*   [themer (⭐5.5k)](https://github.com/themerdev/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 *   [taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 ### Packages / Functional programming
@@ -126,7 +126,7 @@
 
 ### Packages / Logging
 
-*   [consola (⭐5.8k)](https://github.com/unjs/consola) - Console logger.
+*   [consola (⭐5.9k)](https://github.com/unjs/consola) - Console logger.
 
 ### Packages / Command-line utilities
 
@@ -147,7 +147,7 @@
 
 ### Packages / Web frameworks
 
-*   [Next.js (⭐123k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
+*   [Next.js (⭐124k)](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 *   [Micro (⭐11k)](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 *   [LoopBack (⭐4.9k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [TypeGraphQL (⭐8k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
@@ -160,7 +160,7 @@
 
 ### Packages / Filesystem
 
-*   [proper-lockfile (⭐232)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
+*   [proper-lockfile (⭐235)](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 
 ### Packages / Real-time
 
@@ -169,12 +169,12 @@
 
 ### Packages / URL
 
-*   [humanize-url (⭐248)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
+*   [humanize-url (⭐249)](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <https://sindresorhus.com> → sindresorhus.com.
 
 ### Packages / Data validation
 
 *   [joi (⭐21k)](https://github.com/sideway/joi) - Object schema description language and validator for JavaScript objects.
-*   [schema-inspector (⭐504)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
+*   [schema-inspector (⭐505)](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
 *   [ajv (⭐14k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 
 ### Packages / Parsing
@@ -186,7 +186,7 @@
 
 ### Packages / Humanize
 
-*   [ms (⭐5k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+*   [ms (⭐5.1k)](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 
 ### Packages / Database
 
@@ -195,7 +195,7 @@
 
 ### Packages / Testing
 
-*   [nyc (⭐5.5k)](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
+*   [nyc (⭐5.6k)](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 *   [tap (⭐2.3k)](https://github.com/tapjs/node-tap) - TAP test framework.
 *   [trevor (⭐2.1k)](https://github.com/vadimdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 *   [Nock (⭐13k)](https://github.com/nock/nock) - HTTP mocking and expectations.
@@ -205,11 +205,11 @@
 ### Packages / Minifiers
 
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS) - JavaScript minifier.
-*   [clean-css (⭐4.1k)](https://github.com/clean-css/clean-css) - CSS minifier.
+*   [clean-css (⭐4.2k)](https://github.com/clean-css/clean-css) - CSS minifier.
 
 ### Packages / Email
 
-*   [Nodemailer (⭐16k)](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
+*   [Nodemailer (⭐17k)](https://github.com/nodemailer/nodemailer) - The fastest way to handle email.
 *   [email-templates (⭐3.6k)](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
 
 ### Packages / Job queues
@@ -219,7 +219,7 @@
 
 ### Packages / Natural language processing
 
-*   [retext (⭐2.3k)](https://github.com/retextjs/retext) - An extensible natural language system.
+*   [retext (⭐2.4k)](https://github.com/retextjs/retext) - An extensible natural language system.
 
 ### Packages / AST
 
@@ -236,7 +236,7 @@
 
 ### Packages / Serialization
 
-*   [protobuf (⭐9.7k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
+*   [protobuf (⭐9.8k)](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 
 ### Packages / Miscellaneous
 
@@ -244,7 +244,7 @@
 
 ### Resources / Tutorials
 
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
+*   [Node.js Best Practices (⭐98k)](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 *   [Portable Node.js guide (⭐1.4k)](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
 ### Resources / Newsletters
@@ -336,7 +336,7 @@
 
 *   [flux (⭐0)](https://github.com/jmg-duarte/flux-zsh) - A no-nonsense minimalist theme with `git` status decorations.
 *   [linear (⭐4)](https://github.com/MrYazdan/zsh-linear-theme) - Reminiscent of Powerline. Includes segments with `git` status, Pythonvirtualenv, current directory and current time.
-*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
+*   [my (⭐0)](https://github.com/fabiendelpierre/my-zsh-theme/) - Variant of [kolo (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#kolo).
 
 ## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

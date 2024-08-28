@@ -10,13 +10,13 @@
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [uppy (⭐28k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
+*   [uppy (⭐29k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐864)](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth2 client library
+*   [oauth2 (⭐886)](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth2 client library
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -101,17 +101,16 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐78)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐79)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 
-*   [RSS 0.90](https://www.rssboard.org/rss-0-9-0)
-*   [RSS 0.91](https://www.rssboard.org/rss-0-9-1-netscape)
-*   [RSS 1.0](https://web.resource.org/rss/1.0/)
-*   [RSS 3.0](http://www.aaronsw.com/2002/rss30) <sup>[711](https://t.me/s/aboutrss/711)</sup>
-*   [h-feed](https://indieweb.org/h-feed) <sup>[711](https://t.me/s/aboutrss/711)</sup>
+*   [RSS 0.90](https://www.rssboard.org/rss-0-9-0) <sup>[1429](https://t.me/s/aboutrss/1429)</sup> ![Relative date](https://img.shields.io/date/921499200?style=flat\&logo=RSS\&label=Published\&color=orange)
+*   [RSS 0.91](https://www.rssboard.org/rss-0-9-1-netscape) ![Relative date](https://img.shields.io/date/931608000?style=flat\&logo=RSS\&label=Published\&color=orange)
+*   [RSS 1.0](https://web.resource.org/rss/1.0/) ![Relative date](https://img.shields.io/date/976104000?style=flat\&logo=RSS\&label=Published\&color=orange)
+*   [RSS 3.0](http://www.aaronsw.com/2002/rss30) <sup>[711](https://t.me/s/aboutrss/711)</sup> ![Relative date](https://img.shields.io/date/1031323860?style=flat\&label=Proposed\&color=orange)
 
 ### Telegram / Telegram RSS bots
 

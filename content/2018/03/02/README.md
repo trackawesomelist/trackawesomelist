@@ -71,7 +71,7 @@
 
 ### For Electron / Other
 
-*   [electron-timber (⭐396)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐400)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -79,10 +79,10 @@
 
 *   Code Analysis
     *   [CodeFormatter (⭐1.2k)](https://github.com/dotnet/codeformatter) - Tool that uses Roslyn to automatically rewrite the source to follow netfx coding styles. [Nuget Package](https://www.nuget.org/packages/Dotnet.CodeFormatter.BuildTask.Fork)
-    *   [DevSkim (⭐832)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
-    *   [RefactoringEssentials (⭐638)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
-    *   [roslyn-analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
-    *   [StyleCopAnalyzers (⭐2.5k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
+    *   [DevSkim (⭐897)](https://github.com/Microsoft/DevSkim) - A set of IDE plugins and rules that provide security "linting" capabilities.
+    *   [RefactoringEssentials (⭐641)](https://github.com/icsharpcode/RefactoringEssentials) - Refactoring Essentials for Visual Studio.
+    *   [roslyn-analyzers (⭐1.6k)](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
+    *   [StyleCopAnalyzers (⭐2.6k)](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - StyleCop rules using the .NET Compiler Platform.
 
 ### Frameworks, Libraries and Tools / Security
 

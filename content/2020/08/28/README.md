@@ -38,14 +38,14 @@
 
 ### Resources / Examples
 
-*   [Vue-Next-TicTacToe (⭐3)](https://github.com/canersevince/Vue-Next-TicTacToe-Game) - Simple Tic Tac Toe Game made with Vue Next
+*   [Vue-Next-TicTacToe (⭐4)](https://github.com/canersevince/Vue-Next-TicTacToe-Game) - Simple Tic Tac Toe Game made with Vue Next
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [Emacs (⭐299)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐456)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Emacs (⭐303)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
+*   [Vim (⭐471)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

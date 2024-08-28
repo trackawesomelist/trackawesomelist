@@ -29,7 +29,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to machine learning with scikit-learn (⭐3.6k)](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
+*   [Introduction to machine learning with scikit-learn (⭐3.7k)](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 
 ## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 

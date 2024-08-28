@@ -97,7 +97,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-tree (⭐656)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐690)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Plugins
 
-*   🎨🧩 [CSS Variables (⭐214)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
+*   🎨🧩 [CSS Variables (⭐220)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 
 ### Learning
 

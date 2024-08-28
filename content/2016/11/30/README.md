@@ -919,7 +919,7 @@
 ### Offline Browsing / Telegram
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐210)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐213)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
@@ -992,7 +992,7 @@
 
 ### Awesome Repositories
 
-- Repository: [OSINT (⭐16k)](https://github.com/jivoi/awesome-osint)
+- Repository: [OSINT (⭐18k)](https://github.com/jivoi/awesome-osint)
 
   Description: List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 
@@ -1002,7 +1002,7 @@
 
 ### Math / Other
 
-*   [Learning Maths again (⭐192)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+*   [Learning Maths again (⭐193)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 ## [7. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

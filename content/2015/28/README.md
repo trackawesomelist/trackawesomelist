@@ -22,7 +22,7 @@
 
 ### Packages / Hardware
 
-*   [i2c-bus (⭐344)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+*   [i2c-bus (⭐346)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 ### Packages / Testing
 

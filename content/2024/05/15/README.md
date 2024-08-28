@@ -1,39 +1,30 @@
 # Awesome List Updates on May 15, 2024
 
-23 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
-
-### Features
-
-*   [End-to-end encryption for state files](https://opentofu.org/docs/intro/whats-new/#state-encryption)
-*   [Provider-defined functions](https://opentofu.org/docs/intro/whats-new/#provider-defined-functions)
-*   [Removed block](https://opentofu.org/docs/intro/whats-new/#removed-block)
-*   [Loopable import blocks](https://opentofu.org/docs/intro/whats-new/#loopable-import-blocks)
-
-## [2. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [1. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Tools and Frameworks / Document analysis, transcription, and labeling
 
 *   [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing & processing collections of digitized documents
 
-## [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Resources / Talks and videos
 
 *   [Polars - An Optimized Dataframe Library](https://www.youtube.com/watch?v=6FEvTwmMbOo) ⏳ 84 min - A video that compares the main features of Polars with those of Pandas, with a focus on speeding up your data pipeline by [@mattharrison](https://github.com/mattharrison).
 
-## [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Pipecat (⭐2.1k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Pipecat (⭐2.8k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -49,26 +40,26 @@
 
 *   [Prosopo](https://prosopo.io/) - Bot protection & web security company. Fully remote team based in UK. Typescript, Rust, Open Source.
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [DreamCoder: growing generalizable, interpretable knowledge with wake–sleep Bayesian program learning](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0050) - ***Philosophical Transactions of the Royal Society A***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=11356436337624711843)]. \[[Preprint](https://arxiv.org/abs/2006.08381)]. This paper presents DreamCoder, a system that learns to solve problems by writing programs. It builds expertise by creating domain-specific programming languages for expressing domain concepts, together with neural networks to guide the search for programs within these languages. A ‘wake–sleep’ learning algorithm alternately extends the language with new symbolic abstractions and trains the neural network on imagined and replayed problems. DreamCoder solves both classic inductive programming tasks and creative tasks such as drawing pictures and building scenes.
 
-## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [Best practices organizing performance testing projects with k6](https://grafana.com/blog/2024/04/30/organizing-your-grafana-k6-performance-testing-suite-best-practices-to-get-started/) - Guidelines to scale your performance testing across multiple teams and projects.
-    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/).
+    *   [Part 2 - JavaScript tools, shared libraries, and TypeScript](https://grafana.com/blog/2024/05/02/setting-up-your-grafana-k6-performance-testing-suite-javascript-tools-shared-libraries-and-more/) - Stting up your k6 performance testing suite with JavaScript tools, shared libraries, and TypeScript.
 
-## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Discussion Groups and Mailing Lists
 
@@ -92,19 +83,19 @@
 
 *   [Admin Portal for User and Organization management by p2-inc (⭐18)](https://github.com/p2-inc/phasetwo-admin-portal)
 *   [Email Notifications when login from a new IP and Login History (⭐5)](https://github.com/eliskachylikova/keycloak-extensions)
-*   [Keycloak Authenticator for Duo's Universal Prompt (⭐48)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
-*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐101)](https://github.com/anarsultanov/keycloak-multi-tenancy)
+*   [Keycloak Authenticator for Duo's Universal Prompt (⭐49)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
+*   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐104)](https://github.com/anarsultanov/keycloak-multi-tenancy)
 
 ### Integrations
 
 *   [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
-*   [mantelo (Python Admin Client) (⭐10)](https://github.com/derlin/mantelo)
+*   [mantelo (Python Admin Client) (⭐14)](https://github.com/derlin/mantelo)
 
 ### Themes
 
 *   [Keycloak login theme template (⭐36)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Extension for runtime loading of CSS themes (⭐26)](https://github.com/p2-inc/keycloak-themes)
-*   [3 CSS-only Keycloak theme examples (⭐26)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*   [Extension for runtime loading of CSS themes (⭐28)](https://github.com/p2-inc/keycloak-themes)
+*   [3 CSS-only Keycloak theme examples (⭐28)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ### Docker
 
@@ -125,7 +116,7 @@
 *   Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
 *   [Skycloak](https://skycloak.io/)
 
-## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing
 
@@ -135,13 +126,13 @@
 
 *   [Graphic methods for presenting facts](https://archive.org/details/graphicmethodsfo00brinrich/page/336/mode/2up?view=theater\&ui=embed\&wrapper=false) - A way to optimize pricing using a physical model made in plaster of Paris, from 1914.
 
-## [11. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [10. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Cognitive Tools / Behavioral
 
 *   [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/) - Research shows the devastating effect of interrupting developers: 1. 15 min is required to resume work; 2. A programmer get just one uninterrupted 2-hour session in a day; 3. Worst time to interrupt: during edits, searches & comprehension.
 
-## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Swift
 
@@ -151,7 +142,7 @@
 
 *   [Matthaus Woolard](https://github.com/hishnash)
 
-## [13. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+## [12. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ### Mirth Extensions
 
@@ -162,7 +153,7 @@
 *   📝 [Code template for TLS (⭐11)](https://github.com/pacmano1/mirthstunnel) - For users without the TLS plugin, this code template library uses stunnel to enable in and outbound TLS connections. It is an attempt to ease the configuration of stunnel and do it on the fly.
 *   📝 [Create SOAP WebService](https://cboyer.github.io/developpement/mirth-webservice-soap/) - French article to create a custom SOAP Webservice with java
 
-## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Articles
 
@@ -203,13 +194,13 @@
 
 *   [Awesome Platform Engineering (⭐305)](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for *Platform Engineering*
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
-*   [ex\_azure\_speech (⭐2)](https://github.com/ex-azure/ex_azure_speech) - An Elixir SDK implementation for the Microsoft Azure Speech Service.
+*   [ex\_azure\_speech (⭐3)](https://github.com/ex-azure/ex_azure_speech) - An Elixir SDK implementation for the Microsoft Azure Speech Service.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
@@ -219,50 +210,38 @@
 
 *   [AppFit](https://appfit.io) - AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.
 
-## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-cli-diff (⭐329)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
-*   [mantis-cli (⭐62)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
+*   [angular-cli-diff (⭐328)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+*   [mantis-cli (⭐63)](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 
-## [18. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [17. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐84)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐114)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
-## [19. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Design
-
-*   [OpenAPI Generator (⭐20k) (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-
-### Projects / ETL
-
-*   [Pentaho Data Integration (⭐7.4k) (⭐7.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Workflow engine
-
-*   [Temporal (⭐10k) (⭐11k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
+## [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Articles
 
 *   [API-Security-Checklist (⭐22k) (⭐22k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
 
-## [20. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [19. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Automatic translation for end users
 
 *   [Alexa Translations](https://alexatranslations.com/) - Alexa Translations A.I. brings leading AI and machine translation to the legal, financial and government sectors.
 
-## [21. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [20. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Monitoring
 
 *   [WebGazer](https://www.webgazer.io) `requires-approval` - Uptime and cron job monitoring with hosted status pages.
 
-## [22. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [21. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
@@ -276,11 +255,11 @@
 *   [How to Watercolor Paint with a Robotic Drawing Machine: An Interview with Licia He](https://www.dirtalleydesign.com/blogs/news/how-to-watercolor-painting-with-a-robotic-drawing-machine-an-interview-with-licia-he)
 *   [300 Days with Plotters](https://liciahe.medium.com/300-days-with-plotters-14159ab64034) - Blog post by Licia He about a successful 100 day plotting challenge.
 
-## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [22. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Community providers
 
-*   [terraform-provider-uname (⭐1)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+*   [terraform-provider-uname (⭐4)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 
 ### Tools / Community providers
 

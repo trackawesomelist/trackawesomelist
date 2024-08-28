@@ -36,13 +36,13 @@
 
 ### Authentication
 
-*   [oauther (⭐66)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
+*   [oauther (⭐67)](https://github.com/lexmag/oauther) - An OAuth 1.0 implementation for Elixir.
 
 ### Build Tools
 
-*   [coffee\_rotor (⭐16)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
+*   [coffee\_rotor (⭐17)](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 *   [reltool\_util (⭐26)](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
-*   [rotor (⭐82)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+*   [rotor (⭐83)](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 
 ### Cloud Infrastructure and Management
 
@@ -69,11 +69,11 @@
 
 ### Images
 
-*   [mogrify (⭐556)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
+*   [mogrify (⭐558)](https://github.com/route/mogrify) - An Elixir wrapper for ImageMagick command line.
 
 ### Miscellaneous
 
-*   [address\_us (⭐29)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
+*   [address\_us (⭐30)](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
 *   [erlang\_term (⭐34)](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 *   [keys1value (⭐1)](https://github.com/okeuday/keys1value) - Erlang set associative map for key lists.
 

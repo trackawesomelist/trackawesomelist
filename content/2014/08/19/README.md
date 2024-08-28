@@ -31,7 +31,7 @@
 
 ### Packages / Network
 
-*   [ipify (⭐268)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐270)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ---
 

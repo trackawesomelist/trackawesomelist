@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Ether.Network (⭐10)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
+*   [Ether.Network (⭐11)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

@@ -18,68 +18,34 @@
 
 ## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **RAG Solution Design & Application**
-
-*   RAG Solution Design
-    *   [Azure: Designing and developing a RAG solution](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
-        *   [Announcing cost-effective RAG at scale with Azure AI Search](https://aka.ms/AAqfqla)
-        *   [Advanced RAG with Azure AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
-        *   [GPT-RAG (⭐776)](https://github.com/Azure/GPT-RAG): Enterprise RAG Solution Accelerator \[Jun 2023]
-        *   [Azure OpenAI chat baseline architecture in an Azure landing zone](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone)
-        *   Azure Reference Architectures: [X-ref](#azure-reference-architectures)
-    *   [RAG at scale](https://medium.com/@neum_ai/retrieval-augmented-generation-at-scale-building-a-distributed-system-for-synchronizing-and-eaa29162521) \[28 Sep 2023]
-    *   [Langchain RAG from scratch (⭐1.6k)](https://github.com/langchain-ai/rag-from-scratch) \[Jan 2024]
-    *   [LlamIndex Building Performant RAG Applications for Production](https://docs.llamaindex.ai/en/stable/optimizing/production_rag/#building-performant-rag-applications-for-production)
-    *   [Advanced RAG on Hugging Face documentation using LangChain](https://huggingface.co/learn/cookbook/advanced_rag)
-    *   RAG context relevancy metric: Ragas, TruLens, DeepEval [ref](https://towardsdatascience.com/the-challenges-of-retrieving-and-evaluating-relevant-context-for-rag-e362f6eaed34) \[Jun 2024]
-        *   `Context Relevancy (in Ragas) = S / Total number of sentences in retrieved context`
-        *   `Contextual Relevancy (in DeepEval) = Number of Relevant Statements / Total Number of Statements`
-    *   [Papers with code](https://paperswithcode.com/method/rag)
-    *   [What AI Engineers Should Know about Search](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search) \[25 Jun 2024]
-    *   [GraphRAG](https://arxiv.org/abs/2404.16130): Original Documents -> Knowledge Graph (Group Summaries) -> Partial Responses -> Final Response
-        [ref](https://microsoft.github.io/graphrag) [git (⭐6.7k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
-    *   [Learn RAG with Langchain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
-*   RAG Application
-    *   [RAG capabilities of LlamaIndex to QA about SEC 10-K & 10-Q documents (⭐2.2k)](https://github.com/run-llama/sec-insights): A real world full-stack application using LlamaIndex \[Sep 2023]
-    *   [RAGxplorer (⭐1k)](https://github.com/gabrielchua/RAGxplorer): Visualizing document chunks and the queries in the embedding space. \[Jan 2024]
-    *   [PrivateGPT (⭐53k)](https://github.com/imartinez/privateGPT): 100% privately, no data leaks 1. The API is built using FastAPI and follows OpenAI's API scheme. 2. The RAG pipeline is based on LlamaIndex. \[May 2023]
-    *   [Danswer (⭐9.8k)](https://github.com/danswer-ai/danswer): Ask Questions in natural language and get Answers backed by private sources: Slack, GitHub, Confluence, etc. \[Apr 2023]
-    *   [Verba](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/verba.weaviate.io) Retrieval Augmented Generation (RAG) chatbot powered by Weaviate [git (⭐4.9k)](https://github.com/weaviate/Verba) \[Jul 2023]
-    *   [llm-answer-engine (⭐4.3k)](https://github.com/developersdigest/llm-answer-engine): Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper \[Mar 2024]
-    *   [turboseek (⭐605)](https://github.com/Nutlope/turboseek): An AI search engine inspired by Perplexity \[May 2024]
-    *   [quivr (⭐34k)](https://github.com/QuivrHQ/quivr): A personal productivity assistant (RAG). Chat with your docs (PDF, CSV, ...) \[May 2023]
-    *   [RAGApp](https://github.com/ragapp): Agentic RAG. custom GPTs, but deployable in your own cloud infrastructure using Docker. \[Apr 2024]
-    *   [Cognita (⭐3k)](https://github.com/truefoundry/cognita): RAG (Retrieval Augmented Generation) Framework for building modular, open source applications \[Jul 2023]
-    *   [Perplexica (⭐11k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [github topic](https://github.com/topics/perplexity)
-    *   [AutoRAG (⭐1.1k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
-    *   [RAGflow (⭐11k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
-
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 
 *   Azure OpenAI Accelerator
-    *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐302)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
+    *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐316)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
     *   [Conversational-Azure-OpenAI-Accelerator (⭐63)](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) \[Feb 2022]
-    *   ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) Demo [git (⭐5.6k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[8 Feb 2023]
-    *   Azure OpenAI samples: [ref (⭐503)](https://github.com/Azure/azure-openai-samples) \[Apr 2023]
-    *   The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.: [ref (⭐989)](https://github.com/Azure-Samples/openai) \[Apr 2023]
+    *   ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) Demo [git (⭐5.8k)](https://github.com/Azure-Samples/azure-search-openai-demo) 🏆 \[8 Feb 2023]
+    *   Azure OpenAI samples: [ref (⭐513)](https://github.com/Azure/azure-openai-samples) \[Apr 2023]
+    *   The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.: [ref (⭐1k)](https://github.com/Azure-Samples/openai) \[Apr 2023]
     *   Azure-Samples [ref](https://github.com/Azure-Samples)
-        *   Azure OpenAI with AKS By Terraform: [git (⭐41)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
-        *   Azure OpenAI with AKS By Bicep: [git (⭐26)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
-        *   Enterprise Logging: [git (⭐165)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023]
-        *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐39)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
-        *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐434)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
-        *   GPT-Azure-Search-Engine: [git (⭐362)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
+        *   Azure OpenAI with AKS By Terraform: [git (⭐42)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
+        *   Azure OpenAI with AKS By Bicep: [git (⭐27)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
+        *   Enterprise Logging: [git (⭐173)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐77)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
+        *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐42)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
+        *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐435)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
+        *   GPT-Azure-Search-Engine: [git (⭐369)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
         *   Azure OpenAI Network Latency Test Script
             : [git (⭐1)](https://github.com/wloryo/networkchatgpt/blob/dc76f2264ff8c2a83392e6ae9ee2aaa55ca86f0e/openai_network_latencytest_nocsv_pub_v1.1.py) \[Jun 2023]
-        *   Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform [git (⭐124)](https://github.com/Azure-Samples/container-apps-openai/) \[Jul 2023]
+        *   Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform [git (⭐129)](https://github.com/Azure-Samples/container-apps-openai/) \[Jul 2023]
+        *   [Azure SQL DB + AOAI (⭐54)](https://github.com/Azure-Samples/SQL-AI-samples) / [Smart load balancing for AOAI (⭐36)](https://github.com/Azure-Samples/openai-aca-lb) / [Azure Functions (C#) bindings for OpenAI (⭐69)](https://github.com/Azure/azure-functions-openai-extension) / [Microsoft Entra ID Authentication for AOAI (⭐21)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) / [Azure OpenAI workshop (⭐467)](https://github.com/microsoft/OpenAIWorkshop) / [RAG for Azure Data (⭐108)](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) / [AI-Sentry (⭐11)](https://github.com/microsoft/ai-sentry): A lightweight, pluggable facade layer for AOAI
     *   Azure Open AI work with Cognitive Search act as a Long-term memory
-        1.  [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (⭐5.6k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]
+        1.  [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (⭐5.8k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]
         2.  [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ) \[06 Apr 2023]
         3.  [Azure OpenAI と Azure Cognitive Search の組み合わせを考える](https://qiita.com/nohanaga/items/59e07f5e00a4ced1e840) \[24 May 2023]
-    *   [AI-in-a-Box (⭐461)](https://github.com/Azure/AI-in-a-Box): AI-in-a-Box aims to provide an "Azure AI/ML Easy Button" for common scenarios \[Sep 2023]
-    *   [AI Samples for .NET (⭐220)](https://github.com/dotnet/ai-samples):  official .NET samples demonstrating how to use AI \[Feb 2024]
-    *   [OpenAI Official .NET Library (⭐738)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
-    *   [Smart Components (⭐634)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
+    *   [AI-in-a-Box (⭐491)](https://github.com/Azure/AI-in-a-Box): AI-in-a-Box aims to provide an "Azure AI/ML Easy Button" for common scenarios \[Sep 2023]
+    *   [AI Samples for .NET (⭐250)](https://github.com/dotnet/ai-samples):  official .NET samples demonstrating how to use AI \[Feb 2024]
+    *   [OpenAI Official .NET Library (⭐950)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
+    *   [Smart Components (⭐689)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
+    *   [Prompt Buddy (⭐143)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
@@ -89,7 +55,7 @@
 
 *   [LLMにまつわる"評価"を整理する](https://zenn.dev/seya/articles/dd0010601b3136) \[06 Jun 2024]
 
-### **Challenges in evaluating AI systems** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **Challenges in evaluating AI systems** / Math
 
 *   [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) \[29 Mar 2024] / [How to Evaluate LLM Applications: The Complete Guide](https://www.confident-ai.com/blog/how-to-evaluate-llm-applications) \[7 Nov 2023]
 
@@ -115,7 +81,7 @@
 
 ### UI Libraries
 
-*   [SVAR Core for Svelte (⭐9)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+*   [SVAR Core for Svelte (⭐10)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

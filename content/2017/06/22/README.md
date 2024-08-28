@@ -44,7 +44,7 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [halcyon (⭐79)](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
+*   [halcyon (⭐81)](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

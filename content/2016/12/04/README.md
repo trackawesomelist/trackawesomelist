@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -223,42 +223,7 @@
 *   [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 *   [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Go for Javascript Developers (⭐1.2k)](https://github.com/bulim/go-for-javascript-developers)
-
-### Linux / TeX
-
-*   [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
-
-### Python / Pandas
-
-*   [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
-
-### Python / Tornado
-
-*   [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
-
-### R / Tornado
-
-*   [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
-*   [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
-*   [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
-*   [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
-*   [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
-*   [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
-
-### Ruby / Ruby on Rails
-
-*   [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
-
-## [9. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

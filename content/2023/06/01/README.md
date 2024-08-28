@@ -16,7 +16,7 @@
 
 ### Third-Party Packages / APIs
 
-*   [drf-spectacular (⭐2.2k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+*   [drf-spectacular (⭐2.3k)](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [google/executor.nvim (⭐141)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
+*   [google/executor.nvim (⭐143)](https://github.com/google/executor.nvim) - Allows you to run command line tasks in the background and be notified of results.
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

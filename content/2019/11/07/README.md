@@ -148,7 +148,7 @@
 ### Python / Reinforcement Learning
 
 *   [garage (⭐1.8k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
-*   [metaworld (⭐1.1k)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+*   [metaworld (⭐1.2k)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
 ## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

@@ -83,7 +83,7 @@
 
 *   [Last.fm RSS Feeds](https://lfm.xiffy.nl/) <sup>[807](https://t.me/s/aboutrss/807)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/xiffy/lfm)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2Notification / For Android device
+### RSS2Notification / RSS2GitHubProfile
 
 *   [Truepush](https://www.truepush.com/blog/rss-to-push-notifications/) <sup>[797](https://t.me/s/aboutrss/797)</sup>
 *   [pushMonkey](https://blog.getpushmonkey.com/automate-push-notifications-rss-feeds/) <sup>[797](https://t.me/s/aboutrss/797)</sup>

@@ -54,7 +54,7 @@
 
 ### General
 
-*   [Bootstrap Icons (⭐7.1k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
+*   [Bootstrap Icons (⭐7.3k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
 
 ## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐211)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐216)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

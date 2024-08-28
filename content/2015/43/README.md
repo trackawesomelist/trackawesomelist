@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2015
 
-35 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -75,11 +75,11 @@
 
 ### Deployment
 
-*   [DbUp (⭐2.1k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
+*   [DbUp (⭐2.3k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 ### Micro Framework
 
-*   [.NET Micro Framework Interpreter (⭐486)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+*   [.NET Micro Framework Interpreter (⭐487)](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ### Office
 
@@ -293,7 +293,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Code Analysis and Metrics
 
-*   [Traceroute (⭐894)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+*   [Traceroute (⭐895)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ### Core Extensions
 
@@ -318,7 +318,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐207k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐208k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
 ## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -467,20 +467,6 @@ Beginning with taking you through essential data mining and management tasks suc
 ### Images, Maps and Charts / Paid Books
 
 *   [Cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
-
-## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C# / Non-X86
-
-*   [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
-
-### Prolog / Zend
-
-*   [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
-
-### TypeScript / Vapor
-
-*   [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ---
 

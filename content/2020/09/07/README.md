@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Debugging Tools
 
-*   [tapping\_device (⭐448)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
+*   [tapping\_device (⭐449)](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 
 ## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
@@ -89,31 +89,25 @@
 
 *   [Randommer](https://randommer.io/) - Random data generator and validator.
 
-## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
-
-### Conventions
-
-*   Any list item with a Paper :newspaper: has a scientific paper or detailed description
-
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Meaning of Symbols:
 
 *   :warning: means that this tool was not updated for more than 1 year, or the repo was archived.
 
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
 *   [react-customizable-chat-bot (⭐17)](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
-## [11. Awesome Internships](/content/lodthe/awesome-internships/README.md)
+## [10. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
 ### Feedback on your CV
 
 *   [TopCV](https://www.topcv.com) - Get detailed feedback from experts.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Code Pipeline
 

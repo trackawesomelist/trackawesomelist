@@ -22,7 +22,7 @@
 
 ### Personality
 
-- API: [Dictum (⭐152)](https://github.com/fisenkodv/dictum)
+- API: [Dictum (⭐159)](https://github.com/fisenkodv/dictum)
 
   Description: API to get access to the collection of the most inspiring expressions of mankind
 

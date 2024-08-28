@@ -137,7 +137,7 @@
 
 ### Scripts / YouTube
 
-*   [YouTube Subtitle Download (⭐788)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+*   [YouTube Subtitle Download (⭐805)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 ---
 

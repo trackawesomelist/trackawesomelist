@@ -18,13 +18,13 @@
 
 ### Tools / Market Crawlers
 
-*   [Google Play crawler (Java) (⭐548)](https://github.com/Akdeniz/google-play-crawler)
-*   [Google Play crawler (Python) (⭐864)](https://github.com/egirault/googleplay-api)
-*   [Google Play crawler (Node) (⭐267)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
+*   [Google Play crawler (Java) (⭐560)](https://github.com/Akdeniz/google-play-crawler)
+*   [Google Play crawler (Python) (⭐878)](https://github.com/egirault/googleplay-api)
+*   [Google Play crawler (Node) (⭐269)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
 
 ### Academic/Research/Publications/Books / Research Papers
 
-*   [Android security-related presentations (⭐164)](https://github.com/jacobsoo/AndroidSlides)
+*   [Android security-related presentations (⭐165)](https://github.com/jacobsoo/AndroidSlides)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -40,13 +40,13 @@
 
 ### Community Extensions
 
-*   [rciam/keycloak-group-management (⭐10)](https://github.com/rciam/keycloak-group-management)
+*   [rciam/keycloak-group-management (⭐11)](https://github.com/rciam/keycloak-group-management)
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Productivity
 
-*   [Furtherance (⭐241)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
+*   [Furtherance (⭐251)](https://github.com/lakoliu/Furtherance) - Time tracking app built with GTK4
 
 ### Applications / System tools
 
@@ -91,7 +91,7 @@
 
 ### Themes
 
-*   [tmux-snazzy (⭐10)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+*   [tmux-snazzy (⭐11)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

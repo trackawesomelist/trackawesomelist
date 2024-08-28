@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2020
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,26 +12,7 @@
 
 *   [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Elixir / Phoenix
-
-*   [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
-
-### Erlang / Phoenix
-
-*   [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
-
-### Linux / TeX
-
-*   [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
-
-### R / Tornado
-
-*   [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
-*   [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
-
-## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [2. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Tutorial Websites
 
@@ -43,19 +24,19 @@
 
 
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Continuous Integration & Continuous Deployment
 
 *   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4.5k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [NanoGui (⭐1.5k)](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -63,9 +44,9 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BalmUI (⭐500)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+*   [BalmUI (⭐504)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2017
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Others
 
-*   [Functional Structures Refactoring Kata (⭐31)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
+*   [Functional Structures Refactoring Kata (⭐32)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 
 ## [2. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
@@ -130,29 +130,19 @@ Topics: Developer Tools, JavaScript\
 
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### C / Non-X86
-
-*   [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
-
-### Elixir / Non-X86
-
-*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐143)](https://github.com/radar/joyofelixir) *(:construction: in process)*
-
-## [5. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [4. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [5. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### PCB Batching Services / Altium
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
@@ -167,7 +157,7 @@ Topics: Developer Tools, JavaScript\
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Reproducible Research
 
@@ -185,13 +175,13 @@ Topics: Developer Tools, JavaScript\
 
 *   [RStudio Addins (⭐819)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [9. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 

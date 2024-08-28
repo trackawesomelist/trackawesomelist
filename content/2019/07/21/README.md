@@ -31,12 +31,12 @@
 
 ### Resources / Examples
 
-*   [Snake game on Vue.js without Canvas (⭐44)](https://github.com/Seokky/vue-snake-game)
+*   [Snake game on Vue.js without Canvas (⭐46)](https://github.com/Seokky/vue-snake-game)
 
 ### Projects Using Vue.js / Open Source
 
 *   [vue-realworld-example-app (⭐4.1k)](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
-*   [Daily (⭐17k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+*   [Daily (⭐18k)](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 
 ### Components & Libraries / UI Components
 
@@ -46,7 +46,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Mixcore CMS (⭐662)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
+*   [Mixcore CMS (⭐797)](https://github.com/mixcore/mix.core) - Open Source CMS powered by DotNet Core. Mixcore CMS is a scalable, open platform for web content management and digital experiences. Mixcore CMS provides deep capabilities and endless flexibility on the web.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

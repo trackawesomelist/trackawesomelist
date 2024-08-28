@@ -74,14 +74,10 @@
 
 ## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
-### Multimedia
-
-*   [Vocal (⭐350)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -89,7 +85,7 @@
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

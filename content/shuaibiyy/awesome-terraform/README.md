@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Aug 28, 2024](/content/2024/08/28/README.md)
+
+### Providers / Community providers
+
+*   [terraform-provider-proxmox (⭐2.1k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+
 ## [Aug 23, 2024](/content/2024/08/23/README.md)
 
 ### Tools / Community providers
@@ -360,7 +366,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Tools / Community providers
 
-*   [tf-profile (⭐147)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐148)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 
 ## [May 21, 2023](/content/2023/05/21/README.md)
 

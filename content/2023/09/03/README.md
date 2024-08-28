@@ -10,7 +10,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Embedbase (⭐488)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+*   [Embedbase (⭐493)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 

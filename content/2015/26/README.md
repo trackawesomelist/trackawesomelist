@@ -73,6 +73,9 @@
 ### Web Apps (frontend only) / [The Guardian](https://github.com/guardian/frontend)
 
 *   play2, scala, node
+
+### Desktop Apps / [Daytona](https://github.com/daytonaio/daytona)
+
 *   Apache 2.0 License
 
 ### Web Apps (frontend only) / [Ghost](https://github.com/TryGhost/Ghost)
@@ -137,19 +140,19 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐34)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐35)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐460)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐462)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
-*   [crul (⭐112)](https://github.com/porras/crul) - Command line HTTP client
+*   [crul (⭐113)](https://github.com/porras/crul) - Command line HTTP client
 
 ### Testing
 
-*   [webmock.cr (⭐102)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+*   [webmock.cr (⭐103)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ### Third-party APIs
 
@@ -174,17 +177,17 @@
 *   [blocking\_queue (⭐52)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 *   [count\_buffer (⭐2)](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 *   [exfsm (⭐11)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-*   [fuse (⭐498)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
+*   [fuse (⭐499)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 
 ### Behaviours and Interfaces
 
-*   [connection (⭐263)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
+*   [connection (⭐265)](https://github.com/fishcakez/connection) - Connection behaviour for connection processes. The API is superset of the GenServer API.
 
 ### Build Tools
 
 *   [pc (⭐65)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 *   [rebar3\_eqc (⭐13)](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
-*   [relx (⭐692)](https://github.com/erlware/relx) - A release assembler for Erlang.
+*   [relx (⭐695)](https://github.com/erlware/relx) - A release assembler for Erlang.
 
 ### Encoding and Compression
 
@@ -247,7 +250,7 @@
 ### Third Party APIs
 
 *   [airbrake (⭐27)](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
-*   [elixir\_authorizenet (⭐10)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
+*   [elixir\_authorizenet (⭐11)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
 *   [feedlex (⭐3)](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
 *   [m2x](https://github.com/attm2x/m2x-elixir) - Elixir client for the AT\&T M2X, a cloud-based fully managed time-series data storage service for network connected machine-to-machine (M2M) devices and the Internet of Things (IoT). ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 *   [reporter (⭐4)](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
@@ -259,7 +262,7 @@
 
 ### XML
 
-*   [erlsom (⭐263)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
+*   [erlsom (⭐264)](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
 *   [xmlrpc (⭐40)](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
 
 ### Reading
@@ -455,7 +458,7 @@
 
 ### Open Source / Other
 
-*   [Loop Drop (⭐824)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+*   [Loop Drop (⭐825)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ### Closed Source / Other
 
@@ -463,7 +466,7 @@
 
 ### For Electron / Other
 
-*   [electron-debug (⭐733)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐739)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 
 ### Videos / Other
 

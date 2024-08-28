@@ -45,16 +45,16 @@
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
-*   [nopCommerce (⭐8.5k)](https://github.com/nopSolutions/nopCommerce) - Free open-source ecommerce shopping cart (ASP.NET MVC / ASP.NET Core MVC ) with a vast community and a market place full of new features, themes and plugins.
-*   [GrandNode (⭐1.9k)](https://github.com/grandnode/grandnode) - Multi-platform, free, open source ecommerce shopping cart based on ASP.NET Core 2.1 and MongoDB derived from [nopCommerce (⭐8.5k)](https://github.com/nopSolutions/nopCommerce).
+*   [nopCommerce (⭐9.1k)](https://github.com/nopSolutions/nopCommerce) - Free open-source ecommerce shopping cart (ASP.NET MVC / ASP.NET Core MVC ) with a vast community and a market place full of new features, themes and plugins.
+*   [GrandNode (⭐1.9k)](https://github.com/grandnode/grandnode) - Multi-platform, free, open source ecommerce shopping cart based on ASP.NET Core 2.1 and MongoDB derived from [nopCommerce (⭐9.1k)](https://github.com/nopSolutions/nopCommerce).
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [PetaPoco (⭐2k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCO's.
+*   [PetaPoco (⭐2.1k)](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCO's.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [Algolia.Search (⭐116)](https://github.com/algolia/algoliasearch-client-csharp) - Repository for the official Algolia .NET client.
+*   [Algolia.Search (⭐119)](https://github.com/algolia/algoliasearch-client-csharp) - Repository for the official Algolia .NET client.
 
 ## [6. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 

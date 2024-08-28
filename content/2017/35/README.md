@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2017
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,23 +42,13 @@
 
 *   [ASP.NET Identity (⭐2k)](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Objective-C / PicoLisp
-
-*   [Google's Objective-C Style Guide (⭐37k)](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
-
-### PowerShell / Zend
-
-*   [Mastering PowerShell v2](http://community.idera.com/powershell/powertips/b/ebookv2#pi619PostSortOrder=Ascending)
-
-## [8. Jstips](/content/loverajoel/jstips/week/README.md)
+## [7. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
 *   73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Plotting / Third-party APIs
 
@@ -66,13 +56,13 @@
     lispy, structure-less Gnuplot library. With its
     [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL](http://opensource.franz.com/preamble.html)
 
-## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [9. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)) - Guide to setup Slack notifications (can be modified for other services).
 
-## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Browser automation
 
@@ -103,13 +93,13 @@
 *   [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
 *   [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
 
-## [12. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [has (⭐594)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -119,7 +109,7 @@
 
 *   [MMPlayerView (⭐730)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
-## [14. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -185,13 +175,13 @@
 
 *   [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 
-## [15. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [14. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
 *   [Summit 2017](https://www.youtube.com/watch?v=TDpiyrcOO30\&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 
-## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [15. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
@@ -201,32 +191,32 @@
 *   [Nederland](http://www.meetup.com/Domain-Driven-Design-Nederland/)
 *   [Phoenix](https://www.meetup.com/DDD-Phoenix)
 
-## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
 *   [Resilience4j (⭐9.1k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
-## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Authentication
 
 *   [pyramid\_ldap3 (⭐11)](https://github.com/Cito/pyramid_ldap3) - Provides LDAP authentication
     services for your Pyramid application based on the ldap3 package.
 
-## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [gradient-string (⭐1k)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
-## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Topic-specific
 
 *   *[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)*, by Anne-Marie Slaughter (2017); applies network science to world politics.
 
-## [21. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
@@ -237,14 +227,14 @@
 
 *   [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 
-## [22. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [21. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [d3 (⭐107k)](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 *   [Konva (⭐10k)](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
-## [23. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -256,13 +246,13 @@
 *   [Example of custom password hash SPI for Keycloak (⭐24)](https://github.com/pavelbogomolenko/keycloak-custom-password-hash)
 *   [Example for a custom http-client-provider with Proxy support (⭐3)](https://github.com/xiaoyvr/custom-http-client-provider)
 
-## [24. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Attentive Object Tracking (⭐146)](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 
-## [25. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [24. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
@@ -285,13 +275,13 @@
 *   **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo (⭐116)](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 *   **iMessage Spam Detection** - Detect whether a message is spam. [Download (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo (⭐35)](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 
-## [26. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [25. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
 *   [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port (⭐22)](https://github.com/Anshuman-Verma/ongaku-desktop).
 
-## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [26. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -304,7 +294,7 @@
 *   [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 *   [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Datastores / Online resources
 
@@ -317,7 +307,7 @@
 *   [chamber (⭐2.4k)](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 *   [passpie (⭐923)](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 
@@ -342,13 +332,13 @@
 
 *   [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 
-## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [29. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Startup Benchmarks - <https://www.startupbenchmarks.com/>
 
-## [31. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
@@ -358,13 +348,13 @@
 
 *   [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [FluentDateTime (⭐623)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
+*   [FluentDateTime (⭐689)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
-## [33. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [32. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Support Causes You Care About
 
@@ -391,7 +381,7 @@
 
 *   [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
 
-## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [33. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
@@ -401,13 +391,13 @@
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Interactive / Other
 

@@ -158,8 +158,8 @@
 
 *   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐310k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐9.7k)](https://github.com/jnv/lists)
+*   [sindresorhus/awesome (⭐312k)](https://github.com/sindresorhus/awesome)
+*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
 
 ---
 

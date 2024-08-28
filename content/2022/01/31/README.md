@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2022
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [macroquad (⭐3k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+*   :tada: [macroquad (⭐3.1k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -24,37 +24,31 @@
 
 *   [ynuwenhof/zigbraten (⭐1)](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / VPN
-
-*   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall. ([Source Code (⭐6.3k)](https://github.com/firezone/firezone)) `Apache-2.0` `Docker`
-
-## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / DDoS Tools
 
 *   [D(HE)ater (⭐175)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Other Development Tools / Smart Contracts
 
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐2)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
 *   [deepface (⭐11k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐1k)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [retinaface (⭐1.1k)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐446)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐453)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
-## [8. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -73,13 +67,13 @@
 
 *   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources and database for swiss socio-political topics.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-promise-dialog (⭐68)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / WebSocket
 
@@ -89,7 +83,7 @@
 
 *   [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -109,7 +103,7 @@
 
 ### Entertainment
 
-- API: [Corporate Buzz Words (⭐282)](https://github.com/sameerkumar18/corporate-bs-generator-api)
+- API: [Corporate Buzz Words (⭐290)](https://github.com/sameerkumar18/corporate-bs-generator-api)
 
   Description: REST API for Corporate Buzz Words
 
@@ -123,7 +117,7 @@
 
 ### Games & Comics
 
-- API: [GraphQL Pokemon (⭐136)](https://github.com/favware/graphql-pokemon)
+- API: [GraphQL Pokemon (⭐146)](https://github.com/favware/graphql-pokemon)
 
   Description: GraphQL powered Pokemon API. Supports generations 1 through 8
 

@@ -20,7 +20,6 @@
 
 *   [LlamaIndex Overview (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-001-overview-v0-7-9/) \[17 Jul 2023]
 *   [LlamaIndex Tutorial](https://nanonets.com/blog/llamaindex/): A Complete LlamaIndex Guide \[18 Oct 2023]
-*   [CallbackManager (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-003-callback-manager/) \[27 May 2023] / [Customize TokenTextSplitter (Japanese)](https://dev.classmethod.jp/articles/llamaindex-tutorial-002-text-splitter/) \[27 May 2023] / [Chat engine ReAct mode](https://gpt-index.readthedocs.io/en/stable/examples/chat_engine/chat_engine_react.html), [FLARE Query engine](https://docs.llamaindex.ai/en/stable/examples/query_engine/flare_query_engine.html)
 *   Multimodal RAG Pipeline [ref](https://blog.llamaindex.ai/multi-modal-rag-621de7525fea) \[Nov 2023]
 
 ### **Vector Database Comparison**
@@ -40,9 +39,9 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [Kernel Memory (⭐1.3k)](https://github.com/microsoft/kernel-memory): Kernel Memory (FKA. Semantic Memory (SM)) is an open-source service and plugin specialized in the efficient indexing of datasets through custom continuous data hybrid pipelines. \[Jul 2023]
+*   [Kernel Memory (⭐1.4k)](https://github.com/microsoft/kernel-memory): Kernel Memory (FKA. Semantic Memory (SM)) is an open-source service and plugin specialized in the efficient indexing of datasets through custom continuous data hybrid pipelines. \[Jul 2023]
 *   [FLAML (⭐3.8k)](https://github.com/microsoft/FLAML): A lightweight Python library for efficient automation of machine learning and AI operations. FLAML provides an seamless interface for AutoGen, AutoML, and generic hyperparameter tuning. \[Dec 2020]
-*   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐1.9k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
+*   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐2k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
 
 ### **Azure Reference Architectures** / **Azure AI Search**
 
@@ -67,93 +66,79 @@
     *   [Open AI: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2005.14165)] \[28 May 2020]
 *   [Retrieval Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2005.11401)]: To address such knowledge-intensive tasks. RAG combines an information retrieval component with a text generator model. \[22 May 2020]
 *   [Chain-of-Verification reduces Hallucination in LLMs](https://arxiv.org/abs/2309.11495): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.11495)]: A four-step process that consists of generating a baseline response, planning verification questions, executing verification questions, and generating a final verified response based on the verification results. \[20 Sep 2023]
-*   [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement`
-    to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.1k)](https://github.com/noahshinn024/reflexion)
+*   [Reflexion](https://arxiv.org/abs/2303.11366): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.11366)]: Language Agents with Verbal Reinforcement Learning. 1. Reflexion that uses `verbal reinforcement` to help agents learn from prior failings. 2. Reflexion converts binary or scalar feedback from the environment into verbal feedback in the form of a textual summary, which is then added as additional context for the LLM agent in the next episode. 3. It is lightweight and doesn’t require finetuning the LLM. \[20 Mar 2023] / [git (⭐2.2k)](https://github.com/noahshinn024/reflexion)
 
-### **Langchain Agent & Memory** / **Criticism to Langchain**
+### **LangChain Agent & Memory** / **Criticism to LangChain**
 
 *   The Problem With LangChain: [ref](https://minimaxir.com/2023/07/langchain-problem/) / [git (⭐29)](https://github.com/minimaxir/langchain-problems) \[14 Jul 2023]
 *   What’s your biggest complaint about langchain?: [ref](https://www.reddit.com/r/LangChain/comments/139bu99/whats_your_biggest_complaint_about_langchain/) \[May 2023]
 
-### **Langchain vs Competitors** / **Langchain vs LlamaIndex**
+### **LangChain vs Competitors** / **LangChain vs LlamaIndex**
 
-*   Basically LlamaIndex is a smart storage mechanism, while Langchain is a tool to bring multiple tools together. [cite](https://community.openai.com/t/llamaindex-vs-langchain-which-one-should-be-used/163139) \[14 Apr 2023]
+*   Basically LlamaIndex is a smart storage mechanism, while LangChain is a tool to bring multiple tools together. [cite](https://community.openai.com/t/llamaindex-vs-langchain-which-one-should-be-used/163139) \[14 Apr 2023]
 
-### **Langchain vs Competitors** / **Langchain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
+### **LangChain vs Competitors** / **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
 
 *   What's the difference between LangChain and Semantic Kernel?
 
-    LangChain has many agents, tools, plugins etc. out of the box. More over, LangChain has 10x more popularity, so has about 10x more developer activity to improve it. On other hand, **Semantic Kernel architecture and quality is better**, that's quite promising for Semantic Kernel. [ref (⭐20k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
+    LangChain has many agents, tools, plugins etc. out of the box. More over, LangChain has 10x more popularity, so has about 10x more developer activity to improve it. On other hand, **Semantic Kernel architecture and quality is better**, that's quite promising for Semantic Kernel. [ref (⭐21k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
 *   Using Prompt flow with Semantic Kernel: [ref](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/planners/evaluate-and-deploy-planners/) \[07 Sep 2023]
 
-### **Finetuning** / **Prompt Template Language**
+### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
 
 *   [PEFT](https://huggingface.co/blog/peft): Parameter-Efficient Fine-Tuning. PEFT is an approach to fine tuning only a few parameters. \[10 Feb 2023]
 *   [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.15647)] \[28 Mar 2023]
-*   [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.14314)]: 4-bit quantized pre-trained language model into Low Rank Adapters (LoRA). [git (⭐9.7k)](https://github.com/artidoro/qlora) \[23 May 2023]
+*   [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.14314)]: 4-bit quantized pre-trained language model into Low Rank Adapters (LoRA). [git (⭐9.8k)](https://github.com/artidoro/qlora) \[23 May 2023]
 *   [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2203.02155)] \[4 Mar 2022]
 *   [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.11206)]: fine-tuned with the standard supervised loss on <b>only 1,000 carefully curated prompts and responses, without any reinforcement learning or human preference modeling.</b> LIMA demonstrates remarkably strong performance, either equivalent or strictly preferred to GPT-4 in 43% of cases. \[18 May 2023]
-*   <details>
+*   <details open>
 
-    <summary>Expand</summary>
+    <summary>Expand: LongLoRA</summary>
 
-    1.  [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.12307)]: A combination of sparse local attention and LoRA [git (⭐2.5k)](https://github.com/dvlab-research/LongLoRA) \[21 Sep 2023]
+    1.  [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.12307)]: A combination of sparse local attention and LoRA [git (⭐2.6k)](https://github.com/dvlab-research/LongLoRA) \[21 Sep 2023]
 
-    *   Key Takeaways from LongLora
-
-        <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/longlora.png" alt="long-lora"/>
-
+    *   Key Takeaways from LongLora <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/longlora.png" alt="long-lora" width="350"/>
         1.  The document states that LoRA alone is not sufficient for long context extension.
 
         2.  Although dense global attention is needed during inference, fine-tuning the model can be done by sparse local attention, shift short attention (S2-Attn).
 
         3.  S2-Attn can be implemented with only two lines of code in training.
 
-    2.  [QA-LoRA](https://arxiv.org/abs/2309.14717): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.14717)]: Quantization-Aware Low-Rank Adaptation of Large Language Models. A method that integrates quantization and low-rank adaptation for large language models. [git (⭐100)](https://github.com/yuhuixu1993/qa-lora) \[26 Sep 2023]
+    2.  [QA-LoRA](https://arxiv.org/abs/2309.14717): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.14717)]: Quantization-Aware Low-Rank Adaptation of Large Language Models. A method that integrates quantization and low-rank adaptation for large language models. [git (⭐107)](https://github.com/yuhuixu1993/qa-lora) \[26 Sep 2023]
 
-### **Finetuning** / **Llama 2 Finetuning**
+### **Finetuning** / **Llama Finetuning**
 
 *   [Multi-query attention (MQA)](https://arxiv.org/abs/2305.13245): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.13245)] \[22 May 2023]
 *   [Comprehensive Guide for LLaMA with RLHF](https://huggingface.co/blog/stackllama): StackLLaMA: A hands-on guide to train LLaMA with RLHF \[5 Apr 2023]
 
-### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama 2 Finetuning**
+### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
 
-*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html)
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" />
-
+*   Libraries: [TRL](https://huggingface.co/docs/trl/index), [trlX (⭐4.4k)](https://github.com/CarperAI/trlx), [Argilla](https://docs.argilla.io/en/latest/tutorials/libraries/colab.html) <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/TRL-readme.png" width="500" /> <br/>
     <!-- [SFTTrainer](https://huggingface.co/docs/trl/main/en/trainer#trl.SFTTrainer) from TRL -->
-
-    TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" />
-
+    TRL: from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chip.jpg" width="400" /> <br/>
     The three steps in the process: 1. pre-training on large web-scale data, 2. supervised fine-tuning on instruction data (instruction tuning), and 3. RLHF. [ref](https://aman.ai/primers/ai/RLHF/) \[ⓒ 2023]
-*   `Supervised Fine-Tuning (SFT)` fine-tuning a pre-trained model on a specific task or domain using labeled data. This can cause more significant shifts in the model’s behavior compared to RLHF.
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/rlhf-dpo.png" width="400" />
 *   [Reinforcement Learning from AI Feedback (RLAF)](https://arxiv.org/abs/2309.00267): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.00267)]: Uses AI feedback to generate instructions for the model. TLDR: CoT (Chain-of-Thought, Improved), Few-shot (Not improved). Only explores the task of summarization. After training on a few thousand examples, performance is close to training on the full dataset. RLAIF vs RLHF: In many cases, the two policies produced similar summaries. \[1 Sep 2023]
 
-### **Model Compression for Large Language Models** / **Llama 2 Finetuning**
+### **Model Compression for Large Language Models** / **Llama Finetuning**
 
 *   A Survey on Model Compression for Large Language Models [ref](https://arxiv.org/abs/2308.07633) \[15 Aug 2023]
 
-### **Pruning and Sparsification** / **Llama 2 Finetuning**
+### **Pruning and Sparsification** / **Llama Finetuning**
 
 *   [Wanda Pruning](https://arxiv.org/abs/2306.11695): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.11695)]: A Simple and Effective Pruning Approach for Large Language Models \[20 Jun 2023] [ref](https://www.linkedin.com/pulse/efficient-model-pruning-large-language-models-wandas-ayoub-kirouane)
 
-### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama 2 Finetuning**
+### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama Finetuning**
 
 *   [Orca 2](https://arxiv.org/abs/2311.11045): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2311.11045)]: Orca learns from rich signals from GPT 4 including explanation traces; step-by-step thought processes; and other complex instructions, guided by teacher assistance from ChatGPT. [ref](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) \[18 Nov 2023]
 *   Distilled Supervised Fine-Tuning (dSFT)
     1.  [Zephyr 7B](https://arxiv.org/abs/2310.16944): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.16944)] Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO). [ref](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta) \[25 Oct 2023]
     2.  [Mistral 7B](https://arxiv.org/abs/2310.06825): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2310.06825)]: Outperforms Llama 2 13B on all benchmarks. Uses Grouped-query attention (GQA) for faster inference. Uses Sliding Window Attention (SWA) to handle longer sequences at smaller cost. [ref](https://mistral.ai/news/announcing-mistral-7b/) \[10 Oct 2023]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/): Besides the increasing size of SoTA models, there are two main factors contributing to the inference challenge ... \[10 Jan 2023]
 
-### **3. Visual Prompting & Visual Grounding** / **Llama 2 Finetuning**
+### **3. Visual Prompting & Visual Grounding** / **Llama Finetuning**
 
 *   [Visual Prompting](https://arxiv.org/abs/2211.11635) \[21 Nov 2022]
 *   [Andrew Ng’s Visual Prompting Livestream](https://www.youtube.com/watch?v=FE88OOUBonQ) \[24 Apr 2023]
@@ -174,7 +159,7 @@
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
 *   [OpenAI DevDay 2023](https://openai.com/blog/new-models-and-developer-products-announced-at-devday): GPT-4 Turbo with 128K context, Assistants API (Code interpreter, Retrieval, and function calling), GPTs (Custom versions of ChatGPT: [ref](https://openai.com/blog/introducing-gpts)), Copyright Shield, Parallel Function Calling, JSON Mode, Reproducible outputs \[6 Nov 2023]
-*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐64k)](https://github.com/openai/whisper) / [CLIP (⭐23k)](https://github.com/openai/Clip)
+*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐67k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
 *   [GPT-3.5 Turbo Fine-tuning](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) Fine-tuning for GPT-3.5 Turbo is now available, with fine-tuning for GPT-4 coming this fall. \[22 Aug 2023]
 *   [DALL·E 3](https://openai.com/dall-e-3) : In September 2023, OpenAI announced their latest image model, DALL-E 3 [git (⭐11k)](https://github.com/openai/dall-e) \[Sep 2023]
 *   Open AI Enterprise: Removes GPT-4 usage caps, and performs up to two times faster [ref](https://openai.com/blog/introducing-chatgpt-enterprise) \[28 Aug 2023]
@@ -201,8 +186,8 @@
 
 ### **Evolutionary Tree of Large Language Models** / **GPT series release date**
 
-*   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.18223)] /[git (⭐9.5k)](https://github.com/RUCAIBox/LLMSurvey) \[31 Mar 2023] contd.
-*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
+*   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.18223)] /[git (⭐9.8k)](https://github.com/RUCAIBox/LLMSurvey) \[31 Mar 2023] contd.
+*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9.1k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
 
 ### **LLM Materials for East Asian Languages** / Japanese
 
@@ -226,9 +211,9 @@
 *   LLM-generated datasets:
     1.  [Self-Instruct](https://arxiv.org/abs/2212.10560): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2212.10560)]: Seed task pool with a set of human-written instructions. \[20 Dec 2022]
     2.  [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.06259)]: Without human seeding, use LLM to produce instruction-response pairs. The process involves two steps: self-augmentation and self-curation. \[11 Aug 2023]
-*   [RedPajama](https://together.ai/blog/redpajama): LLaMA training dataset of over 1.2 trillion tokens [git (⭐4.4k)](https://github.com/togethercomputer/RedPajama-Data) \[17 Apr 2023]
+*   [RedPajama](https://together.ai/blog/redpajama): LLaMA training dataset of over 1.2 trillion tokens [git (⭐4.5k)](https://github.com/togethercomputer/RedPajama-Data) \[17 Apr 2023]
 
-### **Challenges in evaluating AI systems** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **Challenges in evaluating AI systems** / Math
 
 *   [Pretraining on the Test Set Is All You Need](https://arxiv.org/abs/2309.08632): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.08632)]
     *   On that note, in the satirical Pretraining on the Test Set Is All You Need paper, the author trains a small 1M parameter LLM that outperforms all other models, including the 1.3B phi-1.5 model. This is achieved by training the model on all downstream academic benchmarks. It appears to be a subtle criticism underlining how easily benchmarks can be "cheated" intentionally or unintentionally (due to data contamination). [cite](https://twitter.com/rasbt) \[13 Sep 2023]

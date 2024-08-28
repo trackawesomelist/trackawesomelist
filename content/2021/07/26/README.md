@@ -16,7 +16,7 @@
 
 ### CLI / Argument Parsing
 
-*   [jbock (⭐79)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
+*   [jbock (⭐82)](https://github.com/jbock-java/jbock) - Reflectionless command line parser.
 
 ### Utility / Mocking
 
@@ -168,7 +168,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [Ghostfolio (⭐3.6k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
+*   [Ghostfolio (⭐4k)](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

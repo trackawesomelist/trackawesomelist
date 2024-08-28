@@ -38,19 +38,19 @@
 
 ### Templates
 
-*   [Qvm-Create-Windows-Qube (⭐329)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Qvm-Create-Windows-Qube (⭐334)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 
 ## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Server Plugins / Building
 
 *   [LuckPerms](https://luckperms.net/) - Manage permissions.
-*   [CoreProtect (⭐556)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+*   [CoreProtect (⭐609)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
 
 ### Softwares / Utilities
 
-*   [Amulet (⭐1.6k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
-*   [NBTEditor (⭐70)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+*   [Amulet (⭐1.7k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+*   [NBTEditor (⭐69)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [simaxme/java.nvim (⭐20)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+*   [simaxme/java.nvim (⭐21)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

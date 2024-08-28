@@ -32,7 +32,7 @@
 
 ### Queue
 
-*   [Kafunk (⭐161)](https://github.com/jet/kafunk) - F# Kafka client from Jet
+*   [Kafunk (⭐160)](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

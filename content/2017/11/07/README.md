@@ -14,11 +14,11 @@
     window.
 *   They use slightly different commands for navigation.
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-### HTTP
+### Frameworks, Libraries and Tools / API
 
-*   [RestLess (⭐111)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+*   [RestLess (⭐112)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
 ## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Contents / Utilities
 
-*   [pREST (⭐4.1k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+*   [pREST (⭐4.2k)](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 
 ### Contents / Language bindings
 
@@ -65,7 +65,7 @@
 
 ### Resources / Tutorials
 
-*   [postgresDBSamples (⭐434)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+*   [postgresDBSamples (⭐452)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
 ## [7. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -341,7 +341,7 @@ Topics: InfoSec, Web App Security\
 ### Cryptography
 
 *   [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. \[BSD]
-*   [Crypto++ (⭐4.6k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
+*   [Crypto++ (⭐4.8k)](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
 *   [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. \[LGPLv2.1+]
 
 ## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 23 - Dec 29, 2013
 
-2 awesome lists updated this week.
+1 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -46,16 +46,6 @@
 ### Other / Brunch Plugins
 
 *   [looper (⭐16)](https://github.com/wycats/looper) - static analysis tools for ES6
-
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Erlang / Phoenix
-
-*   [Erlang Handbook (⭐296)](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
-
-### HTML and CSS / Spock Framework
-
-*   [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 
 ---
 

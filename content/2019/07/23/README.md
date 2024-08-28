@@ -16,13 +16,13 @@
 
 ### Others
 
-*   [The Quantum Katas (⭐4.4k)](https://github.com/Microsoft/QuantumKatas)
+*   [The Quantum Katas (⭐4.5k)](https://github.com/Microsoft/QuantumKatas)
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [Papercut (⭐2.7k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
+*   [Papercut (⭐2.9k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
 
 ## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐486)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐490)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.

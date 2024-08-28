@@ -17,6 +17,7 @@
 ### GitHub
 
 *   [lang-box (⭐52)](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+    *   [recent-languages-box (⭐0)](https://github.com/liby/recent-languages-box) - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
 
 ## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -28,7 +29,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐32k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐33k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -56,7 +57,7 @@
 
 ### Platforms
 
-*   [DOS (⭐445)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐456)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ---
 

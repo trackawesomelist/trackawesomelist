@@ -19,7 +19,7 @@
 
 ### ORM and Datamapping
 
-*   [amnesia (⭐690)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
+*   [amnesia (⭐692)](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 
 ### Testing
 

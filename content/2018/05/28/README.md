@@ -59,8 +59,8 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [fission (⭐7.9k)](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
-*   [Halibut (⭐220)](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
+*   [fission (⭐8.3k)](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes.
+*   [Halibut (⭐11)](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
 
 ## [10. Awesome Framer](/content/podo/awesome-framer/README.md)
 

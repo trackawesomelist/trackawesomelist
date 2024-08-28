@@ -10,7 +10,7 @@
 
 ### Communications / MDNS
 
-*   [micropython-mdns (⭐47)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
+*   [micropython-mdns (⭐49)](https://github.com/cbrand/micropython-mdns) - A pure Python implementation of MDNS with support for Service Discovery.
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐75)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐78)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI CRUDRouter (⭐1.3k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
+*   [FastAPI CRUDRouter (⭐1.4k)](https://github.com/awtkns/fastapi-crudrouter) - A FastAPI router that automatically creates and documents CRUD routes for your models.
 
 ### Tutorials / Other Tools
 

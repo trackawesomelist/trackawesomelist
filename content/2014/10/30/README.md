@@ -22,7 +22,7 @@
 
 ### Table of Contents / Database
 
-*   [ProxyManager (⭐4.9k)](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+*   [ProxyManager (⭐5k)](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 
 ### Configuration / Text Editors and IDEs
 

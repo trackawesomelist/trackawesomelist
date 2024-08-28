@@ -1,18 +1,12 @@
 # Awesome List Updates on Sep 25, 2021
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Visual Changes / Design Tooling
-
-*   [Blur-my-shell (⭐1.5k)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
-
-## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [1. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Starter Templates
 
@@ -31,7 +25,7 @@
 
 *   [Bridgetown Lit Renderer (⭐13)](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
 
-## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
@@ -45,13 +39,13 @@
 
 *   [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
-## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Pi-Apps (⭐1.7k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+*   [Pi-Apps (⭐1.9k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
-## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Exfiltration Tools / Zealandia
 

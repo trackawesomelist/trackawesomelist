@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2023
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,7 +8,7 @@
 
 ## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Finetuning** / **Prompt Template Language**
+### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
 
 *   [Efficient Streaming Language Models with Attention Sinks](http://arxiv.org/abs/2309.17453): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.17453)] 1. StreamingLLM, an efficient framework that enables LLMs trained with a finite length attention window to generalize to infinite sequence length without any fine-tuning. 2. We neither expand the LLMs' context window nor enhance their long-term memory. [git (⭐6.4k)](https://github.com/mit-han-lab/streaming-llm) \[29 Sep 2023]
 
@@ -36,7 +36,7 @@
 
 ### Decentralized Systems
 
-*   [Mastodon (⭐22)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Mastodon (⭐24)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -78,7 +78,21 @@
 
 ### External Services
 
-*   [osu-box (⭐2)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+*   [osu-box (⭐7)](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
+
+### Open Source Ecosystem
+
+*   [500 lines or less (⭐29k)](https://github.com/aosabook/500lines) - Build from Source Code
+
+### Quantum Computing
+
+*   [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 
 ---
 

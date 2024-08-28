@@ -16,7 +16,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Ruby
 
-*   [A list of questions about Ruby programming you can use to quiz yourself (⭐40)](https://github.com/undr/ruby-trivia)
+*   [A list of questions about Ruby programming you can use to quiz yourself (⭐48)](https://github.com/undr/ruby-trivia)
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐630)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐657)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Time Series
 
@@ -62,7 +62,7 @@
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐135)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Reproducing Works, Training & Books / Data Visualization
 

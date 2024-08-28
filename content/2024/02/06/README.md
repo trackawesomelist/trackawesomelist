@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 06, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,33 +29,27 @@
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐94)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐155)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
-
-### Software / Web
-
-*   [Static Web Server](https://static-web-server.net/) - A cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code (⭐1.3k)](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
-
-## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [Another Redis Desktop Manager (⭐30k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 
-## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Monitoring
 
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 
-## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Profiling / Data Profiler
 
 *   [Data Profiler (⭐1.4k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 
-## [9. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [8. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Introductions to AI
 

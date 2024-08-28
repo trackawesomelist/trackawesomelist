@@ -85,31 +85,31 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DotNetCorePlugins (⭐1.5k)](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
+*   [DotNetCorePlugins (⭐1.6k)](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
 
 ### Frameworks, Libraries and Tools / Code Analysis and Metrics
 
 *   Metrics
     *   [AppMetrics (⭐2.2k)](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health.
-    *   [Audit.NET (⭐2.1k)](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
-    *   [BenchmarkDotNet (⭐9.5k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
-    *   [coverlet (⭐2.8k)](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
-    *   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
-    *   [MiniCover (⭐208)](https://github.com/lucaslorentz/minicover) - Minimalist Code Coverage Tool for .NET Core.
-    *   [NBench (⭐529)](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
+    *   [Audit.NET (⭐2.2k)](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
+    *   [BenchmarkDotNet (⭐10k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+    *   [coverlet (⭐3k)](https://github.com/tonerdo/coverlet) - Cross platform code coverage library for .NET Core.
+    *   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
+    *   [MiniCover (⭐209)](https://github.com/lucaslorentz/minicover) - Minimalist Code Coverage Tool for .NET Core.
+    *   [NBench (⭐532)](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
     *   [Nexogen.Libraries.Metrics (⭐61)](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) - Library for collecting application metrics in .NET and exporting them to Prometheus.
     *   [OpenCover (⭐1.3k)](https://github.com/OpenCover/opencover) - Code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
     *   [PerformanceMonitor (⭐236)](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core Application Performance Monitor.
-    *   [prometheus-net (⭐1.7k)](https://github.com/prometheus-net/prometheus-net) - .NET Client for <https://prometheus.io>.
-    *   [Prometheus.Client (⭐120)](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET Client for [Prometheus](https://prometheus.io).
-        *   [Prometheus.Client.MetricPusher (⭐13)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher) -  Push metrics to a PushGateaway for the Prometheus.Client.
-        *   [Prometheus.Client.AspNetCore (⭐7)](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore) -  Middleware for the Prometheus.Client.
+    *   [prometheus-net (⭐1.9k)](https://github.com/prometheus-net/prometheus-net) - .NET Client for <https://prometheus.io>.
+    *   [Prometheus.Client (⭐127)](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET Client for [Prometheus](https://prometheus.io).
+        *   [Prometheus.Client.MetricPusher (⭐15)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher) -  Push metrics to a PushGateaway for the Prometheus.Client.
+        *   [Prometheus.Client.AspNetCore (⭐8)](https://github.com/PrometheusClientNet/Prometheus.Client.AspNetCore) -  Middleware for the Prometheus.Client.
         *   [Prometheus.Client.MetricServer (⭐14)](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer) -  MetricServer for the Prometheus.Client.
-        *   [Prometheus.Client.HttpRequestDurations (⭐9)](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) -  Metrics logging of request durations for the Prometheus.Client.
+        *   [Prometheus.Client.HttpRequestDurations (⭐10)](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) -  Metrics logging of request durations for the Prometheus.Client.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [OpenCQRS (⭐1)](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
+*   [OpenCQRS (⭐3)](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

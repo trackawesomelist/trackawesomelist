@@ -47,7 +47,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐243)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
+*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐244)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

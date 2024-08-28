@@ -10,8 +10,8 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [LLMLingua (⭐4.2k)](https://github.com/microsoft/LLMLingua): Compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. \[Jul 2023] LLMLingua-2 \[Mar 2024]
-*   [Autogen (⭐28k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework [ref](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) \[Mar 2023] [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) \[June 2024 ]
+*   [LLMLingua (⭐4.3k)](https://github.com/microsoft/LLMLingua): Compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. \[Jul 2023] LLMLingua-2 \[Mar 2024]
+*   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework [ref](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) \[Mar 2023] [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) \[June 2024 ]
 
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 
@@ -19,12 +19,12 @@
     *   [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857): Retrieval-Augmented Generation (RAG) \[09 Jun 2023]
     *   [Revolutionize your Enterprise Data with ChatGPT](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087) \[09 Mar 2023]
     *   [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/) \[07 Mar 2023]
-    *   [Azure OpenAI Design Patterns (⭐565)](https://github.com/microsoft/azure-openai-design-patterns): A set of design patterns using the Azure OpenAI service \[May 2023]
-    *   [Azure AI Services Landing Zone (⭐79)](https://github.com/FreddyAyala/AzureAIServicesLandingZone) / [ref](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) \[24 Jul 2023]
+    *   [Azure OpenAI Design Patterns (⭐577)](https://github.com/microsoft/azure-openai-design-patterns): A set of design patterns using the Azure OpenAI service \[May 2023]
+    *   [Azure AI Services Landing Zone (⭐84)](https://github.com/FreddyAyala/AzureAIServicesLandingZone) / [ref](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) \[24 Jul 2023]
     *   [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885) \[16 Jan 2024]
     *   [Authentication and Authorization in Generative AI applications with Entra ID and Azure AI Search](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/authentication-and-authorization-in-generative-ai-applications/ba-p/4022277) \[09 Jan 2024]
     *   [Integrate private access to your Azure Open AI Chatbot](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/integrate-private-access-to-your-azure-open-ai-chatbot/ba-p/3994613) \[30 Nov 2023]
-    *   Smart load balancing for OpenAI endpoints [git (⭐74)](https://github.com/Azure/aoai-smart-loadbalancing) \[Jan 2024]
+    *   Smart load balancing for OpenAI endpoints [git (⭐75)](https://github.com/Azure/aoai-smart-loadbalancing) \[Jan 2024]
     *   [An Introduction to LLMOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996): Operationalizing and Managing Large Language Models using Azure ML \[27 Aug 2023]
     *   [Optimize Azure OpenAI Applications with Semantic Caching](https://techcommunity.microsoft.com/t5/azure-architecture-blog/optimize-azure-openai-applications-with-semantic-caching/ba-p/4106867) \[09 Apr 2024]
     *   [Azure OpenAI and Call Center Modernization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-and-call-center-modernization/ba-p/4107070) \[11 Apr2024]
@@ -35,18 +35,18 @@
 *   [Skeleton Of Thought](https://arxiv.org/abs/2307.15337): Skeleton-of-Thought (SoT) reduces generation latency by first creating an answer's skeleton, then filling each skeleton point in parallel via API calls or batched decoding. \[28 Jul 2023]
 *   [NLEP (Natural Language Embedded Programs) for Hybrid Language Symbolic Reasoning](https://arxiv.org/abs/2309.10814): Use code as a scaffold for reasoning. NLEP achieves over 90% accuracy when prompting GPT-4. \[19 Sep 2023]
 
-### **Pruning and Sparsification** / **Llama 2 Finetuning**
+### **Pruning and Sparsification** / **Llama Finetuning**
 
 *   Pruning: The process of removing some of the neurons or layers from a neural network. This can be done by identifying and eliminating neurons or layers that have little or no impact on the network's output.
 *   Sparsification: A technique used to reduce the size of large language models by removing redundant parameters.
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
-*   [Lamini Memory Tuning (⭐216)](https://github.com/lamini-ai/Lamini-Memory-Tuning): Mixture of Millions of Memory Experts (MoME). 95% LLM Accuracy, 10x Fewer Hallucinations. [ref](https://www.lamini.ai/blog/lamini-memory-tuning) \[Jun 2024]
+*   [Lamini Memory Tuning (⭐248)](https://github.com/lamini-ai/Lamini-Memory-Tuning): Mixture of Millions of Memory Experts (MoME). 95% LLM Accuracy, 10x Fewer Hallucinations. [ref](https://www.lamini.ai/blog/lamini-memory-tuning) \[Jun 2024]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
-*   [Tokencost (⭐1.3k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
+*   [Tokencost (⭐1.4k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
 
 ### **Open-Source Large Language Models** / **GPT series release date**
 
@@ -77,7 +77,7 @@
         *   [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) \[16 Jul 2023]
         *   [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) \[16 Aug 2023]
         *   [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) \[1 Aug 2023]
-        *   Framework: [Autogen (⭐28k)](https://github.com/microsoft/autogen) / [LangGraph (⭐4.2k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐17k)](https://github.com/joaomdmoura/CrewAI)
+        *   Framework: [Autogen (⭐30k)](https://github.com/microsoft/autogen) / [LangGraph (⭐5.2k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐18k)](https://github.com/joaomdmoura/CrewAI)
 *   Generate the code [ref](https://www.deeplearning.ai/the-batch/issue-254/) \[Jun 2024]
     *   [AgentCoder: Multiagent-Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) \[20 Dec 2023]
     *   [LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step](https://arxiv.org/abs/2402.16906) \[25 Feb 2024]
@@ -87,7 +87,7 @@
 
 ### Demos / Godot 4.x
 
-*   [Kaleidoscope (⭐2)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+*   [Kaleidoscope (⭐7)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [carbon-angular-starter (⭐75)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
+*   [carbon-angular-starter (⭐76)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
 
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -110,7 +110,7 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-typed-writer (⭐5)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
+*   [ngx-typed-writer (⭐6)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -118,7 +118,7 @@
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-filepond (⭐196)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
+*   [ngx-filepond (⭐199)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -126,12 +126,12 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [carbon-components-angular (⭐520)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+*   [carbon-components-angular (⭐525)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-paginator (⭐6)](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
-*   [ngx-flamegraph (⭐58)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
+*   [ngx-flamegraph (⭐57)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 *   [angular-compiler-output (⭐15)](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

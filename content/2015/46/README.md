@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16 - Nov 22, 2015
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Tools / App Vulnerability Scanners
 
-*   [QARK (⭐3.1k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
+*   [QARK (⭐3.2k)](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
 
 ## [2. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -224,11 +224,11 @@
 
 ### PHP / Symfony2
 
-*   [API Platform (⭐8.3k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+*   [API Platform (⭐8.4k)](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 
 ### Querying / Symfony2
 
-*   [httpie (⭐32k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [httpie (⭐33k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
 ## [12. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -702,7 +702,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐86k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐88k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -710,15 +710,15 @@
 
 ### Inter-process communication
 
-*   [simple-rpc-cpp (⭐38)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
+*   [simple-rpc-cpp (⭐37)](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. \[BSD]
 
 ### Machine Learning
 
-*   [Minerva (⭐697)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐698)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
-*   [Civetweb (⭐2.7k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
+*   [Civetweb (⭐2.8k)](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
 
 ### Online Compiler
 
@@ -771,28 +771,28 @@
 
 ### JSON
 
-*   [jsonapi (⭐491)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐495)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
-*   [growl (⭐8)](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
+*   [growl (⭐10)](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
 
 ### Networking
 
-*   [sshex (⭐157)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐158)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
-*   [boltun (⭐134)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
-*   [kalecto (⭐145)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
+*   [boltun (⭐135)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+*   [kalecto (⭐146)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 
 ### Package Management
 
-*   [rebar3\_hex (⭐101)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐102)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐718)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐721)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -1247,166 +1247,20 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [39. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### ASP.NET
-
-*   [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
-
-### C / Non-X86
-
-*   [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
-*   [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
-
-### Clojure / Non-X86
-
-*   [Clojure for the Brave and True](http://www.braveclojure.com)
-*   [Clojure Koans](http://clojurekoans.com)
-*   [ClojureScript Koans](http://clojurescriptkoans.com)
-*   [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
-
-### CoffeeScript / Non-X86
-
-*   [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
-
-### ColdFusion / Non-X86
-
-*   [Learn CF in a Week](http://learncfinaweek.com)
-
-### CUDA / Non-X86
-
-*   [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) - Nvidia (PDF)
-
-### Elixir / Non-X86
-
-*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
-
-### Forth / Phoenix
-
-*   [Thinking Forth](http://thinking-forth.sourceforge.net)
-
-### Go / Phoenix
-
-*   [Go by Example](https://gobyexample.com)
-
-### Haskell / Spock Framework
-
-*   [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
-*   [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovača
-
-### HTML and CSS / Spock Framework
-
-*   [A free guide to learn HTML and CSS](http://marksheet.io)
-*   [HTML Dog Tutorials](http://www.htmldog.com)
-*   [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
-*   [Learn CSS Layout](http://learnlayout.com)
-
-### iOS / Bootstrap
-
-*   [Cocoa Dev Central](http://cocoadevcentral.com)
-
-### Java / Bootstrap
-
-*   [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
-*   [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
-
-### JavaScript / Node.js
-
-*   [The Node Beginner Book](http://nodebeginner.org)
-
-### Linux / TeX
-
-*   [Getting Started with Ubuntu](http://ubuntu-manual.org)
-*   [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
-*   [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
-*   [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
-
-### Lisp / TeX
-
-*   [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
-*   [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
-
-### MATLAB / PicoLisp
-
-*   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
-
-### NoSQL / PicoLisp
-
-*   [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
-*   [Graph Databases](http://graphdatabases.com)
-*   [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-
-### Perl / PicoLisp
-
-*   [Plack Handbook](http://handbook.plackperl.org)
-
-### PHP / PicoLisp
-
-*   [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
-*   [PHP Best Practices](https://phpbestpractices.org)
-*   [PHP Internals Book](http://www.phpinternalsbook.com)
-*   [PHP: The Right Way](http://www.phptherightway.com)
-
-### Prolog / Zend
-
-*   [Learn Prolog Now!](http://www.learnprolognow.org)
-*   [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
-
-### Prolog / Constraint Logic Programming (extended Prolog)
-
-*   [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Composing Programs](http://composingprograms.com) (3.x)
-*   [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
-*   [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
-*   [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
-
-### R / Tornado
-
-*   [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
-*   [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
-*   [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
-
-### Ruby / Tornado
-
-*   [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
-*   [Ruby Koans](http://www.rubykoans.com)
-*   [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
-
-### Scala / Sinatra
-
-*   [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
-*   [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
-
-### Scala / Lift
-
-*   [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
-*   [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
-
-### Teradata / Vapor
-
-*   [Teradata Books](http://www.info.teradata.com)
-
-### TLA / Vapor
-
-*   [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
-
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Geospatial
 
 *   [Georust](https://github.com/georust) - geospatial tools and libraries written
 
-## [41. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [40. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [Git-it (⭐1.9k)](https://github.com/jlord/git-it) -- :computer: :mortar\_board: A workshopper for learning Git and GitHub.
 *   [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
-## [42. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [41. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -1475,7 +1329,7 @@ $0.99
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses)
 
-## [43. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [42. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Ruby
 
@@ -1494,7 +1348,7 @@ $0.99
 
 *   [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) By Jeremy Ashkenas
 
-## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -1515,7 +1369,7 @@ $0.99
 *   [2012-paper-diginorm (⭐8)](https://github.com/dib-lab/2012-paper-diginorm)
 *   [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 
-## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [44. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Audio
 
@@ -1579,7 +1433,7 @@ $0.99
 *   [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 *   [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 
-## [46. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [45. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -1588,13 +1442,13 @@ $0.99
 *   [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 *   [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Images / Gif Creation
 
 *   [ttystudio (⭐3.2k)](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 
-## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [47. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -1609,11 +1463,11 @@ $0.99
 
 *   [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 
-## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
-*   [Kashmir (⭐266)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
+*   [Kashmir (⭐267)](https://github.com/IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 
 ### Debugging Tools
 
@@ -1621,22 +1475,22 @@ $0.99
 
 ### IRB
 
-*   [irbtools (⭐919)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
-*   [Pry (⭐6.7k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
+*   [irbtools (⭐920)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [Pry (⭐6.8k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
-## [50. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [49. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Twitter accounts / Misc
 
 *   [Nadieh Bremer](https://twitter.com/NadiehBremer)
 
-## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [50. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
 *   [Google2FA (⭐1.5k)](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 
-## [52. Amas](/content/sindresorhus/amas/week/README.md)
+## [51. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -1645,7 +1499,7 @@ $0.99
 *   [Arnaud Benard (⭐2)](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 *   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I blog about my experiences learning code and working as a junior developer.
 
-## [53. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [52. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -1659,7 +1513,7 @@ $0.99
 ### Icons / Icon Fonts
 
 *   [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css (⭐3.8k)](https://github.com/csswizardry/inuit.css).
-*   [Fontello](http://fontello.com/) - [:copyright: (⭐6.9k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+*   [Fontello](http://fontello.com/) - [:copyright: (⭐7k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 *   [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
 ### Colors / Icons Packages and Collections

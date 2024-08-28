@@ -302,6 +302,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terraform-provider-terracurl (⭐126)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
 *   [terraform-provider-value (⭐15)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 *   [terraform-provider-uname (⭐4)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+*   [terraform-provider-proxmox (⭐2.1k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
 
 ## Testing
 
@@ -420,7 +421,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [terrastate (⭐76)](https://github.com/rohinivsenthil/terrastate) - Visual Studio Code extension to monitor/deploy/destroy Terraform resources in your workspace
 *   [terratag (⭐926)](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 *   [tf-init-booster (⭐7)](https://github.com/hayorov/terraform-init-booster) - A Pre-terraform routine that speedups terraform modules download for bulky blueprints.
-*   [tf-profile (⭐147)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
+*   [tf-profile (⭐148)](https://github.com/datarootsio/tf-profile/) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 *   [tf-summarize (⭐506)](https://github.com/dineshba/tf-summarize) - A command-line utility to print the summary of the terraform plan
 *   [tfaction (⭐260)](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
 *   [tfautomv (⭐686)](https://github.com/busser/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring

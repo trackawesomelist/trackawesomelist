@@ -54,11 +54,11 @@
 
 ### CMS
 
-*   [Composite C1 (⭐252)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐253)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### GIS
 
-*   [GeoJSON4EntityFramework (⭐18)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+*   [GeoJSON4EntityFramework (⭐19)](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
 
 ### Testing
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐155)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐157)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.7k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -184,7 +184,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐48k)](https://github.com/driftyco/ionic/)
+*   [GitHub Repo (⭐51k)](https://github.com/driftyco/ionic/)
 
 ## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -238,13 +238,13 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐318)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐336)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐22k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐25k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [30. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -409,16 +409,16 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [DotNetty (⭐3.9k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
+*   [DotNetty (⭐4.1k)](https://github.com/Azure/DotNetty) - Port of netty, event-driven asynchronous network application framework.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [AutoComplete (⭐209)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
+*   [AutoComplete (⭐216)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
 
 ### Starter Kits / Workflow
 
-*   [bitwarden-core (⭐13k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
-*   [generator-aspnet (⭐880)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
+*   [bitwarden-core (⭐15k)](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) <https://bitwarden.com>.
+*   [generator-aspnet (⭐879)](https://github.com/OmniSharp/generator-aspnet) - yo generator for ASP.NET Core.
 
 ## [47. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -457,7 +457,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.9k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐5k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

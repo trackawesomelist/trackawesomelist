@@ -16,21 +16,21 @@
 
 ### API Gateway / Symfony2
 
-*   [Express Gateway (⭐2.9k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
+*   [Express Gateway (⭐3k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Karambolo.Extensions.Logging.File (⭐128)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
+*   [Karambolo.Extensions.Logging.File (⭐145)](https://github.com/adams85/filelogger) - A lightweight library which implements file logging for the built-in .NET Core logging framework (Microsoft.Extensions.Logging).
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Sheller (⭐106)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
+*   [Sheller (⭐107)](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [AspNetCore.Proxy (⭐458)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
+*   [AspNetCore.Proxy (⭐506)](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 
 ## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

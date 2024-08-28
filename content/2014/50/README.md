@@ -117,7 +117,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5.6k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐5.7k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

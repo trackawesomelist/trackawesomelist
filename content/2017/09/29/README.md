@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐57)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐59)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -75,7 +75,7 @@
 
 ### Others
 
-*   [Tell don't ask kata (⭐27)](https://github.com/gabrieletondi/tell-dont-ask-kata)
+*   [Tell don't ask kata (⭐30)](https://github.com/gabrieletondi/tell-dont-ask-kata)
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

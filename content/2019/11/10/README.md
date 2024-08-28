@@ -16,7 +16,7 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [ServiceTalk (⭐891)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
+*   [ServiceTalk (⭐906)](https://github.com/apple/servicetalk) - Framework built on Netty with APIs tailored to specific protocols and support for multiple programming paradigms.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -35,12 +35,12 @@
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Inyector (⭐13)](https://github.com/davidrevoledo/Inyector) - Dependency Injection Automation for AspNetCore
-*   [Lamar (⭐521)](https://github.com/JasperFx/lamar) - Fast Inversion of Control Tool and Sundry Items of Roslyn Chicanery.
-*   [LightInject (⭐604)](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
+*   [Lamar (⭐564)](https://github.com/JasperFx/lamar) - Fast Inversion of Control Tool and Sundry Items of Roslyn Chicanery.
+*   [LightInject (⭐616)](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [common-logging (⭐650)](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
+*   [common-logging (⭐649)](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET.
 
 ## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 

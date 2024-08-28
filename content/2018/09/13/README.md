@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐26)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐27)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Others
 
-*   [Opening Hours Kata (⭐7)](https://github.com/christian-fei/opening-hours-kata)
+*   [Opening Hours Kata (⭐8)](https://github.com/christian-fei/opening-hours-kata)
 
 ## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -75,9 +75,9 @@
 
 ### Benchmarking
 
-*   [core\_bench (⭐47)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
-      - [Getting Started with Core\_bench (⭐47)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
-*   [benchmark (⭐26)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
+*   [core\_bench (⭐49)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
+      - [Getting Started with Core\_bench (⭐49)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
+*   [benchmark (⭐28)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 ## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

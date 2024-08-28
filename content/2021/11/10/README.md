@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [Haven (⭐587)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
+*   [Haven (⭐628)](https://github.com/havenweb/haven) - Host a private blog on your Rasperry Pi intead of using Facebook.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

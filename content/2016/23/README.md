@@ -59,7 +59,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐252)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐254)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [8. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐444)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐443)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -141,13 +141,13 @@
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐103)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐6.3k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐903)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [ANNetGPGPU (⭐104)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [Recast/Detour (⭐6.4k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐904)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐9.8k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐9.9k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
@@ -176,7 +176,7 @@
 
 ### Images
 
-*   [cloudex (⭐101)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐103)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [20. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -213,7 +213,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐453)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐455)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 

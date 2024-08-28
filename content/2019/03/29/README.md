@@ -34,11 +34,11 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [ElmahCore (⭐287)](https://github.com/ElmahCore/ElmahCore) - Error logging library that includes features like error filtering and the ability to view the error log from a web page.
+*   [ElmahCore (⭐312)](https://github.com/ElmahCore/ElmahCore) - Error logging library that includes features like error filtering and the ability to view the error log from a web page.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [CoordinateSharp (⭐321)](https://github.com/Tronald/CoordinateSharp) - A library that can quickly format and convert geographic coordinates as well as provide location based sun and moon information (sunset, sunrise, moon illumination, etc...).
+*   [CoordinateSharp (⭐360)](https://github.com/Tronald/CoordinateSharp) - A library that can quickly format and convert geographic coordinates as well as provide location based sun and moon information (sunset, sunrise, moon illumination, etc...).
 
 ## [5. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 

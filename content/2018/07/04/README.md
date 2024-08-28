@@ -58,13 +58,13 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [NBlockchain (⭐78)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
+*   [NBlockchain (⭐83)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / PHP Installation
 
-*   [Brew PHP Switcher (⭐951)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
+*   [Brew PHP Switcher (⭐952)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 
 ---
 

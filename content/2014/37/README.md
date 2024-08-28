@@ -27,7 +27,7 @@
 ### Packages / Mad science
 
 *   [peerflix (⭐6.2k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-*   [peerwiki (⭐312)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐313)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 

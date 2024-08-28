@@ -16,7 +16,7 @@
 
 ### General Purpose Computing / Apache License
 
-*   [cuda (⭐17)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
+*   [cuda (⭐18)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Applications / Productivity
 
-*   [Bartib (⭐636)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐650)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

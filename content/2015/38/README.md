@@ -222,7 +222,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 ### Packages / URL
 
 *   [url-unshort (⭐115)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐63)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [embedza (⭐64)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -480,7 +480,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐562)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐561)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 

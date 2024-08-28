@@ -52,7 +52,7 @@
 
 ### Weather
 
-- API: [weather-api (⭐362)](https://github.com/robertoduessmann/weather-api)
+- API: [weather-api (⭐377)](https://github.com/robertoduessmann/weather-api)
 
   Description: A RESTful free API to check the weather
 

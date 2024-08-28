@@ -10,7 +10,7 @@
 
 ### PHP
 
-*   [Fusio (⭐1.7k)](https://github.com/apioo/fusio) - Open source API management platform.
+*   [Fusio (⭐1.8k)](https://github.com/apioo/fusio) - Open source API management platform.
 
 ## [2. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Authorization
 
-*   [canada (⭐443)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
+*   [canada (⭐444)](https://github.com/jarednorman/canada) - A simple authorization library that provides a friendly interface using declarative permission rules.
 
 ### Miscellaneous
 
@@ -58,7 +58,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [LinqOptimizer (⭐475)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+*   [LinqOptimizer (⭐476)](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ### Continuous Integration
 

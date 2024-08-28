@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐293)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐296)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
@@ -138,7 +138,7 @@
 *   [onanomsg (⭐38)](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
 *   [Kafka (⭐63)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐62)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
-*   [MPI (⭐23)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
+*   [MPI (⭐24)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐20)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
@@ -151,11 +151,11 @@
 
 ### Machine Learning and Data Science
 
-*   [Spreads (⭐421)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
+*   [Spreads (⭐424)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
 ### Queue
 
-*   [CAP (⭐6.5k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐6.6k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
@@ -510,7 +510,7 @@
 
 ### Example Projects
 
-*   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
+*   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐8)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
 ### Help
 
@@ -587,7 +587,7 @@
 
 ### CLI Utilities
 
-*   [colorls (⭐4.8k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.9k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
@@ -595,7 +595,7 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐795)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐802)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -1119,11 +1119,11 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [QuickApp (⭐1.2k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
+*   [QuickApp (⭐1.3k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
+*   [AspNet.Security.OpenIdConnect.Server (⭐560)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
 ## [49. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 

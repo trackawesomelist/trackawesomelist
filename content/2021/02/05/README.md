@@ -27,12 +27,6 @@ Language: English
 [**The Rebble Alliance**](https://discord.com/invite/aRUAYFN) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://rebble.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/pebble-dev) \
 Notable Channels: `#pebble`, `#rebble-help`, `#app-dev`, `#rockyjs`, `#smartstraps`, `#rebble-grants`, `#firmware`, `#hardware`, `#mobile-apps`, `#appstore`, `#web-services`, `#bipdev` \
 Language: English
-
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/smartwatch.webp">
-
-[**Smartwatch**](https://discord.com/invite/nPEHdsyjDg) \
-Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
-Language: English \ <br>
 ### Keyboards
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/qmk.webp">
@@ -69,7 +63,7 @@ Language: English
 
 ### Table
 
-*   [svelte-simple-datatables (⭐271)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
+*   [svelte-simple-datatables (⭐270)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

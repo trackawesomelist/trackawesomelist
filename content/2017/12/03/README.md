@@ -10,9 +10,9 @@
 
 ### Productivity
 
-*   [Google Calendar View (⭐220)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
-*   [PDF Tools (⭐134)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-*   [Things (⭐356)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+*   [Google Calendar View (⭐223)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+*   [PDF Tools (⭐147)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+*   [Things (⭐366)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

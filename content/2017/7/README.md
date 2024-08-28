@@ -37,7 +37,7 @@
 
 ### Testing
 
-*   [Expecto (⭐663)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐665)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [5. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Pentest Cheatsheets (⭐3.7k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+- Repository: [Pentest Cheatsheets (⭐3.8k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 
   Description: Collection of the cheat sheets useful for pentesting
 
@@ -238,13 +238,13 @@ git checkout @{-1}
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [Storyteller (⭐271)](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET <http://storyteller.github.io>.
+*   [Storyteller (⭐268)](https://github.com/storyteller/Storyteller) - Executable Specifications for .NET <http://storyteller.github.io>.
 
 ## [29. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
-*   [ng (⭐44)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
+*   [ng (⭐45)](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 
 ## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -623,7 +623,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.4k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.5k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -698,7 +698,7 @@ Webpage: <http://www.denizlihs.org/>
 ### C++ / Natural Language Processing
 
 *   [frog (⭐73)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐63)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [ucto (⭐65)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 

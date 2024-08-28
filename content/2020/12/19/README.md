@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,23 +54,15 @@
 ### Icons
 
 *   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐493)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-awesome (⭐492)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### BETA / Non-X86
-
-*   [MIA 90-02: BETA Compiler - Reference Manual](https://beta.cs.au.dk/Manuals/latest/compiler/index.html) - Mjølner Informatics
-*   [MIA 94-26: BETA Language Introduction - Tutorial](https://beta.cs.au.dk/Manuals/latest/beta-intro/index.html) - Mjølner Informatics
-*   [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
-
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
 *   [Svelte (⭐1.4k)](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
@@ -85,7 +77,7 @@
 *   [fastcomments-react (⭐7)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
 *   [react-pulse-text (⭐17)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Computer Vision / Text-Based User Interfaces
 
@@ -95,37 +87,37 @@
 
 *   [jsweet (⭐1.4k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Email Search / Email Check / Telegram
 
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
 
-## [11. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [10. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Articles / XML
 
 *   [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### LSP Language Server Protocol Implementations
 
 *   [scry (⭐333)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
-## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
 *   [termd (⭐59)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X](https://img.icons8.com/color/24/mac-logo.png "Mac OS X") ![Linux](https://img.icons8.com/color/24//linux--v1.png "Linux") ![Windows](https://img.icons8.com/color/24/windows-11.png "Windows")
 
-## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [14. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 

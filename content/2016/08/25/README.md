@@ -74,7 +74,7 @@ Free
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [RawRabbit (⭐737)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
+*   [RawRabbit (⭐744)](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

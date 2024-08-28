@@ -107,7 +107,7 @@
 
 ### Tools
 
-*   [Orangetool (⭐103)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐106)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Example Projects
 
-*   [Keycloak Theme Development Kit (⭐50)](https://github.com/anthonny/kit-keycloak-theme)
+*   [Keycloak Theme Development Kit (⭐51)](https://github.com/anthonny/kit-keycloak-theme)
 
 ## [16. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐7.4k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐7.7k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 06 - Apr 12, 2020
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Utilities / Productivity
 
-*   [Pomodoro Cycle (⭐78)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+*   [Pomodoro Cycle (⭐81)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 ## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -166,13 +166,13 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Game Tools (⭐363)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
+*   [Godot Game Tools (⭐370)](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
 
 ## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐189)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐190)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
@@ -216,7 +216,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [freqtrade (⭐26k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+*   [freqtrade (⭐27k)](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -338,17 +338,7 @@
 
 *   [scala-native-loop (⭐46)](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
 
-## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
-
-### Core Data
-
-*   [CloudCore (⭐151)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
-
-### Security
-
-*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
-
-## [35. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [34. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Videos / Italian Cuisine
 
@@ -359,13 +349,13 @@
 *   [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 *   [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
 
-## [36. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [35. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
 *   [Spoke (⭐186)](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
 
-## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Other / Other Resources
 
@@ -373,7 +363,7 @@
     of various information focused on malware persistence: detection (techniques),
     response, pitfalls and the log collection (tools).
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -404,13 +394,13 @@
 
 *   [Marten (⭐2.6k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications.
 
-## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [38. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Behavior and Decision / Vector Map
 
 *   [FlexBE](https://flexbe.github.io/) - Graphical editor for hierarchical state machines, based on ROS's smach.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -418,15 +408,15 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐337)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐340)](https://github.com/aunum/gold) - A reinforcement learning library.
 
-## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Groovy / More
 
 *   [VsCode Groovy Lint](https://marketplace.visualstudio.com/items?itemName=NicolasVuillamy.vscode-groovy-lint) - Groovy lint, format, prettify and auto-fix
 
-## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [41. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools / Misc
 
@@ -436,13 +426,7 @@
 
 *   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
-## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Bootstrap
-
-*   [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
-
-## [44. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [42. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -490,7 +474,21 @@
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
 
-## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+
+### Debugging
+
+*   [Playbook (⭐1.2k)](https://github.com/playbook-ui/playbook-ios) - A library for isolated developing UI components and automatically snapshots of them.
+
+### Core Data
+
+*   [CloudCore (⭐154)](https://github.com/deeje/CloudCore) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, field-level deltas, and more.
+
+### Security
+
+*   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
+
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Themes
 
@@ -498,13 +496,13 @@
 
 ### Kubernetes
 
-*   [keycloak-operator (⭐430)](https://github.com/keycloak/keycloak-operator)
+*   [keycloak-operator (⭐429)](https://github.com/keycloak/keycloak-operator)
 
 ### Tools
 
-*   [keycloakmigration: Manage your Keycloak configuration with code (⭐106)](https://github.com/klg71/keycloakmigration)
+*   [keycloakmigration: Manage your Keycloak configuration with code (⭐108)](https://github.com/klg71/keycloakmigration)
 
-## [46. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [45. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Encryption / Apache License
 
@@ -516,7 +514,7 @@
 
 ### Algorithms, Containers and Protocols / Apache License
 
-*   [ada-language-server (⭐222)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+*   [ada-language-server (⭐229)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 *   [ada-lsp (⭐11)](https://github.com/reznikmm/ada-lsp) - Language Server Protocol for Ada.
 *   [ada-lsp-client (⭐1)](https://github.com/Alex-Gamper/Ada-LanguageServer) - Prototype implementation of LSP client - Visual Studio 2017.
 
@@ -535,9 +533,9 @@
 
 ### Simulation / Apache License
 
-*   [ghdl (⭐2.2k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
+*   [ghdl (⭐2.3k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
-## [47. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [46. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Community
 
@@ -550,25 +548,25 @@
 *   [webextensions-api-mock (⭐4)](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
 *   [webextensions-schema (⭐3)](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
 
-## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
 *   [Stretto (⭐616)](https://github.com/benkaiser/stretto) - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. ([Demo](https://next.kaiserapps.com), [Clients (⭐9)](https://github.com/benkaiser/stretto-mobile-next)) `MIT` `Nodejs`
 
-## [50. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [49. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [endian\_codec](https://crates.io/crates/endian_codec): (En/De)code rust types as packed bytes with specific order (endian). Supports derive. - [![crates.io](https://img.shields.io/crates/v/endian_codec.svg)](https://crates.io/crates/endian_codec)
 
-## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Graphics
 
@@ -576,20 +574,16 @@
 
 ### Applications / System tools
 
-*   [ajeetdsouza/zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
+*   [ajeetdsouza/zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide/) - A fast alternative to `cd` that learns your habits [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 *   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
-## [52. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [51. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
-
-### Utility / Barcode
-
-*   [Playbook (⭐1.2k)](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them.
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Concurrency
 
@@ -599,23 +593,23 @@
 
 *   [CloudCore (⭐151)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
-## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
-*   [Game Remakes (⭐726)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+*   [Game Remakes (⭐746)](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 
 ### Databases
 
-*   [Database Tools (⭐3.9k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+*   [Database Tools (⭐4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
-## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [54. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
 *   [semantic-git-commit-cli (⭐143)](https://github.com/JPeer264/node-semantic-git-commit-cli) - Ensure semantic commits messages.
 
-## [56. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [55. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -625,14 +619,14 @@
 
 *   [Musty Thoughts](http://mustythoughts.com) - Personal blog of Michał Stęchły, includes many articles for people starting to learn about quantum computing.
 
-## [57. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [56. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
 *   [libceed](https://libceed.readthedocs.io/en/latest/index.html) - Code for Efficient Extensible Discretizations.
     (C, 2-clause BSD, [GitHub (⭐172)](https://github.com/CEED/libCEED))
 
-## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -665,7 +659,7 @@
 
 *   [public\_suffix (⭐2)](https://github.com/toddsundsted/public_suffix) - A small library designed to make the Public Suffix List (<https://publicsuffix.org/>) easier to use
 
-## [59. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [58. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 

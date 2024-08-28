@@ -14,22 +14,13 @@
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐128k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
 ### Programming Languages / Objective-C
 
 *   [NYTimes Objective-C Style Guide (⭐5.8k)](https://github.com/NYTimes/objective-c-style-guide#readme)
-*   [The official raywenderlich.com Objective-C style guide (⭐3.1k)](https://github.com/raywenderlich/objective-c-style-guide#readme)
-
-### Programming Languages / Python
-
-*   [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-
-### Programming Languages / Swift
-
-*   [The Official raywenderlich.com Swift Style Guide (⭐12k)](https://github.com/raywenderlich/swift-style-guide#readme)
 
 ### Other / API
 
@@ -38,10 +29,6 @@
 ### Other / Deployment
 
 *   [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-
-### Other / Favicon
-
-*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyr/favicon-cheat-sheet#readme)
 
 ### Other / Security
 

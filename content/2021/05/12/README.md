@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [vite-template-react (⭐85)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+*   [vite-template-react (⭐88)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 ## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -96,15 +96,15 @@
 
 ### Computer Science
 
-*   [Machine Learning (⭐64k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
     *   [Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐2.1k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-    *   [Core ML Models (⭐6.3k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-    *   [H2O (⭐370)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    *   [Core ML Models (⭐6.4k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+    *   [H2O (⭐371)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
     *   [Software Engineering for Machine Learning (⭐1.2k)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-    *   [AI in Finance (⭐3k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    *   [AI in Finance (⭐3.1k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
     *   [JAX (⭐1.4k)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-    *   [XAI (⭐126)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+    *   [XAI (⭐129)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
 ## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Graphics / TikZ
 
-*   [tikzplotlib (⭐2.2k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
+*   [tikzplotlib (⭐2.4k)](https://github.com/nschloe/tikzplotlib) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
 ---
 

@@ -62,7 +62,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Traffic Server (⭐1.7k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
+*   [Traffic Server (⭐1.8k)](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -86,7 +86,7 @@
 
 ### IoC
 
-*   [Unity (⭐1.6k)](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
+*   [Unity (⭐1.7k)](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 
 ## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

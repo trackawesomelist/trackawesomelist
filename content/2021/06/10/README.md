@@ -38,7 +38,7 @@
 
 ### Books
 
-- API: [Quran-api (⭐565)](https://github.com/fawazahmed0/quran-api#readme)
+- API: [Quran-api (⭐609)](https://github.com/fawazahmed0/quran-api#readme)
 
   Description: Free Quran API Service with 90+ different languages and 400+ translations
 

@@ -64,7 +64,7 @@
 
 ### Programming Languages
 
-*   [V (⭐1.8k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+*   [V (⭐1.9k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Boilerplates
 
-*   [Create React App example (mui-org/material-ui) (⭐90k)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - Create React App example from official Material-UI repo.
+*   [Create React App example (mui-org/material-ui) (⭐93k)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - Create React App example from official Material-UI repo.
 
 ---
 

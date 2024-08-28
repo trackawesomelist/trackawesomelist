@@ -37,7 +37,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
+*   [Beep (⭐156)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
 *   [Vue CRUD (⭐831)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
@@ -74,7 +74,7 @@
 
 ### Alertmanager / Miscellaneous
 
-*   [Awesome Prometheus Alerting Rules (⭐5.7k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+*   [Awesome Prometheus Alerting Rules (⭐6.3k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
 ## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 

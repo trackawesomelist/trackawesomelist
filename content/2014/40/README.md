@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peercast (⭐514)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+*   [peercast (⭐515)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 
 ## [2. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -90,12 +90,12 @@
 
 ### Caching
 
-*   [con\_cache (⭐906)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐908)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
 *   [coverex (⭐100)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐815)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [excoveralls (⭐818)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Configuration
 
@@ -111,7 +111,7 @@
 ### Date and Time
 
 *   [timex (⭐1.7k)](https://github.com/bitwalker/timex) - Easy to use Date and Time modules for Elixir.
-*   [timex\_interval (⭐8)](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
+*   [timex\_interval (⭐9)](https://github.com/atabary/timex-interval) - A date/time interval library for Elixir projects, based on Timex.
 
 ### Files and Directories
 
@@ -121,11 +121,11 @@
 
 *   [phoenix (⭐21k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 *   [placid (⭐190)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐427)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [sugar (⭐430)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐617)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐618)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
@@ -134,18 +134,18 @@
 ### JSON
 
 *   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐753)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [joken (⭐760)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 *   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐848)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐853)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐930)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐934)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐43)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
@@ -190,7 +190,7 @@
 ### XML
 
 *   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐169)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐170)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ### Other Awesome Lists
 

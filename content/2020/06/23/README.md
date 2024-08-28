@@ -10,19 +10,19 @@
 
 ### Godot script editor syntax themes / Godot version unknown
 
-*   [Godot syntax themes (⭐354)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
+*   [Godot syntax themes (⭐376)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
-*   [sist2 (⭐804)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
+*   [sist2 (⭐838)](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. `GPL-3.0` `C/Docker`
 
 ## [3. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [Moon (⭐213)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [Moon (⭐216)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 
 ## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Community Extensions
 
-*   [leroyguillaume/keycloak-bcrypt (⭐127)](https://github.com/leroyguillaume/keycloak-bcrypt)
+*   [leroyguillaume/keycloak-bcrypt (⭐129)](https://github.com/leroyguillaume/keycloak-bcrypt)
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -126,9 +126,9 @@
 
 ### Applications
 
-*   [asm-cli-rust (⭐306)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
-*   [denoland/deno (⭐93k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
-*   [kytan (⭐471)](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN
+*   [asm-cli-rust (⭐311)](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
+*   [denoland/deno (⭐94k)](https://github.com/denoland/deno) - A secure JavaScript/TypeScript runtime built with V8 and Tokio [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master\&event=push)](https://github.com/denoland/deno/actions)
+*   [kytan (⭐476)](https://github.com/changlan/kytan) - High Performance Peer-to-Peer VPN
 *   [linkerd/linkerd2-proxy (⭐2k)](https://github.com/linkerd/linkerd2-proxy) - Ultralight service mesh for Kubernetes.
 *   [rx (⭐3.1k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 

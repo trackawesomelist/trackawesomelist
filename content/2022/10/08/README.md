@@ -42,7 +42,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐118)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐119)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
 ## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 

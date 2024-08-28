@@ -39,7 +39,7 @@
 
 ### Tools / Playground
 
-*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐99)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Keyboard
 
-*   [KeyboardObserver (⭐161)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
+*   [KeyboardObserver (⭐160)](https://github.com/morizotter/KeyboardObserver) - For less complicated keyboard event handling.
 *   [KeyboardMan (⭐352)](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation.
 *   [Typist (⭐1.1k)](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
 *   [KeyboardHideManager (⭐57)](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift
@@ -61,9 +61,9 @@
 
 ### Utility / Collection View Layout
 
-*   [SwiftRandom (⭐560)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
+*   [SwiftRandom (⭐561)](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 *   [RandomKit (⭐1.5k)](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
-*   [SwiftParsec (⭐226)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
+*   [SwiftParsec (⭐227)](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
 *   [Datez (⭐261)](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
 *   [BFKit-Swift (⭐1k)](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
 *   [DeviceGuru (⭐473)](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
@@ -71,7 +71,7 @@
 *   [AssistantKit (⭐586)](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
 *   [SwiftLinkPreview (⭐1.4k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 *   [BundleInfos (⭐1)](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
-*   [ReadabilityKit (⭐829)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
+*   [ReadabilityKit (⭐830)](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
 *   [SwiftTweaks (⭐1.4k)](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
 *   [SwiftSortUtils (⭐61)](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
 *   [Retry (⭐498)](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
@@ -86,8 +86,8 @@
 
 *   [CleanClosureXcode (⭐185)](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
 *   [SwiftInitializerGenerator (⭐718)](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
-*   [XcodeEquatableGenerator (⭐191)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-*   [Import (⭐846)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
+*   [XcodeEquatableGenerator (⭐190)](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+*   [Import (⭐848)](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
 *   [Mark (⭐157)](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
 *   [XShared (⭐73)](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
 *   [DocumenterXcode (⭐35)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
@@ -117,7 +117,7 @@
 
 ### Networking
 
-*   [ENet (⭐2.6k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
+*   [ENet (⭐2.7k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
 ## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐354)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐364)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -61,7 +61,7 @@
 
 ### URL Shorteners
 
-- API: [GoTiny (⭐19)](https://github.com/robvanbakel/gotiny-api)
+- API: [GoTiny (⭐20)](https://github.com/robvanbakel/gotiny-api)
 
   Description: A lightweight URL shortener, focused on ease-of-use for the developer and end-user
 

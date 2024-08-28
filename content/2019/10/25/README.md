@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2019
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,19 +52,13 @@
 
 *   [LogDevice](https://logdevice.io/) \[C++] - a high-performant distributed system by Facebook for streaming and storing sequential data, using a log structure.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Utilities / Window Management
-
-*   [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
-
-## [8. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 
-## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
+## [8. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
 ### Programming
 
@@ -95,7 +89,7 @@
 
 *   [Ethereum Foundation](https://ethereum.foundation/)
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
@@ -105,7 +99,7 @@
 
 *   [Stream Framework (⭐4.7k)](https://github.com/tschellenbach/Stream-Framework) - Building news feed and notification systems using Cassandra and Redis.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -115,13 +109,13 @@
 
 *   [vue-html-to-paper (⭐298)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-wizard (⭐70)](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 
-## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [12. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
@@ -133,7 +127,7 @@
 
 ### Tools / Reverse Engineering
 
-*   [apk-mitm (⭐3.3k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
+*   [apk-mitm (⭐3.6k)](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04 - Jun 10, 2018
 
-58 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -155,24 +155,24 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [AspNetCoreSpa (⭐1.4k)](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
+*   [AspNetCoreSpa (⭐1.5k)](https://github.com/asadsahi/AspNetCoreSpa) - Asp.Net Core 2+ & Angular 6 SPA with Angular CLI full featured application.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Miniblog (⭐1.4k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
-*   [Orchard Core CMS (⭐6.8k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
+*   [Miniblog (⭐1.5k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
+*   [Orchard Core CMS (⭐7.3k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [SharpRepository (⭐649)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
+*   [SharpRepository (⭐659)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Dotnet Script (⭐2.5k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
+*   [Dotnet Script (⭐2.7k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [posh-dotnet (⭐44)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
+*   [posh-dotnet (⭐45)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
 
 ## [14. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
@@ -470,7 +470,7 @@
 
 ### Tools
 
-*   [Pieman (⭐207)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐210)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [35. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -482,7 +482,7 @@
 
 ### Code
 
-*   [CircuitPython GitHub Repository (⭐3.8k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+*   [CircuitPython GitHub Repository (⭐4k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 
 ### Frameworks
 
@@ -490,7 +490,7 @@
 
 ### Newsletter
 
-*   [Contribute to newsletter (⭐57)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐60)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News
 
@@ -528,7 +528,7 @@
 
 ### Non-deterministic, logic programming
 
-*   [cl-prolog2 (⭐28)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-prolog2 (⭐29)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -567,45 +567,27 @@
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
 
-## [44. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Firefox OS / Phoenix
-
-*   [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
-
-### Julia / Vue.js
-
-*   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
-
-### Linux / TeX
-
-*   [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
-
-### Lisp / TeX
-
-*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-
-## [45. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [44. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Usage in Production
 
 *   [Patreon](https://www.patreon.com/)
 
-## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Polyfills
 
-*   [ember-angle-bracket-invocation-polyfill (⭐77)](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
+*   [ember-angle-bracket-invocation-polyfill (⭐76)](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
 
 ### Packages / Routing addons
 
-*   [ember-redirect (⭐28)](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
+*   [ember-redirect (⭐27)](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 
 ### Packages / Examples
 
 *   [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
 
-## [47. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [46. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 
@@ -681,14 +663,14 @@
 *   [Python Reference (⭐3.4k)](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 *   [List of Free Learning Resources (⭐252k)](https://github.com/vhf/free-programming-books) - Freely available programming books
 
-## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Media
 
@@ -698,19 +680,19 @@
 
 *   [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 
-## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [49. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Payments
 
 *   [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Scheduling
 
 *   [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
 
-## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [51. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -724,7 +706,7 @@
 
 *   [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
@@ -742,13 +724,13 @@
 
 *   [Differific (⭐123)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
-## [54. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [53. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
 *   [alexa-skills-kit-js (⭐3.1k)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 
-## [55. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [54. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Computer Graphics
 
@@ -758,7 +740,7 @@
     *   [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
     *   [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
 
-## [56. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [55. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -768,7 +750,7 @@
 
 *   [shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
-## [57. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [56. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Blogs / Other
 
@@ -776,7 +758,7 @@
 *   [Michael Bolton](http://www.developsense.com/blog/)
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
-## [58. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [57. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Static Analysis
 

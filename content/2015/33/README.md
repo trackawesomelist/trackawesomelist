@@ -310,7 +310,7 @@
 
 ### SDK and API Clients
 
-*   [Azure PowerShell (⭐4.1k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+*   [Azure PowerShell (⭐4.2k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
 ## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -531,7 +531,7 @@
 
 ### Physics
 
-*   [Box2D (⭐7.4k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐8k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -688,9 +688,9 @@ git cherry -v master <branch-to-be-merged>
 
 ### More Awesome Lists
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
 ## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 

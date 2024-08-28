@@ -11,7 +11,7 @@
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐258)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐263)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
@@ -49,9 +49,9 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [GenFu (⭐815)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
-*   [mockhttp (⭐1.4k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
-*   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [GenFu (⭐829)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
+*   [mockhttp (⭐1.6k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
+*   [xUnit.net (⭐4.2k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐158)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

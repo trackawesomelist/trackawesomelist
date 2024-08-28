@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [LocalAppVeyor (⭐122)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
+*   [LocalAppVeyor (⭐123)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

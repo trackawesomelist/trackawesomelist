@@ -25,7 +25,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [keras (⭐61k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐183k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.9k)](https://github.com/Theano/Theano).
+*   [keras (⭐61k)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow (⭐185k)](https://github.com/tensorflow/tensorflow), [CNTK (⭐17k)](https://github.com/Microsoft/CNTK) and [Theano (⭐9.9k)](https://github.com/Theano/Theano).
 
 ## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
@@ -62,8 +62,8 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [BTCPayServer (⭐5.5k)](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
-*   [NBXplorer (⭐292)](https://github.com/dgarage/NBXplorer) - A Bitcoin and Altcoin lightweight block explorer.
+*   [BTCPayServer (⭐6.3k)](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API.
+*   [NBXplorer (⭐316)](https://github.com/dgarage/NBXplorer) - A Bitcoin and Altcoin lightweight block explorer.
 
 ## [9. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

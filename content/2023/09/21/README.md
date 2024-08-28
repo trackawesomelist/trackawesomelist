@@ -16,11 +16,11 @@
 
 ### Python / Financial Instruments and Pricing
 
-*   [Kelly-Criterion (⭐86)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+*   [Kelly-Criterion (⭐88)](https://github.com/deltaray-io/kelly-criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
 
 ### Python / Trading & Backtesting
 
-*   [QSTrader (⭐2.7k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
+*   [QSTrader (⭐2.9k)](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
 
 ## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux (⭐4.4k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐4.6k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -131,19 +131,19 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cryptomilk/nightcity.nvim (⭐53)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+*   [cryptomilk/nightcity.nvim (⭐55)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 
 ### Tabline / Diagnostics
 
-*   [willothy/nvim-cokeline (⭐519)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐534)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Terminal Integration / Diagnostics
 
-*   [mikesmithgh/kitty-scrollback.nvim (⭐370)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐403)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Git / Diagnostics
 
-*   [chrisgrieser/nvim-tinygit (⭐132)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
+*   [chrisgrieser/nvim-tinygit (⭐149)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble git client.
 
 ---
 

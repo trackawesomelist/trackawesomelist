@@ -16,7 +16,7 @@
 
 ### Code Analysis
 
-*   [ex\_check (⭐305)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+*   [ex\_check (⭐307)](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Video
 
-*   [VLC for iOS (⭐998)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
+*   [VLC for iOS (⭐1k)](https://github.com/videolan/vlc-ios) - VLC is a free and open source multimedia player for iOS.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

@@ -38,22 +38,22 @@
 
 ### Theming
 
-*   [Create Material-UI Theme (⭐87)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
+*   [Create Material-UI Theme (⭐88)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
 *   [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) - Material-UI theme/palette generator.
 *   [Material-UI Theme Editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
 
 ### Related Projects
 
-*   [Components Extra (⭐91)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+*   [Components Extra (⭐88)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 
 ### Components
 
 *   [Material-UI Password field (⭐58)](https://github.com/TeamWertarbyte/material-ui-password-field) - A password field using Material-UI.
 *   [Fullscreen Dialog (⭐58)](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) - A fullscreen dialog for Material-UI.
-*   [Notistack (⭐3.7k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-*   [Material-UI Dropzone (⭐478)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
-*   [Formik-Material-UI (⭐968)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
-*   [Redux-Form-Material-UI (⭐834)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
+*   [Notistack (⭐3.9k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
+*   [Material-UI Dropzone (⭐484)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
+*   [Formik-Material-UI (⭐971)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
+*   [Redux-Form-Material-UI (⭐831)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
 *   [Final-Form-Material-UI (⭐92)](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material-UI with Final Form.
 *   [Material-UI Auto Rotating Carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
 *   [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.

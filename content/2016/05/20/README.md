@@ -25,14 +25,14 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐689)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [llogiq/flame (⭐690)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
     *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Mattermost (⭐1.9k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐2k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 

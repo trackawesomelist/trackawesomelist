@@ -57,7 +57,7 @@
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow (⭐352)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐516)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [5. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -73,7 +73,7 @@
 
 ### Scientific Computing
 
-*   [AMGCL (⭐717)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
+*   [AMGCL (⭐723)](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 
 ## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
 

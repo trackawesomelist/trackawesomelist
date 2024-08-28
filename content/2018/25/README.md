@@ -30,7 +30,7 @@
 ### Official resources
 
 *   [Website](https://prometheus.io/) - Official Prometheus project website.
-*   [GitHub repository (⭐51k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+*   [GitHub repository (⭐54k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 *   [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 *   [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
@@ -253,25 +253,25 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Restsharp (⭐9.3k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+*   [Restsharp (⭐9.6k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Piranha CMS (⭐1.8k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
+*   [Piranha CMS (⭐1.9k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SmtpServer (⭐598)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
+*   [SmtpServer (⭐681)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Coravel (⭐2.8k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
+*   [Coravel (⭐3.8k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
 
 ### Frameworks, Libraries and Tools / Serialization
 
 *   MessagePack
-    *   [msgpack-cli (⭐810)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
-    *   [MessagePack-CSharp (⭐4.9k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+    *   [msgpack-cli (⭐828)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
+    *   [MessagePack-CSharp (⭐5.5k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 
 ### Videos / Workflow
 
@@ -289,7 +289,7 @@
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.6k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.7k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -331,11 +331,11 @@
 
 ### Packages / Data Management
 
-*   [ember-data-storefront (⭐141)](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
+*   [ember-data-storefront (⭐137)](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
 
 ### Packages / Routing addons
 
-*   [ember-router-scroll (⭐203)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
+*   [ember-router-scroll (⭐204)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
 ## [30. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
@@ -347,11 +347,11 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐507)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐521)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐9k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐9.1k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Admin Interface
 
-*   [Trestle (⭐1.9k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+*   [Trestle (⭐2k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 
 ## [35. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -595,7 +595,7 @@ Webpage: <http://ogniwo.org/>
 ### Projects Using Vue.js / Open Source
 
 *   [Ride Receipts (⭐143)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐134)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Laqu-l (⭐135)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
 *   [Minimal Notes (⭐131)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ### Components & Libraries / UI Utilities
@@ -607,7 +607,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐191)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐193)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

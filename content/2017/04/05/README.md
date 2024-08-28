@@ -36,11 +36,11 @@
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐492)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐347)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐348)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
@@ -53,9 +53,9 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐133)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐134)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Aura.Filter (⭐159)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 

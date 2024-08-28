@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [AdonisUI (⭐1.6k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.
+*   [AdonisUI (⭐1.7k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals.
 
 ## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -35,7 +35,7 @@
 
 ### PDF / Text-Based User Interfaces
 
-*   [Open HTML to PDF (⭐1.8k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐1.9k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

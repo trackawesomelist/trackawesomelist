@@ -120,7 +120,7 @@
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [fluentmigrator (⭐3k)](https://github.com/fluentmigrator/fluentmigrator) - Migration framework for .NET much like Ruby on Rails Migrations.
+*   [fluentmigrator (⭐3.2k)](https://github.com/fluentmigrator/fluentmigrator) - Migration framework for .NET much like Ruby on Rails Migrations.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [ZhiyuanLck/smart-pairs (⭐136)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
+*   [ZhiyuanLck/smart-pairs (⭐135)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs written by Lua.
 
 ## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -42,17 +42,17 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [RR4J (⭐20)](https://github.com/Kartikvk1996/RR4J) - RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
+*   [RR4J (⭐22)](https://github.com/Kartikvk1996/RR4J) - RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
 
 ### Security / Other
 
-*   [jwt-java (⭐8)](https://github.com/BastiaanJansen/jwt-java) - Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
+*   [jwt-java (⭐10)](https://github.com/BastiaanJansen/jwt-java) - Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Modules / Godot 3.2+
 
-*   [godot-simple-state (⭐61)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
+*   [godot-simple-state (⭐62)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -99,7 +99,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐695)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐699)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
 
 ---
 

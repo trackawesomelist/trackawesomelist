@@ -35,7 +35,7 @@
 
 ### Packages / Adapters
 
-*   [ember-local-storage (⭐217)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+*   [ember-local-storage (⭐218)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

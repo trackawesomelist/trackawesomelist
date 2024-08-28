@@ -72,7 +72,7 @@
 
 ### Tools
 
-*   [WebStation SYSMON (⭐186)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
+*   [WebStation SYSMON (⭐190)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-horizontal-timeline (⭐99)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
+*   [vue-horizontal-timeline (⭐100)](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
 *   [vue-image-kit (⭐10)](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
 *   [vue-paycard (⭐106)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 *   [vue-list-picker (⭐15)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
@@ -110,11 +110,11 @@
 ### Manufacturers
 
 *   [Hesai](https://www.hesaitech.com/) - Hesai Technology is a LIDAR manufacturer, founded in Shanghai, China.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCG2_ffm6sdMsK-FX8yOLNYQ/videos)
-    *   [GitHub organization :octocat:](https://github.com/HesaiTechnology)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCG2_ffm6sdMsK-FX8yOLNYQ/videos)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/HesaiTechnology)
 *   [Robosense](http://www.robosense.ai/) - RoboSense (Suteng Innovation Technology Co., Ltd.) is a LIDAR sensor, AI algorithm and IC chipset maufactuirer based in Shenzhen and Beijing (China).
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
-    *   [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR) ![](https://img.shields.io/badge/ROS-2-34aec5)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/RoboSense-LiDAR) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
 ### Datasets
 
@@ -124,7 +124,7 @@
 ### Simulators / Object detection and object tracking
 
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS 2 compatible.
-    *   [GitHub repository :octocat: (⭐1.1k)](https://github.com/osrf/gazebo) ![](https://img.shields.io/badge/ROS-2-34aec5)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐1.2k)](https://github.com/osrf/gazebo) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
 ## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

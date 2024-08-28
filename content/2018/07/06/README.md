@@ -50,14 +50,14 @@
 ### Python / Reinforcement Learning
 
 *   [Roboschool (⭐2.1k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
-*   [Retro (⭐3.3k)](https://github.com/openai/retro) - Retro Games in Gym
+*   [Retro (⭐3.4k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.2k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Stack Edit (⭐21k)](https://github.com/benweet/stackedit/) - In-browser Markdown editor
+*   [Stack Edit (⭐22k)](https://github.com/benweet/stackedit/) - In-browser Markdown editor
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -243,7 +243,7 @@
 
 ### Packages / Weird
 
-*   [cat-names (⭐271)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+*   [cat-names (⭐270)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 *   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
@@ -365,7 +365,7 @@
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐105k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [16. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
@@ -425,7 +425,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Coverband (⭐2.4k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+*   [Coverband (⭐2.5k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 
 ### DevOps Tools
 
@@ -433,7 +433,7 @@
 
 ### Money
 
-*   [Monetize (⭐418)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐424)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ### ORM/ODM Extensions
 
@@ -552,7 +552,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 
 ## [21. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

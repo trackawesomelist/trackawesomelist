@@ -67,7 +67,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Nucleus (⭐356)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+*   [Nucleus (⭐353)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐67)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐69)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 

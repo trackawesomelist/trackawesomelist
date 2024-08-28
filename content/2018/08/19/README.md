@@ -34,7 +34,7 @@
 
 ### Packages / UI libs
 
-*   [Flexi (⭐221)](https://github.com/html-next/flexi)
+*   [Flexi (⭐219)](https://github.com/html-next/flexi)
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

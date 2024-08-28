@@ -10,7 +10,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [camspiers/snap (⭐478)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
+*   [camspiers/snap (⭐480)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Games & Comics
 
-- API: [Barter.VG (⭐19)](https://github.com/bartervg/barter.vg/wiki)
+- API: [Barter.VG (⭐20)](https://github.com/bartervg/barter.vg/wiki)
 
   Description: Provides information about Game, DLC, Bundles, Giveaways, Trading
 
@@ -102,8 +102,8 @@
 
 ### Open Source Projects / Other Tools
 
-*   [DogeAPI (⭐137)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
-*   [JeffQL (⭐29)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
+*   [DogeAPI (⭐144)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
+*   [JeffQL (⭐30)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
 ---
 

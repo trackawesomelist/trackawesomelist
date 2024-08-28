@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2020
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -75,7 +75,7 @@
 
 ### Open Source / Other
 
-*   [ExifCleaner (⭐1.7k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [ExifCleaner (⭐1.8k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -229,20 +229,14 @@
 
 ### Table of Contents / Code Analysis
 
-*   [Rector (⭐8.4k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+*   [Rector (⭐8.5k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
-## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Assembly Language / Blazor
-
-*   [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
-
-## [21. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [20. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 
 *   [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
-*   [Jupyter kernel for Coq (⭐91)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
+*   [Jupyter kernel for Coq (⭐94)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
 
 ---
 

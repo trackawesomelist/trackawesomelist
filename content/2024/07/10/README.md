@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -8,26 +8,10 @@
 
 ## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Retrieval-Augmented Generation: Research Papers**
-
-*   <details>
-
-    <summary>Expand</summary>
-
-    1.  Noise robustness (External documents contain noises, struggled with noise above 80%)
-
-    2.  Negative rejection (External documents are all noises, Highest rejection rate was only 45%)
-
-    3.  Information integration (Difficulty in summarizing across multiple documents, Highest accuracy was 60-67%)
-
-    4.  Counterfactual robustness (Failed to detect factual errors in counterfactual external documents.)
-
-    </details>
-
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) A persona-driven data synthesis methodology using Text-to-Persona and Persona-to-Persona. \[28 Jun 2024]
-*   [RouteLLM (⭐1.3k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
+*   [RouteLLM (⭐2.7k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
@@ -47,72 +31,49 @@
 
 ### Community Extensions
 
-*   [Keycloak GDPR Event Logger (⭐2)](https://github.com/slemke/keycloak-gdpr-event-logger)
+*   [Keycloak GDPR Event Logger (⭐3)](https://github.com/slemke/keycloak-gdpr-event-logger)
 *   [Keycloak Backup Email Required Action (⭐0)](https://github.com/slemke/keycloak-backup-email)
 *   [Keycloak Terms Authenticator: Require Terms and Conditions on every login (⭐0)](https://github.com/slemke/keycloak-terms-authenticator)
 
 ### Tools
 
-*   [Keycloak Configurator (⭐6)](https://github.com/CycriLabs/keycloak-configurator)
+*   [Keycloak Configurator (⭐7)](https://github.com/CycriLabs/keycloak-configurator)
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Indent / Diagnostics
 
-*   [gh-liu/fold\_line.nvim (⭐12)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
+*   [gh-liu/fold\_line.nvim (⭐52)](https://github.com/gh-liu/fold_line.nvim) - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Scripting
 
-*   [clarkmcc/cel-rust (⭐98)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
+*   [clarkmcc/cel-rust (⭐355)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐160) (⭐159)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐784) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐886) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐293) (⭐292)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [Swagger UI (⭐26k) (⭐26k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐188) (⭐188)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐619) (⭐617)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ETL
 
-*   [Pentaho Data Integration (⭐7.5k) (⭐7.5k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [Pentaho Data Integration (⭐7.5k) (⭐7.6k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
 
 ### Projects / Integration Frameworks
 
 *   [Apache Camel (⭐5.4k) (⭐5.4k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 
-### Projects / Workflow engine
-
-*   [Flowable (⭐7.6k) (⭐7.6k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
-
 ### Resources / API Specification
 
-*   [AsyncAPI (⭐4k) (⭐4k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐647) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [AsyncAPI (⭐4k) (⭐4.1k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### LLM Evaluation / Multi-agents
 
-*   [confident-ai/deepeval (⭐2.4k)](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
+*   [confident-ai/deepeval (⭐2.7k)](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
 *   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
 
@@ -183,14 +144,7 @@
 
 *   [Abblix/Oidc.Server (⭐11)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 
-## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
-
-### Algorithms / Object detection and object tracking
-
-*   [detection\_by\_tracker :newspaper:](https://www.semanticscholar.org/paper/3D-LIDAR-Multi-Object-Tracking-for-Autonomous-and-Rachman/bafc8fcdee9b22708491ea1293524ece9e314851) - 3D-LIDAR Multi Object Tracking for Autonomous Driving: Multi-target Detection and Tracking under Urban Road Uncertainties, also used in Autoware Universe
-    *   [GitHub :octocat:](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5)
-    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=xSGCpb24dhI)
-
 ---
 
+- Prev: [Jul 11, 2024](/content/2024/07/11/README.md)
 - Next: [Jul 09, 2024](/content/2024/07/09/README.md)

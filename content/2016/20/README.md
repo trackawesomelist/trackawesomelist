@@ -16,13 +16,13 @@
 
 ### Frameworks / Runtimes
 
-*   [Vert.X Toolbox (⭐114)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
+*   [Vert.X Toolbox (⭐113)](https://github.com/vert-x3/vertx-microservices-toolbox) - A set of Vert.x components to build reactive microservice applications.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
-*   [doctest (⭐5.7k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐5.8k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -136,13 +136,13 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐689)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [llogiq/flame (⭐690)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
     *   [mrhooray/torch (⭐131)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
 *   [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) \[[blas](https://crates.io/keywords/blas)]
-    *   [mikkyang/rust-blas (⭐82)](https://github.com/mikkyang/rust-blas) - BLAS bindings
+    *   [mikkyang/rust-blas (⭐83)](https://github.com/mikkyang/rust-blas) - BLAS bindings
 
 ## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -727,11 +727,11 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.6k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.8k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
-*   [Mattermost (⭐1.9k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐2k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 

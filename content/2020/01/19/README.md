@@ -27,7 +27,7 @@
 ### Physics
 
 *   [Simbody (⭐2.3k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
-*   [SOFA (⭐891)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
+*   [SOFA (⭐900)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
 ## [4. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Apps / SEO and SMO
 
-*   [wagtail-opengraph-image-generator (⭐37)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
+*   [wagtail-opengraph-image-generator (⭐39)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Projects / Tools
 
-*   [lngen (⭐29)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
+*   [lngen (⭐30)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
 *   [mCoq (⭐28)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
 
 ### Resources / Books

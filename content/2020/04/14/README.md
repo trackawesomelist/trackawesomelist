@@ -20,19 +20,15 @@
 
 ## [3. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
-### Conventions
-
-*   Any list item with an OctoCat :octocat: has a GitHub repo or organization
-
 ### Manufacturers
 
 *   [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver :octocat: (⭐626)](https://github.com/ros-drivers/velodyne)
-    *   [C++/Python library :octocat: (⭐38)](https://github.com/valgur/velodyne_decoder)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/VelodyneLiDAR)
+    *   [ROS driver ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐636)](https://github.com/ros-drivers/velodyne)
+    *   [C++/Python library ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐39)](https://github.com/valgur/velodyne_decoder)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/c/Ouster-lidar)
-    *   [GitHub organization :octocat:](https://github.com/ouster-lidar) ![](https://img.shields.io/badge/ROS-2-34aec5)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/Ouster-lidar)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/ouster-lidar) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 
 ### Datasets
 
@@ -42,15 +38,15 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐32)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
+*   [TEN (⭐34)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
-*   [clawk (⭐47)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [replic (⭐32)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
+*   [replic (⭐33)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-ansi-term (⭐26)](https://github.com/vindarel/cl-ansi-term) - print
     colorized text, horizontal lines, progress bars, (un)ordered lists
     and tables on ANSI-compliant terminals. [GPL3](http://www.gnu.org/copyleft/gpl.html).

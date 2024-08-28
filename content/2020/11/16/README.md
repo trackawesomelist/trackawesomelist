@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-bitwarden (⭐35)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
+*   [tmux-bitwarden (⭐36)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
 ## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-svg-sprite (⭐58)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
+*   [vue-svg-sprite (⭐59)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
 
 ## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -87,18 +87,14 @@
 ### Manufacturers
 
 *   [Pioneer](http://autonomousdriving.pioneer/en/3d-lidar/) - LIDAR manufacturer, specializing in MEMS mirror-based raster scanning LiDARs (3D-LiDAR). Pioneer is headquartered in Tokyo, Japan.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/user/PioneerCorporationPR)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/user/PioneerCorporationPR)
 *   [Quanenergy](https://quanergy.com/) - Quanenergy Systems / solid-state and mechanical LIDAR sensors / offers End-to-End solutions in Mapping, Industrial Automation, Transportation and Security. The headquarter is located in Sunnyvale, California, USA.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/c/QuanergySystems)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/QuanergySystems)
 *   [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
-    *   [GitHub organization :octocat:](https://github.com/Blickfeld) ![](https://img.shields.io/badge/ROS-2-34aec5)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/c/BlickfeldLiDAR)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/Blickfeld) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
 *   [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
-
-### Others / Object detection and object tracking
-
-*   [Pointcloudprinter :octocat: (⭐146)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
 
 ## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

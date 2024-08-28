@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03 - Jun 09, 2019
 
-66 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -73,7 +73,7 @@
 
 ### Development
 
-*   [Test database (⭐3.9k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+*   [Test database (⭐4k)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -180,44 +180,38 @@
 
 *   [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) - BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 
-## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Oberon / PicoLisp
-
-*   [Algorithms and Data-Structures](https://inf.ethz.ch/personal/wirth/AD.pdf) - Niklaus Wirth (PDF)
-
-## [22. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [21. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Books
 
 *   [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 *   [Text Mining with R](https://www.tidytextmining.com)
 
-## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [static-GTFS-manager (⭐144)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
-## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [GitHub Actions for Python project with poetry (⭐261)](https://github.com/abatilo/actions-poetry)
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [EntityFrameworkCore.DataEncryption (⭐287)](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
+*   [EntityFrameworkCore.DataEncryption (⭐328)](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 
-## [26. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [25. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 
-## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
@@ -236,56 +230,56 @@
 
 *   [React Native GitHub (⭐115k)](https://github.com/facebook/react-native)
 
-## [28. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [27. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation / Opcodes
 
 *   [gb-opcodes](https://gbdev.github.io/gb-opcodes/optables/) - Opcodes table
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Motrix (⭐44k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐45k)](https://github.com/agalwood/Motrix) - Download manager.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [29. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
 *   [sqs-consumer (⭐1.7k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Profiler and Optimization
 
 *   [rbspy (⭐2.5k)](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 
-## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [31. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
 *   [Scala (⭐9k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐249)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+    *   [Scala Native (⭐250)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 
-*   [Quantum Computing (⭐2.4k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+*   [Quantum Computing (⭐2.5k)](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 ### Miscellaneous
 
-*   [CSV (⭐677)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐687)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [32. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Publishing
 
 *   [release-it (⭐7.1k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [33. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Web Components
 
-*   [shadow-dom (⭐26)](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
+*   [shadow-dom (⭐29)](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
 
 ### Packages / Webpack
 
@@ -295,19 +289,19 @@
 
 *   [ember-dynamic-render-template (⭐14)](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Analytics / Navigation Demos
 
 *   [react-native-flurry-sdk ★15 (⭐40)](https://github.com/flurry/react-native-flurry-sdk) - Official React Native wrapper for Flurry SDK. Supports Android, iOS and tvOS.
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
 
-## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [36. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content
 
@@ -320,13 +314,13 @@
 *   [Awesome Gradient Boosting Papers (⭐975)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 *   [Awesome Fraud Detection Papers (⭐1.5k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
-## [38. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [37. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
-## [39. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [38. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Algorithms and AI
 
@@ -355,25 +349,25 @@
 *   [gdxGifRecorder (⭐37)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 *   [noise4j (⭐95)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
-## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [39. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 
-## [41. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [40. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 
-## [42. Tools](/content/lvwzhen/tools/week/README.md)
+## [41. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Response
 
 *   [Polypane](http://polypane.rocks)
 
-## [43. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
@@ -381,19 +375,19 @@
 *   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.4k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 *   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐923)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
-## [44. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [43. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Typography / Storyboard
 
 *   [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 
-## [45. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [44. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
-## [46. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -407,13 +401,13 @@
 
 *   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
-## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Scroll / Other
 
 *   [simpleParallax (⭐1.8k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
-## [48. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [47. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Games
 
@@ -430,11 +424,11 @@
 *   [awesome snowkit (⭐118)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐28)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
-## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐653)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐654)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.9k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
@@ -449,7 +443,7 @@
 
 *   [Stremio](https://www.stremio.com/) - Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [50. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [49. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
@@ -471,13 +465,13 @@
 
 *   [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick \*\*\*.
 
-## [51. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [50. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 
 *   [Repo for C :fire::fire::fire: (⭐885)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
-## [52. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [51. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### i18n / Mouse Events
 
@@ -956,13 +950,13 @@
 
 *   [gatsby (⭐55k)](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 
-## [53. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [52. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Talks
 
 *   [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) - Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
 
-## [54. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [53. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -972,19 +966,19 @@
 
 *   [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
-## [55. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [54. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
 *   [GitHub Bug Dataset](http://www.inf.u-szeged.hu/\~ferenc/papers/GitHubBugDataSet/) - Bug Dataset of 15 Java open-source projects characterized by static source code metrics.
 
-## [56. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [55. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Demos, Samples, and Additional Libraries / Participants' solutions
 
 *   [QuantumPeep (⭐34)](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
-## [57. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [56. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Command-line Interface Development
 
@@ -996,7 +990,7 @@
     *   [rich (⭐48k)](https://github.com/Textualize/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
     *   [tqdm (⭐28k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
-## [58. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [57. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Premium / Game Engine resources
 
@@ -1007,11 +1001,11 @@
 *   [Spacex-Go (⭐852)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 *   [Superhero Interaction (⭐220)](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 
-## [59. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cli (⭐1.1k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐1.2k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ### Containers
 
@@ -1024,22 +1018,22 @@
 
 ### JSON
 
-*   [taoJSON (⭐580)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐590)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [GLM (⭐8.9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
-*   [linalg.h (⭐847)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [GLM (⭐9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [linalg.h (⭐854)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ### Memory Allocation
 
-*   [C Smart Pointers (⭐1.5k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
+*   [C Smart Pointers (⭐1.6k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
 
 ### Networking
 
-*   [libhttpserver (⭐862)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐879)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
-## [60. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [59. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -1053,25 +1047,25 @@
 
 *   [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
 
-## [61. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [60. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Ecommerce
 
 *   [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
 
-## [62. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [61. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / API libraries
 
 *   [EOSIO/eosjs (⭐1.4k)](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
 
-## [63. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [62. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hook-form (⭐31k)](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 
-## [64. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [63. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
@@ -1079,13 +1073,13 @@
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 
-## [65. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [64. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
 *   [Php (⭐13)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
-## [66. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [65. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Download Managers / Free Indexers
 

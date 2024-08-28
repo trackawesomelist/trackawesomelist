@@ -79,7 +79,7 @@ Wifi pw: `fermento`
 
 ### Chatting
 
-*   [alice (⭐112)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
+*   [alice (⭐111)](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 
 ### Encoding and Compression
 
@@ -87,7 +87,7 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐326)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐327)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
@@ -99,7 +99,7 @@ Wifi pw: `fermento`
 
 ### Queue
 
-*   [que (⭐662)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
+*   [que (⭐665)](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 
 ### Static Page Generation
 

@@ -166,7 +166,7 @@ Notes:
 
 ### Misc
 
-*   [SystemWrapper (⭐172)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+*   [SystemWrapper (⭐174)](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 
 ## [18. Awesome Ava](/content/avajs/awesome-ava/README.md)
 

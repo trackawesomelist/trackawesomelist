@@ -122,22 +122,13 @@
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐128k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
 ### Programming Languages / Objective-C
 
 *   [NYTimes Objective-C Style Guide (⭐5.8k)](https://github.com/NYTimes/objective-c-style-guide#readme)
-*   [The official raywenderlich.com Objective-C style guide (⭐3.1k)](https://github.com/raywenderlich/objective-c-style-guide#readme)
-
-### Programming Languages / Python
-
-*   [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-
-### Programming Languages / Swift
-
-*   [The Official raywenderlich.com Swift Style Guide (⭐12k)](https://github.com/raywenderlich/swift-style-guide#readme)
 
 ### Other / API
 
@@ -146,10 +137,6 @@
 ### Other / Deployment
 
 *   [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-
-### Other / Favicon
-
-*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyr/favicon-cheat-sheet#readme)
 
 ### Other / Security
 
@@ -250,7 +237,7 @@
 ### Files and Directories
 
 *   [librex (⭐36)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
-*   [zarex (⭐27)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+*   [zarex (⭐28)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ### Framework Components
 
@@ -258,17 +245,17 @@
 
 ### Testing
 
-*   [espec (⭐804)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
+*   [espec (⭐806)](https://github.com/antonmi/espec) - BDD test framework for Elixir inspired by RSpec.
 
 ## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐145)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐146)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐350)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐351)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

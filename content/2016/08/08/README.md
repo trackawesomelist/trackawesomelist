@@ -23,7 +23,7 @@
 
 ### Framework Components
 
-*   [multiverse (⭐93)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐95)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
@@ -73,7 +73,7 @@
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐49k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐50k)](https://github.com/google/material-design-icons).
 
 ## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

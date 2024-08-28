@@ -24,6 +24,7 @@
 ### Mobile
 
 *   [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance](https://common-lisp.net/project/armedbear/faq.shtml#qa). [GNU GPL3](http://www.gnu.org/copyleft/gpl.html) with [Classpath exception](http://www.gnu.org/software/classpath/license.html).
+    *   [abcl-memory-compiler](https://gitlab.com/cl-projects/abcl-memory-compiler) - a way to compile Java source code to create Java classes at runtime with ABCL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Intermediate
 
@@ -33,7 +34,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Social Engineering (⭐2.5k)](https://github.com/v2-dev/awesome-social-engineering)
+- Repository: [Social Engineering (⭐2.6k)](https://github.com/v2-dev/awesome-social-engineering)
 
   Description: List of awesome social engineering resources
 

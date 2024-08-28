@@ -44,7 +44,7 @@
 
 ### Username Check / Telegram
 
-*   [Blackbird (⭐2.5k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+*   [Blackbird (⭐2.6k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 *   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 
 ### Image Search / Telegram
@@ -68,7 +68,7 @@
 
 *   [Glit (⭐43)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-*   [SerpScan (⭐60)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [SerpScan (⭐61)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐2.9k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐3.1k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
-*   [david-vanderson/gui (⭐204)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
-*   [Aransentin/ZWL (⭐92)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
-*   [prime31/zig-upaya (⭐128)](https://github.com/prime31/zig-upaya) - GUI toolkit.
+*   [david-vanderson/gui (⭐256)](https://github.com/david-vanderson/gui) - Immediate mode GUI for Zig.
+*   [Aransentin/ZWL (⭐95)](https://github.com/Aransentin/ZWL) - Zig Windowing Library.
+*   [prime31/zig-upaya (⭐130)](https://github.com/prime31/zig-upaya) - GUI toolkit.
 
 ### Other / C++
 
@@ -122,7 +122,7 @@
 
 ### Kernels / Microkernels
 
-*   [Qubes-linux-kernel (⭐82)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
+*   [Qubes-linux-kernel (⭐83)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 
 ### Training and Materials / Web articles
 
@@ -140,30 +140,30 @@
 
 ### Search / Diagnostics
 
-*   [s1n7ax/nvim-search-and-replace (⭐68)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
-*   [roobert/search-replace.nvim (⭐207)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
+*   [s1n7ax/nvim-search-and-replace (⭐71)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
+*   [roobert/search-replace.nvim (⭐213)](https://github.com/roobert/search-replace.nvim) - Builds on the native search and replace experience.
 
 ### File Explorer / Diagnostics
 
-*   [dinhhuy258/sfm.nvim (⭐56)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
+*   [dinhhuy258/sfm.nvim (⭐57)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
 
 ### Utility / Diagnostics
 
-*   [j-morano/buffer\_manager.nvim (⭐219)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
+*   [j-morano/buffer\_manager.nvim (⭐221)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐16)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐18)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
-*   [LucasTavaresA/simpleIndentGuides.nvim (⭐10)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
+*   [LucasTavaresA/simpleIndentGuides.nvim (⭐9)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### CLI
 
-*   [AlgoKit CLI (⭐150)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [AlgoKit CLI (⭐160)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
 
 ---
 

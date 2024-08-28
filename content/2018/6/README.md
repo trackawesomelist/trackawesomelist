@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05 - Feb 11, 2018
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,7 +76,7 @@
 
 ### For Electron / Other
 
-*   [electron-serve (⭐425)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐429)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [5. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
@@ -88,7 +88,7 @@
 
 ### SDK and API Clients
 
-*   [Countly SDK for Windows (⭐24)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
+*   [Countly SDK for Windows (⭐25)](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -126,13 +126,7 @@
 
 *   [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
 
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C++ / Non-X86
-
-*   [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
-
-## [14. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [13. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Text and Numbers
 
@@ -143,52 +137,52 @@
 
 *   [datum (⭐115)](https://github.com/fogfish/datum) - A pure functional and generic programming for Erlang
 
-## [15. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [14. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### build tools
 
 *   **[rollup-plugin-standard](https://www.npmjs.com/package/rollup-plugin-standard)** - Lint Rollup builds with Standard
 
-## [16. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [15. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Radio Production
 
 *   [RAAR (⭐20)](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 
-## [17. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [16. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leading-Leaders.md)
 *   [Transitioning to Management (⭐6.8k)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
-## [18. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [17. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Navigation libraries / Official resources
 
 *   [lrud (⭐30)](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
 
-## [19. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [18. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Blogposts and opinions
 
 *   [Network-Automation with Salt, NAPALM and Kubernetes](http://blog.simonmetzger.de/2018/02/salt-napalm-k8s-network-automation/) - How to manage legacy devices that are not able to install software natively on themselves.
 
-## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [couchbase-lite-net (⭐430)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
+*   [couchbase-lite-net (⭐437)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [HdrHistogram.NET (⭐170)](https://github.com/HdrHistogram/HdrHistogram.NET) - High Dynamic Range (HDR) Histogram.
+*   [HdrHistogram.NET (⭐176)](https://github.com/HdrHistogram/HdrHistogram.NET) - High Dynamic Range (HDR) Histogram.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Fake JSON Server (⭐368)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
+*   [Fake JSON Server (⭐385)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
-## [21. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [20. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-url](https://github.com/zdharma/git-url)
 
@@ -337,13 +331,13 @@ TBD - PR Welcome!
     $ git fs
     Mounting readonly filesystem on ./git/fs
 
-## [22. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [21. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / PHR
 
 *   [HealthLocker (⭐72)](https://github.com/healthlocker/healthlocker) - Elixir-based personal health record.
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -367,19 +361,19 @@ TBD - PR Welcome!
 *   [SRE@Xero: Managing Incidents Part II](https://devblog.xero.com/sre-xero-managing-incidents-part-ii-224a6e06f426)
 *   [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/)
 
-## [24. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [23. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Inventory Management and Purchasing / Altium
 
 *   [Part-DB (⭐159)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
-## [25. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [24. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [speedtest2mqtt (⭐14)](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.
 
-## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [25. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United Kingdom 🇬🇧 / Scotland
 
@@ -393,19 +387,19 @@ Webpage: <https://edinburghhacklab.com/>
 | ---- | ----- | ------------------------------------------------------------------- | ------------------------ |
 | ✔    | ✔     | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn) | Open night every tuesday |
 
-## [27. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Vert.x Boot (⭐44)](https://github.com/jponge/vertx-boot) - Deploying verticles from a HOCON configuration.
 
-## [28. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [27. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### DevOps
 
 *   [No Code (⭐54k)](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [28. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -420,11 +414,11 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [bytestacks (⭐33)](https://github.com/cl4es/bytestacks) - Turn JVM bytecode execution into flame graphs.
 
-## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### R / General-Purpose Machine Learning
 
-*   [CatBoost (⭐7.8k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
+*   [CatBoost (⭐7.9k)](https://github.com/catboost/catboost) - General purpose gradient boosting on decision trees library with categorical features support out of the box for R.
 
 ### JavaScript / General-Purpose Machine Learning
 
@@ -436,10 +430,10 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Introduction to Machine Learning with Python (⭐7.2k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+*   [Introduction to Machine Learning with Python (⭐7.3k)](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 *   [Pydata book (⭐22k)](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
-## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Security
 
@@ -449,7 +443,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [@quinnypig](https://twitter.com/quinnypig)
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -460,13 +454,13 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
 
-## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Security and Cryptography
 
-*   [Digestif (⭐85)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
+*   [Digestif (⭐87)](https://github.com/mirage/digestif) - Hash algorithms (like SHA\* or BLAKE2\*) in OCaml and C.
 
-## [34. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [33. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / ROS Industrial Conference 2017
 
@@ -491,13 +485,13 @@ Webpage: <https://edinburghhacklab.com/>
 *   State of ROS 2 - demos and the technology behind [Slides](https://roscon.ros.org/2015/presentations/state-of-ros2.pdf) [Video](https://vimeo.com/142151734)
 *   Real-time Performance in ROS 2 [Slides](https://roscon.ros.org/2015/presentations/RealtimeROS2.pdf) [Video](https://vimeo.com/142621778)
 
-## [35. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [34. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
 *   [Witeboard](https://witeboard.com/) - A real-time whiteboard for your team. No signups required.
 
-## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -507,13 +501,13 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [Rails Ranger (⭐32)](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
 
-## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
 *   [dufy (⭐43)](https://github.com/privet-kitty/dufy) - exact color manipulation and conversion in various color models. [MIT](https://opensource.org/licenses/MIT).
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
@@ -528,33 +522,33 @@ Webpage: <https://edinburghhacklab.com/>
 *   [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 *   [reactnative.gallery](https://reactnative.gallery/) - Show and tell for React Native developers
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
-*   [SQLiteC++ (⭐2.1k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-*   [sqlite\_modern\_cpp (⭐871)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
+*   [SQLiteC++ (⭐2.2k)](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
+*   [sqlite\_modern\_cpp (⭐882)](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. \[MIT]
 
-## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Others / Particles
 
 *   [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 
-## [41. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [40. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Animate On Change (⭐17)](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 *   [Preact Async Route (⭐138)](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
 
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [MKUnits (⭐342)](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
 
-## [43. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [42. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@ariya](https://github.com/ariya), [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs)
     *   "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
@@ -607,47 +601,47 @@ Webpage: <https://edinburghhacklab.com/>
 *   [@timgraham](https://github.com/timgraham), [Django](https://www.djangoproject.com/)
     *   "Maintainer Stories: Tim Graham" ([interview](https://github.com/open-source/stories/timgraham))
 
-## [44. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [43. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [45. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [packed-printer (⭐37)](https://github.com/cgrand/packed-printer)
 
-## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Coach - Reinforcement Learning Coach by Intel® AI Lab (⭐2.2k)](https://github.com/NervanaSystems/coach)
 
-## [47. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [46. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
-*   [Kong (⭐38k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐9.3k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Kong (⭐39k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+*   [Tyk API Gateway (⭐9.5k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
 ### SaaS Tools / Symfony2
 
 *   [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 
-## [48. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [47. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Vue.js debugging in Chrome and VS Code (⭐5.8k)](https://github.com/Microsoft/vscode-recipes/tree/master/vuejs-cli) This recipe shows how to use the Debugger for Chrome extension with VS Code to debug Vue.js applications generated by the Vue CLI.
+*   [Vue.js debugging in Chrome and VS Code (⭐5.9k)](https://github.com/Microsoft/vscode-recipes/tree/master/vuejs-cli) This recipe shows how to use the Debugger for Chrome extension with VS Code to debug Vue.js applications generated by the Vue CLI.
 
 ### Resources / Examples
 
@@ -659,7 +653,7 @@ Webpage: <https://edinburghhacklab.com/>
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomotroid (⭐4.1k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 
 ### Components & Libraries / Utilities
 

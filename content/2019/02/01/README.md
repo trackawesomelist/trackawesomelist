@@ -40,7 +40,7 @@
 
 ### Text and Numbers
 
-*   [shortuuid (⭐43)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
+*   [shortuuid (⭐44)](https://github.com/gpedic/ex_shortuuid) - Generate concise, unambiguous, URL-safe UUIDs.
 
 ## [4. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

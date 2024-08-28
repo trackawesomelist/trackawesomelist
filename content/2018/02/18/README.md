@@ -23,8 +23,8 @@
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   MySQL
-    *   [mysql-connector-net (⭐264)](https://github.com/mysql/mysql-connector-net/tree/8.0) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
-    *   [MySqlConnector (⭐1.3k)](https://github.com/mysql-net/MySqlConnector) - Async MySQL Connector for .NET and .NET Core.
+    *   [mysql-connector-net (⭐286)](https://github.com/mysql/mysql-connector-net/tree/8.0) - Connector/Net is a fully-managed ADO.NET driver for MySQL.
+    *   [MySqlConnector (⭐1.4k)](https://github.com/mysql-net/MySqlConnector) - Async MySQL Connector for .NET and .NET Core.
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 

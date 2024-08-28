@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,27 +25,29 @@
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### GUI
+### State machines
+
+*   [LiquidState (⭐238)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+
+### Frameworks, Libraries and Tools / GUI
 
 *   [WinApi (⭐820)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
-### State machines
-
-*   [LiquidState (⭐236)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
-
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [CircleProgressBar (⭐95)](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
-## [5. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [6. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Links Sent by Readers / Projects
 
 *   [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
-## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 

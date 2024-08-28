@@ -578,7 +578,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Framework Components
 
-*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -620,11 +620,11 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.6k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.7k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
-*   [Hanna (⭐37)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐38)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -636,7 +636,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Boilerplates / Other
 
-*   [bozon (⭐758)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐759)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [41. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

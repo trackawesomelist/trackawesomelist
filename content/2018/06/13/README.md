@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [UWKM Streamfields (⭐33)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
+*   [UWKM Streamfields (⭐32)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
 
 ## [2. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Software / Miscellaneous
 
-*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐957)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
+*   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐996)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
-*   [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore (⭐1.1k)](https://github.com/Yonet/Angular-Interview-Questions)
+*   [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore (⭐1.2k)](https://github.com/Yonet/Angular-Interview-Questions)
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -107,11 +107,11 @@
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐712)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐717)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 
-*   [.NET Boxed Templates (⭐3.3k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
+*   [.NET Boxed Templates (⭐3.4k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

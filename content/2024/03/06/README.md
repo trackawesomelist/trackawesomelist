@@ -17,7 +17,7 @@
 
 ### Modules / Social Platform APIs
 
-*   [MTKruto (⭐70)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
+*   [MTKruto (⭐74)](https://github.com/MTKruto/MTKruto) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [3D Auto Collision Generator (⭐22)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
+*   [3D Auto Collision Generator (⭐28)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click (Godot 4.x).
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

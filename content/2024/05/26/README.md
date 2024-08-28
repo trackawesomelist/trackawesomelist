@@ -10,13 +10,13 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐815)](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐855)](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
-*   [Bigcapital](https://bigcapital.app/) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐2.3k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
+*   [Bigcapital](https://bigcapital.app/) - A self-hosted financial accounting and inventory management software for small to medium businesses. ([Source Code (⭐2.4k)](https://github.com/bigcapitalhq/bigcapital)) `AGPL-3.0` `Docker`
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -24,7 +24,7 @@
 
 *   [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [JSON Schema (⭐3.5k)](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 
@@ -54,11 +54,11 @@
 
 ### Databases
 
-*   [PocketBase (⭐579)](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
+*   [PocketBase (⭐613)](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 
 ### Security
 
-*   [Detection Engineering (⭐740)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
+*   [Detection Engineering (⭐775)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-drag-scroll (⭐344)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
+*   [ngx-drag-scroll (⭐347)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -77,8 +77,8 @@
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-scroll-animations (⭐3)](https://github.com/hm21/ngx-scroll-animations) - This minimalistic Angular directive, free from external dependencies, empowers you to effortlessly implement CSS animations on elements. These animations trigger when an element comes into view through scrolling on the page. It seamlessly integrates with your choice of CSS animations.
-*   [OverlayScrollbars (⭐3.7k)](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
-*   [ng-table-virtual-scroll (⭐133)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
+*   [OverlayScrollbars (⭐3.8k)](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+*   [ng-table-virtual-scroll (⭐134)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
 
 ---
 

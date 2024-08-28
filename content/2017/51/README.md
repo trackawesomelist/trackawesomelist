@@ -112,13 +112,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vue-storefront (⭐10k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
+*   [vue-storefront (⭐11k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 
 ## [16. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### CSharp / Data Visualization
 
-*   [QuantConnect (⭐8.8k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
+*   [QuantConnect (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
 
 ## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Open Source Projects
 
-*   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
+*   [Ionic Soundboard (⭐14)](https://github.com/rkalis/ionic-soundboard)
 
 ## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -296,23 +296,23 @@
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [nodatime (⭐2.6k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
+*   [nodatime (⭐2.7k)](https://github.com/nodatime/nodatime) - Better date and time API for .NET <http://nodatime.org>.
 
 ### Frameworks, Libraries and Tools / IDE
 
 *   [Mono (⭐2.8k)](https://github.com/mono/monodevelop) - MonoDevelop enables developers to quickly write desktop and web applications on Linux, Windows and Mac OS X. It also makes it easy for developers to port .NET applications created with Visual Studio to Linux and Mac OS X maintaining a single code base for all platforms.
-*   [SharpDevelop (⭐2k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
+*   [SharpDevelop (⭐2.1k)](https://github.com/icsharpcode/SharpDevelop) - SharpDevelop is a free Integrated Development Environment (IDE) for C#, VB.NET, Boo, IronPython, IronRuby and F# projects on Microsoft's .NET platform. It is written (almost) entirely in C#, and comes with features you would expect in an IDE plus a few more.
 
 ### Frameworks, Libraries and Tools / ORM
 
 *   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
-    *   [Dapper-FluentMap (⭐426)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-    *   [Dommel (⭐513)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-    *   [MicroOrm.Dapper.Repositories (⭐608)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
+    *   [Dapper-FluentMap (⭐428)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+    *   [Dommel (⭐601)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+    *   [MicroOrm.Dapper.Repositories (⭐651)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [xBehave.net (⭐383)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
+*   [xBehave.net (⭐382)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
 ## [30. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
@@ -338,17 +338,17 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐426)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐435)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
-*   [Vireo (⭐926)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐929)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐483)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐484)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

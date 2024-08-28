@@ -79,7 +79,7 @@
 
 ### Contents / Utilities
 
-*   [ldap2pg (⭐195)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [ldap2pg (⭐200)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
 ## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -89,11 +89,11 @@
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [google-cloud-dotnet (⭐880)](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
+*   [google-cloud-dotnet (⭐920)](https://github.com/GoogleCloudPlatform/google-cloud-dotnet) - Google Cloud Client Libraries for .NET.
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [LightBDD (⭐313)](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
+*   [LightBDD (⭐340)](https://github.com/LightBDD/LightBDD) - BDD framework allowing to create easy to read and maintain tests.
 
 ## [11. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

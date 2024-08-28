@@ -64,7 +64,7 @@
 
 ### UI Testing
 
-*   [AutoMate (⭐285)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
+*   [AutoMate (⭐288)](https://github.com/PGSSoft/AutoMate) - XCTest extensions for writing UI automation tests.
 
 ## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -89,15 +89,15 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐897)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐900)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
-*   [JustCli (⭐28)](https://github.com/jden123/JustCli) - That’s just a quick way to create your own command line tool.
+*   [JustCli (⭐29)](https://github.com/jden123/JustCli) - That’s just a quick way to create your own command line tool.
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐368)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [IronScheme (⭐373)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
 *   [VisualFSharp (⭐3.8k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database

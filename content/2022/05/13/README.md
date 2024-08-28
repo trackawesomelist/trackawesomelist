@@ -32,7 +32,7 @@
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐2.6k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
+*   [DevOps-Bash-tools (⭐2.7k)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 
 ## [5. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

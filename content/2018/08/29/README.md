@@ -73,7 +73,6 @@
 
 ### Other / Bots
 
-*   [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 *   [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
 ## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
@@ -86,7 +85,7 @@
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [Jwt.Net (⭐2k)](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+*   [Jwt.Net (⭐2.1k)](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 
 ## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

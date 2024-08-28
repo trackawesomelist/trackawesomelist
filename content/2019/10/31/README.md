@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2019
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,13 +24,7 @@
 
 *   [GraphCMS introduction guide with Vue](https://graphcms.com/docs/introduction/) on GraphCMS
 
-## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
-
-### Backports and improvements
-
-*   [typing-extensions (⭐1.6k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
-
-## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Data validation
 
@@ -38,19 +32,19 @@
 
 ### Packages / Security
 
-*   [ember-permissions (⭐10)](https://github.com/Bagaar/ember-permissions) - Permission management for Ember applications.
+*   [ember-permissions (⭐14)](https://github.com/Bagaar/ember-permissions) - Permission management for Ember applications.
 
 ### Packages / Examples
 
-*   [Ember.js RealWorld Implementation (⭐177)](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
+*   [Ember.js RealWorld Implementation (⭐183)](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Misc Articles
 
 *   [SRE as a Lifestyle Choice](https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d)
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -66,7 +60,7 @@
 
 
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -74,22 +68,22 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐9.4k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐9.6k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Publish GitHub release artifacts (⭐122)](https://github.com/skx/github-action-publish-binaries)
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [Nauz File Detector(NFD) (⭐497)](https://github.com/horsicq/Nauz-File-Detector) - Linker/Compiler/Tool detector  for Windows, Linux and MacOS.
 
-## [11. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Other tools / Misc
 
@@ -99,13 +93,13 @@
 
 *   [Data Viz Today](https://dataviztoday.com/)
 
-## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
 
-## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Server Frameworks
 
@@ -136,25 +130,25 @@
 *   [Vim Plugin (⭐626)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
-## [14. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [13. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
-## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [14. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [rescue-box (⭐20)](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 
-## [16. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / User Interface
 
 *   [msdf-gdx (⭐33)](https://github.com/maltaisn/msdf-gdx) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -189,7 +183,7 @@
 
 *   [smartlook.com](https://www.smartlook.com/) — free packages for web and mobile apps (1500 sessions/month), three heatmaps, one funnel, 1-month data history
 
-## [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [17. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Dependency Injection
 
@@ -203,7 +197,7 @@
 
 *   [swift-package-manager (⭐9.7k)](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
 *   [punic (⭐0)](https://github.com/schwa/punic) - Clean room reimplementation of Carthage tool.
-*   [Rome (⭐816)](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
+*   [Rome (⭐817)](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
 
 ### Newsletters
 
@@ -215,15 +209,15 @@
 
 ### Other Awesome Lists
 
-*   [Open Source apps (⭐41k)](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps.
+*   [Open Source apps (⭐42k)](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps.
 *   [iOS-Playbook (⭐382)](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps.
 *   [Awesome-iOS-Twitter (⭐249)](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts.
 *   [Top App Developers (⭐1.4k)](https://github.com/app-developers/top) - A list of top iOS app developers.
 
 ### Project setup
 
-*   [chairs (⭐226)](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents.
-*   [SwiftKit (⭐825)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
+*   [chairs (⭐227)](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents.
+*   [SwiftKit (⭐826)](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 
 ### Reactive Programming
 
@@ -231,7 +225,7 @@
 
 ### Reference
 
-*   [SwiftSnippets (⭐163)](https://github.com/onmyway133/SwiftSnippets) - A collection of Swift snippets to be used in Xcode.
+*   [SwiftSnippets (⭐164)](https://github.com/onmyway133/SwiftSnippets) - A collection of Swift snippets to be used in Xcode.
 
 ### Style Guides
 
@@ -244,20 +238,20 @@
 
 ### TextField & TextView / Collection View Layout
 
-*   [IQDropDownTextField (⭐306)](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
+*   [IQDropDownTextField (⭐309)](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
 *   [StatefulViewController (⭐2.1k)](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 *   [MBAutoGrowingTextView (⭐125)](https://github.com/MatejBalantic/MBAutoGrowingTextView) - An auto-layout base UITextView subclass which automatically grows with user input and can be constrained by maximal and minimal height - all without a single line of code.
 *   [TextFieldEffects (⭐5.9k)](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
 *   [TJTextField (⭐44)](https://github.com/tejas-ardeshna/TJTextField) - UITextField with underline and left image.
 *   [UITextField-Navigation (⭐446)](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.
 *   [AutoCompleteTextField (⭐65)](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield.
-*   [PasswordTextField (⭐310)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies.
-*   [AnimatedTextInput (⭐762)](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
+*   [PasswordTextField (⭐309)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies.
+*   [AnimatedTextInput (⭐761)](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
 *   [NxEnabled (⭐34)](https://github.com/Otbivnoe/NxEnabled) - Library which allows you binding `enabled` property of button with textable elements (TextView, TextField).
 *   [SelectableTextView (⭐635)](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion.
 *   [TaniwhaTextField (⭐26)](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it.
 *   [SearchTextField (⭐1.2k)](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list.
-*   [Tagging (⭐120)](https://github.com/k-lpmg/Tagging) - TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐121)](https://github.com/k-lpmg/Tagging) - TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### UIPageControl / Collection View Layout
 
@@ -275,12 +269,12 @@
 *   [TimeLord (⭐8)](https://github.com/JonFir/TimeLord) - Easy DateTime (NSDate) management in Swift.
 *   [Sugar (⭐1.1k)](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 *   [Then (⭐4.2k)](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers.
-*   [Kvitto (⭐291)](https://github.com/Cocoanetics/Kvitto) - App Store Receipt Validation.
+*   [Kvitto (⭐292)](https://github.com/Cocoanetics/Kvitto) - App Store Receipt Validation.
 *   [Notificationz (⭐77)](https://github.com/SwiftKitz/Notificationz) - Helping you own NSNotificationCenter in Swift.
 *   [SwiftFoundation (⭐626)](https://github.com/PureSwift/SwiftFoundation) - Cross-Platform, Protocol-Oriented Programming base library to complement the Swift Standard Library. (Pure Swift, Supports Linux).
 *   [VersionTrackerSwift (⭐88)](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed..
 *   [AEAppVersion (⭐12)](https://github.com/tadija/AEAppVersion) - Simple and Lightweight App Version Tracking for iOS written in Swift.
-*   [SwiftyUtils (⭐553)](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project.
+*   [SwiftyUtils (⭐557)](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project.
 *   [Outlets (⭐129)](https://github.com/phatblat/Outlets) - Utility functions for validating IBOutlet and IBAction connections.
 *   [EasyAbout (⭐55)](https://github.com/JARMourato/EasyAbout) - A way to easily add CocoaPods licenses and App Version to your iOS App using the Settings Bundle.
 *   [Validated (⭐607)](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types.
@@ -292,7 +286,7 @@
 *   [DefaultStringConvertible (⭐119)](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types.
 *   [WhatsNew (⭐1.5k)](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 *   [ActionClosurable (⭐124)](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures.
-*   [ios\_system (⭐879)](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
+*   [ios\_system (⭐884)](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
 *   [DuctTape (⭐175)](https://github.com/marty-suzuki/DuctTape) - KeyPath dynamicMemberLookup based syntax sugar for swift.
 
 ### VR / Collection View Layout
@@ -304,14 +298,14 @@
 *   [VideoSplashKit (⭐1.2k)](https://github.com/svhawks/VideoSplashKit) - VideoSplashKit - UIViewController library for creating easy intro pages with background videos.
 *   [paper-onboarding (⭐3.3k)](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
 *   [SwiftyOverlay (⭐81)](https://github.com/saeid/SwiftyOverlay) - Easy and quick way to show intro / instructions over app UI without any additional images in real-time!
-*   [WhatsNewKit (⭐3.7k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
-*   [OnboardKit (⭐529)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [WhatsNewKit (⭐3.8k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+*   [OnboardKit (⭐540)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ### WebSocket / Collection View Layout
 
 *   [Starscream (⭐8.2k)](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS.
 *   [Socks (⭐575)](https://github.com/vapor-community/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS.
-*   [SwifterSockets (⭐58)](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS.
+*   [SwifterSockets (⭐59)](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS.
 
 ### Tools / Collection View Layout
 
@@ -320,7 +314,7 @@
 *   [Cichlid (⭐242)](https://github.com/dealforest/Cichlid) - automatically delete the current project's DerivedData directories.
 *   [XCSwiftr (⭐343)](https://github.com/dzenbot/XCSwiftr) - An Xcode Plugin to convert Objective-C to Swift.
 *   [SwiftKitten (⭐139)](https://github.com/johncsnyder/SwiftKitten) - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework.
-*   [AVXCAssets-Generator (⭐341)](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
+*   [AVXCAssets-Generator (⭐342)](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
 *   [SwiftCompilationPerformanceReporter (⭐146)](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets.
 *   [BuildTimeAnalyzer (⭐4.3k)](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift.
 *   [Duration (⭐324)](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
@@ -346,11 +340,11 @@
 
 ### Other Xcode / Collection View Layout
 
-*   [awesome-xcode-scripts (⭐120)](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts.
-*   [SBShortcutMenuSimulator (⭐1.7k)](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator.
+*   [awesome-xcode-scripts (⭐121)](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts.
+*   [SBShortcutMenuSimulator (⭐1.8k)](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator.
 *   [awesome-gitignore-templates (⭐23)](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates.
 *   [Swift-VIPER-Module (⭐542)](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for create modules with VIPER Architecture written in Swift 3.
-*   [ViperC (⭐79)](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture for both Objective-C and Swift.
+*   [ViperC (⭐80)](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture for both Objective-C and Swift.
 
 ---
 

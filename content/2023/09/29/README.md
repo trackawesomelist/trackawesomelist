@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2023
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
 
-*   An unnecessarily tiny implementation of GPT-2 in NumPy. [picoGPT (⭐3.1k)](https://github.com/jaymody/picoGPT): Transformer Decoder \[Jan 2023]
+*   An unnecessarily tiny implementation of GPT-2 in NumPy. [picoGPT (⭐3.2k)](https://github.com/jaymody/picoGPT): Transformer Decoder \[Jan 2023]
 
     ```python
     q = x @ w_k # [n_seq, n_embd] @ [n_embd, n_embd] -> [n_seq, n_embd]
@@ -32,12 +32,6 @@
     # In picoGPT, combine w_q, w_k and w_v into a single matrix w_fc
     x = x @ w_fc # [n_seq, n_embd] @ [n_embd, 3*n_embd] -> [n_seq, 3*n_embd]
     ```
-
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [Ruby Learning](http://rubylearning.github.io)
 
 ---
 

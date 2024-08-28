@@ -10,7 +10,7 @@
 
 ### Open Source Projects / Other / Chatbots
 
-*   [MM ReAct (⭐913)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
+*   [MM ReAct (⭐922)](https://github.com/microsoft/MM-REACT): Multi Modal ReAct Design
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

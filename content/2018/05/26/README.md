@@ -50,7 +50,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [source-map-explorer (⭐3.6k)](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
+*   [source-map-explorer (⭐3.8k)](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
 
 ### Packages / Articles
 

@@ -79,7 +79,7 @@
 
 ### Packages / Examples
 
-*   [Simple contact manager demo app for ember-orbit (⭐15)](https://github.com/cerebris/peeps-ember-orbit)
+*   [Simple contact manager demo app for ember-orbit (⭐16)](https://github.com/cerebris/peeps-ember-orbit)
 
 ## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
 

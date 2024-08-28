@@ -63,7 +63,7 @@
 
 ### Packages / Modifiers
 
-*   [ember-ref-modifier (⭐42)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
+*   [ember-ref-modifier (⭐44)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

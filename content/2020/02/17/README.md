@@ -12,13 +12,13 @@
 
 *   Visual Studio
     *   [dgriffen/rls-vs2017 (⭐110)](https://github.com/ZoeyR/rls-vs2017) - Rust support for Visual Studio 2017 Preview [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
-    *   [PistonDevelopers/VisualRust (⭐701)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
+    *   [PistonDevelopers/VisualRust (⭐702)](https://github.com/PistonDevelopers/VisualRust) - A Visual Studio extension for Rust [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
 
 ## [2. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Virtualisation / Discovery
 
-*   [nixos-shell (⭐590)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
+*   [nixos-shell (⭐624)](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Game Development and Graphics
 
-*   [Ruby 2D (⭐638)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
+*   [Ruby 2D (⭐642)](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -88,18 +88,18 @@
 
 ### Shell Script Development
 
-*   [ansi (⭐604)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+*   [ansi (⭐609)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 *   [argbash (⭐1.4k)](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 *   [assert.sh (⭐487)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 *   [async-bash (⭐137)](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 *   [bash3boilerplate (⭐2.1k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
-*   [bashful (⭐599)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
+*   [bashful (⭐601)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
 *   [bashify (⭐99)](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
 *   [bashing (⭐77)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
-*   [bashmanager (⭐93)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
-*   [Bash Infinity (⭐5.5k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
+*   [bashmanager (⭐94)](https://github.com/lingtalfi/bashmanager) - Mini bash framework for creating command line tools.
+*   [Bash Infinity (⭐5.6k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash.
 *   [bash\_unit (⭐586)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
-*   [mo (⭐547)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+*   [mo (⭐553)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 *   [semver\_bash (⭐246)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 *   [shfmt (⭐7k)](https://github.com/mvdan/sh) - Format bash programs.
 *   [shunit2 (⭐1.6k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.

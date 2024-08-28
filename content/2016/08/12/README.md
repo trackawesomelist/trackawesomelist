@@ -48,7 +48,7 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐684)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐687)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
@@ -87,7 +87,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Skipper (⭐3k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
+*   [Skipper (⭐3.1k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 
 ### Storage / Scala
 

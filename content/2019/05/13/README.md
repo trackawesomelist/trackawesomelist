@@ -27,7 +27,7 @@
 
 ### Reflection
 
-*   [visit\_struct (⭐483)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
+*   [visit\_struct (⭐487)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[Boost]
 
 ### Miscellaneous
 
@@ -43,11 +43,11 @@
 
 ### External Services
 
-*   [bird-box (⭐181)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
+*   [bird-box (⭐182)](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 
 ### GitHub
 
-*   [activity-box (⭐204)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+*   [activity-box (⭐207)](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ### Resources
 
@@ -75,15 +75,15 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐418)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐420)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐636)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐637)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐3.1k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐3.2k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -91,11 +91,11 @@
 
 *   [.NET (⭐19k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐20k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐643)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐651)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐5k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐5.3k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

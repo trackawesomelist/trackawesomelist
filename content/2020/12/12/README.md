@@ -295,7 +295,7 @@
 
 ### Packages / Automation
 
-*   [nut.js (⭐2.1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+*   [nut.js (⭐2.2k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ## [6. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

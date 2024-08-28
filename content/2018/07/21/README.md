@@ -56,7 +56,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Xer.Cqrs (⭐101)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

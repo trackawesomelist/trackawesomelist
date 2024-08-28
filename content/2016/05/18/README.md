@@ -102,7 +102,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐7.6k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐7.8k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ---
 

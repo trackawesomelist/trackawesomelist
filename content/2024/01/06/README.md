@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [go-peer (⭐207)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐248)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐878)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐880)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -99,17 +99,17 @@
 
 ### Modules / Various Godot versions
 
-*   [godot-box2d (⭐304)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.4k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
-*   [godot-jolt (⭐1.8k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐5.8k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
-*   [godot-rapier-2d (⭐154)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.7k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
+*   [godot-box2d (⭐323)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐7.9k)](https://github.com/erincatto/box2d) physics server for Godot (Godot 4.2).
+*   [godot-jolt (⭐2k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐6.3k)](https://github.com/jrouwe/JoltPhysics) (Godot 4.2).
+*   [godot-rapier-2d (⭐283)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐3.9k)](https://github.com/dimforge/rapier) physics server for Godot (Godot 4.2).
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Downloading and Serving
 
 *   [httpd.sh (⭐114)](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
-*   [Bash-web-server (⭐932)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
-*   [bash-stack (⭐449)](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
+*   [Bash-web-server (⭐934)](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
+*   [bash-stack (⭐458)](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
 
 ---
 

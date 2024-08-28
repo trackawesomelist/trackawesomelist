@@ -154,7 +154,7 @@
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐4.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -164,7 +164,7 @@
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [11. Amas](/content/sindresorhus/amas/README.md)

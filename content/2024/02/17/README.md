@@ -16,7 +16,7 @@
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐18k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐19k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Markup language
 
@@ -45,7 +45,7 @@
 
 ### 2D / Godot 4.2
 
-*   [Poder Solar (⭐31)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐44)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Email Search / Email Check / Telegram
 
-*   [Gitrecon (⭐9)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐18)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ### Domain and IP Research / Telegram
 
@@ -77,7 +77,7 @@
 
 ### Image Search / Telegram
 
-*   [GeoSpyer (⭐162)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐171)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ### Image Analysis / Telegram
 
@@ -90,7 +90,7 @@
 
 ### Other Tools / Telegram
 
-*   [Discoshell (⭐75)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 
 ## [6. Awesome V](/content/vlang/awesome-v/README.md)
@@ -103,8 +103,8 @@
 
 ### Configuration / Development Environment
 
-*   [DDEV (⭐2.5k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐679)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [DDEV (⭐2.6k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [Docksal (⭐683)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

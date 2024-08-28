@@ -22,7 +22,7 @@
 
 ### Contents / High-Availability
 
-*   [BDR (⭐358)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+*   [BDR (⭐360)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 
 ### Contents / CLI
 
@@ -100,9 +100,9 @@ git blame -L <start>,<end>
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [FakeItEasy (⭐1.5k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
-*   [MSpec (⭐874)](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
-*   [NSubstitute (⭐2.4k)](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
+*   [FakeItEasy (⭐1.7k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET.
+*   [MSpec (⭐884)](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
+*   [NSubstitute (⭐2.6k)](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 
 ## [12. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 

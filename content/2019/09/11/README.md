@@ -22,7 +22,7 @@
 
 ### Resources / Examples
 
-*   [A one-on-one chat app in Vue with CometChat (⭐7)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
+*   [A one-on-one chat app in Vue with CometChat (⭐8)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐592)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐604)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [Spy (⭐12)](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
+*   [Spy (⭐13)](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

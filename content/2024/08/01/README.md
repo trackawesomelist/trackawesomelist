@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01, 2024
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [CWood-sdf/banana.nvim (⭐83)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
+*   [CWood-sdf/banana.nvim (⭐113)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
 ## [3. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -41,19 +41,13 @@
 
 *   [FTP client for C++ (⭐207)](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. \[MIT]
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Storage and Media Processing
-
-*   [FreeImage.host](https://freeimage.host/) — With free image host you can use our API and forum/website plugin for seamless image upload, at no cost. 128 MB limit. Direct image links, BBCode and HTML thumbnails.
-
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
 
-## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Workflow
 
@@ -61,4 +55,5 @@
 
 ---
 
+- Prev: [Aug 02, 2024](/content/2024/08/02/README.md)
 - Next: [Jul 31, 2024](/content/2024/07/31/README.md)

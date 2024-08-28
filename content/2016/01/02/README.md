@@ -66,7 +66,7 @@
 
 ### C++ / Gesture Detection
 
-*   [grt (⭐852)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
+*   [grt (⭐856)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

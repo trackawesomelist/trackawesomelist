@@ -36,7 +36,7 @@
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-security (⭐21)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
+*   [ngx-security (⭐20)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -48,4 +48,5 @@
 
 ---
 
+- Prev: [Jul 22, 2024](/content/2024/07/22/README.md)
 - Next: [Jul 20, 2024](/content/2024/07/20/README.md)

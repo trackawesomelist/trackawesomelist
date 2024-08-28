@@ -41,7 +41,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Hacking (⭐12k)](https://github.com/carpedm20/awesome-hacking)
+- Repository: [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking)
 
   Description: List of awesome Hacking tutorials, tools and resources
 
@@ -189,11 +189,11 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐491)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐492)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Aura.Di (⭐347)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Aura.Di (⭐348)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 
 ### Table of Contents / Database
 
@@ -206,9 +206,9 @@ git checkout master@{yesterday}
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Aura.Auth (⭐133)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [Aura.Auth (⭐134)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Aura.Filter (⭐159)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 
@@ -470,11 +470,11 @@ $ git config --global merge.tool meld
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Enums.NET (⭐1.5k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+*   [Enums.NET (⭐1.7k)](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [NSpec (⭐255)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
+*   [NSpec (⭐260)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
 ## [41. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -488,15 +488,15 @@ $ git config --global merge.tool meld
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐638)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐644)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
-*   [Pandoctor (⭐34)](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
+*   [Pandoctor (⭐36)](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
 
 ### Scientific
 
-*   [Scientific Workflow (⭐103)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐109)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 
@@ -504,7 +504,7 @@ $ git config --global merge.tool meld
 
 ### System
 
-*   [Swift Windows Switcher (⭐328)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐333)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [43. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐535)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐538)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TextQL (⭐9.1k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

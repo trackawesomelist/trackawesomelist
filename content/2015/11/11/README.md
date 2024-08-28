@@ -36,8 +36,8 @@
 
 ### IRB
 
-*   [irbtools (⭐919)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
-*   [Pry (⭐6.7k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
+*   [irbtools (⭐920)](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+*   [Pry (⭐6.8k)](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Icons / Icon Fonts
 
-*   [Fontello](http://fontello.com/) - [:copyright: (⭐6.9k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+*   [Fontello](http://fontello.com/) - [:copyright: (⭐7k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 
 ---
 

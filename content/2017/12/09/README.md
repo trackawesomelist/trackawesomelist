@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2017
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,13 +23,7 @@
 
 *   [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
-
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
@@ -39,7 +33,7 @@
 
 *   [L10n-swift (⭐312)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 

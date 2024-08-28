@@ -58,7 +58,7 @@
 
 ### Packages / Helpers
 
-*   [ember-element-helper (⭐38)](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
+*   [ember-element-helper (⭐44)](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -80,7 +80,7 @@
 
 ### C, C++
 
-*   [cl-yesql (⭐65)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-yesql (⭐66)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐351)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐372)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

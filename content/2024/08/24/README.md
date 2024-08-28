@@ -48,4 +48,5 @@
 
 ---
 
+- Prev: [Aug 25, 2024](/content/2024/08/25/README.md)
 - Next: [Aug 23, 2024](/content/2024/08/23/README.md)

@@ -135,7 +135,7 @@
 
 ### Template Engine / Other
 
-*   [Rocker (⭐722)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+*   [Rocker (⭐732)](https://github.com/fizzed/rocker) - Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 ### Related Awesome Lists / Mocking
 
@@ -162,7 +162,7 @@
 
 ### Frameworks, Libraries and Tools / Compression
 
-*   [lz4net (⭐602)](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
+*   [lz4net (⭐667)](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - Ultra fast compression algorithm for all .NET platforms.
 
 ---
 

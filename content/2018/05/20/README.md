@@ -10,17 +10,17 @@
 
 ### Packages / Examples
 
-*   [Ghost Admin Client (⭐619)](https://github.com/TryGhost/Ghost-Admin)
+*   [Ghost Admin Client (⭐626)](https://github.com/TryGhost/Ghost-Admin)
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Internationalization
 
-*   [NetCoreStack.Localization (⭐85)](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
+*   [NetCoreStack.Localization (⭐86)](https://github.com/NetCoreStack/Localization) - Database Resource Localization for .NET Core with Entity Framework and In Memory Cache
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [ML.NET (⭐8.6k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
+*   [ML.NET (⭐9k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers <http://dot.net/ml>.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -31,7 +31,7 @@
 
 ### CLI
 
-*   [Gui.cs (⭐9.4k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+*   [Gui.cs (⭐9.5k)](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 
 ## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

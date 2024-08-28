@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐462)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐473)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -401,15 +401,15 @@
 
 ### Code Formatting
 
-*   [prettier (⭐1.4k)](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+*   [prettier (⭐1.5k)](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐478)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐480)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ### Web Servers
 
-*   [Agoo (⭐894)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐901)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -421,7 +421,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [kitty (⭐23k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [kitty (⭐24k)](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kovidgoyal/kitty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Design Tools
 
@@ -429,7 +429,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Dozer (⭐8k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
+*   [Dozer (⭐8.1k)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Mortennn/Dozer)
 
 ### Utilities / File Organization Tools
 
@@ -637,7 +637,7 @@
 
 ### Others
 
-*   [The Quantum Katas (⭐4.4k)](https://github.com/Microsoft/QuantumKatas)
+*   [The Quantum Katas (⭐4.5k)](https://github.com/Microsoft/QuantumKatas)
 
 ## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -647,22 +647,22 @@
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
-*   [Rafty (⭐194)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
-*   [Obvs (⭐332)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
-*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
+*   [Rafty (⭐195)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
+*   [Obvs (⭐333)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
+*   [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
 *   [OpenTracing (⭐519)](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
-*   [Polly (⭐12k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
+*   [Polly (⭐13k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
 *   [ProxyKit (⭐1.1k)](https://github.com/damianh/ProxyKit) - Toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [Papercut (⭐2.7k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
+*   [Papercut (⭐2.9k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [Atata (⭐470)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
-*   [SpecFlow (⭐2.1k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
+*   [Atata (⭐481)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
+*   [SpecFlow (⭐2.2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
 ## [38. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -792,11 +792,11 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [brooklin (⭐878)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
+*   [brooklin (⭐909)](https://github.com/linkedin/Brooklin/) \[Java] - a distributed system intended for streaming data between various heterogeneous source and destination systems with high reliability and throughput at scale from Linkedin (replaced databus).
 
 ### Table of Contents / Online Machine Learning
 
-*   [streamDM (⭐486)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
+*   [streamDM (⭐490)](https://github.com/huawei-noah/streamDM) \[Scala] - mining Big Data streams using Spark Streaming from Huawei.
 *   [StormCV (⭐167)](https://github.com/sensorstorm/StormCV) \[Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 *   [trident-ml (⭐381)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐106)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.

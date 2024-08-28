@@ -49,14 +49,14 @@
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐103)](https://github.com/mmstick/concurr) - Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/concurr (⭐105)](https://github.com/mmstick/concurr) - Alternative to GNU Parallel w/ a client-server architecture
 *   [mmstick/fontfinder (⭐276)](https://github.com/mmstick/fontfinder) - GTK3 application for previewing and installing Google's fonts
 
 ## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
-*   [libigl (⭐4.4k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
+*   [libigl (⭐4.5k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
 *   [NanoVG (⭐5.1k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ## [8. Css Protips](/content/AllThingsSmitty/css-protips/README.md)

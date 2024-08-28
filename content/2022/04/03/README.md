@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Odin / PicoLisp
-
-*   [Overview | Odin Programming Language](https://odin-lang.org/docs/overview/)
-
-## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
@@ -73,7 +67,7 @@
 *   [Noisia (⭐689)](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 *   [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
@@ -83,7 +77,7 @@
 
 *   [Stream Music Player (⭐50)](https://github.com/vellt/GetX-Stream-Music-Player-Flutter) - A music player for online content with GetX architecture by [vellt](https://github.com/vellt).
 
-## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -135,19 +129,19 @@
     *   For an explanation about the origin of Youtube Vanced see here: <https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/>
     *   Vanced was forced to shut down by Google due to legal reasons. The project <https://github.com/revanced> tries to continue its legacy
 
-## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+## [5. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ### Python / Time Series
 
-*   [gluon-ts (⭐4.3k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
+*   [gluon-ts (⭐4.5k)](https://github.com/awslabs/gluon-ts) - vProbabilistic time series modeling in Python.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CDN and Protection
 
 *   [weserv](https://images.weserv.nl/) — An image cache & resize service. Manipulate images on the fly with a worldwide cache.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / STMicroelectronics
 

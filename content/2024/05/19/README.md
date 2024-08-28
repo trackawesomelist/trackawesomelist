@@ -16,21 +16,21 @@
 
 ### Continuous Integration
 
-*   [go-beautiful-html-coverage (⭐4)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
+*   [go-beautiful-html-coverage (⭐7)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 
 ### Embeddable Scripting Languages
 
-*   [Wa/凹语言 (⭐862)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+*   [Wa/凹语言 (⭐1k)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
 
 ### Security
 
-*   [multikey (⭐4)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
+*   [multikey (⭐5)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
-*   [lancedb (⭐3.5k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
+*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
 
 ### Libraries / Artificial Intelligence
 
@@ -38,7 +38,7 @@
 
 ### Libraries / Computation
 
-*   [faer-rs (⭐1.7k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
+*   [faer-rs (⭐1.8k)](https://github.com/sarah-ek/faer-rs) \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
 
 ## [4. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [git-status (⭐1)](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
+*   [git-status (⭐2)](https://github.com/AyoubMounim/zsh-git-status/) - Exposes functions with information about the current `git` repository.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

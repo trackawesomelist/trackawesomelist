@@ -45,7 +45,7 @@
 
 ### Concurrency
 
-*   [SwiftCoroutine (⭐835)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
+*   [SwiftCoroutine (⭐836)](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

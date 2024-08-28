@@ -32,26 +32,22 @@
 
 ### Styling / CSS
 
-*   [Principles of writing consistent, idiomatic CSS (⭐6.5k)](https://github.com/necolas/idiomatic-css#readme)
-*   [General CSS notes, advice and guidelines (⭐3.6k)](https://github.com/csswizardry/CSS-Guidelines#readme)
-
-### Markup / HTML
-
-*   [HTML and CSS code guide (⭐8.3k)](https://github.com/mdo/code-guide#readme)
+*   [Principles of writing consistent, idiomatic CSS (⭐6.6k)](https://github.com/necolas/idiomatic-css#readme)
+*   [General CSS notes, advice and guidelines (⭐3.7k)](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ### Styling / Sass
 
-*   [Principles of writing idiomatic Sass (⭐234)](https://github.com/anthonyshort/idiomatic-sass#readme)
+*   [Principles of writing idiomatic Sass (⭐230)](https://github.com/anthonyshort/idiomatic-sass#readme)
 
-### Programming Languages / Ruby
+### Markup / HTML
 
-*   [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
+*   [HTML and CSS code guide (⭐8.5k)](https://github.com/mdo/code-guide#readme)
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Automation
 
-*   [Huginn (⭐42k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+*   [Huginn (⭐43k)](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ### ORM/ODM
 

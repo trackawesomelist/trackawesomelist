@@ -11,7 +11,7 @@
 ### Developer Tools
 
 *   **Code coverage**:
-    *   [Bisect\_ppx (⭐296)](https://github.com/aantron/bisect_ppx)
+    *   [Bisect\_ppx (⭐299)](https://github.com/aantron/bisect_ppx)
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐56k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐57k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Libraries / Python
 
-*   [Mongo-Thingy (⭐67)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
+*   [Mongo-Thingy (⭐68)](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
 
 ### Tools / Monitoring
 
@@ -250,7 +250,7 @@
 
 *   [inlined-generic-function (⭐108)](https://github.com/guicho271828/inlined-generic-function) -
     Bringing the speed of Static Dispatch to CLOS. [LLGPL](http://opensource.franz.com/preamble.html).
-*   [static-dispatch (⭐75)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
+*   [static-dispatch (⭐76)](https://github.com/alex-gutev/static-dispatch) - allows standard generic function dispatch to be performed statically (at compile time) rather than dynamically (runtime). This is similar to what is known as "overloading" in languages such as C++ and Java. [MIT](https://opensource.org/licenses/MIT).
 
 ### Reference
 
@@ -427,7 +427,7 @@
 
 ### Software / URL Shorteners
 
-*   [Simple-URL-Shortener (⭐43)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+*   [Simple-URL-Shortener (⭐45)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
 ## [33. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
@@ -572,7 +572,7 @@
 
 ### Packages / Adapters
 
-*   [ember-local-storage (⭐217)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+*   [ember-local-storage (⭐218)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 
 ## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

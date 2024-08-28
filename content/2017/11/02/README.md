@@ -221,7 +221,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐988)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐986)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### For Electron / Other
 
-*   [trilogy (⭐260)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐261)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [3. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 

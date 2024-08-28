@@ -10,7 +10,7 @@
 
 ### Other / C++
 
-*   [vbrusca/ZigSdlGameTemplate (⭐1)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
+*   [vbrusca/ZigSdlGameTemplate (⭐2)](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -40,7 +40,7 @@
 
 ### GUI
 
-*   [WebUI (⭐2.4k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
+*   [WebUI (⭐2.8k)](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -60,20 +60,15 @@
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Gateway
-
-*   [Apinto (⭐1.2k) (⭐1.3k)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
-
 ### Projects / Integration Frameworks
 
-*   [Apache Camel (⭐5.3k) (⭐5.4k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 *   [Spring Integration (⭐1.5k) (⭐1.5k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 ## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
-*   [impermanence (⭐999)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
+*   [impermanence (⭐1.1k)](https://github.com/nix-community/impermanence) - Lets you choose what files and directories you want to keep between reboots.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -124,13 +119,13 @@
 
 ### Plugins
 
-*   💼 [Dot & Grid Backgrounds (⭐5)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
+*   💼 [Dot & Grid Backgrounds (⭐7)](https://github.com/TheNaubit/tailwind-dot-grid-backgrounds) - Adds `bg-grid` and `bg-dot` classes to add easy-to-customize grid and dot pattern backgrounds with just CSS.
 
 ## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-apexcharts (⭐310)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+*   [ng-apexcharts (⭐315)](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
 
 ---
 

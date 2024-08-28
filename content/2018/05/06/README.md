@@ -48,11 +48,11 @@
 
 ### Packages / Infinite Scroll
 
-*   [smoke-and-mirrors (⭐278)](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
+*   [smoke-and-mirrors (⭐275)](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
 ### Packages / Real-time
 
-*   [ember-cli-flash (⭐360)](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
+*   [ember-cli-flash (⭐356)](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
 ## [5. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [SearchExtensions (⭐314)](https://github.com/ninjanye/SearchExtensions) - Advanced search capabilities for IQueryable interfaces, such as Entity Framework queries.
+*   [SearchExtensions (⭐326)](https://github.com/ninjanye/SearchExtensions) - Advanced search capabilities for IQueryable interfaces, such as Entity Framework queries.
 
 ---
 

@@ -66,21 +66,21 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bio (⭐6)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
+*   [bio (⭐8)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [goflow (⭐305)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
+*   [goflow (⭐330)](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
 
 ### Uncategorized
 
-*   [xz (⭐471)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐470)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐4.1k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐4.2k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐806)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐812)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 
@@ -171,7 +171,7 @@
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐382)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐409)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ---
 

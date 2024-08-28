@@ -127,11 +127,11 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [Mongo.Migration (⭐164)](https://github.com/SRoddis/Mongo.Migration) - Mongo.Migration is designed for the [MongoDB C# Driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) to migrate your documents easily and on-the-fly. No more downtime for schema-migrations. Just write small and simple migrations. [Link (⭐164)](https://github.com/SRoddis/Mongo.Migration)
+*   [Mongo.Migration (⭐173)](https://github.com/SRoddis/Mongo.Migration) - Mongo.Migration is designed for the [MongoDB C# Driver (⭐3.1k)](https://github.com/mongodb/mongo-csharp-driver) to migrate your documents easily and on-the-fly. No more downtime for schema-migrations. Just write small and simple migrations. [Link (⭐173)](https://github.com/SRoddis/Mongo.Migration)
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [PreMailer.Net (⭐626)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
+*   [PreMailer.Net (⭐649)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -224,7 +224,7 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Application Frameworks
 
-*   [ABP (⭐12k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
+*   [ABP (⭐13k)](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 
 ### Code Analysis and Metrics
 
@@ -236,11 +236,11 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 
 ### Mathematics
 
-*   [UnitConversion (⭐179)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+*   [UnitConversion (⭐180)](https://github.com/atulmish/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 
 ### Trading
 
-*   [StockSharp (⭐6.8k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
+*   [StockSharp (⭐7k)](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). <https://stocksharp.com>
 
 ### Visual Studio Plugins
 

@@ -45,11 +45,11 @@
 
 ### Code Formatting
 
-*   [prettier (⭐1.4k)](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+*   [prettier (⭐1.5k)](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
 
 ### Web Servers
 
-*   [Agoo (⭐894)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
+*   [Agoo (⭐901)](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 
 ## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [SpecFlow (⭐2.1k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
+*   [SpecFlow (⭐2.2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
 ## [12. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 

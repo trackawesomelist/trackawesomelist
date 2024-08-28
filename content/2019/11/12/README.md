@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐66)](https://github.com/braintree/restricted-input)
+*   [vue-restricted-input (⭐10)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐67)](https://github.com/braintree/restricted-input)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐247)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐250)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

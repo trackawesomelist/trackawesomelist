@@ -56,15 +56,15 @@
 
 ### Apps / Blogging/news
 
-*   [Snotra\_RSS (⭐15)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
+*   [Snotra\_RSS (⭐16)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Tag Manager (⭐70)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐74)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
-*   [Project TIER (⭐11)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
+*   [Project TIER (⭐13)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
 ## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -133,7 +133,7 @@
 
 ### Graphics
 
-*   [Veldrid (⭐2.4k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
+*   [Veldrid (⭐2.5k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
 ## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -192,7 +192,7 @@
 
 ### Generators / Apache License
 
-*   [svd2ada (⭐61)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+*   [svd2ada (⭐63)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
 ## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -209,7 +209,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐652)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐657)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [20. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -465,7 +465,7 @@
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [Meadow (⭐135)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
+*   [Meadow (⭐141)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
 ## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 

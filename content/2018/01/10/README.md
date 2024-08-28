@@ -76,13 +76,13 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [Serenity (⭐2.5k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
+*   [Serenity (⭐2.6k)](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC / TypeScript application platform designed to simplify and shorten development of data-centric business applications with a service based architecture.
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
-*   [gun (⭐891)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐893)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

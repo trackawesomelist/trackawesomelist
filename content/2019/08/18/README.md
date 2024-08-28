@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2019
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,27 +40,21 @@
 
 ### Gaming
 
-*   [libGDX (⭐960)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐981)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐693)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐702)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐872)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐877)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ruby / Tornado
-
-*   [I Love Ruby](https://i-love-ruby.gitlab.io)
-
-## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Broccoli
 
-*   [broccoli-rollup (⭐35)](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
+*   [broccoli-rollup (⭐36)](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
 
 ### Packages / Component addons
 
@@ -68,15 +62,15 @@
 
 ### Packages / CSS & etc
 
-*   [ember-cli-postcss (⭐108)](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
+*   [ember-cli-postcss (⭐110)](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
 
 ### Packages / Data manipulation & Computed
 
-*   [ember-cpm (⭐279)](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
+*   [ember-cpm (⭐276)](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
 
 ### Packages / End-user customization
 
-*   [ember-cli-build-notifications (⭐23)](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
+*   [ember-cli-build-notifications (⭐24)](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
 
 ### Packages / HTTP
 
@@ -84,11 +78,11 @@
 
 ### Packages / Infinite Scroll
 
-*   [vertical-collection (⭐164)](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
+*   [vertical-collection (⭐176)](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
 
 ### Packages / Job queues
 
-*   [ember-lifeline (⭐239)](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
+*   [ember-lifeline (⭐240)](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
 
 ### Packages / Parcel
 
@@ -118,13 +112,13 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 
-## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 

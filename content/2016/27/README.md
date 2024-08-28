@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04 - Jul 10, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,7 +76,7 @@
 
 ### More Awesome Lists
 
-*   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+*   [JSON (⭐1.4k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Logging
 
-*   [Exceptionless (⭐551)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐550)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -151,24 +151,14 @@
 
 *   \[2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (Blizzard)
 
-## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Java / Java Reporting
-
-*   [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
-
-### PostgreSQL / Zend
-
-*   [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
-
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [15. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Chronicle-Map (⭐2.5k)](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
 *   [lwjgl3 (⭐4k)](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 
-## [17. Tips](/content/git-tips/tips/week/README.md)
+## [16. Tips](/content/git-tips/tips/week/README.md)
 
 ## Show changes using common diff tools.
 
@@ -176,13 +166,13 @@
 git difftool [-t <tool>] <commit1> <commit2> <path>
 ```
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [17. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [AIEngine](https://bitbucket.org/camp0/aiengine) - AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
 
-## [19. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [18. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Learning Resources
 
@@ -214,13 +204,13 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa) - A case-study about how Google I/O 2015 web app was built.
 
-## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
 *   [UMass Vision Image Archive](http://vis-www.cs.umass.edu/\~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
 
-## [21. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
+## [20. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
 
 ### Words / Empathy for your peers
 
@@ -236,13 +226,13 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [JS Bookmarklet Simulating Colorblindness (⭐123)](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
 *   [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
 
-## [22. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Images / Gif Creation
 
 *   [gifgen (⭐535)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 
-## [23. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [22. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Code Architecture
 
@@ -300,19 +290,19 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [generator-redux (⭐251)](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
 *   [generator-react-webpack-redux (⭐552)](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
 
-## [24. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [23. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Security
 
 *   [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) \[2015]
 
-## [25. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [24. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
 *   [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -321,13 +311,13 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐300)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐302)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
 *   [benchee (⭐1.4k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
 *   [benchfella (⭐513)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-*   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
+*   [bmark (⭐71)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
 
@@ -349,7 +339,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [cspex (⭐25)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
-## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Haskell / Git
 
@@ -359,13 +349,13 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [bcrypt (⭐1.2k)](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
 
-## [28. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [27. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Audiojs (⭐240)](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
@@ -375,7 +365,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [Hanselminutes: Creating cross-platform Electron apps with Jessica Lord](http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord)
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -390,7 +380,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 
-## [31. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
+## [30. Awesome Unicode](/content/jagracey/Awesome-Unicode/week/README.md)
 
 ### :collision: Lowercase Transformation Collisions / Wait a second... what did I just read?
 
@@ -406,7 +396,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [Version 9.0.0](http://www.unicode.org/versions/Unicode9.0.0/) (Latest Version, August 2016 - adds exactly 7,500 characters)
 *   [Version 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
 
-## [32. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [31. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Common Utilities
 
@@ -414,19 +404,19 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [Draft.js exporter (Ruby) (⭐16)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
 *   [Draft.js exporter (Python) (⭐76)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
 
-## [33. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [32. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [NVIDIA GameWorks Samples](https://github.com/NVIDIAGameWorks/GraphicsSamples) - GameWorks cross-platform graphics API samples. \[[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
 
-## [34. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [33. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [Tseberechts/aurelia-place-picker (⭐1)](https://github.com/Tseberechts/aurelia-place-picker) \* A place picker inspired by the Autocomplete places with Aurelia
 
-## [35. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [34. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Tutorials / YouTube
 
@@ -442,7 +432,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/userscripts)
 *   [`#greasemonkey` on Freenode](http://webchat.freenode.net/?channels=greasemonkey)
 
-## [36. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [35. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -450,7 +440,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 *   [SimpleCI (⭐62)](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 *   [pulse](http://zutubi.com) no free version.
 
-## [37. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [36. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Other
 
@@ -460,12 +450,12 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [China DTrace](http://chinadtrace.org/) - A Chinese DTrace site.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MediatR (⭐10k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
-*   [rabbitmq-dotnet-client (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
+*   [MediatR (⭐11k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+*   [rabbitmq-dotnet-client (⭐2.1k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
 
 ### Frameworks, Libraries and Tools / Security
 
@@ -473,15 +463,15 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [ElasticsearchCRUD (⭐172)](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
+*   [ElasticsearchCRUD (⭐175)](https://github.com/damienbod/ElasticsearchCRUD) - Elasticsearch .NET API.
 
-## [39. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Database technologies / Oracle
 
 *   [General Oracle Interview Questions & Answers](http://www.coolinterview.com/type.asp?iType=57)
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -534,7 +524,7 @@ Webpage: <https://london.hackspace.org.uk/>
 | ---- | ----- | ------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only) |
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -557,7 +547,7 @@ Webpage: <https://london.hackspace.org.uk/>
 
 *   [StyleCI](https://styleci.io) - PHP Coding Style Service
 
-## [42. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [41. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
@@ -576,7 +566,7 @@ Webpage: <https://london.hackspace.org.uk/>
 
 *   [A Guide to Color and Conversion Rates](https://uxplanet.org/a-guide-to-color-and-conversion-rates-f3a28e8e32bb)
 
-## [43. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [42. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### 2D
 

@@ -38,7 +38,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [CQRSlite (⭐1k)](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
+*   [CQRSlite (⭐1.1k)](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

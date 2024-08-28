@@ -78,7 +78,7 @@
 
 ### Others
 
-*   [DNA Transcription Kata (⭐8)](https://github.com/nickdelgrosso/dna-transcription-kata)
+*   [DNA Transcription Kata (⭐9)](https://github.com/nickdelgrosso/dna-transcription-kata)
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-unicode (⭐14)](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
+*   [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐930)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐941)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 ## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2024
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,15 +13,15 @@
 *   [JARVIS (⭐23k)](https://github.com/microsoft/JARVIS): an interface for LLMs to connect numerous AI models for solving complicated AI tasks! \[Mar 2023]
 *   [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/): Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product \[May 2023]
 
-### **Langchain vs Competitors** / **Prompting Frameworks**
+### **LangChain vs Competitors** / **Prompting Frameworks**
 
-*   [Prompting Framework (PF)](https://arxiv.org/abs/2311.12785): Prompting Frameworks for Large Language Models: A Survey [git (⭐68)](https://github.com/lxx0628/Prompting-Framework-Survey)
+*   [Prompting Framework (PF)](https://arxiv.org/abs/2311.12785): Prompting Frameworks for Large Language Models: A Survey [git (⭐72)](https://github.com/lxx0628/Prompting-Framework-Survey)
 
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
 *   [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/): Prompt Engineering, also known as In-Context Prompting ... \[Mar 2023]
 
-### **Finetuning** / **Prompt Template Language**
+### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
 
 *   [Fine-tuning a GPT - LoRA](https://dataman-ai.medium.com/fine-tune-a-gpt-lora-e9b72ad4ad3): Comprehensive guide for LoRA [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/Fine-tuning_a_GPT_LoRA.pdf) \[20 Jun 2023]
 
@@ -29,7 +29,7 @@
 
 *   [Humanloop Interview 2023](https://web.archive.org/web/20230531203946/https://humanloop.com/blog/openai-plans) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/openai-plans.pdf) \[29 May 2023]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
 *   [5 Approaches To Solve LLM Token Limits](https://dholmes.co.uk/blog/5-approaches-to-solve-llm-token-limits/) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/token-limits-5-approaches.pdf) \[2023]
 
@@ -41,7 +41,7 @@
 
 ### Python / Computer Vision
 
-*   [MLX (⭐15k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
+*   [MLX (⭐16k)](https://github.com/ml-explore/mlx)- MLX is an array framework for machine learning on Apple silicon, developed by Apple machine learning research.
 
 ### Python / Neural Networks
 
@@ -49,7 +49,7 @@
 
 ### Tools / Misc
 
-*   [Infinity (⭐2k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+*   [Infinity (⭐2.2k)](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -79,9 +79,15 @@
 
 ### Project / Diagnostics
 
-*   [LintaoAmons/cd-project.nvim (⭐93)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
+*   [LintaoAmons/cd-project.nvim (⭐95)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 
-## [7. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Security & Privacy
+
+*   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
+
+## [8. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 
 ### Learning Resources / Generative AI
 

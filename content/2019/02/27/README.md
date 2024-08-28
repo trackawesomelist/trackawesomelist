@@ -283,12 +283,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4.9k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐5k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐7.7k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

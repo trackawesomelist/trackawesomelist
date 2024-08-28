@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-menus (⭐278)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐291)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Libraries/Frameworks / Serialization
 
-*   [fluidsonic/fluid-json (⭐30)](https://github.com/fluidsonic/fluid-json) - A JSON library written in pure Kotlin.
+*   [fluidsonic/fluid-json (⭐31)](https://github.com/fluidsonic/fluid-json) - A JSON library written in pure Kotlin.
 
 ### Libraries/Frameworks / Tools
 
@@ -51,7 +51,7 @@
 
 ### Explainability / Strong Machine Learning
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐898)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐904)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Motion / Diagnostics
 
-*   [ggandor/leap.nvim (⭐4.1k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+*   [ggandor/leap.nvim (⭐4.2k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
 ## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

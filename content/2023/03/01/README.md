@@ -10,7 +10,7 @@
 
 ### Android App Store
 
-*   [Obtainium (⭐5.9k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐7k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -22,19 +22,19 @@
 
 ### Concurrency and Parallelism
 
-*   [Polyphony (⭐655)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
+*   [Polyphony (⭐657)](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [dbmate (⭐4.9k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
+*   [dbmate (⭐5.1k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
-*   [moka-rs/moka (⭐1.4k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
+*   [moka-rs/moka (⭐1.5k)](https://github.com/moka-rs/moka) - A high performance concurrent caching library inspired by the Caffeine library for Java [![build badge](https://github.com/moka-rs/moka/workflows/CI/badge.svg)](https://github.com/moka-rs/moka/actions/workflows/CI.yml)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

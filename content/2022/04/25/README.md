@@ -16,7 +16,7 @@
 
 ### Apps / E-commerce
 
-*   [django-salesman (⭐360)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐378)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### Apps / Media
 
@@ -24,15 +24,15 @@
 
 ### Apps / Translations
 
-*   [Wagtail Localize (⭐208)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐220)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wordpress to Wagtail migration kit (⭐38)](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
+*   [Wordpress to Wagtail migration kit (⭐41)](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
 
 ### Open-source sites / Lists
 
-*   [Consumer Financial Protection Bureau (⭐246)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [Consumer Financial Protection Bureau (⭐267)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
 ## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Applications
 
-*   [shuttle (⭐5.8k)](https://github.com/shuttle-hq/shuttle) - A serverless platform.
+*   [shuttle (⭐5.9k)](https://github.com/shuttle-hq/shuttle) - A serverless platform.
 
 ### Development tools / Build system
 
@@ -145,11 +145,11 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐328)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐332)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
 ### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐458)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐460)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

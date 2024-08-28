@@ -10,10 +10,10 @@
 
 ### Plugins / Community Plugins
 
-*   [@aparajita/capacitor-dark-mode (⭐19)](https://github.com/aparajita/capacitor-dark-mode) – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
-*   [@aparajita/capacitor-ios-silent-notifications (⭐1)](https://github.com/aparajita/capacitor-ios-silent-notifications) – Silent (AKA remote) notification support for Capacitor apps on iOS.
+*   [@aparajita/capacitor-dark-mode (⭐20)](https://github.com/aparajita/capacitor-dark-mode) – Universal, reliable dark mode support for Capacitor apps on the web, iOS and Android.
+*   [@aparajita/capacitor-ios-silent-notifications (⭐2)](https://github.com/aparajita/capacitor-ios-silent-notifications) – Silent (AKA remote) notification support for Capacitor apps on iOS.
 *   [@aparajita/capacitor-logger (⭐16)](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
-*   [@aparajita/capacitor-secure-storage (⭐82)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
+*   [@aparajita/capacitor-secure-storage (⭐94)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore.
 
 ## [2. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Development Environment / Other
 
-*   [ESP32 Linux - Docker builder (⭐33)](https://github.com/hpsaturn/esp32s3-linux) - Container solution to compile Linux and develop it for ESP32 microcontrollers - By [@Hpsaturn](https://github.com/hpsaturn)
+*   [ESP32 Linux - Docker builder (⭐40)](https://github.com/hpsaturn/esp32s3-linux) - Container solution to compile Linux and develop it for ESP32 microcontrollers - By [@Hpsaturn](https://github.com/hpsaturn)
 
 ## [5. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

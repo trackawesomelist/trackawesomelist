@@ -44,7 +44,7 @@
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐406)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
@@ -79,7 +79,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
+*   [Spreads (⭐424)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 

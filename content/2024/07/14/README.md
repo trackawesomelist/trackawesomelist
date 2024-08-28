@@ -26,7 +26,7 @@
 
 ### Python / Sentiment Analysis
 
-*   [Asset News Sentiment Analyzer (⭐8)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
+*   [Asset News Sentiment Analyzer (⭐20)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -52,4 +52,5 @@
 
 ---
 
+- Prev: [Jul 15, 2024](/content/2024/07/15/README.md)
 - Next: [Jul 13, 2024](/content/2024/07/13/README.md)

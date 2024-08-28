@@ -10,7 +10,7 @@
 
 ### Resources / Recipes
 
-*   [Consumer Financial Protection Bureau Wagtail development guide (⭐61)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
+*   [Consumer Financial Protection Bureau Wagtail development guide (⭐63)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
 
 ## [2. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Blocklists / Hostnames and Subdomains
 
-*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐41)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐167)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
+*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐42)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐167)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jrychn/moduleVim (⭐7)](https://github.com/jrychn/ModuleVim) - A very easy to use
+*   [jrychn/moduleVim (⭐8)](https://github.com/jrychn/ModuleVim) - A very easy to use
     for backend and frontend, install lsp automatically.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
@@ -301,11 +301,11 @@
 
 ### Database Tools
 
-*   [rdb (⭐360)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐374)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### HTTP Clients
 
-*   [go-otelroundtripper (⭐76)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
+*   [go-otelroundtripper (⭐78)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
 
 ---
 

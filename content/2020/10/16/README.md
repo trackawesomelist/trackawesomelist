@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2020
 
-20 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Multiple classifier application to credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0957417409008847) - ([Corrigendum](https://www.sciencedirect.com/science/article/pii/S0957417410012364)) - This paper explores the predicted behaviour of five classifiers for different types of noise in terms of credit risk prediction accuracy, and how such accuracy could be improved by using classifier ensembles.
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
-
-## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [2. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -30,19 +24,19 @@
 *   [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
     (Python, MIT, [GitHub (⭐1.9k)](https://github.com/marcomusy/vedo))
 
-## [4. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [3. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Daiya](https://daiyafoods.com/) - Amazing cheesecakes, frozen pizzas, various cheesy products, and more desserts.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Agile Visitors (⭐24)](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort.
 
-## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [5. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Videos
 
@@ -53,7 +47,7 @@
 *   [AssemblyScript (⭐18)](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
 *   [Python (⭐54)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 
-## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [6. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Tutorials
 
@@ -70,7 +64,7 @@
 *   [StructPacker (⭐50)](https://github.com/RudolfKurka/StructPacker) - Low-level, lightweight and performance-focused serializer for C# struct types. Auto-generates C# serialization code to achieve peak runtime performance and efficiency.
 *   [Svg to C# Source Generators](https://github.com/wieslawsoltes/SourceGenerators) - SVG to C# compiler. Compiles SVG drawing markup to C# using [SkiaSharp (⭐3k)](https://github.com/mono/SkiaSharp) as rendering engine.
 
-## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [7. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Programming
 
@@ -85,93 +79,71 @@
 
 *   [Auction (⭐1)](https://github.com/ashutoshmeher-r3/auction-cordapp) - A demo auction CorDapp.
 
-## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / cBPF
 
 *   [The FreeBSD manual page about BPF](https://www.freebsd.org/cgi/man.cgi?query=bpf\&sektion=4)
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
 *   [Smart UI for Blazor (⭐64)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Articles / Frameworks
 
 *   [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 
-## [12. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [11. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Resources & Others / Wiki
 
 *   [Pokedex.org (⭐2.3k)](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site <https://pokedex.org>.
 
-## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Machine Learning
 
-*   [rumale (⭐762)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐766)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
 *   [grip (⭐274)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
-## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
 *   [Iotivity](https://iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
 
-## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Russian
 
 *   [linkmeup](https://linkmeup.ru/) - Podcast about Networks, Telecom and other IT.
 
-## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [Palettolithic](https://palettolithic.com) - Generates harmonius color palettes based on one color.
 
-## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
 *   [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however.
 
-## [19. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [18. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Tools
 
 *   [Ionic Vetur Intellisense (⭐3)](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
-
-## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Assembly Language / Blazor
-
-*   [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF) *(:card\_file\_box: archived)*
-
-### C / Non-X86
-
-*   [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
-
-### Graphs / Neo4J
-
-*   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
-
-### Scratch / Play Scala
-
-*   [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
 
 ---
 

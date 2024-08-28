@@ -16,7 +16,7 @@
 
 ### Source Generator
 
-*   [.NET-libraries-that-make-your-life-easier (⭐796)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
+*   [.NET-libraries-that-make-your-life-easier (⭐805)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

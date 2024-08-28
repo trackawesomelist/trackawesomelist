@@ -85,7 +85,7 @@
 
 ### Bean Mapping
 
-*   [dOOv (⭐87)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+*   [dOOv (⭐89)](https://github.com/doov-io/doov) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
 
 ## [3. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 

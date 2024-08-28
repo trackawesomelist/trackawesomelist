@@ -26,8 +26,8 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Developer
 
-*   [Github (⭐2.8k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
-*   [npms (⭐358)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
+*   [Github (⭐2.9k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
+*   [npms (⭐365)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

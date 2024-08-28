@@ -96,9 +96,9 @@
 ### Open Source Projects
 
 *   [Firebase push notifications in Ionic 4 (⭐3)](https://github.com/enappd/ionic-4-push) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Receive SMS automatically in Ionic 4 (⭐11)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Playing music in Ionic 4 (⭐40)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Ionic 4 Stripe Payment Integration (⭐10)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Receive SMS automatically in Ionic 4 (⭐10)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Playing music in Ionic 4 (⭐43)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Stripe Payment Integration (⭐9)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 PayPal Payment Integration (⭐9)](https://github.com/enappd/ionic4-paypal) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Apple Pay Payment Integration (⭐7)](https://github.com/enappd/ionic4-applepay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Razorpay Payment Integration (⭐4)](https://github.com/enappd/ionic4-razorpay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]

@@ -30,7 +30,7 @@
 
 ### Software / Backups
 
-*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐24k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
+*   [Restic](https://restic.net/) - Easy, fast, verifiable, secure and efficient remote backup tool. ([Source Code (⭐25k)](https://github.com/restic/restic)) `BSD-2-Clause` `Go`
 
 ## [4. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 

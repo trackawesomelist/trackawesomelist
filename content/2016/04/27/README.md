@@ -43,7 +43,7 @@ Starting with time series analysis, you will also learn how to optimize portfoli
 
 ### Applications
 
-*   [Consolex (⭐119)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
+*   [Consolex (⭐120)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
 
 ### Testing
 

@@ -16,7 +16,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnikolaydubina%2Fgo-recipes\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=false)](https://hits.seeyoufarm.com)
 [![go-recipes](https://raw.githubusercontent.com/nikolaydubina/go-recipes/main/badge.svg?raw=true)](https://github.com/nikolaydubina/go-recipes)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/nikolaydubina/go-recipes)
 
 ## Contents
 
@@ -29,6 +28,7 @@
     *   [ Test case recommendation](#-test-case-recommendation)
     *   [ Time complexity estimate](#-time-complexity-estimate)
 *   Testing
+    *   [ :fire: Continuous Tests Monitoring with `codecov.io`](#-fire-continuous-tests-monitoring-with-codecovio)
     *   [ Make treemap of coverage with `go-cover-treemap`](#-make-treemap-of-coverage-with-go-cover-treemap)
     *   [ Browse coverage](#-browse-coverage)
     *   [ Browse coverage with `gocov-html`](#-browse-coverage-with-gocov-html)
@@ -36,7 +36,7 @@
     *   [ Pretty print coverage in terminal with `nikandfor/cover`](#-pretty-print-coverage-in-terminal-with-nikandforcover)
     *   [ Run coverage collector server with `goc`](#-run-coverage-collector-server-with-goc)
     *   [ Visualize live coverage in VSCode with `goc`](#-visualize-live-coverage-in-vscode-with-goc)
-    *   [ :confetti\_ball: Shuffle tests](#-confetti_ball-shuffle-tests)
+    *   [ :fire: Shuffle tests](#-fire-shuffle-tests)
     *   [ Run tests sequentially](#-run-tests-sequentially)
     *   [ Run tests in parallel](#-run-tests-in-parallel)
     *   [ Detect goroutine leaks with `goleak`](#-detect-goroutine-leaks-with-goleak)
@@ -88,8 +88,8 @@
     *   [ Generate `String` method for enum types](#-generate-string-method-for-enum-types)
     *   [ Generate enums encoding with `go-enum-encoding`](#-generate-enums-encoding-with-go-enum-encoding)
     *   [ Generate enums with `goenums`](#-generate-enums-with-goenums)
-    *   [ :confetti\_ball: Generate data types from JSON Schema with `go-jsonschema`](#-confetti_ball-generate-data-types-from-json-schema-with-go-jsonschema)
-    *   [ :confetti\_ball: Generate constructor for a struct with `gonstructor`](#-confetti_ball-generate-constructor-for-a-struct-with-gonstructor)
+    *   [ :fire: Generate data types from JSON Schema with `go-jsonschema`](#-fire-generate-data-types-from-json-schema-with-go-jsonschema)
+    *   [ :fire: Generate constructor for a struct with `gonstructor`](#-fire-generate-constructor-for-a-struct-with-gonstructor)
     *   [ Generate Table Driven Tests with `gotests`](#-generate-table-driven-tests-with-gotests)
     *   [ Generate mocks with `mockgen`](#-generate-mocks-with-mockgen)
     *   [ Generate interface for a struct with `ifacemaker`](#-generate-interface-for-a-struct-with-ifacemaker)
@@ -100,13 +100,13 @@
     *   [ Generate code from OpenAPI 3 specification with `oapi-codegen`](#-generate-code-from-openapi-3-specification-with-oapi-codegen)
 *   Refactoring
     *   [ Replace symbol with `gofmt`](#-replace-symbol-with-gofmt)
-    *   [ :confetti\_ball: Apply refactoring patches with `gopatch`](#-confetti_ball-apply-refactoring-patches-with-gopatch)
+    *   [ :fire: Apply refactoring patches with `gopatch`](#-fire-apply-refactoring-patches-with-gopatch)
     *   [ Keep consistent ordering of imports with `goimports`](#-keep-consistent-ordering-of-imports-with-goimports)
     *   [ Keep consistent ordering of imports with `gci`](#-keep-consistent-ordering-of-imports-with-gci)
     *   [ Keep consistent ordering of imports with `goimportx`](#-keep-consistent-ordering-of-imports-with-goimportx)
-    *   [ :confetti\_ball: Replace unkeyed struct literals into keyed ones with `keyify`](#-confetti_ball-replace-unkeyed-struct-literals-into-keyed-ones-with-keyify)
+    *   [ :fire: Replace unkeyed struct literals into keyed ones with `keyify`](#-fire-replace-unkeyed-struct-literals-into-keyed-ones-with-keyify)
 *   Errors
-    *   [ :confetti\_ball: Errors with return traces with `errtrace`](#-confetti_ball-errors-with-return-traces-with-errtrace)
+    *   [ :fire: Errors with return traces with `errtrace`](#-fire-errors-with-return-traces-with-errtrace)
     *   [ Errors with stack traces and source fragments with `tracerr`](#-errors-with-stack-traces-and-source-fragments-with-tracerr)
     *   [ Pretty print `panic` messages with `panicparse`](#-pretty-print-panic-messages-with-panicparse)
 *   Building
@@ -123,12 +123,12 @@
     *   [ Custom import path with `sally`](#-custom-import-path-with-sally)
     *   [ Custom import path with `kkn.fi/vanity`](#-custom-import-path-with-kknfivanity)
     *   [ Custom import path enforcement](#-custom-import-path-enforcement)
-    *   [ :confetti\_ball: Manage multiple Go versions with `Goenv`](#-confetti_ball-manage-multiple-go-versions-with-goenv)
+    *   [ :fire: Manage multiple Go versions with `Goenv`](#-fire-manage-multiple-go-versions-with-goenv)
 *   Assembly
     *   [ Get assembly of Go code snippets online](#-get-assembly-of-go-code-snippets-online)
     *   [ Get Go SSA intermediary representation with `ssaplayground`](#-get-go-ssa-intermediary-representation-with-ssaplayground)
     *   [ View Go assembly interactively with `lensm`](#-view-go-assembly-interactively-with-lensm)
-    *   [ :confetti\_ball: View Go assembly with color annotation with `pat/disfunc`](#-confetti_ball-view-go-assembly-with-color-annotation-with-patdisfunc)
+    *   [ :fire: View Go assembly with color annotation with `pat/disfunc`](#-fire-view-go-assembly-with-color-annotation-with-patdisfunc)
     *   [ Generate Go assembly in Go with `avo`](#-generate-go-assembly-in-go-with-avo)
     *   [ Generate AST for code snippets with `go/ast`](#-generate-ast-for-code-snippets-with-goast)
     *   [ Generate AST for code snippets with `go2ast`](#-generate-ast-for-code-snippets-with-go2ast)
@@ -156,7 +156,7 @@
     *   [ Visualise Go runtime metrics in browser with `statsviz`](#-visualise-go-runtime-metrics-in-browser-with-statsviz)
     *   [ Auto-Instrument all functions with `go-instrument`](#-auto-instrument-all-functions-with-go-instrument)
     *   [ Auto-Instrument all functions with `otelinji`](#-auto-instrument-all-functions-with-otelinji)
-    *   [ :confetti\_ball: Auto-Instrument functions for DataDog with `orchestrion`](#-confetti_ball-auto-instrument-functions-for-datadog-with-orchestrion)
+    *   [ :fire: Auto-Instrument functions for DataDog with `orchestrion`](#-fire-auto-instrument-functions-for-datadog-with-orchestrion)
     *   [ Continious Profiling with `Pyroscope`](#-continious-profiling-with-pyroscope)
 *   Benchmarking
     *   [ Run benchmarks](#-run-benchmarks)
@@ -167,7 +167,7 @@
     *   [ Visualize profiles online](#-visualize-profiles-online)
     *   [ Get delta between two benchmarks with `benchstat`](#-get-delta-between-two-benchmarks-with-benchstat)
     *   [ Get summary of benchmarks with `benchstat`](#-get-summary-of-benchmarks-with-benchstat)
-    *   [ :confetti\_ball: Benchmark against git commit with `pat/ba`](#-confetti_ball-benchmark-against-git-commit-with-patba)
+    *   [ :fire: Benchmark against git commit with `pat/ba`](#-fire-benchmark-against-git-commit-with-patba)
     *   [ Continuous benchmarking](#-continuous-benchmarking)
     *   [ Continuous benchmarking with `gobenchdata`](#-continuous-benchmarking-with-gobenchdata)
     *   [ Continuous benchmarking with `benchdiff`](#-continuous-benchmarking-with-benchdiff)
@@ -197,7 +197,7 @@
     *   [ Run custom static analysis tool with `go vet`](#-run-custom-static-analysis-tool-with-go-vet)
     *   [ Run official static analyzers not included in `go vet`](#-run-official-static-analyzers-not-included-in-go-vet)
     *   [ Detect most common issues with `staticcheck`](#-detect-most-common-issues-with-staticcheck)
-    *   [ :confetti\_ball: Detect potential Nil panics with `nilaway`](#-confetti_ball-detect-potential-nil-panics-with-nilaway)
+    *   [ :fire: Detect potential Nil panics with `nilaway`](#-fire-detect-potential-nil-panics-with-nilaway)
     *   [ Detect most common issues with `go-critic`](#-detect-most-common-issues-with-go-critic)
     *   [ Reference and run common linters with `golangci`](#-reference-and-run-common-linters-with-golangci)
     *   [ Detect non-exhaustive switch and map with `exhaustive`](#-detect-non-exhaustive-switch-and-map-with-exhaustive)
@@ -216,8 +216,8 @@
     *   [ Detect tests with wrong `t.Parallel()` usage with `paralleltest`](#-detect-tests-with-wrong-tparallel-usage-with-paralleltest)
     *   [ Detect tests with wrong `t.Parallel()` usage with `tparallel`](#-detect-tests-with-wrong-tparallel-usage-with-tparallel)
     *   [ Detect magic numbers with `mnd`](#-detect-magic-numbers-with-mnd)
-    *   [ :confetti\_ball: Detect magic strings with `goconst`](#-confetti_ball-detect-magic-strings-with-goconst)
-    *   [ :confetti\_ball: Detect bound checks with `pat/boundcheck`](#-confetti_ball-detect-bound-checks-with-patboundcheck)
+    *   [ :fire: Detect magic strings with `goconst`](#-fire-detect-magic-strings-with-goconst)
+    *   [ :fire: Detect bound checks with `pat/boundcheck`](#-fire-detect-bound-checks-with-patboundcheck)
     *   [ Calculate Cognitive Complexity with `gocognit`](#-calculate-cognitive-complexity-with-gocognit)
     *   [ Calculate Cyclomatic Complexity with `gocyclo`](#-calculate-cyclomatic-complexity-with-gocyclo)
     *   [ Calculate Cyclomatic Complexity with `cyclop`](#-calculate-cyclomatic-complexity-with-cyclop)
@@ -247,9 +247,9 @@ Requirements
 
 CopilotX has dedicated solutions for: writing PR description; writing tests; writing PR reviews and replies; applying requested PR changes. As of `2023-06-04`, it is on waitlist. [documentation](https://githubnext.com/projects/copilot-for-pull-requests).
 
-### [⏫](#contents) Code analysis and recommendations with [charmbracelet/mods (⭐2.7k)](https://github.com/charmbracelet/mods)
+### [⏫](#contents) Code analysis and recommendations with [charmbracelet/mods (⭐2.8k)](https://github.com/charmbracelet/mods)
 
-This is a nice looking CLI wrapper for major LLM APIs from [Charm](https://github.com/charmbracelet) team. It supports OpenAI and [LocalAI (⭐22k)](https://github.com/go-skynet/LocalAI). It passes arbitrary human language command string and concatenated with STDIN input. Multiple useful commands are possible.
+This is a nice looking CLI wrapper for major LLM APIs from [Charm](https://github.com/charmbracelet) team. It supports OpenAI and [LocalAI (⭐23k)](https://github.com/go-skynet/LocalAI). It passes arbitrary human language command string and concatenated with STDIN input. Multiple useful commands are possible.
 
     mods -f "what are your thoughts on improving this code?" < main.go | glow
     mods -f "you are an expert Go programmer. find potential bugs in following Go code." < my_class.go | glow
@@ -384,7 +384,19 @@ Example
 
 ## Testing
 
-### [⏫](#contents) Make treemap of coverage with [go-cover-treemap (⭐477)](https://github.com/nikolaydubina/go-cover-treemap)
+### [⏫](#contents) :fire: Continuous Tests Monitoring with [codecov.io](https://app.codecov.io)
+
+Track tests duration, errors, flackiness. Run JUnit test output converter and submit result to codecov.io via GitHub Action. — <https://codecov.io>
+
+    go test -coverprofile=coverage.out -cover -json ./... | gotestsum --junitfile tests.xml
+
+<div align="center"><img src="https://github.com/nikolaydubina/go-recipes/raw/master/./img/codecov-tests.png" style="margin: 8px; max-height: 640px;"></div>
+
+Requirements
+
+    go install gotest.tools/gotestsum@latest
+
+### [⏫](#contents) Make treemap of coverage with [go-cover-treemap (⭐487)](https://github.com/nikolaydubina/go-cover-treemap)
 
 Visualize distribution of code coverage in your project. This helps to identify code areas with high and low coverage. Useful when you have large project with lots of files and packages. This 2D "image-hash" of your project should be more representative than a single number. Also available at <https://go-cover-treemap.io>. — [@nikolaydubina](https://github.com/nikolaydubina)
 
@@ -421,7 +433,7 @@ Requirements
     go install github.com/axw/gocov/gocov@latest
     go install github.com/matm/gocov-html/cmd/gocov-html@latest
 
-### [⏫](#contents) Browse coverage in terminal with [gocovsh (⭐343)](https://github.com/orlangure/gocovsh)
+### [⏫](#contents) Browse coverage in terminal with [gocovsh (⭐345)](https://github.com/orlangure/gocovsh)
 
 Browse code coverage similarly to HTML provided by official Go toolchain, but in terminal. Other notable features are package level statistics, coverage only for changed files. — [@orlangure](https://github.com/orlangure)
 
@@ -449,7 +461,7 @@ Requirements
 
     go install github.com/nikandfor/cover@latest
 
-### [⏫](#contents) Run coverage collector server with [goc (⭐786)](https://github.com/qiniu/goc)
+### [⏫](#contents) Run coverage collector server with [goc (⭐793)](https://github.com/qiniu/goc)
 
 This tool allows to collect coverage as soon as code is executed. — [@qiniu](https://github.com/qiniu)
 
@@ -463,7 +475,7 @@ Requirements
 
     go install github.com/qiniu/goc@latest
 
-### [⏫](#contents) Visualize live coverage in VSCode with [goc (⭐786)](https://github.com/qiniu/goc)
+### [⏫](#contents) Visualize live coverage in VSCode with [goc (⭐793)](https://github.com/qiniu/goc)
 
 Official Go VSCode plugin already has coverage highlighting. In addition to that, this tool shows covered lines as soon as they are executed. This can be useful for running manual integration or system tests or debugging. — [@qiniu](https://github.com/qiniu)
 
@@ -473,7 +485,7 @@ Requirements
 
     go install github.com/qiniu/goc@latest
 
-### [⏫](#contents) :confetti\_ball: Shuffle tests
+### [⏫](#contents) :fire: Shuffle tests
 
 This is less known option that is disabled by default. However, for robust test suite it is beneficial. More test flags and full description is available at `go help testflag`.
 
@@ -529,7 +541,7 @@ Refactored, tested variant of the goroutine leak detector found in both `net/htt
       }()
     }
 
-### [⏫](#contents) Summarize `go test` with [tparse (⭐948)](https://github.com/mfridman/tparse)
+### [⏫](#contents) Summarize `go test` with [tparse (⭐973)](https://github.com/mfridman/tparse)
 
 This lightweight wrapper around STDOUT of JSON of `go test` will nicely render colorized test status, details of failures, duration, coverage, and package summary. — [@mfridman](https://github.com/mfridman)
 
@@ -541,7 +553,7 @@ Requirements
 
     go install github.com/mfridman/tparse@latest
 
-### [⏫](#contents) Decorate `go test` with [richgo (⭐836)](https://github.com/kyoh86/richgo)
+### [⏫](#contents) Decorate `go test` with [richgo (⭐841)](https://github.com/kyoh86/richgo)
 
 Add colors and enrich `go test` output. It can be used in CI pipeline and has lots of alternative visualizations and options. — [@kyoh86](https://github.com/kyoh86)
 
@@ -577,7 +589,7 @@ Requirements
 
     go install gotest.tools/gotestsum@latest
 
-### [⏫](#contents) Format `go test` results as documentation with [gotestdox (⭐102)](https://github.com/bitfield/gotestdox)
+### [⏫](#contents) Format `go test` results as documentation with [gotestdox (⭐106)](https://github.com/bitfield/gotestdox)
 
 Decorates `go test` results by converting CamelCaseTestNames into readable sentences. — [@bitfield](https://github.com/bitfield)
 
@@ -639,7 +651,7 @@ Requirements
 
     go install gotest.tools/gotestsum@latest
 
-### [⏫](#contents) Make `JSUnit` test report with [go-junit-report (⭐763)](https://github.com/jstemmer/go-junit-report)
+### [⏫](#contents) Make `JSUnit` test report with [go-junit-report (⭐768)](https://github.com/jstemmer/go-junit-report)
 
 JUnit is widely used format for test reporting. Go benchmark output is also supported. — [@jstemmer](https://github.com/jstemmer)
 
@@ -664,7 +676,7 @@ Requirements
 
     https://stedolan.github.io/jq/download/
 
-### [⏫](#contents) Perform Mutation Testing with [ooze (⭐245)](https://github.com/gtramontina/ooze)
+### [⏫](#contents) Perform Mutation Testing with [ooze (⭐248)](https://github.com/gtramontina/ooze)
 
 Mutation testing is a technique used to assess the quality and coverage of test suites. It involves introducing controlled changes to the code base, simulating common programming mistakes. These changes are, then, put to test against the test suites. A failing test suite is a good sign. It indicates that the tests are identifying mutations in the code—it "killed the mutant". If all tests pass, we have a surviving mutant. This highlights an area with weak coverage. It is an opportunity for improvement. — [@gtramontina](https://github.com/gtramontina)
 
@@ -676,9 +688,9 @@ Requirements
 
     go get github.com/gtramontina/ooze
 
-### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting (⭐136)](https://github.com/avito-tech/go-mutesting)
+### [⏫](#contents) Perform Mutation Testing with [avito-tech/go-mutesting (⭐141)](https://github.com/avito-tech/go-mutesting)
 
-This is fork of [zimmski/go-mutesting (⭐625)](https://github.com/zimmski/go-mutesting). It has more mutators and latest updates. — [@vasiliyyudin](https://github.com/vasiliyyudin)
+This is fork of [zimmski/go-mutesting (⭐635)](https://github.com/zimmski/go-mutesting). It has more mutators and latest updates. — [@vasiliyyudin](https://github.com/vasiliyyudin)
 
     go-mutesting ./...
 
@@ -697,7 +709,7 @@ Requirements
 
     go install github.com/avito-tech/go-mutesting/cmd/go-mutesting@latest
 
-### [⏫](#contents) Perform Mutation Testing with [go-mutesting (⭐625)](https://github.com/zimmski/go-mutesting)
+### [⏫](#contents) Perform Mutation Testing with [go-mutesting (⭐635)](https://github.com/zimmski/go-mutesting)
 
 Find common bugs source code that would pass tests. This is earliest tool for mutation testing in Go. More functions and permutations were added in other mutation Go tools it inspired. — [@zimmski](https://github.com/zimmski)
 
@@ -814,7 +826,7 @@ Requirements
     https://graphviz.org/download/
     go install golang.org/x/exp/cmd/modgraphviz@latest
 
-### [⏫](#contents) Make graph of upstream modules with [gmchart (⭐205)](https://github.com/PaulXu-cn/go-mod-graph-chart/gmchart)
+### [⏫](#contents) Make graph of upstream modules with [gmchart (⭐208)](https://github.com/PaulXu-cn/go-mod-graph-chart/gmchart)
 
 Render in browser Go module graphs. Built with D3.js, Javascript, HTTP server in Go. — [@PaulXu-cn](https://github.com/PaulXu-cn)
 
@@ -855,7 +867,7 @@ Requirements
     go install github.com/nikolaydubina/import-graph@latest
     go install github.com/nikolaydubina/jsonl-graph@latest
 
-### [⏫](#contents) Scrape licenses of upstream dependencies with [go-licenses (⭐793)](https://github.com/google/go-licenses)
+### [⏫](#contents) Scrape licenses of upstream dependencies with [go-licenses (⭐808)](https://github.com/google/go-licenses)
 
 Collect all the licenses for checking if you can use the project, for example in proprietary or commercial environment. — Google
 
@@ -893,7 +905,7 @@ Requirements
     https://graphviz.org/download/
     go install github.com/loov/goda@latest
 
-### [⏫](#contents) Explore dependencies interactively with [spaghetti (⭐742)](https://github.com/adonovan/spaghetti)
+### [⏫](#contents) Explore dependencies interactively with [spaghetti (⭐745)](https://github.com/adonovan/spaghetti)
 
 Useful in large refactorings, dependency breaking, physical layout changes. — [Alan Donovan](https://github.com/adonovan), official Go team
 
@@ -918,7 +930,7 @@ Tell Go compiler which versions of upstreams to include in your build. Tell all 
     replace example.com/bad/thing v1.4.5 => example.com/good/thing v1.4.5
     retract [v1.9.0, v1.9.5]
 
-### [⏫](#contents) Enforce Go code architecture with [go-arch-lint (⭐205)](https://github.com/fe3dback/go-arch-lint)
+### [⏫](#contents) Enforce Go code architecture with [go-arch-lint (⭐225)](https://github.com/fe3dback/go-arch-lint)
 
 Architecture linter. Will check all project import path and compare with arch rules defined in yml file. Useful for hexagonal / onion / ddd / mvc / etc patterns. — [@fe3dback](https://github.com/fe3dback)
 
@@ -932,7 +944,7 @@ Requirements
 
 ## Code Visualization
 
-### [⏫](#contents) Make C4 diagram with [go-structurizr (⭐300)](https://github.com/krzysztofreczek/go-structurizr)
+### [⏫](#contents) Make C4 diagram with [go-structurizr (⭐307)](https://github.com/krzysztofreczek/go-structurizr)
 
 This library provides tools to generate [C4](https://c4model.com) diagrams. The process is a bit involved, however you get diagram generated from real Go code automatically. Steps are outlined in [blog](https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/). — [@krzysztofreczek](https://github.com/krzysztofreczek)
 
@@ -960,7 +972,7 @@ Requirements
 
     go install golang.org/x/tools/cmd/callgraph@latest
 
-### [⏫](#contents) Make graph of function calls in package with [go-callvis (⭐5.8k)](https://github.com/ofabry/go-callvis)
+### [⏫](#contents) Make graph of function calls in package with [go-callvis (⭐5.9k)](https://github.com/ofabry/go-callvis)
 
 Quickly track which packages current package is calling and why. — [@ofabry](https://github.com/ofabry)
 
@@ -985,7 +997,7 @@ Requirements
     go get github.com/jfeliu007/goplantuml/parser
     go install github.com/jfeliu007/goplantuml/cmd/goplantuml@latest
 
-### [⏫](#contents) Make PlantUML diagram with [go-plantuml (⭐375)](https://github.com/bykof/go-plantuml)
+### [⏫](#contents) Make PlantUML diagram with [go-plantuml (⭐380)](https://github.com/bykof/go-plantuml)
 
 Automatically generate visualization of classes and interfaces for go packages. Recommend recursive option. Render `.puml` files in for example [planttext.com](https://www.planttext.com). — [@bykof](https://github.com/bykof)
 
@@ -1025,7 +1037,7 @@ Requirements
 
     https://stedolan.github.io/jq/download/
 
-### [⏫](#contents) Explore Go code in browser powered by `go-guru` with [pythia (⭐336)](https://github.com/fzipp/pythia)
+### [⏫](#contents) Explore Go code in browser powered by `go-guru` with [pythia (⭐335)](https://github.com/fzipp/pythia)
 
 Explore Go source code in browser. It provides exported symbols summary for navigation. It answers questions like: definition; callers; implementers. It is browser frontend based on [go-guru](https://docs.google.com/document/d/1_Y9xCEMj5S-7rv2ooHpZNH15JgRT5iM742gJkw5LtmQ/edit), which was developed by Go core team from Google. — [@fzipp](https://github.com/fzipp)
 
@@ -1044,7 +1056,7 @@ Based on `go-callvis`, this tool is an interactive package explorer of packages.
 
 <div align="center"><img src="https://github.com/ofabry/goexplorer/raw/master/images/screen.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Make D2 graph of architecture and dependencies with [go-arch-lint graph (⭐205)](https://github.com/fe3dback/go-arch-lint)
+### [⏫](#contents) Make D2 graph of architecture and dependencies with [go-arch-lint graph (⭐225)](https://github.com/fe3dback/go-arch-lint)
 
 Can include vendors or not, and be of type 'flow' or 'di'. — [@fe3dback](https://github.com/fe3dback)
 
@@ -1060,7 +1072,7 @@ Requirements
 
 ### [⏫](#contents) Run `go:generate` in parallel
 
-Official Go team [encourages (⭐121k)](https://github.com/golang/go/issues/20520) to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution bellow spawns multiple processes, each per pkg.
+Official Go team [encourages (⭐122k)](https://github.com/golang/go/issues/20520) to run sequentially. However, in certain situations, such as lots of mocks, parallelization helps a lot, albeit, you should consider including your generated files in git. The solution bellow spawns multiple processes, each per pkg.
 
     grep -rnw "go:generate" -E -l "${1:-*.go}" . | xargs -L1 dirname | sort -u | xargs -P 8 -I{} go generate {}
 
@@ -1091,7 +1103,7 @@ Requirements
 
     go install golang.org/x/tools/cmd/stringer@latest
 
-### [⏫](#contents) Generate enums encoding with [go-enum-encoding (⭐9)](https://github.com/nikolaydubina/go-enum-encoding)
+### [⏫](#contents) Generate enums encoding with [go-enum-encoding (⭐12)](https://github.com/nikolaydubina/go-enum-encoding)
 
 Generate encoding code for enums. This follows json struct tag notation. — [@nikolaydubina](https://github.com/nikolaydubina)
 
@@ -1113,7 +1125,7 @@ Requirements
 
     go install github.com/nikolaydubina/go-enum-encoding@latest
 
-### [⏫](#contents) Generate enums with [goenums (⭐213)](https://github.com/zarldev/goenums)
+### [⏫](#contents) Generate enums with [goenums (⭐220)](https://github.com/zarldev/goenums)
 
 Genereate strict and fast enums. Generated code is much more tightly typed than just iota defined enums. You will get JSON decoder and encoder as well. This tool allows to generate extra fields and default values in enum structs. — [@zarldev](https://github.com/zarldev)
 
@@ -1142,7 +1154,7 @@ Requirements
 
     go install github.com/zarldev/goenums@latest
 
-### [⏫](#contents) :confetti\_ball: Generate data types from JSON Schema with [go-jsonschema (⭐539)](https://github.com/omissis/go-jsonschema)
+### [⏫](#contents) :fire: Generate data types from JSON Schema with [go-jsonschema (⭐555)](https://github.com/omissis/go-jsonschema)
 
 JSON Schema is widely used standard for definition of structured data types. This tool will generate Go struct, decoder and validation based on JSON Schema spec. — [@omissis](https://github.com/omissis)
 
@@ -1242,7 +1254,7 @@ Requirements
     go get github.com/atombender/go-jsonschema/...
     go install github.com/atombender/go-jsonschema@latest
 
-### [⏫](#contents) :confetti\_ball: Generate constructor for a struct with [gonstructor (⭐80)](https://github.com/moznion/gonstructor)
+### [⏫](#contents) :fire: Generate constructor for a struct with [gonstructor (⭐82)](https://github.com/moznion/gonstructor)
 
 Constructor is a widely used useful pattern. This tool generates basic version of it that passes arguments to struct. It also supports intializer method. — [@moznion](https://github.com/moznion)
 
@@ -1314,7 +1326,7 @@ Requirements
 
     go install github.com/golang/mock/mockgen@v1.6.0
 
-### [⏫](#contents) Generate interface for a struct with [ifacemaker (⭐319)](https://github.com/vburenin/ifacemaker)
+### [⏫](#contents) Generate interface for a struct with [ifacemaker (⭐322)](https://github.com/vburenin/ifacemaker)
 
 This is a development helper program that generates a Golang interface by inspecting the structure methods of an existing .go file. The primary use case is to generate interfaces for [gomock (⭐9.3k)](https://github.com/golang/mock), so that [gomock (⭐9.3k)](https://github.com/golang/mock) can generate mocks from those interfaces. This makes unit testing easier. — [@vburenin](https://github.com/vburenin)
 
@@ -1373,7 +1385,7 @@ Requirements
 
     go install github.com/vburenin/ifacemaker@latest
 
-### [⏫](#contents) Generate interface for a struct with [interfacer (⭐420)](https://github.com/rjeczalik/interfaces)
+### [⏫](#contents) Generate interface for a struct with [interfacer (⭐421)](https://github.com/rjeczalik/interfaces)
 
 This tool generates interface for a struct. Can be invoked in `go:generate`. — [@rjeczalik](https://github.com/rjeczalik)
 
@@ -1420,7 +1432,7 @@ Requirements
 
     go install github.com/reflog/struct2interface@latest
 
-### [⏫](#contents) Generate interface for `CSV` file with [structer (⭐420)](https://github.com/rjeczalik/interfaces)
+### [⏫](#contents) Generate interface for `CSV` file with [structer (⭐421)](https://github.com/rjeczalik/interfaces)
 
 This tool generates struct that can read and write `CSV` file of this struct. Order of fields is hardcoded. — [@rjeczalik](https://github.com/rjeczalik)
 
@@ -1465,7 +1477,7 @@ Requirements
 
     go install github.com/fatih/gomodifytags@latest
 
-### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen (⭐5.6k)](https://github.com/deepmap/oapi-codegen)
+### [⏫](#contents) Generate code from OpenAPI 3 specification with [oapi-codegen (⭐5.7k)](https://github.com/deepmap/oapi-codegen)
 
 Generate Go client and server boilerplate from OpenAPI 3 specifications. — [@deepmap](https://github.com/deepmap)
 
@@ -1479,11 +1491,11 @@ Requirements
 
 ### [⏫](#contents) Replace symbol with `gofmt`
 
-I found this in announcement [notice (⭐121k)](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
+I found this in announcement [notice (⭐122k)](https://github.com/golang/go/commit/2580d0e08d5e9f979b943758d3c49877fb2324cb) of Go 1.18 for changes to `interface{}` to `any`. This can be useful for other refactorings too.
 
     gofmt -w -r 'interface{} -> any' .
 
-### [⏫](#contents) :confetti\_ball: Apply refactoring patches with [gopatch (⭐846)](https://github.com/uber-go/gopatch)
+### [⏫](#contents) :fire: Apply refactoring patches with [gopatch (⭐867)](https://github.com/uber-go/gopatch)
 
 With this tool it is very easy to perform refactorings. It is also possible to organize and maintan your refactoring procedures through patches. — Uber
 
@@ -1512,7 +1524,7 @@ Requirements
 
     go install golang.org/x/tools/cmd/goimports@latest
 
-### [⏫](#contents) Keep consistent ordering of imports with [gci (⭐381)](https://github.com/daixiang0/gci)
+### [⏫](#contents) Keep consistent ordering of imports with [gci (⭐399)](https://github.com/daixiang0/gci)
 
 This tool splits all import blocks into different sections, now support five section types: standard (e.g. 'fmt'); custom; default; blank; dot. It will keep each section sorted and keep ordering of sections consistent. — [@daixiang0](https://github.com/daixiang0)
 
@@ -1569,7 +1581,7 @@ Requirements
 
     go install github.com/anqiansong/goimportx@latest
 
-### [⏫](#contents) :confetti\_ball: Replace unkeyed struct literals into keyed ones with [keyify (⭐6k)](https://github.com/dominikh/go-tools/tree/master/cmd/keyify)
+### [⏫](#contents) :fire: Replace unkeyed struct literals into keyed ones with [keyify (⭐6.1k)](https://github.com/dominikh/go-tools/tree/master/cmd/keyify)
 
 You may want to do this as preparation for other refactoring steps. This tool has good emacs integration, otherwise may it be hard to use. — [@dominikh](https://github.com/dominikh)
 
@@ -1587,7 +1599,7 @@ Requirements
 
 ## Errors
 
-### [⏫](#contents) :confetti\_ball: Errors with return traces with [errtrace (⭐709)](https://github.com/bracesdev/errtrace)
+### [⏫](#contents) :fire: Errors with return traces with [errtrace (⭐715)](https://github.com/bracesdev/errtrace)
 
 Return trace is the path that error took to return to user. This can be more illustrative than typical stack trace that procuded the error. This tool have conenienve automatic instrumentation CLI to update your code. — [@bracesdev](https://github.com/bracesdev)
 
@@ -1598,7 +1610,7 @@ Requirements
     use packae "braces.dev/errtrace"
     instrument code by wrapping errors through all functions with this library
 
-### [⏫](#contents) Errors with stack traces and source fragments with [tracerr (⭐934)](https://github.com/ztrue/tracerr)
+### [⏫](#contents) Errors with stack traces and source fragments with [tracerr (⭐963)](https://github.com/ztrue/tracerr)
 
 This library collects stack traces and pretty prints code fragments. Stack traces induce performance penalty. — [@ztrue](https://github.com/ztrue)
 
@@ -1704,7 +1716,7 @@ func main() {
 }
 ```
 
-### [⏫](#contents) Visualise dependencies size in compiled binaries with [go-size-analyzer (⭐677)](https://github.com/Zxilly/go-size-analyzer)
+### [⏫](#contents) Visualise dependencies size in compiled binaries with [go-size-analyzer (⭐829)](https://github.com/Zxilly/go-size-analyzer)
 
 A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build. WebAssembly demo: <https://gsa.zxilly.dev>. — [@Zxilly](https://github.com/Zxilly)
 
@@ -1737,7 +1749,7 @@ Go can automatically fetch from custom http/https servers using `<meta>` tag to 
     go.uber.org/multierr
     honnef.co/go/tools/cmd/staticcheck
 
-### [⏫](#contents) Custom import path with [govanityurls (⭐517)](https://github.com/GoogleCloudPlatform/govanityurls)
+### [⏫](#contents) Custom import path with [govanityurls (⭐520)](https://github.com/GoogleCloudPlatform/govanityurls)
 
 Simple HTTP server that lets you host custom import paths for your Go packages. — Google
 
@@ -1747,7 +1759,7 @@ Requirements
 
     go install github.com/GoogleCloudPlatform/govanityurls@latest
 
-### [⏫](#contents) Custom import path with [sally (⭐297)](https://github.com/uber-go/sally)
+### [⏫](#contents) Custom import path with [sally (⭐307)](https://github.com/uber-go/sally)
 
 Simple HTTP server that lets you host custom import paths for your Go packages. — Uber
 
@@ -1775,7 +1787,7 @@ When import path is using custom domain, it is possible to block code from compi
 package pdf // import "rsc.io/pdf"
 ```
 
-### [⏫](#contents) :confetti\_ball: Manage multiple Go versions with [Goenv (⭐33)](https://github.com/Norwik/Goenv)
+### [⏫](#contents) :fire: Manage multiple Go versions with [Goenv (⭐34)](https://github.com/Norwik/Goenv)
 
 This tool makes it easier for managing multiple Go versions on same host. This works through intercepting Go commands and directing them to the right Go version bin and directory. Official Go [documentation](https://go.dev/doc/manage-install) on this topic. — [@clivern](https://github.com/clivern)
 
@@ -1805,7 +1817,7 @@ Requirements
 
     go install loov.dev/lensm@main
 
-### [⏫](#contents) :confetti\_ball: View Go assembly with color annotation with [pat/disfunc (⭐8)](https://github.com/maruel/pat)
+### [⏫](#contents) :fire: View Go assembly with color annotation with [pat/disfunc (⭐10)](https://github.com/maruel/pat)
 
 This tool shows assmebly of functions and what lines mean by color. — [@maruel](https://github.com/maruel)
 
@@ -1817,7 +1829,7 @@ Requirements
 
     go install github.com/maruel/pat/cmd/...@latest
 
-### [⏫](#contents) Generate Go assembly in Go with [avo (⭐2.6k)](https://github.com/mmcloughlin/avo)
+### [⏫](#contents) Generate Go assembly in Go with [avo (⭐2.7k)](https://github.com/mmcloughlin/avo)
 
 Write better quality Go assembly quicker in Go language itself. This tool conveniently generates stub for Go code to call your generated assembly. Used by Go core. — [@mmcloughlin](https://github.com/mmcloughlin)
 
@@ -1997,7 +2009,7 @@ Requirements
     go install github.com/gopherdata/gophernotes@v0.7.5
     # more instructions on how to install Jupyter Notebook Go kernel in original repo
 
-### [⏫](#contents) Run interactive Go interpreter with [yaegi (⭐6.8k)](https://github.com/traefik/yaegi)
+### [⏫](#contents) Run interactive Go interpreter with [yaegi (⭐6.9k)](https://github.com/traefik/yaegi)
 
 This interpreter works with 3rd party pacakges located in `$GOPATH/src`. It can also be triggered within Go programmatically via `Eval()`. Works everywhere Go works. — [@traefik](https://github.com/traefik)
 
@@ -2022,7 +2034,7 @@ Requirements
 
     go install github.com/traefik/yaegi@latest
 
-### [⏫](#contents) Run interactive Go interpreter with [gomacro (⭐2.1k)](https://github.com/cosmos72/gomacro)
+### [⏫](#contents) Run interactive Go interpreter with [gomacro (⭐2.2k)](https://github.com/cosmos72/gomacro)
 
 This is interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros. You can run functions, import 3rd patry packages. Can be useful for learning and experimentation. Some nice features: autocomplete; constant expressions arithmetics. As of `2023-06-02`, issues with importing 3rd paty package are possible. — [@cosmos72](https://github.com/cosmos72)
 
@@ -2209,7 +2221,7 @@ Requirements
     # start pprof server or grmon in your Go process
     go install github.com/bcicen/grmon@latest
 
-### [⏫](#contents) Monitor Go processes with [gops (⭐6.6k)](https://github.com/google/gops)
+### [⏫](#contents) Monitor Go processes with [gops (⭐6.7k)](https://github.com/google/gops)
 
 Monitoring memory of Go processes, forcing GC, getting version of Go of processes. — Google
 
@@ -2236,7 +2248,7 @@ Requirements
 
     go get github.com/arl/statsviz@latest
 
-### [⏫](#contents) Auto-Instrument all functions with [go-instrument (⭐154)](https://github.com/nikolaydubina/go-instrument)
+### [⏫](#contents) Auto-Instrument all functions with [go-instrument (⭐165)](https://github.com/nikolaydubina/go-instrument)
 
 Automatically instrument all functions with Open Telemetry Spans by code generation. Inserts errors into Spans. — [@nikolaydubina](https://github.com/nikolaydubina)
 
@@ -2248,7 +2260,7 @@ Requirements
 
     go install github.com/nikolaydubina/go-instrument@latest
 
-### [⏫](#contents) Auto-Instrument all functions with [otelinji (⭐14)](https://github.com/hedhyw/otelinji)
+### [⏫](#contents) Auto-Instrument all functions with [otelinji (⭐18)](https://github.com/hedhyw/otelinji)
 
 Automatically instrument all functions with Open Telemetry Spans by code generation. Inserts errors into Spans. Supports custom templates and can be used for Open Tracing or any custom insertions. — [@hedhyw](https://github.com/hedhyw)
 
@@ -2262,7 +2274,7 @@ Requirements
 
     go install github.com/hedhyw/otelinji/cmd/otelinji@latest
 
-### [⏫](#contents) :confetti\_ball: Auto-Instrument functions for DataDog with [orchestrion (⭐108)](https://github.com/DataDog/orchestrion)
+### [⏫](#contents) :fire: Auto-Instrument functions for DataDog with [orchestrion (⭐115)](https://github.com/DataDog/orchestrion)
 
 This is official Datadog tool for automatic instrumentation of code. It has very convenient compiler directives for instrumentation. — [@DataDog](https://github.com/DataDog)
 
@@ -2278,7 +2290,7 @@ Requirements
 
     go install github.com/datadog/orchestrion@latest
 
-### [⏫](#contents) Continious Profiling with [Pyroscope (⭐9.7k)](https://github.com/grafana/pyroscope)
+### [⏫](#contents) Continious Profiling with [Pyroscope (⭐9.8k)](https://github.com/grafana/pyroscope)
 
 This tool allows to injest profiling data from your application. You would need to add integration in your main file that will sample in-process data and send it to Pyroscope. Here are useful resources [blog-go-memory-leaks](https://grafana.com/blog/2023/04/19/how-to-troubleshoot-memory-leaks-in-go-with-grafana-pyroscope/). — Grafana Labs
 
@@ -2429,7 +2441,7 @@ Requirements
 
     go install golang.org/x/perf/cmd/benchstat@latest
 
-### [⏫](#contents) :confetti\_ball: Benchmark against git commit with [pat/ba (⭐8)](https://github.com/maruel/pat)
+### [⏫](#contents) :fire: Benchmark against git commit with [pat/ba (⭐10)](https://github.com/maruel/pat)
 
 This tool runs benchmarks and shows delta between git commits. It can also be useful in GitHub Actions. — [@maruel](https://github.com/maruel)
 
@@ -2481,11 +2493,11 @@ Requirements
 
 ### [⏫](#contents) Continuous benchmarking
 
-Track how benchmarks change in codebase over time. This is accomplished by running benchmarks for git commits, storing results, and visualizing difference. Running benchmarks can be in GitHub Actions or locally, storage can be in same repository `master` or dedicated branch, or standalone servers. It should be straightforward to setup this manually. Example of GitHub Action [spec (⭐334)](https://github.com/swaggest/rest/blob/master/.github/workflows/bench.yml) and [blog](https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok) from [@vearutop](https://github.com/vearutop), and an example on how it produces a PR [comment (⭐334)](https://github.com/swaggest/rest/pull/88#issuecomment-1271540878).
+Track how benchmarks change in codebase over time. This is accomplished by running benchmarks for git commits, storing results, and visualizing difference. Running benchmarks can be in GitHub Actions or locally, storage can be in same repository `master` or dedicated branch, or standalone servers. It should be straightforward to setup this manually. Example of GitHub Action [spec (⭐345)](https://github.com/swaggest/rest/blob/master/.github/workflows/bench.yml) and [blog](https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok) from [@vearutop](https://github.com/vearutop), and an example on how it produces a PR [comment (⭐345)](https://github.com/swaggest/rest/pull/88#issuecomment-1271540878).
 
 <div align="center"><img src="https://github.com/nikolaydubina/go-recipes/raw/master/img/cont-bench-vearutop.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Continuous benchmarking with [gobenchdata (⭐136)](https://github.com/bobheadxi/gobenchdata)
+### [⏫](#contents) Continuous benchmarking with [gobenchdata (⭐141)](https://github.com/bobheadxi/gobenchdata)
 
 This tool uses `go test -bench` data in GitHub. It runs benchmarks, and uploads it as GitHub Pages for visualization. It is available as GitHub Action [gobenchdata](https://github.com/marketplace/actions/continuous-benchmarking-for-go). This is useful to see benchmark trends. — [@bobheadxi](https://github.com/bobheadxi)
 
@@ -2495,7 +2507,7 @@ Requirements
 
     go install go.bobheadxi.dev/gobenchdata@latest
 
-### [⏫](#contents) Continuous benchmarking with [benchdiff (⭐67)](https://github.com/willabides/benchdiff)
+### [⏫](#contents) Continuous benchmarking with [benchdiff (⭐68)](https://github.com/willabides/benchdiff)
 
 Automates comparing benchmarks with `benchstat` of two git references. It is available as GitHub Action [benchdiff](https://github.com/marketplace/actions/benchdiff) which runs `benchstat` of HEAD vs base branch. This is useful to see how benchmarks change with PRs in CI. — [@WillAbides](https://github.com/WillAbides)
 
@@ -2574,7 +2586,7 @@ func main() {
 
 <div align="center"><img src="https://github.com/felixge/fgtrace/raw/main/assets/fgtrace-example.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Get on/off CPU profiles with [fgprof (⭐2.8k)](https://github.com/felixge/fgprof)
+### [⏫](#contents) Get on/off CPU profiles with [fgprof (⭐2.9k)](https://github.com/felixge/fgprof)
 
 This tool can be more illustrative of Go profiles than standard Go profiling. — [@felixge](https://github.com/felixge)
 
@@ -2601,7 +2613,7 @@ func main() {
 
 <div align="center"><img src="https://github.com/felixge/fgprof/raw/master/assets/fgprof_pprof.png" style="margin: 8px; max-height: 640px;"></div>
 
-### [⏫](#contents) Collect and visualize in-process traces with [trc (⭐90)](https://github.com/peterbourgon/trc)
+### [⏫](#contents) Collect and visualize in-process traces with [trc (⭐92)](https://github.com/peterbourgon/trc)
 
 This experimental approach illustrates collection of traces, intsrumentation, and visualization. It does not handle distributed traces. Likely useful for special cases or educational or research purposes. — [@peterbourgon](https://github.com/peterbourgon)
 
@@ -2614,7 +2626,7 @@ Requirements
 
 ## Documentation
 
-### [⏫](#contents) Make alternative documentation with [golds (⭐587)](https://github.com/go101/golds)
+### [⏫](#contents) Make alternative documentation with [golds (⭐596)](https://github.com/go101/golds)
 
 It has additional information like implementations of interface; promoted methods. The tool has nice minimalistic aesthetics. — [Tapir Liu](https://www.tapirgames.com)
 
@@ -2640,7 +2652,7 @@ Requirements
 
 ### [⏫](#contents) Generate badge with [gobadge (⭐18)](https://github.com/AlexBeauchemin/gobadge)
 
-This tool will generate instructions for [shields.io](https://shields.io) to generate badge. It can read `coverprofile`. There is also GitHub Action that utilizes it and stores badge in the same repo, [coverage-badge-go (⭐67)](https://github.com/tj-actions/coverage-badge-go). — [@AlexBeauchemin](https://github.com/AlexBeauchemin)
+This tool will generate instructions for [shields.io](https://shields.io) to generate badge. It can read `coverprofile`. There is also GitHub Action that utilizes it and stores badge in the same repo, [coverage-badge-go (⭐68)](https://github.com/tj-actions/coverage-badge-go). — [@AlexBeauchemin](https://github.com/AlexBeauchemin)
 
     gobadge -filename=coverage.out
     gobadge -label="Go Coverage" -value=55.6% -color=blue -target=OTHER_README.md
@@ -2716,7 +2728,7 @@ func main() {
 
 *   [Google](https://google.github.io/styleguide/go)
 
-*   [Uber (⭐15k)](https://github.com/uber-go/guide)
+*   [Uber (⭐16k)](https://github.com/uber-go/guide)
 
 *   [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 
@@ -2751,7 +2763,7 @@ Example
             requirements:
               - go install golang.org/x/vuln/cmd/govulncheck@latest
 
-### [⏫](#contents) Perform Taint Analysis with [taint (⭐48)](https://github.com/picatz/taint)
+### [⏫](#contents) Perform Taint Analysis with [taint (⭐51)](https://github.com/picatz/taint)
 
 Taint analysis is a technique for identifying the flow of sensitive data through a program. It can be used to identify potential security vulnerabilities, such as SQL injection or cross-site scripting (XSS) attacks, by understanding how this data is used and transformed as it flows through the code. This package provides tools to performs such analysis. Included tool is performing SQL injection taint analysis. — [@picatz](https://github.com/picatz)
 
@@ -2845,7 +2857,7 @@ func main() {
 }
 ```
 
-### [⏫](#contents) Detect most common issues with [staticcheck (⭐6k)](https://github.com/dominikh/go-tools)
+### [⏫](#contents) Detect most common issues with [staticcheck (⭐6.1k)](https://github.com/dominikh/go-tools)
 
 Start custom linters with this well-known linter. It contains 150+ high quality low false positive rate linters. It is widely adopted by Open Source and tech companies. [staticcheck.io](https://staticcheck.io/). — [@dominikh](https://github.com/dominikh)
 
@@ -2855,7 +2867,7 @@ Requirements
 
     go install honnef.co/go/tools/cmd/staticcheck@latest
 
-### [⏫](#contents) :confetti\_ball: Detect potential Nil panics with [nilaway (⭐2.9k)](https://github.com/uber-go/nilaway)
+### [⏫](#contents) :fire: Detect potential Nil panics with [nilaway (⭐3k)](https://github.com/uber-go/nilaway)
 
 This tool employs sophisticated static analysis techniques to catch Nil dereferences. More details in [blog](https://www.uber.com/en-IN/blog/nilaway-practical-nil-panic-detection-for-go/). — Uber
 
@@ -2869,7 +2881,7 @@ Requirements
 
 ### [⏫](#contents) Detect most common issues with [go-critic (⭐1.8k)](https://github.com/go-critic/go-critic)
 
-This linting aggregator and runner is similar to staticcheck. It has 100+ linting rules. It is based on Go [Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments) style guide that is used in core Go project itself. It has styling, security, performance rules. It has minimal dependencies and implements rules itself. It exports all analysers into `golang.org/x/tools/go/analysis` toolchain. — [@quasilyte](https://github.com/quasilyte)
+This linting aggregator and runner is similar to staticcheck. It has 100+ linting rules. It is based on Go [Code Review Comments (⭐122k)](https://github.com/golang/go/wiki/CodeReviewComments) style guide that is used in core Go project itself. It has styling, security, performance rules. It has minimal dependencies and implements rules itself. It exports all analysers into `golang.org/x/tools/go/analysis` toolchain. — [@quasilyte](https://github.com/quasilyte)
 
     gocritic check ./...
 
@@ -2881,7 +2893,7 @@ Requirements
 
 This tool has comprehensive list of linters. Owners of this aggregator keep track of active linters, their versions, and optimal configs. It contains many optimizations to make linters run fast by paralleism, distributing binaries and Docker images, utilising `golang.org/x/tools/go/analysis` toolchain.
 
-### [⏫](#contents) Detect non-exhaustive switch and map with [exhaustive (⭐286)](https://github.com/nishanths/exhaustive)
+### [⏫](#contents) Detect non-exhaustive switch and map with [exhaustive (⭐294)](https://github.com/nishanths/exhaustive)
 
 This `go vet` compatible analyzer checks for exhaustive switch statemnts and map literals. It works for enums with underyling integer, float, or string types (struct based enums are not supported). — [@nishanths](https://github.com/nishanths)
 
@@ -2931,7 +2943,7 @@ Requirements
 
     go install github.com/nishanths/exhaustive/cmd/exhaustive@latest
 
-### [⏫](#contents) Detect structs with uninitialized fields with [go-exhaustruct (⭐106)](https://github.com/GaijinEntertainment/go-exhaustruct)
+### [⏫](#contents) Detect structs with uninitialized fields with [go-exhaustruct (⭐111)](https://github.com/GaijinEntertainment/go-exhaustruct)
 
 This tool finds instatiations of structs with zero values. It supports struct tags to mark fields as optional. This may help to prevent unexpected zero values. — [@xobotyi](https://github.com/xobotyi)
 
@@ -2981,7 +2993,7 @@ Requirements
 
     go install github.com/jlauinger/go-safer@latest
 
-### [⏫](#contents) Detect unnecessary type conversions with [unconvert (⭐377)](https://github.com/mdempsky/unconvert)
+### [⏫](#contents) Detect unnecessary type conversions with [unconvert (⭐376)](https://github.com/mdempsky/unconvert)
 
 Identify expressions like `T(x)` where `x` is already has type `T`. This tool can identify conversions that force intermediate rounding. It also can overwrite files with fix. This tool is not using `golang.org/x/tools/go/analysis` toolchain. — [@mdempsky](https://github.com/mdempsky)
 
@@ -3001,7 +3013,7 @@ Requirements
 
     go install github.com/mdempsky/unconvert@latest
 
-### [⏫](#contents) Detect global variables with [gochecknoglobals (⭐102)](https://github.com/leighmcculloch/gochecknoglobals)
+### [⏫](#contents) Detect global variables with [gochecknoglobals (⭐101)](https://github.com/leighmcculloch/gochecknoglobals)
 
 Global variables are an input to functions that is not visible in the functions signature, complicate testing, reduces readability and increase the complexity of code. However, sometimes global varaibles make sense. This tool skips such common scenarios. This tool can be used in CI, albeit it is very strict. This tool is useful for investigations. — [@leighmcculloch](https://github.com/leighmcculloch)
 
@@ -3109,7 +3121,7 @@ Requirements
 
 ### [⏫](#contents) Detect naked returns with [nakedret (⭐125)](https://github.com/alexkohler/nakedret)
 
-It is common guideline to avoid [naked returns (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments#named-result-parameters). Naked return is when function has named return, and return statement does not specify value. This tool is useful for investigations. — [@alexkohler](https://github.com/alexkohler)
+It is common guideline to avoid [naked returns (⭐122k)](https://github.com/golang/go/wiki/CodeReviewComments#named-result-parameters). Naked return is when function has named return, and return statement does not specify value. This tool is useful for investigations. — [@alexkohler](https://github.com/alexkohler)
 
     nakedret ./...
 
@@ -3130,9 +3142,9 @@ Requirements
 
     go install github.com/alexkohler/nakedret/cmd/nakedret@latest
 
-### [⏫](#contents) Detect mixing pointer and value method receivers with [smrcptr (⭐12)](https://github.com/nikolaydubina/smrcptr)
+### [⏫](#contents) Detect mixing pointer and value method receivers with [smrcptr (⭐13)](https://github.com/nikolaydubina/smrcptr)
 
-Mixing pointer and value method receivers for the same type is discouraged, as per commong guideline [Go wiki (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments#receiver-type) and [Google Go style guide](https://google.github.io/styleguide/go/decisions#receiver-type). — [@nikolaydubina](https://github.com/nikolaydubina)
+Mixing pointer and value method receivers for the same type is discouraged, as per commong guideline [Go wiki (⭐122k)](https://github.com/golang/go/wiki/CodeReviewComments#receiver-type) and [Google Go style guide](https://google.github.io/styleguide/go/decisions#receiver-type). — [@nikolaydubina](https://github.com/nikolaydubina)
 
     smrcptr ./...
 
@@ -3196,7 +3208,7 @@ Requirements
 
     go install github.com/kunwardeep/paralleltest@latest
 
-### [⏫](#contents) Detect tests with wrong `t.Parallel()` usage with [tparallel (⭐22)](https://github.com/moricho/tparallel)
+### [⏫](#contents) Detect tests with wrong `t.Parallel()` usage with [tparallel (⭐23)](https://github.com/moricho/tparallel)
 
 This linter checks for incorroect usage of `t.Parallel()` calls. — [@moricho](https://github.com/moricho)
 
@@ -3227,7 +3239,7 @@ Requirements
 
     go install github.com/tommy-muehle/go-mnd/v2/cmd/mnd@latest
 
-### [⏫](#contents) :confetti\_ball: Detect magic strings with [goconst (⭐282)](https://github.com/jgautheron/goconst)
+### [⏫](#contents) :fire: Detect magic strings with [goconst (⭐285)](https://github.com/jgautheron/goconst)
 
 This tool detects repeated strings. — [@jgautheron](https://github.com/jgautheron)
 
@@ -3266,7 +3278,7 @@ Requirements
 
     go install github.com/jgautheron/goconst/cmd/goconst@latest
 
-### [⏫](#contents) :confetti\_ball: Detect bound checks with [pat/boundcheck (⭐8)](https://github.com/maruel/pat)
+### [⏫](#contents) :fire: Detect bound checks with [pat/boundcheck (⭐10)](https://github.com/maruel/pat)
 
 This tool detects bound checks in source code by anaylisng compiled code. This is useful for audit. — [@maruel](https://github.com/maruel)
 
@@ -3278,7 +3290,7 @@ Requirements
 
     go install github.com/maruel/pat/cmd/...@latest
 
-### [⏫](#contents) Calculate Cognitive Complexity with [gocognit (⭐327)](https://github.com/uudashr/gocognit)
+### [⏫](#contents) Calculate Cognitive Complexity with [gocognit (⭐338)](https://github.com/uudashr/gocognit)
 
 Congitive Complexity as defined in this tool can be more illustrative than Cyclometric Complexity. Research paper ["Cognitive Complexity - a new way of measuring understandability"](https://www.sonarsource.com/docs/CognitiveComplexity.pdf), 2021. — [@uudashr](https://github.com/uudashr)
 
@@ -3433,7 +3445,7 @@ Requirements
 
     go install github.com/esimonov/ifshort@latest
 
-### [⏫](#contents) Visualize struct layout with [structlayout (⭐6k)](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout)
+### [⏫](#contents) Visualize struct layout with [structlayout (⭐6.1k)](https://github.com/dominikh/go-tools/tree/master/cmd/structlayout)
 
 Display the byte offset and size of each field, respecting alignment/padding. — [@dominikh](https://github.com/dominikh)
 
@@ -3448,7 +3460,7 @@ Requirements
 
 ### [⏫](#contents) Rely on compiler for stricter Enums
 
-For compile time blocking of: accidental arithmetics; implicit cast of untyped constants; all operators except `==` and `!=`; — simply wrap into a struct in separate package and do not export field. [example (⭐7)](http://github.com/nikolaydubina/go-enum-example).
+For compile time blocking of: accidental arithmetics; implicit cast of untyped constants; all operators except `==` and `!=`; — simply wrap into a struct in separate package and do not export field. [example (⭐8)](http://github.com/nikolaydubina/go-enum-example).
 
 ```go
 package color

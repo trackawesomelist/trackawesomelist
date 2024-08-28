@@ -85,7 +85,7 @@
 
 ### Open Source Projects
 
-*   [Ionic aiEyes - Azure Computer Vision API (⭐25)](https://github.com/brenopolanski/aiEyes)
+*   [Ionic aiEyes - Azure Computer Vision API (⭐27)](https://github.com/brenopolanski/aiEyes)
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Aeron.NET (⭐459)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
+*   [Aeron.NET (⭐481)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

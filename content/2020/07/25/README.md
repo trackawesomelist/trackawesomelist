@@ -71,7 +71,7 @@
 
 ### Frameworks, Libraries and Tools / Office
 
-*   [EPPlus (⭐1.6k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
+*   [EPPlus (⭐1.8k)](https://github.com/EPPlusSoftware/EPPlus) - Create advanced Excel spreadsheets using .NET.
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

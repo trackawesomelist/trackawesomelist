@@ -34,9 +34,9 @@
 ### Frameworks, Libraries and Tools / ORM
 
 *   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
-    *   [Dapper-FluentMap (⭐426)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
-    *   [Dommel (⭐513)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-    *   [MicroOrm.Dapper.Repositories (⭐608)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
+    *   [Dapper-FluentMap (⭐428)](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+    *   [Dommel (⭐601)](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
+    *   [MicroOrm.Dapper.Repositories (⭐651)](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - CRUD for Dapper.
 
 ## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
@@ -64,11 +64,11 @@
 
 ### Video
 
-*   [Vireo (⭐926)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐929)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐483)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2017 Presentations (⭐484)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 *   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---

@@ -20,11 +20,11 @@
 
 ## [3. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Hacker Tab (⭐350)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Hacker Tab (⭐352)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 351 | Last update: n/a
+Installs: 2000 | Stars: 352 | Last update: n/a
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -57,7 +57,7 @@ Installs: 2000 | Stars: 351 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐8.3k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐8.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -69,19 +69,19 @@ Installs: 2000 | Stars: 351 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐7.3k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐8.1k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐1.4k)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1.5k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐24)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
+*   [desdic/greyjoy.nvim (⭐27)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

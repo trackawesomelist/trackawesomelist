@@ -24,7 +24,7 @@
 
 ### Build Tools
 
-*   [reaxt (⭐372)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐373)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -33,13 +33,13 @@
 
 ### Documentation
 
-*   [ex\_doc\_dash (⭐64)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
-*   [hexdocset (⭐21)](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
+*   [ex\_doc\_dash (⭐65)](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
+*   [hexdocset (⭐22)](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 
 ### Framework Components
 
 *   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
-*   [plugs (⭐19)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
+*   [plugs (⭐20)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 *   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
 ### Miscellaneous
@@ -52,7 +52,7 @@
 
 ### Templating
 
-*   [templates (⭐5)](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
+*   [templates (⭐6)](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ### Testing
 

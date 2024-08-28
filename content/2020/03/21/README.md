@@ -54,7 +54,7 @@
 
 ### Python / Scala
 
-*   [Connexion (⭐4.4k)](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
+*   [Connexion (⭐4.5k)](https://github.com/zalando/connexion) - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
 
 ### Job Schedulers / Workload Automation / Scala
 

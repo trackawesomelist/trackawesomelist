@@ -20,7 +20,7 @@
 
 ### Resources / Examples
 
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐38)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
+*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
 
 ### Projects Using Vue.js / Open Source
 
@@ -80,8 +80,8 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐519)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
-*   [JZZ-midi-Gear (⭐15)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+*   [JZZ (⭐521)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ-midi-Gear (⭐17)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

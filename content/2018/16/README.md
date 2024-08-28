@@ -29,11 +29,11 @@
 ### Packages / AST
 
 *   [ember-ast-helpers (⭐40)](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
-*   [jscodeshift (⭐7.9k)](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+*   [jscodeshift (⭐9.1k)](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 
 ### Packages / Adapters
 
-*   [ember-cli-markdown-resolver (⭐25)](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
+*   [ember-cli-markdown-resolver (⭐26)](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
 
 ### Packages / Authentication
 
@@ -55,21 +55,21 @@
 
 ### Packages / CI/CD
 
-*   [ember-cli-server-variables (⭐32)](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
+*   [ember-cli-server-variables (⭐31)](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
 
 ### Packages / Component addons
 
-*   [ember-diff-attrs (⭐26)](https://github.com/workmanw/ember-diff-attrs)
+*   [ember-diff-attrs (⭐27)](https://github.com/workmanw/ember-diff-attrs)
 
 ### Packages / Data validation
 
-*   [ember-model-validator (⭐150)](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
-*   [ember-validated-form (⭐67)](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+*   [ember-model-validator (⭐166)](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
+*   [ember-validated-form (⭐68)](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
 
 ### Packages / Debugging / Profiling
 
-*   [ember-debug-logger (⭐37)](https://github.com/salsify/ember-debug-logger) - Exposes the visionmedia/debug library for use in your Ember.js application.
-*   [ember-devtools (⭐163)](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
+*   [ember-debug-logger (⭐36)](https://github.com/salsify/ember-debug-logger) - Exposes the visionmedia/debug library for use in your Ember.js application.
+*   [ember-devtools (⭐160)](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
 
 ### Packages / Ember-inspector roadmaps & overview
 
@@ -84,7 +84,7 @@
 
 *   [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 *   [Folktale](http://folktale.origamitower.com) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
-*   [immutable (⭐32k)](https://github.com/facebook/immutable-js) - Immutable data collections.
+*   [immutable (⭐33k)](https://github.com/facebook/immutable-js) - Immutable data collections.
 *   [Kefir.js (⭐2)](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
 *   [Lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 *   [lodash](https://lodash.com) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
@@ -105,12 +105,12 @@
 
 ### Packages / Internalization & Localization
 
-*   [ember-intl (⭐431)](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
+*   [ember-intl (⭐434)](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 
 ### Packages / Job queues
 
 *   [ember-concurrency](http://ember-concurrency.com)
-*   [ember-pipeline (⭐17)](https://github.com/poteto/ember-pipeline)
+*   [ember-pipeline (⭐18)](https://github.com/poteto/ember-pipeline)
 
 ### Packages / Logging
 
@@ -120,22 +120,22 @@
 ### Packages / Miscellaneous
 
 *   [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
-*   [ember data model maker (⭐151)](https://github.com/andycrum/ember-data-model-maker/) - Ember Data Model Maker (EDMM).
+*   [ember data model maker (⭐150)](https://github.com/andycrum/ember-data-model-maker/) - Ember Data Model Maker (EDMM).
 *   [builtwithember](http://builtwithember.io/) - Apps powered by Ember.js.
 
 ### Packages / Testing
 
 *   [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app using a [JSON API](http://jsonapi.org/)-compliant client-side server.
-*   [ember-exam (⭐280)](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
+*   [ember-exam (⭐287)](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
 
 ### Packages / TypeScript
 
-*   [ember-cli-typescript (⭐358)](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
+*   [ember-cli-typescript (⭐363)](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
 
 ### Packages / UI components
 
-*   [ember-burger-menu (⭐282)](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
-*   [ember-power-select (⭐530)](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
+*   [ember-burger-menu (⭐279)](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
+*   [ember-power-select (⭐541)](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
 
 ### Packages / Articles
 
@@ -178,8 +178,8 @@
 ### Packages / Codemods
 
 *   [ember-qunit-codemod (⭐36)](https://github.com/rwjblue/ember-qunit-codemod) - This codemod is intended to automatically convert your projects from the older moduleFor\* syntax of ember-qunit\@2 to the newer syntax.
-*   [es5-getter-ember-codemod (⭐32)](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
-*   [qunit-dom-codemod (⭐12)](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
+*   [es5-getter-ember-codemod (⭐34)](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
+*   [qunit-dom-codemod (⭐14)](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
 *   [test-selectors-codemod (⭐7)](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
 
 ### Packages / Community
@@ -196,9 +196,9 @@
 
 ### Packages / Examples
 
-*   [API Docs (⭐63)](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
-*   [Builds (⭐12)](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
-*   [Rancher (⭐547)](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
+*   [API Docs (⭐73)](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
+*   [Builds (⭐11)](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
+*   [Rancher (⭐591)](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
 
 ### Packages / Gists
 
@@ -233,7 +233,7 @@
 *   [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between new ember apps.
 *   [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
 *   [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
-*   [remote-inspector (⭐95)](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
+*   [remote-inspector (⭐92)](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
 
 ### Packages / Tutorials
 
@@ -433,7 +433,7 @@
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐4.1k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
@@ -443,7 +443,7 @@
 
 ### Related lists / Miscellaneous
 
-*   [awesome-npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+*   [awesome-npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1.1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
@@ -548,7 +548,7 @@
 
 ### Software / Conference Management
 
-*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐683)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
+*   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐698)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 ## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
@@ -1027,7 +1027,7 @@
 ### Applications
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐383)](https://github.com/ssbc/patchbay).
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐385)](https://github.com/ssbc/patchbay).
 *   [PeerTube (⭐13k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 *   [Syncthing-GTK (⭐1.3k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
@@ -1100,7 +1100,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [Fleck (⭐2.2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
+*   [Fleck (⭐2.3k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
 
 ### Podcasts / Workflow
 

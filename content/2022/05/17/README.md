@@ -10,7 +10,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐38)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-env0 (⭐39)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 *   [terraform-provider-scalr (⭐19)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 
 ## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
@@ -71,11 +71,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-connect-wallet (⭐90)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+*   [vue-connect-wallet (⭐96)](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 
 ### Components & Libraries / UI Utilities
 
-*   [v-route-generate (⭐11)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+*   [v-route-generate (⭐12)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐241)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐251)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

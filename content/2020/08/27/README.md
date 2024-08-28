@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,19 +56,13 @@
 
 *   [omg-curry (⭐135)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
-## [4. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
-
-### Authorization / AWS policy tools
-
-*   [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e) - Netflix tools to enforce least privilege on AWS. The idea is that the default policy on new things is deny all, and then it monitors cloudtrail for privilege failures and reconfigures IAM to allow the smallest possible privilege to get rid of that deny message.
-
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Image Processing
 
-*   [ImageProcessing (⭐837)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐859)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
-## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Official resources
 
@@ -87,19 +81,19 @@
 
 *   [Excel Ansible Inventory (⭐97)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
-## [7. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Schematics to add Prisma support to a NestJS application (⭐21)](https://github.com/marcjulian/nestjs-prisma)
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/) - Defensive Security is a Cyber Security Podcast covering breaches and strategies for defense.
 
-## [9. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+## [8. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
 ### Locksport associations and organizations
 

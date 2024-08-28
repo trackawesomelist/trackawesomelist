@@ -119,7 +119,7 @@
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐3.9k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -137,13 +137,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐4.8k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐4.9k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Testing
 
-*   [Quality Assurance Roadmap (⭐1.7k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+*   [Quality Assurance Roadmap (⭐1.8k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

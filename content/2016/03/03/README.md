@@ -46,7 +46,7 @@
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐254)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐255)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

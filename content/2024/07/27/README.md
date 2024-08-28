@@ -21,4 +21,5 @@
 
 ---
 
+- Prev: [Jul 28, 2024](/content/2024/07/28/README.md)
 - Next: [Jul 26, 2024](/content/2024/07/26/README.md)

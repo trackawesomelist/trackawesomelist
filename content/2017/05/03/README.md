@@ -84,7 +84,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [protoactor-dotnet (⭐1.6k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
+*   [protoactor-dotnet (⭐1.7k)](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# <http://proto.actor>.
 
 ### Books / Workflow
 

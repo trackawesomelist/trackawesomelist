@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-28 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -114,11 +114,11 @@
 
 ### API Builder and Discovery
 
-*   [Her (⭐2.1k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
+*   [Her (⭐2k)](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 
 ### CLI Utilities
 
-*   [Pastel (⭐633)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐634)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
@@ -148,13 +148,7 @@
 
 *   [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly\&utm_medium=email)
 
-## [13. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
-
-### Articles & Papers / Scala
-
-*   [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
-
-## [14. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Load tools
 
@@ -174,36 +168,36 @@
 
 *   [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) - Gil Tene.
 
-## [15. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [14. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### JAVA
 
 *   [Titan (⭐5.2k)](https://github.com/thinkaurelius/titan) - Distributed Graph Database <http://titandb.io>
 
-## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [15. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [mapmap.js (⭐108)](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [picotool (⭐357)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
-## [18. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### UI / Paid Books
 
 *   [Dragula (⭐21k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 *   [X-editable (⭐6.5k)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
-*   [progress\_bar (⭐328)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
+*   [progress\_bar (⭐330)](https://github.com/henrik/progress_bar) - Command-line progress bars and spinners.
 
 ### Embedded Systems
 
@@ -211,15 +205,15 @@
 
 ### Queue
 
-*   [toniq (⭐341)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
+*   [toniq (⭐340)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / D individuals
 
 *   Dragan Gaic <http://www.gajotres.net/>
 
-## [21. Tips](/content/git-tips/tips/week/README.md)
+## [20. Tips](/content/git-tips/tips/week/README.md)
 
 ## Show the most recent tag on the current branch.
 
@@ -227,7 +221,7 @@
 git describe --tags --abbrev=0
 ```
 
-## [22. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [21. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -265,7 +259,7 @@ git describe --tags --abbrev=0
 
 *   [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 
-## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [22. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
@@ -276,7 +270,7 @@ git describe --tags --abbrev=0
 
 *   [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
 
-## [24. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [23. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -336,28 +330,14 @@ git describe --tags --abbrev=0
 
 *   [Node.js blog](https://nodejs.org/en/blog/)
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [GMStepper (⭐923)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 *   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Agda
-
-*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
-
-### Groovy / Spock Framework
-
-*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [A Guide to Python's Magic Methods (⭐1.7k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
-
-## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -397,7 +377,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [28. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [26. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

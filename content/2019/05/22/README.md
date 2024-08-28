@@ -10,7 +10,7 @@
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐358)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐359)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -45,25 +45,25 @@
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐727)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐731)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [IL2C (⭐376)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
+*   [IL2C (⭐397)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Baget (⭐2.4k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
+*   [Baget (⭐2.6k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [FreeSql (⭐3.8k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
+*   [FreeSql (⭐4.1k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Linq\_Faster (⭐736)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
+*   [Linq\_Faster (⭐755)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 
 ### Books / Workflow
 
@@ -119,7 +119,7 @@
 
 ### Internationalization
 
-*   [utf8proc (⭐998)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐1k)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 

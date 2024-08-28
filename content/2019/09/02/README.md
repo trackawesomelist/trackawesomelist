@@ -71,7 +71,7 @@
 
 ### Audio
 
-*   [Verovio (⭐649)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐654)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -86,9 +86,9 @@
 
 ## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Live Preview (⭐28)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
+*   [Wagtail Live Preview (⭐29)](https://github.com/KalobTaulien/wagtail-livepreview) - Live page previews beside your content.
 
 ---
 

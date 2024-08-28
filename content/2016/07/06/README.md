@@ -171,7 +171,7 @@ Webpage: <http://espaijoliu.tumblr.com/>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [rabbitmq-dotnet-client (⭐1.9k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
+*   [rabbitmq-dotnet-client (⭐2.1k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client <https://www.rabbitmq.com>.
 
 ## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

@@ -89,12 +89,12 @@
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐72)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐73)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
 *   [Scientific Computing (⭐1.3k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐295)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Amazon Sellers (⭐304)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -160,7 +160,7 @@
 
 ### Cryptography
 
-*   [pynacl (⭐1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+*   [pynacl (⭐1.1k)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### Database
 
@@ -177,7 +177,7 @@
 
 *   Batch Processing
     *   [dask (⭐12k)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
-    *   [luigi (⭐17k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    *   [luigi (⭐18k)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
     *   [PySpark (⭐39k)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     *   [Ray (⭐32k)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 *   Stream Processing

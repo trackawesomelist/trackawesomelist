@@ -2,7 +2,7 @@
 
 :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DopplerHQ/awesome-interview-questions/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) · ⭐ 51K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DopplerHQ/awesome-interview-questions/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) · ⭐ 69K · 🏷️ Work
 
 [ Daily / [Weekly](/content/DopplerHQ/awesome-interview-questions/week/README.md) / [Overview](/content/DopplerHQ/awesome-interview-questions/readme/README.md) ]
 
@@ -10,13 +10,13 @@
 
 ### Programming Languages/Frameworks/Platforms / ReactJS
 
-*   [React Interview Questions & Answers (⭐25k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [React Interview Questions & Answers (⭐38k)](https://github.com/sudheerj/reactjs-interview-questions)
 
 ## [Nov 06, 2021](/content/2021/11/06/README.md)
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
-*   [Node.js Interview Questions by learning-zone (⭐2.3k)](https://github.com/learning-zone/nodejs-interview-questions)
+*   [Node.js Interview Questions by learning-zone (⭐3k)](https://github.com/learning-zone/nodejs-interview-questions)
 
 ## [Oct 26, 2021](/content/2021/10/26/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Spark
 
-*   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐542)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
+*   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐627)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
 ## [Jun 21, 2021](/content/2021/06/21/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Vue.js
 
-*   [List of 300 VueJS Interview Questions (⭐1.8k)](https://github.com/sudheerj/vuejs-interview-questions)
+*   [List of 300 VueJS Interview Questions (⭐2.5k)](https://github.com/sudheerj/vuejs-interview-questions)
 
 ## [May 31, 2021](/content/2021/05/31/README.md)
 
@@ -140,11 +140,11 @@
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
-*   [Node.js Interview Questions in Chinese (⭐22k)](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
+*   [Node.js Interview Questions in Chinese (⭐25k)](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby on Rails
 
-*   [High-level Ruby on Rails Interview Questions (⭐78)](https://github.com/rishiip/ruby-on-rails-interview-questions)
+*   [High-level Ruby on Rails Interview Questions (⭐88)](https://github.com/rishiip/ruby-on-rails-interview-questions)
 
 ### Database technologies / SQLite
 
@@ -152,7 +152,7 @@
 
 ### DevOps / Windows
 
-*   [Linux System Administrator/DevOps Interview Questions (⭐4.4k)](https://github.com/chassing/linux-sysadmin-interview-questions)
+*   [Linux System Administrator/DevOps Interview Questions (⭐5k)](https://github.com/chassing/linux-sysadmin-interview-questions)
 *   [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 *   [Top 60+ DevOps Interview Questions & Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 
@@ -160,9 +160,9 @@
 
 ### Programming Languages/Frameworks/Platforms / Android
 
-*   [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics (⭐2k)](https://github.com/anitaa1990/Android-Cheat-sheet)
+*   [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics (⭐2.2k)](https://github.com/anitaa1990/Android-Cheat-sheet)
 *   [Android Interview Questions And Answers From Beginner To Advanced](https://www.andreasschrade.com/2017/02/23/android-interview-questions/)
-*   [Interview Questions for Senior Android Developers (⭐51)](https://github.com/mohsenoid/Android-Interview-Questions)
+*   [Interview Questions for Senior Android Developers (⭐119)](https://github.com/mohsenoid/Android-Interview-Questions)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
@@ -172,7 +172,7 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [JavaScript Modern Interview Code Challenges 2021 (⭐3.4k)](https://github.com/sadanandpai/javascript-code-challenges)
+*   [JavaScript Modern Interview Code Challenges 2021 (⭐4.2k)](https://github.com/sadanandpai/javascript-code-challenges)
 
 ## [Mar 11, 2021](/content/2021/03/11/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Coding exercises / Windows
 
-*   [Common interview questions and puzzles solved in several languages (⭐1.5k)](https://github.com/mre/the-coding-interview)
+*   [Common interview questions and puzzles solved in several languages (⭐1.7k)](https://github.com/mre/the-coding-interview)
 
 ### Design Patterns / Windows
 
@@ -271,13 +271,13 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [The MEGA Interview Guide (⭐941)](https://github.com/danieldelcore/mega-interview-guide)
+*   [The MEGA Interview Guide (⭐1.1k)](https://github.com/danieldelcore/mega-interview-guide)
 
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
-*   [A collection of Java interview questions and answers to them (⭐261)](https://github.com/svozniuk/java-interviews)
+*   [A collection of Java interview questions and answers to them (⭐285)](https://github.com/svozniuk/java-interviews)
 *   [300 Core Java Interview Questions](http://www.javatpoint.com/corejava-interview-questions)
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
@@ -300,7 +300,7 @@
 
 ### Algorithms / Windows
 
-*   [Comprehensive list of interview questions of top tech companies (⭐6.3k)](https://github.com/rishabh115/Interview-Questions)
+*   [Comprehensive list of interview questions of top tech companies (⭐7.1k)](https://github.com/rishabh115/Interview-Questions)
 
 ## [Nov 01, 2019](/content/2019/11/01/README.md)
 
@@ -320,7 +320,7 @@
 
 ### Design Patterns / Windows
 
-*   [Design Patterns implemented in Java (⭐78k)](https://github.com/iluwatar/java-design-patterns)
+*   [Design Patterns implemented in Java (⭐89k)](https://github.com/iluwatar/java-design-patterns)
 
 ## [Oct 17, 2019](/content/2019/10/17/README.md)
 
@@ -372,7 +372,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Android
 
-*   [RocketSkill App Android Interview Questions (⭐7)](https://github.com/mindash/android-structured-interview)
+*   [RocketSkill App Android Interview Questions (⭐10)](https://github.com/mindash/android-structured-interview)
 
 ## [Oct 03, 2019](/content/2019/10/03/README.md)
 
@@ -441,7 +441,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
-*   [List of 300 Angular Interview Questions and Answers (⭐2.8k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 300 Angular Interview Questions and Answers (⭐4.1k)](https://github.com/sudheerj/angular-interview-questions)
 
 ### Database technologies / SQL
 
@@ -457,13 +457,13 @@
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
-*   [Babylon iOS Interview Questions (⭐393)](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
+*   [Babylon iOS Interview Questions (⭐396)](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 
 ## [Feb 17, 2019](/content/2019/02/17/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [Practice common algorithms using JavaScript (⭐354)](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
+*   [Practice common algorithms using JavaScript (⭐586)](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 
 ## [Jan 20, 2019](/content/2019/01/20/README.md)
 
@@ -471,7 +471,7 @@
 
 *   [Top 250+ Rust Programming Language Interview Questions](https://www.wisdomjobs.com/e-university/rust-programming-language-interview-questions.html)
 *   [Rust Programming Interview Questions and Answers](https://www.code-sample.com/2018/02/rust-programming-interview-questions.html)
-*   [rust-exam: A set of questions about the Rust programming language (⭐13)](https://github.com/jean553/rust-exam)
+*   [rust-exam: A set of questions about the Rust programming language (⭐23)](https://github.com/jean553/rust-exam)
 *   [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
 ## [Jan 14, 2019](/content/2019/01/14/README.md)
@@ -494,7 +494,7 @@
 
 ### OS / Linux
 
-*   [278 Test Questions and Answers for \*nix System Administrators (⭐9.1k)](https://github.com/trimstray/test-your-sysadmin-skills)
+*   [278 Test Questions and Answers for \*nix System Administrators (⭐11k)](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ### Coding exercises / Windows
 
@@ -657,7 +657,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
-*   [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore (⭐1.1k)](https://github.com/Yonet/Angular-Interview-Questions)
+*   [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore (⭐1.2k)](https://github.com/Yonet/Angular-Interview-Questions)
 
 ## [May 23, 2018](/content/2018/05/23/README.md)
 
@@ -714,7 +714,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Front-end build tools
 
-*   [Webpack interview questions & answers (⭐194)](https://github.com/styopdev/webpack-interview-questions)
+*   [Webpack interview questions & answers (⭐221)](https://github.com/styopdev/webpack-interview-questions)
 *   [Gulp js interview questions](https://www.codeproject.com/Articles/1065184/Latest-Gulp-js-interview-questions)
 *   [Grunt js interview questions for beginners](http://www.talkingdotnet.com/grunt-js-interview-questions/)
 *   [Grunt js interview questions](https://mindmajix.com/grunt-interview-questions)
@@ -723,7 +723,7 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [123 Essential JavaScript Interview Question (⭐4.1k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
+*   [123 Essential JavaScript Interview Question (⭐4.9k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 
 ## [Oct 04, 2017](/content/2017/10/04/README.md)
 
@@ -758,7 +758,7 @@
 
 ### Design Patterns / Windows
 
-*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans)
+*   [Design Patterns for Humans™ - An ultra-simplified explanation (⭐44k)](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## [Jan 10, 2017](/content/2017/01/10/README.md)
 
@@ -814,13 +814,13 @@
 
 ### Programming Languages/Frameworks/Platforms / Clojure
 
-*   [Interview cake Clojure solutions (⭐117)](https://github.com/DerekCuevas/interview-cake-clj)
+*   [Interview cake Clojure solutions (⭐120)](https://github.com/DerekCuevas/interview-cake-clj)
 
 ## [Jun 22, 2016](/content/2016/06/22/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby
 
-*   [A list of questions about Ruby programming you can use to quiz yourself (⭐40)](https://github.com/undr/ruby-trivia)
+*   [A list of questions about Ruby programming you can use to quiz yourself (⭐48)](https://github.com/undr/ruby-trivia)
 
 ## [May 10, 2016](/content/2016/05/10/README.md)
 
@@ -876,11 +876,11 @@
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
-*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐839)](https://github.com/derekargueta/Android-Interview-Questions)
+*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐856)](https://github.com/derekargueta/Android-Interview-Questions)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
-*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐365)](https://github.com/gdi2290/ngExam)
+*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐360)](https://github.com/gdi2290/ngExam)
 *   [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 *   [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 *   [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
@@ -949,8 +949,8 @@
 
 *   [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 *   [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
-*   [Some basic javascript coding challenges and interview questions (⭐4k)](https://github.com/kolodny/exercises)
-*   [Some JavaScript interview exercises (⭐66)](https://github.com/csvenja/javascript-exercises)
+*   [Some basic javascript coding challenges and interview questions (⭐4.2k)](https://github.com/kolodny/exercises)
+*   [Some JavaScript interview exercises (⭐71)](https://github.com/csvenja/javascript-exercises)
 *   [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
 ### Programming Languages/Frameworks/Platforms / KnockoutJS
@@ -963,7 +963,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Python
 
-*   [A listing of questions that could potentially be asked for a python job listing (⭐177)](https://github.com/sigmavirus24/python-interview-questions)
+*   [A listing of questions that could potentially be asked for a python job listing (⭐211)](https://github.com/sigmavirus24/python-interview-questions)
 *   [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 *   [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
 
@@ -1017,12 +1017,12 @@
 
 ### Coding exercises / Windows
 
-*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges)
-*   [Interview questions solved in python (⭐115)](https://github.com/roseperrone/interview-questions)
+*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐29k)](https://github.com/donnemartin/interactive-coding-challenges)
+*   [Interview questions solved in python (⭐120)](https://github.com/roseperrone/interview-questions)
 
 ### Comprehensive lists / Windows
 
-*   [Some simple questions to interview potential backend candidates (⭐247)](https://github.com/starandtina/backend-interview-questions)
+*   [Some simple questions to interview potential backend candidates (⭐278)](https://github.com/starandtina/backend-interview-questions)
 
 ### Security / Windows
 
@@ -1061,7 +1061,7 @@
 
 *   [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 *   [C++ Programming Q\&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
-*   [LeetCode Problems' Solutions written in C++ (⭐16k)](https://github.com/haoel/leetcode)
+*   [LeetCode Problems' Solutions written in C++ (⭐18k)](https://github.com/haoel/leetcode)
 
 ### Programming Languages/Frameworks/Platforms / C
 
@@ -1084,7 +1084,7 @@
 
 *   [Classic 'Fizz Buzz' interview question for Clojure developers](http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html)
 *   [Clojure Interview Questions for experienced devs](http://ita2zguide.blogspot.com.by/p/cc.html)
-*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐5)](https://github.com/dpetrovics/coding-exercises)
+*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐7)](https://github.com/dpetrovics/coding-exercises)
 
 ### Programming Languages/Frameworks/Platforms / CSS
 
@@ -1102,8 +1102,8 @@
 
 ### Programming Languages/Frameworks/Platforms / Golang
 
-*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐464)](https://github.com/mrekucci/epi)
-*   [Solutions for some basic coding interview tasks written in Go (⭐76)](https://github.com/efischer19/golang_ctci)
+*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐522)](https://github.com/mrekucci/epi)
+*   [Solutions for some basic coding interview tasks written in Go (⭐86)](https://github.com/efischer19/golang_ctci)
 
 ### Programming Languages/Frameworks/Platforms / HTML
 
@@ -1121,7 +1121,7 @@
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
-*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐439)](https://github.com/donbeave/interview)
+*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐456)](https://github.com/donbeave/interview)
 *   [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
 *   [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 *   [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
@@ -1181,7 +1181,7 @@
 ### Programming Languages/Frameworks/Platforms / Scala
 
 *   [A list of Frequently Asked Questions and their answers, sorted by category](http://www.scala-lang.org/old/faq)
-*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐368)](https://github.com/Jarlakxen/Scala-Interview-Questions)
+*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐470)](https://github.com/Jarlakxen/Scala-Interview-Questions)
 *   [How Scala Developers Are Being Interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed)
 
 ### Programming Languages/Frameworks/Platforms / Shell
@@ -1225,7 +1225,7 @@
 
 *   [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
 *   [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
-*   [Schema, Questions & Solutions for SQL Exercising (⭐1.1k)](https://github.com/XD-DENG/SQL-exercise)
+*   [Schema, Questions & Solutions for SQL Exercising (⭐1.3k)](https://github.com/XD-DENG/SQL-exercise)
 
 ### OS / Linux
 
@@ -1250,7 +1250,7 @@
 
 ### Comprehensive lists / Windows
 
-*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐56k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐59k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 *   [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 
 ### Design Patterns / Windows

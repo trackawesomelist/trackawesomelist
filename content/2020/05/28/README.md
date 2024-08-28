@@ -36,7 +36,7 @@
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Droidbox (⭐727)](https://github.com/pjlantz/droidbox)
+*   [Droidbox (⭐749)](https://github.com/pjlantz/droidbox)
 
 ## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Queue
 
-*   [broadway (⭐2.3k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2.4k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -154,9 +154,9 @@
 
 ### External Services
 
-*   [book-box (⭐16)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+*   [book-box (⭐17)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [covid-box (⭐11)](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
-*   [shortcut-box (⭐9)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+*   [shortcut-box (⭐10)](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 *   [youtube-box (⭐8)](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
 ---

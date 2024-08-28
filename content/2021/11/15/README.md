@@ -47,7 +47,7 @@
 
 ### General
 
-*   [Radix Icons (⭐2k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
+*   [Radix Icons (⭐2.1k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -65,7 +65,7 @@
 
 ### CLI Builders
 
-*   [Athena Console (⭐15)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
+*   [Athena Console (⭐16)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
 
 ### HTML/XML Parsing
 

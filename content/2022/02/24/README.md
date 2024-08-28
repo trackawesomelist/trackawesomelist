@@ -45,7 +45,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐171k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
+*   [bernkastel (⭐1)](https://github.com/JamesLaverack/bernkastel) - Based on [ys (⭐172k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme). Includes decorations for kubernetes context, current directory, last command exit status and `git` status.
 
 ## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -63,8 +63,8 @@
 
 ### Python / Trading & Backtesting
 
-*   [fast-trade (⭐340)](https://github.com/jrmeier/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
-*   [Lean (⭐8.8k)](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
+*   [fast-trade (⭐359)](https://github.com/jrmeier/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
+*   [Lean (⭐9.3k)](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
 
 ### Java / FrameWorks
 
@@ -72,8 +72,8 @@
 
 ### Haskell / Data Visualization
 
-*   [Haxcel (⭐31)](https://github.com/MarcusRainbow/Haxcel) - Excel Addin for Haskell.
-*   [Ffinar (⭐2)](https://github.com/MarcusRainbow/Ffinar) - A financial maths library in Haskell.
+*   [Haxcel (⭐32)](https://github.com/MarcusRainbow/Haxcel) - Excel Addin for Haskell.
+*   [Ffinar (⭐3)](https://github.com/MarcusRainbow/Ffinar) - A financial maths library in Haskell.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -102,7 +102,7 @@
 ### Code
 
 *   [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
-*   [CircuitPython Community Libraries (⭐150)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
+*   [CircuitPython Community Libraries (⭐164)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 
 ### News
 
@@ -143,7 +143,7 @@
 
 ### Get Started
 
-*   [create-vitawind (⭐152)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+*   [create-vitawind (⭐155)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates / Vue 3
 

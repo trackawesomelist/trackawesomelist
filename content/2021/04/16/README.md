@@ -84,7 +84,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [bta-lib (⭐440)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+*   [bta-lib (⭐445)](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

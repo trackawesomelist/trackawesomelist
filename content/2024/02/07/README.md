@@ -16,8 +16,8 @@
 
 ### Packages / Libraries
 
-*   [waveform-path (⭐77)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
-*   [wave-audio-path-player (⭐34)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
+*   [waveform-path (⭐81)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
+*   [wave-audio-path-player (⭐43)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

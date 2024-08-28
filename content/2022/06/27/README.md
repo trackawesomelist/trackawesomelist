@@ -6,11 +6,11 @@
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Assembly Language / Blazor
+### Computer Science
 
-*   [The Grain Docs](https://grain-lang.org/docs/)
+*   [A Data-Centric Introduction to Computing](https://dcic-world.org) - Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz (HTML)
 
 ## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
@@ -28,17 +28,17 @@
 
 ### Framework-agnostic Plugins / Testing
 
-*   [vitest-mock-extended (⭐140)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+*   [vitest-mock-extended (⭐152)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [ziontee113/color-picker.nvim (⭐274)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
+*   [ziontee113/color-picker.nvim (⭐275)](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 
 ### Formatting / Diagnostics
 
-*   [mcauley-penney/tidy.nvim (⭐106)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
+*   [mcauley-penney/tidy.nvim (⭐107)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
 ## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -160,9 +160,6 @@
 - Website: <https://ocw.mit.edu/>
 
 
-- Website: <https://open.appacademy.io/>
-
-
 - Website: <https://web.dev/>
 
 
@@ -176,9 +173,6 @@
 
 
 - Website: <https://cssbattle.dev/>
-
-
-- Website: <https://bento.io/>
 
 
 - Website: <https://fullstackopen.com/en/>
@@ -310,9 +304,6 @@
 - Website: <https://jobspresso.co>
 
 
-- Website: <https://wfh.io>
-
-
 - Website: <https://4dayweek.io>
 
 
@@ -368,9 +359,6 @@
 
 
 - Website: <https://iradesign.io>
-
-
-- Website: <https://interfacer.xyz>
 
 
 - Website: <https://blush.design>
@@ -690,9 +678,6 @@
 
 
 ### UI Inspiration:
-
-- Website: <https://uigarage.net>
-
 
 - Website: <https://httpster.net>
 
@@ -1161,7 +1146,7 @@
 
 ### Plugins for Minecraft
 
-*   [No-Telemetry (⭐224)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+*   [No-Telemetry (⭐223)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
 ## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 

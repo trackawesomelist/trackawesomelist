@@ -47,7 +47,7 @@
 
 ### Testing
 
-*   [bypass (⭐951)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐956)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -65,7 +65,7 @@
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [jose-jwt (⭐884)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
+*   [jose-jwt (⭐927)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

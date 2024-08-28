@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐126)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐127)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

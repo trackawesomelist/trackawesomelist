@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20 - Jun 26, 2016
 
-37 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [Emoj (⭐367)](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
+*   [Emoj (⭐370)](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -24,43 +24,33 @@
 
 *   [Fuse Tags with Firebase (⭐14)](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Haskell / Spock Framework
-
-*   [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com)
-
-### Python / Django
-
-*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.9.x/django.pdf) (PDF) (1.9)
-
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [Identity (⭐2k)](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 *   [The Web Platform Podcast](http://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
 *   [Git Credential Manager for Windows (⭐2.9k)](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
 
-## [8. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [7. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Learning Resources
 
 *   [Podcast - Functional Geekery Episode 22](https://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/)
 *   [Podcast - JSJ 189](https://devchat.tv/js-jabber/189-jsj-purescript-with-john-a-de-goes-and-phil-freeman)
 
-## [9. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Open Courses
 
@@ -109,32 +99,32 @@
 
 
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Third-party APIs
 
 *   [fb\_graph2 (⭐107)](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Math / Barcode
 
 *   [SigmaSwiftStatistics (⭐691)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
 
-## [12. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [11. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Framework / Question Answering
 
 *   Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind \[[Web](http://torch.ch/)]
     *   Torch-based deep learning libraries: \[[torchnet (⭐994)](https://github.com/torchnet/torchnet)],
 
-## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [Extreme Profiling: Digging Into Hotspots](https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD) - Nitsan Wakart.
 
-## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [13. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Bulgaria 🇧🇬 / Sofia
 
@@ -277,25 +267,25 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ![](http://www.speedtest.net/result/5370523932.png)
 
-## [15. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
 
-## [16. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
 *   [DroidMVP (⭐226)](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 
-## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby
 
-*   [A list of questions about Ruby programming you can use to quiz yourself (⭐40)](https://github.com/undr/ruby-trivia)
+*   [A list of questions about Ruby programming you can use to quiz yourself (⭐48)](https://github.com/undr/ruby-trivia)
 
-## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -309,7 +299,7 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 *   [Torchnet - Torch based Deep Learning Library (⭐994)](https://github.com/torchnet/torchnet)
 
-## [19. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Numerical Libraries & Data Structures
 
@@ -317,11 +307,11 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Python / Financial Instruments and Pricing
 
-*   [vollib (⭐630)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
+*   [vollib (⭐657)](https://github.com/vollib/vollib) - vollib is a python library for calculating option prices, implied volatility and greeks.
 
 ### Python / Trading & Backtesting
 
-*   [pybacktest (⭐795)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+*   [pybacktest (⭐798)](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
 
 ### Python / Time Series
 
@@ -333,14 +323,14 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ### Julia / FrameWorks
 
-*   [QuantLib.jl (⭐135)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
+*   [QuantLib.jl (⭐136)](https://github.com/pazzo83/QuantLib.jl) - Quantlib implementation in pure Julia.
 
 ### Reproducing Works, Training & Books / Data Visualization
 
 *   [Derman Papers (⭐357)](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
 *   [volatility-trading (⭐1.5k)](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading.
 
-## [20. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [19. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Journals
 
@@ -350,7 +340,7 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 *   [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 
-## [21. Tips](/content/git-tips/tips/week/README.md)
+## [20. Tips](/content/git-tips/tips/week/README.md)
 
 ## Interactive staging.
 
@@ -373,19 +363,19 @@ git push -f <remote-name> <branch-name>
 git remote add <remote-nickname> <remote-url>
 ```
 
-## [22. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [21. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
 *   [aurelia-template-lint (⭐4)](https://github.com/MeirionHughes/aurelia-template-lint) \* Sanity check of Aurelia-flavor template HTML
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Network Analysis
 
 *   [netdiffuseR (⭐83)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 
-## [24. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
@@ -455,7 +445,7 @@ git remote add <remote-nickname> <remote-url>
 *   [IACR](https://www.iacr.org/) - The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.
 *   [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -463,35 +453,35 @@ git remote add <remote-nickname> <remote-url>
 
 ### Python / Data Analysis / Data Visualization
 
-*   [SOMPY (⭐533)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
-*   [HDBScan (⭐93)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
+*   [SOMPY (⭐532)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
+*   [HDBScan (⭐92)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
-## [26. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [25. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
 *   [MAJ API (⭐17)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 
-## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
 *   [Fibratus (⭐2.1k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [Netflix/eureka :fire::fire::fire::fire::fire: (⭐12k)](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 *   [mhart/react-server-routing-example :fire::fire: (⭐300)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
-## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Environment Management
 
 *   [rcm.cr (⭐45)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
-## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [29. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Android
 
@@ -524,13 +514,13 @@ git remote add <remote-nickname> <remote-url>
 
 
 
-## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 
-## [32. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [31. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Projects Using Spark
 
@@ -542,20 +532,20 @@ git remote add <remote-nickname> <remote-url>
 *   [jupyter/docker-stacks/pyspark-notebook (⭐7.2k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 *   [sequenceiq/docker-spark (⭐764)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
-## [33. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Satis / IRC
 
 *   [Satis Control Panel (⭐151)](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 *   [Satis Go (⭐96)](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators. \[Apache2]
 
-## [35. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [34. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
@@ -567,7 +557,7 @@ git remote add <remote-nickname> <remote-url>
 
 *   [p8keyboard.js (⭐20)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -581,7 +571,7 @@ git remote add <remote-nickname> <remote-url>
 *   [Koel (⭐14k)](https://github.com/phanan/koel) - Personal music streaming server
 *   [Attendize (⭐3.5k)](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 
-## [37. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [36. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Packages and Middleware
 

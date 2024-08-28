@@ -55,7 +55,7 @@
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Schema.NET (⭐598)](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
+*   [Schema.NET (⭐637)](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 
 ## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

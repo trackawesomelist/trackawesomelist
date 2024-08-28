@@ -43,7 +43,7 @@
 
 ### JavaScript Libraries
 
-*   [scure-btc-signer (⭐130)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
+*   [scure-btc-signer (⭐139)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

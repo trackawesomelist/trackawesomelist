@@ -10,7 +10,7 @@
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quant-Finance-With-Python-Code (⭐54)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
+*   [Quant-Finance-With-Python-Code (⭐66)](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Repo for code examples in Quantitative Finance with Python by Chris Kelliher
 
 ## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
@@ -39,7 +39,7 @@
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐609)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐634)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

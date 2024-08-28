@@ -677,7 +677,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
+*   [AspNet.Security.OpenIdConnect.Server (⭐560)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -706,7 +706,7 @@
 
 ### Example Projects
 
-*   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
+*   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐8)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
 ## [16. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

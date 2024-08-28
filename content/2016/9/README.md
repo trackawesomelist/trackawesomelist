@@ -144,7 +144,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐6.8k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐6.9k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -174,10 +174,10 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐530)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐531)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐35)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-*   [Unicode Text Search (⭐187)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+*   [Unicode Text Search (⭐191)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
@@ -356,7 +356,7 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐254)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐255)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
@@ -397,7 +397,7 @@ git log Branch1 ^Branch2
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.7k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.8k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
@@ -411,7 +411,7 @@ git log Branch1 ^Branch2
 ### Packages / Testing
 
 *   [power-assert (⭐2.8k)](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
-*   [hook-std (⭐53)](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
+*   [hook-std (⭐54)](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 *   [testen (⭐175)](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 
 ### Packages / Miscellaneous
@@ -558,7 +558,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### For Electron / Other
 
-*   [electron-packager (⭐95)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐139)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [46. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 

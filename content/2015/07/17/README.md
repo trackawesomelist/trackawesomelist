@@ -10,7 +10,7 @@
 
 ### Images
 
-*   [png (⭐54)](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
+*   [png (⭐56)](https://github.com/yuce/png) - A pure Erlang library for creating PNG images. It can currently create 8 and 16 bit RGB, RGB with alpha, indexed, grayscale and grayscale with alpha images.
 
 ### ORM and Datamapping
 
@@ -22,7 +22,7 @@
 
 ### Monitoring / Prometheus
 
-*   [HAProxy Exporter (⭐611)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [HAProxy Exporter (⭐614)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -34,7 +34,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐887)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐892)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

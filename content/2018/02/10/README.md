@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [couchbase-lite-net (⭐430)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
+*   [couchbase-lite-net (⭐437)](https://github.com/couchbase/couchbase-lite-net) - A lightweight, document-oriented (NoSQL), syncable database engine for .NET.
 
 ## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

@@ -43,14 +43,14 @@
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [CSharpFunctionalExtensions (⭐2k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
-*   [language-ext (⭐5.8k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
-*   [NetMQ.ReactiveExtensions (⭐63)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
-*   [Optional (⭐846)](https://github.com/nlkl/Optional) - A robust option type for C#.
-*   [reactive-streams-dotnet (⭐193)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
-*   [ReactiveUI (⭐7.7k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
-*   [Rx.NET (⭐6.2k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
-*   [Qactive (⭐153)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
+*   [CSharpFunctionalExtensions (⭐2.4k)](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
+*   [language-ext (⭐6.4k)](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
+*   [NetMQ.ReactiveExtensions (⭐66)](https://github.com/NetMQ/NetMQ.ReactiveExtensions) - Effortlessly send messages anywhere on the network using Reactive Extensions (RX). Transport protocol is ZeroMQ.
+*   [Optional (⭐891)](https://github.com/nlkl/Optional) - A robust option type for C#.
+*   [reactive-streams-dotnet (⭐197)](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) for .NET.
+*   [ReactiveUI (⭐8k)](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
+*   [Rx.NET (⭐6.6k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
+*   [Qactive (⭐157)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
 
 ## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐18k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐19k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -108,8 +108,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐925)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
-*   [value-category-cheatsheet (⭐402)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐935)](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
+*   [value-category-cheatsheet (⭐403)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ---
 

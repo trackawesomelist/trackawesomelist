@@ -69,13 +69,13 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-table3 (⭐507)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+*   [cli-table3 (⭐521)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
 ## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Piranha CMS (⭐1.8k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
+*   [Piranha CMS (⭐1.9k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

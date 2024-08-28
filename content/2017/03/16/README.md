@@ -34,13 +34,13 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [dotnet-docker (⭐4k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
+*   [dotnet-docker (⭐4.4k)](https://github.com/dotnet/dotnet-docker) - The base Docker images for working with .NET Core and the .NET Core Tools.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
-*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.5k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
+*   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.6k)](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

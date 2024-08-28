@@ -10,7 +10,7 @@
 
 ### Software / Build and software organization tools
 
-*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐4k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
+*   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ([Source Code (⭐4.2k)](https://github.com/spack/spack)) `MIT/Apache-2.0` `Python`
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Zeithub (⭐66)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
+*   [Zeithub (⭐65)](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Math
 
-*   [CNL (⭐631)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
+*   [CNL (⭐634)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 
 ## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Bean Mapping
 
-*   [reMap (⭐116)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+*   [reMap (⭐117)](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 
 ### Bytecode Manipulation
 

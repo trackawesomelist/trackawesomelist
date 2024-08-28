@@ -10,10 +10,8 @@
 
 ### Books
 
-*   [Automate It with Zapier and Generative AI - Second Edition](https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840/): Harness the power of no-code workflow automation and AI with Zapier to increase business productivity
+*   [Automate It with Zapier and Generative AI - Second Edition](https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840/): Harness the power of no-code workflow automation and AI with Zapier to increase business productivity.
 *   [Automate This: How Algorithms Came to Rule Our World](https://www.amazon.com/Automate-This-Algorithms-Plattner-Sept/dp/1591844924): A fascinating look into how algorithms shape our daily lives and the economy.
-*   Hyperautomation: A Business Guide to Navigating the Future with Robotic Process Automation
-*   The Art of Automation: A Guide to Using Automation to Enhance Business Performance
 
 ## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -87,24 +85,24 @@
 ### Related Awesome Lists / Deep Learning
 
 *   [There's An AI](https://theresanai.com) - Frontpage of AI
-*   [Awesome AI SEO (⭐59)](https://github.com/xaramore/awesome-ai-seo)
-*   [Awesome AI Marketing (⭐35)](https://github.com/xaramore/awesome-ai-marketing)
-*   [Awesome AI Music (⭐33)](https://github.com/xaramore/awesome-ai-music)
-*   [Awesome AI Image (⭐33)](https://github.com/xaramore/awesome-ai-image)
-*   [Awesome AI Video (⭐28)](https://github.com/xaramore/awesome-ai-video)
-*   [Awesome AI Writing (⭐29)](https://github.com/xaramore/awesome-ai-writing)
+*   [Awesome AI SEO (⭐79)](https://github.com/xaramore/awesome-ai-seo)
+*   [Awesome AI Marketing (⭐43)](https://github.com/xaramore/awesome-ai-marketing)
+*   [Awesome AI Music (⭐44)](https://github.com/xaramore/awesome-ai-music)
+*   [Awesome AI Image (⭐44)](https://github.com/xaramore/awesome-ai-image)
+*   [Awesome AI Video (⭐38)](https://github.com/xaramore/awesome-ai-video)
+*   [Awesome AI Writing (⭐41)](https://github.com/xaramore/awesome-ai-writing)
 
 ## [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-### Official news :
+### Official news
 
 *   **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
 *   **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).
 
-### Libraries/Packages/Scripts / Python
+### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars\_encryption (⭐2)](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
-*   [polars\_iptools (⭐5)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
+*   [polars\_encryption (⭐3)](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
+*   [polars\_iptools (⭐6)](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
 
 ### Resources / Blog posts
 
@@ -130,16 +128,16 @@
 
 ### Tools / Services
 
-*   [Pluto (⭐77)](https://github.com/pluto-lang/pluto): Simplify deploying LangChain applications on AWS by allowing you to define and utilize necessary cloud resources directly in your application code, automatically creating the required infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/pluto-lang/pluto?style=social)
-*   [Llama-github (⭐113)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
+*   [Pluto (⭐83)](https://github.com/pluto-lang/pluto): Simplify deploying LangChain applications on AWS by allowing you to define and utilize necessary cloud resources directly in your application code, automatically creating the required infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/pluto-lang/pluto?style=social)
+*   [Llama-github (⭐152)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Rigging (⭐153)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
-*   [Nerve (⭐311)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
-*   [Vision agent (⭐886)](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
-*   [llama-agents (⭐976)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
-*   [Claude Engineer (⭐2.1k)](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)
+*   [Rigging (⭐175)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
+*   [Nerve (⭐402)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
+*   [Vision agent (⭐1.1k)](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
+*   [llama-agents (⭐1.6k)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
+*   [Claude Engineer (⭐7.2k)](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)
 
 ## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -179,7 +177,7 @@
 
 ### Science Logology / AI Assisted Research
 
-*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐39)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
+*   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐48)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
 *   [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
 
 ### Theory of Mind / AI Assisted Research
@@ -252,7 +250,7 @@
 
 ### Other Tools / Telegram
 
-*   [LinkScope Client (⭐242)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+*   [LinkScope Client (⭐244)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [pygreynoise (⭐149)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 *   [SpiderFoot (⭐12k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 
@@ -284,7 +282,7 @@
 
 ### Reporters
 
-*   [playwright-slack-report (⭐80)](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
+*   [playwright-slack-report (⭐87)](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
 
 ## [14. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -314,7 +312,7 @@
 
 ### Example Projects
 
-*   [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys (⭐2)](https://github.com/adorsys/keycloak-ssi-deployment)
+*   [Keycloak as a Verifiable Credential Issuer with OID4VCI by Adorsys (⭐5)](https://github.com/adorsys/keycloak-ssi-deployment)
 
 ## [17. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -421,7 +419,7 @@
 ### Android Keyboard
 
 *   [Futo Keyboard](https://keyboard.futo.org/) - A modern keyboard that respects your privacy and security, with features such as offline voice input, swipe typing and smart autocorrect.
-*   [Heliboard (⭐1.9k)](https://github.com/Helium314/HeliBoard) - A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing.
+*   [Heliboard (⭐2.2k)](https://github.com/Helium314/HeliBoard) - A privacy-conscious and customizable open-source keyboard, based on AOSP / OpenBoard with many additional features and improvements, including support for custom dictionaries, themes, and glide typing.
 
 ### Captchas
 
@@ -483,33 +481,33 @@
 
 ### no-std crates / WIP
 
-*   [lorawan-encoding (⭐222)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
+*   [lorawan-encoding (⭐233)](https://github.com/lora-rs/lora-rs/tree/main/lorawan-encoding): A LoRaWAN packet codec.
 
 ## [26. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Misc libraries
 
-*   [attron/astroz (⭐3)](https://github.com/ATTron/astroz) - Astronomical and Spacecraft Toolkit.
+*   [attron/astroz (⭐13)](https://github.com/ATTron/astroz) - Astronomical and Spacecraft Toolkit.
 
 ### Zig development tools / Messaging
 
-*   [vezel-dev/zig-sdk (⭐50)](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+*   [vezel-dev/zig-sdk (⭐53)](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 
 ### C/C++ libraries packaged for Zig / C
 
-*   [alexrp/libffi (⭐2)](https://github.com/alexrp/libffi) - libffi with a Zig build script.
+*   [alexrp/libffi (⭐4)](https://github.com/alexrp/libffi) - libffi with a Zig build script.
 
 ## [27. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command-line
 
-*   [lsv (⭐15)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
+*   [lsv (⭐16)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 
 ## [28. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 
-*   [jsCoq (⭐504)](https://github.com/jscoq/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
+*   [jsCoq (⭐507)](https://github.com/jscoq/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 
 ### Projects / Plugins
 
@@ -517,7 +515,7 @@
 
 ### Projects / Verified Software
 
-*   [CertiCoq (⭐134)](https://github.com/CertiCoq/certicoq) - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
+*   [CertiCoq (⭐135)](https://github.com/CertiCoq/certicoq) - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
 *   [Stable sort algorithms in Coq (⭐22)](https://github.com/pi8027/stablesort) - Generic and modular proofs of correctness, including stability, of mergesort functions.
 
 ### Resources / Tutorials and Hints
@@ -604,7 +602,7 @@
 
 ### Table of Contents / Security
 
-*   [AntiXSS (⭐669)](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
+*   [AntiXSS (⭐675)](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 
 ### Table of Contents / Static Analysis
 
@@ -614,7 +612,7 @@
 
 ### Tools
 
-*   [cl-hash-util (⭐27)](https://github.com/orthecreedence/cl-hash-util) - Hash-table creation, access, and manipulation utilities. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-hash-util (⭐28)](https://github.com/orthecreedence/cl-hash-util) - Hash-table creation, access, and manipulation utilities. [MIT](https://opensource.org/licenses/MIT).
 
 ### Clojure
 
@@ -623,7 +621,7 @@
 
 ### Miscellaneous
 
-*   [pngload-fast (⭐0)](https://github.com/lisp-mirror/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT](https://opensource.org/licenses/MIT).
+*   [pngload-fast (⭐1)](https://github.com/lisp-mirror/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
@@ -649,27 +647,27 @@
 
 ### Frameworks
 
-*   [rpp (⭐120)](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. \[MIT]
+*   [rpp (⭐125)](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. \[MIT]
 
 ### Compression
 
-*   [Kanzi (⭐133)](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
+*   [Kanzi (⭐135)](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
 
 ### Database
 
-*   [libpg\_query (⭐1.1k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment. \[BSD-3-Clause]
+*   [libpg\_query (⭐1.2k)](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment. \[BSD-3-Clause]
 
 ### Image Processing
 
-*   [TinyDNG (⭐144)](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. \[MIT]
+*   [TinyDNG (⭐148)](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. \[MIT]
 
 ### Networking
 
-*   [TQUIC (⭐946)](https://github.com/tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library, exposed to C and C++. \[Apache2]
+*   [TQUIC (⭐1k)](https://github.com/tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library, exposed to C and C++. \[Apache2]
 
 ### Scientific Computing
 
-*   [Au (⭐304)](https://github.com/aurora-opensource/au) - A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience. \[Apache 2.0] [website](https://aurora-opensource.github.io/au/main/)
+*   [Au (⭐317)](https://github.com/aurora-opensource/au) - A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience. \[Apache 2.0] [website](https://aurora-opensource.github.io/au/main/)
 
 ### Scripting
 
@@ -693,11 +691,11 @@
 
 ### Framework Components
 
-*   [Backpex (⭐348)](https://github.com/naymspace/backpex) - Highly customizable administration panel for Phoenix LiveView applications. ([Docs](https://hexdocs.pm/backpex/), [Demo](https://backpex.live/)).
+*   [Backpex (⭐417)](https://github.com/naymspace/backpex) - Highly customizable administration panel for Phoenix LiveView applications. ([Docs](https://hexdocs.pm/backpex/), [Demo](https://backpex.live/)).
 
 ### Miscellaneous
 
-*   [weighted\_random (⭐3)](https://github.com/JohnJocoo/weighted_random) - Weighted random picking.
+*   [weighted\_random (⭐4)](https://github.com/JohnJocoo/weighted_random) - Weighted random picking.
 
 ### Text and Numbers
 
@@ -707,7 +705,7 @@
 
 ### File System Listener
 
-*   [Retest (⭐125)](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
+*   [Retest (⭐137)](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
 
 ## [37. Go Recipes](/content/nikolaydubina/go-recipes/README.md)
 
@@ -720,27 +718,27 @@
 ### Configuration
 
 *   [confiq (⭐34)](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats
-*   [go-array (⭐16)](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
-*   [go-cfg (⭐38)](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
-*   [GoCfg (⭐3)](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
+*   [go-array (⭐17)](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
+*   [go-cfg (⭐39)](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
+*   [GoCfg (⭐6)](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
 
 ### Caches
 
-*   [EchoVault (⭐205)](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store compatible with Redis clients.
-*   [icache (⭐13)](https://github.com/mdaliyan/icache) - A High Performance, Generic, thread-safe, zero-dependency cache package.
-*   [sturdyc (⭐209)](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
+*   [EchoVault (⭐326)](https://github.com/EchoVault/EchoVault) - Embeddable Distributed in-memory data store compatible with Redis clients.
+*   [icache (⭐16)](https://github.com/mdaliyan/icache) - A High Performance, Generic, thread-safe, zero-dependency cache package.
+*   [sturdyc (⭐270)](https://github.com/creativecreature/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
 
 ### Database Tools
 
-*   [gorm-multitenancy (⭐18)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
+*   [gorm-multitenancy (⭐31)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
 
 ### NoSQL Database Drivers
 
-*   [go-mongox (⭐97)](https://github.com/chenmingyong0423/go-mongox) - A Go Mongo library based on the official driver, featuring streamlined document operations, generic binding of structs to collections, built-in CRUD, aggregation, automated field updates, struct validation, hooks, and plugin-based programming.
+*   [go-mongox (⭐110)](https://github.com/chenmingyong0423/go-mongox) - A Go Mongo library based on the official driver, featuring streamlined document operations, generic binding of structs to collections, built-in CRUD, aggregation, automated field updates, struct validation, hooks, and plugin-based programming.
 
 ### Distributed Systems
 
-*   [capillaries (⭐59)](https://github.com/capillariesio/capillaries) - distributed batch data processing framework.
+*   [capillaries (⭐60)](https://github.com/capillariesio/capillaries) - distributed batch data processing framework.
 *   [evans (⭐4.2k)](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client.
 
 ### Embeddable Scripting Languages
@@ -749,23 +747,23 @@
 
 ### GUI
 
-*   [Spot (⭐986)](https://github.com/roblillack/spot) - Reactive, cross-platform desktop GUI toolkit.
+*   [Spot (⭐1.1k)](https://github.com/roblillack/spot) - Reactive, cross-platform desktop GUI toolkit.
 
 ### IoT (Internet of Things)
 
-*   [smart-home (⭐74)](https://github.com/e154/smart-home) - Software package for IoT automation.
+*   [smart-home (⭐79)](https://github.com/e154/smart-home) - Software package for IoT automation.
 
 ### Machine Learning
 
-*   [hugot (⭐199)](https://github.com/knights-analytics/hugot) - Huggingface transformer pipelines for golang with onnxruntime.
+*   [hugot (⭐242)](https://github.com/knights-analytics/hugot) - Huggingface transformer pipelines for golang with onnxruntime.
 
 ### Translation
 
-*   [ctxi18n (⭐26)](https://github.com/invopop/ctxi18n/) - Context aware i18n with a short and consise API, pluralization, interpolation, and `fs.FS` support. YAML locale definitions are based on [Rails i18n](https://guides.rubyonrails.org/i18n.html).
+*   [ctxi18n (⭐31)](https://github.com/invopop/ctxi18n/) - Context aware i18n with a short and consise API, pluralization, interpolation, and `fs.FS` support. YAML locale definitions are based on [Rails i18n](https://guides.rubyonrails.org/i18n.html).
 
 ### ORM
 
-*   [bob (⭐705)](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
+*   [bob (⭐744)](https://github.com/stephenafamo/bob) - SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
 
 ### Security
 
@@ -773,16 +771,16 @@
 
 ### Server Applications
 
-*   [gondola (⭐4)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
-*   [pocketbase (⭐36k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [gondola (⭐7)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
+*   [pocketbase (⭐38k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 
 ### Mock
 
-*   [moq (⭐1.8k)](https://github.com/matryer/moq) - Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface.
+*   [moq (⭐1.9k)](https://github.com/matryer/moq) - Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface.
 
 ### Third-party APIs
 
-*   [go-salesforce (⭐20)](https://github.com/k-capehart/go-salesforce) - Go client library for interacting with the [Salesforce REST API](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm).
+*   [go-salesforce (⭐24)](https://github.com/k-capehart/go-salesforce) - Go client library for interacting with the [Salesforce REST API](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/resources_list.htm).
 
 ### Utilities
 
@@ -791,46 +789,46 @@
 
 ### Web Frameworks
 
-*   [Fastschema (⭐87)](https://github.com/fastschema/fastschema) - A flexible Go web framework and Headless CMS.
-*   [Gone (⭐108)](https://github.com/gone-io/gone) - A lightweight dependency injection and web framework inspired by Spring.
+*   [Fastschema (⭐200)](https://github.com/fastschema/fastschema) - A flexible Go web framework and Headless CMS.
+*   [Gone (⭐113)](https://github.com/gone-io/gone) - A lightweight dependency injection and web framework inspired by Spring.
 
 ### WebAssembly / Libraries for creating HTTP middlewares
 
-*   [Extism Go SDK (⭐61)](https://github.com/extism/go-sdk) - Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps.
+*   [Extism Go SDK (⭐69)](https://github.com/extism/go-sdk) - Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [KusionStack (⭐809)](https://github.com/KusionStack/kusion) - A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
+*   [KusionStack (⭐851)](https://github.com/KusionStack/kusion) - A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
 
 ## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [Ryot (⭐1.7k)](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
+*   [Ryot (⭐1.8k)](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
 
 ### Applications / Games
 
-*   [buxx/OpenCombat (⭐78)](https://github.com/buxx/OpenCombat) - A realtime 2nd world war tactical game
-*   [HactarCE/Hyperspeedcube (⭐56)](https://github.com/HactarCE/Hyperspeedcube) - A modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving
-*   [mcthesw/game-save-manager (⭐447)](https://github.com/mcthesw/game-save-manager) - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml)
+*   [buxx/OpenCombat (⭐80)](https://github.com/buxx/OpenCombat) - A realtime 2nd world war tactical game
+*   [HactarCE/Hyperspeedcube (⭐65)](https://github.com/HactarCE/Hyperspeedcube) - A modern, beginner-friendly 3D and 4D Rubik's cube simulator with customizable mouse and keyboard controls and advanced features for speedsolving
+*   [mcthesw/game-save-manager (⭐500)](https://github.com/mcthesw/game-save-manager) - A user-friendly tool for managing game saves [![build badge](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml/badge.svg)](https://github.com/mcthesw/game-save-manager/actions/workflows/tauri.yml)
 
 ### Applications / System tools
 
-*   [ynqa/sig (⭐512)](https://github.com/ynqa/sig) - Interactive grep (for streaming) [![ci](https://github.com/ynqa/sig/actions/workflows/ci.yml/badge.svg)](https://github.com/ynqa/sig/actions/workflows/ci.yml)
+*   [ynqa/sig (⭐560)](https://github.com/ynqa/sig) - Interactive grep (for streaming) [![ci](https://github.com/ynqa/sig/actions/workflows/ci.yml/badge.svg)](https://github.com/ynqa/sig/actions/workflows/ci.yml)
 
 ### Applications / Utilities
 
-*   [Tabiew (⭐187)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
-*   [wthrr (⭐331)](https://github.com/ttytm/wthrr-the-weathercrab) - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
+*   [Tabiew (⭐348)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
+*   [wthrr (⭐344)](https://github.com/ttytm/wthrr-the-weathercrab) - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
 
 ### Development tools / Debugging
 
-*   [kxxt/tracexec (⭐194)](https://github.com/kxxt/tracexec) \[[tracexec](https://crates.io/crates/tracexec)] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
+*   [kxxt/tracexec (⭐227)](https://github.com/kxxt/tracexec) \[[tracexec](https://crates.io/crates/tracexec)] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 
 ### Libraries / Asynchronous
 
-*   [igumnoff/gabriel2 (⭐16)](https://github.com/igumnoff/gabriel2) \[[gabriel2](https://crates.io/crates/gabriel2)] - Gabriel2: An actor-model library based on Tokio
-*   [tokio-rs/tokio (⭐25k)](https://github.com/tokio-rs/tokio) - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
+*   [igumnoff/gabriel2 (⭐21)](https://github.com/igumnoff/gabriel2) \[[gabriel2](https://crates.io/crates/gabriel2)] - Gabriel2: An actor-model library based on Tokio
+*   [tokio-rs/tokio (⭐26k)](https://github.com/tokio-rs/tokio) - A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.
 
 ### Libraries / Encoding
 
@@ -840,17 +838,17 @@
 ### Libraries / Game development
 
 *   Game Servers
-    *   [gamedig/rust-gamedig (⭐35)](https://github.com/gamedig/rust-gamedig) \[[gamedig](https://crates.io/crates/gamedig)] - Query game servers for informations such as name, players online, max players count etc. [![Crates.io](https://img.shields.io/crates/v/gamedig.svg)](https://crates.io/crates/gamedig) [![Crates.io](https://img.shields.io/crates/d/gamedig.svg)](https://crates.io/crates/gamedig)
+    *   [gamedig/rust-gamedig (⭐37)](https://github.com/gamedig/rust-gamedig) \[[gamedig](https://crates.io/crates/gamedig)] - Query game servers for informations such as name, players online, max players count etc. [![Crates.io](https://img.shields.io/crates/v/gamedig.svg)](https://crates.io/crates/gamedig) [![Crates.io](https://img.shields.io/crates/d/gamedig.svg)](https://crates.io/crates/gamedig)
 
 ### Libraries / Parsing
 
-*   [Eliah-Lakhin/lady-deirdre (⭐356)](https://github.com/Eliah-Lakhin/lady-deirdre) - A framework for new programming languages and LSP servers.
+*   [Eliah-Lakhin/lady-deirdre (⭐363)](https://github.com/Eliah-Lakhin/lady-deirdre) - A framework for new programming languages and LSP servers.
 
 ## [40. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / MQTT
 
-*   [micropython-sparkplugb (⭐7)](https://github.com/sciotaio/micropython-sparkplugb) - MicroPython compatible implementation of the Eclipse Sparkplug B Specification.
+*   [micropython-sparkplugb (⭐8)](https://github.com/sciotaio/micropython-sparkplugb) - MicroPython compatible implementation of the Eclipse Sparkplug B Specification.
 
 ### IO / ADC
 
@@ -858,7 +856,7 @@
 
 ### Sensors / Load Cell
 
-*   [hx711 (⭐45)](https://github.com/robert-hh/hx711) - MicroPython driver for the HX711 load cell interface.
+*   [hx711 (⭐46)](https://github.com/robert-hh/hx711) - MicroPython driver for the HX711 load cell interface.
 *   [hx710 (⭐0)](https://github.com/robert-hh/hx710) - MicroPython driver for the HX710 load cell interface.
 
 ### Sensors / Temperature Analog
@@ -877,7 +875,7 @@
 
 ### Third-Party Packages / Permissions
 
-*   [django-role-permissions (⭐716)](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
+*   [django-role-permissions (⭐723)](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
 *   [django-rules (⭐1.8k)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Resources / Books
@@ -888,7 +886,7 @@
 
 ### Projects / Open Source Projects
 
-*   [OpenContracts (⭐309)](https://github.com/JSv4/OpenContracts) - enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
+*   [OpenContracts (⭐659)](https://github.com/JSv4/OpenContracts) - enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 
 ## [42. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -906,10 +904,6 @@
     *   [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 
 ## [44. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Localization / Barcode
-
-*   [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
 
 ### Animation
 
@@ -959,133 +953,58 @@
 
 ### Community plugins
 
-*   [MQTT v5 (⭐0)](https://github.com/antonymarion/capacitorjs-mqtt-native-plugin) - A native plugin for using MQTT v5 with correlation data and Request/Response Pattern
+*   [MQTT v5 (⭐0)](https://github.com/antonymarion/capacitorjs-mqtt-native-plugin) - A native plugin for using MQTT v5 with correlation data and Request/Response Pattern.
 
 ## [48. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐159) (⭐159)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐821) (⭐821)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐777) (⭐782)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Spectral (⭐2.3k) (⭐2.4k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
-*   [Swagger Editor (⭐8.7k) (⭐8.8k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
-*   [Zally (⭐885) (⭐885)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
 ### Projects / API Documentation
 
-*   [DapperDox (⭐396) (⭐396)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐292) (⭐292)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [RapiDoc (⭐1.6k) (⭐1.6k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
-*   [Stoplight Elements (⭐1.6k) (⭐1.6k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
+*   [Stoplight Elements (⭐1.6k) (⭐1.7k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐4k) (⭐4k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-*   [Kong API Gateway (⭐38k) (⭐38k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
-*   [KrakenD API Gateway (⭐1.8k) (⭐1.8k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
-*   [Ocelot (⭐8.2k) (⭐8.2k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
-*   [Spring Cloud Gateway (⭐4.4k) (⭐4.4k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
-*   [Traefik (⭐49k) (⭐49k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
-*   [Tyk API Gateway (⭐9.3k) (⭐9.4k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐195) (⭐195)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.3k) (⭐5.3k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.8k) (⭐2.9k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐1.9k) (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-*   Mocking tools
-    *   [Imposter (⭐349) (⭐349)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.2k) (⭐1.3k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockoon (⭐6k) (⭐6.1k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.5k) (⭐4.5k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4.1k) (⭐4.1k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6.1k) (⭐6.2k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐8k) (⭐8.1k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.3k) (⭐6.3k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐7.9k) (⭐8k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
-    *   [REST Assured (⭐6.7k) (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2.1k) (⭐2.2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐1.9k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
+*   [Gloo Edge (⭐4k) (⭐4.1k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
+*   [Kong API Gateway (⭐38k) (⭐39k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
+*   [Ocelot (⭐8.2k) (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
+*   [Spring Cloud Gateway (⭐4.4k) (⭐4.5k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
+*   [Traefik (⭐49k) (⭐50k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
 ### Projects / BRE
 
 *   [Easy Rules (⭐4.8k) (⭐4.8k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-*   [OpenL Tablets (⭐150) (⭐150)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐187) (⭐188)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐617) (⭐617)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐367) (⭐367)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-### Projects / ETL
-
-*   [Apache NiFi (⭐4.5k) (⭐4.6k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐115) (⭐115)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 
 ### Projects / Messaging
 
-*   [Centrifugo (⭐8.1k) (⭐8.1k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
-*   [Eclipse Mosquitto (⭐8.6k) (⭐8.6k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 *   [NATS (⭐15k) (⭐15k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
-*   [Redpanda (⭐9.1k) (⭐9.2k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐35k) (⭐35k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Bonita (⭐147) (⭐147)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Cadence (⭐7.9k) (⭐8k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
-*   [Camunda (⭐4k) (⭐4k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
-*   [Elsa Core (⭐6k) (⭐6.1k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
-*   [Flowable (⭐7.5k) (⭐7.6k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+*   [Camunda (⭐4k) (⭐4.1k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform that helps you automate business processes and decisions in a flexible and scalable way.
 *   [jBPM (⭐1.6k) (⭐1.6k)](https://github.com/kiegroup/jbpm) - A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
 
 ### Resources / Data Formats
 
-*   [Apache Avro (⭐2.8k) (⭐2.8k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
-*   [NDJSON (⭐645) (⭐647)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [Protocol Buffers (⭐64k) (⭐64k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-*   [YAML (⭐327) (⭐327)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [Apache Avro (⭐2.8k) (⭐2.9k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 
 ### Resources / Standard APIs
 
-*   [Standard Webhooks (⭐1.2k) (⭐1.2k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐3.4k) (⭐3.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [Standard Webhooks (⭐1.2k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
 ## [49. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Discovery
 
-*   [KubeNix (⭐252)](https://github.com/hall/kubenix) - A Kubernetes resource builder using Nix.
+*   [KubeNix (⭐266)](https://github.com/hall/kubenix) - A Kubernetes resource builder using Nix.
 
 ### Programming Languages / Haxe
 
-*   [haxix (⭐1)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
+*   [haxix (⭐3)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 *   [kebab (⭐0)](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
 ### Distributions / Webinterface
 
-*   [NixNG (⭐226)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+*   [NixNG (⭐238)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
 
 ## [50. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -1109,7 +1028,7 @@
 
 ### Open source DOS operating systems / Sound Blaster/OPL3
 
-*   [MS-DOS (⭐30k)](https://github.com/microsoft/MS-DOS) - GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft.
+*   [MS-DOS (⭐31k)](https://github.com/microsoft/MS-DOS) - GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft.
 *   [FreeDOS](https://www.freedos.org/) - FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 
 ## [51. Awesome Deno](/content/denolib/awesome-deno/README.md)
@@ -1122,15 +1041,15 @@
 
 ### Authentication and Authorization
 
-*   [Abblix OIDC Server (⭐11)](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **\[$]\[Free for non-commercial use]**
+*   [Abblix OIDC Server (⭐22)](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **\[$]\[Free for non-commercial use]**
 
 ### Blazor
 
-*   [MudBlazor (⭐7.5k)](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+*   [MudBlazor (⭐7.7k)](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
 
 ### Database Drivers
 
-*   [DuckDB.NET (⭐339)](https://github.com/Giorgi/DuckDB.NET) - .NET data provider for DuckDB
+*   [DuckDB.NET (⭐367)](https://github.com/Giorgi/DuckDB.NET) - .NET data provider for DuckDB
 
 ## [53. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
@@ -1162,7 +1081,6 @@
 *   [Polari](https://apps.gnome.org/Polari) - Talk to people on IRC. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Warp](https://apps.gnome.org/Warp) - Fast and secure file transfer. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Wike](https://apps.gnome.org/Wike) - Search and read Wikipedia articles. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Geary](https://gitlab.gnome.org/GNOME/geary) - Modern mail client, created originally by Yorba.
 *   [Haguichi](https://www.haguichi.net) - Graphical frontend for Hamachi.
 *   [Parabolic](https://flathub.org/apps/org.nickvision.tubeconverter) - `yt-dlp` graphical fronted.
 *   [Geopard](https://ranfdev.com/projects/geopard) - Colorful Gemini client.
@@ -1173,9 +1091,7 @@
 
 *   [Apostrophe](https://apps.gnome.org/Apostrophe) - Distraction-free Markdown editor. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Citations](https://apps.gnome.org/Citations) - Manage your bibliography. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Paperwork](https://flathub.org/apps/work.openpaper.Paperwork) - Personal document manager for scanned documents and PDFs.
 *   [Foliate](https://flathub.org/apps/com.github.johnfactotum.Foliate) - Simple and modern eBook reader.
-*   [Marker](https://flathub.org/apps/com.github.fabiocolacio.marker) - Markdown editor with an integrated previewer.
 *   [Paper Clip](https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor) - PDF metadata editor.
 *   [RNote](https://flathub.org/apps/com.github.flxzt.rnote) - Sketch and take handwritten notes.
 *   [Morphosis](https://flathub.org/apps/garden.jamie.Morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats.
@@ -1185,8 +1101,6 @@
 *   [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [GTimeLog](https://flathub.org/apps/org.gtimelog.GTimeLog) - Simple app for keeping track of time.
-*   [Gnome Pomodoro](http://gnomepomodoro.org) - Simple pomodoro timer.
 *   [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
 *   [Teleprompter](https://flathub.org/apps/io.github.nokse22.teleprompter) - Simple application to read scrolling text from your screen.
 *   [Planify](https://flathub.org/apps/io.github.alainm23.planify) - Project and task manager with Todoist support.
@@ -1208,7 +1122,6 @@
 *   [Celluloid](https://flathub.org/apps/io.github.celluloid_player.Celluloid) - Simple frontend for mpv.
 *   [Parlatype](http://gkarsay.github.io/parlatype) - Audio player specialized for transcription.
 *   [Easy Effects](https://flathub.org/apps/com.github.wwmm.easyeffects) - Audio effects for PipeWire applications .
-*   [Pitivi](http://www.pitivi.org) - Beautiful and powerful video editor.
 *   [Spot](https://flathub.org/apps/dev.alextren.Spot) - Spotify Client.
 *   [Clapper](https://rafostar.github.io/clapper) - Simple and modern media player.
 *   [Aviator](https://flathub.org/apps/net.natesales.Aviator) - Utility for encoding with SVT-AV1 & Opus.
@@ -1218,10 +1131,7 @@
 *   [Curtail](https://apps.gnome.org/en/Curtail) - Simple & useful image compressor. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Identity](https://apps.gnome.org/Identity) - Compare image and video. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Switcheroo](https://apps.gnome.org/Converter) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Drawing](https://flathub.org/apps/com.github.maoschanz.drawing) - Responsive drawing application.
 *   [Coulr](https://flathub.org/apps/com.github.huluti.Coulr) - Convert between RGB and hexadecimal codes for colours.
-*   [Color Picker](https://flathub.org/apps/nl.hjdskes.gcolor3) - Color picker, working on both X11 and Wayland.
-*   [GThumb](https://gitlab.gnome.org/GNOME/gthumb) - Powerful and advanced application to manage your photos and images.
 *   [ASCII Draw](https://flathub.org/apps/io.github.nokse22.asciidraw) - Draw graphs and more using only characters.
 *   [Mingle](https://flathub.org/apps/io.github.halfmexican.Mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
@@ -1232,7 +1142,6 @@
 
 ### Gaming
 
-*   [Lutris](https://flathub.org/apps/net.lutris.Lutris) - Open Source gaming platform.
 *   [Cartridges](https://apps.gnome.org/Cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games.
 *   [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
@@ -1244,10 +1153,7 @@
 *   [Pika Backup](https://apps.gnome.org/PikaBackup) - Simple backups based on borg. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Déjà Dup Backups](https://apps.gnome.org/DejaDup) - Simple backups tool. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [GNOME Tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Graphical interface for advanced GNOME settings.
-*   [Tilix](https://gnunn1.github.io/tilix-web) - Tiling terminal emulator.
-*   [Menulibre](https://smdavis.us/projects/menulibre) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
 *   [HydraPaper](https://hydrapaper.gabmus.org) - Set a different background for each monitor.
-*   [Dynamic Wallpaper Editor](https://flathub.org/apps/com.github.maoschanz.DynamicWallpaperEditor) - Utility for editing GNOME's XML wallpapers
 *   [AdwSteamGtk](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) - [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
 *   [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal) - Flatpak permission manager.
 *   [Mission Center](https://missioncenter.io) - Monitor your CPU, Memory, Disk, Network and GPU usage.
@@ -1265,8 +1171,6 @@
 *   [Junction](https://apps.gnome.org/Junction) - Junction lets you choose the application to open files and links. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Impression](https://flathub.org/apps/io.gitlab.adhami3310.Impression) - Bootable driver flasher application ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - Elegantly record your screen.
-*   [Detwinner](https://neatdecisions.com/products/detwinner-linux) - Simple and fast tool for removing duplicate files.
-*   [Recipes](https://gitlab.gnome.org/GNOME/recipes) - Cooking application.
 *   [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 *   [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 
@@ -1319,7 +1223,6 @@
 
 *   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection) - Customize GNOME Shell.
 *   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended) - Customize hot corners.
-*   [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 *   [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker) - Tweak your quick settings menu.
 
 ### Menus / Design Tooling
@@ -1333,12 +1236,8 @@
 
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine) - Applet that let you deactivate the GNOME lock screen.
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu) - Status menu to show your removable drives.
-*   [OpenWeather](https://extensions.gnome.org/extension/750/openweather) - Weather applet.
 *   [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator) - Simple clipboard applet.
-*   [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer) - Wallpaper slideshow applet.
-*   [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector) - Emoji picker applet.
 *   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt) - Interface for todo.txt.
-*   [Time ++](https://extensions.gnome.org/extension/1238/time) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
 *   [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect) - KDE Connect implementation.
 *   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support) - Appindicator systray.
 
@@ -1346,11 +1245,10 @@
 
 *   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect) - Adds wobbly effects to windows.
 *   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-*   [Burn My Windows (⭐2.6k)](https://github.com/Schneegans/Burn-My-Windows) - Open/Close your windows with style.
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐184)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐187)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
 
 ### Cursors / Skeumorphic Icons
 
@@ -1398,7 +1296,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [x-cmd (⭐244)](https://github.com/x-cmd/x-cmd) - x-cmd is a vast and interesting collection of tools guided by the Unix philosophy.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/x-cmd/x-cmd) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [x-cmd (⭐398)](https://github.com/x-cmd/x-cmd) - x-cmd is a vast and interesting collection of tools guided by the Unix philosophy.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/x-cmd/x-cmd) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / Audio Record and Process
 
@@ -1425,7 +1323,7 @@
 
 ### Utilities / Window Management
 
-*   [MakeItHome (⭐19)](https://github.com/Geckos-Ink/MakeItHome) - Extends your macOS' UI allowing you to access with the pointer in the "over screen", an extension of the interface for accessing quick actions, mainly fast switch of the most used running applications. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB\&mt=12)
+*   [MakeItHome (⭐22)](https://github.com/Geckos-Ink/MakeItHome) - Extends your macOS' UI allowing you to access with the pointer in the "over screen", an extension of the interface for accessing quick actions, mainly fast switch of the most used running applications. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB\&mt=12)
 
 ### Utilities / Quality of Life Improvements
 
@@ -1443,15 +1341,19 @@
 
 ## [58. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
+### Localization
+
+*   [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
+
 ### Database
 
-*   [DuckDB (⭐62)](https://github.com/duckdb/duckdb-swift) - DuckDB is a high-performance analytical database system.
+*   [DuckDB (⭐67)](https://github.com/duckdb/duckdb-swift) - DuckDB is a high-performance analytical database system.
 
 ## [59. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Job queues
 
-*   [bree (⭐2.9k)](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
+*   [bree (⭐3k)](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
 
 ## [60. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -1500,16 +1402,16 @@
 
 ### Libraries/Frameworks / Database
 
-*   [smyrgeorge/sqlx4k (⭐8)](https://github.com/smyrgeorge/sqlx4k) - A small non-blocking database driver written in Kotlin for the Native platform.
-*   [objectbox/objectbox-java (⭐4.3k)](https://github.com/objectbox/objectbox-java) - Embedded on-device object database for Mobile Apps and IoT.
+*   [smyrgeorge/sqlx4k (⭐43)](https://github.com/smyrgeorge/sqlx4k) - A small non-blocking database driver written in Kotlin for the Native platform.
+*   [objectbox/objectbox-java (⭐4.4k)](https://github.com/objectbox/objectbox-java) - Embedded on-device object database for Mobile Apps and IoT.
 
 ### Libraries/Frameworks / I/O
 
-*   [lepicekmichal/SignalRKore (⭐8)](https://github.com/lepicekmichal/SignalRKore) - Kotlin multiplatform implementation of SignalR.
+*   [lepicekmichal/SignalRKore (⭐17)](https://github.com/lepicekmichal/SignalRKore) - Kotlin multiplatform implementation of SignalR.
 
 ### Libraries/Frameworks / API Clients
 
-*   [InsanusMokrassar/ktgbotapi (⭐334)](https://github.com/InsanusMokrassar/ktgbotapi) - Strongly typed API wrapper for Telegram Bots API
+*   [InsanusMokrassar/ktgbotapi (⭐340)](https://github.com/InsanusMokrassar/ktgbotapi) - Strongly typed API wrapper for Telegram Bots API
 
 ### Projects / Web
 
@@ -1519,7 +1421,7 @@
 
 ### Image Generation
 
-*   [ToonCrafter (⭐4.7k)](https://github.com/ToonCrafter/ToonCrafter) - Generative Cartoon Interpolation. \[English]
+*   [ToonCrafter (⭐5k)](https://github.com/ToonCrafter/ToonCrafter) - Generative Cartoon Interpolation. \[English]
 
 ## [64. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -1630,16 +1532,16 @@
 
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses
 *   [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
-*   [GPT Mobile (⭐37)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+*   [GPT Mobile (⭐69)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 
 ### AI Tools for Research / Multi-agents
 
-*   [danielmiessler/fabric (⭐19k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+*   [danielmiessler/fabric (⭐20k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 *   [AI Research Tools | x post](https://x.com/airesearchtools/status/1704031145476648992): Some AI tools that can be used for research/teaching
 
 ### Large Language Models (LLMs)
 
-*   [langfuse/langfuse (⭐4.6k)](https://github.com/langfuse/langfuse/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more
+*   [langfuse/langfuse (⭐5.2k)](https://github.com/langfuse/langfuse/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more
 
 ### Prompt Engineering
 
@@ -1647,20 +1549,20 @@
 
 ### Prompt Engineering / Prompt Optimizers
 
-*   [zou-group/textgrad (⭐1k)](https://github.com/zou-group/textgrad): Automatic "Differentiation" via Text, using large language models to backpropagate textual gradients.
+*   [zou-group/textgrad (⭐1.4k)](https://github.com/zou-group/textgrad): Automatic "Differentiation" via Text, using large language models to backpropagate textual gradients.
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [\[2406.04784\] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784)
 *   [\[2406.04692\] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
-*   [MervinPraison/PraisonAI (⭐1k)](https://github.com/MervinPraison/PraisonAI): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
+*   [MervinPraison/PraisonAI (⭐2k)](https://github.com/MervinPraison/PraisonAI): PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 
 ### LLM Evaluation / Multi-agents
 
 *   [Reward Bench Leaderboard - a Hugging Face Space by allenai](https://huggingface.co/spaces/allenai/reward-bench)
 *   [LiveBench](https://livebench.ai/): A Challenging, Contamination-Free LLM Benchmark
 *   [Evaluating Large Language Models](https://www.lakera.ai/blog/large-language-model-evaluation): Methods, Best Practices & Tools | Lakera – Protecting AI teams that disrupt the world
-*   [ianarawjo/ChainForge (⭐2.1k)](https://github.com/ianarawjo/ChainForge?tab=readme-ov-file): An open-source visual programming environment for battle-testing prompts to LLMs.
+*   [ianarawjo/ChainForge (⭐2.2k)](https://github.com/ianarawjo/ChainForge?tab=readme-ov-file): An open-source visual programming environment for battle-testing prompts to LLMs.
 *   [Prometheus-2 Cookbook - LlamaIndex](https://docs.llamaindex.ai/en/latest/examples/cookbooks/prometheus2_cookbook/): "An Open Source Language Model Specialized in Evaluating Other Language Models."
 *   [\[2305.13711\] LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](https://arxiv.org/abs/2305.13711)
 *   [LLM Evaluation](https://llm-eval.github.io/): research on evaluation of LLMs conducted by Microsoft Research and other collaborated institutes. (Updated at: 2023/10)
@@ -1673,7 +1575,7 @@
 
 *   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
 *   [\[2406.09403\] Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403)
-*   [BradyFU/Awesome-Multimodal-Large-Language-Models (⭐10k)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
+*   [BradyFU/Awesome-Multimodal-Large-Language-Models (⭐11k)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 
 ### Auxiliary tools and concepts / Deforum
 
@@ -1722,7 +1624,7 @@
 
 ### Servers / React
 
-*   [pylon (⭐15)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
+*   [pylon (⭐42)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
 
 ### Rust Examples / React
 
@@ -1742,31 +1644,31 @@
 
 ### Software / Automation
 
-*   [Dagu](https://dagu.readthedocs.io/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐1.3k)](https://github.com/dagu-dev/dagu)) `GPL-3.0` `Go/Docker`
+*   [Dagu](https://dagu.readthedocs.io/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐1.4k)](https://github.com/dagu-dev/dagu)) `GPL-3.0` `Go/Docker`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [AnyCable](https://anycable.io/) - Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. ([Demo](https://demo.anycable.io), [Source Code (⭐356)](https://github.com/anycable/anycable-go)) `MIT` `Go/Docker`
+*   [AnyCable](https://anycable.io/) - Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc. ([Demo](https://demo.anycable.io), [Source Code (⭐362)](https://github.com/anycable/anycable-go)) `MIT` `Go/Docker`
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [Stalwart JMAP](https://stalw.art/docs/jmap/overview) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐598)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust/Docker`
+*   [Stalwart JMAP](https://stalw.art/docs/jmap/overview) - JMAP and IMAP server designed to be secure, fast, robust and scalable. ([Source Code (⭐609)](https://github.com/stalwartlabs/jmap-server)) `AGPL-3.0` `Rust/Docker`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
-*   [Stalwart SMTP](https://stalw.art/docs/smtp/overview) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐473)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
+*   [Stalwart SMTP](https://stalw.art/docs/smtp/overview) - Modern SMTP server designed with a focus on security, speed, and extensive configurability. ([Source Code (⭐485)](https://github.com/stalwartlabs/smtp-server)) `AGPL-3.0` `Rust`
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Hatsu](https://hatsu.cli.rs/) - Bridge that interacts with Fediverse on behalf of your static site. ([Source Code (⭐107)](https://github.com/importantimport/hatsu)) `AGPL-3.0` `Docker/Rust`
+*   [Hatsu](https://hatsu.cli.rs/) - Bridge that interacts with Fediverse on behalf of your static site. ([Source Code (⭐123)](https://github.com/importantimport/hatsu)) `AGPL-3.0` `Docker/Rust`
 
 ### Software / Games
 
-*   [OpenTTD](https://www.openttd.org/) - Open source transport tycoon simulation game. ([Source Code (⭐6.1k)](https://github.com/OpenTTD/OpenTTD), [Clients](https://bananas.openttd.org/)) `GPL-2.0` `C++/Docker`
+*   [OpenTTD](https://www.openttd.org/) - Open source transport tycoon simulation game. ([Source Code (⭐6.2k)](https://github.com/OpenTTD/OpenTTD), [Clients](https://bananas.openttd.org/)) `GPL-2.0` `C++/Docker`
 
 ### Software / Inventory Management
 
-*   [Part-DB](https://docs.part-db.de/) - An inventory management system for your electronic components. ([Demo](https://demo.part-db.de/en/), [Source Code (⭐779)](https://github.com/Part-DB/Part-DB-server)) `AGPL-3.0` `Docker/PHP/Nodejs`
+*   [Part-DB](https://docs.part-db.de/) - An inventory management system for your electronic components. ([Demo](https://demo.part-db.de/en/), [Source Code (⭐854)](https://github.com/Part-DB/Part-DB-server)) `AGPL-3.0` `Docker/PHP/Nodejs`
 
 ### Software / Learning and Courses
 
@@ -1774,19 +1676,19 @@
 
 ### Software / Miscellaneous
 
-*   [Wavelog](https://www.wavelog.org) - Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. ([Demo](https://demo.wavelog.org), [Source Code (⭐55)](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
+*   [Wavelog](https://www.wavelog.org) - Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. ([Demo](https://demo.wavelog.org), [Source Code (⭐92)](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐354)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com) - A web application to manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐363)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
-*   [minimal-git-server (⭐2)](https://github.com/mcarbonne/minimal-git-server) - A lightweight and minimal self-hosted git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. `MIT` `Docker`
+*   [minimal-git-server (⭐4)](https://github.com/mcarbonne/minimal-git-server) - A lightweight and minimal self-hosted git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. `MIT` `Docker`
 
 ### Software / Ticketing
 
-*   [OTOBO](https://otobo.io/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.io/en/service-management-plattform/otobo-demo/), [Source Code (⭐241)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+*   [OTOBO](https://otobo.io/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.io/en/service-management-plattform/otobo-demo/), [Source Code (⭐244)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
 
 ### Software / Wikis
 
@@ -1903,11 +1805,11 @@
 
 ### Platforms
 
-*   [Google Cloud (⭐758)](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
+*   [Google Cloud (⭐768)](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 
 ### Miscellaneous
 
-*   [Geocaching (⭐9)](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+*   [Geocaching (⭐11)](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 
 ## [84. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
@@ -1973,18 +1875,23 @@
 
 ## [92. Topics](/content/selvaklnc/topics/README.md)
 
-### List of interesting topics
+### List of articles and posts
 
-*   [Secrets if inner piece](https://www.tumblr.com/magazinechronicles/732720366640939008/unlocking-the-secrets-of-mindfulness-a-journey-to?source=share) - Unlocking the Secrets of Mindfulness: A Journey to Inner Peace
 *   [Unusual hobbies](https://www.reddit.com/r/wikimintcreations/comments/1cuxctj/10_unusual_hobbies_to_try_in_2024_discover_your/) - 10 Unusual Hobbies to Try in 2024: Discover Your Next Passion!
+
+### List of blogs and websites
+
 *   [Selvakumaran Krishnan](https://selvakumaran.is-a.dev/) - CV of Selvakumaran Krishnan, Software Engineer, Front-End developer, SEO, Digital marketer.
+
+### List of important bookmarks
+
 *   [Case converter](https://www.linkedin.com/feed/update/urn:li:activity:7195453146377166848) - Transform your text effortlessly with our advanced Case Converter tool
 
 ## [93. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### NET / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [abp (⭐12k)](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
+*   [abp (⭐13k)](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
 *   [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1993,7 +1900,7 @@
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngentest (⭐143)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
+*   [ngentest (⭐144)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2001,12 +1908,12 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [nglrx/pipes (⭐13)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
+*   [nglrx/pipes (⭐14)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 *   [ng-helpers (⭐6)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-file-drop (⭐293)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
+*   [ngx-file-drop (⭐294)](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2014,11 +1921,11 @@
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [gridstack (⭐6.2k)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
+*   [gridstack (⭐6.5k)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-material-css-vars (⭐193)](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with Angular Material.
+*   [angular-material-css-vars (⭐194)](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with Angular Material.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2026,4 +1933,5 @@
 
 ---
 
+- Prev: [Jul 08, 2024](/content/2024/07/08/README.md)
 - Next: [Jul 06, 2024](/content/2024/07/06/README.md)

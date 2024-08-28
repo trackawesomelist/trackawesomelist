@@ -16,7 +16,7 @@
 
 ### Algorithms and Data structures
 
-*   [structurez (⭐13)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
+*   [structurez (⭐14)](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 
 ### Audio and Sounds
 
@@ -42,7 +42,7 @@
 
 ### Feeds
 
-*   [feeder\_ex (⭐69)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
+*   [feeder\_ex (⭐70)](https://github.com/manukall/feeder_ex) - RSS feed parser. Simple wrapper for feeder.
 
 ### Framework Components
 
@@ -50,13 +50,13 @@
 
 ### Geolocation
 
-*   [geolix (⭐187)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐188)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### ORM and Datamapping
 
 *   [esqlite (⭐126)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [sqlitex (⭐120)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
-*   [tds (⭐112)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
+*   [tds (⭐114)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ### Templating
@@ -77,7 +77,7 @@
 
 ### YAML
 
-*   [yamerl (⭐202)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐203)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Websites
 

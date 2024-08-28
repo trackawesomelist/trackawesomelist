@@ -34,7 +34,7 @@ Free
 
 ### Alertmanager / Miscellaneous
 
-*   [Karma (⭐2.1k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+*   [Karma (⭐2.3k)](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -229,7 +229,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐8.2k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

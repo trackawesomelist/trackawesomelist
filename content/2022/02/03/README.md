@@ -219,7 +219,7 @@
 
 ### Packages / Apps
 
-*   [webaudio-tinysynth (⭐218)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+*   [webaudio-tinysynth (⭐221)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
 *   [web-audio-beat-detector (⭐0)](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
 
 ---

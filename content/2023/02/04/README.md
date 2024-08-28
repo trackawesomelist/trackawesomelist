@@ -10,7 +10,7 @@
 
 ### HTTP
 
-*   [Apizr (⭐126)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr (⭐131)](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ## [2. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
@@ -23,28 +23,28 @@
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [4e554c4c/darkman.nvim (⭐19)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
-*   [f-person/auto-dark-mode.nvim (⭐246)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
+*   [4e554c4c/darkman.nvim (⭐21)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
+*   [f-person/auto-dark-mode.nvim (⭐283)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 
 ### Cursorline / Diagnostics
 
-*   [mawkler/modicator.nvim (⭐296)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
+*   [mawkler/modicator.nvim (⭐298)](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
 
 ## [4. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [imodels (⭐1.3k)](https://github.com/csinva/imodels)
+*   [imodels (⭐1.4k)](https://github.com/csinva/imodels)
 
 ## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Utils
 
-*   [playwright-test-coverage (⭐74)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
+*   [playwright-test-coverage (⭐76)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 
 ### Reporters
 
-*   [playwright-xray (⭐19)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
+*   [playwright-xray (⭐21)](https://github.com/inluxc/playwright-xray) - Playwright Xray Reporter, send test executions to Jira / Xray.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -60,13 +60,13 @@
 
 ### Font
 
-*   [harfbuzz (⭐3.8k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. \[Old MIT]
+*   [harfbuzz (⭐4k)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. \[Old MIT]
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Actors
 
-*   [poolex (⭐39)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
+*   [poolex (⭐40)](https://github.com/general-CbIC/poolex) - Pure elixir pool manager.
 
 ## [9. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Gaming
 
-*   [ComputerCraft (⭐116)](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
+*   [ComputerCraft (⭐134)](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 
 ## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

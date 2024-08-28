@@ -29,12 +29,12 @@
 
 ### Programming Languages / PHP
 
-*   [composer-plugin-nixify (⭐13)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐135)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [composer-plugin-nixify (⭐15)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
+*   [nix-shell (⭐141)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Zig
 
-*   [base16.nix (⭐168)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐509)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐177)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐539)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -345,7 +345,6 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [ESLint Comments (⭐354)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
 *   [eslint-plugin-write-good-comments (⭐32)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 *   [import (⭐5.4k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Still does not work with ESlint 9 and does not support flat configs.
 

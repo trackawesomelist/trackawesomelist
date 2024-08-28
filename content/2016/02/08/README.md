@@ -10,7 +10,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [Ginq (⭐191)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+*   [Ginq (⭐192)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 
 ## [2. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

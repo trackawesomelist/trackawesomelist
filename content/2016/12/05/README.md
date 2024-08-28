@@ -51,7 +51,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [SmartFormat.NET (⭐985)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
+*   [SmartFormat.NET (⭐1.1k)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
 ## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.3k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.5k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

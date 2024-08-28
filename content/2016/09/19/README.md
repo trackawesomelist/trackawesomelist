@@ -16,17 +16,17 @@
 
 ### Packages / Parsing
 
-*   [ref (⭐449)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐453)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
-*   [filterable (⭐105)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐106)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐549)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐552)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -34,7 +34,7 @@
 
 ### Text and Numbers
 
-*   [ex\_uc (⭐20)](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
+*   [ex\_uc (⭐21)](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
 
 ## [4. Awesome Design](/content/gztchan/awesome-design/README.md)
 
@@ -76,22 +76,22 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Blogging/news
 
-*   [wagtail-blog-app (⭐38)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
+*   [wagtail-blog-app (⭐39)](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
 
 ### Apps / Rich text editor extensions
 
 *   [wagtail-readability (⭐16)](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
-*   [wagtailembedder (⭐36)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
-*   [Wagtail TinyMCE (⭐44)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
+*   [wagtailembedder (⭐37)](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
+*   [Wagtail TinyMCE (⭐43)](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 
 ### Apps / StreamField
 
-*   [Wagtail Commonblocks (⭐39)](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail.
+*   [Wagtail Commonblocks (⭐40)](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail.
 *   [Wagtail SVGmap (⭐13)](https://github.com/City-of-Helsinki/wagtail-svgmap) - ImageMap functionality for Wagtail through inline SVGs.
 
 ### Apps / Settings management
 
-*   [Wagtail-Constance (⭐12)](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
+*   [Wagtail-Constance (⭐13)](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
 
 ### Apps / E-commerce
 
@@ -103,35 +103,35 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐219)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐231)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
-*   [Wagtail Modeltranslation (⭐148)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.3k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+*   [Wagtail Modeltranslation (⭐151)](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation (⭐1.4k)](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 
 ### Apps / Testing
 
-*   [wagtail-linkchecker (⭐50)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
+*   [wagtail-linkchecker (⭐51)](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 
-### Apps / Misc
+### Apps / Content Management
 
 *   [Wagtail Themes (⭐101)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐167)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Middlewares
 
-*   [Relay (⭐317)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+*   [Relay (⭐318)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [JavaScriptViewEngine (⭐73)](https://github.com/pauldotknopf/JavaScriptViewEngine) - ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering.
+*   [JavaScriptViewEngine (⭐75)](https://github.com/pauldotknopf/JavaScriptViewEngine) - ASP.NET MVC ViewEngine for rendering markup in a JavaScript environment. Ideal for React and Angular server-side rendering.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
@@ -139,11 +139,11 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Channels (⭐291)](https://github.com/davidfowl/Channels) - Push based .NET Streams.
+*   [Channels (⭐292)](https://github.com/davidfowl/Channels) - Push based .NET Streams.
 
 ### Starter Kits / Workflow
 
-*   [react-aspnet-boilerplate (⭐287)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
+*   [react-aspnet-boilerplate (⭐288)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

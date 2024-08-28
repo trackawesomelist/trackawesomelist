@@ -44,11 +44,11 @@
 
 ### Authorization
 
-*   [bodyguard (⭐729)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐738)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
-*   [jc (⭐25)](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
+*   [jc (⭐26)](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 
 ### Framework Components
 
@@ -56,7 +56,7 @@
 
 ### Macros
 
-*   [eventsourced (⭐103)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
+*   [eventsourced (⭐104)](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 
 ### ORM and Datamapping
 
@@ -74,7 +74,7 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐84)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [abacus (⭐85)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐69)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
@@ -118,7 +118,7 @@ Webpage: <http://unir-coffee-akasaka.com>
 *   Security
     *   [.NET Continuous Delivery Microservices](http://stackshare.io/tomstaijen/net-continuous-delivery-microservices)
     *   [ASP.NET Core 2.0 Authentication and Authorization System Demystified](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
-    *   [A walk-through for an ASP.NET Authorization Lab (⭐1.1k)](https://github.com/blowdart/AspNetAuthorizationWorkshop)
+    *   [A walk-through for an ASP.NET Authorization Lab (⭐1.2k)](https://github.com/blowdart/AspNetAuthorizationWorkshop)
     *   [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
 
 ## [9. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)

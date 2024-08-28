@@ -24,7 +24,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Packages / Command-line apps
 
-*   [mobicon (⭐110)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+*   [mobicon (⭐111)](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
 ## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -38,7 +38,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Database Drivers/Clients
 
-*   [crystal-redis (⭐381)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+*   [crystal-redis (⭐380)](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
 
 ### Misc
 

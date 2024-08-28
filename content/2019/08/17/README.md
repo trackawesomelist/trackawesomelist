@@ -26,7 +26,7 @@
 
 ### Packages / Adapters
 
-*   [ember-wordpress (⭐98)](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
+*   [ember-wordpress (⭐95)](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -63,7 +63,7 @@
 
 ### General
 
-*   [VSCode Icons (⭐836)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐853)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

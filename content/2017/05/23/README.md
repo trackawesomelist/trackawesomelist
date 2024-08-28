@@ -88,25 +88,25 @@
 
 ### General
 
-*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐19k)](https://github.com/dotnet/core).
+*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐21k)](https://github.com/dotnet/core).
 *   [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NReco.LambdaParser (⭐281)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
-*   [readline (⭐792)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
+*   [NReco.LambdaParser (⭐307)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
+*   [readline (⭐803)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Chroniton.NetCore (⭐178)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
+*   [Chroniton.NetCore (⭐181)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [roslyn-security-guard (⭐207)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
+*   [roslyn-security-guard (⭐208)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [YamlDotNet (⭐2.3k)](https://github.com/aaubry/YamlDotNet) - .NET
+*   [YamlDotNet (⭐2.5k)](https://github.com/aaubry/YamlDotNet) - .NET
 
 ## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -118,7 +118,7 @@
 
 ### Miscellaneous
 
-*   [Kangaru (⭐469)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐475)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

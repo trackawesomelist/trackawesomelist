@@ -24,7 +24,7 @@
 
 ### Questions
 
-*   [biocaml (⭐120)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+*   [biocaml (⭐123)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 *   [onumerical (⭐8)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 ---

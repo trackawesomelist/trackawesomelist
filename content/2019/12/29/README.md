@@ -84,7 +84,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3.1k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.2k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ---
 

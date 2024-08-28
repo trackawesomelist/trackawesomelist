@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12 - May 18, 2014
 
-4 awesome lists updated this week.
+3 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,17 +20,7 @@
 *   [Paws on ES6 (⭐332)](https://github.com/hemanth/paws-on-es6) -  Minimalist examples of ES6 functionalities.
 *   [ES6 on node](http://h3manth.com/new/blog/2013/es6-on-nodejs/) - How to use ES6 features in node.js.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### MATLAB / PicoLisp
-
-*   [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
-
-### OCaml / PicoLisp
-
-*   [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
-
-## [3. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
+## [2. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
 ### Services Engineering Reading List / Papers
 
@@ -47,7 +37,7 @@
 
 *   [Monitorama](http://monitorama.com/)
 
-## [4. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 

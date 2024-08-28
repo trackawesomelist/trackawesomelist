@@ -32,7 +32,7 @@
 
 ### Software / Blogging Platforms
 
-*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐199)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
+*   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐201)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Spark
 
-*   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐542)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
+*   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐627)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

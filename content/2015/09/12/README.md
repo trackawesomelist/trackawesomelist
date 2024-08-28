@@ -22,10 +22,10 @@
 
 ### Packages / URL
 
-*   [normalize-url (⭐828)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+*   [normalize-url (⭐833)](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 *   [speakingurl (⭐1.1k)](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-*   [linkify-it (⭐649)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
-*   [url-pattern (⭐581)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
+*   [linkify-it (⭐653)](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+*   [url-pattern (⭐582)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 ---
 

@@ -40,7 +40,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [mRemoteNG (⭐7.9k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
+*   [mRemoteNG (⭐8.7k)](https://github.com/mRemoteNG/mRemoteNG) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager
 
 ---
 

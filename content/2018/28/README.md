@@ -23,7 +23,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐182)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
+*   [AlertHub (⭐189)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -35,21 +35,21 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [dotvvm (⭐701)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
+*   [dotvvm (⭐743)](https://github.com/riganti/dotvvm) - Open source MVVM framework for Web Apps.
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Grace (⭐326)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
+*   [Grace (⭐336)](https://github.com/ipjohnson/Grace) - Grace is a feature rich Dependency Injection Container designed with ease of use and performance in mind.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [PuppeteerSharp (⭐2.9k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
+*   [PuppeteerSharp (⭐3.3k)](https://github.com/kblok/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 
 ### Articles / Workflow
 
 *   Entity Framework Core
     *   [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
-    *   [A very good example about EF Core (⭐116)](https://github.com/rowanmiller/Demo-EFCore)
+    *   [A very good example about EF Core (⭐115)](https://github.com/rowanmiller/Demo-EFCore)
     *   [Connect to Postgres with EF Core](http://en.otomatikmuhendis.com/2017/05/05/connect-to-postgres-with-ef-core/)
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
@@ -86,7 +86,7 @@
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐516)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐518)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -218,7 +218,7 @@ Webpage: <https://yoghut.com/>
 
 ### Math
 
-*   [StatsLib (⭐510)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐514)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [26. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -293,7 +293,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐47)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐97)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐48)](https://github.com/thejpster/menu), [vga-framebuffer (⭐31)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐98)](https://github.com/thejpster/pc-keyboard).
 
 ## [33. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -319,7 +319,7 @@ Webpage: <https://yoghut.com/>
 
 ### Packages / Articles
 
-*   [A collection of links that summarize EmberConf 2018 (⭐56)](https://github.com/nucleartide/emberconf-2018)
+*   [A collection of links that summarize EmberConf 2018 (⭐57)](https://github.com/nucleartide/emberconf-2018)
 
 ### Packages / Articles Modern Testing
 

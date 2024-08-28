@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2018
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -74,12 +74,12 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ElectronNET (⭐6.9k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
-*   [opencvsharp (⭐4.8k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
+*   [ElectronNET (⭐7.2k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
+*   [opencvsharp (⭐5.3k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [aspnet-core-react-template (⭐622)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
+*   [aspnet-core-react-template (⭐631)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -87,11 +87,11 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [CommandLineUtils (⭐2.1k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
+*   [CommandLineUtils (⭐2.2k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [websocket-manager (⭐443)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+*   [websocket-manager (⭐452)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
 
 ## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -102,30 +102,6 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
-
-## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Go / Phoenix
-
-*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
-
-### Lisp / TeX
-
-*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-
-### Ruby / Tornado
-
-*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-
-### Ruby / Ruby on Rails
-
-*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-
-### Workflow / Vulkan
-
-*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

@@ -18,7 +18,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐562)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐561)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ## [2. Amas](/content/sindresorhus/amas/README.md)
 

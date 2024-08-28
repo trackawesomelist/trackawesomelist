@@ -106,7 +106,7 @@
 
 ### Others
 
-*   [Racing Car Katas (⭐273)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐298)](https://github.com/emilybache/Racing-Car-Katas)
 
 ---
 

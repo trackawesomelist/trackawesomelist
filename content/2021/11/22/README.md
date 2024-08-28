@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 22, 2021
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -83,39 +83,31 @@
 
 *   [Customizable Vue video chat app (⭐4)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
-## [4. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
-
-### Algorithms / Semantic segmentation
-
-*   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐554)](https://github.com/PRBonn/LiDAR-MOS)
-    *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
-
-## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Learning
 
 *   [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 
-## [6. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [5. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 
 *   [Open Capture and Analytics Tool (OCAT) (⭐312)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
-## [8. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [7. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### VLC native plugins
 
 *   [vlc-mixer (⭐0)](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### UCLA / Commonsense Knowledgebase
 

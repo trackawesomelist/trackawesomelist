@@ -26,7 +26,7 @@
 
 ### System
 
-*   [baked\_file\_system (⭐176)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+*   [baked\_file\_system (⭐177)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
 *   [hardware (⭐72)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
@@ -55,7 +55,7 @@
 
 ### Packages / Styleguides
 
-*   [ember-styleguide (⭐76)](https://github.com/ember-learn/ember-styleguide)
+*   [ember-styleguide (⭐79)](https://github.com/ember-learn/ember-styleguide)
 *   [Softlayer Ember.js (⭐40)](https://github.com/softlayer/ember-style-guide)
 *   [Netguru Ember.js](https://github.com/netguru/ember-styleguide)
 *   [DockYard Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)

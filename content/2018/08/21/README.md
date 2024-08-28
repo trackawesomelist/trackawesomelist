@@ -64,11 +64,11 @@
 
 ### Packages / Content management systems
 
-*   [ember-admin (⭐243)](https://github.com/DockYard/ember-admin) - Automatically discover your models and interact with all model data in a simple CRUD interface.
+*   [ember-admin (⭐241)](https://github.com/DockYard/ember-admin) - Automatically discover your models and interact with all model data in a simple CRUD interface.
 
 ### Packages / Tree Shaking
 
-*   [ember-cli-tree-shaker (⭐75)](https://github.com/kellyselden/ember-cli-tree-shaker) - This is a testbed for the new tree-shaking and code splitting work from Kelly Selden and Alex Navasardyan.
+*   [ember-cli-tree-shaker (⭐76)](https://github.com/kellyselden/ember-cli-tree-shaker) - This is a testbed for the new tree-shaking and code splitting work from Kelly Selden and Alex Navasardyan.
 
 ## [9. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Contract programming
 
-*   [quid-pro-quo (⭐92)](https://github.com/sellout/quid-pro-quo) - a contract
+*   [quid-pro-quo (⭐93)](https://github.com/sellout/quid-pro-quo) - a contract
     programming library in the style of Eiffel’s Design by Contract ™. Public domain.
 
 ### Beginner

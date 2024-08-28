@@ -119,7 +119,7 @@
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [Atata (⭐470)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
+*   [Atata (⭐481)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
 
 ## [10. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

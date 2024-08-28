@@ -180,7 +180,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Tossit (⭐63)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+*   [Tossit (⭐62)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ## [14. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -276,12 +276,12 @@ Webpage: <http://www.26grados.com/>
 
 ### Awesome Repositories
 
-- Repository: [Reversing (⭐3.9k)](https://github.com/fdivrp/awesome-reversing)
+- Repository: [Reversing (⭐4k)](https://github.com/fdivrp/awesome-reversing)
 
   Description: List of awesome reverse engineering resources
 
 
-- Repository: [Vehicle Security (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+- Repository: [Vehicle Security (⭐3k)](https://github.com/jaredthecoder/awesome-vehicle-security)
 
   Description: List of resources for learning about vehicle security and car hacking
 
@@ -289,17 +289,17 @@ Webpage: <http://www.26grados.com/>
 
 ### Other Useful Repositories
 
-- Repository: [Free Programming Books (⭐319k)](https://github.com/EbookFoundation/free-programming-books)
+- Repository: [Free Programming Books (⭐331k)](https://github.com/EbookFoundation/free-programming-books)
 
   Description: Free programming books for developers
 
 
-- Repository: [Lockpicking (⭐1.3k)](https://github.com/meitar/awesome-lockpicking)
+- Repository: [Lockpicking (⭐1.4k)](https://github.com/meitar/awesome-lockpicking)
 
   Description: Resources relating to the security and compromise of locks, safes, and keys.
 
 
-- Repository: [ThreatHunter-Playbook (⭐3.8k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+- Repository: [ThreatHunter-Playbook (⭐4k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
 
   Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
@@ -320,11 +320,11 @@ Webpage: <http://www.26grados.com/>
 
 ### Crystal / General-Purpose Machine Learning
 
-*   [machine (⭐45)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+*   [machine (⭐44)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐81k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -428,8 +428,8 @@ git push -u origin <branch_name>
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.6k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.7k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐363)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -476,7 +476,7 @@ git push -u origin <branch_name>
 
 ### UI Automation
 
-*   [Atata (⭐480)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐481)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 

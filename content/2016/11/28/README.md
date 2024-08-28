@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [countriex (⭐30)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
+*   [countriex (⭐31)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 
 ### Protocols
 
@@ -19,7 +19,7 @@
 ### Editors
 
 *   [ilexir (⭐8)](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
-*   [nvim (⭐25)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
+*   [nvim (⭐27)](https://github.com/dm1try/nvim) - Neovim host for writing plugins in Elixir.
 
 ### Styleguides
 

@@ -20,7 +20,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Mediator.Net (⭐344)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
+*   [Mediator.Net (⭐370)](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
 
 ---
 

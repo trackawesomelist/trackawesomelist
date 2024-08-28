@@ -60,7 +60,7 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [Pexies (⭐8)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
+*   [Pexies (⭐7)](https://github.com/canersevince/Pexies) - Pexies is a personal photo gallery built on pexels api. You can see curated/randomized pictures, and add them to your favourites.
 
 ### Components & Libraries / UI Utilities
 

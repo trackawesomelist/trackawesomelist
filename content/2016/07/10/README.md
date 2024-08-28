@@ -43,13 +43,13 @@
 
 ### Behaviours and Interfaces
 
-*   [gen\_state\_machine (⭐300)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
+*   [gen\_state\_machine (⭐302)](https://github.com/antipax/gen_state_machine) - Elixir wrapper for gen\_statem.
 
 ### Benchmarking
 
 *   [benchee (⭐1.4k)](https://github.com/PragTob/benchee) - Easy and extensible benchmarking in Elixir.
 *   [benchfella (⭐513)](https://github.com/alco/benchfella) - Benchmarking tool for Elixir.
-*   [bmark (⭐70)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
+*   [bmark (⭐71)](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ### Cryptography
 

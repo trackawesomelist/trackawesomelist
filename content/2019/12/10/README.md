@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐81)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐82)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Layout
 
-*   [EasyAnchor (⭐456)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
+*   [EasyAnchor (⭐457)](https://github.com/onmyway133/EasyAnchor) - Declarative, extensible, powerful Auto Layout.
 
 ### Push Notification Providers
 
@@ -82,7 +82,7 @@
 
 ### UI
 
-*   [DrawerKit (⭐780)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
+*   [DrawerKit (⭐781)](https://github.com/babylonhealth/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 
 ### Pull to Refresh
 
@@ -132,8 +132,8 @@
 
 ### High Availability / Miscellaneous
 
-*   [M3DB (⭐4.6k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
-*   [VictoriaMetrics (⭐10k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
+*   [M3DB (⭐4.7k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
+*   [VictoriaMetrics (⭐11k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ---
 

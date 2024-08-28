@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2015
 
-34 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,138 +12,7 @@
 
 *   [aerosolve (⭐4.8k)](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Android
-
-*   [CodePath Android Cliffnotes (⭐28k)](https://github.com/codepath/android_guides/wiki)
-*   [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
-*   [Styling Android](https://blog.stylingandroid.com)
-
-### Assembly Language / Non-X86
-
-*   [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield
-
-### AutoHotkey / Non-X86
-
-*   [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
-
-### Autotools / Non-X86
-
-*   [Autotools Mythbuster](https://autotools.io/index.html)
-
-### C / Non-X86
-
-*   [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
-
-### C++ / Non-X86
-
-*   [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
-
-### CoffeeScript / Non-X86
-
-*   [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html)
-
-### Go / Phoenix
-
-*   [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-*   [The Go Tutorial](http://tour.golang.org)
-
-### Groovy / Gradle
-
-*   [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf))
-
-### Groovy / Grails
-
-*   [The Grails Framework - Reference Documentation](http://grails.github.io/grails-doc/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](http://grails.github.io/grails-doc/latest/guide/single.pdf))
-
-### HTML and CSS / Spock Framework
-
-*   [GA Dash](https://dash.generalassemb.ly)
-
-### LaTeX / TeX / LaTeX
-
-*   [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
-
-### Linux / TeX
-
-*   [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
-*   [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
-*   [The Debian Administrator's Handbook](https://debian-handbook.info)
-*   [The Linux Development Platform](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) (PDF)
-
-### Markdown / PicoLisp
-
-*   [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
-
-### MATLAB / PicoLisp
-
-*   [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
-*   [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com\&nocookie=true)
-*   [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com\&nocookie=true)
-
-### Maven / PicoLisp
-
-*   [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
-*   [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
-*   [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
-
-### .NET Framework / PicoLisp
-
-*   [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
-
-### NoSQL / PicoLisp
-
-*   [CouchDB: The Definitive Guide](http://guide.couchdb.org)
-
-### Perl / PicoLisp
-
-*   [Beginning Perl](https://www.perl.org/books/beginning-perl/)
-*   [Impatient Perl](https://www.perl.org/books/impatient-perl/)
-*   [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
-
-### PureScript / Constraint Logic Programming (extended Prolog)
-
-*   [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
-
-### Python / Flask
-
-*   [Explore Flask](https://exploreflask.com) - Robert Picard
-
-### Ruby / Tornado
-
-*   [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
-*   [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
-
-### Sage / Sinatra
-
-*   [The Sage Manuals](http://www.sagemath.org/doc/)
-
-### Scala / Sinatra
-
-*   [Effective Scala](https://twitter.github.io/effectivescala/)
-*   [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
-
-### SQL Server / Play Scala
-
-*   [Best of SQLServerCentral.com Vol 7](http://www.red-gate.com/community/books/ssc-7) \*(RedGate, By SQLServerCentral Authors)
-*   [Introducing Microsoft SQL Server 2008 R2](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2008R2)
-*   [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
-*   [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices)
-
-### Standard ML / Play Scala
-
-*   [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
-
-### Unix / Deno
-
-*   [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
-
-### Windows Phone / Vulkan
-
-*   [Windows Phone 8 Development Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
-
-## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [2. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -169,37 +38,37 @@
 
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Misc
 
 *   [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
 *   [dev-time (⭐179)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
-## [6. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [5. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
 *   [refinerycms-testimonials (⭐2)](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
 
-## [7. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
 
-## [8. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [7. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Shared tasks
 
 *   [Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -240,7 +109,7 @@
 
 *   [Swiftx (⭐219)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
@@ -249,13 +118,13 @@
     malicious and/or generally suspicious trails and featuring an reporting
     and analysis interface.
 
-## [11. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [10. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Code generation / Brunch Plugins
 
 *   [generator-gulp-babelify (⭐3)](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 
-## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / D individuals
 
@@ -269,13 +138,13 @@
 
 *   Rob Allen <https://akrabat.com/>
 
-## [13. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Theming/Styling
 
 *   [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -283,27 +152,27 @@
 
 ### Database Drivers
 
-*   [TinyTDS (⭐605)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
+*   [TinyTDS (⭐606)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
-## [15. Amas](/content/sindresorhus/amas/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these organizations anything!
 
 *   [Vim Taiwan (⭐16)](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
 
-## [16. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [15. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 
-## [17. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Blogs of core committer
 
 *   [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
 
-## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [17. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
@@ -315,31 +184,31 @@
 *   [Multiple Experts using Entropy Minimization](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
 *   [TGPR](http://www.dabi.temple.edu/\~hbling/code/TGPR.htm)
 
-## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Open Source Wallets
 
 *   [Electrum](https://electrum.org/)
 
-## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icon Fonts
 
 *   [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 
-## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Incident Response (⭐7.1k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
-## [22. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [21. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
 *   [RxTuples (⭐113)](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
 
-## [23. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [22. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Documentation
 
@@ -366,7 +235,7 @@
 
 *   [Relay Starter Kit (⭐1k)](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 
-## [24. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [23. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
@@ -402,26 +271,26 @@
 *   [Haka](http://www.haka-security.org/): An open source security oriented language which allows to describe protocols and apply security policies on (live) captured traffic. The scope of Haka language is twofold. First of all, it allows to write security rules in order to filter/alter/drop unwanted packets and log and report malicious activities. Second, Haka features a grammar enabling to specify network protocols and their underlying state machine.
 *   [RIPE-NCC Hadoop for PCAP (⭐203)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
 *   [AsyncPoco (⭐128)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
-*   [NPoco (⭐839)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
+*   [NPoco (⭐846)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
 *   [BidMach (⭐914)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
-## [27. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [26. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
 *   [SalesForce Lightning](https://www.lightningdesignsystem.com/design/motion/)
 
-## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [27. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -456,7 +325,7 @@
 
 *   [NGINX Conference](https://www.nginx.com/nginxconf/)
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [28. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
@@ -467,7 +336,7 @@
 
 *   [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -487,7 +356,7 @@
 
 ### Caching
 
-*   [lru\_cache (⭐37)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+*   [lru\_cache (⭐36)](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 
 ### Examples and funny stuff
 
@@ -504,7 +373,7 @@
 
 ### HTTP
 
-*   [yuri (⭐12)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+*   [yuri (⭐13)](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
 
 ### Images
 
@@ -520,7 +389,7 @@
 
 ### OTP
 
-*   [erlexec (⭐520)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐525)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -544,13 +413,13 @@
 
 *   [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
 
-## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [30. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [ineo (⭐76)](https://github.com/cohesivestack/ineo)- A simple but useful Neo4j instance manager.
 
-## [32. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [31. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -572,7 +441,7 @@
 *   [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 *   Some other solutions from [awesome-etl list (⭐2.7k)](https://github.com/pawl/awesome-etl).
 
-## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -586,7 +455,7 @@
 
 *   [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 *   [C++ Programming Q\&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
-*   [LeetCode Problems' Solutions written in C++ (⭐16k)](https://github.com/haoel/leetcode)
+*   [LeetCode Problems' Solutions written in C++ (⭐18k)](https://github.com/haoel/leetcode)
 
 ### Programming Languages/Frameworks/Platforms / C
 
@@ -609,7 +478,7 @@
 
 *   [Classic 'Fizz Buzz' interview question for Clojure developers](http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html)
 *   [Clojure Interview Questions for experienced devs](http://ita2zguide.blogspot.com.by/p/cc.html)
-*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐5)](https://github.com/dpetrovics/coding-exercises)
+*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐7)](https://github.com/dpetrovics/coding-exercises)
 
 ### Programming Languages/Frameworks/Platforms / CSS
 
@@ -627,8 +496,8 @@
 
 ### Programming Languages/Frameworks/Platforms / Golang
 
-*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐464)](https://github.com/mrekucci/epi)
-*   [Solutions for some basic coding interview tasks written in Go (⭐76)](https://github.com/efischer19/golang_ctci)
+*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐522)](https://github.com/mrekucci/epi)
+*   [Solutions for some basic coding interview tasks written in Go (⭐86)](https://github.com/efischer19/golang_ctci)
 
 ### Programming Languages/Frameworks/Platforms / HTML
 
@@ -646,7 +515,7 @@
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
-*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐439)](https://github.com/donbeave/interview)
+*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐456)](https://github.com/donbeave/interview)
 *   [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
 *   [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 *   [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
@@ -708,7 +577,7 @@
 ### Programming Languages/Frameworks/Platforms / Scala
 
 *   [A list of Frequently Asked Questions and their answers, sorted by category](http://www.scala-lang.org/old/faq)
-*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐368)](https://github.com/Jarlakxen/Scala-Interview-Questions)
+*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐470)](https://github.com/Jarlakxen/Scala-Interview-Questions)
 *   [How Scala Developers Are Being Interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed)
 
 ### Programming Languages/Frameworks/Platforms / Shell
@@ -752,7 +621,7 @@
 
 *   [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
 *   [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
-*   [Schema, Questions & Solutions for SQL Exercising (⭐1.1k)](https://github.com/XD-DENG/SQL-exercise)
+*   [Schema, Questions & Solutions for SQL Exercising (⭐1.3k)](https://github.com/XD-DENG/SQL-exercise)
 
 ### OS / Linux
 
@@ -777,7 +646,7 @@
 
 ### Comprehensive lists / Windows
 
-*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐56k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐59k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 *   [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 
 ### Design Patterns / Windows
@@ -793,7 +662,7 @@
 *   [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 *   [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
 
-## [34. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [33. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 

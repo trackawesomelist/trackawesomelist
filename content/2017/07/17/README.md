@@ -23,7 +23,7 @@
 
 ### CLI Utilities
 
-*   [colorls (⭐4.8k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐4.9k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
@@ -31,7 +31,7 @@
 
 ### Third-party APIs
 
-*   [Restforce (⭐795)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐802)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [QuickApp (⭐1.2k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
+*   [QuickApp (⭐1.3k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 
 ## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

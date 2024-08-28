@@ -86,7 +86,7 @@
     *   [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
     *   [Diskuv OCaml (⭐61)](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
-    *   [esy (⭐837)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
+    *   [esy (⭐842)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
 ## [8. Bots](/content/hackerkid/bots/README.md)
 
@@ -98,19 +98,19 @@
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [EasyCaching (⭐1.7k)](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
+*   [EasyCaching (⭐1.9k)](https://github.com/dotnetcore/EasyCaching) - Open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [monitor-table-change-with-sqltabledependency (⭐622)](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change.
+*   [monitor-table-change-with-sqltabledependency (⭐653)](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change.
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [SiaNet (⭐379)](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend
+*   [SiaNet (⭐380)](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend
 
 ### Roadmaps / Workflow
 
-*   [ASP.NET Core Developer Roadmap (⭐17k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
+*   [ASP.NET Core Developer Roadmap (⭐18k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 
 ## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -148,7 +148,7 @@
 
 ### For editors / Lists
 
-*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐366)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
+*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐382)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
 ## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

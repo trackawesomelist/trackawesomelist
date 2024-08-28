@@ -16,7 +16,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐465)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
+*   [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code (⭐474)](https://github.com/Atheos/Atheos)) `MIT` `PHP/Docker`
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Uncategorised
 
-*   [git-dit (⭐453)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
+*   [git-dit (⭐458)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### OAuth2 & OpenID / Macaroons
+### OAuth2 & OpenID / Other tools
 
 *   [Hydra](https://gethydra.sh) - Open-source OIDC & OAuth2 Server.
 
@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [CliFx (⭐1.4k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
+*   [CliFx (⭐1.5k)](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 
 ## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   [Typescript tooling for Neovim (⭐615)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+*   [Typescript tooling for Neovim (⭐616)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
 ### Web / Playground
 

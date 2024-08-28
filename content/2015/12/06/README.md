@@ -29,7 +29,7 @@
 
 ### Programming Languages / C++
 
-*   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
+*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

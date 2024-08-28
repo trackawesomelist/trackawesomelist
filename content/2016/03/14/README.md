@@ -69,7 +69,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐724)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -85,7 +85,7 @@
 *   [Blog](http://blog.ionic.io/)
 *   [Documentation](http://ionicframework.com/docs/v2/)
 *   [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-*   [Ionic Native (⭐2.2k)](https://github.com/driftyco/ionic-native/)
+*   [Ionic Native (⭐2.4k)](https://github.com/driftyco/ionic-native/)
 *   [Community Forum](http://forum.ionicframework.com/)
 *   [Ionic IRC](http://webchat.freenode.net/?randomnick=1\&channels=%23ionic\&uio=d4)
 *   [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
@@ -121,8 +121,8 @@
 
 ### Open Source Projects
 
-*   [Ionic Conference App (⭐3.5k)](https://github.com/driftyco/ionic-conference-app)
-*   [IonicRealty (⭐264)](https://github.com/ccoenraets/ionic2-realty)
+*   [Ionic Conference App (⭐3.6k)](https://github.com/driftyco/ionic-conference-app)
+*   [IonicRealty (⭐256)](https://github.com/ccoenraets/ionic2-realty)
 
 ---
 

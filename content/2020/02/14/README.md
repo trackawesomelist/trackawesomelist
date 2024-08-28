@@ -16,7 +16,7 @@
 
 ### Productivity
 
-*   [iMessage 2FA (⭐99)](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
+*   [iMessage 2FA (⭐110)](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
 
 ## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -152,13 +152,13 @@
 
 ### Open Source / Other
 
-*   [MQTTX (⭐3.5k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
+*   [MQTTX (⭐3.7k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 
 ## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐7.9k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐8k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

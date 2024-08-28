@@ -171,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐446)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐449)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -227,11 +227,11 @@
 
 ### Frameworks, Libraries and Tools / Mathematics
 
-*   [AutoDiff (⭐82)](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
+*   [AutoDiff (⭐89)](https://github.com/alexshtf/autodiff) - A library that provides fast, accurate and automatic differentiation (computes derivative / gradient) of mathematical functions.
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [CakeMail.RestClient (⭐8)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
+*   [CakeMail.RestClient (⭐9)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
 
 ## [17. Guides](/content/NARKOZ/guides/README.md)
 

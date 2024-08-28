@@ -14,7 +14,7 @@
 
 ### In French
 
-*   [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
+*   [Les Cast Codeurs](https://lescastcodeurs.com) - Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 
 ## [2. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Cofoundry (⭐797)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
+*   [Cofoundry (⭐815)](https://github.com/cofoundry-cms/cofoundry) - Open source .NET Core CMS and modular application framework. Code-first, unobtrusive and extensible.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

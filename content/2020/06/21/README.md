@@ -60,11 +60,11 @@
 
 ### Packages / End-user customization
 
-*   [ember-stargate (⭐60)](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
+*   [ember-stargate (⭐67)](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
 
 ### Packages / Polyfills
 
-*   [ember-named-blocks-polyfill (⭐40)](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
+*   [ember-named-blocks-polyfill (⭐39)](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
 
 ### Packages / Examples
 

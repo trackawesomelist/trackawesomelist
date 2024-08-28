@@ -57,7 +57,7 @@
 
 ### Contents / Utilities
 
-*   [pg-formatter (⭐76)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+*   [pg-formatter (⭐79)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 
 ## [8. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

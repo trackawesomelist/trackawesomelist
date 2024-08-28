@@ -2,7 +2,7 @@
 
 A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 655 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 665 · 🏷️ Programming Languages
 
 [ [Daily](/content/hachiojipm/awesome-perl/README.md) / [Weekly](/content/hachiojipm/awesome-perl/week/README.md) / Overview ]
 
@@ -10,14 +10,14 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go (⭐119k)](https://github.com/avelino/awesome-go).
+A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go (⭐126k)](https://github.com/avelino/awesome-go).
 
 ### Another module list
 
 We also recommend these lists.
 
 *   [Task::Kensho (⭐71)](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
-*   [Perlres - A list of resources about Perl (⭐165)](https://github.com/thibaultduponchelle/perlres)
+*   [Perlres - A list of resources about Perl (⭐169)](https://github.com/thibaultduponchelle/perlres)
 *   [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
 *   [Slaven's CPAN in a nutshell (⭐9)](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
 *   Many Task::\*\* Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
@@ -179,7 +179,7 @@ We also recommend these lists.
 *Libraries for serializing, formatting and parsing*
 
 *   [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
-*   [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for (CBOR)\[<https://tools.ietf.org/html/rfc7049>], IETF’s “binary JSON”
+*   [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for [CBOR](https://tools.ietf.org/html/rfc7049), IETF’s “binary JSON”
 *   [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 *   [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 *   [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -631,11 +631,11 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
-*   [emijrp/awesome-awesome (⭐2.6k)](https://github.com/emijrp/awesome-awesome)
-*   [fleveque/awesome-awesomes (⭐581)](https://github.com/fleveque/awesome-awesomes)
-*   [sindresorhus/awesome (⭐296k)](https://github.com/sindresorhus/awesome)
-*   [t3chnoboy/awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
+*   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
+*   [fleveque/awesome-awesomes (⭐584)](https://github.com/fleveque/awesome-awesomes)
+*   [sindresorhus/awesome (⭐318k)](https://github.com/sindresorhus/awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.9k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 # How to contribute?
 

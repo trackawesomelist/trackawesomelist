@@ -158,16 +158,16 @@
 
 ### Frameworks, Libraries and Tools / Exceptions
 
-*   [Demystifier (⭐2.6k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
+*   [Demystifier (⭐2.7k)](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive).
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MQTTnet (⭐3.8k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
+*   [MQTTnet (⭐4.4k)](https://github.com/chkr1011/MQTTnet) - MQTTnet is a high performance .NET library for MQTT based communication.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
 *   [Razor (⭐883)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
-*   [RazorLight (⭐1.4k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
+*   [RazorLight (⭐1.5k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

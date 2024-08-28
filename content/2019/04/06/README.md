@@ -1,28 +1,22 @@
 # Awesome List Updates on Apr 06, 2019
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
-
-### Go / Svelte
-
-*   [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
-
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [WebAnchor (⭐24)](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
+*   [WebAnchor (⭐27)](https://github.com/mattiasnordqvist/Web-Anchor) - Web Anchor provides type-safe, testable and flexible, runtime-generated access to web resources.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [Evolve (⭐786)](https://github.com/lecaillon/Evolve) - Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
+*   [Evolve (⭐838)](https://github.com/lecaillon/Evolve) - Simple database migration tool that uses plain SQL scripts. Inspired by Flyway.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 

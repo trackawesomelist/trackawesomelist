@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14 - Jul 20, 2014
 
-20 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -316,29 +316,7 @@
 *   [Spock (⭐3.4k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Ada
-
-*   [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
-
-### Alef
-
-*   [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
-
-### Chapel / Non-X86
-
-*   [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
-
-### Limbo / TeX
-
-*   [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
-
-### OpenMP / PicoLisp
-
-*   [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
-
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -355,16 +333,16 @@
 
 ### Packages / Image
 
-*   [sharp (⭐28k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-*   [image-type (⭐366)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
+*   [sharp (⭐29k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [image-type (⭐371)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 *   [gm (⭐6.9k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐3k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐571)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐111)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐133)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐574)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐112)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐134)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -373,12 +351,12 @@
 ### Packages / Humanize
 
 *   [pretty-bytes (⭐1.1k)](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-*   [pretty-ms (⭐1k)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+*   [pretty-ms (⭐1.1k)](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 *   [pretty-error (⭐1.5k)](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 
 ### Packages / Network
 
-*   [get-port (⭐855)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐859)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -401,7 +379,7 @@
 
 *   [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
-## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management
 
@@ -409,7 +387,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Cebe Markdown (⭐995)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+*   [Cebe Markdown (⭐997)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 
 ### Table of Contents / Deployment
 
@@ -419,7 +397,7 @@
 
 *   [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 
-## [11. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Release Management
 
@@ -486,7 +464,7 @@
 
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
-## [12. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [11. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Admins
 
@@ -573,7 +551,7 @@
 *   [watchman (⭐11k)](https://github.com/facebook/watchman) - Facebook's better
     `watch` - note it works as a service.
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -663,7 +641,7 @@
 
 *   [oss\_clj](https://twitter.com/oss_clj)
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -815,7 +793,7 @@
 *   [mapbox.js (⭐1.9k)](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 *   [jqvmap (⭐1.8k)](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
@@ -1040,7 +1018,7 @@
 *   [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo: Amazon’s Highly Available Key-value Store.
 *   [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 
-## [16. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
@@ -1056,7 +1034,7 @@
 *   [scriptlike (⭐90)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 *   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.5k)](https://github.com/antirez/linenoise).
 
-## [17. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [16. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Hadoop
 
@@ -1111,7 +1089,7 @@
 
 *   [Hadoop Weekly](http://www.hadoopweekly.com/)
 
-## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -1127,13 +1105,13 @@
 
 *   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
-## [19. Tools](/content/lvwzhen/tools/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Placeholder
 
 *   [placekitten](http://placekitten.com/)
 
-## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### HTML Manipulation
 

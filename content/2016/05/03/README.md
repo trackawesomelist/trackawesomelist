@@ -26,7 +26,7 @@
 
 ### More Awesome Lists
 
-*   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+*   [Style Guides (⭐1.1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## [4. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 

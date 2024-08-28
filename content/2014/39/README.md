@@ -59,7 +59,7 @@
 
 ### Questions
 
-*   [biocaml (⭐120)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+*   [biocaml (⭐123)](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
 *   [onumerical (⭐8)](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
 
 ## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
@@ -99,7 +99,7 @@
 
 ### E-Commerce and Payments
 
-*   [ServiceStack.Stripe (⭐193)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
+*   [ServiceStack.Stripe (⭐194)](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 
 ---
 

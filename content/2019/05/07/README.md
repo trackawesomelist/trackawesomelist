@@ -54,7 +54,7 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Flurl (⭐3.8k)](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET <https://flurl.dev>.
+*   [Flurl (⭐4.1k)](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET <https://flurl.dev>.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

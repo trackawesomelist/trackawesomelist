@@ -24,6 +24,9 @@
 ### Web Apps (frontend only) / [The Guardian](https://github.com/guardian/frontend)
 
 *   play2, scala, node
+
+### Desktop Apps / [Daytona](https://github.com/daytonaio/daytona)
+
 *   Apache 2.0 License
 
 ### Web Apps (frontend only) / [Ghost](https://github.com/TryGhost/Ghost)

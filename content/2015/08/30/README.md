@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 30, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,13 +33,7 @@
 *   [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 *   [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### iOS / Bootstrap
-
-*   [NSHipster](http://nshipster.com/#archive) (Resource)
-
-## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [5. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Automation / Browsers
 

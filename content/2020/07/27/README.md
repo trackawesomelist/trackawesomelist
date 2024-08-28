@@ -34,7 +34,7 @@
 
 ### Finance
 
-- API: [Real Time Finance (⭐62)](https://github.com/Real-time-finance/finance-websocket-API/)
+- API: [Real Time Finance (⭐68)](https://github.com/Real-time-finance/finance-websocket-API/)
 
   Description: Websocket API to access realtime stock data
 
@@ -50,7 +50,7 @@
 
 ## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
-### SAML / Macaroons
+### SAML / Other tools
 
 *   [What's the Difference Between OAuth, OpenID Connect, and SAML?](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/) - Identity is hard. Another take on the different protocol is always welcome to help makes sense of it all.
 
@@ -64,13 +64,13 @@
 
 ### Database
 
-*   [ObjectBox (⭐423)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
+*   [ObjectBox (⭐438)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐70)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐71)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### Applications / Security tools
 
-*   [Inspektor (⭐279)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
+*   [Inspektor (⭐282)](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 
 ### Applications / Text processing
 
-*   [ruplacer (⭐418)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [ruplacer (⭐423)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
 
 ## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
-*   [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833\&hl=en\&as_sdt=0,5)].
+*   [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833)]. This paper explores the limits of the current generation of large language models for program synthesis in general purpose programming languages.
 
 ---
 

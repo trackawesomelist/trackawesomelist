@@ -90,7 +90,7 @@ Webpage: <http://4sq.com/14xZ71H>
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [MediatR (⭐10k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
+*   [MediatR (⭐11k)](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
 
 ### Frameworks, Libraries and Tools / Security
 

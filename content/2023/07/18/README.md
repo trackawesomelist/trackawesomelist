@@ -19,11 +19,11 @@
 *   [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)
 *   [Open AI Models](https://platform.openai.com/docs/models)
 
-### **Langchain vs Competitors** / **Langchain vs LlamaIndex**
+### **LangChain vs Competitors** / **LangChain vs LlamaIndex**
 
 *   LangChain offers many features and focuses on using chains and agents to connect with external APIs. In contrast, LlamaIndex is more specialized and excels at indexing data and retrieving documents.
 
-### **Langchain vs Competitors** / **Langchain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
+### **LangChain vs Competitors** / **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
 
 *   What's the difference between Azure Machine Learing PromptFlow and Semantic Kernel?
 
@@ -44,11 +44,11 @@
 
 ### 2D / Godot 3.2+
 
-*   [Pocket Broomball (⭐27)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+*   [Pocket Broomball (⭐30)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 
 ### 3D / Godot 3.2+
 
-*   [Ball2Box (⭐33)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+*   [Ball2Box (⭐34)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [docuseal (⭐5k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐5.8k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 
 ---
 

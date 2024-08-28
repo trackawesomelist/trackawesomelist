@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Sorbet (⭐3.5k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+*   [Sorbet (⭐3.6k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -31,7 +31,7 @@
 
 ### Contents / Utilities
 
-*   [pg\_insights (⭐296)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+*   [pg\_insights (⭐298)](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 
 ## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Casbin.NET (⭐1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
+*   [Casbin.NET (⭐1.1k)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 
 ## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

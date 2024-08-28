@@ -83,7 +83,7 @@
 
 ### Sensors / Soil Moisture
 
-*   [MicroPython-MiFlora (⭐4)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
+*   [MicroPython-MiFlora (⭐5)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 ## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

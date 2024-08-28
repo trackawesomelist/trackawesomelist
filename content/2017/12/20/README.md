@@ -30,7 +30,7 @@
 
 ### Open Source Projects
 
-*   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
+*   [Ionic Soundboard (⭐14)](https://github.com/rkalis/ionic-soundboard)
 
 ## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

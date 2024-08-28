@@ -85,10 +85,13 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
+### Apps / Content Management
+
+*   [Wagtail Import Export (⭐32)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
+
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐29)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
-*   [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
+*   [Wagtail App Pages (⭐30)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 
 ---
 

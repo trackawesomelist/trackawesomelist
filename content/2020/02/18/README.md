@@ -88,7 +88,7 @@
 
 ### Python / Trading & Backtesting
 
-*   [riskparity.py (⭐279)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
+*   [riskparity.py (⭐283)](https://github.com/dppalomar/riskparity.py) - fast and scalable design of risk parity portfolios with TensorFlow 2.0
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

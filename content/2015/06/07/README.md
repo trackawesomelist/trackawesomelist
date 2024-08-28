@@ -19,7 +19,7 @@
 
 ### Frameworks
 
-*   [rackla (⭐268)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
+*   [rackla (⭐270)](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 
 ### ORM and Datamapping
 

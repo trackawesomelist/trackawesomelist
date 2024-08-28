@@ -62,7 +62,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐7.8k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+*   [Rust Design Patterns (⭐7.9k)](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

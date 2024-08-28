@@ -2,7 +2,7 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jdorfman/awesome-json-datasets/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) · ⭐ 2.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jdorfman/awesome-json-datasets/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) · ⭐ 3.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/jdorfman/awesome-json-datasets/README.md) / Weekly / [Overview](/content/jdorfman/awesome-json-datasets/readme/README.md) ]
 
@@ -57,7 +57,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### Climate
 
-*   [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 *   [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 
 ## [Oct 08 - Oct 14, 2018](/content/2018/41/README.md)
@@ -120,7 +119,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Help Wanted (⭐67)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [Help Wanted (⭐71)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
@@ -176,7 +175,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public APIs (⭐2k)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
 
@@ -253,13 +252,13 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+*   [JSON (⭐1.4k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 
 ## [May 02 - May 08, 2016](/content/2016/18/README.md)
 
 ### More Awesome Lists
 
-*   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+*   [Style Guides (⭐1.1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## [Sep 14 - Sep 20, 2015](/content/2015/37/README.md)
 
@@ -289,7 +288,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Public Datasets (⭐59k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
 ## [Sep 07 - Sep 13, 2015](/content/2015/36/README.md)
 
@@ -353,6 +352,6 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ### More Awesome Lists
 
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Awesome (⭐312k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [WPO (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐32k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*

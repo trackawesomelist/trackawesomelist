@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2017
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -52,7 +52,6 @@
 
 ### Unit Testing
 
-*   [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 *   [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 *   [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -89,9 +88,9 @@
 
 ### Open Source Projects
 
-*   [Ionic Push Notification (⭐166)](https://github.com/aggarwalankush/ionic2-push-base)
-*   [Ionic Weather app (⭐249)](https://github.com/aggarwalankush/ionic2-mosum)
-*   [Ionic Reddit Reader (⭐128)](https://github.com/smartapant/ionic2-reddit-reader)
+*   [Ionic Push Notification (⭐165)](https://github.com/aggarwalankush/ionic2-push-base)
+*   [Ionic Weather app (⭐247)](https://github.com/aggarwalankush/ionic2-mosum)
+*   [Ionic Reddit Reader (⭐125)](https://github.com/smartapant/ionic2-reddit-reader)
 *   [Ionic Advanced Components (⭐1.7k)](https://github.com/yannbf/ionic2-components)
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -685,7 +684,7 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [Avalonia (⭐20k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐25k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
@@ -696,12 +695,6 @@
 ### Utilities (uncategorized) / Others
 
 *   [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
-
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 
 ---
 

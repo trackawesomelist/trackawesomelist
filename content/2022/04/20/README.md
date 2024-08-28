@@ -10,7 +10,7 @@
 
 ### Templates / Godot 3.2+
 
-*   [Godot FPS Template (⭐60)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
+*   [Godot FPS Template (⭐61)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
 
 ## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

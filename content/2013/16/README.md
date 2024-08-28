@@ -14,11 +14,7 @@
 
 ### Table of Contents / URL
 
-*   [PHP Domain Parser (⭐1.1k)](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-
-### Table of Contents / Security
-
-*   [HTML Purifier (⭐3k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
+*   [PHP Domain Parser (⭐1.2k)](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 
 ### Table of Contents / PDF
 
@@ -26,12 +22,16 @@
 
 ### Table of Contents / Command Line
 
-*   [Commando (⭐796)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐797)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ### Table of Contents / Strings
 
 *   [Slugify (⭐2.9k)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+
+### Table of Contents / Filtering, Sanitizing and Validation
+
+*   [HTML Purifier (⭐3k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 
 ---
 

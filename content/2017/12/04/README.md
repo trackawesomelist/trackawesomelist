@@ -25,7 +25,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [letsencrypt-win-simple (⭐4.9k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
+*   [letsencrypt-win-simple (⭐5.2k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
 
 ## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Concurrency
 
-*   [concurrentqueue (⭐9.5k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [concurrentqueue (⭐9.7k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [readerwriterqueue (⭐3.6k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
@@ -84,11 +84,11 @@
 
 ### Scripting
 
-*   [ctypes.sh (⭐2k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
+*   [ctypes.sh (⭐2.1k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐732)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐733)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

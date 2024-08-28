@@ -154,12 +154,12 @@
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
-*   [DynamicData (⭐1.6k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
+*   [DynamicData (⭐1.7k)](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [dotliquid (⭐994)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
-*   [fluid (⭐1.2k)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
+*   [dotliquid (⭐1k)](https://github.com/dotliquid/dotliquid) - .NET Port of Tobias Lütke's Liquid template language.
+*   [fluid (⭐1.4k)](https://github.com/sebastienros/fluid) - Open-source .NET template engine that is as close as possible to the Liquid template language.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

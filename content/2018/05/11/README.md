@@ -16,7 +16,7 @@
 
 ### Packages / Helpers
 
-*   [ember-root-url (⭐11)](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
+*   [ember-root-url (⭐10)](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
 
 ## [3. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Date and Time
 
-*   [cocktail (⭐216)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
+*   [cocktail (⭐217)](https://github.com/peek-travel/cocktail) - Elixir date recurrence library based on iCalendar events.
 
 ### Examples and funny stuff
 
@@ -48,7 +48,7 @@
 
 ### Framework Components
 
-*   [plug\_canonical\_host (⭐38)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
+*   [plug\_canonical\_host (⭐40)](https://github.com/remiprev/plug_canonical_host) - Plug to ensure all requests are served from a single canonical host.
 
 ### HTML
 

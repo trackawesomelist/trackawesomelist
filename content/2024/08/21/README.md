@@ -150,8 +150,9 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Motion Primitives](https://motion-primitives.com) - Beautifully designed motion components built using Tailwind CSS and Framer Motion.
+*   🧩 [Motion Primitives](https://motion-primitives.com) - React motion components built with Tailwind CSS and Framer Motion.
 
 ---
 
+- Prev: [Aug 22, 2024](/content/2024/08/22/README.md)
 - Next: [Aug 20, 2024](/content/2024/08/20/README.md)

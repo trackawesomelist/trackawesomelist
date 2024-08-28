@@ -10,26 +10,26 @@
 
 ### Regular Expressions
 
-*   [Re (⭐223)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
-*   [ocaml-pcre (⭐29)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+*   [Re (⭐232)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [ocaml-pcre (⭐30)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
-*   [sexplib (⭐143)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+*   [sexplib (⭐145)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
-*   [ice\_cube (⭐2.3k)](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
+*   [ice\_cube (⭐2.4k)](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
 
 ### Image Processing
 
-*   [Phasion (⭐704)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐702)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Security
 
-*   [Metasploit (⭐33k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐34k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

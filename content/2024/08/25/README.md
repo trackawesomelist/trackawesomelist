@@ -57,4 +57,5 @@
 
 ---
 
+- Prev: [Aug 26, 2024](/content/2024/08/26/README.md)
 - Next: [Aug 24, 2024](/content/2024/08/24/README.md)

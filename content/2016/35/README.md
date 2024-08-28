@@ -16,7 +16,7 @@
 
 ### Resources / Recipes
 
-*   [Oscar Wagtail demo project (⭐19)](https://github.com/LUKKIEN/oscar-wagtail-demo) - A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
+*   [Oscar Wagtail demo project (⭐20)](https://github.com/LUKKIEN/oscar-wagtail-demo) - A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
 
 ## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -37,10 +37,10 @@
 *   [Ionic Firebase Chat App (⭐37)](https://github.com/ionic2blueprints/firebase-chat)
 *   [Ionic Ecommerce App (⭐26)](https://github.com/ionic2blueprints/ionic2-marketcloud)
 *   [Ionic Conference App based on Lanyrd API (⭐7)](https://github.com/ionic2blueprints/conference-app)
-*   [Ionic Stock Tracking App (⭐16)](https://github.com/ionic2blueprints/ionic2-stockmarket)
+*   [Ionic Stock Tracking App (⭐18)](https://github.com/ionic2blueprints/ionic2-stockmarket)
 *   [Ionic Wordpress Client (⭐20)](https://github.com/ionic2blueprints/ionic2-wp-client)
-*   [Ionic Media Player (⭐31)](https://github.com/ionic2blueprints/media-player)
-*   [Ionic Social App (⭐25)](https://github.com/ionic2blueprints/social-app)
+*   [Ionic Media Player (⭐30)](https://github.com/ionic2blueprints/media-player)
+*   [Ionic Social App (⭐27)](https://github.com/ionic2blueprints/social-app)
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / Cryptography
 
-*   [sfackler/rust-native-tls (⭐466)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
+*   [sfackler/rust-native-tls (⭐468)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Geolocation
 
-*   [geoip (⭐115)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
+*   [geoip (⭐117)](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
 
 ### Images
 
@@ -171,7 +171,7 @@
 
 *   [elixometer (⭐828)](https://github.com/pinterest/elixometer) - A light Elixir wrapper around exometer.
 *   [erlang-metrics (⭐70)](https://github.com/benoitc/erlang-metrics) - A generic interface to different metrics systems in Erlang.
-*   [exometer (⭐525)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
+*   [exometer (⭐527)](https://github.com/Feuerlabs/exometer) - Basic measurement objects and probe behavior in Erlang.
 *   [folsom\_ddb (⭐6)](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
 *   [instream (⭐222)](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 *   [instrumental (⭐10)](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
@@ -183,7 +183,7 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Paasaa (⭐113)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+*   [Paasaa (⭐114)](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 
 ### ORM and Datamapping
 
@@ -195,7 +195,7 @@
 
 ### Statistics
 
-*   [numerix (⭐184)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐185)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Templating
 
@@ -207,15 +207,15 @@
 
 ### Utilities
 
-*   [retry (⭐435)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐436)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Validations
 
-*   [exop (⭐213)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
+*   [exop (⭐214)](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 
 ### Video
 
-*   [ffmpex (⭐215)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐216)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [19. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -378,7 +378,7 @@
 
 ### Python / Symfony2
 
-*   [Flask-Potion (⭐487)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+*   [Flask-Potion (⭐488)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 

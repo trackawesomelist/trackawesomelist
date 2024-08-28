@@ -20,7 +20,7 @@
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [OwaspHeaders (⭐251)](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
+*   [OwaspHeaders (⭐276)](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
 
 ## [3. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -48,18 +48,18 @@
 ### Application Libraries
 
 *   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐218)](https://github.com/janestreet/core_kernel).
-*   [Minicli (⭐30)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
+*   [Minicli (⭐31)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
 
 ### User Interface
 
 *   [lablqml (⭐157)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐338)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+*   [Notty (⭐349)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐92)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐95)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

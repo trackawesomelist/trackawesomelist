@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐126)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐127)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -137,25 +137,25 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐255)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐254)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐105)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐106)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐772)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐774)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐505)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐504)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
-*   [Clamp (⭐421)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐422)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
@@ -321,7 +321,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Assert (⭐2.4k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 
@@ -528,7 +528,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Algorithms and Data structures
 
-*   [gen\_fsm (⭐39)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
+*   [gen\_fsm (⭐40)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
 ### Debugging
 
@@ -536,7 +536,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 ### Geolocation
 
-*   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
+*   [segseg (⭐6)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
 ## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 

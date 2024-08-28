@@ -16,7 +16,7 @@
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐475)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
+*   [ocaml-containers (⭐481)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -33,15 +33,15 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NetCoreStack.Proxy (⭐41)](https://github.com/NetCoreStack/Proxy) - The type-safe, distributed REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
+*   [NetCoreStack.Proxy (⭐42)](https://github.com/NetCoreStack/Proxy) - The type-safe, distributed REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   Validation
-    *   [FluentValidation (⭐8.4k)](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
-    *   [FormHelper (⭐256)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation).
-    *   [Guard (⭐709)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
-    *   [Valit (⭐319)](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
+    *   [FluentValidation (⭐8.9k)](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+    *   [FormHelper (⭐270)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation).
+    *   [Guard (⭐713)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+    *   [Valit (⭐320)](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 

@@ -42,7 +42,7 @@
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [EasyNetQ (⭐2.8k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
+*   [EasyNetQ (⭐2.9k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 
 ## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18, 2023
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,13 +40,7 @@
 
 *   [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
-
-### Functional Programming / Runner
-
-*   [sweet-monads (⭐316)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
-
-## [6. Ai Collection](/content/ai-collection/ai-collection/README.md)
+## [5. Ai Collection](/content/ai-collection/ai-collection/README.md)
 
 ### Chat Bot
 
@@ -129,39 +123,39 @@
 
 
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
 *   [The Building Blocks of Generative AI | by Jonathan Shriftman | Medium](https://shriftman.medium.com/the-building-blocks-of-generative-ai-a75350466a2f)
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Quickfix / Diagnostics
 
-*   [yorickpeterse/nvim-pqf (⭐118)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [yorickpeterse/nvim-pqf (⭐129)](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
 
 ### Session / Diagnostics
 
-*   [coffebar/neovim-project (⭐157)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [coffebar/neovim-project (⭐176)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 
 ### Split and Window / Diagnostics
 
-*   [yorickpeterse/nvim-window (⭐87)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
+*   [yorickpeterse/nvim-window (⭐96)](https://github.com/yorickpeterse/nvim-window) - Easily jump between Neovim windows.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Integrations
 
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/revertinc/revert)
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Translations
 
-*   [French (⭐1)](https://github.com/alexture/awesome-translations/tree/fr_FR)
+*   [French (⭐2)](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -201,13 +195,17 @@
 *   [Integrately](https://integrately.com) — Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
     Update Time, five active automations, webhooks.
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Simplified Flight Simulation library (⭐165)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
+*   [Simplified Flight Simulation library (⭐174)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator (Godot 3.x, 4.x).
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [sweet-monads (⭐323)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 
 ### :free: Free Courses / Chrome Extensions
 

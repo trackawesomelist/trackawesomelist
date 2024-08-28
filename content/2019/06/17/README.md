@@ -10,7 +10,7 @@
 
 ### Packages / Examples
 
-*   [Rust Package Registry (⭐2.3k)](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
+*   [Rust Package Registry (⭐2.9k)](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
 ## [2. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

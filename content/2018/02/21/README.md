@@ -30,11 +30,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ConsoleTableExt (⭐312)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
+*   [ConsoleTableExt (⭐327)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .NET console application.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [SQLStreamStore (⭐467)](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
+*   [SQLStreamStore (⭐468)](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 

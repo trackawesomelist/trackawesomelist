@@ -16,11 +16,11 @@
 
 ### Misc
 
-*   [immutable (⭐202)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
+*   [immutable (⭐203)](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
 
 ### Testing
 
-*   [crotest (⭐27)](https://github.com/emancu/crotest) - A tiny and simple test framework
+*   [crotest (⭐28)](https://github.com/emancu/crotest) - A tiny and simple test framework
 
 ## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

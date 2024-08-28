@@ -118,8 +118,8 @@
 
 ### Web Feed Specifications
 
-*   [RSS 2.0](https://www.rssboard.org/rss-specification) <sup>[823](https://t.me/s/aboutrss/823)</sup>
-*   [Atom](http://www.atomenabled.org/) <sup>[711](https://t.me/s/aboutrss/711), [823](https://t.me/s/aboutrss/823)</sup>
+*   [RSS 2.0](https://www.rssboard.org/rss-specification) <sup>[823](https://t.me/s/aboutrss/823)</sup> ![Relative date](https://img.shields.io/date/1032350400?style=flat\&logo=RSS\&label=Published\&color=orange)
+*   [Atom](http://www.atomenabled.org/) <sup>[711](https://t.me/s/aboutrss/711), [823](https://t.me/s/aboutrss/823)</sup> ![Relative date](https://img.shields.io/date/1121342400?style=flat\&logo=atom\&label=Released\&color=skyblue)
 
 ### specifically from (*a certain platform*) / Wechat Subscription Accounts (微信公众号)
 

@@ -10,7 +10,7 @@
 
 ### Search / Diagnostics
 
-*   [chrisgrieser/nvim-rip-substitute (⭐14)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's `:substitute` using `ripgrep`.
+*   [chrisgrieser/nvim-rip-substitute (⭐140)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for vim's `:substitute` using `ripgrep`.
 
 ## [2. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

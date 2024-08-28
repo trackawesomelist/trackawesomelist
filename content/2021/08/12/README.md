@@ -96,7 +96,7 @@
 
 ### Projects / Package and Build Management
 
-*   [Coq Nix Toolbox (⭐31)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
+*   [Coq Nix Toolbox (⭐32)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 
 ### Projects / Tools
 
@@ -105,7 +105,7 @@
 
 ### Projects / Verified Software
 
-*   [RISC-V Specification in Coq (⭐100)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+*   [RISC-V Specification in Coq (⭐101)](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
 *   [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 
 ## [11. Tools](/content/lvwzhen/tools/README.md)

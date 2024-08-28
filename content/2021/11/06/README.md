@@ -16,7 +16,7 @@
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
-*   [Node.js Interview Questions by learning-zone (⭐2.3k)](https://github.com/learning-zone/nodejs-interview-questions)
+*   [Node.js Interview Questions by learning-zone (⭐3k)](https://github.com/learning-zone/nodejs-interview-questions)
 
 ## [3. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐5.6k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐5.8k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 

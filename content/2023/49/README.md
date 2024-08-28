@@ -20,13 +20,13 @@
 
 ### Scraping
 
-*   [browserless](https://browserless.io) - Browser automation deployed to the could. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
+*   [browserless](https://browserless.io) - Browser automation deployed to the cloud. [![browserless](https://img.shields.io/github/stars/browserless/browserless?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/browserless/browserless)
 
 ## [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Workflow
 
-*   [PACE (⭐31)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
+*   [PACE (⭐32)](https://github.com/getstrm/pace) - An open source framework that allows you to enforce agreements on how data should be accessed, used, and transformed, regardless of the data platform (Snowflake, BigQuery, DataBricks, etc.)
 
 ## [4. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)
 
@@ -60,17 +60,17 @@
 
 ### Python / Natural Language Processing
 
-*   [Transformers (⭐127k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+*   [Transformers (⭐130k)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-elasticstack (⭐154)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
+*   [terraform-provider-elasticstack (⭐162)](https://github.com/elastic/terraform-provider-elasticstack) - Provider for Elasticsearch and Kibana.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Stack-Lifecycle-Deployment (⭐221)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
+*   [Stack-Lifecycle-Deployment (⭐226)](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 
 ## [8. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
@@ -86,14 +86,14 @@
 
 ### Other / [Other](#other-1)
 
-*   [promformat (⭐33)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
+*   [promformat (⭐34)](https://github.com/facetoe/promformat) :warning: — Promformat is a PromQL formatter written in Python.
 *   [promval (⭐4)](https://github.com/facetoe/promval) :warning: — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 ## [10. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [somleng (⭐59)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
+*   [somleng (⭐64)](https://github.com/somleng/somleng) - An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - [:earth\_africa:](https://www.somleng.org)
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -105,23 +105,23 @@
 
 ### Plugins / Community Plugins
 
-*   [@capgo/camera-preview (⭐1)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+*   [@capgo/camera-preview (⭐3)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 *   [@capgo/capacitor-crisp (⭐8)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [@capgo/capacitor-flash (⭐11)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
-*   [@capgo/inappbrowser (⭐47)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-*   [@capgo/capacitor-updater (⭐447)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
+*   [@capgo/inappbrowser (⭐60)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [@capgo/capacitor-updater (⭐488)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 *   [@capgo/capacitor-mute (⭐3)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-*   [@capgo/native-audio (⭐23)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
-*   [@capgo/nativegeocoder (⭐19)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-*   [@capgo/native-market (⭐5)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+*   [@capgo/native-audio (⭐27)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [@capgo/nativegeocoder (⭐21)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [@capgo/native-market (⭐6)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [@capgo/capacitor-screen-recorder (⭐5)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-*   [@revenuecat/purchases-capacitor (⭐115)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+*   [@revenuecat/purchases-capacitor (⭐130)](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-stepper (⭐130)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
+*   [svelte-stepper (⭐131)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 
 ## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Software / Polls and Events
 
-*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐164)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
+*   [Bracket](https://evroon.github.io/bracket) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ([Demo](https://www.bracketapp.nl/demo), [Source Code (⭐188)](https://github.com/evroon/bracket)) `AGPL-3.0` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 

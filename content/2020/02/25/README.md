@@ -27,12 +27,12 @@
 
 ### Python / Trading & Backtesting
 
-*   [quantstats (⭐4.3k)](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-*   [Quantdom (⭐695)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
+*   [quantstats (⭐4.6k)](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
+*   [Quantdom (⭐704)](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets \[GUI :neckbeard:]
 
 ### Reproducing Works, Training & Books / Data Visualization
 
-*   [Quantitative-Notebooks (⭐941)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
+*   [Quantitative-Notebooks (⭐971)](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modelling and investment strategy
 
 ## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CoreUI Vue Admin Template (⭐3.2k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
+*   [CoreUI Vue Admin Template (⭐3.3k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
 
 ## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -452,7 +452,7 @@
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐351)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐357)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

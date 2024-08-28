@@ -2,7 +2,7 @@
 
 A curated list of awesome Discord communities for programmers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 2.6K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 2.7K · 🏷️ Gaming
 
 [ [Daily](/content/mhxion/awesome-discord-communities/README.md) / [Weekly](/content/mhxion/awesome-discord-communities/week/README.md) / Overview ]
 
@@ -106,7 +106,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 
 ## How to Navigate
 
-If you're familiar with other popular [awesome lists (⭐312k)](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./CONTRIBUTING.md). Read this [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
+If you're familiar with other popular [awesome lists (⭐318k)](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./CONTRIBUTING.md). Read this [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
 *   A quick lookup from browser `ctrl + f` may help to find communities by a topic
 *   Click on the [<img height="18px" width="18px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](#) or [<img height="18px" width="18px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](#) icon to visit the community's official website or git repository page
@@ -185,6 +185,12 @@ Language: English
 Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/world_of_coding.webp">
+
+[**World of Coding**](https://discord.com/invite/program) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://world-of-coding.tech/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/World-of-Coding) \
+Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`, `#infosec`, `#linux`, `#web-dev`, `#game-dev`, `#js`, `#python` \
+Language: English
+
 ### Competitive Programming
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cp_community.webp">
@@ -192,6 +198,18 @@ Language: English
 [**CP Community**](https://discord.com/invite/algorithms) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://codeforces.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Codeforces) \
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/kilonova.webp">
+
+[**Kilonova**](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/KiloProjects/Kilonova) \
+Notable Channels: `#general`, `#platform-errors`, `#platform-bugs`, `#suggestions`, `#support`, `#solution-discussions` \
+Language: Romanian \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/roalgo.webp">
+
+[**RoAlgo**](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/roalgo-discord) \
+Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
+Language: Romanian, English \ <br>
 
 ## Art of Computer Science
 

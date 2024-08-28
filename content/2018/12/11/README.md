@@ -37,7 +37,7 @@
 ### OS and Kernels / Apache License
 
 *   [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
-*   [bare-bones (⭐81)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+*   [bare-bones (⭐83)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 
 ### Games / Apache License
 
@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [DryIoc (⭐918)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
+*   [DryIoc (⭐991)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
 ## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Logging
 
-*   [plog (⭐2.1k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
+*   [plog (⭐2.2k)](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 
 ### Sorting
 
@@ -71,11 +71,11 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐663)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐666)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
-*   [Cget (⭐445)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
+*   [Cget (⭐447)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

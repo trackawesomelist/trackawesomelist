@@ -130,15 +130,15 @@
 
 ### Extensions / Collection View Layout
 
-*   [nef (⭐199)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+*   [nef (⭐200)](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ## [13. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [The Goose Game Kata (⭐8)](https://github.com/xpeppers/goose-game-kata)
-*   [Salary slip kata (⭐17)](https://github.com/sandromancuso/salaryslipkata)
-*   [RPG Game kata (⭐681)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
+*   [Salary slip kata (⭐19)](https://github.com/sandromancuso/salaryslipkata)
+*   [RPG Game kata (⭐734)](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
 *   [Train Reservation kata (⭐111)](https://github.com/emilybache/KataTrainReservation)
 *   [Password-strength Checker TDD Kata (⭐6)](https://github.com/xpepper/PasswordStrengthChecker)
 
@@ -235,7 +235,7 @@
 
 *   [tmux-network-bandwidth (⭐76)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐57)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐60)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -33,7 +33,7 @@
 
 ### Plugins / Style
 
-*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files.
+*   [filenames (⭐310)](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 
 ### Tools / Testing Tools
 

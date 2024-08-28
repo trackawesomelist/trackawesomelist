@@ -22,13 +22,13 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐318)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐336)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐22k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐25k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [5. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [AutoComplete (⭐209)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
+*   [AutoComplete (⭐216)](https://github.com/omerfarukz/autocomplete) - Persistent, simple, powerful and portable autocomplete library.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

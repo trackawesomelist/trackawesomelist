@@ -158,7 +158,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Auth0 (⭐298)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+*   [Auth0 (⭐325)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 
 ## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

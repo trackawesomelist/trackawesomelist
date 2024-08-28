@@ -47,9 +47,9 @@
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Transfer (⭐84)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐88)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

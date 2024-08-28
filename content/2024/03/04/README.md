@@ -46,21 +46,21 @@
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐485)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐500)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
-*   [dot (⭐14)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
+*   [dot (⭐15)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
 
 ### Dependency Injection
 
-*   [ore (⭐5)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
+*   [ore (⭐7)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 
 ### Utilities
 
-*   [go-lambda-cleanup (⭐88)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
+*   [go-lambda-cleanup (⭐90)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

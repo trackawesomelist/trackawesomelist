@@ -10,7 +10,7 @@
 
 ### Table of Contents / Geolocation
 
-*   [PHPGeo (⭐1.5k)](https://github.com/mjaschen/phpgeo) - A simple geo library.
+*   [PHPGeo (⭐1.6k)](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
 ### Table of Contents / Markup and CSS
 

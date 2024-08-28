@@ -21,6 +21,7 @@
 *   [Websites](#websites)
     *   [Wiki](#wiki)
     *   [Forums](#forums)
+    *   [Indexes](#indexes)
     *   [Mod Libraries](#mod-libraries)
     *   [Archives](#archives)
 *   [Mod Loaders](#mod-loaders)

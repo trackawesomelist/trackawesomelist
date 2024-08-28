@@ -22,7 +22,7 @@
 
 ### i18n & l10n
 
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
+*   [attranslate (⭐325)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 ## [4. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datagrid (⭐199)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
+*   [vue-datagrid (⭐201)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 
 ## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

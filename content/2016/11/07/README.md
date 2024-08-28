@@ -22,7 +22,7 @@
 
 ### Geolocation
 
-*   [geohax (⭐11)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
+*   [geohax (⭐12)](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 
 ## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -38,7 +38,7 @@
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐409)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐410)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

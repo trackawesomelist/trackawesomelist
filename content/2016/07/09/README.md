@@ -32,7 +32,7 @@
 
 ### More Awesome Lists
 
-*   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+*   [JSON (⭐1.4k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 
 ## [5. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

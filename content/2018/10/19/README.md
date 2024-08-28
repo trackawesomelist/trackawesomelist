@@ -29,7 +29,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [ConDroid (⭐53)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
+*   [ConDroid (⭐54)](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 
 ### Tools / Dynamic Analysis Tools
 
@@ -121,7 +121,7 @@
 ### CLI / Text-Based User Interfaces
 
 *   [Jansi (⭐1.1k)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Text-IO (⭐332)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [Text-IO (⭐338)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Security / Other
 
@@ -164,7 +164,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Bullseye (⭐780)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
+*   [Bullseye (⭐840)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 
 ## [18. Public Apis](/content/public-apis/public-apis/README.md)
 

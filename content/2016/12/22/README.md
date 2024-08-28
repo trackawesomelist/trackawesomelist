@@ -61,7 +61,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐6.8k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐7.1k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -81,7 +81,7 @@
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐133)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐138)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ---
 

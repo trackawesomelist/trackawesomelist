@@ -80,7 +80,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Volan (⭐43)](https://github.com/serkin/Volan) - Another simplified validation library.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2017
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -230,32 +230,26 @@
 
 *   [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (Kafka or Kinesis) in your business
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
-
-## [8. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [7. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   C#/dotnet: [chrome-dev-tools (⭐76)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 
-## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Community / Official resources
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/smart-tv)
 *   [Reddit](https://www.reddit.com/r/smarttv)
 
-## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### ZIP
 
@@ -269,11 +263,11 @@
 
 *   [GEOSwift (⭐1.4k)](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### CLI
 
-*   [ReadLine (⭐801)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+*   [ReadLine (⭐804)](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ### Cloud Storage
 
@@ -295,7 +289,7 @@
 
 *   [TopShelf (⭐3.6k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
-## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Vector search
 
@@ -303,7 +297,7 @@
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
     *   *Text Classification using Support Vector Machines in Ruby* by [Rimas Silkaitis](https://twitter.com/neovintage) <sup>\[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
 
-## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -319,7 +313,7 @@
 *   [passivedns (⭐1.7k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 *   [smbmap (⭐1.7k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
-## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+## [14. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 
 ### Contests, conferences, and events
 

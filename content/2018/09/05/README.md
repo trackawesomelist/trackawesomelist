@@ -52,7 +52,7 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [stormpath-sdk (⭐53)](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications (⭐18)](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.(Deprecated: It will longer get updated as of March 2017 after joining OKTA)
+*   [stormpath-sdk (⭐54)](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications (⭐18)](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.(Deprecated: It will longer get updated as of March 2017 after joining OKTA)
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

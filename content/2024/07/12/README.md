@@ -15,9 +15,12 @@
 
 ## [2. Topics](/content/selvaklnc/topics/README.md)
 
-### List of interesting topics
+### List of press release contents
 
 *   [Magazine launch](https://www.prlog.org/13028884-wikimint-launches-new-online-magazine-for-business-and-resources.html) - Wikimint luanches business resources related magazine.
+
+### List of articles and posts
+
 *   [Secrets of inner piece](https://www.tumblr.com/magazinechronicles/732720366640939008/unlocking-the-secrets-of-mindfulness-a-journey-to?source=share) - Unlocking the Secrets of Mindfulness: A Journey to Inner Peace
 *   [Stock market facts](https://www.wikimint.com/2024/01/interesting-facts-about-stock-market.html) - 25 Captivating Stock Market Facts - Intriguing Insights
 
@@ -57,4 +60,5 @@
 
 ---
 
+- Prev: [Jul 13, 2024](/content/2024/07/13/README.md)
 - Next: [Jul 11, 2024](/content/2024/07/11/README.md)

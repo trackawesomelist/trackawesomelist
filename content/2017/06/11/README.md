@@ -30,7 +30,7 @@
 
 ### WPF
 
-*   [Data Grid Extensions (⭐788)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐797)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 

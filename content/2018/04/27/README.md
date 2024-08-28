@@ -17,7 +17,7 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [aspnet-api-versioning (⭐2.8k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+*   [aspnet-api-versioning (⭐3k)](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 
 ---
 

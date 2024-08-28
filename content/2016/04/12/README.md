@@ -22,7 +22,7 @@
 
 ### Algorithms and Data structures
 
-*   [gen\_fsm (⭐39)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
+*   [gen\_fsm (⭐40)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
 ## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 

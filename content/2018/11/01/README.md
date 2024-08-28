@@ -36,7 +36,7 @@
 
 ### Using DevTools frontend with other platforms / ClojureScript
 
-*   [Dirac (⭐766)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
+*   [Dirac (⭐769)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 ### Using DevTools frontend with other platforms / iOS
 
@@ -60,7 +60,7 @@
 
 ### Other
 
-*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on python.
+*   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on Python.
 
 ### Inspiration / Other
 
@@ -236,7 +236,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning in MatLab/Octave (⭐831)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
+*   [Machine Learning in MatLab/Octave (⭐837)](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
 
 ## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

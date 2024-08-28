@@ -40,7 +40,7 @@
 
 ### Libraries/Frameworks / Misc
 
-*   [pearxteam/kasechange (⭐87)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
+*   [pearxteam/kasechange (⭐88)](https://github.com/pearxteam/kasechange) - Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Messaging / Scala
 
-*   [Redpanda (⭐8.7k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+*   [Redpanda (⭐9.3k)](https://github.com/redpanda-data/redpanda/) - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
 
 ## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Tools / Community providers
 
-*   [aws2tf (⭐499)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
+*   [aws2tf (⭐548)](https://github.com/aws-samples/aws2tf) - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

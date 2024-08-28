@@ -10,7 +10,7 @@
 
 ### Git / Diagnostics
 
-*   [isak102/telescope-git-file-history.nvim (⭐56)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
+*   [isak102/telescope-git-file-history.nvim (⭐66)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 
 ## [2. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -33,15 +33,15 @@
 
 ## [5. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
-### Machine Learning Tasks and Models / Pre-trained embedding
+### Drug Response Prediction / Pre-trained embedding
 
-*   [Evolutionary Scale Modeling (⭐2.7k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
-*   [ChemBERTa-2 (⭐350)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+*   [Evolutionary Scale Modeling (⭐3.1k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
+*   [ChemBERTa-2 (⭐380)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
 
-### Machine Learning Tasks and Models / LLM for biology
+### Drug Response Prediction / LLM for biology
 
 *   [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - LLM for chemical and molecule science
-*   [BioGPT (⭐4.2k)](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
+*   [BioGPT (⭐4.3k)](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
 
 ---
 

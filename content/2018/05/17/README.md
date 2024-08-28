@@ -90,7 +90,7 @@
 
 ### Packages / AST
 
-*   [ember-template-recast (⭐34)](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
+*   [ember-template-recast (⭐40)](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
 
 ### Packages / Articles about Data
 

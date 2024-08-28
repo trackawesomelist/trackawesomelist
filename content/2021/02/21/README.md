@@ -26,14 +26,14 @@
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐70)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐71)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Anima (⭐620)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
-*   [SmartShape2D (⭐1.1k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
+*   [Anima (⭐638)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween (Godot 3.x).
+*   [SmartShape2D (⭐1.2k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool (Godot 3.x, 4.x).
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -41,7 +41,7 @@
 
 ### Modules / Godot 4.0
 
-*   [Godex (⭐1.1k)](https://github.com/GodotECS/godex) - An entity component system library.
+*   [Godex (⭐1.2k)](https://github.com/GodotECS/godex) - An entity component system library.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

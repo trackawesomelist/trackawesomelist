@@ -22,7 +22,7 @@
 *   **[ActivePieces](https://www.activepieces.com/)** - *[Review](https://productivity.directory/activepieces)*: An open-source tool for all-in-one automation.
 *   **[n8n](https://n8n.io/)** - *[Review](https://productivity.directory/n8n)*: Specializes in technical workflow automation.
 *   **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
-*   **[Huginn (⭐42k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
+*   **[Huginn (⭐43k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
 
 ## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Domain Specific Language / DSL Program Synthesis
 
-*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐35)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
+*   [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Code (⭐37)](https://github.com/ac-rad/xdl-generation)]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Web Development / Diagnostics
 
-*   [luckasRanarison/tailwind-tools.nvim (⭐217)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
+*   [luckasRanarison/tailwind-tools.nvim (⭐309)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
 
 ## [8. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -74,11 +74,11 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Pairdrop (⭐3.7k)](https://github.com/schlagmichdoch/pairdrop) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). `GPL-3.0` `Docker`
+*   [Pairdrop (⭐4.2k)](https://github.com/schlagmichdoch/pairdrop) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). `GPL-3.0` `Docker`
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Tube Archivist](https://tubearchivist.com/) `⚠` - Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface. ([Source Code (⭐4.4k)](https://github.com/tubearchivist/tubearchivist), [Clients](https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi)) `GPL-3.0` `Docker`
+*   [Tube Archivist](https://tubearchivist.com/) `⚠` - Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface. ([Source Code (⭐4.7k)](https://github.com/tubearchivist/tubearchivist), [Clients](https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi)) `GPL-3.0` `Docker`
 
 ## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [DelphiLint (⭐76)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
+*   [DelphiLint (⭐79)](https://github.com/integrated-application-development/delphilint) — A Delphi IDE package providing on-the-fly code analysis and linting, powered by SonarDelphi.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

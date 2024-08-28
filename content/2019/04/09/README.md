@@ -172,7 +172,7 @@
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐877)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐887)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -180,7 +180,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.5k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
+*   [TheWaWaR/simple-http-server (⭐2.6k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
 
 ### Development tools / Debugging
 
@@ -202,7 +202,7 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐60)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐59)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Libraries / GUI
 
@@ -213,20 +213,20 @@
 
 *   Low level
     *   [actix/actix (⭐8.5k)](https://github.com/actix/actix) - Actor library
-    *   [dylanmckay/protocol (⭐185)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
+    *   [dylanmckay/protocol (⭐182)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
     *   [libpnet/libpnet (⭐2.2k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.6k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [smoltcp-rs/smoltcp (⭐3.7k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
 
 ### Libraries / Parsing
 
-*   [ptal/oak (⭐141)](https://github.com/ptal/oak) - A typed PEG parser generator (compiler plugin)
+*   [ptal/oak (⭐142)](https://github.com/ptal/oak) - A typed PEG parser generator (compiler plugin)
 
 ### Libraries / Web programming
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
-    *   [leptos (⭐15k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
-    *   [sauron (⭐1.9k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
+    *   [leptos (⭐16k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [sauron (⭐2k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
     *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
@@ -243,7 +243,7 @@
 
 ### Reflection
 
-*   [Magic Enum (⭐4.5k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐4.7k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
@@ -255,11 +255,11 @@
 
 ### Packages / Animations
 
-*   [ember-animated (⭐232)](https://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
+*   [ember-animated (⭐244)](https://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
 
 ### Packages / UI libs
 
-*   [ember-elements (⭐48)](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
+*   [ember-elements (⭐58)](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
 
 ### Packages / Articles
 

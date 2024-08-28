@@ -22,11 +22,7 @@
 
 ### Applications / Database
 
-*   [FnckSQL (⭐512)](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
-
-### Applications / Utilities
-
-*   [sorairolake/qrtool (⭐119)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [FnckSQL (⭐519)](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
 
 ## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -56,7 +52,7 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐232)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐249)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

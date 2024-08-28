@@ -99,7 +99,7 @@
 
 ### Others
 
-*   [Pdt256 katas (php, go, python, java, haskell, typescript) (⭐4)](https://github.com/pdt256/kata)
+*   [Pdt256 katas (php, go, python, java, haskell, typescript) (⭐6)](https://github.com/pdt256/kata)
 
 ---
 

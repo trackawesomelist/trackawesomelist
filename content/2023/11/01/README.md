@@ -10,7 +10,7 @@
 
 ### Plugins / Community Plugins
 
-*   [capacitor-plugin-safe-area (⭐44)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
+*   [capacitor-plugin-safe-area (⭐55)](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS.
 
 ## [2. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐10)](https://github.com/tweedegolf/rust-workshop))
+*   [Tweede golf's workshop](https://workshop.tweede.golf) - A full workshop about Rust and embedded Rust. The embedded parts use the nRF52840-DK and a LIS3DH breakout board. ([github source (⭐11)](https://github.com/tweedegolf/rust-workshop))
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -44,72 +44,22 @@
 
 ### Tools - Security / React
 
-*   [GraphQLer (⭐47)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+*   [GraphQLer (⭐71)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
 ## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-### **LlamaIndex**
-
-*   LlamaIndex (formerly GPT Index) is a data framework for LLM applications to ingest, structure, and access private or domain-specific data. The high-level API allows users to ingest and query their data in a few lines of code. [ref](https://www.llamaindex.ai/blog): blog / [ref](https://gpt-index.readthedocs.io/en/latest/index.html): Docs / High-Level Concept: [ref](https://docs.llamaindex.ai/en/latest/getting_started/concepts.html): Concepts / [git (⭐33k)](https://github.com/run-llama/llama_index) \[Nov 2022]
-
-    > Fun fact this core idea was the initial inspiration for GPT Index (the former name of LlamaIndex) 11/8/2022 - almost a year ago!. [cite](https://twitter.com/jerryjliu0/status/1711817419592008037) / [Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading](https://arxiv.org/abs/2310.05029)
-    >
-    > 1.  Build a data structure (memory tree)
-    > 2.  Transverse it via LLM prompting
-*   Storage Context vs Service Context
-
-    *   Both the Storage Context and Service Context are data classes.
-
-    ```python
-    index = load_index_from_storage(storage_context, service_context=service_context)
-    ```
-
-    1.  Storage Context is responsible for the storage and retrieval of data in Llama Index, while the Service Context helps in incorporating external context to enhance the search experience.
-    2.  The Service Context is not directly involved in the storage or retrieval of data, but it helps in providing a more context-aware and accurate search experience.
-
-        <details>
-
-        <summary>Context class definition</summary>
-
-        ```python
-        # The storage context container is a utility container for storing nodes, indices, and vectors.
-        class StorageContext:
-          docstore: BaseDocumentStore
-          index_store: BaseIndexStore
-          vector_store: VectorStore
-          graph_store: GraphStore
-        ```
-
-        ```python
-        # The service context container is a utility container for LlamaIndex index and query classes.
-        class ServiceContext:
-          llm_predictor: BaseLLMPredictor
-          prompt_helper: PromptHelper
-          embed_model: BaseEmbedding
-          node_parser: NodeParser
-          llama_logger: LlamaLogger
-          callback_manager: CallbackManager
-        ```
-
-        </details>
 
 ### **Semantic Kernel** / **Semantic Kernel Planner**
 
 *   Is Semantic Kernel Planner the same as LangChain agents?
 
-    > Planner in SK is not the same as Agents in LangChain. [cite (⭐20k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
+    > Planner in SK is not the same as Agents in LangChain. [cite (⭐21k)](https://github.com/microsoft/semantic-kernel/discussions/1326) \[11 May 2023]
 
     > Agents in LangChain use recursive calls to the LLM to decide the next step to take based on the current state.
     > The two planner implementations in SK are not self-correcting.
     > Sequential planner tries to produce all the steps at the very beginning, so it is unable to handle unexpected errors.
     > Action planner only chooses one tool to satisfy the goal
 
-### **Section 4** : Langchain Features, Usage, and Comparisons / DSPy optimizer
-
-*   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
-    (2) Be agentic: Allow a language model to interact with its environment.
-
-### **Langchain Agent & Memory** / Langchain Agent
+### **LangChain Agent & Memory** / LangChain Agent
 
 *   If you're using a text LLM, first try `zero-shot-react-description`.
 *   If you're using a Chat Model, try `chat-zero-shot-react-description`.
@@ -120,11 +70,11 @@
 *   [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
     *   Critique: Review your previous answer and find problems with your answer.
     *   Improve: Based on the problems you found, improve your answer.
-*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.4k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.2k)](https://github.com/kyegomez/tree-of-thoughts)
+*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.5k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.2k)](https://github.com/kyegomez/tree-of-thoughts)
 
     *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
     *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
-    *   `tree-of-thought\react-prompt.py`: ReAct sample without Langchain
+    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
 *   Zero-shot, one-shot and few-shot [cite](https://arxiv.org/abs/2005.14165) \[28 May 2020]
 
     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/zero-one-few-shot.png" width="200">
@@ -133,7 +83,7 @@
     *   [Promptist](https://arxiv.org/abs/2212.09611): Microsoft's researchers trained an additional language model (LM) that optimizes text prompts for text-to-image generation.
         *   For example, instead of simply passing "Cats dancing in a space club" as a prompt, an engineered prompt might be "Cats dancing in a space club, digital painting, artstation, concept art, soft light, hdri, smooth, sharp focus, illustration, fantasy."
 
-### **Finetuning** / **Prompt Template Language**
+### **Finetuning** / PEFT: Parameter-Efficient Fine-Tuning ([Youtube](https://youtu.be/Us5ZFp16PaU)) [24 Apr 2023]
 
 *   Category: Represent approach - Description - Pseudo Code [ref](https://speakerdeck.com/schulta) \[22 Sep 2023]
 
@@ -178,7 +128,7 @@
           return scale * h
         ```
 
-### **Quantization Techniques** / **Llama 2 Finetuning**
+### **Quantization Techniques** / **Llama Finetuning**
 
 *   Post-training quantization (PTQ): The model is quantized after it has been trained without further optimization during the quantization process.
 
@@ -187,11 +137,9 @@
     | Post-training quantization  | Easy to use, no need to retrain the model                   | May result in accuracy loss                                     |
     | Quantization-aware training | Can achieve higher accuracy than post-training quantization | Requires retraining the model, can be more complex to implement |
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
-*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023]
-
-    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
+*   [Numbers every LLM Developer should know (⭐4k)](https://github.com/ray-project/llm-numbers) \[18 May 2023] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/llm-numbers.png" height="360">
 
 ### **Large Language Models (in 2023)** / **GPT series release date**
 
@@ -308,8 +256,8 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐16k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
-*   [AlexChalakov/awesome-generative-ai-companies (⭐93)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐17k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [AlexChalakov/awesome-generative-ai-companies (⭐95)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
@@ -327,17 +275,17 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐215)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐228)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
-*   [Dataflow Framework (⭐992)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
+*   [Dataflow Framework (⭐1k)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐2k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+*   [kani (⭐2.1k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
     Kani is particularly useful for verifying unsafe code blocks in Rust,
     where the "unsafe superpowers" are unchecked by the compiler.
     Kani verifies:
@@ -348,22 +296,14 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
-*   [Yolov5 (⭐48k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐26k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov5 (⭐49k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐27k)](https://github.com/ultralytics/ultralytics)
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / Wicket
+### Data Science
 
-*   [Bible of JS](https://sheryians.com/download/bibleofjs_by_sheryians) - Harsh Sharma, Sheryians Coding School
-
-### R / Tornado
-
-*   [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
-
-### SQL (implementation agnostic) / Play Scala
-
-*   [The SQL Handbook](https://www.freecodecamp.org/news/a-beginners-guide-to-sql) - Lane Wagner (HTML)
+*   [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 
 ---
 

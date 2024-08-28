@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 06, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,33 +24,27 @@
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
-
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
 *   [Taskist (⭐975)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [serilog (⭐6.6k)](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
-    *   [serilog-aspnetcore (⭐1.2k)](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core 2+.
-    *   [Serilog.Exceptions (⭐456)](https://github.com/RehanSaeed/Serilog.Exceptions) - Serilog.Exceptions is an add-on to [Serilog](https://serilog.net/) to log exception details and custom properties that are not output in Exception.ToString().
-    *   [Serilog.Settings.Configuration (⭐397)](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
+*   [serilog (⭐7.1k)](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
+    *   [serilog-aspnetcore (⭐1.3k)](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core 2+.
+    *   [Serilog.Exceptions (⭐503)](https://github.com/RehanSaeed/Serilog.Exceptions) - Serilog.Exceptions is an add-on to [Serilog](https://serilog.net/) to log exception details and custom properties that are not output in Exception.ToString().
+    *   [Serilog.Settings.Configuration (⭐441)](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [LiquidState (⭐233)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
-*   [NCrontab (⭐820)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
+*   [LiquidState (⭐238)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
+*   [NCrontab (⭐887)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
@@ -77,7 +71,7 @@
 *   [Must have add-ons in EmberJS - Dawid Pośliński](https://www.youtube.com/watch?v=IprfNT0xbrI)
 *   [Building Modern Apps Using API Services - Ember Meetup August 21, 2018](https://www.youtube.com/watch?v=VMnzGJ4PN0s)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

@@ -34,7 +34,7 @@
 
 ### Misc
 
-*   [Guard (⭐711)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐713)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Open Source / Other
 
-*   [Etcher (⭐28k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+*   [Etcher (⭐29k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source / Other
 
@@ -130,7 +130,7 @@
 ### Packages / Command-line apps
 
 *   [cash-cli (⭐229)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐600)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [discharge (⭐633)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -142,7 +142,7 @@
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐579)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐582)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 

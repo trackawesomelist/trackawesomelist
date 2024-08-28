@@ -16,7 +16,7 @@
 
 ### Packages / Data Management
 
-*   [ember-data-storefront (⭐141)](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
+*   [ember-data-storefront (⭐137)](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -89,13 +89,13 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [Restsharp (⭐9.3k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+*   [Restsharp (⭐9.6k)](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 
 ### Frameworks, Libraries and Tools / Serialization
 
 *   MessagePack
-    *   [msgpack-cli (⭐810)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
-    *   [MessagePack-CSharp (⭐4.9k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
+    *   [msgpack-cli (⭐828)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
+    *   [MessagePack-CSharp (⭐5.5k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 
 ## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -106,7 +106,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Ride Receipts (⭐143)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
-*   [Laqu-l (⭐134)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
+*   [Laqu-l (⭐135)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
 *   [Minimal Notes (⭐131)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)

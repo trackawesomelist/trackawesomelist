@@ -49,7 +49,7 @@
 
 ### Binlog-Replication
 
-*   [Kingbus (⭐884)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+*   [Kingbus (⭐888)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 *   [mysql-ripple (⭐369)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)

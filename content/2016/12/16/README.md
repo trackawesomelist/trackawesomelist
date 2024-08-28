@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [MailBody (⭐154)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
+*   [MailBody (⭐158)](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Weapsy (⭐4)](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+*   [Weapsy (⭐10)](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 
 ### Community / Workflow
 
@@ -48,7 +48,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐792)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐795)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

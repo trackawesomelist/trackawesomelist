@@ -38,7 +38,7 @@
 
 ### Email
 
-*   [Postal (⭐14k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ### Internationalization
 
@@ -47,12 +47,12 @@
 ### Optimizations
 
 *   [bootsnap (⭐2.7k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐612)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [fast\_blank (⭐613)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
 *   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐190)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐195)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 
@@ -284,11 +284,11 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [RestClient.Net (⭐361)](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
+*   [RestClient.Net (⭐366)](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [dotnet-env (⭐366)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
+*   [dotnet-env (⭐419)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
 ## [11. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 

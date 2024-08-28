@@ -10,19 +10,15 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLama Cpp Agent (⭐422)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
-*   [FinRobot (⭐1.2k)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
-*   [Groq Ruby (⭐96)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
+*   [LLama Cpp Agent (⭐457)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
+*   [FinRobot (⭐1.3k)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
+*   [Groq Ruby (⭐103)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
 
 ## [2. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [Flowbite Icons](https://flowbite.com/icons/) - Free and open-source collection of 430+ solid and outline icons built for Tailwind CSS and Figma.
-
-### Logos
-
-*   [Token Icons (⭐16)](https://github.com/0xa3k5/token-icons#readme) - Over 2,500 optimized SVG crypto & network icons as React components and SVG imports for web3.
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 

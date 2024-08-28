@@ -83,7 +83,7 @@
 
 ### HTTP
 
-*   [Crawly (⭐941)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [Crawly (⭐954)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐22)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)

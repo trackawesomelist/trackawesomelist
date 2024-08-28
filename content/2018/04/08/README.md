@@ -15,7 +15,7 @@
 
 ### ORM/ODM Extensions
 
-*   [granite (⭐296)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
+*   [granite (⭐295)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 

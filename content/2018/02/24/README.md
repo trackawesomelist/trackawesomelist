@@ -48,7 +48,7 @@
 ### Frameworks, Libraries and Tools / Misc
 
 *   Stocks
-    *   [Trady (⭐523)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
+    *   [Trady (⭐545)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

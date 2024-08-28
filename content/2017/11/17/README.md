@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐292)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Open Source / Other
 
-*   [Buttercup Desktop (⭐4.2k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
+*   [Buttercup Desktop (⭐4.3k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -88,7 +88,7 @@
 
 *   [CppVerbalExpressions (⭐378)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐8.7k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [RE2 (⭐8.9k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
 *   [SLRE (⭐524)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)

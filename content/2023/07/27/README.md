@@ -10,7 +10,7 @@
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐332)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐340)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
 ### Distribution / Text-Based User Interfaces
 
@@ -18,7 +18,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [jOOX (⭐486)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
+*   [jOOX (⭐489)](https://github.com/jooq/joox) - Simple wrapper for the org.w3c.dom package, to allow for fluent XML document creation and manipulation with an API inspired by jQuery.
 
 ### Security / Other
 
@@ -60,7 +60,7 @@
 
 ## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Quantization Techniques** / **Llama 2 Finetuning**
+### **Quantization Techniques** / **Llama Finetuning**
 
 *   Quantization-aware training (QAT): The model is further trained with quantization in mind after being initially trained in floating-point precision.
 
@@ -68,8 +68,8 @@
 
 *   Edge and Chrome Extension & Plugin
     *   [MaxAI.me](https://www.maxai.me/)
-    *   [BetterChatGPT (⭐7.8k)](https://github.com/ztjhz/BetterChatGPT)
-    *   [ChatHub (⭐9.8k)](https://github.com/chathub-dev/chathub) All-in-one chatbot client [Webpage](https://chathub.gg/)
+    *   [BetterChatGPT (⭐7.9k)](https://github.com/ztjhz/BetterChatGPT)
+    *   [ChatHub (⭐9.9k)](https://github.com/chathub-dev/chathub) All-in-one chatbot client [Webpage](https://chathub.gg/)
     *   [ChatGPT Retrieval Plugin (⭐21k)](https://github.com/openai/chatgpt-retrieval-plugin)
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
@@ -82,8 +82,8 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [PixelKit (⭐873)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-*   [AsyncGraphics (⭐303)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [PixelKit (⭐882)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+*   [AsyncGraphics (⭐320)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
@@ -93,15 +93,15 @@
 
 ### Software / Document Management - E-books
 
-*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐69)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
+*   [Atsumeru](https://atsumeru.xyz) - Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ([Source Code (⭐72)](https://github.com/AtsumeruDev/Atsumeru), [Clients](https://atsumeru.xyz/guides/#how-does-it-work)) `MIT` `Java/Docker`
 
 ### Software / Search Engines
 
-*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐11k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
+*   [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ([Source Code (⭐12k)](https://github.com/searxng/searxng/)) `AGPL-3.0` `Python/Docker`
 
 ### Software / Software Development - Low Code
 
-*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐883)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
+*   [SQLPage](https://sql.ophir.dev) - SQL-only dynamic website builder. ([Source Code (⭐1.3k)](https://github.com/lovasoa/SQLPage)) `MIT` `Rust/Docker`
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

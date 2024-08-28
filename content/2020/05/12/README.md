@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2020
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,7 +70,7 @@
 
 ### Software / Diagramming
 
-*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐39k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
+*   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates. ([Source Code (⭐40k)](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript/Docker`
 
 ## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐613)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐624)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -94,19 +94,13 @@
 
 *   [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://medium.com/wavesprotocol/item-market-is-launched-cabefe915c04))
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Logging / Barcode
-
-*   [Gedatsu (⭐532)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
-
-## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Virtual Machines
 
 *   [PeachPie (⭐2.3k)](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
-## [14. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
+## [13. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
 
 ### Third-party packages / Package discovery
 
@@ -116,25 +110,29 @@
 
 *   [schlessera/wp-cli-psysh (⭐23)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+
+### Logging
+
+*   [Gedatsu (⭐531)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ### Analytics
 
 *   [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [16. Awesome List](/content/sindresorhus/awesome/README.md)
+## [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Hardware
 
-*   [Plotters (⭐1k)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐1.1k)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
-## [17. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Videos / Help
 
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 
-## [18. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [17. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Streaming Sites / Free Indexers
 
@@ -144,7 +142,7 @@
 
 *   [BlockTheSpot (⭐6.3k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 
-## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

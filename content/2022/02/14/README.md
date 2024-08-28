@@ -40,13 +40,13 @@
 
 ### Plugins
 
-*   [tmux-browser (⭐76)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
+*   [tmux-browser (⭐81)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
-*   [montrose (⭐822)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [montrose (⭐842)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
 *   [stamp (⭐968)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
@@ -54,7 +54,7 @@
 ### Techniques / Generic
 
 *   [MITRE ATT\&CK tactic "TA0003 - Persistence"](https://attack.mitre.org/tactics/TA0003/) - MITRE ATT\&CK tactic "TA0003 - Persistence".
-*   [Sigma rules (⭐6.1k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
+*   [Sigma rules (⭐8k)](https://github.com/Neo23x0/sigma/tree/master/rules) - Sigma rules which covers persistence techniques. You can even use filters such as `--filter tag=attack.persistence` or specifically for one technique `tag=attack.t1084`.
 
 ### Techniques / Linux
 
@@ -73,28 +73,28 @@
 
 ### Persistence Removal / Generic
 
-*   [Awesome Incident Response (⭐6k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
+*   [Awesome Incident Response (⭐7.5k)](https://github.com/meirwah/awesome-incident-response) - Use the tools and resources for security incident response, aimed to help security analysts and DFIR teams.
 
 ### Persistence Removal / Windows
 
-*   [PowerSponse (⭐35)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
+*   [PowerSponse (⭐37)](https://github.com/swisscom/PowerSponse) - PowerSponse includes various commands for cleanup of persistence mechanisms.
 *   [Removing Backdoors – Powershell Empire Edition](https://www.n00py.io/2017/01/removing-backdoors-powershell-empire-edition/) - Various blog posts handle the removal of WMI implants.
 *   [RegDelNull](https://docs.microsoft.com/en-us/sysinternals/downloads/regdelnull) - Removal of registry keys with null bytes - used e.g. in run keys for evasion.
 
 ### Detection Testing / Windows
 
-*   [Atomic Red Team (⭐7.3k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐7.3k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
+*   [Atomic Red Team (⭐9.5k)](https://github.com/redcanaryco/atomic-red-team) - Atomic Red Team supports also the MITRE ATT\&CK persistence techniques, see e.g. [T1044 "File System Permissions Weakness" (⭐9.5k)](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1044/T1044.yaml).
 
 ### Collection / Generic
 
-*   [Awesome Forensics (⭐2.7k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
+*   [Awesome Forensics (⭐3.8k)](https://github.com/Cugu/awesome-forensics) - Use the tools from this list which includes awesome free (mostly open source) forensic analysis tools and resources. They help collecting the persistence mechanisms at scale, e.g. by using remote forensics tools.
 *   [osquery](https://osquery.readthedocs.io) - Query persistence mechanisms on clients.
-*   [OSSEC (⭐3.9k)](https://github.com/ossec/ossec-hids) - Use rules and logs from the HIDS to detection configuration changes.
+*   [OSSEC (⭐4.4k)](https://github.com/ossec/ossec-hids) - Use rules and logs from the HIDS to detection configuration changes.
 
 ### Collection / Windows
 
-*   [PowerShell Autoruns (⭐187)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
-*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐442)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐442)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐442)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐442)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐442)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
+*   [PowerShell Autoruns (⭐248)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
+*   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐628)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐628)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -105,17 +105,17 @@
 ### Back-End Development
 
 *   [Laravel (⭐12k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-    *   [Education (⭐386)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-    *   [TALL Stack (⭐904)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+    *   [Education (⭐388)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+    *   [TALL Stack (⭐906)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 *   [Vapor (⭐1.2k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 
 ### Computer Science
 
 *   [Speech and Natural Language Processing (⭐2.2k)](https://github.com/edobashira/speech-language-processing#readme)
-    *   [Spanish (⭐326)](https://github.com/dav009/awesome-spanish-nlp#readme)
+    *   [Spanish (⭐328)](https://github.com/dav009/awesome-spanish-nlp#readme)
     *   [NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby#readme)
-    *   [Question Answering (⭐750)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-    *   [Natural Language Generation (⭐449)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+    *   [Question Answering (⭐751)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    *   [Natural Language Generation (⭐450)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
 ### Big Data
 
@@ -127,14 +127,14 @@
 
 ### Testing
 
-*   [k6 (⭐546)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐561)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
 *   [Analytics (⭐3.9k)](https://github.com/0xnr/awesome-analytics#readme)
 *   [Data Visualization (⭐3.7k)](https://github.com/javierluraschi/awesome-dataviz#readme)
-*   [Product Design (⭐2.2k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-*   [QR Code (⭐83)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+*   [Product Design (⭐2.3k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
+*   [QR Code (⭐91)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ### Related
 
@@ -156,7 +156,7 @@
 
 ### Graphics
 
-*   [Skia (⭐8.9k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+*   [Skia (⭐9.1k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
 ## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 

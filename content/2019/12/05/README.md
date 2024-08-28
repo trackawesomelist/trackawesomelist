@@ -10,7 +10,7 @@
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [RepoDb (⭐1.6k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
+*   [RepoDb (⭐1.7k)](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 
 ## [2. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.2k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
+*   [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code (⭐4.3k)](https://github.com/leantime/leantime)) `GPL-2.0` `PHP/Docker`
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [scikit-multiflow (⭐748)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
+*   [scikit-multiflow (⭐753)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
 ---
 

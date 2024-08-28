@@ -23,7 +23,7 @@
 
 ### JavaScript Clients
 
-*   [traverson (⭐448)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
+*   [traverson (⭐453)](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ## [4. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 

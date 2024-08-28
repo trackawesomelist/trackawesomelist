@@ -29,7 +29,7 @@
 
 ### Error Handling
 
-*   [Rollbar (⭐441)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐443)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
@@ -91,19 +91,19 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐40)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐39)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐2.6k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐2.7k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐17k)](https://github.com/tabler/tabler-icons) SVG icons.
+*   [vue-tabler-icons (⭐150)](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons (⭐18k)](https://github.com/tabler/tabler-icons) SVG icons.
 *   [vue-selectize (⭐77)](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 
 ## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
@@ -129,7 +129,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐267)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐268)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -140,7 +140,7 @@
 ### Projects
 
 *   [Internet Chronometer (⭐109)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐7.2k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Pi-KVM (⭐7.8k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [19. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

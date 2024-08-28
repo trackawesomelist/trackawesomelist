@@ -125,7 +125,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐427)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐430)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Email
 
-*   [Maily (⭐701)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐703)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### File Upload
 
@@ -492,7 +492,7 @@
 
 ### Database Drivers/Clients
 
-*   [leveldb (⭐38)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
+*   [leveldb (⭐39)](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
 
 ### Examples and funny stuff
 
@@ -500,7 +500,7 @@
 
 ### Game Development
 
-*   [CrSFML (⭐347)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
+*   [CrSFML (⭐348)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 
 ### HTTP
 
@@ -508,7 +508,7 @@
 
 ### Image processing
 
-*   [stumpy\_png (⭐105)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+*   [stumpy\_png (⭐106)](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ### Network Protocols
 
@@ -531,7 +531,7 @@
 
 ### Official Documentation Translations
 
-*   [icr (⭐501)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
+*   [icr (⭐502)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
 
 ### Editor Plugins
 
@@ -543,7 +543,7 @@
     *   [vim-crystal (⭐412)](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
     *   [vim-slang (⭐12)](https://github.com/elorest/vim-slang) - Vim filetype support for Slang Templating Engine
 *   Visual Studio Code
-    *   [vscode-crystal-lang (⭐274)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+    *   [vscode-crystal-lang (⭐275)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -557,11 +557,11 @@
 ### Frameworks, Libraries and Tools / Graphics
 
 *   [GLFWDotNet (⭐50)](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.
-*   [SharpBgfx (⭐167)](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
+*   [SharpBgfx (⭐169)](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [StrongGrid (⭐165)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+*   [StrongGrid (⭐179)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
 ## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 

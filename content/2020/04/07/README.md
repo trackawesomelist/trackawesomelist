@@ -148,7 +148,7 @@
 
 ### Rust / Scala
 
-*   [Tarpc (⭐3k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+*   [Tarpc (⭐3.1k)](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 
 ### Messaging / Scala
 
@@ -163,7 +163,7 @@
 
 ### Community Extensions
 
-*   [Keycloak Login with User Attribute (⭐34)](https://github.com/cnieg/keycloak-login-attribute)
+*   [Keycloak Login with User Attribute (⭐35)](https://github.com/cnieg/keycloak-login-attribute)
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 

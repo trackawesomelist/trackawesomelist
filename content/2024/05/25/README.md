@@ -22,7 +22,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [nosduco/remote-sshfs.nvim (⭐145)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
+*   [nosduco/remote-sshfs.nvim (⭐161)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -46,11 +46,11 @@
 
 ### Large Language Models (LLMs)
 
-*   [naklecha/llama3-from-scratch (⭐11k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
+*   [naklecha/llama3-from-scratch (⭐12k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [ragapp/ragapp (⭐2.8k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
+*   [ragapp/ragapp (⭐3k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 
 ## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

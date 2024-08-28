@@ -10,7 +10,7 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐42k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐43k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -26,13 +26,13 @@
 
 ### CLI
 
-*   [tabulate (⭐1.8k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
+*   [tabulate (⭐1.9k)](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++. \[MIT]
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [jasper (⭐411)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
+*   [jasper (⭐420)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
 ## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 

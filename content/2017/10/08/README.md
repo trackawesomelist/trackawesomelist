@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,7 @@
 
 ### Apps / Third-party APIs
 
-*   [Mockingbird (⭐18)](https://github.com/Chream/mockingbird) - A small
+*   [Mockingbird](https://github.com/Chream/mockingbird) - A small
     stubbing and mocking library for Common Lisp. Can also check wether
     a stubbed function was called, how many times and with which
     arguments. [MIT](https://opensource.org/licenses/MIT).
@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Humidifier (⭐44)](https://github.com/jakejscott/Humidifier) - Write and maintain AWS Cloudformation templates using C#.
+*   [Humidifier (⭐46)](https://github.com/jakejscott/Humidifier) - Write and maintain AWS Cloudformation templates using C#.
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
@@ -58,25 +58,19 @@
 
 *   [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
 
-## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Lua / PicoLisp
-
-*   [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
-
-## [7. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Articles
 
 *   [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
 
-## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Libraries and Tools / Python
 
 *   [Python-OBD (⭐966)](https://github.com/brendan-w/python-OBD) - A Python module for handling realtime sensor data from OBD-II vehicle ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry Pi.
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Books / Streaming
 

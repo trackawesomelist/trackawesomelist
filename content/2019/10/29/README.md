@@ -86,7 +86,7 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐729)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐732)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 

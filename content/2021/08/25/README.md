@@ -56,7 +56,7 @@
 
 ### Projects / Tools
 
-*   [coq-tools (⭐36)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-tools (⭐37)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -119,7 +119,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐32k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐33k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ---
 

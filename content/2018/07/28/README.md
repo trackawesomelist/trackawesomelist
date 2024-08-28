@@ -10,29 +10,29 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐579)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐583)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐167)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Calculators (⭐169)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [AsyncEx (⭐3.3k)](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-*   [DotnetSpider (⭐3.7k)](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
-*   [ExcelDataReader (⭐3.6k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
-*   [MoreLINQ (⭐3.5k)](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
+*   [AsyncEx (⭐3.5k)](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
+*   [DotnetSpider (⭐3.9k)](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
+*   [ExcelDataReader (⭐3.9k)](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
+*   [MoreLINQ (⭐3.6k)](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AgileMapper (⭐448)](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
+*   [AgileMapper (⭐457)](https://github.com/agileobjects/AgileMapper) - AgileMapper is a zero-configuration, highly-configurable object-object mapper with viewable execution plans.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [NJsonSchema (⭐1.2k)](https://github.com/RSuter/NJsonSchema) - NJsonSchema is a .NET library to read, generate and validate JSON Schema draft v4+ schemas.
+*   [NJsonSchema (⭐1.4k)](https://github.com/RSuter/NJsonSchema) - NJsonSchema is a .NET library to read, generate and validate JSON Schema draft v4+ schemas.
 
 ## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Cebe Markdown (⭐995)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
+*   [Cebe Markdown (⭐997)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 
 ## [2. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 

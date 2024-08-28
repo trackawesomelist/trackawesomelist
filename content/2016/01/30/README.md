@@ -23,11 +23,11 @@
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
-*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐839)](https://github.com/derekargueta/Android-Interview-Questions)
+*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐856)](https://github.com/derekargueta/Android-Interview-Questions)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
-*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐365)](https://github.com/gdi2290/ngExam)
+*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐360)](https://github.com/gdi2290/ngExam)
 *   [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 *   [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 *   [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
@@ -96,8 +96,8 @@
 
 *   [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 *   [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
-*   [Some basic javascript coding challenges and interview questions (⭐4k)](https://github.com/kolodny/exercises)
-*   [Some JavaScript interview exercises (⭐66)](https://github.com/csvenja/javascript-exercises)
+*   [Some basic javascript coding challenges and interview questions (⭐4.2k)](https://github.com/kolodny/exercises)
+*   [Some JavaScript interview exercises (⭐71)](https://github.com/csvenja/javascript-exercises)
 *   [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
 ### Programming Languages/Frameworks/Platforms / KnockoutJS
@@ -110,7 +110,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Python
 
-*   [A listing of questions that could potentially be asked for a python job listing (⭐177)](https://github.com/sigmavirus24/python-interview-questions)
+*   [A listing of questions that could potentially be asked for a python job listing (⭐211)](https://github.com/sigmavirus24/python-interview-questions)
 *   [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 *   [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
 
@@ -164,12 +164,12 @@
 
 ### Coding exercises / Windows
 
-*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges)
-*   [Interview questions solved in python (⭐115)](https://github.com/roseperrone/interview-questions)
+*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐29k)](https://github.com/donnemartin/interactive-coding-challenges)
+*   [Interview questions solved in python (⭐120)](https://github.com/roseperrone/interview-questions)
 
 ### Comprehensive lists / Windows
 
-*   [Some simple questions to interview potential backend candidates (⭐247)](https://github.com/starandtina/backend-interview-questions)
+*   [Some simple questions to interview potential backend candidates (⭐278)](https://github.com/starandtina/backend-interview-questions)
 
 ### Security / Windows
 
@@ -199,7 +199,7 @@
 
 ### Framework Components
 
-*   [params (⭐354)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐357)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Text and Numbers

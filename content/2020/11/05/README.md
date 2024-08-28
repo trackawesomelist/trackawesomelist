@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 05, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,12 +41,12 @@
 
 ### CMS
 
-*   [Storytime (⭐753)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
+*   [Storytime (⭐754)](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and blogging engine, with a core focus on content.
 
 ### ORM/ODM Extensions
 
 *   Bit array
-    *   [ActiveFlag (⭐185)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
+    *   [ActiveFlag (⭐188)](https://github.com/kenn/active_flag) - Store up to 64 multiple flags in a single integer column with ActiveRecord.
     *   [Bitfields (⭐224)](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
 
 ### Static Site Generation
@@ -64,15 +64,11 @@
 ### Libraries
 
 *   [Kaolin](https://kaolin.readthedocs.io/en/latest/) - Kaolin is a PyTorch Library for Accelerating 3D Deep Learning Research written by NVIDIA Technologies for game and application developers.
-    *   [GitHub repository :octocat: (⭐4.3k)](https://github.com/NVIDIAGameWorks/kaolin/)
-    *   [Paper :newspaper:](https://arxiv.org/pdf/1911.05063.pdf)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐4.3k)](https://github.com/NVIDIAGameWorks/kaolin/)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://arxiv.org/pdf/1911.05063.pdf)
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit.
-    *   [GitHub repository :octocat: (⭐2.4k)](https://github.com/pyvista/pyvista)
-    *   [Paper :newspaper:](https://joss.theoj.org/papers/10.21105/joss.01450)
-
-### Algorithms / Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-
-*   [LOAM J. Zhang and S. Singh :red\_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐2.5k)](https://github.com/pyvista/pyvista)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://joss.theoj.org/papers/10.21105/joss.01450)
 
 ## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -93,11 +89,11 @@
 
 ### Account Management
 
-*   [Conjur (⭐701)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
+*   [Conjur (⭐750)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
-### Authorization / Open-source policy frameworks
+### Authorization / ABAC frameworks
 
-*   [Casbin (⭐16k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
+*   [Casbin (⭐17k)](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
 
 ## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -117,13 +113,7 @@
 
 *   [concent (⭐1.3k)](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
 
-## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
-
-### Utilities
-
-*   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Science and Medicine
 
@@ -158,23 +148,23 @@
 
 
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### System / Navigation Demos
 
 *   [react-native-system-setting (⭐386)](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
 
-## [17. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [16. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Helpful links / Other
 
 *   [TFProfiler (⭐26)](https://github.com/iglaweb/TFProfiler) - An Android-based app to profile TensorFlow Lite models and measure its performance on smartphone.
 
-## [18. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+## [17. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
 
 ### Open Source Projects
 
-*   [Ionic 5 WhatsApp clone (⭐51)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 5 WhatsApp clone (⭐60)](https://github.com/thenaim/ionic-whatsapp-clone) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 
 ---
 

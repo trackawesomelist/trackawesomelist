@@ -50,13 +50,13 @@
 
 ### Projects
 
-*   [USB Proxy (⭐119)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
+*   [USB Proxy (⭐140)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [cdule (⭐47)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
+*   [cdule (⭐48)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 
 ### Morphological Analyzers
 

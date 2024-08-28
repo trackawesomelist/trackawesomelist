@@ -10,7 +10,7 @@
 
 ### Table of Contents / API
 
-*   [HAL (⭐202)](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
+*   [HAL (⭐203)](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 
 ---
 

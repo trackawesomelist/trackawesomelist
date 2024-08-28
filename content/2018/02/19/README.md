@@ -48,7 +48,7 @@
 
 ### Web Frameworks
 
-*   [spider-gazelle (⭐178)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
+*   [spider-gazelle (⭐179)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -60,11 +60,11 @@
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [LiteDB (⭐7.8k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
+*   [LiteDB (⭐8.4k)](https://github.com/mbdavid/LiteDB) - .NET NoSQL Document Store in a single data file - <http://www.litedb.org>.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [DbUp (⭐2k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+*   [DbUp (⭐2.3k)](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 *   [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - In-memory data cube with OLAP operations and PivotTable data model.
 
 ---

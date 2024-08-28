@@ -28,7 +28,7 @@
 
 ### Workflow
 
-*   [Kestra (⭐7k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
+*   [Kestra (⭐7.2k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
 
 ---
 

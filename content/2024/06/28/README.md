@@ -16,13 +16,13 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/): Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. An LLM Ochestrator, similar to Langchain. / [git (⭐20k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023]
-*   [guidance (⭐18k)](https://github.com/microsoft/guidance): A guidance language for controlling large language models. Simple, intuitive syntax, based on Handlebars templating. Domain Specific Language (DSL) for handling model interaction. Langchain libaries but different approach rather than ochestration, particularly effective for implementing `Chain of Thought`. \[Nov 2022]
-*   [Azure Machine Learning Promt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow): Visual Designer for Prompt crafting. Use [Jinja (⭐10k)](https://github.com/pallets/jinja) as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐8.7k)](https://github.com/microsoft/promptflow) \[Jun 2023]
-*   [Prompt Engine (⭐2.5k)](https://github.com/microsoft/prompt-engine): Craft prompts for Large Language Models: [python (⭐199)](https://github.com/microsoft/prompt-engine-py) \[Jun 2022]
+*   [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/): Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python. An LLM Ochestrator, similar to LangChain. / [git (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023]
+*   [guidance (⭐18k)](https://github.com/microsoft/guidance): A guidance language for controlling large language models. Simple, intuitive syntax, based on Handlebars templating. Domain Specific Language (DSL) for handling model interaction. LangChain libaries but different approach rather than ochestration, particularly effective for implementing `Chain of Thought`. \[Nov 2022]
+*   [Azure Machine Learning Promt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow): Visual Designer for Prompt crafting. Use [Jinja (⭐10k)](https://github.com/pallets/jinja) as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐9k)](https://github.com/microsoft/promptflow) \[Jun 2023]
+*   [Prompt Engine (⭐2.5k)](https://github.com/microsoft/prompt-engine): Craft prompts for Large Language Models: [python (⭐204)](https://github.com/microsoft/prompt-engine-py) \[Jun 2022]
 *   [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat): TypeChat replaces prompt engineering with schema engineering. To build natural language interfaces using types. / [git (⭐8.1k)](https://github.com/microsoft/Typechat) \[Apr 2023]
 *   [DeepSpeed (⭐34k)](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. `Zero Redundancy Optimizer` \[May 2020]
-*   [LMOps (⭐3.4k)](https://github.com/microsoft/LMOps): a collection of tools for improving text prompts used as input to generative AI models. The toolkit includes [Promptist](https://arxiv.org/abs/2212.09611), which optimizes a user's text input for text-to-image generation, and [Structured Prompting](https://arxiv.org/abs/2212.06713). \[Dec 2022]
+*   [LMOps (⭐3.5k)](https://github.com/microsoft/LMOps): a collection of tools for improving text prompts used as input to generative AI models. The toolkit includes [Promptist](https://arxiv.org/abs/2212.09611), which optimizes a user's text input for text-to-image generation, and [Structured Prompting](https://arxiv.org/abs/2212.06713). \[Dec 2022]
 
 ### **Microsoft Copilot Product Lineup** / **Lucene based search engine with OpenAI Embedding**
 
@@ -55,34 +55,32 @@
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 
 *   Referece Application and Architecture
-    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog) 🏆
+    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
     *   [Azure Command Companion](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/azure-command-companion/ba-p/4005044): Harnessing the Power of OpenAI GPT-3.5 Turbo for Azure CLI Command Generation \[10 Dec 2023 ]
     *   [Chat with your Azure DevOps data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/chat-with-your-azure-devops-data/ba-p/4017784) \[10 Jan 2024]
     *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
     *   [Build language model pipelines with memory](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/guide/language-model-pipelines)
-    *   [NL to SQL Architecture Alternative](https://techcommunity.microsoft.com/t5/azure-architecture-blog/nl-to-sql-architecture-alternatives/ba-p/4136387) \[14 May 2024] / [Natural Language to SQL Console (⭐1.3k)](https://github.com/microsoft/kernel-memory/tree/NL2SQL/examples/200-dotnet-nl2sql)
-    *   [GPT-RAG (⭐776)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
+    *   [NL to SQL Architecture Alternative](https://techcommunity.microsoft.com/t5/azure-architecture-blog/nl-to-sql-architecture-alternatives/ba-p/4136387) \[14 May 2024] / [Natural Language to SQL Console (⭐1.4k)](https://github.com/microsoft/kernel-memory/tree/NL2SQL/examples/200-dotnet-nl2sql)
+    *   [GPT-RAG (⭐818)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
     *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
     *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
+    *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
+    *   [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137) \[20 Aug 2024]
 
-### **Langchain Feature Matrix & Cheetsheet** / DSPy optimizer
+### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
 
 *   [Feature Matrix](https://python.langchain.com/docs/get_started/introduction): LangChain Features
     *   [Feature Matrix: Snapshot in 2023 July](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/langchain-features-202307.png)
-*   [Awesome Langchain (⭐7.1k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
-*   [Cheetsheet (⭐6.5k)](https://github.com/gkamradt/langchain-tutorials): LangChain CheatSheet
+*   [Cheetsheet (⭐6.6k)](https://github.com/gkamradt/langchain-tutorials): LangChain CheatSheet
 *   [LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/): published by Pinecone
 
-### **Langchain vs Competitors** / **Prompting Frameworks**
+### **LangChain vs Competitors** / **Prompting Frameworks**
 
-*   [LangChain (⭐89k)](https://github.com/langchain-ai/langchain) \[Oct 2022] |  [LlamaIndex (⭐33k)](https://github.com/jerryjliu/llama_index) \[Nov 2022] |  [Microsoft Semantic Kernel (⭐20k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023] | [Microsoft guidance (⭐18k)](https://github.com/microsoft/guidance) \[Nov 2022] | [Azure ML Promt flow (⭐8.7k)](https://github.com/microsoft/promptflow) \[Jun 2023] | [DSPy (⭐14k)](https://github.com/stanfordnlp/dspy) \[Jan 2023]
+*   [LangChain (⭐91k)](https://github.com/langchain-ai/langchain) \[Oct 2022] |  [LlamaIndex (⭐34k)](https://github.com/jerryjliu/llama_index) \[Nov 2022] |  [Microsoft Semantic Kernel (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023] | [Microsoft guidance (⭐18k)](https://github.com/microsoft/guidance) \[Nov 2022] | [Azure ML Promt flow (⭐9k)](https://github.com/microsoft/promptflow) \[Jun 2023] | [DSPy (⭐16k)](https://github.com/stanfordnlp/dspy) \[Jan 2023]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
 *   [ChatGPT Function calling](https://platform.openai.com/docs/guides/gpt/function-calling) \[Jun 2023]
-    *   syntax the model has been trained on.
-        This means functions count against the model's context limit and are billed as input tokens.
-        If running into context limits, we suggest limiting the number of functions or the length of documentation you provide for function parameters.
     *   Azure OpenAI start to support function calling. [ref](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling#using-function-in-the-chat-completions-api)
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
@@ -95,30 +93,28 @@
 
 ### **GPT for Domain Specific** / **GPT series release date**
 
-*   [DeepSeek-Coder-V2 (⭐1.2k)](https://github.com/deepseek-ai/DeepSeek-Coder-V2): Open-source Mixture-of-Experts (MoE) code language model \[17 Jun 2024]
+*   [DeepSeek-Coder-V2 (⭐1.7k)](https://github.com/deepseek-ai/DeepSeek-Coder-V2): Open-source Mixture-of-Experts (MoE) code language model \[17 Jun 2024]
 
-### **LLMOps: Large Language Model Operations** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **LLMOps: Large Language Model Operations** / Math
 
-*   [OpenAI Evals (⭐14k)](https://github.com/openai/evals): A framework for evaluating large language models (LLMs) \[Mar 2023]
-*   [TruLens (⭐1.8k)](https://github.com/truera/trulens): Instrumentation and evaluation tools for large language model (LLM) based applications. \[Nov 2020]
-*   [Pezzo (⭐1.9k)](https://github.com/pezzolabs/pezzo): Open-source, developer-first LLMOps platform \[May 2023]
+*   [OpenAI Evals (⭐15k)](https://github.com/openai/evals): A framework for evaluating large language models (LLMs) \[Mar 2023]
+*   [TruLens (⭐1.9k)](https://github.com/truera/trulens): Instrumentation and evaluation tools for large language model (LLM) based applications. \[Nov 2020]
+*   [Pezzo (⭐2.3k)](https://github.com/pezzolabs/pezzo): Open-source, developer-first LLMOps platform \[May 2023]
 *   [Giskard](\(https://github.com/Giskard-AI/giskard\)): The testing framework for ML models, from tabular to LLMs \[Mar 2022]
-*   [traceloop openllmetry (⭐1.5k)](https://github.com/traceloop/openllmetry): Quality monitoring for your LLM applications. \[Sep 2023]
-*   [Language Model Evaluation Harness (⭐5.8k)](https://github.com/EleutherAI/lm-evaluation-harness): Over 60 standard academic benchmarks for LLMs. A framework for few-shot evaluation. \[Aug 2020]
+*   [traceloop openllmetry (⭐1.7k)](https://github.com/traceloop/openllmetry): Quality monitoring for your LLM applications. \[Sep 2023]
+*   [Language Model Evaluation Harness (⭐6.2k)](https://github.com/EleutherAI/lm-evaluation-harness): Over 60 standard academic benchmarks for LLMs. A framework for few-shot evaluation. \[Aug 2020]
 
 ## [2. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Conventions
 
-*   Any list item with a ![](https://img.shields.io/badge/ROS-2-34aec5) is [`ROS 2`](https://docs.ros.org/) compatible
+*   Any list item with ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros) badge is [`ROS 2`](https://docs.ros.org/) compatible
 
 ### LIDAR-other-sensor calibration / Object detection and object tracking
 
 *   [direct\_visual\_lidar\_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
-    *   [GitHub repository :octocat: (⭐626)](https://github.com/koide3/direct_visual_lidar_calibration) ![](https://img.shields.io/badge/ROS-2-34aec5)
-    *   [Paper :newspaper:](https://staff.aist.go.jp/k.koide/assets/pdf/icra2023.pdf)
-*   [OpenCalib :octocat: (⭐2.2k)](https://github.com/PJLab-ADG/SensorsCalibration) - A Multi-sensor Calibration Toolbox for Autonomous Driving
-    *   [Paper :newspaper:](https://arxiv.org/pdf/2205.14087)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐647)](https://github.com/koide3/direct_visual_lidar_calibration) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square\&logo=ros)
+    *   [Paper ![](https://img.shields.io/badge/paper-blue?style=flat-square\&logo=semanticscholar)](https://staff.aist.go.jp/k.koide/assets/pdf/icra2023.pdf)
 
 ## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
@@ -135,8 +131,8 @@
 
 ### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [awesome-utils-dev/angular (⭐129)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
-*   [awesome-angular (⭐86)](https://github.com/DaanDeSmedt/awesome-angular)
+*   [awesome-utils-dev/angular (⭐135)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
+*   [awesome-angular (⭐88)](https://github.com/DaanDeSmedt/awesome-angular)
 *   [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 
 ---

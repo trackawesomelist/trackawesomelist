@@ -16,7 +16,7 @@
 
 ### Framework Components
 
-*   [dayron (⭐159)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
+*   [dayron (⭐158)](https://github.com/inaka/Dayron) - A repository *similar* to `Ecto.Repo` that works with REST API requests instead of a database.
 
 ## [3. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md)
 

@@ -85,15 +85,15 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Squidex (⭐2k)](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+*   [Squidex (⭐2.2k)](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [statsd-csharp-client (⭐110)](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd (⭐17k)](https://github.com/etsy/statsd) server.
+*   [statsd-csharp-client (⭐111)](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd (⭐18k)](https://github.com/etsy/statsd) server.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Edi.Net (⭐400)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
+*   [Edi.Net (⭐442)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Shell Script Development
 
-*   [Bashmatic (⭐126)](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+*   [Bashmatic (⭐129)](https://github.com/kigster/bashmatic) - An easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -22,13 +22,13 @@
 
 ### Split and Window / Diagnostics
 
-*   [nvim-zh/colorful-winsep.nvim (⭐385)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+*   [nvim-zh/colorful-winsep.nvim (⭐396)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Performance
 
-*   [go-instrument (⭐154)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [go-instrument (⭐171)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐459)](https://github.com/lukechilds/zsh-better-npm-completion).
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐462)](https://github.com/lukechilds/zsh-better-npm-completion).
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

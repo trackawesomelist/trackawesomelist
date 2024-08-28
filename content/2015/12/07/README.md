@@ -96,7 +96,7 @@
 
 *   [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 *   [C++ Programming Q\&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
-*   [LeetCode Problems' Solutions written in C++ (⭐16k)](https://github.com/haoel/leetcode)
+*   [LeetCode Problems' Solutions written in C++ (⭐18k)](https://github.com/haoel/leetcode)
 
 ### Programming Languages/Frameworks/Platforms / C
 
@@ -119,7 +119,7 @@
 
 *   [Classic 'Fizz Buzz' interview question for Clojure developers](http://www.learningclojure.com/2014/05/fizz-buzz-interview-question.html)
 *   [Clojure Interview Questions for experienced devs](http://ita2zguide.blogspot.com.by/p/cc.html)
-*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐5)](https://github.com/dpetrovics/coding-exercises)
+*   [Coding exercises in Clojure, handy practice for technical interview questions (⭐7)](https://github.com/dpetrovics/coding-exercises)
 
 ### Programming Languages/Frameworks/Platforms / CSS
 
@@ -137,8 +137,8 @@
 
 ### Programming Languages/Frameworks/Platforms / Golang
 
-*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐464)](https://github.com/mrekucci/epi)
-*   [Solutions for some basic coding interview tasks written in Go (⭐76)](https://github.com/efischer19/golang_ctci)
+*   [Solutions for Elements of Programming Interviews problems written in Golang (⭐522)](https://github.com/mrekucci/epi)
+*   [Solutions for some basic coding interview tasks written in Go (⭐86)](https://github.com/efischer19/golang_ctci)
 
 ### Programming Languages/Frameworks/Platforms / HTML
 
@@ -156,7 +156,7 @@
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
-*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐439)](https://github.com/donbeave/interview)
+*   [Data Structures and Algorithms in Java which can be useful in interview process (⭐456)](https://github.com/donbeave/interview)
 *   [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
 *   [Top 10 Tricky Java interview questions and Answers](http://java67.blogspot.com.by/2012/09/top-10-tricky-java-interview-questions-answers.html)
 *   [Top 40 Core Java Interview Questions Answers from Telephonic Round](http://java67.blogspot.sg/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)
@@ -216,7 +216,7 @@
 ### Programming Languages/Frameworks/Platforms / Scala
 
 *   [A list of Frequently Asked Questions and their answers, sorted by category](http://www.scala-lang.org/old/faq)
-*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐368)](https://github.com/Jarlakxen/Scala-Interview-Questions)
+*   [A list of helpful Scala related questions you can use to interview potential candidates (⭐470)](https://github.com/Jarlakxen/Scala-Interview-Questions)
 *   [How Scala Developers Are Being Interviewed](http://programmers.stackexchange.com/questions/58145/how-scala-developers-are-being-interviewed)
 
 ### Programming Languages/Frameworks/Platforms / Shell
@@ -260,7 +260,7 @@
 
 *   [Common Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-common-questions/)
 *   [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
-*   [Schema, Questions & Solutions for SQL Exercising (⭐1.1k)](https://github.com/XD-DENG/SQL-exercise)
+*   [Schema, Questions & Solutions for SQL Exercising (⭐1.3k)](https://github.com/XD-DENG/SQL-exercise)
 
 ### OS / Linux
 
@@ -285,7 +285,7 @@
 
 ### Comprehensive lists / Windows
 
-*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐56k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+*   [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore (⭐59k)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 *   [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 
 ### Design Patterns / Windows

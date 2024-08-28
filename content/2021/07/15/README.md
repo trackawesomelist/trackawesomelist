@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [SharpPcap (⭐1.2k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+*   [SharpPcap (⭐1.3k)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 

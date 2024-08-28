@@ -136,7 +136,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐191)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐193)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

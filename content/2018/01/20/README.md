@@ -62,7 +62,7 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [NuGetPackageExplorer (⭐2.3k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
+*   [NuGetPackageExplorer (⭐2.4k)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI.
 
 ## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

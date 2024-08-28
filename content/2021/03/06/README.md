@@ -103,7 +103,7 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐105k)](https://github.com/nodejs/node)
+*   [Repository (⭐106k)](https://github.com/nodejs/node)
 
 ### Resources / Videos
 

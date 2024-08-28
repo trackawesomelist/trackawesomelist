@@ -10,7 +10,7 @@
 
 ### Extensions
 
-*   [Z.ExtensionMethods (⭐1.5k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
+*   [Z.ExtensionMethods (⭐1.6k)](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## [2. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -40,11 +40,11 @@
 
 ### Geolocation
 
-*   [topo (⭐148)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+*   [topo (⭐149)](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ### Languages
 
-*   [Monkey (⭐135)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
+*   [Monkey (⭐136)](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - Elixir implementation of an interpreter and REPL for the js-like Monkey programming language.
 
 ### Miscellaneous
 
@@ -78,7 +78,7 @@ git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [EntryPoint (⭐138)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
+*   [EntryPoint (⭐137)](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI (Command Line) Argument Parser for .Net Core & .Net Framework 4.5+.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,51 +24,25 @@
 
 *   [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Dojo
-
-*   [Dojo: The Definitive Guide](https://www.oreilly.com/library/view/dojo-the-definitive/9780596516482/) - Matthew A. Russell
-
-### JavaScript / Elm
-
-*   [Elm Tutorial](https://legacy.gitbook.com/book/sporto/elm-tutorial/details)
-
-### JavaScript / Node.js
-
-*   [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
-
-### JavaScript / React
-
-*   [React-Bits (⭐17k)](https://github.com/vasanthk/react-bits)
-
-### JavaScript / Vue.js
-
-*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
-
-### MATLAB / PicoLisp
-
-*   [Freshman Engineering Problem Solving with MATLAB](https://cnx.org/exports/3a643c1f-c1ba-4c2a-8065-317a1f2b1add@18.1.pdf/freshman-engineering-problem-solving-with-matlab-18.1.pdf) (PDF)
-
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
 *   [lsp (⭐102)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 
-## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### UI
 
 *   [*Modern Auto Layout* by Keith Harrison](https://gum.co/albook)
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Videos / Other
 
 *   [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - Tips on making your app feel more native on macOS, Windows, and Linux without sacrificing your own style.
 
-## [8. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [7. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Codelabs/Courses
 
@@ -77,13 +51,13 @@
 *   [Smart Home Local Execution](https://codelabs.developers.google.com/codelabs/smarthome-local/index.html)
 *   [Smart Home Washer](https://codelabs.developers.google.com/codelabs/smarthome-washer/index.html)
 
-## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [8. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Network
 
 *   [ModernHttpClient (⭐126)](https://github.com/alexrainman/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 
-## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Firmware
 
@@ -141,13 +115,13 @@
 *   [TinyUPnP (⭐84)](https://github.com/ofekp/TinyUPnP) - A lightweight UPnP IGD library for automatic port forwarding on the 8266 and 32.
 *   [Esp32SSHClient (⭐30)](https://github.com/J-Rios/Arduino-esp32sshclient) - A library that implements a SSH client in the ESP32.
 
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Ruby SDK
 

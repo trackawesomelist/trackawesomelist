@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [ConsoleTableExt (⭐322)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+*   [ConsoleTableExt (⭐327)](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
 
 ## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

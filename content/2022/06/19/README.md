@@ -28,7 +28,7 @@
 
 ### Miscellaneous
 
-*   [Emoji picker (⭐15)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
+*   [Emoji picker (⭐16)](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

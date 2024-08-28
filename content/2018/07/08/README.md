@@ -37,7 +37,7 @@
 
 ### WPF
 
-*   [Extended WPF Toolkit™ (⭐3.8k)](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
+*   [Extended WPF Toolkit™ (⭐3.9k)](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 
 ---
 

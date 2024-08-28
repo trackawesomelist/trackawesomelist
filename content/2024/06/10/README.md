@@ -10,7 +10,7 @@
 
 ### Open Source / Community
 
-*   [@lazarv/react-server (⭐46)](https://github.com/lazarv/react-server) - A React meta-framework.
+*   [@lazarv/react-server (⭐78)](https://github.com/lazarv/react-server) - A React meta-framework.
 
 ## [2. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -41,7 +41,7 @@
 ### Rust Libraries
 
 *   [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
-*   [Rust Bitcoin (⭐1.9k)](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
+*   [Rust Bitcoin (⭐2k)](https://github.com/rust-bitcoin/rust-bitcoin) - support for de/serialization, parsing and executing on data-structures and network messages.
 *   [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
 
 ### Full nodes

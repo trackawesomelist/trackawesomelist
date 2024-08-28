@@ -82,8 +82,8 @@
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [CoreWF (⭐17)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
-*   [workflow-core (⭐4.8k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
+*   [CoreWF (⭐18)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
+*   [workflow-core (⭐5.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

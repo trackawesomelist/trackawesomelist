@@ -10,7 +10,7 @@
 
 ### Web
 
-*   [west (⭐8)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
+*   [west (⭐9)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 
 ## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -20,11 +20,11 @@
 
 ### Optimization
 
-*   [SmallStrings (⭐105)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
+*   [SmallStrings (⭐119)](https://github.com/EmergeTools/SmallStrings) - Reduce localized .strings file sizes by 80%.
 
 ### Other Testing
 
-*   [ETTrace (⭐513)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
+*   [ETTrace (⭐526)](https://github.com/EmergeTools/ETTrace) - Locally measure performance of your app, without Xcode or Instruments.
 
 ### Alert & Action Sheet
 
@@ -46,13 +46,13 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐93)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐143)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / CLI tools
 
-*   [decompose (⭐76)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
+*   [decompose (⭐80)](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments. By [@s0rg](https://github.com/s0rg)
 
 ---
 

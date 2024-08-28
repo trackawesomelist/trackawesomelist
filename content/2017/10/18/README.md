@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2017
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -131,12 +131,6 @@
 *   [Hopper](https://www.hopperapp.com/) - The macOS and Linux Disassembler.
 *   [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler.
 *   [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg) - multipurpose debugger for the Microsoft Windows computer operating system, used to debug user mode applications, device drivers, and the kernel-mode memory dumps.
-
-## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Clojure / Non-X86
-
-*   [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 
 ---
 

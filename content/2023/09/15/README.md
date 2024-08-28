@@ -21,7 +21,7 @@
 
 ### Databases Implemented in Go
 
-*   [LinDB (⭐2.9k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
+*   [LinDB (⭐3k)](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 
 ## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐294)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐321)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -61,11 +61,11 @@
 
 ### Applications / Games
 
-*   [maras-archive/rsnake (⭐129)](https://github.com/maras-archive/rsnake) - Snake.
+*   [maras-archive/rsnake (⭐132)](https://github.com/maras-archive/rsnake) - Snake.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐8.8k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐11k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Plugins and scripts / Various Godot versions
 
-*   [Orchestrator (⭐746)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
+*   [Orchestrator (⭐875)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games (Godot 4.x).
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-cdn2 (⭐73)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
+*   [vite-plugin-cdn2 (⭐75)](https://github.com/nonzzz/vite-plugin-cdn) - Replace module with CDN.
 
 ## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

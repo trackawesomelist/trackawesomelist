@@ -41,7 +41,7 @@
 
 ### PDF
 
-*   [Squid (⭐219)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
+*   [Squid (⭐221)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Text and Numbers
 
-*   [money (⭐807)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐822)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

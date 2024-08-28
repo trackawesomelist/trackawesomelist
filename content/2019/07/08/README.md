@@ -50,7 +50,7 @@
 
 ### CLOS extensions
 
-*   [specialization-store (⭐29)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
+*   [specialization-store (⭐30)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.2k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 
 ---
 

@@ -73,21 +73,21 @@
 
 *   [JavaScript (⭐33k)](https://github.com/sorrycc/awesome-javascript#readme)
     *   [Promises (⭐1.6k)](https://github.com/wbinnssmith/awesome-promises#readme)
-    *   [Standard Style (⭐388)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+    *   [Standard Style (⭐392)](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
     *   [Must Watch Talks (⭐13k)](https://github.com/bolshchikov/js-must-watch#readme)
     *   [Tips (⭐13k)](https://github.com/loverajoel/jstips#readme)
-    *   [Network Layer (⭐551)](https://github.com/Kikobeats/awesome-network-js#readme)
+    *   [Network Layer (⭐552)](https://github.com/Kikobeats/awesome-network-js#readme)
     *   [Micro npm Packages (⭐4.6k)](https://github.com/parro-it/awesome-micro-npm-packages#readme)
     *   [Mad Science npm Packages (⭐1.1k)](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
     *   [Maintenance Modules (⭐351)](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-    *   [npm (⭐4.4k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-    *   [AVA (⭐346)](https://github.com/avajs/awesome-ava#readme) - Test runner.
-    *   [ESLint (⭐4.2k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+    *   [npm (⭐4.5k)](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+    *   [AVA (⭐347)](https://github.com/avajs/awesome-ava#readme) - Test runner.
+    *   [ESLint (⭐4.3k)](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
     *   [Functional Programming (⭐6k)](https://github.com/stoeffel/awesome-fp-js#readme)
-    *   [Observables (⭐334)](https://github.com/sindresorhus/awesome-observables#readme)
-    *   [npm scripts (⭐722)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    *   [30 Seconds of Code (⭐120k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-    *   [Ponyfills (⭐54)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+    *   [Observables (⭐335)](https://github.com/sindresorhus/awesome-observables#readme)
+    *   [npm scripts (⭐721)](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+    *   [30 Seconds of Code (⭐121k)](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+    *   [Ponyfills (⭐55)](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
 
 ## [5. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
@@ -239,12 +239,6 @@ Language: English
 Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
 Language: English \ <br>
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_dataisbeautiful.webp">
-
-[**r/DataIsBeautiful**](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
-Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
-Language: English \ <br>
-
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_data_share.webp">
 
 [**The Data Share**](https://discord.com/invite/eaPVRW3) \
@@ -257,15 +251,17 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs_career_hackers.webp">
 
-[**CS Career Hackers**](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
-Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
+[**CS Career Hub**](https://discord.com/invite/cscareerhub) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://cscareerhub.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/cscareerhub) \
+Notable Channels: `#big-n-discussion`, `#job-search-blogs`, `#career-questions`, `#resume-review`, `#experienced`, `#students`, `#communication`, `#hiring`, `#for-hire`, `#devops`, `#programming-challenges` \
 Language: English
 
 [<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
 
-All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
-is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
-about the notable development kit.
+Tools and libraries needed in your toolbelt to build a Discord bot or automation script through Discord APIs. The list
+for that itself is quite long and diverse that it calls for its own awesome list. This unaffiliated [compilation of
+Discord API libraries](https://libs.advaith.io/) (with comparisons) would be a great start to look for the right tool
+for your Discord project. There is also an [official wiki](https://www.reddit.com/r/discordapp/wiki/developers) (though
+maybe not frequently maintained) that lists similar tools with links to respective Discord servers.
 
 [<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
 
@@ -277,7 +273,7 @@ To attribute this awesome list (as restricted by the license) see [how to attrib
 
 ### Web Servers
 
-*   [Falcon (⭐2.5k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
+*   [Falcon (⭐2.6k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
 ---
 

@@ -34,7 +34,7 @@
 
 ### Others
 
-*   [.Net Code Katas (⭐19)](https://github.com/AlanBarber/CodeKatas)
+*   [.Net Code Katas (⭐20)](https://github.com/AlanBarber/CodeKatas)
 
 ---
 

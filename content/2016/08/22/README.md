@@ -73,7 +73,7 @@
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
-*   [Smidge (⭐344)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
+*   [Smidge (⭐362)](https://github.com/Shazwazza/Smidge/) - Lightweight runtime CSS/JavaScript file minification, combination, compression & management library for ASP.NET Core.
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -81,11 +81,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [datatables (⭐303)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
+*   [datatables (⭐301)](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [Elasticsearch.Net & NEST (⭐3.5k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
+*   [Elasticsearch.Net & NEST (⭐3.6k)](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
 
 ---
 

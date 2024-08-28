@@ -29,7 +29,7 @@
 
 ### Programming Languages / C++
 
-*   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
+*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -320,7 +320,7 @@
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐382)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐383)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### IoC
 
@@ -336,7 +336,7 @@
 
 ### Testing
 
-*   [Bogus (⭐8.5k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐8.6k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1.2k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator

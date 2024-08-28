@@ -47,11 +47,11 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Caprine (⭐6.9k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Caprine (⭐7k)](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Audio and Video Tools / File Sharing
 
-*   [Gifski (⭐7.6k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
+*   [Gifski (⭐7.7k)](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 
 ### Utilities / Productivity
 
@@ -290,7 +290,7 @@
 *   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-*   [learnyoubash (⭐738)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+*   [learnyoubash (⭐742)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 
 ### Command-Line Productivity
 
@@ -298,7 +298,7 @@
 *   [bashhub (⭐1.2k)](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 *   [bashmarks (⭐1.9k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
 *   [commacd (⭐360)](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-*   [has (⭐635)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+*   [has (⭐641)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 *   [hstr (⭐4k)](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 *   [qfc (⭐574)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
 
@@ -309,10 +309,10 @@
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up macOS terminal.
 *   [git-prompt (⭐327)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
 *   [gittify (⭐71)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
-*   [liquidprompt (⭐4.4k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+*   [liquidprompt (⭐4.5k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 *   [mysql-colorize (⭐101)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
 *   [oh-my-git (⭐3.7k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
-*   [progress-bar.sh (⭐233)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
+*   [progress-bar.sh (⭐234)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 *   [bash-sensible (⭐2k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
 
@@ -336,13 +336,13 @@
 ### Applications
 
 *   [bashblog (⭐1.6k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
-*   [pushbullet-bash (⭐232)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
+*   [pushbullet-bash (⭐233)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
 *   [todo.sh (⭐5.5k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 *   [cheapci (⭐184)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
 
 ### Games
 
-*   [bash2048 (⭐896)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
+*   [bash2048 (⭐897)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
 *   [minesweeper (⭐63)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
 
 ### Website
@@ -365,14 +365,14 @@
 
 ### Books
 
-*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐122)](https://github.com/yfain/getts)
+*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐126)](https://github.com/yfain/getts)
 *   :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
 
 ## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
-*   [Angular Webapp secured with Keycloak (⭐358)](https://github.com/CodepediaOrg/bookmarks.dev)
+*   [Angular Webapp secured with Keycloak (⭐359)](https://github.com/CodepediaOrg/bookmarks.dev)
 
 ### Miscellaneous
 
@@ -402,33 +402,33 @@
 ### Python
 
 *   [cl4py (⭐93)](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT](https://opensource.org/licenses/MIT).
-*   [py4cl (⭐224)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
+*   [py4cl (⭐226)](https://github.com/bendudson/py4cl) - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT](https://opensource.org/licenses/MIT).
     *   its fork [py4cl2 (⭐41)](https://github.com/digikar99/py4cl2), at first less stable, now more developped and faster.
-    *   [py4cl2-cffi (⭐35)](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
+    *   [py4cl2-cffi (⭐37)](https://github.com/digikar99/py4cl2-cffi) - CFFI based alternative to py4cl2.
         *   "When capable, the CFFI approach can be a 50 times faster than py4cl2."
-*   [cl-python (⭐365)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
+*   [cl-python (⭐366)](https://github.com/metawilm/cl-python) - an implementation of Python in Common Lisp. [LLGPL](http://opensource.franz.com/preamble.html), not under active development.
 
 ### Utils / Third-party APIs
 
-*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐727)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman (⭐731)](https://github.com/gearman/gearmand/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [IL2C (⭐376)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
+*   [IL2C (⭐397)](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Baget (⭐2.4k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
+*   [Baget (⭐2.6k)](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
 
 ### Frameworks, Libraries and Tools / ORM
 
-*   [FreeSql (⭐3.8k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
+*   [FreeSql (⭐4.1k)](https://github.com/2881099/FreeSql) - a convenient ORM in dotnet,supports Mysql, Postgresql, SqlServer, Oracle and Sqlite.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Linq\_Faster (⭐736)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
+*   [Linq\_Faster (⭐755)](https://github.com/jackmott/LinqFaster) - Linq-like extension functions for Arrays, Span<T>, and List<T> that are faster and allocate less.
 
 ### Books / Workflow
 
@@ -474,7 +474,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐446)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐456)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [34. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -487,7 +487,7 @@
 
 ### Open Source / Other
 
-*   [Tockler (⭐847)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐863)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -551,15 +551,15 @@
 
 ### Containers
 
-*   [dynamic\_bitset (⭐149)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
+*   [dynamic\_bitset (⭐151)](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. \[MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐864)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐886)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Internationalization
 
-*   [utf8proc (⭐998)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
+*   [utf8proc (⭐1k)](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. \[MIT]
 
 ### Web Application Framework
 
@@ -621,15 +621,15 @@
 
 *   [Android (⭐11k)](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 *   [React Native (⭐34k)](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-*   [Adafruit IO (⭐56)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [Adafruit IO (⭐58)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ### Programming Languages
 
-*   [C/C++ (⭐57k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐58k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Front-End Development
 
-*   [Storybook (⭐364)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐367)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ### Back-End Development
 

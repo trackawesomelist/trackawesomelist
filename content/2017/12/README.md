@@ -166,15 +166,15 @@
 
 ### Apps / StreamField
 
-*   [Wagtail ClearStream (⭐34)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
+*   [Wagtail ClearStream (⭐35)](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐384)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐392)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
-*   [Wagtail Gridder (⭐65)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐67)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 
 ## [17. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -232,21 +232,21 @@ git log -S'<a term in the source>'
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
+*   [MiniProfiler (⭐2.9k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+*   [Rebus (⭐2.3k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 
 ## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### E-Commerce and Payments
 
-*   [SimplCommerce (⭐4.1k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
+*   [SimplCommerce (⭐4.2k)](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐2k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐2.1k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -314,7 +314,7 @@ Webpage: <http://www.lerdevagar.com/>
 *   [vue-masked-input (⭐455)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.3k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐26)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐458)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐462)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
@@ -343,7 +343,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐600)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐599)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -479,7 +479,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Task management
 
-*   [sam (⭐94)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐95)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

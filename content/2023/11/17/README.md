@@ -16,7 +16,7 @@
 
 ### Utility
 
-*   [votp (⭐14)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
+*   [votp (⭐15)](https://github.com/OdaiGH/votp) - TOTP and HOTP implementation in v.
 
 ## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -49,7 +49,7 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐89k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐91k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
@@ -95,7 +95,7 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [polarssql (⭐21)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+*   [polarssql (⭐24)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Resources / Talks and videos
 
@@ -105,7 +105,7 @@
 
 ### Algorithms and Data Structures
 
-*   [ODiff (⭐1.8k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
+*   [ODiff (⭐2k)](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 
 ### Code Analysis and Linters
 
@@ -117,7 +117,7 @@
 
 ### Serialization
 
-*   [atdgen (⭐295)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐311)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

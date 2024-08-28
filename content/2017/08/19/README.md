@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML-From-Scratch (⭐23k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+*   [ML-From-Scratch (⭐24k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 
 ## [2. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Testing / Scala
 
-*   [Goreplay (⭐18k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐19k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 

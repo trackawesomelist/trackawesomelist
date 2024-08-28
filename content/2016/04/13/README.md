@@ -10,7 +10,7 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐421)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐422)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 

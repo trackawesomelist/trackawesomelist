@@ -16,7 +16,7 @@
 
 ### Libraries for driving the protocol (or a layer above)
 
-*   PHP: [chrome-devtools-protocol (⭐168)](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
+*   PHP: [chrome-devtools-protocol (⭐170)](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 

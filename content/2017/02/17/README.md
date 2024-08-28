@@ -58,7 +58,7 @@
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.4k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.5k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

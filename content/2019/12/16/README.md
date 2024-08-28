@@ -40,13 +40,13 @@
 
 ### Development Environment
 
-*   [GitHub Actions (⭐24k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+*   [GitHub Actions (⭐25k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
 ## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Android Malware Sandbox (⭐269)](https://github.com/Areizen/Android-Malware-Sandbox)
+*   [Android Malware Sandbox (⭐278)](https://github.com/Areizen/Android-Malware-Sandbox)
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 

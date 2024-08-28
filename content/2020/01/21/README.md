@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐690)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐702)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -88,12 +88,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐766)](https://github.com/koute/pinky) - A NES emulator
+    *   [koute/pinky (⭐767)](https://github.com/koute/pinky) - A NES emulator
     *   [pcwalton/sprocketnes (⭐749)](https://github.com/pcwalton/sprocketnes) - A NES emulator
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐601)](https://github.com/mathall/rim) - Vim-like text editor.
+*   [mathall/rim (⭐606)](https://github.com/mathall/rim) - Vim-like text editor.
 
 ### Applications / Text processing
 
@@ -108,8 +108,8 @@
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐8.9k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐357)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
+*   [Nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear)
+    *   [nuklear-rust (⭐359)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
 
 ### Libraries / Logging
 
@@ -147,7 +147,7 @@ And run this to remove the attributes:
 
 ### For Electron / Other
 
-*   [electronmon (⭐129)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+*   [electronmon (⭐138)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 
 ### Articles / Other
 
@@ -170,7 +170,7 @@ And run this to remove the attributes:
 ### Programming Languages
 
 *   [Common Lisp (⭐2.5k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐195)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+    *   [Learning (⭐194)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
@@ -182,7 +182,7 @@ And run this to remove the attributes:
 
 ### Events
 
-*   [Creative Tech Events (⭐148)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐153)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

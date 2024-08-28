@@ -42,7 +42,7 @@
 
 ### Logging
 
-*   [Exceptionless (⭐551)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐550)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## [3. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

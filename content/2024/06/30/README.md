@@ -10,13 +10,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [rachartier/tiny-inline-diagnostic.nvim (⭐51)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
+*   [rachartier/tiny-inline-diagnostic.nvim (⭐199)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 
 ## [2. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
-*   [Binary Synth (⭐43)](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
+*   [Binary Synth (⭐52)](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
 
 ---
 

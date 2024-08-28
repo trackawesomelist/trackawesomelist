@@ -16,7 +16,7 @@
 
 ### Testing
 
-*   [Alcotest (⭐416)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐443)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
 ## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
@@ -48,13 +48,13 @@
 ### Packages / State management
 
 *   [ember-buffered-proxy (⭐166)](https://github.com/yapplabs/ember-buffered-proxy)
-*   [ember-changeset (⭐430)](https://github.com/poteto/ember-changeset)
-*   [ember-state-services (⭐228)](https://github.com/stefanpenner/ember-state-services)
-*   [ember-time-machine (⭐110)](https://github.com/offirgolan/ember-time-machine)
+*   [ember-changeset (⭐432)](https://github.com/poteto/ember-changeset)
+*   [ember-state-services (⭐226)](https://github.com/stefanpenner/ember-state-services)
+*   [ember-time-machine (⭐108)](https://github.com/offirgolan/ember-time-machine)
 
 ### Packages / Infinite Scroll
 
-*   [ember-infinity (⭐375)](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
+*   [ember-infinity (⭐377)](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
 
 ### Packages / Testing
 
@@ -62,7 +62,7 @@
 
 ### Packages / Articles
 
-*   [Error Handling (⭐127)](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
+*   [Error Handling (⭐124)](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
 
 ### Packages / Articles about Data
 

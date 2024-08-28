@@ -26,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-persian-datetime-picker (⭐588)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
+*   [vue-persian-datetime-picker (⭐586)](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 
 ### Components & Libraries / UI Utilities
 
@@ -60,21 +60,21 @@
 
 ### Packages / Automation
 
-*   [ember-cli-dependency-lint (⭐79)](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
+*   [ember-cli-dependency-lint (⭐83)](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
 
 ### Packages / End-user customization
 
-*   [ember-wormhole (⭐287)](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
+*   [ember-wormhole (⭐284)](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
 
 ### Packages / Helpers
 
-*   [ember-cli-string-helpers (⭐72)](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
+*   [ember-cli-string-helpers (⭐75)](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
 
 ### Packages / Articles
 
-*   [A collection of links that summarize EmberConf 2017 (⭐99)](https://github.com/poteto/emberconf-2017)
-*   [A collection of links that summarize EmberConf 2016 (⭐269)](https://github.com/poteto/emberconf-2016)
-*   [A collection of links that summarize EmberConf 2015 (⭐245)](https://github.com/poteto/emberconf-2015)
+*   [A collection of links that summarize EmberConf 2017 (⭐101)](https://github.com/poteto/emberconf-2017)
+*   [A collection of links that summarize EmberConf 2016 (⭐268)](https://github.com/poteto/emberconf-2016)
+*   [A collection of links that summarize EmberConf 2015 (⭐244)](https://github.com/poteto/emberconf-2015)
 
 ### Packages / Videos
 

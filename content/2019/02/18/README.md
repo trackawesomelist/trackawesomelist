@@ -85,14 +85,14 @@
 ### Algorithms and Data Structures
 
 *   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
-*   [Ke (⭐49)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+*   [Ke (⭐52)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐21)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 ## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Notable (⭐22k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Notable (⭐23k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Articles / Other
 
@@ -114,11 +114,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [impromptu-interface (⭐639)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
+*   [impromptu-interface (⭐655)](https://github.com/ekonbenefits/impromptu-interface) - Static interface to dynamic implementation (duck casting). Uses the DLR combined with Reflect.Emit.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [scoop (⭐19k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+*   [scoop (⭐21k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ---
 

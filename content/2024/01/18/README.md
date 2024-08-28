@@ -10,7 +10,7 @@
 
 ### Examples/Templates
 
-*   [k6-rollup-example (⭐3)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
+*   [k6-rollup-example (⭐4)](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.
 
 ## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -20,14 +20,14 @@
 
 ### Projects / Boilerplate
 
-*   [Falco (⭐329)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+*   [Falco (⭐348)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐3.1k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐472)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐3.2k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
+*   [Radix Svelte (⭐473)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -37,9 +37,9 @@
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Science Logology / Laboratory Automation
+### Science Logology / AI Assisted Research
 
-*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203\&hl=en\&as_sdt=0,5)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
+*   [Autonomous chemical research with large language models](https://www.nature.com/articles/s41586-023-06792-0) - ***Nature***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8097577445064259203)]. An artificial intelligence system driven by GPT-4 that autonomously designs, plans and performs complex experiments by incorporating large language models empowered by tools such as internet and documentation search, code execution and experimental automation.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

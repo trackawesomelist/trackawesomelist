@@ -173,7 +173,7 @@
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
-    *   [LibMan CLI (⭐422)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
+    *   [LibMan CLI (⭐449)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
 ## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

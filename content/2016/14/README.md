@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2016
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -159,19 +159,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [MarionetteJS + Brunch + Babel/ES6 (⭐14)](https://github.com/denar90/brunch-with-marionettejs)
 
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### PHP / PicoLisp
-
-*   [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
-
-### Spark / Play Scala
-
-*   [Databricks Spark Knowledge Base](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)
-*   [Databricks Spark Reference Applications](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
-*   [Mastering Apache Spark](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
-
-## [17. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [16. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -181,7 +169,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [Laravel Langman (⭐869)](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 
-## [18. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [17. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
@@ -191,26 +179,26 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [spree-refinery-authentication (⭐11)](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. \[GPLv3]
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Static Site Generation
 
 *   [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
     *   [Awesome Jekyll (⭐583)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 
-## [21. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Percussion Synthesis Using Web Audio (⭐35)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+*   [Percussion Synthesis Using Web Audio (⭐36)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
-## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -221,7 +209,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
-## [23. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [22. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Format Extensions
 
@@ -231,7 +219,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
-## [24. Tips](/content/git-tips/tips/week/README.md)
+## [23. Tips](/content/git-tips/tips/week/README.md)
 
 ## View the GPG signatures in the commit log
 
@@ -249,13 +237,13 @@ git config --global --unset <entry-name>
 git checkout --orphan <branch_name>
 ```
 
-## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
 *   [TiKV (⭐13k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 
-## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -326,32 +314,32 @@ git checkout --orphan <branch_name>
 
 
 
-## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [26. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_36):metal:
 
-## [28. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [27. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
 
-## [29. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [28. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### General
 
 *   `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
-## [30. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [29. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
 *   [Facebook WebDriver (⭐4.9k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 *   [Selenium Setup (⭐27)](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
 
-## [31. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [30. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / ListView
 
@@ -361,13 +349,13 @@ git checkout --orphan <branch_name>
 
 *   [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
 
-## [32. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [Mining visualization](http://www.yogh.io/#mine:last)
 
-## [33. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [32. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -399,17 +387,17 @@ git checkout --orphan <branch_name>
 
 
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Documentation
 
-*   [DocFX (⭐3.9k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+*   [DocFX (⭐4k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ### Tools
 
 *   [Myrtille (⭐1.8k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
-## [35. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [34. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -430,13 +418,13 @@ git checkout --orphan <branch_name>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-light.png" width="725">
 
-## [36. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Use / Platforms
 
 *   **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 
-## [37. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [36. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Studying / Useful Materials
 
@@ -467,7 +455,7 @@ git checkout --orphan <branch_name>
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -481,7 +469,7 @@ git checkout --orphan <branch_name>
 
 *   [TextAttributes (⭐2.2k)](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -493,13 +481,13 @@ git checkout --orphan <branch_name>
 
 ### Logging
 
-*   [logster (⭐203)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐205)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 
 *   [exrm\_deb (⭐75)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 
-## [40. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [39. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Free and Open Source Libraries
 
@@ -509,7 +497,7 @@ git checkout --orphan <branch_name>
 *   [Smoothie Charts (⭐2.2k)](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 *   [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
-## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tutorials
 
@@ -524,48 +512,48 @@ git checkout --orphan <branch_name>
 
 *   [Example tmux config (⭐1.8k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 *   [practical tmux](https://mutelight.org/practical-tmux)
-*   [tmux-extra (⭐115)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
+*   [tmux-extra (⭐117)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 
 ### Tools and session management
 
 *   [powerline (⭐14k)](https://github.com/powerline/powerline) Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux
 *   [tmuxifier (⭐1.2k)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
-*   [tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
+*   [tmuxinator (⭐13k)](https://github.com/tmuxinator/tmuxinator) Manage complex tmux sessions easily
 
 ### Plugins
 
-*   [tmux2html (⭐690)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐703)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-    *   [tmux-continuum (⭐3.1k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+    *   [tmux-continuum (⭐3.2k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
     *   [tmux-copycat (⭐1.1k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐295)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-fpp (⭐301)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
     *   [tmux-logging (⭐1k)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐609)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐729)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-open (⭐622)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐739)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
     *   [tmux-resurrect (⭐11k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐403)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐525)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
-    *   [tmux-tpm (⭐11k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐260)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-sessionist (⭐408)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐533)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-tpm (⭐12k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
+    *   [tmux-urlview (⭐262)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
     *   [tmux-yank (⭐2.6k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
-*   [tmux-example-plugin (⭐42)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
+*   [tmux-example-plugin (⭐44)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 *   [tmux-test (⭐16)](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
 ### Miscellaneous / Development and testing
 
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-*   [vim-tmux (⭐331)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+*   [vim-tmux (⭐330)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
-## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / A individuals
 
 *   Abu Ashraf Masnun <http://masnun.com/>
 
-## [43. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -575,7 +563,7 @@ git checkout --orphan <branch_name>
 
 ### Table of Contents / Routers
 
-*   [Route (⭐641)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+*   [Route (⭐645)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
 ### Table of Contents / Static Site Generators
 
@@ -593,12 +581,12 @@ git checkout --orphan <branch_name>
 
 ### Table of Contents / URL
 
-*   [Purl (⭐907)](https://github.com/jwage/purl) - A URL manipulation library.
+*   [Purl (⭐906)](https://github.com/jwage/purl) - A URL manipulation library.
 *   [Uri (⭐1k)](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Table of Contents / Email
 
-*   [Email Reply Parser (⭐632)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐638)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Fetch (⭐502)](https://github.com/tedious/Fetch) - An IMAP library.
 *   [PHPMailer (⭐21k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 
@@ -635,7 +623,7 @@ git checkout --orphan <branch_name>
 *   [Code Climate](https://codeclimate.com) - An automated code review.
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-*   [PHPQA (⭐564)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+*   [PHPQA (⭐566)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 *   [UBench (⭐566)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Table of Contents / Architectural
@@ -644,7 +632,7 @@ git checkout --orphan <branch_name>
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHP Console (⭐528)](https://github.com/Seldaek/php-console) - A web debugging console.
+*   [PHP Console (⭐529)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 *   [xDebug (⭐3.1k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 *   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -655,7 +643,7 @@ git checkout --orphan <branch_name>
 
 ### Table of Contents / Date and Time
 
-*   [Moment.php (⭐972)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+*   [Moment.php (⭐973)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ### Table of Contents / Event
 
@@ -685,7 +673,7 @@ git checkout --orphan <branch_name>
 
 ### Table of Contents / Queue
 
-*   [BunnyPHP (⭐694)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+*   [BunnyPHP (⭐698)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 *   [Tarantool Queue (⭐63)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 *   [Thumper (⭐276)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
@@ -697,11 +685,11 @@ git checkout --orphan <branch_name>
 
 *   [Cilex (⭐622)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 *   [CLI Menu (⭐1.9k)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
-*   [CLIFramework (⭐436)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
+*   [CLIFramework (⭐437)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 *   [CLImate (⭐1.9k)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
-*   [GetOptionKit (⭐148)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
+*   [GetOptionKit (⭐150)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 *   [PsySH (⭐9.7k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
-*   [ShellWrap (⭐745)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+*   [ShellWrap (⭐746)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -720,9 +708,9 @@ git checkout --orphan <branch_name>
 
 *   [Agent (⭐4.5k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 *   [Jieba-PHP (⭐1.3k)](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-*   [Mobile-Detect (⭐10k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
+*   [Mobile-Detect (⭐11k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 *   [Patchwork UTF-8 (⭐79)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-*   [URLify (⭐671)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+*   [URLify (⭐673)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 *   [UUID (⭐12k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Table of Contents / Numbers
@@ -730,7 +718,7 @@ git checkout --orphan <branch_name>
 *   [PHP Conversion (⭐130)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 *   [PHP Units of Measure (⭐22)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [Filterus (⭐454)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 *   [MetaYaml (⭐104)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
@@ -752,7 +740,7 @@ git checkout --orphan <branch_name>
 ### Table of Contents / Data Structure and Storage
 
 *   [PINQ (⭐460)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-*   [YaLinqo (⭐439)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+*   [YaLinqo (⭐438)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 
 ### Table of Contents / Notifications
 
@@ -774,11 +762,10 @@ git checkout --orphan <branch_name>
 
 *   [ClassPreloader (⭐361)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-*   [SuperClosure (⭐1.7k)](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
-*   [PHP Build (⭐996)](https://github.com/php-build/php-build) - Another PHP version installer.
+*   [PHP Build (⭐998)](https://github.com/php-build/php-build) - Another PHP version installer.
 
 ### Configuration / PHP Websites
 
@@ -793,7 +780,7 @@ git checkout --orphan <branch_name>
 
 *   [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## [44. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [43. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

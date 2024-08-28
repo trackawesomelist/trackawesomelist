@@ -19,13 +19,7 @@
 
 *   ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📁 [Admin One Vue 3 (⭐2.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
-
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -118,6 +112,12 @@
     <https://listjs.com>
 *   [SJSJ (⭐2.3k)](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Admin One Vue 3 (⭐2.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
+
 ## [5. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Developer Groups
@@ -153,13 +153,13 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐604)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐618)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [stressberry (⭐305)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
+*   [stressberry (⭐316)](https://github.com/nschloe/stressberry) - Stress test your Raspberry Pi and plot temperatures.
 
 ## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 

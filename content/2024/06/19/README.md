@@ -10,7 +10,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/lazydev.nvim (⭐455)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐592)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
 
 ## [2. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Tools / Playground
 
-*   [nocodb (⭐43k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb (⭐44k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ---
 

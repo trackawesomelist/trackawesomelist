@@ -52,7 +52,7 @@
 
 ### Table of Contents / Security
 
-*   [SQLMap (⭐31k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
+*   [SQLMap (⭐32k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.9k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐4k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

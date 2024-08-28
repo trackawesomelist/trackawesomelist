@@ -22,13 +22,13 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐938)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐943)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [azure-event-hubs-dotnet (⭐89)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
+*   [azure-event-hubs-dotnet (⭐87)](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐546)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [SocialConnect Auth (⭐548)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2019
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,15 @@
 
 ### Gaming
 
-*   [libGDX (⭐960)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐981)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐693)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐702)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐872)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐877)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 ## [2. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -77,7 +77,7 @@
 
 ### General
 
-*   [VSCode Icons (⭐836)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐853)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Sharry (⭐798)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
+*   [Sharry (⭐832)](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. `GPL-3.0` `Scala/Java/deb/Docker`
 
 ### Software / Proxy
 
@@ -371,7 +371,7 @@
 
 ### Examples
 
-*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installation instructions.
+*   [ai/size-limit (⭐6.5k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 *   [aimeos/aimeos-typo3 (⭐228)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [alichtman/stronghold (⭐1.1k)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
 *   [amitmerchant1990/electron-markdownify (⭐957)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
@@ -422,22 +422,7 @@
 
 *   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 
-## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Elixir / Non-X86
-
-*   [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
-
-### Flutter / Phoenix
-
-*   [Cookbook](https://flutter.dev/docs/cookbook)
-*   [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
-
-### Ruby / Tornado
-
-*   [I Love Ruby](https://i-love-ruby.gitlab.io)
-
-## [34. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [33. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Videos
 
@@ -473,7 +458,7 @@
 *   [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 *   [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
-## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
@@ -483,7 +468,7 @@
 
 *   [libsvm (⭐4.5k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -504,7 +489,7 @@
 *   [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 *   [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 
-## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
@@ -514,17 +499,17 @@
 
 *   [Flight search (⭐862)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
-## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [37. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Ether.Network (⭐10)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
+*   [Ether.Network (⭐11)](https://github.com/aloisdg/Ether.Network) - Ether.Network is an open source networking library that allow developers to create simple, fast and scalable socket server or client applications over the TCP/IP protocol.
 
 ### Frameworks, Libraries and Tools / Cryptography
 
@@ -532,19 +517,19 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Catalyst (⭐600)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+*   [Catalyst (⭐705)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
 ### Starter Kits / Workflow
 
-*   [serverlessDotNetStarter (⭐50)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
+*   [serverlessDotNetStarter (⭐52)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
 
-## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Objective-C
 
@@ -554,7 +539,7 @@
 
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
-## [42. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [41. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Quick Start / update
 
@@ -564,7 +549,7 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐919)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [43. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -572,7 +557,7 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐455)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+*   [Mega Doodles Pack (⭐469)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ### Fonts / Unspecified License
 
@@ -583,21 +568,21 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-session (⭐334)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
-*   [ember-wordpress (⭐98)](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
+*   [ember-wordpress (⭐95)](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
 
 ### Packages / Broccoli
 
-*   [broccoli-rollup (⭐35)](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
+*   [broccoli-rollup (⭐36)](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
 
 ### Packages / Component addons
 
@@ -605,15 +590,15 @@
 
 ### Packages / CSS & etc
 
-*   [ember-cli-postcss (⭐108)](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
+*   [ember-cli-postcss (⭐110)](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
 
 ### Packages / Data manipulation & Computed
 
-*   [ember-cpm (⭐279)](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
+*   [ember-cpm (⭐276)](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
 
 ### Packages / End-user customization
 
-*   [ember-cli-build-notifications (⭐23)](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
+*   [ember-cli-build-notifications (⭐24)](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
 
 ### Packages / HTTP
 
@@ -621,11 +606,11 @@
 
 ### Packages / Infinite Scroll
 
-*   [vertical-collection (⭐164)](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
+*   [vertical-collection (⭐176)](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
 
 ### Packages / Job queues
 
-*   [ember-lifeline (⭐239)](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
+*   [ember-lifeline (⭐240)](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
 
 ### Packages / Parcel
 
@@ -659,7 +644,7 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -667,15 +652,15 @@
 
 ### Tools
 
-*   [HealthyPi (⭐182)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐192)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Managers
 
 *   [fff (⭐4k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### REST / ORM
 

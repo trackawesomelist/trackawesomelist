@@ -10,7 +10,7 @@
 
 ### Error Handling
 
-*   [Bugsnag (⭐245)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐246)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

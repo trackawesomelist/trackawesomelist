@@ -10,7 +10,7 @@
 
 ### Money
 
-*   [Monetize (⭐418)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐424)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐105k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [11. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

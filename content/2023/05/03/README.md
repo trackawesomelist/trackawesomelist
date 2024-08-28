@@ -10,7 +10,7 @@
 
 ### Development
 
-*   [LoveDebug (⭐33)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
+*   [LoveDebug (⭐34)](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 
 ## [2. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

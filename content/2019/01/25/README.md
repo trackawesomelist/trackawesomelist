@@ -101,7 +101,7 @@
 
 ### Packages / Examples
 
-*   [New York City Census Reporting Tool (⭐34)](https://github.com/NYCPlanning/labs-factfinder)
+*   [New York City Census Reporting Tool (⭐40)](https://github.com/NYCPlanning/labs-factfinder)
 
 ## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Contents / Utilities
 
-*   [PGXN client (⭐132)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
+*   [PGXN client (⭐134)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
 ---
 

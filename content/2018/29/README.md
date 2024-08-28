@@ -95,7 +95,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [substitute.js (⭐199)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+*   :octocat: [substitute.js (⭐200)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
 ## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -284,28 +284,28 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NSwag (⭐6.1k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
+*   [NSwag (⭐6.7k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Xer.Cqrs (⭐99)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+*   [Xer.Cqrs (⭐101)](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Mond (⭐319)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐359)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
-*   [PayPal (⭐527)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
+*   [PayPal (⭐535)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Fody (⭐4.1k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
-*   [Otp.NET (⭐858)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
+*   [Fody (⭐4.3k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+*   [Otp.NET (⭐1k)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpZipLib (⭐3.5k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+*   [SharpZipLib (⭐3.7k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
 ## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

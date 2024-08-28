@@ -10,7 +10,7 @@
 
 ### Third Party APIs
 
-*   [elixir\_authorizenet (⭐10)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
+*   [elixir\_authorizenet (⭐11)](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
 
 ## [2. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Open Source / Other
 
-*   [Loop Drop (⭐824)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+*   [Loop Drop (⭐825)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 

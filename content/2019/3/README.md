@@ -46,7 +46,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 ### Development tools / Build system
 
 *   [Cargo](https://crates.io/) - the Rust package manager
-    *   [cargo-all-features (⭐134)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
+    *   [cargo-all-features (⭐141)](https://github.com/frewsxcv/cargo-all-features) - A configurable subcommand to simplify testing, building and much more for all combinations of features [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
     *   [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) - A utility to compare micro-benchmarks
     *   [cargo-bitbake](https://crates.io/crates/cargo-bitbake) - A cargo extension that can generate BitBake recipes utilizing the classes from meta-rust
     *   [cargo-cache](https://crates.io/crates/cargo-cache) - inspect/manage/clean your cargo cache (`~/.cargo/`/`${CARGO_HOME}`), print sizes etc [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
@@ -54,12 +54,11 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
     *   [cargo-commander](https://crates.io/crates/cargo-commander) - A subcommand for `cargo` to run CLI commands similar to how the scripts section in `package.json` works [![Build and test](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml/badge.svg)](https://github.com/simonhyll/cargo-commander/actions/workflows/build.yml)
     *   [cargo-count](https://crates.io/crates/cargo-count) - lists source code counts and details about cargo projects, including unsafe statistics
     *   [cargo-deb](https://crates.io/crates/cargo-deb) - Generates binary Debian packages
-    *   [cargo-deps](https://crates.io/crates/cargo-deps) - build dependency graphs
+    *   [cargo-depgraph](https://crates.io/crates/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz
     *   [cargo-do](https://crates.io/crates/cargo-do) - run multiple cargo commands in a row
     *   [cargo-ebuild](https://crates.io/crates/cargo-ebuild) - cargo extension that can generate ebuilds using the in-tree eclasses
     *   [cargo-edit](https://crates.io/crates/cargo-edit) - allows you to add and list dependencies by reading/writing to your Cargo.toml file from the command line
     *   [cargo-generate (⭐1.9k)](https://github.com/cargo-generate/cargo-generate) - A generator of a rust project by leveraging a pre-existing git repository as a template.
-    *   [cargo-graph](https://crates.io/crates/cargo-graph) - updated fork of `cargo-dot` with additional features. Unmaintained, see `cargo-deps`
     *   [cargo-info](https://crates.io/crates/cargo-info) - queries crates.io for crates details from command line
     *   [cargo-license](https://crates.io/crates/cargo-license) - A cargo subcommand to quickly view the licenses of all dependencies.
     *   [cargo-limit](https://crates.io/crates/cargo-limit) - Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/cargo-limit//cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/cargo-limit//cargo-limit/actions)
@@ -73,7 +72,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
     *   [cargo-udeps (⭐1.6k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
     *   [cargo-update](https://crates.io/crates/cargo-update) - cargo subcommand for checking and applying updates to installed executables
     *   [cargo-watch](https://crates.io/crates/cargo-watch) - utility for cargo to compile projects when sources change
-    *   [dtolnay/cargo-expand (⭐2.5k)](https://github.com/dtolnay/cargo-expand) - Expand macros in your source code
+    *   [dtolnay/cargo-expand (⭐2.6k)](https://github.com/dtolnay/cargo-expand) - Expand macros in your source code
 
 ## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -480,7 +479,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Content Management Systems
 
-*   [Umbraco (⭐205)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐207)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [35. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
@@ -553,11 +552,11 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Algorithms and Data structures
 
-*   [Algorithmia (⭐530)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
+*   [Algorithmia (⭐529)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 
 ### Application Frameworks
 
-*   [DotNetty (⭐4k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
+*   [DotNetty (⭐4.1k)](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
 ### Compilers, Transpilers and Languages
 
@@ -565,7 +564,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 ### Documentation
 
-*   [DocNet (⭐247)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+*   [DocNet (⭐248)](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 
 ### Event aggregator and messenger
 
@@ -578,12 +577,12 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 ### Misc
 
 *   [Polly (⭐13k)](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
-*   [Warden (⭐613)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
+*   [Warden (⭐614)](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch
 
 ### Queue
 
-*   [RestBus (⭐366)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
-*   [Confluent's .NET Client (⭐2.8k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
+*   [RestBus (⭐365)](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
+*   [Confluent's .NET Client (⭐27)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
 *   [Brighter (⭐2k)](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue <https://www.goparamore.io/>
 
 ### Testing
@@ -600,7 +599,7 @@ Topics: Android, Java, Kotlin, Flutter, Blockchain\
 
 *   [Top 250+ Rust Programming Language Interview Questions](https://www.wisdomjobs.com/e-university/rust-programming-language-interview-questions.html)
 *   [Rust Programming Interview Questions and Answers](https://www.code-sample.com/2018/02/rust-programming-interview-questions.html)
-*   [rust-exam: A set of questions about the Rust programming language (⭐13)](https://github.com/jean553/rust-exam)
+*   [rust-exam: A set of questions about the Rust programming language (⭐23)](https://github.com/jean553/rust-exam)
 *   [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
 ## [45. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)

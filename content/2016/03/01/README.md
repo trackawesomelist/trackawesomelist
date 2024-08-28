@@ -56,7 +56,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [why-is-node-running (⭐1.7k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+*   [why-is-node-running (⭐1.8k)](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 
 ### Packages / Command-line utilities
 
@@ -70,7 +70,7 @@
 ### Packages / Testing
 
 *   [power-assert (⭐2.8k)](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
-*   [hook-std (⭐53)](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
+*   [hook-std (⭐54)](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 
 ### Packages / Miscellaneous
 

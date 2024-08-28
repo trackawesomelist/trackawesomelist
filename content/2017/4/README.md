@@ -115,20 +115,20 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [Beginner Wagtail Cookiecutter (⭐31)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
+*   [Beginner Wagtail Cookiecutter (⭐32)](https://github.com/heymonkeyriot/beginner-wagtail) – A super simple implementation of Wagtail CMS.
 
 ### Open-source sites / Lists
 
-*   [Torchbox (⭐123)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐80)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Torchbox (⭐124)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
+*   [Made with Wagtail (⭐84)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
-*   [Localore: Finding America (⭐18)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
+*   [Localore: Finding America (⭐19)](https://github.com/ghostwords/localore) – Wagtail-based CMS and Ansible playbooks for Localore: Finding America.
 *   [Adventure Capitalists (⭐4)](https://github.com/AdventureCapitalists/website) – Wagtail powered website for the world's only investment band.
 *   [NHS.UK Content Store (⭐20)](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
-*   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
-*   [Digital Helsinki (⭐18)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
+*   [dev.hel.fi (⭐14)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
+*   [Digital Helsinki (⭐19)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 
 ## [14. Tips](/content/git-tips/tips/week/README.md)
 
@@ -238,18 +238,18 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Open Source / Other
 
-*   [Cerebro (⭐8.2k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐8.3k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.9k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐404)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐410)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Chessie (⭐190)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
+*   [Chessie (⭐188)](https://github.com/fsprojects/Chessie) - Railway-oriented programming for .NET <http://fsprojects.github.io/Chessie>.
 
 ### Frameworks, Libraries and Tools / Serialization
 
@@ -607,7 +607,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Applications
 
 *   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-*   [Dat desktop app (⭐646)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐648)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 *   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
@@ -623,9 +623,9 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Related Lists
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.3k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐147)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/retrohacker/awesome-p2p (⭐148)](https://github.com/retrohacker/awesome-p2p)
 *   [https://github.com/Kikobeats/awesome-network-js (⭐551)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐193)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐194)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.6k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
@@ -745,24 +745,24 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐901)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐899)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
 *   [formatador (⭐451)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐403)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐13k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐846)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐574)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [CodeRay (⭐845)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [pygments.rb (⭐572)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 *   [Rouge (⭐3.3k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐768)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐773)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 

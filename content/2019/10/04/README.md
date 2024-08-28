@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐42k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐43k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Android
 
-*   [RocketSkill App Android Interview Questions (⭐7)](https://github.com/mindash/android-structured-interview)
+*   [RocketSkill App Android Interview Questions (⭐10)](https://github.com/mindash/android-structured-interview)
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -148,7 +148,7 @@
 
 ### Packages / Tools
 
-*   [Ember Unused Components (⭐47)](https://github.com/vastec/ember-unused-components) - This script searches for unused components in your Ember project
+*   [Ember Unused Components (⭐51)](https://github.com/vastec/ember-unused-components) - This script searches for unused components in your Ember project
 
 ---
 

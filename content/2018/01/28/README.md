@@ -50,7 +50,7 @@
 
 ### Software / Editors
 
-*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐24k)](https://github.com/zyedidia/micro)) `MIT` `Go`
+*   [Micro](https://micro-editor.github.io/) - A modern and intuitive terminal-based text editor. ([Source Code (⭐25k)](https://github.com/zyedidia/micro)) `MIT` `Go`
 
 ## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

@@ -10,11 +10,11 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐291)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐293)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs/Docker`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐2.7k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
+*   [FreeScout (⭐2.8k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP/Docker`
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [io-ts (⭐6.6k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [io-ts (⭐6.7k)](https://github.com/gcanti/io-ts) - Type validation at runtime
 *   :octocat: [fast-check (⭐4.2k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---

@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [Fleck (⭐2.2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
+*   [Fleck (⭐2.3k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

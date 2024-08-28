@@ -103,11 +103,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Otp.NET (⭐858)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
+*   [Otp.NET (⭐1k)](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [SharpZipLib (⭐3.5k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+*   [SharpZipLib (⭐3.7k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
 ## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 

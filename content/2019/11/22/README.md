@@ -58,8 +58,8 @@
 
 ### High Availability / Miscellaneous
 
-*   [Cortex (⭐5.3k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
-*   [Thanos (⭐12k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
+*   [Cortex (⭐5.4k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
+*   [Thanos (⭐13k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
 ## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -71,11 +71,11 @@
 
 ### Programming Languages
 
-*   [Vala (⭐154)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐158)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐640)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐645)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 

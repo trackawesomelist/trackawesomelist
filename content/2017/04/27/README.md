@@ -32,7 +32,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [Bowtie (⭐765)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
+*   [Bowtie (⭐764)](https://github.com/jwkvam/bowtie) - A dashboard library for interactive visualizations using flask socketio and react.
 
 ## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [NETStandard.HttpListener (⭐39)](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
+*   [NETStandard.HttpListener (⭐40)](https://github.com/StefH/NETStandard.HttpListener) - HttpListener for .NET Core (NETStandard).
 
 ### Frameworks, Libraries and Tools / Searching
 
-*   [SimMetrics.Net (⭐104)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
+*   [SimMetrics.Net (⭐125)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
 ## [9. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Probable Wordlists (⭐8.4k)](https://github.com/berzerk0/Probable-Wordlists)
+- Repository: [Probable Wordlists (⭐8.6k)](https://github.com/berzerk0/Probable-Wordlists)
 
   Description: Wordlists sorted by probability originally created for password generation and testing
 

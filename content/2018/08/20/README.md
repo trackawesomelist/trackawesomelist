@@ -285,7 +285,7 @@
 
 ### Packages / Job queues
 
-*   [ember-data-tasks (⭐24)](https://github.com/knownasilya/ember-data-tasks)
+*   [ember-data-tasks (⭐25)](https://github.com/knownasilya/ember-data-tasks)
 
 ### Packages / Articles
 
@@ -319,8 +319,8 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [AspNetCore Extension Library (⭐164)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
-*   [Eighty (⭐38)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
+*   [AspNetCore Extension Library (⭐162)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
+*   [Eighty (⭐39)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [excel-to-json (⭐10)](https://github.com/Aaronlamz/excel-to-json) - A easy tool is created to convert Excel to JSON for i18n.
+*   [excel-to-json (⭐12)](https://github.com/Aaronlamz/excel-to-json) - A easy tool is created to convert Excel to JSON for i18n.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

@@ -27,7 +27,7 @@
 
 ### Tools / Static Analysis Tools
 
-*   [Androwarn (⭐462)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
+*   [Androwarn (⭐473)](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 
 ### Tools / Dynamic Analysis Tools
 
@@ -68,7 +68,7 @@
 
 ### Data Visualization
 
-*   [ApexCharts.rb (⭐478)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
+*   [ApexCharts.rb (⭐480)](https://github.com/styd/apexcharts.rb) - Awesome charts for your ruby app. Works on any ruby app, including Rails app. It even works on plain HTML+ERB files.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -103,12 +103,12 @@
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
-*   [Rafty (⭐194)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
-*   [Obvs (⭐332)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
-*   [Ocelot (⭐7.9k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps
+*   [Rafty (⭐195)](https://github.com/ThreeMammals/Rafty) - RAFT consensus in .NET Core
+*   [Obvs (⭐333)](https://github.com/christopherread/Obvs) - An observable microservice bus .NET library that wraps the underlying transport in simple Rx based interfaces
+*   [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - API Gateway created using .NET Core
 *   [OpenTracing (⭐519)](https://github.com/opentracing/opentracing-csharp) - Vendor-neutral APIs and instrumentation for distributed tracing
-*   [Polly (⭐12k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
+*   [Polly (⭐13k)](https://github.com/App-vNext/Polly) - .NET 3.5 / 4.0 / 4.5 / PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner
 *   [ProxyKit (⭐1.1k)](https://github.com/damianh/ProxyKit) - Toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 
 ## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)

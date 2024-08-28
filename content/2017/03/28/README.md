@@ -33,7 +33,7 @@
 ### Scheduling
 
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-*   [Chroniton (⭐182)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+*   [Chroniton (⭐181)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
 ## [5. Awesome Design](/content/gztchan/awesome-design/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [cassandra-csharp-driver (⭐606)](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
+*   [cassandra-csharp-driver (⭐633)](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 
 ## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

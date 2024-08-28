@@ -14,7 +14,7 @@
 
 ### Text and Numbers
 
-*   [uuid (⭐355)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [uuid (⭐356)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 

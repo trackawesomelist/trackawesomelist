@@ -73,7 +73,7 @@
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [ZKEACMS (⭐2.7k)](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
+*   [ZKEACMS (⭐2.8k)](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
 ## [8. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Platforms
 
-*   [DigitalOcean (⭐339)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+*   [DigitalOcean (⭐341)](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 ### Gaming
 

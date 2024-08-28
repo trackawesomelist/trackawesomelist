@@ -118,7 +118,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐147)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐148)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -162,19 +162,19 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [Toucan (⭐214)](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
+*   [Toucan (⭐213)](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
 ### Frameworks, Libraries and Tools / Database
 
-*   [DBreeze (⭐481)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
-*   [JsonFlatFileDataStore (⭐389)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
-*   [NoDb (⭐182)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
-*   [marten (⭐2.5k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
-*   [yessql (⭐1.1k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
+*   [DBreeze (⭐516)](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
+*   [JsonFlatFileDataStore (⭐430)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data.
+*   [NoDb (⭐181)](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+*   [marten (⭐2.8k)](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications <http://jasperfx.github.io/marten>.
+*   [yessql (⭐1.2k)](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [DarkSkyCore (⭐55)](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
+*   [DarkSkyCore (⭐54)](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
 
 ## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -249,7 +249,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐350)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐351)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Components & Libraries / UI Utilities
 
@@ -338,7 +338,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 ### Example Projects
 
 *   [Monitor your keycloak with prometheus (⭐64)](https://github.com/larscheid-schmitzhermes/keycloak-monitoring-prometheus)
-*   [Custom User Storage Provider .ear with jboss-cli setup (⭐92)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
+*   [Custom User Storage Provider .ear with jboss-cli setup (⭐93)](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo)
 
 ---
 

@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-fullscreen (⭐430)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
+*   [vue-fullscreen (⭐436)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -65,7 +65,7 @@
 
 *   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-*   [Oblivion (⭐483)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐491)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 *   [WATools](https://watools.io/)
 
@@ -120,7 +120,7 @@
 ### Video Search and Other Video Tools / Telegram
 
 *   [Insecam](http://insecam.org/) - Live cameras directory
-*   [Video Stabilization Methods (⭐339)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐343)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
@@ -146,7 +146,7 @@
 
 ### Other Tools / Telegram
 
-*   [FOCA (⭐2.8k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.9k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 
 ### OSINT Videos / Telegram

@@ -23,11 +23,10 @@
 ### **Semantic Kernel** / **Semantic Kernel Planner**
 
 *   Gen-4 and Gen-5 planners: 1. Gen-4: Generate multi-step plans with the [Handlebars](https://handlebarsjs.com/) 2. Gen-5: Stepwise Planner supports Function Calling. [ref](https://devblogs.microsoft.com/semantic-kernel/semantic-kernels-ignite-release-beta8-for-the-net-sdk/) \[16 Nov 2023]
-    <!-- > ScratchPad: Using "program execution" strategy boosts performance of large language model tasks by enforcing the use of a "scratch pad." For instance, instead of requesting the LLM's output for a Python function with a specific input, users can ask for the execution trace. This prompts the model to generate predictions for each intermediate step of the function, thereby increasing the probability of the LLM producing the correct final line. [cite](https://snorkel.ai/large-language-models-llms/) -->
 
-### **Langchain Feature Matrix & Cheetsheet** / DSPy optimizer
+### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
 
-*   [LangChain Tutorial](https://nanonets.com/blog/langchain/): A Complete Langchain Guide
+*   [LangChain Tutorial](https://nanonets.com/blog/langchain/): A Complete LangChain Guide
 
 ## [4. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
@@ -91,28 +90,28 @@
 
 ### AI / Diagnostics
 
-*   [David-Kunz/gen.nvim (⭐965)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
+*   [David-Kunz/gen.nvim (⭐1.1k)](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [ellisonleao/dotenv.nvim (⭐30)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
+*   [ellisonleao/dotenv.nvim (⭐35)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [fdschmidt93/telescope-egrepify.nvim (⭐94)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+*   [fdschmidt93/telescope-egrepify.nvim (⭐112)](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [linrongbin16/colorbox.nvim (⭐28)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
+*   [linrongbin16/colorbox.nvim (⭐34)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
 
 ### Motion / Diagnostics
 
-*   [ggandor/flit.nvim (⭐355)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+*   [ggandor/flit.nvim (⭐364)](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
 *   [ggandor/leap-spooky.nvim (⭐277)](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
 
 ### Editing Support / Diagnostics
 
-*   [cshuaimin/ssr.nvim (⭐892)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
+*   [cshuaimin/ssr.nvim (⭐902)](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 
 ---
 

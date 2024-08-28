@@ -25,7 +25,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Nemo (⭐11)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
+*   [Nemo (⭐12)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 
 ## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-vite-ssr (⭐27)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [vue-vite-ssr (⭐26)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 
 ## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

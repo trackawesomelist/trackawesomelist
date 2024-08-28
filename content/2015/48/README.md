@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-33 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,7 +48,7 @@
 
 ### Git Tools
 
-*   [GitLink (⭐557)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+*   [GitLink (⭐556)](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ### HTML and CSS
 
@@ -64,8 +64,8 @@
 
 ### Misc
 
-*   [CsvHelper (⭐4.6k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.6k)](https://github.com/JoshClose/CsvHelper)
-*   [Humanizer (⭐8.5k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+*   [CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files [https://github.com/JoshClose/CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper)
+*   [Humanizer (⭐8.6k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 *   [Shielded (⭐238)](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 
 ### ORM
@@ -78,12 +78,12 @@
 
 ### Search
 
-*   [Elasticsearch .NET (⭐3.5k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
+*   [Elasticsearch .NET (⭐3.6k)](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
 
 ### WebSocket
 
-*   [SignalR (⭐9.1k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
-*   [SuperSocket (⭐3.8k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
+*   [SignalR (⭐9.2k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+*   [SuperSocket (⭐3.9k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
 ## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
@@ -130,31 +130,31 @@
 
 ### [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 
-*   [Alphabet Cipher (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
-*   [Card game War (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
-*   [Doublets (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
-*   [Fox Goose Bag of Corn (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
-*   [Magic Square (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
-*   [Tiny Maze (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
-*   [Wonderland Number (⭐855)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
+*   [Alphabet Cipher (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
+*   [Card game War (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
+*   [Doublets (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
+*   [Fox Goose Bag of Corn (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/fox-goose-bag-of-corn)
+*   [Magic Square (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/magic-square)
+*   [Tiny Maze (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
+*   [Wonderland Number (⭐867)](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
 ### [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas)
 
-*   [String Sum Kata (⭐714)](https://github.com/garora/TDD-Katas#string-sum-kata)
-*   [String Calculator Kata (⭐714)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-*   [The Bowling Game Kata (⭐714)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-*   [The FizzBuzz Kata (⭐714)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-*   [The OddEven Kata (⭐714)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-*   [The PrimeFactor Kata (⭐714)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-*   [Game of Life (⭐714)](https://github.com/garora/TDD-Katas#game-of-life-)
-*   [Harry Potter (⭐714)](https://github.com/garora/TDD-Katas#harry-potter-)
-*   [LCD Digits (⭐714)](https://github.com/garora/TDD-Katas#lcd-digits-)
-*   [Leap Year (⭐714)](https://github.com/garora/TDD-Katas#leap-year-)
-*   [Mine Fields (⭐714)](https://github.com/garora/TDD-Katas#mine-fields-)
-*   [Poker Hands (⭐714)](https://github.com/garora/TDD-Katas#poker-hands)
-*   [Recently Used List (⭐714)](https://github.com/garora/TDD-Katas#recently-used-list-)
-*   [Reversi (⭐714)](https://github.com/garora/TDD-Katas#reversi-)
-*   [Yehtzee (⭐714)](https://github.com/garora/TDD-Katas#yehtzee-)
+*   [String Sum Kata (⭐719)](https://github.com/garora/TDD-Katas#string-sum-kata)
+*   [String Calculator Kata (⭐719)](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+*   [The Bowling Game Kata (⭐719)](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+*   [The FizzBuzz Kata (⭐719)](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+*   [The OddEven Kata (⭐719)](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+*   [The PrimeFactor Kata (⭐719)](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+*   [Game of Life (⭐719)](https://github.com/garora/TDD-Katas#game-of-life-)
+*   [Harry Potter (⭐719)](https://github.com/garora/TDD-Katas#harry-potter-)
+*   [LCD Digits (⭐719)](https://github.com/garora/TDD-Katas#lcd-digits-)
+*   [Leap Year (⭐719)](https://github.com/garora/TDD-Katas#leap-year-)
+*   [Mine Fields (⭐719)](https://github.com/garora/TDD-Katas#mine-fields-)
+*   [Poker Hands (⭐719)](https://github.com/garora/TDD-Katas#poker-hands)
+*   [Recently Used List (⭐719)](https://github.com/garora/TDD-Katas#recently-used-list-)
+*   [Reversi (⭐719)](https://github.com/garora/TDD-Katas#reversi-)
+*   [Yehtzee (⭐719)](https://github.com/garora/TDD-Katas#yehtzee-)
 *   [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ### Others
@@ -307,7 +307,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ggfortify (⭐524)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
+*   [ggfortify (⭐527)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
 ## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
@@ -361,7 +361,7 @@
 
 ### ORM and Datamapping
 
-*   [moebius (⭐596)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
+*   [moebius (⭐598)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.
 
 ### Testing
 
@@ -395,18 +395,7 @@
 
 *   [Zephyr (⭐930)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
-
-### Haxe / Spock Framework
-
-*   [Flambe Handbook (⭐56)](https://github.com/markknol/flambe-guide/wiki)
-*   [Haxe Manual](http://haxe.org/documentation/introduction/) - Haxe Foundation (PDF, HTML)
-
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -416,7 +405,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

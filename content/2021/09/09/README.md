@@ -16,7 +16,7 @@
 
 ### Elixir/Erlang / Data Visualization
 
-*   [Prop (⭐44)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+*   [Prop (⭐46)](https://github.com/fremantle-industries/prop) - An open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 
 ## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [EdenEast/nightfox.nvim (⭐2.9k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐3k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
 
 ## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

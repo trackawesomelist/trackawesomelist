@@ -16,11 +16,11 @@
 
 ### Apps / E-commerce
 
-*   [django-oscar-wagtail (⭐97)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+*   [django-oscar-wagtail (⭐102)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 
 ### Apps / Forms
 
-*   [wagtailstreamforms (⭐2)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
+*   [wagtailstreamforms (⭐3)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
 
 ### Resources / Videos
 
@@ -50,7 +50,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Table of Contents / Architectural
 
-*   [Porter (⭐610)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+*   [Porter (⭐613)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 
 ## [6. Bots](/content/hackerkid/bots/README.md)
 
@@ -66,7 +66,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
+*   [Utf8Json (⭐2.4k)](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 
 ## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

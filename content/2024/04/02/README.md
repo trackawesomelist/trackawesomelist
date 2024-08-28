@@ -42,7 +42,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Shaobin-Jiang/IceNvim (⭐122)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
+*   [Shaobin-Jiang/IceNvim (⭐130)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
 
 ## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [Floom (⭐25)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐33)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 
 ### Text-related Generative Tools / Multi-agents
 

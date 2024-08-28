@@ -2,7 +2,7 @@
 
 A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 655 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hachiojipm/awesome-perl/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl) · ⭐ 665 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/hachiojipm/awesome-perl/week/README.md) / [Overview](/content/hachiojipm/awesome-perl/readme/README.md) ]
 
@@ -135,7 +135,7 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 ### Data Format / DSP
 
-*   [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for (CBOR)\[<https://tools.ietf.org/html/rfc7049>], IETF’s “binary JSON”
+*   [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for [CBOR](https://tools.ietf.org/html/rfc7049), IETF’s “binary JSON”
 
 ### Event Loops / NoSQL Databases
 
@@ -606,7 +606,7 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 ### Reverse Engineering / Middlewares
 
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 
 ## [Jan 14, 2015](/content/2015/01/14/README.md)
 
@@ -721,7 +721,7 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 ### Reverse Engineering / Middlewares
 
-*   [t3chnoboy/awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.9k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 ## [Jul 19, 2014](/content/2014/07/19/README.md)
 
@@ -736,9 +736,9 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 ### Reverse Engineering / Middlewares
 
-*   [emijrp/awesome-awesome (⭐2.6k)](https://github.com/emijrp/awesome-awesome)
-*   [fleveque/awesome-awesomes (⭐581)](https://github.com/fleveque/awesome-awesomes)
-*   [sindresorhus/awesome (⭐296k)](https://github.com/sindresorhus/awesome)
+*   [emijrp/awesome-awesome (⭐2.7k)](https://github.com/emijrp/awesome-awesome)
+*   [fleveque/awesome-awesomes (⭐584)](https://github.com/fleveque/awesome-awesomes)
+*   [sindresorhus/awesome (⭐318k)](https://github.com/sindresorhus/awesome)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)
 

@@ -49,7 +49,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐704)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐716)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Packages / Libraries
 
-*   [@magenta/music (⭐1.9k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
+*   [@magenta/music (⭐2k)](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
 
 ## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 

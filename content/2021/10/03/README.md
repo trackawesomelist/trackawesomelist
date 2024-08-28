@@ -6,33 +6,37 @@
 
 
 
-## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Bash / Non-X86
+### Containers
 
-*   [Conquer the Command Line](https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download) - Richard Smedley (PDF)
+*   [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 
-### PHP / PicoLisp
+### Data Science
 
-*   [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
+*   [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
+
+### Graphical User Interfaces
+
+*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
-*   [Strawberry GraphQL (⭐3.8k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+*   [Strawberry GraphQL (⭐3.9k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
 ## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [SimpleX chat (⭐5.4k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐5.7k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐839)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
+*   [FAE (⭐846)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -64,7 +68,7 @@
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐301)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐306)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -243,7 +247,7 @@
 
 ### Games & Comics
 
-- API: [Geek-Jokes (⭐96)](https://github.com/sameerkumar18/geek-joke-api)
+- API: [Geek-Jokes (⭐102)](https://github.com/sameerkumar18/geek-joke-api)
 
   Description: Fetch a random geeky/programming related joke for use in all sorts of applications
 
@@ -424,7 +428,7 @@
 
 ### Video
 
-- API: [Dune (⭐49)](https://github.com/ywalia01/dune-api)
+- API: [Dune (⭐54)](https://github.com/ywalia01/dune-api)
 
   Description: A simple API which provides you with book, character, movie and quotes JSON data
 
@@ -435,7 +439,7 @@
   CORS: Yes
 
 
-- API: [IMDbOT (⭐85)](https://github.com/SpEcHiDe/IMDbOT)
+- API: [IMDbOT (⭐90)](https://github.com/SpEcHiDe/IMDbOT)
 
   Description: Unofficial IMDb Movie / Series Information
 

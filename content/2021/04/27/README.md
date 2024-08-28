@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.6k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.7k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -55,7 +55,7 @@
 ### Others / Object detection and object tracking
 
 *   [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
-    *   [GitHub repository :octocat:](https://github.com/CloudCompare)
+    *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/CloudCompare)
 
 ## [8. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 

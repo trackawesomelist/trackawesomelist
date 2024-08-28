@@ -18,7 +18,7 @@
 ### Frameworks, Libraries and Tools / Graphics
 
 *   [GLFWDotNet (⭐50)](https://github.com/smack0007/GLFWDotNet) - .NET bindings for GLFW.
-*   [SharpBgfx (⭐167)](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
+*   [SharpBgfx (⭐169)](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
 
 ## [3. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 

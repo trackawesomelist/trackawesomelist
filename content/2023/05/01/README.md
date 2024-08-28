@@ -10,15 +10,15 @@
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐3.8k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐4k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 
 ### Tools / Services
 
-*   [Auto Evaluator (⭐726)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+*   [Auto Evaluator (⭐733)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐744)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐751)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -79,13 +79,13 @@
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐144)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
+*   [kelly-lin/ranger.nvim (⭐147)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐15k)](https://github.com/ranger/ranger) integration for neovim.
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐62k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [fzf-packagemanager (⭐0)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐63k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 
 ## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -97,15 +97,15 @@
 
 ### Orchestration
 
-*   [Ansible Linux Docker (⭐15)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
+*   [Ansible Linux Docker (⭐18)](https://github.com/Peco602/ansible-linux-docker) - Run Ansible from a Linux container. By [@Peco602](https://github.com/Peco602)
 
 ### Security
 
-*   [dvwassl (⭐4)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
+*   [dvwassl (⭐3)](https://github.com/Peco602/dvwassl) - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By [@Peco602](https://github.com/Peco602)
 
 ### Development Environment / Other
 
-*   [Rust Universal Compiler (⭐27)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
+*   [Rust Universal Compiler (⭐29)](https://github.com/Peco602/rust-universal-compiler) - Container solution to compile Rust projects for Linux, macOS and Windows. By [@Peco602](https://github.com/Peco602)
 
 ---
 

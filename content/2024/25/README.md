@@ -16,8 +16,8 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [LLMLingua (⭐4.2k)](https://github.com/microsoft/LLMLingua): Compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. \[Jul 2023] LLMLingua-2 \[Mar 2024]
-*   [Autogen (⭐28k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework [ref](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) \[Mar 2023] [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) \[June 2024 ]
+*   [LLMLingua (⭐4.3k)](https://github.com/microsoft/LLMLingua): Compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. \[Jul 2023] LLMLingua-2 \[Mar 2024]
+*   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework [ref](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) \[Mar 2023] [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) \[June 2024 ]
 
 ### **Azure Reference Architectures** / **Lucene based search engine with OpenAI Embedding**
 
@@ -25,12 +25,12 @@
     *   [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857): Retrieval-Augmented Generation (RAG) \[09 Jun 2023]
     *   [Revolutionize your Enterprise Data with ChatGPT](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087) \[09 Mar 2023]
     *   [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/) \[07 Mar 2023]
-    *   [Azure OpenAI Design Patterns (⭐565)](https://github.com/microsoft/azure-openai-design-patterns): A set of design patterns using the Azure OpenAI service \[May 2023]
-    *   [Azure AI Services Landing Zone (⭐79)](https://github.com/FreddyAyala/AzureAIServicesLandingZone) / [ref](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) \[24 Jul 2023]
+    *   [Azure OpenAI Design Patterns (⭐577)](https://github.com/microsoft/azure-openai-design-patterns): A set of design patterns using the Azure OpenAI service \[May 2023]
+    *   [Azure AI Services Landing Zone (⭐84)](https://github.com/FreddyAyala/AzureAIServicesLandingZone) / [ref](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102) \[24 Jul 2023]
     *   [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885) \[16 Jan 2024]
     *   [Authentication and Authorization in Generative AI applications with Entra ID and Azure AI Search](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/authentication-and-authorization-in-generative-ai-applications/ba-p/4022277) \[09 Jan 2024]
     *   [Integrate private access to your Azure Open AI Chatbot](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/integrate-private-access-to-your-azure-open-ai-chatbot/ba-p/3994613) \[30 Nov 2023]
-    *   Smart load balancing for OpenAI endpoints [git (⭐74)](https://github.com/Azure/aoai-smart-loadbalancing) \[Jan 2024]
+    *   Smart load balancing for OpenAI endpoints [git (⭐75)](https://github.com/Azure/aoai-smart-loadbalancing) \[Jan 2024]
     *   [An Introduction to LLMOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996): Operationalizing and Managing Large Language Models using Azure ML \[27 Aug 2023]
     *   [Optimize Azure OpenAI Applications with Semantic Caching](https://techcommunity.microsoft.com/t5/azure-architecture-blog/optimize-azure-openai-applications-with-semantic-caching/ba-p/4106867) \[09 Apr 2024]
     *   [Azure OpenAI and Call Center Modernization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-and-call-center-modernization/ba-p/4107070) \[11 Apr2024]
@@ -41,18 +41,18 @@
 *   [Skeleton Of Thought](https://arxiv.org/abs/2307.15337): Skeleton-of-Thought (SoT) reduces generation latency by first creating an answer's skeleton, then filling each skeleton point in parallel via API calls or batched decoding. \[28 Jul 2023]
 *   [NLEP (Natural Language Embedded Programs) for Hybrid Language Symbolic Reasoning](https://arxiv.org/abs/2309.10814): Use code as a scaffold for reasoning. NLEP achieves over 90% accuracy when prompting GPT-4. \[19 Sep 2023]
 
-### **Pruning and Sparsification** / **Llama 2 Finetuning**
+### **Pruning and Sparsification** / **Llama Finetuning**
 
 *   Pruning: The process of removing some of the neurons or layers from a neural network. This can be done by identifying and eliminating neurons or layers that have little or no impact on the network's output.
 *   Sparsification: A technique used to reduce the size of large language models by removing redundant parameters.
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
-*   [Lamini Memory Tuning (⭐216)](https://github.com/lamini-ai/Lamini-Memory-Tuning): Mixture of Millions of Memory Experts (MoME). 95% LLM Accuracy, 10x Fewer Hallucinations. [ref](https://www.lamini.ai/blog/lamini-memory-tuning) \[Jun 2024]
+*   [Lamini Memory Tuning (⭐248)](https://github.com/lamini-ai/Lamini-Memory-Tuning): Mixture of Millions of Memory Experts (MoME). 95% LLM Accuracy, 10x Fewer Hallucinations. [ref](https://www.lamini.ai/blog/lamini-memory-tuning) \[Jun 2024]
 
-### **Numbers LLM and LLM Token Limits** / **GPT series release date**
+### **Numbers LLM** / **GPT series release date**
 
-*   [Tokencost (⭐1.3k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
+*   [Tokencost (⭐1.4k)](https://github.com/AgentOps-AI/tokencost): Token price estimates for 400+ LLMs \[Dec 2023]
 
 ### **Open-Source Large Language Models** / **GPT series release date**
 
@@ -83,7 +83,7 @@
         *   [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) \[16 Jul 2023]
         *   [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) \[16 Aug 2023]
         *   [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) \[1 Aug 2023]
-        *   Framework: [Autogen (⭐28k)](https://github.com/microsoft/autogen) / [LangGraph (⭐4.2k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐17k)](https://github.com/joaomdmoura/CrewAI)
+        *   Framework: [Autogen (⭐30k)](https://github.com/microsoft/autogen) / [LangGraph (⭐5.2k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐18k)](https://github.com/joaomdmoura/CrewAI)
 *   Generate the code [ref](https://www.deeplearning.ai/the-batch/issue-254/) \[Jun 2024]
     *   [AgentCoder: Multiagent-Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) \[20 Dec 2023]
     *   [LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step](https://arxiv.org/abs/2402.16906) \[25 Feb 2024]
@@ -93,7 +93,7 @@
 
 ### Demos / Godot 4.x
 
-*   [Kaleidoscope (⭐2)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+*   [Kaleidoscope (⭐7)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
 
 ## [4. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Python Libraries
 
-*   [pybtc (⭐2)](https://github.com/mohanson/pybtc) - Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.
+*   [pybtc (⭐3)](https://github.com/mohanson/pybtc) - Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -145,17 +145,17 @@
 
 ### Tools / Playground
 
-*   [nocodb (⭐43k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb (⭐44k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ### Runtime / Playground
 
-*   [config (⭐5)](https://github.com/mrspartak/config) - Runtime configuration resolver
+*   [config (⭐21)](https://github.com/mrspartak/config) - Runtime configuration resolver
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
-*   [RVTGB (⭐0)](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
+*   [RVTGB (⭐1)](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -163,7 +163,7 @@
 
 ### Open Source / Community
 
-*   [WXT (⭐3.3k)](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
+*   [WXT (⭐3.6k)](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 
 ## [11. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Multiple languages / [Other](#other-1)
 
-*   [Betterscan CE (⭐740)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
+*   [Betterscan CE (⭐776)](https://github.com/tcosolutions/betterscan-ce) — Checks your code and infra (various Git repositories supported, cloud stacks, CLI, Web Interface platform, integrationss available) for security and quality issues. Code Scanning/SAST/Linting using many tools/Scanners deduplicated with One Report (AI optional).
 
 ## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -195,18 +195,18 @@
 
 ### Others
 
-*   [BlazorAndTailwind (⭐106)](https://github.com/tesar-tech/BlazorAndTailwind) - ![stars](https://img.shields.io/github/stars/tesar-tech/BlazorAndTailwind?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tesar-tech/BlazorAndTailwind) Sample project, guide and tips for setting up [TailwindCSS](https://tailwindcss.com/) in Blazor.
+*   [BlazorAndTailwind (⭐107)](https://github.com/tesar-tech/BlazorAndTailwind) - ![stars](https://img.shields.io/github/stars/tesar-tech/BlazorAndTailwind?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tesar-tech/BlazorAndTailwind) Sample project, guide and tips for setting up [TailwindCSS](https://tailwindcss.com/) in Blazor.
 
 ### Component bundles
 
 *   [Blazor.WebForm.Components (⭐39)](https://github.com/Jurioli/Blazor.WebForm.Components) - ![stars](https://img.shields.io/github/stars/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jurioli/Blazor.WebForm.Components?style=flat-square\&cacheSeconds=86400) ASP.NET Web Forms System.Web.UI.WebControls Razor Components For Blazor WebAssembly. [Demo](https://blazorwebformdemo.github.io/).
-*   [ABP Framework (⭐12k)](https://github.com/abpframework/abp) - ![stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/abpframework/abp?style=flat-square\&cacheSeconds=86400) ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.
+*   [ABP Framework (⭐13k)](https://github.com/abpframework/abp) - ![stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/abpframework/abp?style=flat-square\&cacheSeconds=86400) ABP Framework is a complete infrastructure to create modern web applications by following the best practices and conventions of software development.
 
 ### 2D/3D Rendering engines / Charts
 
 *   [Blazor-Charts (⭐75)](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square\&cacheSeconds=86400) SVG charts for Blazor.
 *   [Blazor-Sparkline (⭐27)](https://github.com/Misfits-Rebels-Outcasts/Blazor-Sparkline) - ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Sparkline?style=flat-square\&cacheSeconds=86400) Sparkline Charts for Blazor using Fonts.
-*   [Blazor-ApexCharts (⭐734)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
+*   [Blazor-ApexCharts (⭐749)](https://github.com/apexcharts/Blazor-ApexCharts) - ![stars](https://img.shields.io/github/stars/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/apexcharts/Blazor-ApexCharts?style=flat-square\&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
 *   [UnlockedData.Chartist.Blazor (⭐7)](https://github.com/UnlockedData/UnlockedData.Chartist.Blazor) - ![last commit](https://img.shields.io/github/last-commit/unlockeddata/unlockeddata.chartist.blazor) Blazor wrapper for [Chartist.js](http://gionkunz.github.io/chartist-js/) bundled with [Chartist.js plugins](http://gionkunz.github.io/chartist-js/plugins.html).
 
 ### 2D/3D Rendering engines / Diagrams
@@ -225,20 +225,20 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [ChuufMaster/markdown-toc (⭐12)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
+*   [ChuufMaster/markdown-toc (⭐14)](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 
 ### Marks / Diagnostics
 
-*   [tristone13th/lspmark.nvim (⭐39)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
+*   [tristone13th/lspmark.nvim (⭐52)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/lazydev.nvim (⭐455)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐592)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
 
 ### Tmux / Diagnostics
 
-*   [karshPrime/only-tmux.nvim (⭐4)](https://github.com/karshPrime/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
-*   [karshPrime/tmux-compile.nvim (⭐6)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
+*   [karshPrime/only-tmux.nvim (⭐9)](https://github.com/karshPrime/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
+*   [karshPrime/tmux-compile.nvim (⭐12)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
 
 ## [16. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
@@ -262,12 +262,12 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-three (⭐63)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
+*   [ngx-three (⭐64)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 *   [ngx-facebook-messenger (⭐4)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [carbon-angular-starter (⭐75)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
+*   [carbon-angular-starter (⭐76)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
 
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -276,11 +276,11 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-typed-writer (⭐5)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
+*   [ngx-typed-writer (⭐6)](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@schedule-x/angular (⭐906)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+*   [@schedule-x/angular (⭐986)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -288,12 +288,12 @@
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-filepond (⭐196)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
+*   [ngx-filepond (⭐199)](https://github.com/pqina/ngx-filepond) - A handy [FilePond (⭐15k)](https://github.com/pqina/filepond) adapter component for Angular.
 
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [lumberjack (⭐182)](https://github.com/ngworker/lumberjack) - Lumberjack is a versatile Angular logging library, specifically designed to be extended and customized. It provides a few simple log drivers out-of-the-box. It's easy to enable the built-in log drivers or create and use custom log drivers.
-*   [ngx-logger (⭐426)](https://github.com/dbfannin/ngx-logger) - NGX Logger is a simple logging module for Angular (6+). It allows "pretty print" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging.
+*   [ngx-logger (⭐427)](https://github.com/dbfannin/ngx-logger) - NGX Logger is a simple logging module for Angular (6+). It allows "pretty print" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging.
 *   [angular-logger (⭐0)](https://github.com/avernixtechnologies/angular-logger) - A logger built with Angular in mind.
 *   [ngx-action-logger (⭐0)](https://github.com/TALRACE/ngx-action-logger) - Logger for Angular applications, capable of both outputting data to the console or sending data to elastic.
 *   [@Xilerth/ngx-logger (⭐1)](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
@@ -313,21 +313,21 @@
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-tooltip-directives (⭐5)](https://github.com/mkeller1992/ngx-tooltip-directives) - This library offers three different tooltip directives (string, html and template) and draws inspiration from the no longer maintained [ng2-tooltip-directive (⭐102)](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
-*   [ng2-tooltip-directive (⭐3)](https://github.com/cloudfactorydk/ng2-tooltip-directive) - Forked from [ng2-tooltip-directive (⭐102)](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
+*   [ng2-tooltip-directive (⭐4)](https://github.com/cloudfactorydk/ng2-tooltip-directive) - Forked from [ng2-tooltip-directive (⭐102)](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
 *   [angular-tooltip (⭐1)](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 *   [ngx-tippy-wrapper (⭐58)](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js (⭐12k)](https://github.com/atomiks/tippyjs).
 *   [tooltip-testing (⭐2)](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from cm-angular-tooltip
-*   [angular-ellipsis-tooltip (⭐3)](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
+*   [angular-ellipsis-tooltip (⭐4)](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [carbon-components-angular (⭐520)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+*   [carbon-components-angular (⭐525)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-signal-immutability (⭐3)](https://github.com/zuriscript/ngx-signal-immutability) - Compile-time and runtime immutability for Angular signals.
 *   [angular-paginator (⭐6)](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
-*   [ngx-flamegraph (⭐58)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
+*   [ngx-flamegraph (⭐57)](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 *   [angular-compiler-output (⭐15)](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

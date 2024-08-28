@@ -149,7 +149,7 @@
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐991)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐1k)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -265,7 +265,7 @@
 
 ### More Awesome Lists
 
-*   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+*   [Style Guides (⭐1.1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## [27. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 

@@ -24,10 +24,10 @@
 ### Manufacturers
 
 *   [Hokuyo](https://www.hokuyo-aut.jp/) - Sensor and automation manufacturer, headquartered in Osaka, Japan.
-    *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
+    *   [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://www.youtube.com/channel/UCYzJXC82IEy-h-io2REin5g)
 *   [Luminar](https://www.luminartech.com/) - LIDAR manufacturer focusing on compact, auto-grade sensors. Luminar is headquartered Palo Alto, California, USA.
-    *   [Vimeo channel :red\_circle:](https://vimeo.com/luminartech)
-    *   [GitHub organization :octocat:](https://github.com/luminartech)
+    *   [Vimeo channel ![](https://img.shields.io/badge/youtube-red?style=flat-square\&logo=youtube)](https://vimeo.com/luminartech)
+    *   [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github)](https://github.com/luminartech)
 
 ## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Apps / Forms
 
-*   [Wagtail Simple Captcha (⭐2)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.4k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
+*   [Wagtail Simple Captcha (⭐3)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.4k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
 ## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -68,13 +68,13 @@
 
 ### Integrations
 
-*   [Nerzal/gocloak Golang Keycloak API Package (⭐965)](https://github.com/Nerzal/gocloak)
+*   [Nerzal/gocloak Golang Keycloak API Package (⭐974)](https://github.com/Nerzal/gocloak)
 
 ## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐852)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐884)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ### Components & Libraries / Utilities
 

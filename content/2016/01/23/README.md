@@ -82,7 +82,7 @@
 
 ### Python / Scala
 
-*   [Nameko (⭐4.6k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
+*   [Nameko (⭐4.7k)](https://github.com/onefinestay/nameko) - Python framework for building microservices.
 *   [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 
 ---

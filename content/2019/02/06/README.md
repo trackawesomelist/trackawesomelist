@@ -80,12 +80,12 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [OpenAPI Generator (⭐18k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+*   [OpenAPI Generator (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Bleak](https://github.com/Akaion/Bleak) - A Windows native DLL injection library.
-*   [NFlags (⭐45)](https://github.com/bartoszgolek/NFlags) - Simple library to made parsing CLI arguments easy. Library also allow to print usage help "out of box".
+*   [NFlags (⭐49)](https://github.com/bartoszgolek/NFlags) - Simple library to made parsing CLI arguments easy. Library also allow to print usage help "out of box".
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

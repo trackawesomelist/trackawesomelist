@@ -16,7 +16,7 @@
 
 ### Packages / Apps
 
-*   [web-audio-mixer (⭐97)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
+*   [web-audio-mixer (⭐99)](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 
 ### Resources / Community
 
@@ -56,7 +56,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐788)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐801)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ---
 

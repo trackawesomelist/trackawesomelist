@@ -33,7 +33,7 @@
 
 ### Security
 
-*   [VPN Manager (⭐150)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
+*   [VPN Manager (⭐154)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

@@ -59,12 +59,12 @@
 
 ### Other Useful Repositories
 
-- Repository: [Resource List (⭐317)](https://github.com/FuzzySecurity/Resource-List)
+- Repository: [Resource List (⭐324)](https://github.com/FuzzySecurity/Resource-List)
 
   Description: Collection of useful GitHub projects loosely categorised
 
 
-- Repository: [Reverse Engineering (⭐2.2k)](https://github.com/onethawt/reverseengineering-reading-list)
+- Repository: [Reverse Engineering (⭐2.3k)](https://github.com/onethawt/reverseengineering-reading-list)
 
   Description: List of Reverse Engineering articles, books, and papers
 

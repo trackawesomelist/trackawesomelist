@@ -10,7 +10,7 @@
 
 ### Packages / Weird
 
-*   [cat-names (⭐271)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
+*   [cat-names (⭐270)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 *   [dog-names (⭐124)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
@@ -32,7 +32,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Coverband (⭐2.4k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+*   [Coverband (⭐2.5k)](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

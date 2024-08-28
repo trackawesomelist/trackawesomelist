@@ -11,7 +11,7 @@
 ### Frameworks, Libraries and Tools / Tools
 
 *   [X.Web.Sitemap (⭐5)](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
-*   [X.Web.RSS (⭐25)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
+*   [X.Web.RSS (⭐26)](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 

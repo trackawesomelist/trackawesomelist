@@ -42,16 +42,16 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [CAP (⭐6.2k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for system integration in SOA or Microservice architecture.
+*   [CAP (⭐6.6k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for system integration in SOA or Microservice architecture.
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Swastika I/O Core CMS (⭐134)](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
+*   [Swastika I/O Core CMS (⭐135)](https://github.com/Swastika-IO/Swastika-IO-Core) - Open source ASP.NET Core 2.x CMS. It currently supports MS SQL and planned to implement MSSQL, SQLite in the near future. It has many built-in features out of the box like multilanguage support, theme, template...
 
 ### Frameworks, Libraries and Tools / Graphics
 
-*   [LibVLCSharp (⭐1.3k)](https://github.com/videolan/libvlcsharp): .NET/Mono bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
-*   [MagicScaler (⭐486)](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
+*   [LibVLCSharp (⭐1.4k)](https://github.com/videolan/libvlcsharp): .NET/Mono bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
+*   [MagicScaler (⭐570)](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

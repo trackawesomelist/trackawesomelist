@@ -68,7 +68,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [WaveFunctionCollapse (⭐22k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+*   [WaveFunctionCollapse (⭐23k)](https://github.com/mxgmn/WaveFunctionCollapse) - itmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 
 ---
 

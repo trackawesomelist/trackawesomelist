@@ -32,22 +32,22 @@
 
 ### Theming
 
-*   [Create Material-UI Theme (⭐87)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
+*   [Create Material-UI Theme (⭐88)](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
 *   [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) - Material-UI theme/palette generator.
 *   [Material-UI Theme Editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
 
 ### Related Projects
 
-*   [Components Extra (⭐91)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+*   [Components Extra (⭐88)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 
 ### Components
 
 *   [Material-UI Password field (⭐58)](https://github.com/TeamWertarbyte/material-ui-password-field) - A password field using Material-UI.
 *   [Fullscreen Dialog (⭐58)](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) - A fullscreen dialog for Material-UI.
-*   [Notistack (⭐3.7k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
-*   [Material-UI Dropzone (⭐478)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
-*   [Formik-Material-UI (⭐968)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
-*   [Redux-Form-Material-UI (⭐834)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
+*   [Notistack (⭐3.9k)](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
+*   [Material-UI Dropzone (⭐484)](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
+*   [Formik-Material-UI (⭐971)](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
+*   [Redux-Form-Material-UI (⭐831)](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
 *   [Final-Form-Material-UI (⭐92)](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material-UI with Final Form.
 *   [Material-UI Auto Rotating Carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
 *   [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
@@ -79,7 +79,7 @@
 
 ### Software / Continuous Integration & Continuous Deployment
 
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.2k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐7.3k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -103,11 +103,11 @@
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [NLog (⭐6k)](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
-    *   [NLog for ASP.NET and ASP.NET Core (⭐306)](https://github.com/NLog/NLog.Web) - NLog integration for ASP.NET & ASP.NET Core 1-3
-    *   [NLog.Extensions.Logging (⭐382)](https://github.com/NLog/NLog.Extensions.Logging) - NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
-    *   [NLog.Windows.Forms (⭐42)](https://github.com/NLog/NLog.Windows.Forms) - NLog targets specific for Windows.Forms
-    *   [NLog.MailKit (⭐11)](https://github.com/NLog/NLog.MailKit) - Alternative Mail target using the using MailKit library
+*   [NLog (⭐6.3k)](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging with support for structured and non structured logging.
+    *   [NLog for ASP.NET and ASP.NET Core (⭐316)](https://github.com/NLog/NLog.Web) - NLog integration for ASP.NET & ASP.NET Core 1-3
+    *   [NLog.Extensions.Logging (⭐391)](https://github.com/NLog/NLog.Extensions.Logging) - NLog Provider for Microsoft.Extensions.Logging for .NET Standard libraries and .NET Core applications
+    *   [NLog.Windows.Forms (⭐44)](https://github.com/NLog/NLog.Windows.Forms) - NLog targets specific for Windows.Forms
+    *   [NLog.MailKit (⭐13)](https://github.com/NLog/NLog.MailKit) - Alternative Mail target using the using MailKit library
 
 ## [12. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
@@ -287,7 +287,7 @@
 
 ### Remote Work / Technical Debt
 
-*   [Awesome Remote Job (⭐28k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
+*   [Awesome Remote Job (⭐29k)](https://github.com/lukasz-madon/awesome-remote-job) - Resources on working remotely, including job boards, coworking spaces, and a list of companies embracing the culture.
 
 ### Agile / Tickets
 
@@ -365,7 +365,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐424)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐428)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -568,8 +568,8 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Idea Re-Vue (⭐14)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
-*   [VueFront (⭐389)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
-*   [MQTTX (⭐3.6k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [VueFront (⭐388)](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
+*   [MQTTX (⭐3.8k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 *   [super.ba (⭐3)](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
 ### Components & Libraries / UI Components
@@ -597,7 +597,7 @@
 
 ### Other / Godot version unknown
 
-*   [godot-gdscript-toolkit (⭐832)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
+*   [godot-gdscript-toolkit (⭐925)](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter (Godot 3.x).
 
 ## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
@@ -657,7 +657,6 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 *   [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
 *   [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - Setting up load tests and visualizing them using grafana dashboards.
-*   [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - Detailed comparison of the most popular open source load testing tools.
 *   [CloudPosse's Load Testing Stack (⭐54)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 
 ### Tools
@@ -720,7 +719,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐465)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐474)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -736,16 +735,16 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Testing
 
-*   [Testing (⭐1.7k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+*   [Testing (⭐1.8k)](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 *   [Visual Regression Testing (⭐2.1k)](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-*   [Selenium (⭐998)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-*   [Appium (⭐426)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-*   [TAP (⭐621)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-*   [JMeter (⭐700)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+*   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+*   [Appium (⭐429)](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+*   [TAP (⭐624)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+*   [JMeter (⭐707)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 
 ### Related
 
-*   [Awesome CLI (⭐484)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐496)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [51. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
@@ -798,7 +797,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Maps
 
-*   [WhirlyGlobe-Maply (⭐827)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+*   [WhirlyGlobe-Maply (⭐826)](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 ---
 

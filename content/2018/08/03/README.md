@@ -43,7 +43,7 @@
 
 ### Concurrency
 
-*   [transwarp (⭐619)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
+*   [transwarp (⭐621)](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. \[MIT]
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -107,7 +107,7 @@
 ### Softwares / Launchers
 
 *   [MultiMC (⭐4.2k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐6.5k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [HMCL (⭐6.7k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [10. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 

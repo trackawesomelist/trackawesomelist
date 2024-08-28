@@ -10,7 +10,7 @@
 
 ### C++
 
-*   [Enduro/X (⭐123)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+*   [Enduro/X (⭐125)](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
 
 ## [2. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 

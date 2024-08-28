@@ -16,15 +16,15 @@
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NSwag (⭐6.1k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
+*   [NSwag (⭐6.7k)](https://github.com/RSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. <http://NSwag.org>.
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
-*   [PayPal (⭐527)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
+*   [PayPal (⭐535)](https://github.com/paypal/PayPal-NET-SDK) - .NET SDK for PayPal's RESTful APIs.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Fody (⭐4.1k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+*   [Fody (⭐4.3k)](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [substitute.js (⭐199)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+*   :octocat: [substitute.js (⭐200)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 
 ## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

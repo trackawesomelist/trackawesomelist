@@ -16,7 +16,7 @@
 
 ### Utilities
 
-*   [Lan Mouse (⭐2.1k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+*   [Lan Mouse (⭐2.2k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Keybinding / Diagnostics
 
-*   [tris203/hawtkeys.nvim (⭐208)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐214)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ---
 

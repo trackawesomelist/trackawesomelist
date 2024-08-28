@@ -10,7 +10,7 @@
 
 ### Template Engine
 
-*   [Stubble (⭐393)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
+*   [Stubble (⭐397)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
 ## [2. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Geolocation
 
-*   [geohash (⭐26)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
+*   [geohash (⭐27)](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 
 ### Text and Numbers
 

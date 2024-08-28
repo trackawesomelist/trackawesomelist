@@ -54,7 +54,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [ML-From-Scratch (⭐23k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+*   [ML-From-Scratch (⭐24k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 
 ## [8. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Testing / Scala
 
-*   [Goreplay (⭐18k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
+*   [Goreplay (⭐19k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
 ## [10. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -348,14 +348,10 @@
 
 ## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
-### Multimedia
-
-*   [Vocal (⭐350)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
-
 ### Icons / Material Icons
 
 *   [Paper](https://snwh.org/paper) - Material icon theme.
-*   [Papirus (⭐6.5k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+*   [Papirus (⭐6.6k)](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 ### Icons / Flat Icons
 
@@ -363,7 +359,7 @@
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐269)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -453,8 +449,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeafPlayer (⭐153)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
-*   [JSON Editor (⭐233)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+*   [LeafPlayer (⭐155)](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+*   [JSON Editor (⭐234)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
 ### Components & Libraries / UI Utilities
 
@@ -553,7 +549,7 @@
 
 ### Debugging
 
-*   [ex\_debug\_toolbar (⭐406)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+*   [ex\_debug\_toolbar (⭐405)](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 
 ### Deployment
 
@@ -588,11 +584,11 @@
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [Auth0 (⭐298)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+*   [Auth0 (⭐325)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Spreads (⭐401)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
+*   [Spreads (⭐424)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
 ## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 

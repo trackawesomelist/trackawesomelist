@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐941)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐942)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [Microsoft Caching (⭐480)](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
+*   [Microsoft Caching (⭐478)](https://github.com/aspnet/Caching) - Libraries for in-memory caching and distributed caching.
 
 ### Frameworks, Libraries and Tools / Web Framework
 
@@ -67,7 +67,7 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [JsonMapper (⭐1.5k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+*   [JsonMapper (⭐1.6k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
 ## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

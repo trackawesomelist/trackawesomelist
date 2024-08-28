@@ -43,32 +43,82 @@
 
 ### **LlamaIndex**
 
-*   LlamaIndex Toolkits: `LlamaHub`: A library of data loaders for LLMs [git (⭐3.4k)](https://github.com/run-llama/llama-hub) \[Feb 2023] / `LlamaIndex CLI`: a command line tool to generate LlamaIndex apps [ref](https://llama-2.ai/llamaindex-cli/) \[Nov 2023] / `LlamaParse`: A unique parsing tool for intricate documents [git (⭐1.8k)](https://github.com/run-llama/llama_parse) \[Feb 2024]
+*   LlamaIndex Toolkits: `LlamaHub`: A library of data loaders for LLMs [git (⭐3.4k)](https://github.com/run-llama/llama-hub) \[Feb 2023] / `LlamaIndex CLI`: a command line tool to generate LlamaIndex apps [ref](https://llama-2.ai/llamaindex-cli/) \[Nov 2023] / `LlamaParse`: A unique parsing tool for intricate documents [git (⭐2.3k)](https://github.com/run-llama/llama_parse) \[Feb 2024]
 
-### **Memory Optimization** / **Llama 2 Finetuning**
+    <details>
+      <summary>High-Level Concepts</summary>
+
+    *   Query engine vs Chat engine
+
+        1.  The query engine wraps a `retriever` and a `response synthesizer` into a pipeline, that will use the query string to fetch nodes (sentences or paragraphs) from the index and then send them to the LLM (Language and Logic Model) to generate a response
+        2.  The chat engine is a quick and simple way to chat with the data in your index. It uses a `context manager` to keep track of the conversation history and generate relevant queries for the retriever. Conceptually, it is a `stateful` analogy of a Query Engine.
+
+    *   Storage Context vs Settings (p.k.a. Service Context)
+
+        *   Both the Storage Context and Service Context are data classes.
+
+        <!-- ```python
+        index = load_index_from_storage(storage_context, service_context=service_context)
+        ``` -->
+
+        1.  Introduced in v0.10.0, ServiceContext is replaced to Settings object.
+        2.  Storage Context is responsible for the storage and retrieval of data in Llama Index, while the Service Context helps in incorporating external context to enhance the search experience.
+        3.  The Service Context is not directly involved in the storage or retrieval of data, but it helps in providing a more context-aware and accurate search experience.
+
+    ```python
+    # The storage context container is a utility container for storing nodes, indices, and vectors.
+    class StorageContext:
+      docstore: BaseDocumentStore
+      index_store: BaseIndexStore
+      vector_store: VectorStore
+      graph_store: GraphStore
+    ```
+
+    ```python
+    # The service context container is a utility container for LlamaIndex index and query classes.
+    class ServiceContext:
+      llm_predictor: BaseLLMPredictor
+      prompt_helper: PromptHelper
+      embed_model: BaseEmbedding
+      node_parser: NodeParser
+      llama_logger: LlamaLogger
+      callback_manager: CallbackManager
+    ```
+
+    ```python
+    @dataclass
+    class _Settings:
+      # lazy initialization
+      _llm: Optional[LLM] = None
+      _embed_model: Optional[BaseEmbedding] = None
+      _callback_manager: Optional[CallbackManager] = None
+      _tokenizer: Optional[Callable[[str], List[Any]]] = None
+      _node_parser: Optional[NodeParser] = None
+      _prompt_helper: Optional[PromptHelper] = None
+      _transformations: Optional[List[TransformComponent]] = None
+    ```
+
+       </details>
+
+### **Memory Optimization** / **Llama Finetuning**
 
 *   [CPU vs GPU vs TPU](https://newsletter.theaiedge.io/p/how-to-scale-model-training): The threads are grouped into thread blocks. Each of the thread blocks has access to a fast shared memory (SRAM). All the thread blocks can also share a large global memory. (high-bandwidth memories (HBM). `HBM Bandwidth: 1.5-2.0TB/s vs SRAM Bandwidth: 19TB/s ~ 10x HBM` \[27 May 2024]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Kolmogorov-Arnold Networks (KANs)](https://arxiv.org/abs/2404.19756): KANs use activation functions on connections instead of nodes like Multi-Layer Perceptrons (MLPs) do. Each weight in KANs is replaced by a learnable 1D spline function. KANs’ nodes simply sum incoming signals without applying any non-linearities. [git (⭐14k)](https://github.com/KindXiaoming/pykan) \[30 Apr 2024] / [ref](https://www.dailydoseofds.com/a-beginner-friendly-introduction-to-kolmogorov-arnold-networks-kan/): A Beginner-friendly Introduction to Kolmogorov Arnold Networks (KAN) \[19 May 2024]
 
 ### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
 
-*   [llm.c (⭐21k)](https://github.com/karpathy/llm.c): LLM training in simple, raw C/CUDA \[Apr 2024]
-    *   Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 [ref (⭐21k)](https://github.com/karpathy/llm.c/discussions/481)
+*   [llm.c (⭐23k)](https://github.com/karpathy/llm.c): LLM training in simple, raw C/CUDA \[Apr 2024]
+    *   Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20 [ref (⭐23k)](https://github.com/karpathy/llm.c/discussions/481)
 
 ### **Learning and Supplementary Materials** / Korean
 
 *   [DAIR.AI](https://github.com/dair-ai): Machine learning & NLP research ([omarsar github](https://github.com/omarsar))
-    *   [ML Papers of The Week (⭐9.3k)](https://github.com/dair-ai/ML-Papers-of-the-Week) \[Jan 2023]
-*   [Daily Dose of Data Science (⭐748)](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) \[Dec 2022]
+    *   [ML Papers of The Week (⭐9.7k)](https://github.com/dair-ai/ML-Papers-of-the-Week) \[Jan 2023]
+*   [Daily Dose of Data Science (⭐764)](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) \[Dec 2022]
 *   [Machine learning algorithms (⭐11k)](https://github.com/rushter/MLAlgorithms): ml algorithms or implementation from scratch \[Oct 2016]
-
-### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
-
-*   [KHOJ (⭐12k)](https://github.com/khoj-ai/khoj): Open-source, personal AI agents. Cloud or Self-Host, Multiple Interfaces. Python Django based \[Aug 2021]
-*   [PR-Agent (⭐4.9k)](https://github.com/Codium-ai/pr-agent): Efficient code review and handle pull requests, by providing AI feedbacks and suggestions \[Jan 2023]
 
 ## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -86,42 +136,42 @@
 
 ### Search / Diagnostics
 
-*   [MagicDuck/grug-far.nvim (⭐217)](https://github.com/MagicDuck/grug-far.nvim) - Buffer-based live search and replace with full power of `rg` flags. Grug like!
+*   [MagicDuck/grug-far.nvim (⭐586)](https://github.com/MagicDuck/grug-far.nvim) - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 
 ### CSV Files / Diagnostics
 
-*   [emmanueltouzery/decisive.nvim (⭐54)](https://github.com/emmanueltouzery/decisive.nvim) - View and edit CSV files with ease and speed.
+*   [emmanueltouzery/decisive.nvim (⭐67)](https://github.com/emmanueltouzery/decisive.nvim) - View and edit CSV files with ease and speed.
 
 ### Keybinding / Diagnostics
 
-*   [slugbyte/unruly-worker.nvim (⭐34)](https://github.com/slugbyte/unruly-worker.nvim) - A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua.
+*   [slugbyte/unruly-worker.nvim (⭐36)](https://github.com/slugbyte/unruly-worker.nvim) - A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua.
 
 ## [9. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Command-Line Productivity
 
-*   [utility-bash-scripts (⭐412)](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
+*   [utility-bash-scripts (⭐416)](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 
 ## [10. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
-*   [MySQLTuner-perl (⭐8.7k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
+*   [MySQLTuner-perl (⭐8.8k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
 
 ### Backup
 
-*   [Dumpling (⭐36k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
-*   [MyDumper (⭐2.4k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
-*   [Percona Xtrabackup (⭐1.2k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+*   [Dumpling (⭐37k)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+*   [MyDumper (⭐2.5k)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
+*   [Percona Xtrabackup (⭐1.3k)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ### Benchmarking
 
-*   [TPCC-MySQL (⭐472)](https://github.com/Percona-Lab/tpcc-mysql) (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+*   [TPCC-MySQL (⭐477)](https://github.com/Percona-Lab/tpcc-mysql) (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
 
 ### Binlog-Replication
 
-*   [DM (⭐413)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+*   [DM (⭐417)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 
 ### Connectors
 
@@ -130,23 +180,23 @@
 
 ### GUI
 
-*   [SQLyog Community edition (⭐2.1k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-*   [WebDB (⭐122)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
+*   [SQLyog Community edition (⭐2.2k)](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+*   [WebDB (⭐157)](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ### Proxy
 
-*   [ProxySQL (⭐5.8k)](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
+*   [ProxySQL (⭐5.9k)](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
 
 ### Toolkits
 
 *   [go-mysql (⭐4.5k)](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
-*   [UnDROP (⭐372)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
+*   [UnDROP (⭐380)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 ## [11. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
-*   [AWS Data Wrangler (⭐3.8k)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
+*   [AWS Data Wrangler (⭐3.9k)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
 
 ### File System
 
@@ -161,13 +211,13 @@
 
 ### 3D / Godot 4.2
 
-*   [LibreAim (⭐58)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐96)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 
 ## [13. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
-*   [sesh (⭐345)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
+*   [sesh (⭐476)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
 
 ## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -177,11 +227,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pagefind (⭐12)](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
+*   [vite-plugin-pagefind (⭐14)](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
 
 ### Open Source / Community
 
-*   [Gracile (⭐17)](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
+*   [Gracile (⭐23)](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
 
 ## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -192,18 +242,18 @@
 *   [conda (wardhanisukoco) (⭐0)](https://github.com/wardhanisukoco/zsh-plugin-conda/) - Automatically loads `conda` and provides functions for detecting `conda` versions for use in themes.
 *   [jrgit (⭐0)](https://github.com/jrocha-dev/ohmyzsh-plugin-jrgit) - Provides a suite of functions to streamline the Git user experience. It includes features for installing and configuring Git, handling large files with Git LFS, improving diff outputs, and managing credentials and keys securely.
 *   [tab-title (p1r473) (⭐1)](https://github.com/p1r473/tab-title/) - Rename [tmux (⭐34k)](https://github.com/tmux/tmux/wiki) and [screen](https://www.gnu.org/software/screen/manual/screen.html) panes and windows.
-*   [tab-title (trystan2k) (⭐49)](https://github.com/trystan2k/zsh-tab-title) - Set the terminal tab title according to current directory or running process. Forked from [termsupport.zsh (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/termsupport.zsh).
-*   [yazi-zoxide (⭐0)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐20k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐9.9k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
+*   [tab-title (trystan2k) (⭐49)](https://github.com/trystan2k/zsh-tab-title) - Set the terminal tab title according to current directory or running process. Forked from [termsupport.zsh (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/termsupport.zsh).
+*   [yazi-zoxide (⭐2)](https://github.com/fdw/yazi-zoxide-zsh) - This plugin for [zsh](https://www.zsh.org) adds just one shortcut, but unfolds the magic of both [Zoxide (⭐21k)](https://github.com/ajeetdsouza/zoxide) and [yazi (⭐14k)](https://github.com/sxyazi/yazi/). Without arguments, `y` just opens yazi. If you supply an argument that is a directory, `yazi` is opened in that directory. But if you supply anything else as an argument, `zoxide` is called with the argument and `yazi` is opened there.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tailscale (heroeslament) (⭐6)](https://github.com/HeroesLament/zsh-tailscale-plugin) - Tab completion and aliases for [tailscale](https://www.tailscale.com/).
-*   [tailscale (hsrzq) (⭐2)](https://github.com/hsrzq/PluginForTailscale) - Tab completions for [tailscale](https://www.tailscale.com/). Only works on macOS.
+*   [tailscale (heroeslament) (⭐7)](https://github.com/HeroesLament/zsh-tailscale-plugin) - Tab completion and aliases for [tailscale](https://www.tailscale.com/).
+*   [tailscale (hsrzq) (⭐3)](https://github.com/hsrzq/PluginForTailscale) - Tab completions for [tailscale](https://www.tailscale.com/). Only works on macOS.
 *   [zpacman (⭐0)](https://github.com/Yttehs-HDX/zsh-zpacman/) - Add tab completions for [zpacman](https://github.com/Yttehs-HDX/zpacman.git).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [appa (⭐0)](https://github.com/givensuman/appa-zsh-theme) - A tidy little theme based on omz's [refined (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/refined.zsh-theme). Requires a Nerd Font.
+*   [appa (⭐0)](https://github.com/givensuman/appa-zsh-theme) - A tidy little theme based on omz's [refined (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/refined.zsh-theme). Requires a Nerd Font.
 *   [pronto (arzezak) (⭐0)](https://github.com/arzezak/pronto) - A super simple prompt with decorators for the current directory and `git` information.
 *   [pronto (jthat) (⭐1)](https://github.com/jthat/zsh-pronto) - Simple and fast theme with `git` decorations and timing information.
 
@@ -224,12 +274,15 @@
 *   [Tomas Trajan](https://tomastrajan.medium.com/)
 *   [Igor Katsuba](https://blog.katsuba.dev/)
 
+### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [buoy (⭐7)](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
+
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-jwt (⭐1)](https://github.com/rars/ngx-jwt) - Angular library for injecting JWT tokens to HTTP requests.
-*   [buoy (⭐7)](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
 *   [ngx-generic-rest-service (⭐0)](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
-*   [@ngify/http (⭐99)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
+*   [@ngify/http (⭐98)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -239,26 +292,26 @@
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [karma-image-snapshot (⭐5)](https://github.com/maksimr/karma-image-snapshot) - Karma jasmine matcher that performs image comparisons based on [jest-image-snapshot (⭐3.8k)](https://github.com/americanexpress/jest-image-snapshot) for visual regression testing.
-*   [jest-marbles (⭐109)](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
-*   [jest-codemods (⭐872)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
+*   [jest-marbles (⭐111)](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
+*   [jest-codemods (⭐877)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
 *   [ts-jest (⭐6.9k)](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-*   [stryker-js (⭐2.5k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
-*   [msw (⭐15k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+*   [stryker-js (⭐2.6k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
+*   [msw (⭐16k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [ngx-speculoos (⭐71)](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
-*   [shallow-render (⭐270)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+*   [shallow-render (⭐272)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-flowchart (⭐136)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
+*   [ng-flowchart (⭐138)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-highlightjs (⭐272)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
-*   [ngx-sharebuttons (⭐518)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
+*   [ngx-sharebuttons (⭐520)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-bar-rating (⭐210)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
+*   [ngx-bar-rating (⭐212)](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -266,29 +319,29 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-scrollbar (⭐593)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
+*   [ngx-scrollbar (⭐604)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-diff (⭐21)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
+*   [ngx-diff (⭐22)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng2csv (⭐6)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
-*   [@ui-router/angular (⭐349)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
+*   [@ui-router/angular (⭐351)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
 *   [ngx-csv-parser (⭐25)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 
 ## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Type Challenges (⭐41k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
+*   :octocat: [Type Challenges (⭐42k)](https://github.com/type-challenges/type-challenges) Collection of TypeScript type challenges with online judge.
 
 ## [18. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
-*   [Anchor (⭐5)](https://github.com/SongStitch/anchor/) - A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles [@SongStitch](https://github.com/songStitch/)
+*   [Anchor (⭐9)](https://github.com/SongStitch/anchor/) - A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles [@SongStitch](https://github.com/songStitch/)
 
 ---
 

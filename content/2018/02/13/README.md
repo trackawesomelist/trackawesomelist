@@ -20,11 +20,11 @@
 
 ### Feeds
 
-*   [atomex (⭐53)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐54)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
-*   [skooma (⭐141)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [skooma (⭐142)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 
 ## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
-*   [Accord (⭐4.4k)](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
+*   [Accord (⭐4.5k)](https://github.com/accord-net/framework) - Machine learning, computer vision, statistics and general scientific computing for .NET.
 
 ## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

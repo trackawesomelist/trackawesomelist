@@ -10,7 +10,7 @@
 
 ### Tools / Playground
 
-*   [pg (⭐308)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐327)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 

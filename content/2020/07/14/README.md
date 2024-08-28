@@ -48,7 +48,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-ics (⭐17)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
+*   [vue-ics (⭐18)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

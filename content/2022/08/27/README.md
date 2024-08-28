@@ -27,7 +27,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐104)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐105)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐1)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -72,9 +72,9 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐106)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/limited-wip (⭐108)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐134)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐528)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvvm (⭐531)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
@@ -107,36 +107,36 @@
 
 *   Database Honeypots
 
-    *   [Delilah (⭐18)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
+    *   [Delilah (⭐20)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
     *   [ESPot (⭐25)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
-    *   [Elastic honey (⭐180)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
-    *   [MongoDB-HoneyProxy (⭐87)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
+    *   [Elastic honey (⭐182)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
+    *   [MongoDB-HoneyProxy (⭐88)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
     *   [NoSQLpot (⭐102)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
-    *   [mysql-honeypotd (⭐27)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+    *   [mysql-honeypotd (⭐29)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
     *   [MysqlPot (⭐20)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
-    *   [pghoney (⭐16)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
-    *   [sticky\_elephant (⭐7)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
-    *   [RedisHoneyPot (⭐13)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
+    *   [pghoney (⭐17)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    *   [sticky\_elephant (⭐9)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
+    *   [RedisHoneyPot (⭐16)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐146)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐153)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [12. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Capsulecorp Pentest (⭐763)](https://github.com/r3dy/capsulecorp-pentest)
+- Repository: [Capsulecorp Pentest (⭐798)](https://github.com/r3dy/capsulecorp-pentest)
 
   Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
 
 
-- Repository: [Real-time Communications hacking & pentesting resources (⭐353)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- Repository: [Real-time Communications hacking & pentesting resources (⭐391)](https://github.com/EnableSecurity/awesome-rtc-hacking)
 
   Description: Covers VoIP, WebRTC and VoLTE security related topics
 
 
-- Repository: [Reinforcement Learning for Cyber Security (⭐636)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+- Repository: [Reinforcement Learning for Cyber Security (⭐712)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
   Description: List of awesome reinforcement learning for security resources
 
@@ -146,7 +146,7 @@
 
 ### Applications
 
-*   [fend (⭐590)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐609)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 

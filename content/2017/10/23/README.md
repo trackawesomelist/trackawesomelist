@@ -45,7 +45,7 @@
 
 ### HTTP
 
-*   [crest (⭐233)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐234)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [CliWrap (⭐3.9k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
+*   [CliWrap (⭐4.3k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 
 ## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

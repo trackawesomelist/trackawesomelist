@@ -260,7 +260,7 @@
 
 ### Examples and funny stuff
 
-*   [coderplanets.com (⭐220)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
+*   [coderplanets.com (⭐219)](https://github.com/coderplanets/coderplanets_server) - GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe.
 
 ## [17. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -326,21 +326,21 @@
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Firefox GNOME Theme (⭐3.3k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+*   [Firefox GNOME Theme (⭐3.4k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
 ## [24. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Indicators
 
-*   [pandas\_talib (⭐707)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
+*   [pandas\_talib (⭐729)](https://github.com/femtotrader/pandas_talib) - A Python Pandas implementation of technical analysis indicators.
 
 ### Python / Trading & Backtesting
 
-*   [ta (⭐4.1k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
-*   [pyqstrat (⭐349)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
-*   [NowTrade (⭐99)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-*   [pinkfish (⭐260)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
-*   [aat (⭐12)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
+*   [ta (⭐4.2k)](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
+*   [pyqstrat (⭐356)](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+*   [NowTrade (⭐102)](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+*   [pinkfish (⭐263)](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+*   [aat (⭐639)](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine
 *   [Backtesting.py](https://kernc.github.io/backtesting.py/) - Backtest trading strategies in Python
 *   [catalyst (⭐2.5k)](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 
@@ -542,9 +542,9 @@
 ### Open Source Projects
 
 *   [Firebase push notifications in Ionic 4 (⭐3)](https://github.com/enappd/ionic-4-push) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Receive SMS automatically in Ionic 4 (⭐11)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Playing music in Ionic 4 (⭐40)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
-*   [Ionic 4 Stripe Payment Integration (⭐10)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Receive SMS automatically in Ionic 4 (⭐10)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Playing music in Ionic 4 (⭐43)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Stripe Payment Integration (⭐9)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 PayPal Payment Integration (⭐9)](https://github.com/enappd/ionic4-paypal) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Apple Pay Payment Integration (⭐7)](https://github.com/enappd/ionic4-applepay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
 *   [Ionic 4 Razorpay Payment Integration (⭐4)](https://github.com/enappd/ionic4-razorpay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
@@ -600,7 +600,7 @@
 
 ### GUI
 
-*   [Boden (⭐1.6k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Proprietary] [website](https://www.boden.io)
+*   [Boden (⭐1.7k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Proprietary] [website](https://www.boden.io)
 
 ### JSON
 
@@ -672,7 +672,7 @@
 
 ### CLOS extensions
 
-*   [specialization-store (⭐29)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
+*   [specialization-store (⭐30)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 
 ### Data validation / Third-party APIs
 
@@ -700,7 +700,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.2k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐3.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
 
 ---
 

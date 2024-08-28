@@ -45,7 +45,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Gridder (⭐65)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+*   [Wagtail Gridder (⭐67)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 
 ---
 

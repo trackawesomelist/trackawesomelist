@@ -61,7 +61,7 @@
 
 ### For Developers
 
-*   [mkdkr (⭐363)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+*   [mkdkr (⭐364)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Typescript Project Starters
 
-*   [jsynowiec/node-typescript-boilerplate (⭐2.6k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+*   [jsynowiec/node-typescript-boilerplate (⭐2.7k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

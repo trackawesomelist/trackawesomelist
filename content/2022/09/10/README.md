@@ -16,7 +16,7 @@
 
 ### Uncategorized
 
-*   [Hime Display (⭐180)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
+*   [Hime Display (⭐184)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
 ## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

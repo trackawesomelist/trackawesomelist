@@ -78,15 +78,15 @@
 
 ### Apps / Blogging/news
 
-*   [Snotra\_RSS (⭐15)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
+*   [Snotra\_RSS (⭐16)](https://github.com/olopost/snotra_rss) - Snotra\_RSS is an Atom and RSS news aggregator app for Wagtail.
 
-### Apps / Misc
+### Apps / Content Management
 
-*   [Wagtail Tag Manager (⭐70)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐74)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
-*   [Project TIER (⭐11)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
+*   [Project TIER (⭐13)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
 ## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 

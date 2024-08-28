@@ -82,7 +82,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [AgentVerse (⭐3.9k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
+*   [AgentVerse (⭐4k)](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 
 ## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 

@@ -30,7 +30,7 @@
 
 ### Configuration / Infrastructure
 
-*   [appserver.io (⭐968)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+*   [appserver.io (⭐967)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

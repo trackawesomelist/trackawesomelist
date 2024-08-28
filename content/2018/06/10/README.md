@@ -76,22 +76,22 @@
 
 ### Packages / Routing addons
 
-*   [ember-redirect (⭐28)](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
+*   [ember-redirect (⭐27)](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
-*   [Miniblog (⭐1.4k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
-*   [Orchard Core CMS (⭐6.8k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
+*   [Miniblog (⭐1.5k)](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
+*   [Orchard Core CMS (⭐7.3k)](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [SharpRepository (⭐649)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
+*   [SharpRepository (⭐659)](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [posh-dotnet (⭐44)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
+*   [posh-dotnet (⭐45)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
 
 ---
 

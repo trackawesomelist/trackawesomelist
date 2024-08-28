@@ -17,7 +17,7 @@
 
 ### Third-party APIs
 
-*   [raven.cr (⭐119)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐38k)](https://github.com/getsentry/sentry)
+*   [raven.cr (⭐120)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐38k)](https://github.com/getsentry/sentry)
 
 ## [3. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

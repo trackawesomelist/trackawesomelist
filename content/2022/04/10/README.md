@@ -16,7 +16,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [@morev/vue-transitions (⭐179)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
+*   [@morev/vue-transitions (⭐186)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Other plugins
 
-*   [Document Scanner (⭐64)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
+*   [Document Scanner (⭐66)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
 
 ## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

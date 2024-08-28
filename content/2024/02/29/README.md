@@ -20,12 +20,12 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@tomjs/vite-plugin-electron (⭐2)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
+*   [@tomjs/vite-plugin-electron (⭐3)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 
 ### Drupal / Community
 
 *   [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
-*   [vite-plugin-twig-drupal (⭐15)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
+*   [vite-plugin-twig-drupal (⭐16)](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -39,13 +39,13 @@
 
 *   [PromptBench (⭐2.3k)](https://github.com/microsoft/promptbench): A unified evaluation framework for large language models \[Jun 2023]
 
-### **Langchain Agent & Memory** / Langchain Agent
+### **LangChain Agent & Memory** / LangChain Agent
 
 *   `self-ask-with-search`: [Measuring and Narrowing the Compositionality Gap in Language Models](https://arxiv.org/abs/2210.03350) \[7 Oct 2022]
 *   `react-docstore`: [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) \[6 Oct 2022]
 *   Agent Type
 
-### **Langchain Agent & Memory** / Langchain Memory
+### **LangChain Agent & Memory** / LangChain Memory
 
 *   `ConversationBufferMemory`: Stores the entire conversation history.
 *   `ConversationBufferWindowMemory`: Stores recent messages from the conversation history.
@@ -71,7 +71,7 @@
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
 *   [Prompt Engineering Guide](https://www.promptingguide.ai/): 🏆Copyright © 2023 DAIR.AI
-*   [LLM Prompt Engineering Simplified (⭐101)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) \[Feb 2024]
+*   [LLM Prompt Engineering Simplified (⭐102)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) \[Feb 2024]
 
 ### **OpenAI's Roadmap and Products** / **GPT series release date**
 
@@ -93,6 +93,7 @@
     *   [ChatGPT’s One-year Anniversary: Are Open-Source Large Language Models Catching up?](#section-12-evaluating-large-language-models--llmops) > Evaluation benchmark: Benchmarks and Performance of LLMs \[28 Nov 2023]
     *   [From Google Gemini to OpenAI Q\* (Q-Star)](https://arxiv.org/abs/2312.10868): A Survey of Reshaping the Generative Artificial Intelligence (AI) Research Landscape:\[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2312.10868)] \[18 Dec 2023]
     *   [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://arxiv.org/abs/2312.15234): The survey aims to provide a comprehensive understanding of the current state and future directions in efficient LLM serving \[23 Dec 2023]
+    *   [A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109): \[9 Aug 2024] [git (⭐42)](https://github.com/HKUSTDial/NL2SQL_Handbook)
 
 ### **Awesome demo** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -158,21 +159,21 @@
 ### Small Language Models
 
 *   [\[2402.17764\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
-*   [mbzuai-oryx/MobiLlama (⭐563)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
+*   [mbzuai-oryx/MobiLlama (⭐574)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Feed Readers
 
-*   [FeedCord (⭐115)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
-
-### Software / Proxy
-
-*   [Jauth (⭐60)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
+*   [FeedCord (⭐122)](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 
 ### Software / URL Shorteners
 
-*   [Chhoto URL (⭐71)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+*   [Chhoto URL (⭐95)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+
+### Software / Web Servers
+
+*   [Jauth (⭐64)](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. `GPL-3.0` `Go`
 
 ## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

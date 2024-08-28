@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [SmtpServer (⭐598)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
+*   [SmtpServer (⭐681)](https://github.com/cosullivan/SmtpServer) - Library to create your own SMTP server.
 
 ### Videos / Workflow
 
@@ -79,7 +79,7 @@
 ### Official resources
 
 *   [Website](https://prometheus.io/) - Official Prometheus project website.
-*   [GitHub repository (⭐51k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+*   [GitHub repository (⭐54k)](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 *   [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 *   [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 

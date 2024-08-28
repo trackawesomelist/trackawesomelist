@@ -66,7 +66,7 @@
 
 ### Frameworks, Libraries and Tools / Caching
 
-*   [Faster (⭐5.7k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
+*   [Faster (⭐6.3k)](https://github.com/Microsoft/FASTER/tree/master/cs) - Fast key-value store from Microsoft Research.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐478)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐491)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ---
 

@@ -60,12 +60,12 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Carter (⭐1.9k)](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
+*   [Carter (⭐2.1k)](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
 *   [Chromely (⭐3k)](https://github.com/mattkol/Chromely) - Lightweight Alternative to Electron.NET, Electron for .NET/.NET Core.
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Portable.Xaml (⭐151)](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
+*   [Portable.Xaml (⭐157)](https://github.com/cwensley/Portable.Xaml) - Portable .NET library for reading/writing xaml files.
 
 ---
 

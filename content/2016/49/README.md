@@ -247,7 +247,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐242)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_mnesia (⭐243)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 *   [ecto\_paging (⭐14)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities
@@ -271,7 +271,7 @@
 
 ### Go / Erlang
 
-*   [RPCX (⭐7.9k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+*   [RPCX (⭐8k)](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 
 ### Java VM / Java
 
@@ -291,7 +291,7 @@
 
 ### Storage / Scala
 
-*   [AtlasDB (⭐43)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
+*   [AtlasDB (⭐47)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
 ### Testing / Scala
 
@@ -407,7 +407,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [SmartFormat.NET (⭐985)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
+*   [SmartFormat.NET (⭐1.1k)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
 ### Articles / Workflow
 
@@ -474,7 +474,7 @@
 
 ### Other Useful Repositories
 
-- Repository: [Linux Kernel Exploitation (⭐5.3k)](https://github.com/xairy/linux-kernel-exploitation)
+- Repository: [Linux Kernel Exploitation (⭐5.5k)](https://github.com/xairy/linux-kernel-exploitation)
 
   Description: A bunch of links related to Linux kernel fuzzing and exploitation
 

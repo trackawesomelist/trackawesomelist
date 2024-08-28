@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18 - Feb 24, 2019
 
-57 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
-*   [Practice common algorithms using JavaScript (⭐354)](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
+*   [Practice common algorithms using JavaScript (⭐586)](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -28,8 +28,8 @@
 
 ### Packages / Modifiers
 
-*   [ember-on-modifier (⭐37)](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
-*   [ember-render-modifiers (⭐80)](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
+*   [ember-on-modifier (⭐38)](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
+*   [ember-render-modifiers (⭐85)](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
 
 ### Packages / Articles
 
@@ -48,7 +48,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐535)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐538)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -114,11 +114,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐471)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-battery (⭐486)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-maildir-counter (⭐32)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐986)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐162)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐541)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-mem-cpu-load (⭐1k)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-online-status (⭐164)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐559)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 *   [tmux-weather (⭐34)](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -171,7 +171,7 @@
 
 ### Software / Monitoring
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐208)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐216)](https://github.com/netxms/netxms)) `LGPL-3.0/GPL-3.0` `Java/C++/C`
 
 ## [21. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -194,13 +194,13 @@
 
 ### Networking
 
-*   [PcapPlusPlus (⭐2.6k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
+*   [PcapPlusPlus (⭐2.7k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
 ## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [FluentDocker (⭐1.2k)](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker.
+*   [FluentDocker (⭐1.3k)](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker.
 
 ## [25. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐10k)](https://github.com/gotify/server), [Clients (⭐861)](https://github.com/gotify/android)) `MIT` `Go/Docker`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐11k)](https://github.com/gotify/server), [Clients (⭐904)](https://github.com/gotify/android)) `MIT` `Go/Docker`
 
 ### Software / Learning and Courses
 
@@ -283,8 +283,8 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐315)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
-*   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
+*   [Vue Org Chart (⭐322)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Beep (⭐156)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
 *   [Vue CRUD (⭐831)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
@@ -321,7 +321,7 @@
 
 ### Alertmanager / Miscellaneous
 
-*   [Awesome Prometheus Alerting Rules (⭐5.7k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
+*   [Awesome Prometheus Alerting Rules (⭐6.3k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
 ## [35. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -342,7 +342,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [TextQL (⭐9k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [TextQL (⭐9.1k)](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dinedal/textql) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Collaboration and Team Tools
 
@@ -350,7 +350,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Streaker (⭐180)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
+*   [Streaker (⭐181)](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/jamieweavis/streaker)
 
 ## [37. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
@@ -424,7 +424,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Spark NLP (⭐3.7k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
+*   [Spark NLP (⭐3.8k)](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML to provide simple, performant, and accurate NLP annotations for machine learning pipelines, that scale easily in a distributed environment.
 
 ## [42. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -457,21 +457,15 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐662)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐661)](https://github.com/chenshenhai/deno_note/)
 
-## [46. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### C / Non-X86
-
-*   [Bare-metal programming for ARM (⭐597)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-
-## [47. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [46. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
-## [48. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [47. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Multimedia capabilities / Audio
 
@@ -485,7 +479,7 @@
 
 *   [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 
-## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
@@ -495,7 +489,7 @@
 
 *   [webdriver\_pump (⭐4)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐16)](https://github.com/bwilczek/watir_pump)
 
-## [50. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [49. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Africa / South Africa 🇿🇦
 
@@ -547,13 +541,13 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 Topics: Terraform, AWS, Devops\
 <https://twitter.com/antonbabenko>
 
-## [51. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [50. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
 
-## [52. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [51. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -564,7 +558,7 @@ Topics: Terraform, AWS, Devops\
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)
     *   Can be run on boards like the [Blue pill](https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html), [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html), and similar boards
 
-## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -574,19 +568,19 @@ Topics: Terraform, AWS, Devops\
 
 *   [react-native-spring-scrollview ★64 (⭐309)](https://github.com/bolan9999/react-native-spring-scrollview) - React Native Spring ScrollView V2 is a high performance cross-platform native bounces ScrollView for React Native.(iOS & Android)
 
-## [54. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [53. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐9.1k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐9.2k)](https://github.com/labs42io/clean-code-typescript)
 
-## [55. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [54. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [localstack/localstack :fire::fire::fire::fire::fire: (⭐47k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
-## [56. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -612,7 +606,7 @@ Topics: Terraform, AWS, Devops\
 
 *   [Swiftbot (⭐55)](https://github.com/noppefoxwolf/Swiftbot) - run swift code on slack.
 
-## [57. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [56. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online Books
 

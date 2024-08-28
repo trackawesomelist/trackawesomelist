@@ -31,7 +31,7 @@
 
 ### Techniques / macOS
 
-*   [PoisonApple (⭐214)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
+*   [PoisonApple (⭐220)](https://github.com/CyborgSecurity/PoisonApple/blob/master/poisonapple/techniques.py) - Learn about various macOS persistence techniques by looking at the source code of PoisonApple.
 
 ## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐78)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐82)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐1.2k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
+*   [Matchering (⭐1.3k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐327)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐330)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -176,7 +176,7 @@
 
 ### Base Tools / Other
 
-*   [dockerize (⭐177)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
+*   [dockerize (⭐180)](https://github.com/powerman/dockerize) - Utility to simplify running applications in docker containers by [@jwilder](https://github.com/jwilder), [@powerman](https://github.com/powerman)
 
 ---
 

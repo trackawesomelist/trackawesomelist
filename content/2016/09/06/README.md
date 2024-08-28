@@ -16,7 +16,7 @@
 
 ### Go Clients
 
-*   [resty (⭐9.4k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐9.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Humanizer (⭐8k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
+*   [Humanizer (⭐8.6k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ## [5. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

@@ -77,11 +77,11 @@
 
 ### Frameworks, Libraries and Tools / Mail
 
-*   [netDumbster (⭐114)](https://github.com/cmendible/netDumbster) - a .Net Fake SMTP Server used for testing. Clone of the popular Dumbster.
+*   [netDumbster (⭐122)](https://github.com/cmendible/netDumbster) - a .Net Fake SMTP Server used for testing. Clone of the popular Dumbster.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [CsvHelper (⭐4.3k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.
+*   [CsvHelper (⭐4.7k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.
 
 ## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -93,7 +93,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [Testura.Code (⭐297)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
+*   [Testura.Code (⭐296)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
 ## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

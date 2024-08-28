@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 17, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -40,7 +40,7 @@
 
 ### JavaScript / FrameWorks
 
-*   [portfolio-allocation (⭐171)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
+*   [portfolio-allocation (⭐173)](https://github.com/lequant40/portfolio_allocation_js) - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -55,19 +55,19 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vuestic-ui (⭐3.3k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
+*   [vuestic-ui (⭐3.4k)](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
-*   [MondrianLayout (⭐163)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
+*   [MondrianLayout (⭐164)](https://github.com/muukii/MondrianLayout) - A DSL based layout builder for AutoLayout.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [jwstegemann/fritz2 (⭐627)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
+*   [jwstegemann/fritz2 (⭐643)](https://github.com/jwstegemann/fritz2) - small lib to build reactive web-apps in pure Kotlin based on Flows
 
 ## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -83,19 +83,13 @@
 
 *   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Python / Django
-
-*   [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
-
-## [12. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [11. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Footprint Calculators
 
 *   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open source tool that provides visibility and tooling to measure, monitor and reduce public cloud carbon emissions. It supports multiple cloud providers including AWS, Google Cloud, and Microsoft Azure, and displays energy and carbon emission metrics in a dashabord, command line interface or exportable to CSV.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -111,31 +105,31 @@
 
 
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [dracula/vim (⭐1.3k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [14. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
 *   [Composer Unused (⭐1.5k)](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 
-## [16. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [15. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Bindings
 
 *   [WebChimera.js (⭐666)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
-## [17. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Russian / Game Engine resources
 
 *   [Flutter Dev Podcast](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=OWn7VCELRO2QV03Gi2u8nA\&nd=1) - by [Eugene Saturov](https://twitter.com/saturovv).
 
-## [18. Awesome Math](/content/rossant/awesome-math/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Differential Geometry
 

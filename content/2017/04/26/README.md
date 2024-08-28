@@ -29,15 +29,15 @@
 
 ### Frameworks, Libraries and Tools / Date and Time
 
-*   [Exceptionless.DateTimeExtensions (⭐228)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
+*   [Exceptionless.DateTimeExtensions (⭐237)](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Exceptionless (⭐531)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐550)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 
 ## [5. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

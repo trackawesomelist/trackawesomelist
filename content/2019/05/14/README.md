@@ -105,10 +105,10 @@
 
 ### Development Environment
 
-*   [GitHub (⭐843)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-    *   [Browser Extensions (⭐2.9k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+*   [GitHub (⭐849)](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+    *   [Browser Extensions (⭐3k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
     *   [Cheat Sheet (⭐47k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
-    *   [Pinned Gists (⭐1.8k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+    *   [Pinned Gists (⭐1.9k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
 ## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

@@ -21,12 +21,12 @@
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐905)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐908)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
 *   [Nyholm PSR-7 (⭐1.1k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐452)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Laminas Diactoros (⭐456)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
@@ -36,7 +36,7 @@
 
 ### Table of Contents / Email
 
-*   [Symfony Mailer (⭐1.4k)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+*   [Symfony Mailer (⭐1.5k)](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Table of Contents / Dependency Injection
 
@@ -52,7 +52,7 @@
 
 ### Table of Contents / Documentation
 
-*   [daux.io (⭐786)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+*   [daux.io (⭐791)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 
 ### Table of Contents / Event
 
@@ -68,7 +68,7 @@
 
 *   [Enqueue (⭐2.2k)](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
-### Table of Contents / Filtering and Validation
+### Table of Contents / Filtering, Sanitizing and Validation
 
 *   [CakePHP Validation (⭐43)](https://github.com/cakephp/validation) - Another validation library.
 
@@ -79,11 +79,11 @@
 ### Table of Contents / Caching and Locking
 
 *   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
-*   [Laminas Cache (⭐95)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [Laminas Cache (⭐97)](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [CakePHP Collection (⭐87)](https://github.com/cakephp/collection) - A simple collections library.
+*   [CakePHP Collection (⭐88)](https://github.com/cakephp/collection) - A simple collections library.
 *   [Laminas Serializer (⭐33)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Table of Contents / Internationalisation and Localisation
@@ -93,7 +93,6 @@
 ### Configuration / PHP Installation
 
 *   [HomeBrew](https://brew.sh/) - A package manager for OSX.
-*   [Laravel Valet](https://laravel.com/docs/master/valet) - A development environment for macOS.
 
 ### Configuration / Development Environment
 
@@ -191,7 +190,7 @@
 
 ### Apps / Outline Processor Markup Language
 
-*   [FeedMe (⭐1.1k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+*   [FeedMe (⭐1.2k)](https://github.com/seazon/FeedMe/) <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 
 ### RSSHub / Outline Processor Markup Language
 

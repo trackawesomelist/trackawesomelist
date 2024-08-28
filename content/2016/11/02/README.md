@@ -10,17 +10,17 @@
 
 ### Applications
 
-*   [Fractalide (⭐862)](https://github.com/fractalide/fractalide) - Simple microservices
+*   [Fractalide (⭐865)](https://github.com/fractalide/fractalide) - Simple microservices
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ServiceStack (⭐5.3k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all <https://servicestack.net>.
+*   [ServiceStack (⭐5.4k)](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all <https://servicestack.net>.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [stuntman (⭐294)](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
+*   [stuntman (⭐295)](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Relinq (⭐505)](https://github.com/re-motion/Relinq) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
+*   [Relinq (⭐513)](https://github.com/re-motion/Relinq) - With re-linq, it's now easier than ever to create full-featured LINQ providers.
 
 ### Frameworks, Libraries and Tools / ORM
 
@@ -44,7 +44,7 @@
 
 ### Frameworks, Libraries and Tools / Windows Service
 
-*   [dotnet-win32-service (⭐446)](https://github.com/dasMulli/dotnet-win32-service) - Set up and run as Windows Service directly from .NET Core.
+*   [dotnet-win32-service (⭐451)](https://github.com/dasMulli/dotnet-win32-service) - Set up and run as Windows Service directly from .NET Core.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

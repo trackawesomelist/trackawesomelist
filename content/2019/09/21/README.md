@@ -36,22 +36,10 @@
 
 *   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
 
-### Utilities
-
-*   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
-
-### Windows / Design Tooling
-
-*   [PaperWM (⭐2.8k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Services integration / Design Tooling
-
-*   [GMail Message Tray (⭐83)](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
-
 ### Icons / Upstream Style
 
 *   [GNOME++ (⭐163)](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
-*   [Pop! (⭐197)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
+*   [Pop! (⭐200)](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

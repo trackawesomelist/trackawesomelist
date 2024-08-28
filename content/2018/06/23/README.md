@@ -36,7 +36,7 @@
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Coravel (⭐2.8k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
+*   [Coravel (⭐3.8k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
 
 ## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

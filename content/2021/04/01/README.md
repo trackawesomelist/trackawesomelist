@@ -10,13 +10,13 @@
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐466)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐488)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
-- API: [jsDelivr (⭐198)](https://github.com/jsdelivr/data.jsdelivr.com)
+- API: [jsDelivr (⭐204)](https://github.com/jsdelivr/data.jsdelivr.com)
 
   Description: Package info and download stats on jsDelivr CDN
 
@@ -139,7 +139,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐5.8k)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐66)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ---

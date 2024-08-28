@@ -97,11 +97,11 @@ git log -S'<a term in the source>'
 
 ### Frameworks, Libraries and Tools / Profiling
 
-*   [MiniProfiler (⭐2.8k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
+*   [MiniProfiler (⭐2.9k)](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
-*   [Rebus (⭐2.1k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+*   [Rebus (⭐2.3k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 
 ## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

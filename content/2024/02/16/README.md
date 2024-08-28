@@ -21,7 +21,7 @@
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐352)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐361)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -31,7 +31,7 @@
 
 ## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [LLM patterns](https://eugeneyan.com/writing/llm-patterns/): 🏆From data to user, from defensive to offensive [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/llm-patterns-og.png)
 
@@ -39,7 +39,7 @@
 
 ### Database clients
 
-*   [mongodb (⭐44)](https://github.com/vlang/mongo) - MongoDB driver for V.
+*   [mongodb (⭐43)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐89)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐98)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Text Editors and IDEs
 
@@ -65,13 +65,13 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-oxlint (⭐15)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [vite-plugin-oxlint (⭐17)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### OS-specific / Diagnostics
 
-*   [massix/termux.nvim (⭐20)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
+*   [massix/termux.nvim (⭐22)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
 ## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Table of Contents / Toolkit
 
-*   [Apache Pekko (⭐944)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
+*   [Apache Pekko (⭐1.2k)](https://github.com/apache/incubator-pekko) \[Scala, Java] - Fork of Akka 2.6.x, prior to the Akka project's adoption of the Business Source License.
 
 ---
 

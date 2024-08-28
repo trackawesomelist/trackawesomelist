@@ -1,12 +1,34 @@
 # Awesome List Updates on Feb 18, 2024
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+
+### Books / Digital Asset Management (DAM)
+
+*   **"This Is Marketing: You Can't Be Seen Until You Learn to See" by Seth Godin** - Seth Godin argues that marketing isn't about the stuff you make but the stories you tell.
+*   **"Contagious: How to Build Word of Mouth in the Digital Age" by Jonah Berger** - Explains why certain things catch on, and how you can use these ideas to craft contagious content.
+
+### Blogs / Digital Asset Management (DAM)
+
+*   **HubSpot Blog** - Offers information on inbound marketing, sales, and customer service strategies. [Visit Blog](https://blog.hubspot.com/)
+*   **Neil Patel's Blog** - Covers a range of digital marketing topics with actionable tips and guides. [Visit Blog](https://neilpatel.com/blog/)
+
+### Podcasts / Digital Asset Management (DAM)
+
+*   **Marketing Over Coffee** - A weekly discussion of what's new in marketing. [Listen Here](https://www.marketingovercoffee.com/)
+*   **The GaryVee Audio Experience** - Covers marketing, social media, entrepreneurship by Gary Vaynerchuk. [Listen Here](https://www.garyvaynerchuk.com/podcast/)
+
+### Online Resources and Courses / Digital Asset Management (DAM)
+
+*   **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
+*   **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Data Visualization on Maps
 
@@ -16,13 +38,13 @@
 
 *   [Yandex.Datalens](https://datalens.yandex.com/) — Yandex Cloud data visualization and analysis service. The service is provided free of charge. No restrictions on the number of users and requests.
 
-## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Frameworks
 
 *   [yew-fmt (⭐18)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shells
 
@@ -40,7 +62,7 @@
 
 *   [awesome-bash (⭐7k)](https://github.com/awesome-lists/awesome-bash)
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Optimization
 

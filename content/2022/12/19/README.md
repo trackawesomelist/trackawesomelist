@@ -63,7 +63,7 @@
 
 ### Social Networking
 
-*   [Retrospring (⭐212)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+*   [Retrospring (⭐237)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 
 ### Testing
 
@@ -83,24 +83,21 @@
 
 ### Software / Communication - Video Conferencing
 
-*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐212)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
+*   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐220)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Bash / Non-X86
+### Data Science
 
-*   [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/) - Sundeep Agarwal
-*   [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - Sundeep Agarwal
+*   [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 
-### Clojure / Non-X86
+### IDE and editors
 
-*   [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
+*   [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
 
-### Python / Constraint Logic Programming (extended Prolog)
+### Misc
 
-*   [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
-*   [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
-*   [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
+*   [GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/) - Sundeep Agarwal
 
 ---
 

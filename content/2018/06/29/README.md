@@ -51,7 +51,7 @@
 
 ### Other / Node.js
 
-*   [Node.js Style Guide (⭐4.9k)](https://github.com/felixge/node-style-guide#readme)
+*   [Node.js Style Guide (⭐5k)](https://github.com/felixge/node-style-guide#readme)
 
 ## [6. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 

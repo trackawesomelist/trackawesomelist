@@ -29,7 +29,7 @@
 
 ### CLI
 
-*   [RunInfoBuilder (⭐42)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
+*   [RunInfoBuilder (⭐43)](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 
 ## [3. Awesome](/content/craftcms/awesome/README.md)
 

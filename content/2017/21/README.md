@@ -368,7 +368,7 @@
 
 ### Messaging / Scala
 
-*   [RocketMQ (⭐20k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+*   [RocketMQ (⭐21k)](https://github.com/apache/incubator-rocketmq) - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 
 ### Storage / Scala
 
@@ -387,30 +387,30 @@
 
 ### General
 
-*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐19k)](https://github.com/dotnet/core).
+*   [.NET Core SDK](https://www.microsoft.com/net/core) - .NET Core SDK is a general purpose development platform maintained by Microsoft and the .NET community on [GitHub (⭐21k)](https://github.com/dotnet/core).
 *   [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - The description of what will be going on for .NET Standard 2.0 and the roadmap for some missing parts of the current .NET Standard.
 
 ### Frameworks, Libraries and Tools / Logging
 
-*   [Foundatio (⭐1.8k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
+*   [Foundatio (⭐1.9k)](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [NReco.LambdaParser (⭐281)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
-*   [readline (⭐792)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
-*   [ReverseMarkdown (⭐217)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
+*   [NReco.LambdaParser (⭐307)](https://github.com/nreco/lambdaparser) - Parses string expressions (formulas, methods calls, conditions) to LINQ expression tree that can be compiled to lambda and evaluated.
+*   [readline (⭐803)](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
+*   [ReverseMarkdown (⭐260)](https://github.com/mysticmind/reversemarkdown-net) - Html to Markdown converter library.
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [Chroniton.NetCore (⭐178)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
+*   [Chroniton.NetCore (⭐181)](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [roslyn-security-guard (⭐207)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
+*   [roslyn-security-guard (⭐208)](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
 
 ### Frameworks, Libraries and Tools / Serialization
 
-*   [YamlDotNet (⭐2.3k)](https://github.com/aaubry/YamlDotNet) - .NET
+*   [YamlDotNet (⭐2.5k)](https://github.com/aaubry/YamlDotNet) - .NET
 
 ## [30. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
@@ -422,11 +422,11 @@
 
 ### Networking
 
-*   [Breep (⭐135)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐138)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐469)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐475)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -437,7 +437,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-lightbox (⭐346)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+*   [vue-image-lightbox (⭐347)](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 *   [vue2-simplert (⭐214)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐17)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
@@ -477,7 +477,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐461)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐465)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -487,7 +487,7 @@
 
 ### Open Source / Other
 
-*   [Insomnia (⭐33k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐34k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -506,7 +506,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Medium Editor (⭐17)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
+*   [Wagtail Medium Editor (⭐18)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
 
 ## [42. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 

@@ -16,9 +16,15 @@
 
 ### Development / Discovery
 
-*   [attic (⭐856)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
+*   [attic (⭐913)](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Debug
+
+*   [cpp-dump (⭐232)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -27,9 +33,9 @@
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [respawn-app/FlowMVI (⭐241)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
+*   [respawn-app/FlowMVI (⭐272)](https://github.com/respawn-app/FlowMVI) - A Kotlin Multiplatform architectural framework based on coroutines with an extensive feature set, powerful plugin system and a rich DSL.
 
-## [4. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [5. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?
 
@@ -38,7 +44,7 @@
 *   Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
 *   Learn how to use Go's advanced development tools
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -47,7 +53,7 @@
 ### Miscellaneous
 
 *   [nodgui](https://codeberg.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐317)](https://github.com/rdbende/Forest-ttk-theme).
+    *   🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme (⭐334)](https://github.com/rdbende/Forest-ttk-theme).
     *   supports an SDL frame as an alternative to the Tk canvas when fast rendering is needed. For 2D (pixel-based) and 3D rendering (using openGL).
 
 ### Typing
@@ -61,7 +67,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [cl-nix-lite (⭐20)](https://github.com/hraban/cl-nix-lite) -  Common Lisp module for Nix, without Quicklisp. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0)
+*   [cl-nix-lite (⭐25)](https://github.com/hraban/cl-nix-lite) -  Common Lisp module for Nix, without Quicklisp. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0)
 
 ### Querying HTML/DOM, web scraping / Isomorphic web frameworks
 
@@ -75,7 +81,7 @@
 
 ### Others / Third-party APIs
 
-*   [shop3 (⭐143)](https://github.com/shop-planner/shop3) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
+*   [shop3 (⭐144)](https://github.com/shop-planner/shop3) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
 
 ### Emacs / Third-party APIs
 
@@ -88,7 +94,7 @@
 *   [alexa (⭐60)](https://github.com/quil-lang/alexa) -  A Lexical Analyzer Generator. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   ALEXA is a tool similar to lex or flex for generating lexical analyzers. Unlike tools like lex, however, ALEXA defines a domain-specific language within your Lisp program, so you don't need to invoke a separate tool.
 *   [uclp (⭐20)](https://github.com/ravi-delia/uclp) -  An experimental implementation of parsing expression grammars (PEGs, a la Janet) in Common Lisp. MIT.
-*   [CheckL (⭐44)](https://github.com/rpav/CheckL/) - Why write programs in Common Lisp but tests like Java? Meet CheckL!
+*   [CheckL (⭐43)](https://github.com/rpav/CheckL/) - Why write programs in Common Lisp but tests like Java? Meet CheckL!
     *   a testing library that checks the current test value against the previous one and offers restarts.
 
 ### Plotting / Third-party APIs
@@ -100,57 +106,57 @@
 *   [lisp-xl (⭐29)](https://github.com/defunkydrummer/lisp-xl) -  Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files. MIT.
 *   [xlsx](https://gitlab.common-lisp.net/cungil/xlsx) - a basic reader for Excel files.
 
-## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
 *   [Madina (⭐153)](https://github.com/City-Form-Lab/madina) - Madina is a package of classes and functions to streamline the representation and analysis of urban networks. This library includes a python implementation of the Urban Network Analysis Tools.
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Social
 
 *   🍰 [Favorites plugin (⭐1)](https://github.com/dereuromark/cakephp-favorites) - Allows users to star/like/favor records.
 
-## [8. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [9. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security / Other
 
 *   [Security Best Practices for Building Docker Images](https://linux-audit.com/tags/docker/)
 
-## [9. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [10. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
-### Books
+### Resources
 
-*   [The Productivity Blog](https://blog.productivity.directory) - Proven Productivity Tips, Tricks, and App Reviews to Streamline Your Life and Work.
-*   [The Productivity Newsletter](https://newsletter.productivity.directory) - Weekly Productivity Boost With Hot Productivity Hacks and Tools To Optimize Your Workflow And Achieve More.
+*   [The Productivity Blog](https://blog.productivity.directory) - Proven productivity tips, tricks, and app reviews to streamline your life and work.
+*   [The Productivity Newsletter](https://newsletter.productivity.directory) - Weekly productivity boost with hot productivity hacks and tools to optimize your workflow and achieve more.
 
-## [10. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLocalSearch (⭐5.4k)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
-*   [Plandex (⭐9.8k)](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)
+*   [LLocalSearch (⭐5.5k)](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
+*   [Plandex (⭐10k)](https://github.com/plandex-ai/plandex): An AI coding engine for complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social)
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Awesome Lists
 
 *   [awsome-ios-animation (⭐5.2k)](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 
-## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [IBI Data Tools Infra (⭐0)](https://github.com/cal-itp/ibi-datatools-infra) - A tool to quickly setup and run a local instance of the above IBI Data Tools project.
 
-## [13. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Plotter Art For Sale / Patents
 
 *   [Ingrid Burrington](https://wares.lifewinning.com)
 
-## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [15. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Microsoft Copilot Product Lineup** / **Lucene based search engine with OpenAI Embedding**
 
@@ -165,21 +171,23 @@
         *   [Microsoft Copilot Dashboard](https://insights.cloud.microsoft/#/CopilotDashboard) / [blog](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/new-ways-microsoft-copilot-and-viva-are-transforming-the/ba-p/3982293)
     3.  [Microsoft Office Copilot: Natural Language Commanding via Program Synthesis](https://arxiv.org/abs/2306.03460): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2306.03460)]: Semantic Interpreter, a natural language-friendly AI system for productivity software such as Microsoft Office that leverages large language models (LLMs) to execute user intent across application features. \[6 Jun 2023]
     4.  [NL2KQL](https://arxiv.org/abs/2404.02933): From Natural Language to Kusto Query \[3 Apr 2024]
+    5.  [SpreadsheetLLM](https://arxiv.org/abs/2407.09025): Introduces an efficient method to encode Excel sheets, outperforming previous approaches with 25 times fewer tokens.\[12 Jul 2024]
+    6.  [GraphRAG (by Microsoft)](https://arxiv.org/abs/2404.16130): RAG with a graph-based approach to efficiently answer both specific and broad questions over large text corpora1. [ref](https://microsoft.github.io/graphrag) [git (⭐15k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
 
 ### **Semantic Kernel** / **Code Recipes**
 
 *   [Learning Paths for Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/learning-paths-for-semantic-kernel/) \[28 Mar 2024]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
 *   [Mixture-of-Depths](https://arxiv.org/abs/2404.02258): All tokens should not require the same effort to compute. The idea is to make token passage through a block optional. Each block selects the top-k tokens for processing, and the rest skip it. [ref](https://www.linkedin.com/embed/feed/update/urn:li:share:7181996416213372930) \[2 Apr 2024]
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
 *   [Anthropic Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking): simple long-context attack, Bypassing safety guardrails by bombarding them with unsafe or harmful questions and answers. \[3 Apr 2024]
-*   [FactTune](https://arxiv.org/abs/2311.08401): A procedure that enhances the factuality of LLMs without the need for human feedback. The process involves the fine-tuning of a separated LLM using methods such as DPO and RLAIF, guided by preferences generated by [FActScore (⭐239)](https://github.com/shmsw25/FActScore). \[14 Nov 2023] `FActScore` works by breaking down a generation into a series of atomic facts and then computing the percentage of these atomic facts by a reliable knowledge source.
+*   [FactTune](https://arxiv.org/abs/2311.08401): A procedure that enhances the factuality of LLMs without the need for human feedback. The process involves the fine-tuning of a separated LLM using methods such as DPO and RLAIF, guided by preferences generated by [FActScore (⭐258)](https://github.com/shmsw25/FActScore). \[14 Nov 2023] `FActScore` works by breaking down a generation into a series of atomic facts and then computing the percentage of these atomic facts by a reliable knowledge source.
 
-## [15. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [16. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Analytics
 
@@ -197,14 +205,13 @@
 *   [Forgejo](https://forgejo.org/) - Forgejo is a self-hosted lightweight software forge.
 *   [GitLab](https://about.gitlab.com/) - GitLab a DevOps software package that can develop, secure, and operate software.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
-### Debug
+### Continuous Integration
 
-*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. \[MIT]/\[Apache2]
-*   [cpp-dump (⭐196)](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. \[MIT]
+*   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
@@ -214,41 +221,41 @@
 
 *   [Teaminal](https://www.teaminal.com) - Standup, retro, and sprint planning tool for remote teams. Free for up to 15 users.
 
-## [18. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [19. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
-*   [GameStateManager (⭐6)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
+*   [GameStateManager (⭐7)](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
-## [19. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [20. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
 *   [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant *([GitHub Project (⭐2.5k)](https://github.com/GladysAssistant/Gladys))*.
 
-## [20. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Indicators
 
-*   [talipp (⭐296)](https://github.com/nardew/talipp) - Incremental technical analysis library for Python.
-*   [streaming\_indicators (⭐29)](https://github.com/mr-easy/streaming_indicators) - A python library for computing technical analysis indicators on streaming data.
+*   [talipp (⭐353)](https://github.com/nardew/talipp) - Incremental technical analysis library for Python.
+*   [streaming\_indicators (⭐51)](https://github.com/mr-easy/streaming_indicators) - A python library for computing technical analysis indicators on streaming data.
 
 ### Python / Risk Analysis
 
-*   [fortitudo.tech (⭐149)](https://github.com/fortitudo-tech/fortitudo.tech) - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
+*   [fortitudo.tech (⭐188)](https://github.com/fortitudo-tech/fortitudo.tech) - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
 
 ### Python / Data Sources
 
-*   [FinanceDatabase (⭐2.9k)](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+*   [FinanceDatabase (⭐3.2k)](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 
-## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
 *   IBM PC
-    *   [MartyPC (⭐502)](https://github.com/dbalsom/martypc) - An IBM PC/XT emulator written in Rust.
+    *   [MartyPC (⭐521)](https://github.com/dbalsom/martypc) - An IBM PC/XT emulator written in Rust.
 
-## [22. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [23. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -264,19 +271,19 @@
 
 *   [Contributor - Community-Driven IaC](https://www.contributor.fyi/opentofu)
 
-## [23. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [24. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
 *   [Webpack](https://webpack.js.org/) - A bundler for JavaScript and other *web* assets with a short and descriptive name that also somewhat rhymes.
 
-## [24. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
-*   [OpenTofu (⭐72)](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
+*   [OpenTofu (⭐80)](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 
-## [25. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [26. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Arabic Section / Help
 
@@ -285,18 +292,21 @@
 *   [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu\&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
 *   [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
 
-## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-finance (⭐21)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 
 ### Libraries/Packages/Scripts / Python
 
-*   [Polars OLS (⭐73)](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
-*   [polars-finance (⭐11)](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+*   [Polars OLS (⭐93)](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
 
 ### Resources / Tutorials & workshops
 
-*   [Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide (⭐46)](https://github.com/jeroenjanssens/python-polars-the-definitive-guide) - Useful Python notebooks ordered by book chapter by [@jeroenjanssens](https://github.com/jeroenjanssens).
+*   [Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide (⭐53)](https://github.com/jeroenjanssens/python-polars-the-definitive-guide) - Useful Python notebooks ordered by book chapter by [@jeroenjanssens](https://github.com/jeroenjanssens).
 
-## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Science Logology / Laboratory Automation
 
@@ -304,41 +314,35 @@
 *   [Convergence of multiple synthetic paradigms in a universally programmable chemical synthesis machine](https://www.nature.com/articles/s41557-020-00596-9) - ***Nature Chemistry***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=18024303106901939347)]. \[[Preprint](https://eprints.gla.ac.uk/231947/)]. This paper shows how the Chemputer synthesis robot can be programmed to perform many different reactions, including solid-phase peptide synthesis, iterative cross-coupling and accessing reactive, unstable diazirines in a single, unified system with high yields and purity.
 *   [An integrated self-optimizing programmable chemical synthesis and reaction engine](https://www.nature.com/articles/s41467-024-45444-3) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=9157508627971047184)]. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures.
 
-## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐55) (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-
 ## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Conference Management
 
-*   [OpenSlides](https://openslides.com/) - A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. ([Demo](https://demo.os4.openslides.com/login), [Source Code (⭐481)](https://github.com/OpenSlides/OpenSlides)) `MIT` `Docker`
+*   [OpenSlides](https://openslides.com/) - A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly. ([Demo](https://demo.os4.openslides.com/login), [Source Code (⭐489)](https://github.com/OpenSlides/OpenSlides)) `MIT` `Docker`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Tiny File Manager](https://tinyfilemanager.github.io) - Web based File Manager in PHP, simple, fast and small file manager with a single file. ([Demo](https://tinyfilemanager.github.io/demo/), [Source Code (⭐4.6k)](https://github.com/prasathmani/tinyfilemanager)) `GPL-3.0` `PHP`
+*   [Tiny File Manager](https://tinyfilemanager.github.io) - Web based File Manager in PHP, simple, fast and small file manager with a single file. ([Demo](https://tinyfilemanager.github.io/demo/), [Source Code (⭐4.8k)](https://github.com/prasathmani/tinyfilemanager)) `GPL-3.0` `PHP`
 
 ### Software / Media Streaming - Multimedia Streaming
 
-*   [Kyoo (⭐1.3k)](https://github.com/zoriya/kyoo) - Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. ([Demo](https://kyoo.zoriya.dev)) `GPL-3.0` `Docker`
+*   [Kyoo (⭐1.4k)](https://github.com/zoriya/kyoo) - Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. ([Demo](https://kyoo.zoriya.dev)) `GPL-3.0` `Docker`
 
 ### Software / Miscellaneous
 
-*   [URL-to-PNG (⭐132)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
+*   [URL-to-PNG (⭐143)](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [Receipt Wrangler](https://receiptwrangler.io) `⚠` - Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more. ([Demo](https://demo.receiptwrangler.io), [Source Code (⭐36)](https://github.com/Receipt-Wrangler/receipt-wrangler-api)) `AGPL-3.0` `Docker`
+*   [Receipt Wrangler](https://receiptwrangler.io) `⚠` - Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more. ([Demo](https://demo.receiptwrangler.io), [Source Code (⭐49)](https://github.com/Receipt-Wrangler/receipt-wrangler-api)) `AGPL-3.0` `Docker`
 
 ### Software / Personal Dashboards
 
-*   [ryot (⭐1.7k)](https://github.com/ignisda/ryot) - Platform for tracking various facets of your life - media, fitness, etc. ([Demo (⭐1.7k)](https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo)) `GPL-3.0` `Docker`
+*   [ryot (⭐1.8k)](https://github.com/ignisda/ryot) - Platform for tracking various facets of your life - media, fitness, etc. ([Demo (⭐1.8k)](https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo)) `GPL-3.0` `Docker`
 
 ### Software / Software Development - API Management
 
-*   [Panora](https://panora.dev) `⚠` - An API to add an integration catalog to your SaaS product in minutes (alternative to Merge.dev). ([Source Code (⭐376)](https://github.com/panoratech/Panora)) `AGPL-3.0` `Nodejs/Docker`
+*   [Panora](https://panora.dev) `⚠` - An API to add an integration catalog to your SaaS product in minutes (alternative to Merge.dev). ([Source Code (⭐506)](https://github.com/panoratech/Panora)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -377,20 +381,20 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [ptdewey/darkearth-nvim (⭐9)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+*   [ptdewey/darkearth-nvim (⭐24)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
 
 ### Utility / Diagnostics
 
 *   [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like org-babel.
-*   [mistricky/codesnap.nvim (⭐485)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
+*   [mistricky/codesnap.nvim (⭐559)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 
 ### Editing Support / Diagnostics
 
-*   [ptdewey/yankbank-nvim (⭐45)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+*   [ptdewey/yankbank-nvim (⭐52)](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Shaobin-Jiang/IceNvim (⭐122)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
+*   [Shaobin-Jiang/IceNvim (⭐130)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
 
 ## [35. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -429,7 +433,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [Floom (⭐25)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
+*   [Floom (⭐33)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration of AI features into products
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -457,10 +461,10 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐17k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [dirbrowse (⭐0)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐18k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [touchplus (⭐3)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
-*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐19k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
+*   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐20k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -473,8 +477,8 @@
 *   [devil-puppet (⭐0)](https://github.com/skippyr/devil-puppet) - Theme decorated by a pentagram. Has decorators for username, hostname, python virtual environment, current working directory, `git` status information and the exit code of the last command run.
 *   [ko (⭐1)](https://github.com/JoshBenn/KoTheme-for-Oh-My-Zsh/) - Includes decorators for `git` status and current directory.
 *   [outer-space (⭐2)](https://github.com/skippyr/outer-space) - Includes decorators for user\@hostname, active python virtual environment, current directory and `git` status.
-*   [river-dreams (⭐2)](https://github.com/skippyr/river-dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
-*   [rkj-with-conda (⭐0)](https://github.com/cain986/rkj-with-conda-zsh-theme) - Based on omz's [rkj (⭐171k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme) and adds conda environment and `git` status decorators.
+*   [river-dreams (⭐3)](https://github.com/skippyr/river-dreams) - Includes decorators for `git` information, machine's IP address, time, disk usage on `/`, current Python `venv`, current directory, root status, and the last command's exit status.
+*   [rkj-with-conda (⭐0)](https://github.com/cain986/rkj-with-conda-zsh-theme) - Based on omz's [rkj (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme) and adds conda environment and `git` status decorators.
 
 ## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
@@ -491,17 +495,17 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [DataComPy (⭐412)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+*   [DataComPy (⭐448)](https://github.com/capitalone/datacompy) - A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 ## [44. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [tenv (⭐323)](https://github.com/tofuutils/tenv) - OpenTofu/Terraform/Terragrunt version manager.
+*   [tenv (⭐578)](https://github.com/tofuutils/tenv) - OpenTofu/Terraform/Terragrunt version manager.
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [Lynx (⭐191)](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
+*   [Lynx (⭐225)](https://github.com/clivern/lynx) - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
 
 ---
 

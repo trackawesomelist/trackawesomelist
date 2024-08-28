@@ -49,7 +49,7 @@
 
 ### Misc
 
-*   [Streams (⭐382)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
+*   [Streams (⭐381)](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 
 ### Source Generator
 
@@ -174,9 +174,9 @@
 
 ### Contents / Language bindings
 
-*   Common Lisp: [Postmodern (⭐392)](https://github.com/marijnh/Postmodern)
+*   Common Lisp: [Postmodern (⭐394)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.1k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.4k)](https://github.com/tcdi/pgx)
+*   Rust: [rust-postgresql (⭐3.4k)](https://github.com/sfackler/rust-postgres), [pgx (⭐3.5k)](https://github.com/tcdi/pgx)
 
 ## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
@@ -345,7 +345,7 @@
 
 ### Go Clients
 
-*   [resty (⭐9.4k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐9.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -362,7 +362,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [Humanizer (⭐8k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
+*   [Humanizer (⭐8.6k)](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ### Frameworks, Libraries and Tools / ORM
 
@@ -452,15 +452,15 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Configuration
 
-*   [confex (⭐301)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
+*   [confex (⭐302)](https://github.com/Nebo15/confex) - Helper module that provides a nice way to read environment configuration at runtime.
 
 ### Cryptography
 
-*   [rsa\_ex (⭐36)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
+*   [rsa\_ex (⭐37)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐294)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [ansible-elixir-stack (⭐295)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 *   [bottler (⭐39)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.

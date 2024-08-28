@@ -319,7 +319,7 @@ git format-patch -M upstream..topic
 
 ### Other Useful Repositories
 
-- Repository: [Machine Learning for Cyber Security (⭐6.8k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Repository: [Machine Learning for Cyber Security (⭐7.1k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
   Description: Curated list of tools and resources related to the use of machine learning for cyber security
 
@@ -339,13 +339,13 @@ git format-patch -M upstream..topic
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐133)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐138)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Functional programming
 
-*   [Optional (⭐887)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐891)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ### Serialization
 
@@ -373,12 +373,12 @@ git format-patch -M upstream..topic
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐775)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐779)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐876)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐877)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -600,13 +600,13 @@ git format-patch -M upstream..topic
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [docfx (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
+*   [docfx (⭐4k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐468)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐473)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

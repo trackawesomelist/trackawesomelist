@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [System.Linq.Dynamic.Core (⭐1.4k)](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
+*   [System.Linq.Dynamic.Core (⭐1.5k)](https://github.com/StefH/System.Linq.Dynamic.Core) - The .NET Standard (.NET Core) version from the System Linq Dynamic functionality.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

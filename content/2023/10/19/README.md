@@ -39,7 +39,7 @@
 
 ### Media / Diagnostics
 
-*   [edluffy/hologram.nvim (⭐1.2k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
+*   [edluffy/hologram.nvim (⭐1.3k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 
 ### Code Runner / Diagnostics
 
@@ -114,7 +114,7 @@
 
 *   Hybrid search using Reciprocal Rank Fusion (RRF): Reciprocal Rank Fusion (RRF) is an algorithm that evaluates the search scores from multiple, previously ranked results to produce a unified result set. In Azure Cognitive Search, RRF is used whenever there are two or more queries that execute in parallel. [ref](https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking)
 
-### **Langchain vs Competitors** / **Langchain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
+### **LangChain vs Competitors** / **LangChain vs Semantic Kernel vs Azure Machine Learning Prompt flow**
 
 *   Promptflow is not intended to replace chat conversation flow. Instead, it’s an optimized solution for integrating Search and Open Source Language Models. By default, it supports Python, LLM, and the Prompt tool as its fundamental building blocks.
 
@@ -139,7 +139,7 @@
 
 ### Packages / Command-line utilities
 
-*   [listr2 (⭐482)](https://github.com/listr2/listr2) - Terminal task list.
+*   [listr2 (⭐490)](https://github.com/listr2/listr2) - Terminal task list.
 
 ## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -205,17 +205,21 @@
 
 ### Customization
 
-*   [LS\_COLORS (⭐2k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
+*   [LS\_COLORS (⭐2.1k)](https://github.com/trapd00r/LS_COLORS) - A collection of LS\_COLORS definitions.
 
-## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### iOS / Bootstrap
+### Algorithms & Data Structures
 
-*   [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
+*   [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
 
-### MySQL / PicoLisp
+### Artificial Intelligence
 
-*   [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
+
+### Computer Science
+
+*   [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 
 ---
 

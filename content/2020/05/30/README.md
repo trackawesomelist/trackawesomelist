@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2020
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### VSCode Extensions / Apache License
 
-*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐222)](https://github.com/AdaCore/ada_language_server).
+*   [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada (⭐229)](https://github.com/AdaCore/ada_language_server).
 
 ## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -66,11 +66,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐337)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐342)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐783)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐829)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -78,13 +78,7 @@
 
 *   [autopilot (⭐486)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Search
-
-*   [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1,000 Documents and 50,000 searches. Larger free decks are possible for worthwhile projects.
-
-## [9. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [8. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Numbers
 
@@ -92,19 +86,19 @@
 *   [is-finite (⭐18)](https://github.com/sindresorhus/is-finite) - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 *   [is-integer (⭐12)](https://github.com/parshap/js-is-integer) - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Text & Rich Content / Image Picker
 
 *   [TeX (⭐266)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 
-## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
 *   [yuniql (⭐414)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
-## [12. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Programming Languages / C
 
@@ -129,19 +123,19 @@
 *   [Think DSP (⭐3k)](https://github.com/AllenDowney/ThinkDSP) ([Site](https://greenteapress.com/wp/think-dsp/), cc-nc) - introduction to Digital Signal Processing in Python
 *   [Python re(gex)? (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions) ([Site (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions/blob/master/py_regex.md), cc-nc-sa) - step by step guide to learning Python regular expressions
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-toolbar-menu (⭐145)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+*   [vue-file-toolbar-menu (⭐150)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
-## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Jamstack Sites Showcase
 
 *   [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 
-## [15. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Editors and IDEs
 
@@ -151,7 +145,7 @@
 
 *   [WSLab (⭐994)](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 
-## [16. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [15. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Linux Distributions
 
@@ -171,13 +165,13 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gentoo_linux.webp">
 
-[**Gentoo Linux**](https://discord.com/invite/Gentoo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gentoo) \
+[**Gentoo Linux**](https://discord.com/invite/gentoolinux) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gentoo) \
 Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers` \
 Language: English, 日本語 \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_mint_community.webp">
 
-[**Linux Mint Community**](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
+[**Linux Mint Community**](https://discord.com/invite/mint) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
 Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
 Language: English
 
@@ -199,7 +193,7 @@ Language: English, français, Deutsch, italiano, polski, español, Nederlands \ 
 Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
 Language: English
 
-## [17. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 

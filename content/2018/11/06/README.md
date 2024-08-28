@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2018
 
-9 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,33 +22,19 @@
 
 *   [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 
-## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### JavaScript / Elm
-
-*   [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
-*   [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
-*   [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
-
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Related projects
 
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### Business Intelligence
-
-*   [FastReport (⭐2.6k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
-
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
@@ -79,34 +65,38 @@
 
 *   [odbc (⭐378)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+
+### Frameworks, Libraries and Tools / Reporting
+
+*   [FastReport (⭐2.6k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [dataaccess\_aspnetcore (⭐141)](https://github.com/digipolisantwerp/dataaccess_aspnetcore) - The DataAccess Toolbox contains the base classes for data access in ASP.NET Core with Entity Framework Core 1.0 using the unit-of-work and repository pattern.
+*   [dataaccess\_aspnetcore (⭐140)](https://github.com/digipolisantwerp/dataaccess_aspnetcore) - The DataAccess Toolbox contains the base classes for data access in ASP.NET Core with Entity Framework Core 1.0 using the unit-of-work and repository pattern.
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
-*   [openiddict (⭐3.8k)](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
-    *   [oidc-debugger (⭐201)](https://github.com/nbarbettini/oidc-debugger) - OAuth 2.0 and OpenID Connect debugging tool.
+*   [openiddict (⭐4.3k)](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
+    *   [oidc-debugger (⭐220)](https://github.com/nbarbettini/oidc-debugger) - OAuth 2.0 and OpenID Connect debugging tool.
 
 ### Frameworks, Libraries and Tools / Blockchain
 
-*   [WalletWasabi (⭐1.9k)](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
+*   [WalletWasabi (⭐2.1k)](https://github.com/zkSNACKs/WalletWasabi) - Privacy focused, ZeroLink compliant Bitcoin wallet.
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
-*   [TrackableEntities.Core (⭐67)](https://github.com/TrackableEntities/TrackableEntities.Core) - Change-tracking across service boundaries with .NET Core.
+*   [TrackableEntities.Core (⭐72)](https://github.com/TrackableEntities/TrackableEntities.Core) - Change-tracking across service boundaries with .NET Core.
 
 ### Frameworks, Libraries and Tools / Networking
 
-*   [Networker (⭐470)](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
+*   [Networker (⭐476)](https://github.com/MarkioE/Networker) - A simple to use TCP and UDP networking library for .NET, designed to be flexible, scalable and FAST.
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [Rin (⭐327)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
+*   [Rin (⭐637)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

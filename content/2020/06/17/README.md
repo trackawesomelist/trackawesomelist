@@ -18,7 +18,7 @@
 
 ### GIS
 
-*   [DEM Net Elevation API (⭐287)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+*   [DEM Net Elevation API (⭐294)](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
 
 ### Real-time Communications
 
@@ -56,7 +56,7 @@
 
 ### Clients
 
-*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐177)](https://github.com/relevantfruit/nestjs-keycloak-admin)
+*   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐178)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
 ## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
@@ -99,17 +99,17 @@
 
 ### Payments
 
-*   [AnimatedCardInput (⭐37)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
+*   [AnimatedCardInput (⭐38)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
 
 ## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
-*   [Family Accounting Tool (⭐193)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
+*   [Family Accounting Tool (⭐203)](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
 
 ### Software / Note-taking & Editors
 
-*   [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code (⭐13k)](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
+*   [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code (⭐14k)](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
 
 ## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Tools / XML
 
-*   [trex (⭐736)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
+*   [trex (⭐737)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Resources in Other Languages / Spanish
 

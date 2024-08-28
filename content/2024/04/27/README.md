@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpg (⭐0)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
+*   [vite-plugin-mpg (⭐1)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -40,7 +40,7 @@
 
 ### 3D / Godot 4.2
 
-*   [Reia (⭐64)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+*   [Reia (⭐102)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

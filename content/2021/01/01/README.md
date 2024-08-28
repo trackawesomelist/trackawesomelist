@@ -73,7 +73,7 @@
 
 ### Cryptocurrency
 
-- API: [Binance (⭐3.7k)](https://github.com/binance/binance-spot-api-docs)
+- API: [Binance (⭐3.8k)](https://github.com/binance/binance-spot-api-docs)
 
   Description: Exchange for Trading Cryptocurrencies based in China
 

@@ -23,7 +23,7 @@
 
 ### Software / Communication - SIP
 
-*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐735)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
+*   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐757)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Packages / Modifiers
 
-*   [ember-style-modifier (⭐31)](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style.
+*   [ember-style-modifier (⭐36)](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style.
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Build Systems
 
-*   [Vcpkg (⭐22k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+*   [Vcpkg (⭐23k)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 
 ---
 

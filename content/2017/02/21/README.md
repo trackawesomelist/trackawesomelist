@@ -139,7 +139,7 @@ git log -n <n>
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [SendGrid-csharp (⭐1k)](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
+*   [SendGrid-csharp (⭐1.1k)](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
 
 ---
 

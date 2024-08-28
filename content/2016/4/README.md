@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-42 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,28 +18,22 @@
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
-
-## [4. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [3. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Writing native (⭐357)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
-*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐839)](https://github.com/derekargueta/Android-Interview-Questions)
+*   [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc (⭐856)](https://github.com/derekargueta/Android-Interview-Questions)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
-*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐365)](https://github.com/gdi2290/ngExam)
+*   [An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass (⭐360)](https://github.com/gdi2290/ngExam)
 *   [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 *   [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 *   [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
@@ -108,8 +102,8 @@
 
 *   [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 *   [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
-*   [Some basic javascript coding challenges and interview questions (⭐4k)](https://github.com/kolodny/exercises)
-*   [Some JavaScript interview exercises (⭐66)](https://github.com/csvenja/javascript-exercises)
+*   [Some basic javascript coding challenges and interview questions (⭐4.2k)](https://github.com/kolodny/exercises)
+*   [Some JavaScript interview exercises (⭐71)](https://github.com/csvenja/javascript-exercises)
 *   [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 
 ### Programming Languages/Frameworks/Platforms / KnockoutJS
@@ -122,7 +116,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Python
 
-*   [A listing of questions that could potentially be asked for a python job listing (⭐177)](https://github.com/sigmavirus24/python-interview-questions)
+*   [A listing of questions that could potentially be asked for a python job listing (⭐211)](https://github.com/sigmavirus24/python-interview-questions)
 *   [Python interview questions collected by Reddit users](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
 *   [Top 25 Python Interview Questions from Career Guru](http://career.guru99.com/top-25-python-interview-questions/)
 
@@ -176,19 +170,19 @@
 
 ### Coding exercises / Windows
 
-*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges)
-*   [Interview questions solved in python (⭐115)](https://github.com/roseperrone/interview-questions)
+*   [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions (⭐29k)](https://github.com/donnemartin/interactive-coding-challenges)
+*   [Interview questions solved in python (⭐120)](https://github.com/roseperrone/interview-questions)
 
 ### Comprehensive lists / Windows
 
-*   [Some simple questions to interview potential backend candidates (⭐247)](https://github.com/starandtina/backend-interview-questions)
+*   [Some simple questions to interview potential backend candidates (⭐278)](https://github.com/starandtina/backend-interview-questions)
 
 ### Security / Windows
 
 *   [101 IT Security Interview Questions](http://careers.simplicable.com/careers/new/101-IT-security-interview-questions)
 *   [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Composer
 
@@ -201,7 +195,7 @@
 
 *   You might use the following tags: `composer-php`, `packagist`, `satis` + `php`.
 
-## [7. Codeface](/content/chrissimpkins/codeface/week/README.md)
+## [6. Codeface](/content/chrissimpkins/codeface/week/README.md)
 
 ### The Gallery
 
@@ -542,13 +536,13 @@
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-light.png" width="725">
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Proton (⭐160)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐161)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
-## [9. Tips](/content/git-tips/tips/week/README.md)
+## [8. Tips](/content/git-tips/tips/week/README.md)
 
 ## List all the alias and configs.
 
@@ -566,13 +560,13 @@ git config --global core.ignorecase false
 git config --global help.autocorrect 1
 ```
 
-## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [glumpy (⭐1.1k)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Framework Extras
 
@@ -588,7 +582,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐747)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐749)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -600,7 +594,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐957)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐960)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -608,7 +602,7 @@ git config --global help.autocorrect 1
 
 ### Configuration / PHP Installation
 
-*   [PHP Brew (⭐5.3k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
+*   [PHP Brew (⭐5.4k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 
 ### Configuration / Virtual Machines
 
@@ -617,33 +611,33 @@ git config --global help.autocorrect 1
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐7.1k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
-## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [13. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [15. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [14. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### serialization
 
 *   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
-## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [15. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -653,26 +647,26 @@ git config --global help.autocorrect 1
 
 *   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 
-## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [16. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [17. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
-## [20. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [19. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### General
 
@@ -685,7 +679,7 @@ git config --global help.autocorrect 1
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [21. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [20. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
@@ -700,14 +694,14 @@ git config --global help.autocorrect 1
 
 *   [git2r (⭐213)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [22. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [21. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [23. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [22. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -723,7 +717,7 @@ git config --global help.autocorrect 1
 
 *   [Dtanks (⭐11)](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 
-## [24. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Basics
 
@@ -813,19 +807,19 @@ git config --global help.autocorrect 1
 
 *   [BetterWorks](http://www.producthunt.com/tech/betterworks)
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. \[Simplified BSD]
 
-## [26. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [25. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [27. Amas](/content/sindresorhus/amas/week/README.md)
+## [26. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -835,7 +829,7 @@ git config --global help.autocorrect 1
 
 *   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -853,7 +847,7 @@ git config --global help.autocorrect 1
 *   [benchmark.js (⭐5.5k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐561)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Tracking / ORM
 
@@ -867,27 +861,13 @@ git config --global help.autocorrect 1
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [30. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [29. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### HTML and CSS / Spock Framework
-
-*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
-
-### Objective-C / PicoLisp
-
-*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
-
-### Swift / Play Scala
-
-*   [Hacking with Swift](https://www.hackingwithswift.com)
-
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -906,7 +886,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [33. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [31. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -939,17 +919,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐231)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐235)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
 *   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [35. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -960,7 +940,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -972,13 +952,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐162)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [37. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [38. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [36. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -986,7 +966,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [39. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [37. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -994,11 +974,11 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [combination (⭐33)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
+*   [combination (⭐34)](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
 *   [minmaxlist (⭐4)](https://github.com/seantanly/elixir-minmaxlist) - Elixir library extending `Enum.min_by/2`, `Enum.max_by/2` and `Enum.min_max_by/2` to return a list of results instead of just one.
 *   [paratize (⭐28)](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 
@@ -1008,7 +988,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐354)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐357)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1027,7 +1007,7 @@ git config --global help.autocorrect 1
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1049,7 +1029,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [42. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [40. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

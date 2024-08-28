@@ -10,11 +10,11 @@
 
 ### Communication
 
-*   [MailTo (⭐63)](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
+*   [MailTo (⭐64)](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
 
 ### Developer
 
-*   [Fakeum (⭐286)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Fakeum (⭐287)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
 *   [Git Repos (⭐313)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
@@ -23,19 +23,19 @@
 
 ### Productivity
 
-*   [I Sheet You Not (⭐69)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐67)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐287)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐290)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
-*   [AppScripts (⭐79)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
+*   [AppScripts (⭐87)](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
 
 ### Web
 
-*   [Reddit (⭐216)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐214)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

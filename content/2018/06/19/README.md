@@ -10,7 +10,7 @@
 
 ### Software / Office Suites
 
-*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.6k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
+*   [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code (⭐4.7k)](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 ## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Packages / Routing addons
 
-*   [ember-router-scroll (⭐203)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
+*   [ember-router-scroll (⭐204)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
 ## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Packages / Content management systems
 
-*   [KeystoneJS (⭐9k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+*   [KeystoneJS (⭐9.1k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Admin Interface
 
-*   [Trestle (⭐1.9k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+*   [Trestle (⭐2k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 
 ---
 

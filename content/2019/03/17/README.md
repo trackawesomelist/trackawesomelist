@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17, 2019
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,7 @@
 
 ### Miscellaneous / Symfony2
 
-*   [react-admin (⭐24k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
+*   [react-admin (⭐25k)](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
 
 ## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -58,19 +58,13 @@
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Android
-
-*   [Google Android Developer Training](https://developer.android.com/guide)
-
-## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Plotter Control
 
 *   [MP2300-Tools (⭐6)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
@@ -79,7 +73,7 @@
 ### Networking
 
 *   [cpp-netlib/uri (⭐138)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[Boost]
-*   [uriparser (⭐317)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [uriparser (⭐323)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

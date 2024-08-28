@@ -20,8 +20,7 @@
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
-*   [Syndicationd (⭐76)](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ymgyt/syndicationd)
-    ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
+*   [Syndicationd (⭐79)](https://github.com/ymgyt/syndicationd): a TUI feed viewer written in Rust <sup>[1461](https://t.me/s/aboutrss/1461)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ymgyt/syndicationd)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
 
 ## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -44,11 +43,11 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-dir2json (⭐6)](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
+*   [vite-plugin-dir2json (⭐9)](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-serve-static (⭐5)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
+*   [vite-plugin-serve-static (⭐6)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
 
 ### Vue / Loaders
 
@@ -79,10 +78,6 @@
 
 *   [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns)
 
-### Generative AI Tools Directories
-
-*   [Altern](https://altern.ai/?utm_source=awesomeaitools): "Gateway to AI Discoveries"
-
 ### Online Tools and Applications
 
 *   [StartKit.AI](https://startkit.ai): Boilerplate for quickly building AI products
@@ -96,11 +91,11 @@
 ### Tools & Utilities / Others
 
 *   [Memento (⭐36)](https://github.com/le-nn/memento) - ![stars](https://img.shields.io/github/stars/le-nn/memento?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/le-nn/memento?style=flat-square\&cacheSeconds=86400) A simple client-side state management container for Blazor/.NET includes redo/undo and ReduxDevTools support.
-*   [RxBlazorLight (⭐4)](https://github.com/b-straub/RxBlazorLight) - ![stars](https://img.shields.io/github/stars/b-straub/RxBlazorLight?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/RxBlazorLight?style=flat-square\&cacheSeconds=86400) RxBlazorLight is a simple reactive wrapper around Blazor components. For now only [MudBlazor](https://mudblazor.com/) components are supported. Build the [RxMudBlazorLightSample (⭐4)](https://github.com/b-straub/RxBlazorLight/tree/main/RxMudBlazorLightSample) and enjoy the reactive [Components (⭐4)](https://github.com/b-straub/RxBlazorLight/tree/main/RxMudBlazorLightTestBase/Components).
+*   [RxBlazorLight (⭐5)](https://github.com/b-straub/RxBlazorLight) - ![stars](https://img.shields.io/github/stars/b-straub/RxBlazorLight?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/b-straub/RxBlazorLight?style=flat-square\&cacheSeconds=86400) RxBlazorLight is a simple reactive wrapper around Blazor components. For now only [MudBlazor](https://mudblazor.com/) components are supported. Build the [RxMudBlazorLightSample (⭐5)](https://github.com/b-straub/RxBlazorLight/tree/main/RxMudBlazorLightSample) and enjoy the reactive [Components (⭐5)](https://github.com/b-straub/RxBlazorLight/tree/main/RxMudBlazorLightTestBase/Components).
 
 ### Others / Others
 
-*   [Blazork8s (⭐133)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
+*   [Blazork8s (⭐140)](https://github.com/weibaohui/blazork8s) -![GitHub stars](https://img.shields.io/github/stars/weibaohui/blazork8s?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/weibaohui/blazork8s) Manage k8s using balzor with AI,like kubernetes dashboard.
 
 ### Videos / Others
 

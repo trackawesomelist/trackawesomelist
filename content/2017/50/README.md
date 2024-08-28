@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11 - Dec 17, 2017
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -60,8 +60,8 @@
 
 ### Web frameworks / Clack plugins
 
-*   [ningle (⭐271)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
-    *   [jingle (⭐46)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
+*   [ningle (⭐273)](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+    *   [jingle (⭐47)](https://github.com/dnaeon/cl-jingle) - based on ningle, adds  bells and whistles, such as middlewares.
         *   includes an OpenAPI and Swagger UI demo.
 
 ### Other / Third-party APIs
@@ -80,19 +80,13 @@
 
 *   [FaaS Forward](https://faaslane.wordpress.com) - Learning & living on the FaaS-Lane.
 
-## [10. Guides](/content/NARKOZ/guides/week/README.md)
-
-### Frameworks / Vue
-
-*   [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
-
-## [11. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [10. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Effect Management
 
 *   [purescript-eff (⭐38)](https://github.com/purescript/purescript-eff) - The Eff monad, for handling native side effects.
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -102,7 +96,7 @@
 
 *   [wolkenkit Slack](http://slackin.wolkenkit.io/) - A Slack team on DDD, event-sourcing, CQRS and wolkenkit.
 
-## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / HTTP
 
@@ -121,23 +115,23 @@
 ### Table of Contents / Static Analysis
 
 *   [Exakat (⭐376)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-*   [Mondrian (⭐394)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+*   [Mondrian (⭐395)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-*   [PhpDependencyAnalysis (⭐560)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
-*   [PHP Metrics (⭐2.4k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+*   [PhpDependencyAnalysis (⭐561)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PHP Metrics (⭐2.5k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 *   [PHP Migration (⭐201)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 *   [PHPStan (⭐13k)](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 
 ### Table of Contents / Database
 
 *   [Atlas.Orm (⭐427)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.SqlQuery (⭐448)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Aura.SqlQuery (⭐451)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 
 ### Configuration / Text Editors and IDEs
 
 *   [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
-## [14. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Neural networks
 
@@ -150,13 +144,13 @@
 *   <a name="opencv"></a>
     [OpenCV](https://opencv.org/)
 
-## [15. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [14. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Clients
 
 *   [pnpm (⭐26k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
-## [16. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [15. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Backends / Every awesome web app needs an awesome backend.
 
@@ -167,25 +161,25 @@
 
 *   [Postman](https://www.getpostman.com/) - A tool to make HTTP requests, generate mock servers and make API documentation.
 
-## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [iOS Interview Questions For Senior Developers](https://m.smartcloud.io/ios-interview-questions-for-senior-developers-in-2017-a94cc81c8205)
 
-## [18. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [17. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Yetibot (⭐330)](https://github.com/yetibot/yetibot) (Clojure)
 
-## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Application Libraries
 
-*   [ocaml-containers (⭐475)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
+*   [ocaml-containers (⭐481)](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 
-## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -197,51 +191,51 @@
 *   [Snape (⭐821)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
-## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
-*   [NetCoreStack.Proxy (⭐41)](https://github.com/NetCoreStack/Proxy) - The type-safe, distributed REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
+*   [NetCoreStack.Proxy (⭐42)](https://github.com/NetCoreStack/Proxy) - The type-safe, distributed REST library for .NET Standard 2.0 (NetCoreStack Flying Proxy)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   Validation
-    *   [FluentValidation (⭐8.4k)](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
-    *   [FormHelper (⭐256)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation).
-    *   [Guard (⭐709)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
-    *   [Valit (⭐319)](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
+    *   [FluentValidation (⭐8.9k)](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+    *   [FormHelper (⭐270)](https://github.com/SinanBozkus/FormHelper) - Form & Validation Helper for ASP.NET Core. Form Helper helps you to create ajax forms and validations without writing any javascript code. (Compatible with Fluent Validation).
+    *   [Guard (⭐713)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+    *   [Valit (⭐320)](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 
-## [22. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [21. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Writing / Storyboard
 
 *   [Taskade](https://www.taskade.com/) - Collaborative editor and outliner.
 
-## [23. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [22. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Monitoring
 
 *   [pgwatch2 (⭐1.8k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Data
 
 *   [LeetCode-Swift (⭐4.8k)](https://github.com/soapyigu/LeetCode-Swift) - Solutions to LeetCode interview questions.
 
-## [25. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [24. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
 *   [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
 
-## [26. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [25. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Productivity
 
 *   [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
 
-## [27. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [26. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -249,9 +243,9 @@
 
 ### Security
 
-*   [VPN Manager (⭐150)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
+*   [VPN Manager (⭐154)](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -261,7 +255,7 @@
 
 *   [Valit (⭐320)](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 
-## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [28. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Networking
 
@@ -269,19 +263,19 @@
 *   [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 *   [Zmap](https://zmap.io/) - An open-source network scanner.
 
-## [30. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [29. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / CLI Templates
 
 *   [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [30. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [reg-suit (⭐1.1k)](https://github.com/reg-viz/reg-suit) - Visual regression testing suite which compares images, stores snapshots, and notifies the difference to your GitHub repo.
 
-## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [31. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
@@ -291,13 +285,13 @@
 
 *   [Cloud Foundry (⭐2)](https://github.com/amdelamar/vertx-cloudfoundry) - An example Vert.x for deploying to a [Cloud Foundry](https://www.cloudfoundry.org/) service provider.
 
-## [33. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Companies
 
 *   [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
@@ -308,7 +302,7 @@
 *   [vue-modal-dialogs (⭐295)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 *   [vue-cleave-component (⭐281)](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 
-## [35. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [34. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### SQL on Hadoop
 
@@ -345,7 +339,7 @@
 *   [DataWorks Summit](https://dataworkssummit.com/)
 *   [Spark Summit](https://databricks.com/sparkaisummit)
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 

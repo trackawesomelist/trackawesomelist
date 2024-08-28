@@ -72,7 +72,7 @@
 
 ### Frameworks, Libraries and Tools / SDKs
 
-*   [octokit.net (⭐2.5k)](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
+*   [octokit.net (⭐2.7k)](https://github.com/octokit/octokit.net) - GitHub API client library for .NET.
 
 ## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
@@ -99,7 +99,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Wiki.js (⭐24k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-*   [vue-speech-streaming (⭐71)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+*   [vue-speech-streaming (⭐72)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 
 ---
 

@@ -16,7 +16,7 @@
 
 ### Utility / Collection View Layout
 
-*   [VTAcknowledgementsViewController (⭐858)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+*   [VTAcknowledgementsViewController (⭐857)](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
-*   [progaudi.tarantool (⭐46)](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
+*   [progaudi.tarantool (⭐50)](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
 
 ---
 

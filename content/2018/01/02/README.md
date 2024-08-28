@@ -36,7 +36,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
-*   [quartznet (⭐5.9k)](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET <http://www.quartz-scheduler.net>.
+*   [quartznet (⭐6.4k)](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET <http://www.quartz-scheduler.net>.
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

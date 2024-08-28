@@ -103,7 +103,7 @@
 
 ### Reverse Engineering / Middlewares
 
-*   [bayandin/awesome-awesomeness (⭐31k)](https://github.com/bayandin/awesome-awesomeness)
+*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 

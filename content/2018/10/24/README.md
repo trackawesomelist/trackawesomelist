@@ -139,7 +139,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Regular Expression
 
-*   [CTRE (⭐3.2k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐3.3k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -171,7 +171,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Ruby / Scala
 
-*   [Grape (⭐9.8k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
+*   [Grape (⭐9.9k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
 ---
 

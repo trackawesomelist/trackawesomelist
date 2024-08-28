@@ -10,7 +10,7 @@
 
 ### Resources / Tutorials
 
-*   [Percussion Synthesis Using Web Audio (⭐35)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+*   [Percussion Synthesis Using Web Audio (⭐36)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

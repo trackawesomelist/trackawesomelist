@@ -14,13 +14,13 @@
 
 ### Storage / Scala
 
-*   [Secure Scuttlebutt (⭐60)](https://github.com/ssbc/docs) - P2P database of message-feeds.
+*   [Secure Scuttlebutt (⭐61)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
 ## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Image Processing
 
-*   [DotImaging (⭐315)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐314)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

@@ -116,11 +116,11 @@
 
 ### Frameworks, Libraries and Tools / Misc
 
-*   [ReflectionMagic (⭐318)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
+*   [ReflectionMagic (⭐331)](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
 
 ### Frameworks, Libraries and Tools / Template Engine
 
-*   [Scriban (⭐2.6k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
+*   [Scriban (⭐3.1k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
 ## [15. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 

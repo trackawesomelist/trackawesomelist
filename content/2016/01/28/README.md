@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐747)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐749)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -38,7 +38,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Stash (⭐957)](https://github.com/tedious/Stash) - Another library for caching.
+*   [Stash (⭐960)](https://github.com/tedious/Stash) - Another library for caching.
 
 ### Table of Contents / Data Structure and Storage
 
@@ -46,7 +46,7 @@
 
 ### Configuration / PHP Installation
 
-*   [PHP Brew (⭐5.3k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
+*   [PHP Brew (⭐5.4k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 
 ### Configuration / Virtual Machines
 

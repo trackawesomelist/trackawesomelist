@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-48 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -133,7 +133,7 @@
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐571)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐572)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Community / Other
 
@@ -156,8 +156,8 @@
 
 ### Packages / MIDI
 
-*   [JZZ (⭐519)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
-*   [JZZ-midi-Gear (⭐15)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+*   [JZZ (⭐521)](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+*   [JZZ-midi-Gear (⭐17)](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐2.9k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
+*   [lalrpop/lalrpop (⭐3k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
 
 ## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -360,7 +360,7 @@
 
 ### Resources / Examples
 
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐38)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
+*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
 
 ### Projects Using Vue.js / Open Source
 
@@ -375,11 +375,11 @@
 
 ### Audio
 
-*   [minimp3 (⭐1.5k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+*   [minimp3 (⭐1.6k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
 
 ### Cryptography
 
-*   [digestpp (⭐187)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐190)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
@@ -409,11 +409,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐57k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐58k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐57k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐58k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -422,7 +422,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐69k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐70k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [42. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -456,13 +456,13 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [ElectronNET (⭐6.9k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
-*   [MassTransit (⭐6k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
-*   [opencvsharp (⭐4.8k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
+*   [ElectronNET (⭐7.2k)](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
+*   [MassTransit (⭐6.8k)](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+*   [opencvsharp (⭐5.3k)](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV.
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [aspnet-core-react-template (⭐622)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
+*   [aspnet-core-react-template (⭐631)](https://github.com/bradymholt/aspnet-core-react-template) - ASP.NET Core 2.0 / React SPA Template App.
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -470,11 +470,11 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [CommandLineUtils (⭐2.1k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
+*   [CommandLineUtils (⭐2.2k)](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 
 ### Frameworks, Libraries and Tools / Web Socket
 
-*   [websocket-manager (⭐443)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+*   [websocket-manager (⭐452)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
 
 ## [47. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -485,30 +485,6 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
-
-## [48. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Go / Phoenix
-
-*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
-
-### Lisp / TeX
-
-*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
-*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
-
-### Ruby / Tornado
-
-*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-
-### Ruby / Ruby on Rails
-
-*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
-
-### Workflow / Vulkan
-
-*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

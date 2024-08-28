@@ -14,19 +14,19 @@
 
 ### Books
 
-*   [Workflow Automation with Microsoft Power Automate](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795): Achieve digital transformation through business automation with minimal coding
+*   [Workflow Automation with Microsoft Power Automate](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795): Achieve digital transformation through business automation with minimal coding.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
-*   [fixed-containers (⭐352)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐360)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [defguard (⭐750)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+*   [defguard (⭐908)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 
 ### Applications / Emulators
 
@@ -35,11 +35,7 @@
 
 ### Applications / Utilities
 
-*   [str4d/rage (⭐2.4k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐16k)](https://github.com/FiloSottile/age).
-
-### Libraries / Cryptography
-
-*   [sorairolake/abcrypt (⭐10)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [str4d/rage (⭐2.5k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐17k)](https://github.com/FiloSottile/age).
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -51,7 +47,7 @@
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐169)](https://github.com/olimorris/codecompanion.nvim) - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐295)](https://github.com/olimorris/codecompanion.nvim) - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -63,7 +59,7 @@
 
 ### Abduction / Applications in AI
 
-*   [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758) - ***AAAI Spring Symposium Series 2021 on Artificial Intelligence for Synthetic Biology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=543730388062329581\&as_sdt=0,5)]. This work proposes an automated biodesign engineering framework empowered by Abductive Meta-Interpretive Learning (MetaAbd), a novel machine learning approach that combines symbolic and sub-symbolic machine learning, to further enhance the design-build-test-learn cycle by enabling the learning machine to 1) exploit domain knowledge and learn human-interpretable models that are expressed by formal languages such as first-order logic; 2) simultaneously optimise the structure and parameters of the models to make accurate numerical predictions; 3) reduce the cost of experiments and effort on data annotation by actively generating hypotheses and examples.
+*   [Automated Biodesign Engineering by Abductive Meta-Interpretive Learning](https://arxiv.org/abs/2105.07758) - ***AAAI Spring Symposium Series 2021 on Artificial Intelligence for Synthetic Biology***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=543730388062329581)]. This work proposes an automated biodesign engineering framework empowered by Abductive Meta-Interpretive Learning (MetaAbd), a novel machine learning approach that combines symbolic and sub-symbolic machine learning, to further enhance the design-build-test-learn cycle by enabling the learning machine to 1) exploit domain knowledge and learn human-interpretable models that are expressed by formal languages such as first-order logic; 2) simultaneously optimise the structure and parameters of the models to make accurate numerical predictions; 3) reduce the cost of experiments and effort on data annotation by actively generating hypotheses and examples.
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -97,7 +93,7 @@
 
 ### External Services
 
-*   [solvedac-box (⭐12)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
+*   [solvedac-box (⭐15)](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 
 ---
 

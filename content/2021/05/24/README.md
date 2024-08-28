@@ -16,7 +16,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐768)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐791)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-layout-system (⭐34)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+*   [vue-layout-system (⭐35)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

@@ -92,38 +92,39 @@
 
 ### Frameworks, Libraries and Tools / Application Templates
 
-*   [dotnet new caju (⭐251)](https://github.com/ivanpaulovich/dotnet-new-caju) - dotnet new templates with awesome architecture styles! Increases productivity to design layered applications based on Hexagonal, Clean or Event Sourcing architectures styles. It supports multiple data access frameworks (MongoDB, EntityFramework, Dapper or Kafka) and it is completely testable.
+*   [dotnet new caju (⭐250)](https://github.com/ivanpaulovich/dotnet-new-caju) - dotnet new templates with awesome architecture styles! Increases productivity to design layered applications based on Hexagonal, Clean or Event Sourcing architectures styles. It supports multiple data access frameworks (MongoDB, EntityFramework, Dapper or Kafka) and it is completely testable.
 
 ### Sample Projects / Workflow
 
 *   Monoliths
-    *   [AlbumViewerVNext (⭐503)](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET 5 Sample.
-    *   [allReady (⭐889)](https://github.com/HTBox/allReady) - Open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. <http://www.htbox.org/projects/allready>
+    *   [AlbumViewerVNext (⭐507)](https://github.com/RickStrahl/AlbumViewerVNext) - West Wind Album Viewer ASP.NET 5 Sample.
+    *   [allReady (⭐893)](https://github.com/HTBox/allReady) - Open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. <http://www.htbox.org/projects/allready>
     *   [AspNet5GeoElasticsearch (⭐37)](https://github.com/damienbod/AspNet5GeoElasticsearch) - ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
-    *   [aspnet-servicediscovery-patterns (⭐283)](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - Samples of implementing Service Discovery patterns with ASP.NET Core.
-    *   [AspNetAuthorizationWorkshop (⭐1.1k)](https://github.com/blowdart/AspNetAuthorizationWorkshop) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
-    *   [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) Presented December Connect 2016 Conference, a compreshsive set of interworking apps for both enterprise users and the consumers (bike riders): [Mobile Apps (⭐444)](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services (⭐89)](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites (⭐111)](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps (⭐26)](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps (⭐33)](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App (⭐37)](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
+    *   [aspnet-servicediscovery-patterns (⭐290)](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - Samples of implementing Service Discovery patterns with ASP.NET Core.
+    *   [AspNetAuthorizationWorkshop (⭐1.2k)](https://github.com/blowdart/AspNetAuthorizationWorkshop) - A workshop for moving through the various new pieces in ASP.NET Core Authorization
+    *   [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) Presented December Connect 2016 Conference, a compreshsive set of interworking apps for both enterprise users and the consumers (bike riders): [Mobile Apps (⭐441)](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services (⭐90)](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites (⭐110)](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps (⭐26)](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps (⭐33)](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App (⭐38)](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
         [Azure Bot App (⭐30)](https://github.com/Microsoft/BikeSharing360_BotApps).
-    *   [Clean Architecture Manga (⭐3.7k)](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture sample with .NET Core 3.0 and C# 8. Use cases as central organising structure, completely testable, decoupled from frameworks.
-    *   [cloudscribe (⭐1.2k)](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
-    *   [CoreCodeCamp (⭐74)](https://github.com/shawnwildermuth/CoreCodeCamp) - An Open Source Website for running small, local development events.
+    *   [Clean Architecture Manga (⭐4k)](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture sample with .NET Core 3.0 and C# 8. Use cases as central organising structure, completely testable, decoupled from frameworks.
+    *   [cloudscribe (⭐1.3k)](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
+    *   [CoreCodeCamp (⭐73)](https://github.com/shawnwildermuth/CoreCodeCamp) - An Open Source Website for running small, local development events.
     *   [DotNetClub (⭐236)](https://github.com/scheshan/DotNetClub) - Tiny club written in ASP.NET Core.
-    *   [eShopOnWeb (⭐9.3k)](https://github.com/dotnet-architecture/eShopOnWeb) - A layered application architecture with monolithic deployment model.
-    *   [Entropy (⭐558)](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
-    *   [EquinoxProject (⭐6.1k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
-    *   [GenVue (⭐131)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
+    *   [eShopOnWeb (⭐10k)](https://github.com/dotnet-architecture/eShopOnWeb) - A layered application architecture with monolithic deployment model.
+    *   [Entropy (⭐562)](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
+    *   [EquinoxProject (⭐6.3k)](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
+    *   [GenVue (⭐132)](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
     *   [guidance-identity-management-for-multitenant-apps (⭐64)](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - How to manage user identities in a multitenant app on Microsoft Azure, using Azure Active Directory for authentication.
-    *   [JustA.ML (⭐79)](https://github.com/mustakimali/JustA.ML) - A web application that lets you share files/URL/text between your devices written in ASP.NET Core 2.0. Open source, live at <https://justa.ml>
-    *   [MegaMine (⭐26)](https://github.com/Nootus/MegaMine) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
-    *   [MusicStore (⭐33k)](https://github.com/dotnet/aspnetcore/tree/master/src/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
+    *   [JustA.ML (⭐82)](https://github.com/mustakimali/JustA.ML) - A web application that lets you share files/URL/text between your devices written in ASP.NET Core 2.0. Open source, live at <https://justa.ml>
+    *   [MegaMine (⭐27)](https://github.com/Nootus/MegaMine) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
+    *   [MusicStore (⭐35k)](https://github.com/dotnet/aspnetcore/tree/master/src/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
     *   [NLayerAppV3 (⭐155)](https://github.com/cesarcastrocuba/nlayerappv3) - NLayerAppV3 N-Layered Architecture with .NET Core Preview 2.
-    *   [NorthwindTraders (⭐4.9k)](https://github.com/JasonGT/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
-    *   [Orchard Core - Modular and Multi-tenant applications (⭐339)](https://github.com/OrchardCMS/OrchardCore.Samples) - Use Orchard Core Framework to create Modular and Multi-tenant applications.
+    *   [NorthwindTraders (⭐5k)](https://github.com/JasonGT/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
+    *   [Orchard Core - Modular and Multi-tenant applications (⭐374)](https://github.com/OrchardCMS/OrchardCore.Samples) - Use Orchard Core Framework to create Modular and Multi-tenant applications.
     *   [PhotoGallery (⭐348)](https://github.com/chsakell/aspnet5-angular2-typescript) - Cross-platform Single Page Applications with ASP.NET Core, Angular 2 & TypeScript <http://wp.me/p3mRWu-11L>.
-    *   [PokeR (⭐37)](https://github.com/halomademeapc/pokeR) - Realtime scrum poker using SignalR and Angular in ASP.NET Core's SPA hosting.  Includes Docker support. [Demo](https://planning.halomademeapc.com)
-    *   [Practical ASP.NET Core (⭐8.5k)](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
-    *   [Sample .NET Core CQRS REST API (⭐2.6k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-    *   [StarWars (⭐614)](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
+    *   [PokeR (⭐42)](https://github.com/halomademeapc/pokeR) - Realtime scrum poker using SignalR and Angular in ASP.NET Core's SPA hosting.  Includes Docker support. [Demo](https://planning.halomademeapc.com)
+    *   [Practical ASP.NET Core (⭐9.1k)](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
+    *   [Practical.CleanArchitecture (⭐2k)](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 8 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 18, React 18, Vue 3, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, OpenTelemetry, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud Services (Azure, AWS, GCP).
+    *   [Sample .NET Core CQRS REST API (⭐2.8k)](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+    *   [StarWars (⭐619)](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
 
 ---
 

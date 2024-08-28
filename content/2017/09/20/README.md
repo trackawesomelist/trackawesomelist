@@ -16,7 +16,7 @@
 
 ### Contents / Extensions
 
-*   [pgMemento (⭐375)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
+*   [pgMemento (⭐379)](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 
 ### Contents / Optimization
 
@@ -51,7 +51,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐782)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐784)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [5. BEM Resources](/content/sturobson/BEM-resources/README.md)
 

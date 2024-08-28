@@ -147,13 +147,14 @@ Here is the awesome badge for your project:
 *   [LawnchairLauncher/lawnicons (⭐1.3k)](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
 *   [lizongying/my-tv-0 (⭐1.2k)](https://github.com/lizongying/my-tv-0) - 電視網絡視頻播放軟件，可以自定義視頻源
 *   [Nain57/Smart-AutoClicker (⭐1.6k)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-*   [GuoXiCheng/SKIP (⭐2.2k)](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+*   [ReVanced/revanced-patches (⭐2.1k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [jellyfin/jellyfin-androidtv (⭐2.6k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 *   [VREMSoftwareDevelopment/WiFiAnalyzer (⭐3k)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 *   [JetBrains/intellij-platform-plugin-template (⭐3k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
 *   [deniscerri/ytdlnis (⭐3.5k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 *   [duckduckgo/Android (⭐3.7k)](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 *   [z-huang/InnerTune (⭐3.9k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
+*   [florisboard/florisboard (⭐5.8k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 *   [recloudstream/cloudstream (⭐6.4k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 *   [libre-tube/LibreTube (⭐8.4k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 *   [RikkaApps/Shizuku (⭐9.8k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
@@ -166,40 +167,40 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [hannibal002/SkyHanni (⭐304)](https://github.com/hannibal002/SkyHanni) - SkyHanni is a 1.8.9 Minecraft Mod for Hypixel SkyBlock.
 *   [xchacha20-poly1305/husi (⭐586)](https://github.com/xchacha20-poly1305/husi)
 *   [nightscout/AndroidAPS (⭐680)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
 *   [iamr0s/Dhizuku (⭐958)](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
 *   [android/platform-samples (⭐1k)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
-*   [ReVanced/revanced-patches (⭐2.1k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
-*   [rnmapbox/maps (⭐2.2k)](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
+*   [rhunk/SnapEnhance (⭐1.2k)](https://github.com/rhunk/SnapEnhance) - An Xposed module offering an enhanced Snapchat experience
+*   [tolgee/tolgee-platform (⭐1.4k)](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 *   [google/ksp (⭐2.8k)](https://github.com/google/ksp) - Kotlin Symbol Processing API
+*   [NeoApplications/Neo-Store (⭐2.9k)](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
+*   [android/camera-samples (⭐4.9k)](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
 *   [breezy-weather/breezy-weather (⭐5k)](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
-*   [yairm210/Unciv (⭐8.3k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 *   [ethereum-lists/chains (⭐8.6k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
 *   [JetBrains/ideavim (⭐9.1k)](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 *   [tiann/KernelSU (⭐9.5k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-*   [android/nowinandroid (⭐16k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+*   [gedoor/legado (⭐28k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 *   [shadowsocks/shadowsocks-android (⭐35k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 *   [bannedbook/fanqiang (⭐38k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
+*   [DataDog/dd-sdk-android (⭐146)](https://github.com/DataDog/dd-sdk-android) - Datadog SDK for Android (Compatible with Kotlin and Java)
+*   [zaneschepke/wgtunnel (⭐711)](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 *   [aws/aws-toolkit-jetbrains (⭐741)](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
-*   [getsentry/sentry-java (⭐1.1k)](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-*   [nekomangaorg/Neko (⭐2.2k)](https://github.com/nekomangaorg/Neko) - Unofficial MangaDex Reader for Android 7+
-*   [jarnedemeulemeester/findroid (⭐2.3k)](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
-*   [Ivy-Apps/ivy-wallet (⭐2.6k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
-*   [Dr-TSNG/Hide-My-Applist (⭐2.8k)](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+*   [rebelonion/Dantotsu (⭐1.5k)](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
+*   [keiyoushi/extensions-source (⭐1.8k)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
+*   [adrielcafe/voyager (⭐2.5k)](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
 *   [osfans/trime (⭐3k)](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
-*   [T8RIN/ImageToolbox (⭐3.2k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
-*   [gotson/komga (⭐3.8k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
-*   [detekt/detekt (⭐6.2k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
-*   [ankidroid/Anki-Android (⭐8.3k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-*   [thunderbird/thunderbird-android (⭐9.9k)](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
-*   [coil-kt/coil (⭐11k)](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
-*   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+*   [ChuckerTeam/chucker (⭐3.8k)](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
+*   [mobile-dev-inc/maestro (⭐5.6k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+*   [JetBrains/Exposed (⭐8.2k)](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+*   [CymChad/BaseRecyclerViewAdapterHelper (⭐24k)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+*   [alibaba/p3c (⭐30k)](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+*   [2dust/v2rayNG (⭐34k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+*   [square/okhttp (⭐46k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -671,13 +672,13 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-cryptography"></a>Cryptography <sup>[Back ⇈](#libraries-frameworks-cryptography-subcategory)</sup>
 
-*   [ionspin/kotlin-multiplatform-libsodium (⭐91)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 *   [appmattus/crypto (⭐83)](https://github.com/appmattus/crypto) - A collection of Kotlin Multiplatform Mobile cryptographic hashing functions.
+*   [ionspin/kotlin-multiplatform-libsodium (⭐91)](https://github.com/ionspin/kotlin-multiplatform-libsodium) - Kotlin multiplatform wrapper for Libsodium cryptographic library.
 
 ### <a name="libraries-frameworks-dsl"></a>DSL <sup>[Back ⇈](#libraries-frameworks-dsl-subcategory)</sup>
 
-*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 *   [bipokot/Kabu (⭐33)](https://github.com/bipokot/Kabu) - The fastest way to create complex Kotlin DSL
+*   [h0tk3y/regex-dsl (⭐86)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 

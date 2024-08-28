@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12 - Mar 18, 2018
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -71,7 +71,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐182)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐183)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -113,13 +113,7 @@
 
 *   [kern (⭐235)](https://github.com/blancas/kern)
 
-## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Raspberry Pi / Tornado
-
-*   [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
-
-## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
@@ -131,20 +125,20 @@
 
 *   [micrometer (⭐3.6k)](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Email
 
-*   [Postmaster (⭐8)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [Postmaster (⭐9)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-## [13. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [12. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
 *   [plash (⭐367)](https://github.com/ihucos/plash/)\
     Lightweight, rootless containers.
 
-## [14. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [13. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
@@ -154,25 +148,25 @@
 
 *   [Typefont](https://github.com/Sir-Vasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
 
-## [15. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [14. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Places / Monasteries
 
 *   [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [15. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
 *   [Shopping List (⭐21)](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 
-## [17. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [16. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Blog posts
 
 *   [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -180,58 +174,58 @@
 
 ### Graphics
 
-*   [Diligent Engine (⭐3.4k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
+*   [Diligent Engine (⭐3.5k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 
 ### Online Compiler
 
 *   [repl.it](https://repl.it) - A powerful yet simple tools and platforms for educators, learners, and developers.
 
-## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [18. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-client-python :fire::fire: (⭐351)](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
 
-## [20. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [19. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Software
 
 *   [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
 
-## [21. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [20. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Bots
 
 *   [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub (⭐178)](https://github.com/yogthos/mastodon-bot).
 
-## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Tours And Guides / Runner
 
 *   [driver.js (⭐21k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
-## [23. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
 *   [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge.
 
-## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 *   [Understanding The Role Of The Incident Manager On-Call (IMOC)](https://www.gremlin.com/community/tutorials/understanding-the-role-of-the-incident-manager-on-call-imoc/)
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
-*   [GenFu (⭐815)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
-*   [mockhttp (⭐1.4k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
-*   [xUnit.net (⭐3.8k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
+*   [GenFu (⭐829)](https://github.com/MisterJames/GenFu) - Library you can use to generate realistic test data.
+*   [mockhttp (⭐1.6k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
+*   [xUnit.net (⭐4.2k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
-## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
@@ -241,25 +235,25 @@
 
 *   [halite (⭐173)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
-## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [26. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Bug Reporting
 
 *   [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 
-## [28. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [27. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Blog Posts & Articles
 
 *   [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
 
-## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Communication
 
 *   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐5.4k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
-## [30. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
@@ -275,7 +269,7 @@
 
 *   [Handheld Underground](http://hhug.me) - Unlicensed games, blog posts about Game Boy, home of the hhugboy emulator.
 
-## [31. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [30. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
@@ -283,19 +277,19 @@
 *   [Flow-based programming (⭐5)](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless.
 *   [Go serverless (⭐20)](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs.
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-easy-checkbox ★2 (⭐2)](https://github.com/BhavanPatel/react-native-easy-checkbox) - Simple CheckBox for react-native
 
-## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [32. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Admin Panel / Omniauth
 
 *   [Trestle (⭐1.8k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Ruby on Rails
 
-## [34. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [33. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -305,26 +299,26 @@
 
 *   [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
 
-## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
 *   [typescript-starter (⭐3.5k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
-## [36. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [35. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Code
 
 *   [ripple-libpp (⭐20)](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
 *   [ripple-rest (⭐83)](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
 
-## [37. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [36. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Blogs / TikZ
 
 *   [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 
-## [38. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [37. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -354,12 +348,12 @@ Donationware
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
 
-## [39. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐306)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐258)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐263)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing
 
@@ -377,7 +371,7 @@ Donationware
 
 *   [Github (⭐2.1k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -387,7 +381,7 @@ Donationware
 
 *   [rsmq (⭐1.7k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -397,13 +391,13 @@ Donationware
 
 *   [vue-cute-modal (⭐7)](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 *   [vue-input-code (⭐67)](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
-*   [vue-comment-grid (⭐160)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
+*   [vue-comment-grid (⭐158)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-check-view (⭐115)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 
-## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -413,7 +407,7 @@ Donationware
 
 *   [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
 
-## [43. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [42. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Poland 🇵🇱
 
@@ -431,7 +425,7 @@ Topics: React, Redux, Async, CSS in JS, ClojureScript\
 Topics: MobX, State Management, GraphQL, CSS in JS\
 <https://twitter.com/thekitze>
 
-## [44. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [43. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -457,7 +451,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 *   [sandboxapi (⭐132)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
-## [45. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [44. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -546,19 +540,19 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 
 
 
-## [46. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [45. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
 *   [elm-webpack-starter-kid (⭐5)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
-## [47. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [46. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
 
-## [48. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [47. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Others
 
@@ -573,7 +567,7 @@ Topics: MobX, State Management, GraphQL, CSS in JS\
 *   [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) - Written by [@jhaddix](https://twitter.com/jhaddix).
 *   [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) - Written by [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
 
-## [49. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [48. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

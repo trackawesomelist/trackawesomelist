@@ -16,7 +16,7 @@
 
 ### Frameworks, Libraries and Tools / IOC
 
-*   [Unity (⭐1.6k)](https://github.com/unitycontainer/unity) - A lightweight, extensible dependency injection container.
+*   [Unity (⭐1.7k)](https://github.com/unitycontainer/unity) - A lightweight, extensible dependency injection container.
 
 ## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

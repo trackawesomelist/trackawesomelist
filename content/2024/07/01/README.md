@@ -10,11 +10,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [chrisgrieser/nvim-lsp-endhints (⭐4)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
+*   [chrisgrieser/nvim-lsp-endhints (⭐68)](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [ayamir/nvimdots (⭐2.8k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
+*   [ayamir/nvimdots (⭐2.9k)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -29,10 +29,6 @@
 *   [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 
 ## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
-
-### Tools / Ironsworn
-
-*   [Iron Vault (⭐22)](https://github.com/iron-vault-plugin/iron-vault/) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
 
 ### Resources / Ironsworn
 

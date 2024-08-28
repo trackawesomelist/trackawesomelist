@@ -232,7 +232,7 @@
 
 ### API Gateways / Edge Services / Scala
 
-*   [Skipper (⭐3k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
+*   [Skipper (⭐3.1k)](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 
 ### Storage / Scala
 
@@ -343,7 +343,7 @@ git rev-list --count <branch-name>
 
 *   [CUB (⭐79)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.6k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
-*   [NCCL (⭐3k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
+*   [NCCL (⭐3.1k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
 ## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -666,7 +666,7 @@ git flow init -d
 
 *   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 *   [cog (⭐916)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐151)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [ExIrc (⭐152)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐21)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐74)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 *   [slacker (⭐84)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
@@ -674,7 +674,7 @@ git flow init -d
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐684)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐687)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -682,7 +682,7 @@ git flow init -d
 
 ### Framework Components
 
-*   [multiverse (⭐93)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐95)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
@@ -710,7 +710,7 @@ git flow init -d
 
 ### Testing
 
-*   [bypass (⭐951)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐956)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -762,7 +762,7 @@ git flow init -d
 
 ### Developer
 
-*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐49k)](https://github.com/google/material-design-icons).
+*   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐50k)](https://github.com/google/material-design-icons).
 
 ## [35. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
@@ -778,7 +778,7 @@ git flow init -d
 
 ### Frameworks, Libraries and Tools / Security
 
-*   [jose-jwt (⭐884)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
+*   [jose-jwt (⭐927)](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 
 ---
 

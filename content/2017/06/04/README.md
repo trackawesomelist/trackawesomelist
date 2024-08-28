@@ -26,7 +26,7 @@
 
 ### CPU profile
 
-*   [call-trace (⭐33)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+*   [call-trace (⭐35)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 *   [cpuprofilify (⭐167)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 
 ### Multimedia

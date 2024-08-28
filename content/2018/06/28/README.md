@@ -72,9 +72,9 @@
 
 ## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-### Frameworks, Libraries and Tools / Misc
+### Frameworks, Libraries and Tools / Mathematics
 
-*   [UnitsNet (⭐2k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
+*   [UnitsNet (⭐2.2k)](https://github.com/angularsen/UnitsNet) - Units.NET gives you all the common units of measurement and the conversions between them.
 
 ## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

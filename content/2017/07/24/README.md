@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
+*   [vue-jalaali-datepicker (⭐12)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

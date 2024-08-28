@@ -46,7 +46,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.7k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐3.8k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -156,7 +156,7 @@
 
 ### Packages / Network
 
-*   [ipify (⭐268)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐270)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2019
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Other / Git
 
-*   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+*   [Commit messages guide (⭐6.7k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -55,7 +55,7 @@
 
 ### no-std crates / WIP
 
-*   [Rubble (⭐398)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
+*   [Rubble (⭐396)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
-*   [List of 300 Angular Interview Questions and Answers (⭐2.8k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 300 Angular Interview Questions and Answers (⭐4.1k)](https://github.com/sudheerj/angular-interview-questions)
 
 ### Database technologies / SQL
 
@@ -77,7 +77,7 @@
 
 ### Concurrency
 
-*   [FiberTaskingLib (⭐914)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
+*   [FiberTaskingLib (⭐920)](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
 
 ### Debug
 
@@ -88,12 +88,6 @@
 ### Open Source Repos / CloudFormation
 
 *   [bazaarvoice/cloudformation-ruby-dsl :fire::fire: (⭐206)](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
-
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
-
-### Ada
-
-*   [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF)
 
 ---
 

@@ -10,19 +10,19 @@
 
 ### Caching
 
-*   [crystal-memcached (⭐34)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
+*   [crystal-memcached (⭐35)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐460)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐462)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
-*   [crul (⭐112)](https://github.com/porras/crul) - Command line HTTP client
+*   [crul (⭐113)](https://github.com/porras/crul) - Command line HTTP client
 
 ### Testing
 
-*   [webmock.cr (⭐102)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
+*   [webmock.cr (⭐103)](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ### Third-party APIs
 

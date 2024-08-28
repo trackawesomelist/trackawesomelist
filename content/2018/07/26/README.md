@@ -48,7 +48,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [X.PagedList (⭐830)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
+*   [X.PagedList (⭐883)](https://github.com/dncuug/X.PagedList) - Library for easily paging through any IEnumerable/IQueryable in ASP.NET/ASP.NET Core.
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

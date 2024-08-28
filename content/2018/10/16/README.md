@@ -47,13 +47,13 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [TLS Channel (⭐185)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐187)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐5.8k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐5.9k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -158,9 +158,9 @@
 
 ### Frameworks, Libraries and Tools / Cryptography
 
-*   [BCrypt.Net (⭐740)](https://github.com/BcryptNet/bcrypt.net) - Bringing updates to the original bcrypt package.
-*   [multiformats (⭐47)](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
-*   [nsec (⭐338)](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
+*   [BCrypt.Net (⭐812)](https://github.com/BcryptNet/bcrypt.net) - Bringing updates to the original bcrypt package.
+*   [multiformats (⭐48)](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
+*   [nsec (⭐381)](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

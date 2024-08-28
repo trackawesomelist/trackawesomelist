@@ -55,7 +55,7 @@
 
 ### Boilerplates / Other
 
-*   [generator-electron (⭐717)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+*   [generator-electron (⭐718)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 
 ### Community / Other
 
@@ -103,7 +103,7 @@
 
 ### Packages / Text
 
-*   [camelcase (⭐665)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐674)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Packages / Data validation
 
@@ -111,8 +111,8 @@
 
 ### Resources / Miscellaneous
 
-*   [node-module-boilerplate (⭐727)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [node-module-boilerplate (⭐730)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+*   [generator-nm (⭐742)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [8. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
@@ -596,7 +596,7 @@ to this,
 
 ### Build Tools
 
-*   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [active (⭐67)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 *   [mad (⭐173)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
@@ -609,12 +609,12 @@ to this,
 
 ### Debugging
 
-*   [eper (⭐437)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐438)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
 *   [ex\_minimatch (⭐13)](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.
-*   [fs (⭐233)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐234)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### Forms
 
@@ -622,9 +622,9 @@ to this,
 
 ### Framework Components
 
-*   [phoenix\_live\_reload (⭐306)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
+*   [phoenix\_live\_reload (⭐312)](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 *   [phoenix\_pubsub\_postgres (⭐27)](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
-*   [phoenix\_pubsub\_rabbitmq (⭐46)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
+*   [phoenix\_pubsub\_rabbitmq (⭐45)](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 *   [plug\_statsd (⭐49)](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
 
 ### Frameworks
@@ -691,8 +691,8 @@ to this,
 
 ### Third Party APIs
 
-*   [ex\_twilio (⭐333)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
-*   [google\_sheets (⭐40)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
+*   [ex\_twilio (⭐334)](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
+*   [google\_sheets (⭐41)](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 *   [qiniu (⭐60)](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,23 +18,17 @@
 
 *   [Github Discussions (⭐20k)](https://github.com/avajs/ava/discussions)
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Articles / XML
-
-*   [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
-
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [Shisho (⭐371)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐370)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
-## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Financial / Text-Based User Interfaces
 
-*   [Cassandre (⭐559)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
+*   [Cassandre (⭐569)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 
 ### Machine Learning / Text-Based User Interfaces
 
@@ -46,19 +40,19 @@
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐7.4k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐7.6k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Formatters / Testing Tools
 
 *   [SARIF](https://www.npmjs.com/package/@microsoft/eslint-formatter-sarif) - Generate a results in a SARIF format so it can be imported into tools like GitHub Advanced Security.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [computer-vision-in-action (⭐2.4k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
+*   [computer-vision-in-action (⭐2.5k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
 
 ---
 

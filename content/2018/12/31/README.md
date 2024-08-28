@@ -39,7 +39,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [Prism (⭐5.8k)](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
+*   [Prism (⭐6.2k)](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
 
 ### Articles / Workflow
 

@@ -90,7 +90,7 @@
 
 ### Others
 
-*   [Racing Car Katas (⭐273)](https://github.com/emilybache/Racing-Car-Katas)
+*   [Racing Car Katas (⭐298)](https://github.com/emilybache/Racing-Car-Katas)
 
 ## [10. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
@@ -248,7 +248,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Standalone apps / Playground
 
-*   :octocat: [Visual Studio Code (⭐160k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐161k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 
 ## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -267,7 +267,7 @@ Webpage: <http://hanahaus.com/>
 ### Rust / General-Purpose Machine Learning
 
 *   [deeplearn-rs (⭐211)](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
-*   [rustlearn (⭐611)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
+*   [rustlearn (⭐614)](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 
 ## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -373,7 +373,7 @@ Webpage: <http://hanahaus.com/>
 
 ### Artificial Intelligence
 
-*   [TensorFlow (⭐184k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
+*   [TensorFlow (⭐185k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
 
 ### Concurrency
 
@@ -444,7 +444,7 @@ git name-rev --name-only <SHA-1>
 
 ### Documentation
 
-*   [bureaucrat (⭐363)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
+*   [bureaucrat (⭐366)](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 
 ### Examples and funny stuff
 
@@ -461,12 +461,12 @@ git name-rev --name-only <SHA-1>
 ### ORM and Datamapping
 
 *   [inquisitor (⭐170)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
-*   [mongodb (⭐565)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+*   [mongodb (⭐566)](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
 *   [udpflux (⭐4)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ### Protocols
 
-*   [riffed (⭐307)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
+*   [riffed (⭐308)](https://github.com/pinterest/riffed) - Provides idiomatic Elixir bindings for Apache Thrift.
 
 ### Third Party APIs
 

@@ -46,7 +46,7 @@
 
 ### Packages / Boilerplating
 
-*   [ember-boilerplate (⭐34)](https://github.com/mirego/ember-boilerplate) -  The stable base upon which we build our Ember.js projects at Mirego.
+*   [ember-boilerplate (⭐36)](https://github.com/mirego/ember-boilerplate) -  The stable base upon which we build our Ember.js projects at Mirego.
 
 ### Packages / Articles
 

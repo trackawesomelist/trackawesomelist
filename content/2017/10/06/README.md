@@ -91,7 +91,7 @@
 
 ### Awesome Repositories
 
-- Repository: [Red Teaming (⭐6.5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- Repository: [Red Teaming (⭐6.8k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
   Description: List of Awesome Red Team / Red Teaming Resources
 
@@ -125,7 +125,7 @@
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
-*   [orleans (⭐9.5k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
+*   [orleans (⭐10k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
 ## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 

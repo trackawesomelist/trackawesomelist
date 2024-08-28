@@ -49,6 +49,7 @@ Interesting topics on all subjects:
 
 ## List of blogs and websites
 
+*   [Localhost server stack](https://webstack.wikimint.com) - wmWebStack: A lightweight, customizable server package designed for web development. Featuring essential tools like PHP, MySQL, and Apache, wmWebStack empowers developers to create, test, and secure their web projects effortlessly.
 *   [Selvakumaran Krishnan](https://selvakumaran.is-a.dev/) - CV of Selvakumaran Krishnan, Software Engineer, Front-End developer, SEO, Digital marketer.
 *   [Selvakumaran Krishnan Strikingly](https://ourmaster.mystrikingly.com/) - Personal profile at Strikingly
 *   [Ourmaster at Google groups](https://groups.google.com/g/ourmaster) - Discussions about online business ideas

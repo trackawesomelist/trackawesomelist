@@ -59,8 +59,8 @@
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.6k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐846)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐1.7k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐866)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐403)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐404)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

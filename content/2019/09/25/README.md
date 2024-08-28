@@ -254,7 +254,7 @@
 
 ### Gaming
 
-*   [Haxe Game Development (⭐379)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐383)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -288,7 +288,7 @@
 
 ### Frameworks, Libraries and Tools / Build Automation
 
-*   [FlubuCore (⭐879)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐900)](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29 - Jun 04, 2017
 
-44 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,7 +20,7 @@
 
 ### CPU profile
 
-*   [call-trace (⭐33)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+*   [call-trace (⭐35)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 *   [cpuprofilify (⭐167)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 
 ### Multimedia
@@ -204,7 +204,7 @@
 *   [Intrigue Core (⭐1.3k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐624)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐627)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [13. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
@@ -237,7 +237,7 @@
 
 ### Apps / Customer experience
 
-*   [Wagtail Personalisation (⭐116)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+*   [Wagtail Personalisation (⭐119)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -547,7 +547,6 @@
 
 ### Unit Testing
 
-*   [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 *   [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 *   [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -584,9 +583,9 @@
 
 ### Open Source Projects
 
-*   [Ionic Push Notification (⭐166)](https://github.com/aggarwalankush/ionic2-push-base)
-*   [Ionic Weather app (⭐249)](https://github.com/aggarwalankush/ionic2-mosum)
-*   [Ionic Reddit Reader (⭐128)](https://github.com/smartapant/ionic2-reddit-reader)
+*   [Ionic Push Notification (⭐165)](https://github.com/aggarwalankush/ionic2-push-base)
+*   [Ionic Weather app (⭐247)](https://github.com/aggarwalankush/ionic2-mosum)
+*   [Ionic Reddit Reader (⭐125)](https://github.com/smartapant/ionic2-reddit-reader)
 *   [Ionic Advanced Components (⭐1.7k)](https://github.com/yannbf/ionic2-components)
 
 ## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -1165,7 +1164,7 @@
 
 ### Frameworks, Libraries and Tools / GUI
 
-*   [Avalonia (⭐20k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+*   [Avalonia (⭐25k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
 ## [36. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
@@ -1185,19 +1184,13 @@
 
 *   [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 
-## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
-
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### RSS
 
 *   [feedparser (⭐164)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1212,27 +1205,28 @@
 *   [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 *   [A collection of postmortem templates (⭐971)](https://github.com/dastergon/postmortem-templates)
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance](https://common-lisp.net/project/armedbear/faq.shtml#qa). [GNU GPL3](http://www.gnu.org/copyleft/gpl.html) with [Classpath exception](http://www.gnu.org/software/classpath/license.html).
+    *   [abcl-memory-compiler](https://gitlab.com/cl-projects/abcl-memory-compiler) - a way to compile Java source code to create Java classes at runtime with ABCL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Intermediate
 
 *   [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
 
-## [41. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [40. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
-- Repository: [Social Engineering (⭐2.5k)](https://github.com/v2-dev/awesome-social-engineering)
+- Repository: [Social Engineering (⭐2.6k)](https://github.com/v2-dev/awesome-social-engineering)
 
   Description: List of awesome social engineering resources
 
 
 
-## [42. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [41. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1255,13 +1249,13 @@
 
 *   [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 
-## [43. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [42. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Python
 
 *   [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 
-## [44. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [43. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 

@@ -58,7 +58,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [promptie (⭐89)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
+*   [promptie (⭐88)](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

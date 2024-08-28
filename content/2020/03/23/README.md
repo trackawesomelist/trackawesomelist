@@ -76,7 +76,7 @@
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐44k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐45k)](https://github.com/gorhill/uBlock)
 
 ## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐147)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐148)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

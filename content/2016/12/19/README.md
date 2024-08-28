@@ -72,13 +72,13 @@
 
 ### Frameworks, Libraries and Tools / Tools
 
-*   [docfx (⭐3.6k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
+*   [docfx (⭐4k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
 ## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐468)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐473)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

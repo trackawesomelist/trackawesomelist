@@ -76,7 +76,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐521)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
+*   [Sterra (⭐525)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 
 ---
 

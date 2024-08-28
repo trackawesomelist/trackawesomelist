@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2024
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -24,7 +24,7 @@
 
 ### Utility
 
-*   [json2v (⭐24)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
+*   [json2v (⭐25)](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -46,15 +46,11 @@
 
 *   [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### JavaScript / Wicket
+### Professional Development
 
-*   [Software Design by Example: A Tool-Based Introduction with JavaScript](https://third-bit.com/sdxjs/) - Greg Wilson (HTML)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Software Design by Example: A Tool-Based Introduction with Python](https://third-bit.com/sdxpy/) - Greg Wilson (HTML)
+*   [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -74,19 +70,13 @@
 
 *   [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Documentation
-
-*   [Swagger UI (⭐25k) (⭐26k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
-
-## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
 *   [Aptabase](https://aptabase.com/for-swift) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -96,20 +86,20 @@
 
 *   [SiteSpeakAI](https://sitespeak.ai): Automate your customer support with AI
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐175)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐244)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
-## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
-*   [rose-pine (⭐114)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
-*   [tmux-kanagawa (⭐32)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [rose-pine (⭐128)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+*   [tmux-kanagawa (⭐47)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
-## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ### **Azure Enterprise Services** / **Azure AI Search**
 
@@ -119,9 +109,9 @@
 
 *   [Prompt Principle for Instructions](https://arxiv.org/abs/2312.16171): 26 prompt principles: e.g., `1) No need to be polite with LLM so there .. 16)  Assign a role.. 17) Use Delimiters..` \[26 Dec 2023]
 
-### **Other techniques and LLM patterns** / **Llama 2 Finetuning**
+### **Other techniques and LLM patterns** / **Llama Finetuning**
 
-*   [Model merging](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54): : A technique that combines two or more large language models (LLMs) into a single model, using methods such as SLERP, TIES, DARE, and passthrough. \[Jan 2024] [git (⭐4k)](https://github.com/cg123/mergekit): mergekit
+*   [Model merging](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54): : A technique that combines two or more large language models (LLMs) into a single model, using methods such as SLERP, TIES, DARE, and passthrough. \[Jan 2024] [git (⭐4.4k)](https://github.com/cg123/mergekit): mergekit
     | Method | Pros                                                       | Cons                                                          |
     | ------ | ---------------------------------------------------------- | ------------------------------------------------------------- |
     | SLERP  | Preserves geometric properties, popular method             | Can only merge two models, may decrease magnitude             |
@@ -136,10 +126,6 @@
     *   [Themes from 2021 and Beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
     *   [Looking Back at 2020, and Forward to 2021](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html)
 
-### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
-
-*   [SeeAct](https://osu-nlp-group.github.io/SeeAct): GPT-4V(ision) is a Generalist Web Agent, if Grounded \[Jan 2024]
-
 ### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [Mobile ALOHA](https://mobile-aloha.github.io/): Stanford’s mobile ALOHA robot learns from humans to cook, clean, do laundry. Mobile ALOHA extends the original ALOHA system by mounting it on a wheeled base [ref](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/) \[4 Jan 2024] / [ALOHA](https://www.trossenrobotics.com/aloha.aspx): A Low-cost Open-source Hardware System for Bimanual Teleoperation.
@@ -149,7 +135,7 @@
 *   [rewind.ai](https://www.rewind.ai/): Rewind captures everything you’ve seen on your Mac and iPhone \[Nov 2023]
 *   [Mobile ALOHA](https://youtu.be/HaaZ8ss-HP4?si=iMYKzvx8wQhf39yU): A day of Mobile ALOHA \[4 Jan 2024]
 
-### **Challenges in evaluating AI systems** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+### **Challenges in evaluating AI systems** / Math
 
 *   [Challenges in evaluating AI systems](https://www.anthropic.com/index/evaluating-ai-systems): The challenges and limitations of various methods for evaluating AI systems, such as multiple-choice tests, human evaluations, red teaming, model-generated evaluations, and third-party audits. [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/eval-ai-anthropic.pdf) \[4 Oct 2023]
 

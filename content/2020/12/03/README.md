@@ -97,7 +97,7 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI SocketIO (⭐322)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
+*   [FastAPI SocketIO (⭐327)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [element-ui-sticky-table (⭐10)](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
+*   [element-ui-sticky-table (⭐11)](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 
 ---
 

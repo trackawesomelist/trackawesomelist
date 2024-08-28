@@ -112,7 +112,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Personality
 
-- API: [Programming Quotes (⭐453)](https://github.com/skolakoda/programming-quotes-api)
+- API: [Programming Quotes (⭐458)](https://github.com/skolakoda/programming-quotes-api)
 
   Description: Programming Quotes API for open source projects
 

@@ -34,7 +34,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TypeGQL (⭐421)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+*   :octocat: [TypeGQL (⭐423)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
 ## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [Fable (⭐2.7k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
+*   [Fable (⭐2.9k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
 ---
 

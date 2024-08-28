@@ -10,7 +10,7 @@
 
 ### Programming Languages/Frameworks/Platforms / Clojure
 
-*   [Interview cake Clojure solutions (⭐117)](https://github.com/DerekCuevas/interview-cake-clj)
+*   [Interview cake Clojure solutions (⭐120)](https://github.com/DerekCuevas/interview-cake-clj)
 
 ## [2. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Minification
 
-*   [Web Markup Minifier (⭐440)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐444)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

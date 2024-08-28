@@ -26,7 +26,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐66k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐67k)](https://github.com/vitejs/vite)
 
 ## [4. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Tools / Community providers
 
-*   [hcledit (⭐415)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐434)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

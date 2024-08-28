@@ -57,7 +57,7 @@
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [shcl (⭐313)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [shcl (⭐315)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
 ### Apps / Third-party APIs
 
@@ -130,7 +130,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-ucloud (⭐66)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+*   [terraform-provider-ucloud (⭐67)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
 ---
 

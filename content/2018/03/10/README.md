@@ -110,7 +110,7 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
-*   [fparsec (⭐489)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
+*   [fparsec (⭐519)](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
 
 ---
 

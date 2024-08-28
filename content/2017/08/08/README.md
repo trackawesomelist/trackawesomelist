@@ -35,12 +35,12 @@
 
 ### Awesome Repositories
 
-- Repository: [Reversing (⭐3.9k)](https://github.com/fdivrp/awesome-reversing)
+- Repository: [Reversing (⭐4k)](https://github.com/fdivrp/awesome-reversing)
 
   Description: List of awesome reverse engineering resources
 
 
-- Repository: [Vehicle Security (⭐2.8k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+- Repository: [Vehicle Security (⭐3k)](https://github.com/jaredthecoder/awesome-vehicle-security)
 
   Description: List of resources for learning about vehicle security and car hacking
 
@@ -48,12 +48,12 @@
 
 ### Other Useful Repositories
 
-- Repository: [Free Programming Books (⭐319k)](https://github.com/EbookFoundation/free-programming-books)
+- Repository: [Free Programming Books (⭐331k)](https://github.com/EbookFoundation/free-programming-books)
 
   Description: Free programming books for developers
 
 
-- Repository: [ThreatHunter-Playbook (⭐3.8k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+- Repository: [ThreatHunter-Playbook (⭐4k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
 
   Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
 
@@ -69,7 +69,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐79k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐81k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
