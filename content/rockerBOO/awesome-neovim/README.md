@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 29, 2024](/content/2024/08/29/README.md)
+
+### (requires Neovim 0.5)
+
+*   [mawkler/refjump.nvim (⭐6)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
 ### AI / Diagnostics

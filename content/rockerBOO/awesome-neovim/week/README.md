@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
+### (requires Neovim 0.5)
+
+*   [mawkler/refjump.nvim (⭐6)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+
 ### AI / Diagnostics
 
 *   [StubbornVegeta/llm.nvim (⭐2)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
