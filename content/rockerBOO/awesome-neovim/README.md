@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 30, 2024](/content/2024/08/30/README.md)
+
+### (requires Neovim 0.5)
+
+*   [alexpasmantier/pymple.nvim (⭐7)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
+
 ## [Aug 29, 2024](/content/2024/08/29/README.md)
 
 ### (requires Neovim 0.5)

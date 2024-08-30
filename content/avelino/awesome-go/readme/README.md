@@ -1451,6 +1451,7 @@ additional ordered map implementations.
 *   [imagick (⭐1.7k)](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API.
 *   [imaginary (⭐5.5k)](https://github.com/h2non/imaginary) - Fast and simple HTTP microservice for image resizing.
 *   [imaging (⭐5.2k)](https://github.com/disintegration/imaging) - Simple Go image processing package.
+*   [imagor (⭐3.3k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 *   [img (⭐153)](https://github.com/hawx/img) - Selection of image manipulation tools.
 *   [ln (⭐3.3k)](https://github.com/fogleman/ln) - 3D line art rendering in Go.
 *   [mergi (⭐230)](https://github.com/noelyahan/mergi) - Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).

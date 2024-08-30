@@ -436,7 +436,11 @@
 
 ### **Vector Database Comparison**
 
-*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+*   [lancedb (⭐4k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+
+### **Vector Database Comparison** / **Vector Database Options for Azure**
+
+*   [Azure SQL's support for natively storing and querying vectors](https://devblogs.microsoft.com/azure-sql/announcing-eap-native-vector-support-in-azure-sql-database/) \[21 May 2024]
 
 ### **Azure Reference Architectures** / **Azure AI Search**
 
@@ -449,6 +453,11 @@
 ### **GPT for Domain Specific** / **GPT series release date**
 
 *   [Qwen2-Math (⭐393)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐942)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+
+### **MLLM (multimodal large language model)** / **GPT series release date**
+
+*   Apple
+    1.  [4M-21](https://arxiv.org/abs/2406.09406): An Any-to-Any Vision Model for Tens of Tasks and Modalities. \[13 Jun 2024]
 
 ### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
 
@@ -673,6 +682,10 @@
 *   [mkideal/cli (⭐729)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [teris-io/cli (⭐129)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
+### Images
+
+*   [imagor (⭐3.3k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+
 ## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
@@ -690,6 +703,7 @@
 ### (requires Neovim 0.5)
 
 *   [mawkler/refjump.nvim (⭐6)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+*   [alexpasmantier/pymple.nvim (⭐7)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
 
 ### AI / Diagnostics
 
@@ -821,7 +835,7 @@
 
 *   [Persisting on Entra ID applications and User Managed Identities with Federated Credentials](https://dirkjanm.io/persisting-with-federated-credentials-entra-apps-managed-identities/) - Persist on Entra ID applications and User Managed Identities with Federated Credentials.
 
-### Detection Testing / Windows
+### Detection Testing / Linux
 
 *   [PANIX (⭐318)](https://github.com/Aegrah/PANIX) - A highly customizable Linux persistence tool. Perform various persistence techniques against Linux systems, among others Debian and RHEL.
 
@@ -864,6 +878,10 @@
 *   [ionic-angular-library (⭐4)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 
 ## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [vite-template-react-ts-jest (⭐0)](https://github.com/ivanzusko/vite-template-react-ts-jest) - `React` + `TypeScript` + `Jest`.
 
 ### Framework-agnostic Plugins / Bundling
 

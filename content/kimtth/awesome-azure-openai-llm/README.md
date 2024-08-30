@@ -6,11 +6,22 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Aug 30, 2024](/content/2024/08/30/README.md)
+
+### **Vector Database Comparison** / **Vector Database Options for Azure**
+
+*   [Azure SQL's support for natively storing and querying vectors](https://devblogs.microsoft.com/azure-sql/announcing-eap-native-vector-support-in-azure-sql-database/) \[21 May 2024]
+
+### **MLLM (multimodal large language model)** / **GPT series release date**
+
+*   Apple
+    1.  [4M-21](https://arxiv.org/abs/2406.09406): An Any-to-Any Vision Model for Tens of Tasks and Modalities. \[13 Jun 2024]
+
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
 ### **Vector Database Comparison**
 
-*   [lancedb (⭐3.9k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+*   [lancedb (⭐4k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
 
 ### **Azure Reference Architectures** / **Azure AI Search**
 
@@ -201,7 +212,7 @@
 
 ### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
 
-*   [Awesome LangChain (⭐7.3k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
+*   [Awesome LangChain (⭐7.4k)](https://github.com/kyrolabs/awesome-langchain): Curated list of tools and projects using LangChain.
 *   DeepLearning.AI short course: LangChain for LLM Application Development [ref](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) / LangChain: Chat with Your Data [ref](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 ### **LangChain features and related libraries** / DSPy optimizer
@@ -650,7 +661,7 @@
 ### **LLMOps: Large Language Model Operations** / Math
 
 *   [Ragas (⭐6.2k)](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) \[May 2023]
-*   [DeepEval (⭐2.7k)](https://github.com/confident-ai/deepeval): LLM evaluation framework. similar to Pytest but specialized for unit testing LLM outputs. \[Aug 2023]
+*   [DeepEval (⭐2.8k)](https://github.com/confident-ai/deepeval): LLM evaluation framework. similar to Pytest but specialized for unit testing LLM outputs. \[Aug 2023]
 
 ## [May 31, 2024](/content/2024/05/31/README.md)
 
@@ -769,7 +780,7 @@
 
 ### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
 
-*   [llama3-from-scratch (⭐12k)](https://github.com/naklecha/llama3-from-scratch): Implementing Llama3 from scratch \[May 2024]
+*   [llama3-from-scratch (⭐13k)](https://github.com/naklecha/llama3-from-scratch): Implementing Llama3 from scratch \[May 2024]
 
 ### **LLM for Robotics: Bridging AI and Robotics** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -855,7 +866,7 @@
 
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
-*   [Awesome ChatGPT Prompts (⭐108k)](https://github.com/f/awesome-chatgpt-prompts) \[Dec 2022]
+*   [Awesome ChatGPT Prompts (⭐109k)](https://github.com/f/awesome-chatgpt-prompts) \[Dec 2022]
 *   [Awesome Prompt Engineering (⭐3.6k)](https://github.com/promptslab/Awesome-Prompt-Engineering) \[Feb 2023]
 *   [Awesome-GPTs-Prompts (⭐4.9k)](https://github.com/ai-boost/awesome-prompts) \[Jan 2024]
 *   Leaked prompts of [GPTs (⭐28k)](https://github.com/linexjlin/GPTs) \[Nov 2023] and [Agents (⭐7.9k)](https://github.com/LouisShark/chatgpt_system_prompt) \[Nov 2023]
@@ -1023,6 +1034,7 @@
     4.  [NL2KQL](https://arxiv.org/abs/2404.02933): From Natural Language to Kusto Query \[3 Apr 2024]
     5.  [SpreadsheetLLM](https://arxiv.org/abs/2407.09025): Introduces an efficient method to encode Excel sheets, outperforming previous approaches with 25 times fewer tokens.\[12 Jul 2024]
     6.  [GraphRAG (by Microsoft)](https://arxiv.org/abs/2404.16130): RAG with a graph-based approach to efficiently answer both specific and broad questions over large text corpora1. [ref](https://microsoft.github.io/graphrag) [git (⭐15k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
+    7.  [AutoGen Studio](https://arxiv.org/abs/2408.15247): A No-Code Developer Tool for Building and Debugging Multi-Agent Systems \[9 Aug 2024]
 
 ### **Semantic Kernel** / **Code Recipes**
 
@@ -1185,7 +1197,7 @@
 
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
-*   [Fabric (⭐20k)](https://github.com/danielmiessler/fabric): A modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere \[Jan 2024]
+*   [Fabric (⭐22k)](https://github.com/danielmiessler/fabric): A modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere \[Jan 2024]
 
 ### **Large Language Model Is: Abilities** / **GPT series release date**
 
@@ -1549,7 +1561,7 @@
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / **Lucene based search engine with OpenAI Embedding**
 
-*   [JARVIS (⭐23k)](https://github.com/microsoft/JARVIS): an interface for LLMs to connect numerous AI models for solving complicated AI tasks! \[Mar 2023]
+*   [JARVIS (⭐24k)](https://github.com/microsoft/JARVIS): an interface for LLMs to connect numerous AI models for solving complicated AI tasks! \[Mar 2023]
 *   [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/): Fabric integrates technologies like Azure Data Factory, Azure Synapse Analytics, and Power BI into a single unified product \[May 2023]
 
 ### **LangChain vs Competitors** / **Prompting Frameworks**
@@ -1712,6 +1724,7 @@
     3.  [Kosmos-2.5](https://arxiv.org/abs/2309.11419): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.11419)]: A Multimodal Literate Model \[20 Sep 2023]
     4.  [BEiT-3](https://arxiv.org/abs/2208.10442): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2208.10442)]: Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks \[22 Aug 2022]
     5.  [TaskMatrix.AI](https://arxiv.org/abs/2303.16434): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.16434)]: TaskMatrix connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. \[29 Mar 2023]
+    6.  [Florence-2](https://arxiv.org/abs/2311.06242): Advancing a Unified Representation for a Variety of Vision Tasks. [ref](https://huggingface.co/microsoft/Florence-2-large) \[10 Nov 2023]
 *   Optimizing Memory Usage for Training LLMs and Vision Transformers: When applying 10 techniques to a vision transformer, we reduced the memory consumption 20x on a single GPU. [ref](https://lightning.ai/pages/community/tutorial/pytorch-memory-vit-llm/) / [git (⭐84)](https://github.com/rasbt/pytorch-memory-optim) \[2 Jul 2023]
 
 ## [Dec 18, 2023](/content/2023/12/18/README.md)
@@ -1782,7 +1795,7 @@
 
 *   [LangChain Expression Language](https://python.langchain.com/docs/guides/expression_language/): A declarative way to easily compose chains together \[Aug 2023]
 *   [OpenGPTs (⭐6.4k)](https://github.com/langchain-ai/opengpts): An open source effort to create a similar experience to OpenAI's GPTs \[Nov 2023]
-*   [langflow (⭐24k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
+*   [langflow (⭐26k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
 *   [Flowise (⭐29k)](https://github.com/FlowiseAI/Flowise) Drag & drop UI to build your customized LLM flow \[Apr 2023]
 
 ### **Prompt Engineering** / **Prompt Template Language**
@@ -1819,7 +1832,7 @@
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
 *   [NeMo Guardrails (⭐3.9k)](https://github.com/NVIDIA/NeMo-Guardrails): Building Trustworthy, Safe and Secure LLM Conversational Systems \[Apr 2023]
-*   [Hallucination Leaderboard (⭐1.1k)](https://github.com/vectara/hallucination-leaderboard/): Evaluate how often an LLM introduces hallucinations when summarizing a document. \[Nov 2023]
+*   [Hallucination Leaderboard (⭐1.2k)](https://github.com/vectara/hallucination-leaderboard/): Evaluate how often an LLM introduces hallucinations when summarizing a document. \[Nov 2023]
 
 ### **Large Language Model Is: Abilities** / **GPT series release date**
 
@@ -2043,7 +2056,7 @@
 ### **Evolutionary Tree of Large Language Models** / **GPT series release date**
 
 *   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.18223)] /[git (⭐9.8k)](https://github.com/RUCAIBox/LLMSurvey) \[31 Mar 2023] contd.
-*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9.1k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
+*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9.2k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
 
 ### **LLM Materials for East Asian Languages** / Japanese
 
@@ -2344,10 +2357,6 @@
     1.  A question is not semantically similar to its answers. Cosine similarity may favor semantically similar texts that do not contain the answer.
     2.  Semantic similarity gets diluted if the document is too long. Cosine similarity may favor short documents with only the relevant information.
     3.  The information needs to be contained in one or a few documents. Information that requires aggregations by scanning the whole data.
-
-### **Vector Database Comparison** / **Vector Database Options for Azure**
-
-*   azure-vector-db-python\vector-db-in-azure-native.ipynb: sample code for vector databases in azure
 
 ### **Semantic Kernel** / **Semantic Function**
 
