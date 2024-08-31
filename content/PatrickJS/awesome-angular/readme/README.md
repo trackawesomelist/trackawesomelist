@@ -524,6 +524,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 *   [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for angular HTML Template files.
 *   [angular-scaffold (⭐9)](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
+*   [vscode-angulartools (⭐19)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
 
 #### Documentation tools
 
@@ -707,7 +708,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [berry-free-angular-admin-template (⭐10)](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
 *   [gradient-able-free-admin-template (⭐18)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 *   [mantis-free-angular-admin-template (⭐12)](https://github.com/codedthemes/mantis-free-angular-admin-template)
-*   [datta-able-free-angular-admin-template (⭐16)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
+*   [datta-able-free-angular-admin-template (⭐17)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 *   [sanity-template-angular-clean (⭐9)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 
 ##### Paid
@@ -820,6 +821,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-slider (⭐5)](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 *   [keen-slider (⭐4.6k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 *   [ngx-darkbox-gallery-library (⭐5)](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
+*   [slidecontent-angular (⭐1)](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 
 #### Charts
 
@@ -907,7 +909,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-property-editor (⭐0)](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 *   [ngx-tiptap (⭐113)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 *   [tinymce-angular (⭐324)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
-*   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐29k)](https://github.com/ianstormtaylor/slate).
+*   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 *   [BlockNoteAngular (⭐1)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.2k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
 *   [ngx-jodit (⭐17)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.6k)](https://github.com/xdan/jodit) WYSIWYG editor.
 
@@ -993,6 +995,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [icon-lib-builder (⭐1)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
 *   [svg-icons-builder (⭐20)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 *   [ngx-fast-svg (⭐52)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+*   [angular-techs-logos (⭐3)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 
 #### Images
 
@@ -1345,6 +1348,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [awesome-cordova-plugins (⭐2.4k)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 *   [ionic-angular-library (⭐4)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 *   [ionic-angular-collect-icons (⭐3)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
+*   [IDEA-Ionic8-extra (⭐2)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 
 #### NgRx
 

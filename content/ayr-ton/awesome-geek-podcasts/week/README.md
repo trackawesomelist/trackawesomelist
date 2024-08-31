@@ -2,9 +2,15 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 537 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 543 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / Weekly / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
+
+## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
+
+### In English
+
+*   [Adventures in DevOps](https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan) - Come listen to experts in building infrastructure and enabling development and deployment processes discuss the ideas and technologies involved in DevOps.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 

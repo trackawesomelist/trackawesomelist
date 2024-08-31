@@ -2030,7 +2030,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [publicip (⭐28)](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
 *   [quic-go (⭐9.9k)](https://github.com/lucas-clemente/quic-go) - An implementation of the QUIC protocol in pure Go.
 *   [raw (⭐424)](https://github.com/mdlayher/raw) - Package raw enables reading and writing data at the device driver level for a network interface.
-*   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
+*   [sdns (⭐947)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 *   [sftp (⭐1.5k)](https://github.com/pkg/sftp) - Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
 *   [ssh (⭐3.6k)](https://github.com/gliderlabs/ssh) - Higher-level API for building SSH servers (wraps crypto/ssh).
 *   [sslb (⭐148)](https://github.com/eduardonunesp/sslb) - It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.
@@ -2038,6 +2038,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [tcp\_server (⭐426)](https://github.com/firstrow/tcp_server) - Go library for building tcp servers faster.
 *   [tcpack (⭐174)](https://github.com/lim-yoona/tcpack) - tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
 *   [tspool (⭐14)](https://github.com/two/tspool) - A TCP Library use worker pool to improve performance and protect your server.
+*   [tun2socks (⭐3k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
 *   [utp (⭐173)](https://github.com/anacrolix/utp) - Go uTP micro transport protocol implementation.
 *   [vssh (⭐954)](https://github.com/yahoo/vssh) - Go library for building network and server automation over SSH protocol.
 *   [water (⭐1.9k)](https://github.com/songgao/water) - Simple TUN/TAP library.
@@ -3603,6 +3604,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoSF - San Francisco, CA](https://www.meetup.com/golangsf)
 *   [Istanbul Golang](https://www.meetup.com/Istanbul-Golang/)
 *   [Lagos Gophers](https://www.meetup.com/GolangNigeria/)
+*   [Nairobi Gophers](https://www.meetup.com/nairobi-gophers/)
 *   [Seattle Go Programmers](https://www.meetup.com/golang/)
 *   [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 *   [Utah Go User Group](https://www.meetup.com/utahgophers/)

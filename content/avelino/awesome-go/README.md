@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Aug 31, 2024](/content/2024/08/31/README.md)
+
+### Networking
+
+*   [tun2socks (⭐3k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
+
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Nairobi Gophers](https://www.meetup.com/nairobi-gophers/)
+
 ## [Aug 30, 2024](/content/2024/08/30/README.md)
 
 ### Authentication and OAuth
@@ -84,7 +94,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [sdns (⭐944)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
+*   [sdns (⭐947)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 
 ## [Aug 15, 2024](/content/2024/08/15/README.md)
 

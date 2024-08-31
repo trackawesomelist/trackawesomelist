@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 378 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 415 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@
 
 |                                                                           Awesome                                                                           | Books | Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  102  | May 15, 2024 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  103  | Aug 30, 2024 |
 
 ## How to Use
 
@@ -216,6 +216,7 @@
 
 *   [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
 *   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
+*   [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
 
 ## 🇷🇺 Russian books
 
@@ -227,17 +228,11 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios (⭐46k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐24k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐47k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐25k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide (⭐378)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐415)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
-
-## Contributors
-
-*   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
-*   [Big Mountain Studio](https://github.com/bigmountainstudio)
-*   [Matthaus Woolard](https://github.com/hishnash)
 
