@@ -12,6 +12,10 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 *   [terraform-provider-proxmox (⭐2.1k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
 
+### Tools / Community providers
+
+*   [tfreveal (⭐2)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
+
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Tools / Community providers

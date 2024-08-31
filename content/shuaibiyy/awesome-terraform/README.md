@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Aug 31, 2024](/content/2024/08/31/README.md)
+
+### Tools / Community providers
+
+*   [tfreveal (⭐2)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
+
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
 ### Providers / Community providers

@@ -439,6 +439,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [tfprovidercheck (⭐70)](https://github.com/suzuki-shunsuke/tfprovidercheck) - CLI to prevent malicious Terraform Providers from being executed
 *   [tfproviderlint (⭐134)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
 *   [tfrepl (⭐30)](https://github.com/ysoftwareab/tfrepl) - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
+*   [tfreveal (⭐2)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
 *   [tfscaffold (⭐249)](https://github.com/tfutils/tfscaffold) - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 *   [tfschema (⭐293)](https://github.com/minamijoyo/tfschema) - Schema inspector for Terraform providers.
 *   [tfsec (⭐6.6k)](https://github.com/aquasecurity/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.

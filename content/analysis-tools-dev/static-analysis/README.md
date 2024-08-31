@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Aug 31, 2024](/content/2024/08/31/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [Codety](https://www.codety.io) :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
+
 ## [Jul 11, 2024](/content/2024/07/11/README.md)
 
 ### Other / [Other](#other-1)
