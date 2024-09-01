@@ -11,6 +11,7 @@ A curated list of podcasts we like to listen to.
 ### In English
 
 *   [Adventures in DevOps](https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan) - Come listen to experts in building infrastructure and enabling development and deployment processes discuss the ideas and technologies involved in DevOps.
+*   [APIs over IPAs](https://www.moesif.com/blog/podcasts) - A podcast about how to build an API-first business.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 

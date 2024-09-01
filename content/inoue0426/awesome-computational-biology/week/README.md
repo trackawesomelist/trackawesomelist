@@ -2,9 +2,41 @@
 
 Awesome list of computational biology.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 60 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inoue0426/awesome-computational-biology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) · ⭐ 63 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inoue0426/awesome-computational-biology/README.md) / Weekly / [Overview](/content/inoue0426/awesome-computational-biology/readme/README.md) ]
+
+## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
+
+### Databases / Compound
+
+*   [ZINC ligand discovery database](https://zinc.docking.org/) - Free database of commercially-available compounds for virtual screening.
+*   [MoleculeNet](http://moleculenet.ai/) - Benchmark for molecular machine learning.
+*   [Ames Mutagenicity dataset](https://www.sciencedirect.com/science/article/abs/pii/S0166354220302412) - Dataset for predicting mutagenicity.
+*   [ADCdb](https://www.antibody-drug.com/) - Database for antibody-drug conjugates.
+
+### Databases / Protein
+
+*   [RCSB Protein Data Bank (PDB)](https://www.rcsb.org/) - Repository of 3D structural data of large biological molecules.
+*   [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) - Experiment for advancing the methods of predicting protein structure from sequence.
+*   [Uniclust](https://uniclust.mmseqs.com/) - Collection of clustered protein sequence databases.
+*   [CATH database](https://www.cathdb.info/) - Hierarchical classification of protein domain structures.
+
+### Databases / Genome
+
+*   [10x Genomics Dataset](https://www.10xgenomics.com/resources/datasets) - Collection of single-cell datasets.
+*   [The Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) - Resource for studying human gene expression and regulation.
+*   [Dependency Map (DepMap)](https://depmap.org/portal/) - Genome-wide CRISPR-Cas9 screens in cancer cell lines.
+*   [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) - Comprehensive resource for exploring somatic mutations in human cancers.
+*   [MGnify](https://www.ebi.ac.uk/metagenomics/) - Free resource for archiving, analysis, and browsing of metagenomic and metatranscriptomic data.
+*   [JASPAR](http://jaspar.genereg.net/) - Open-access database of curated, non-redundant transcription factor binding profiles.
+
+### Databases / Clinical Trial
+
+*   [ClinicalTrials.gov](https://clinicaltrials.gov/) - Database of privately and publicly funded clinical studies.
+*   [ICD10](https://icd.who.int/browse10/2019/en) - International Classification of Diseases, 10th revision.
+*   [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) - European database of clinical trials.
+*   [MIMIC-IV](https://mimic.mit.edu/) - Freely accessible critical care database.
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 
@@ -14,7 +46,7 @@ Awesome list of computational biology.
 
 ### Drug Response Prediction / LLM for biology
 
-*   [scPRINT (⭐5)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
+*   [scPRINT (⭐10)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
@@ -22,27 +54,27 @@ Awesome list of computational biology.
 
 *   Knowledge Graph
     *   [Drug Mechanism Database (DrugMechDB) (⭐54)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
-    *   [DRKG (⭐570)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+    *   [DRKG (⭐574)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
-### API / Interaction
+### API / Clinical Trial
 
 *   [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
 
-### Drug Response Prediction / Interaction
+### Drug Response Prediction / Clinical Trial
 
 *   [drGAT (⭐2)](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
 
 ### Drug Response Prediction / LLM for biology
 
-*   [GeneGPT (⭐361)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
-*   [GenePT (⭐162)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
+*   [GeneGPT (⭐366)](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
+*   [GenePT (⭐164)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### Drug Response Prediction / Pre-trained embedding
 
 *   [Evolutionary Scale Modeling (⭐3.1k)](https://github.com/facebookresearch/esm) - a library for protein embeddings.
-*   [ChemBERTa-2 (⭐380)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+*   [ChemBERTa-2 (⭐383)](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
 
 ### Drug Response Prediction / LLM for biology
 
@@ -86,7 +118,7 @@ Awesome list of computational biology.
 
 *   [cBioPortal](https://www.cbioportal.org/) - Database of Cancer Genomics. This has overall metaview for a lot of patients.
 
-### Preprocess / Interaction
+### Preprocess / Clinical Trial
 
 *   [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 *   [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
@@ -106,6 +138,7 @@ Awesome list of computational biology.
     *   [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
     *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
     *   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
+    *   [CellMiner Cross Database (CellMinerCDB)](https://discover.nci.nih.gov/cellminercdb/) - Integration of multiple cancer cell line databases.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -152,14 +185,14 @@ Awesome list of computational biology.
 
 *   [KEGG DRUG](https://www.genome.jp/kegg/drug/) - Comprehensive drug information resource for approved drugs.
 
-### Preprocess / Interaction
+### Preprocess / Clinical Trial
 
-*   [Chemistry Development Kit (⭐484)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐486)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
 *   [RDKit (⭐2.6k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ### Drug Response Prediction / Drug Repurposing
 
-*   [DeepPurpose (⭐944)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing.
+*   [DeepPurpose (⭐947)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing.
 
 ### Drug Response Prediction / Drug Target Interaction
 
@@ -168,7 +201,7 @@ Awesome list of computational biology.
 ### Drug Response Prediction / Compound Protein Interaction
 
 *   [MCPINN (⭐3)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI (⭐132)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [TransformerCPI (⭐133)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -186,3 +219,5 @@ Awesome list of computational biology.
 *   Chemical Protein Interaction
     *   [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
     *   [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+    *   [PDBBind](http://www.pdbbind.org.cn/) - Database of experimentally measured binding affinity data for biomolecular complexes.
+    *   [CrossDocked2020](https://arxiv.org/abs/2001.01037) - Large-scale dataset for machine learning in structure-based virtual screening.

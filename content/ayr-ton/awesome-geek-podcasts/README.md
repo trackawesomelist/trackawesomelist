@@ -6,6 +6,12 @@ A curated list of podcasts we like to listen to.
 
 [ Daily / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
 
+## [Sep 01, 2024](/content/2024/09/01/README.md)
+
+### In English
+
+*   [APIs over IPAs](https://www.moesif.com/blog/podcasts) - A podcast about how to build an API-first business.
+
 ## [Aug 31, 2024](/content/2024/08/31/README.md)
 
 ### In English

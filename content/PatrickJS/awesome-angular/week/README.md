@@ -12,6 +12,14 @@
 
 *   [Learn With: Angular 17 with Modules and Bootstrap](https://www.learn-with.com/) - `Jeffry Houser`
 
+### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-vlibras (⭐2)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [abbi-ng-ai-image-descriptor (⭐1)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [litlyx (⭐347)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
@@ -19,6 +27,15 @@
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [vscode-angulartools (⭐19)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-templates (⭐10)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐88k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -39,6 +56,10 @@
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng2-gauge (⭐53)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -70,7 +91,7 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signalify (⭐5)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+*   [ngx-signalify (⭐7)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -96,7 +117,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+*   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

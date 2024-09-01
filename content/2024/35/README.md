@@ -6,50 +6,83 @@
 
 
 
-## [1. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [1. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+
+### Databases / Compound
+
+*   [ZINC ligand discovery database](https://zinc.docking.org/) - Free database of commercially-available compounds for virtual screening.
+*   [MoleculeNet](http://moleculenet.ai/) - Benchmark for molecular machine learning.
+*   [Ames Mutagenicity dataset](https://www.sciencedirect.com/science/article/abs/pii/S0166354220302412) - Dataset for predicting mutagenicity.
+*   [ADCdb](https://www.antibody-drug.com/) - Database for antibody-drug conjugates.
+
+### Databases / Protein
+
+*   [RCSB Protein Data Bank (PDB)](https://www.rcsb.org/) - Repository of 3D structural data of large biological molecules.
+*   [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) - Experiment for advancing the methods of predicting protein structure from sequence.
+*   [Uniclust](https://uniclust.mmseqs.com/) - Collection of clustered protein sequence databases.
+*   [CATH database](https://www.cathdb.info/) - Hierarchical classification of protein domain structures.
+
+### Databases / Genome
+
+*   [10x Genomics Dataset](https://www.10xgenomics.com/resources/datasets) - Collection of single-cell datasets.
+*   [The Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) - Resource for studying human gene expression and regulation.
+*   [Dependency Map (DepMap)](https://depmap.org/portal/) - Genome-wide CRISPR-Cas9 screens in cancer cell lines.
+*   [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) - Comprehensive resource for exploring somatic mutations in human cancers.
+*   [MGnify](https://www.ebi.ac.uk/metagenomics/) - Free resource for archiving, analysis, and browsing of metagenomic and metatranscriptomic data.
+*   [JASPAR](http://jaspar.genereg.net/) - Open-access database of curated, non-redundant transcription factor binding profiles.
+
+### Databases / Clinical Trial
+
+*   [ClinicalTrials.gov](https://clinicaltrials.gov/) - Database of privately and publicly funded clinical studies.
+*   [ICD10](https://icd.who.int/browse10/2019/en) - International Classification of Diseases, 10th revision.
+*   [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) - European database of clinical trials.
+*   [MIMIC-IV](https://mimic.mit.edu/) - Freely accessible critical care database.
+
+## [2. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [SeeMake (⭐2)](https://github.com/MhmRhm/SeeMake) - A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and more. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Codety](https://www.codety.io) :copyright: — Codety Scanner is a comprehensive source code scanner that embeds 5000+ static code analysis rules, which aim to detect code issues for 20+ programming languages and IaC tools.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Tools / Telegram
 
 *   [DNSservices (⭐17)](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 *   [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
 *   [efx (⭐75)](https://github.com/bravobike/efx) - A library to declaratively write asynchronously testable effects.
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
 *   :octocat: [Nostream (⭐723)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Adventures in DevOps](https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan) - Come listen to experts in building infrastructure and enabling development and deployment processes discuss the ideas and technologies involved in DevOps.
+*   [APIs over IPAs](https://www.moesif.com/blog/podcasts) - A podcast about how to build an API-first business.
 
-## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Interview
 
 *   [*Cracking the iOS Interview* by Swift Anytime](https://www.swiftanytime.com/cracking-the-ios-interview)
 
-## [8. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [9. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
@@ -70,7 +103,7 @@
 
 *   [Marketing for Engineers (⭐13k)](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
 
-## [9. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
@@ -91,7 +124,7 @@
 *   [lovesfx (⭐6)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
 *   [love-build (⭐17)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -104,7 +137,7 @@
 *   [light (⭐0)](https://github.com/InfinityUniverse0/light-zsh) - Works best on a light background. Includes decorators for username\@hostname, `git` status and the current directory.
 *   [vszambon-ocean (⭐0)](https://github.com/vzambon/vszambon_ocean-zsh-theme) - Includes decorators for current directory, `git` status, a day/night icon, whether or not it is running inside a `docker` container and the date and time.
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
@@ -118,37 +151,37 @@
 
 *   [PHP CodeSniffer (⭐857)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 
-## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Time Series / Others
 
 *   [skforecast (⭐1.1k)](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Helicone/helicone)
 
-## [14. Topics](/content/selvaklnc/topics/week/README.md)
+## [15. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of blogs and websites
 
 *   [Localhost server stack](https://webstack.wikimint.com) - wmWebStack: A lightweight, customizable server package designed for web development. Featuring essential tools like PHP, MySQL, and Apache, wmWebStack empowers developers to create, test, and secure their web projects effortlessly.
 
-## [15. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [16. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Related Awesome Lists / Deep Learning
 
 *   [Awesome Marketing (⭐22)](https://github.com/marketingtoolslist/awesome-marketing)
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Logging
 
 *   [donnie4w/tklog (⭐53)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Community providers
 
@@ -158,7 +191,7 @@
 
 *   [tfreveal (⭐2)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
 
-## [18. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
+## [19. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### Marketing Strategy and Planning / Market Segmentation and Targeting
 
@@ -479,7 +512,7 @@
 *   [Brandfolder](https://brandfolder.com) - DAM software that offers a centralized location for managing and sharing brand assets securely.
 *   [Adobe Experience Manager](https://business.adobe.com/products/experience-manager/assets/digital-asset-management.html) - Enterprise-level DAM solution that integrates with Adobe's Creative Cloud for seamless asset management and content creation.
 
-## [19. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [20. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Vector Database Comparison**
 
@@ -523,31 +556,31 @@
 
 *   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
 
-## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Automation
 
 *   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
-## [21. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Logos
 
 *   [Web3 Icons (⭐43)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
-## [22. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [23. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Translation
 
 *   [Simplytranslate](https://codeberg.org/ManeraKai/simplytranslate) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
 
-## [23. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [24. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [Django-Bridge (⭐92)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
-## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -622,26 +655,26 @@
 *   [Protocol Buffers (⭐65k) (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐338) (⭐334)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [26. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
 *   [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [26. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [27. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Components
 
 *   [mui-treasury (⭐2.4k)](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
-## [27. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [28. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / R
 
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 *   [neo-r-polars (⭐16)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
-## [28. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [29. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Extensions
 
@@ -688,7 +721,7 @@
 *   [xk6-tcp (⭐12)](https://github.com/NAlexandrov/xk6-tcp) - Send data to TCP port.
 *   [xk6-top (⭐26)](https://github.com/szkiba/xk6-top) - Updating the current k6 metrics summaries on the terminal during the test run.
 
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -710,7 +743,7 @@
 
 *   [secret-values (⭐11)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
 
-## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -741,19 +774,19 @@
 
 *   [Nairobi Gophers](https://www.meetup.com/nairobi-gophers/)
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/finestructure/Hummingbird)
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -786,94 +819,11 @@
 
 *   [OXY2DEV/foldtext.nvim (⭐18)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 
-## [34. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [35. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
-
-## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
 ## [36. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
@@ -908,6 +858,14 @@
 
 *   [Learn With: Angular 17 with Modules and Bootstrap](https://www.learn-with.com/) - `Jeffry Houser`
 
+### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-vlibras (⭐2)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [abbi-ng-ai-image-descriptor (⭐1)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [litlyx (⭐347)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
@@ -915,6 +873,15 @@
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [vscode-angulartools (⭐19)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-templates (⭐10)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐88k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -935,6 +902,10 @@
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng2-gauge (⭐53)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

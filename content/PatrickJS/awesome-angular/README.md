@@ -6,6 +6,29 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Sep 01, 2024](/content/2024/09/01/README.md)
+
+### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-vlibras (⭐2)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [abbi-ng-ai-image-descriptor (⭐1)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-templates (⭐10)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐88k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng2-gauge (⭐53)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
+
 ## [Aug 31, 2024](/content/2024/08/31/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -88,7 +111,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+*   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -103,7 +126,7 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signalify (⭐5)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+*   [ngx-signalify (⭐7)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

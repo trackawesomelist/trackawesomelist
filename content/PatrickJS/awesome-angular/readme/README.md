@@ -408,6 +408,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
 *   [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
 *   [astral-accessibility (⭐18)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
+*   [angular-vlibras (⭐2)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
 
 #### AI
 
@@ -429,6 +430,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-webxr-art-sample (⭐32)](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
 *   [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 *   [deep-chat (⭐1.4k)](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
+*   [abbi-ng-ai-image-descriptor (⭐1)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 
 #### Analytics
 
@@ -573,7 +575,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@ngify/http (⭐98)](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 *   [ngx-http-annotations (⭐0)](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest (⭐5)](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 *   [ng-http-loader (⭐354)](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
-*   [ngx-signalify (⭐5)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+*   [ngx-signalify (⭐7)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 *   [angular-odata (⭐47)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 
 #### Integrations
@@ -710,6 +712,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [mantis-free-angular-admin-template (⭐12)](https://github.com/codedthemes/mantis-free-angular-admin-template)
 *   [datta-able-free-angular-admin-template (⭐17)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 *   [sanity-template-angular-clean (⭐9)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
+*   [angular-templates (⭐10)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
 ##### Paid
 
@@ -765,6 +768,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-unit-test-helper (⭐5)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 *   [ngentest (⭐144)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 *   [angular-testing-kit (⭐1)](https://github.com/babybeet/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
+*   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐88k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 #### Updating
 
@@ -880,7 +885,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-pipes (⭐1.6k)](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
 *   [nglrx/pipes (⭐14)](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 *   [ng-helpers (⭐6)](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
-*   [ng-condition (⭐6)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+*   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 *   [ngx-sticky-kit (⭐2)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 
 #### Drag and Drop
@@ -1332,6 +1337,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-flagr (⭐8)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 *   [module-federation-plugin (⭐711)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 *   [ng2-idle (⭐322)](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+*   [ng2-gauge (⭐53)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ***
 
