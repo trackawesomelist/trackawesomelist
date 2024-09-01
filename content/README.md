@@ -79,6 +79,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) - European database of clinical trials.
 *   [MIMIC-IV](https://mimic.mit.edu/) - Freely accessible critical care database.
 
+#### [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Abduction / Explanation
+
+*   [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
+
 ### [Aug 31, 2024](/content/2024/08/31/README.md)
 
 
@@ -1061,7 +1067,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 274, 📝 08&#x2F;28 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 274, 📝 09&#x2F;01 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 19K, 📝 07&#x2F;07 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 88, 📝 08&#x2F;27 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

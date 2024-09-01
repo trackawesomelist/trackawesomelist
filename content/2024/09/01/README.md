@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 01, 2024
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Abduction / Explanation
+
+*   [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
+
+## [2. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Compound
 
@@ -38,7 +44,7 @@
 *   [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) - European database of clinical trials.
 *   [MIMIC-IV](https://mimic.mit.edu/) - Freely accessible critical care database.
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -61,7 +67,7 @@
 
 *   [ng2-gauge (⭐53)](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
-## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 

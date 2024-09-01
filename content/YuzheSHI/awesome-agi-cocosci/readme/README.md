@@ -53,7 +53,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
     *   [Domain Specific Language](#domain-specific-language)
         *   [Design Theory](#design-theory)
         *   [Design Practises](#design-practises)
-        *   [Automated DSL Design](#automated-dsl-design)
+        *   [Design Automation](#design-automation)
         *   [Imperative DSL Applications](#imperative-dsl-applications)
         *   [Declarative DSL Applications](#declarative-dsl-applications)
         *   [Logic DSL Applications](#logic-dsl-applications)
@@ -155,11 +155,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 *   [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/) - ***Plato Stanford***. A computational philosophy account on Non-monotonic Logic, a family of formal frameworks devised to capture and represent defeasible inference.
 
-*   [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. \[[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592\&hl=en\&as_sdt=0,5)]. Original writings by C. S. Peirce, the establisher of Abduction.
+*   [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. \[[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592)]. Original writings by C. S. Peirce, the philosopher who first introduces the concept of Abduction.
 
-*   [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. \[[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560\&hl=en\&as_sdt=0,5)]. Lipton's original paper on Inference to the Best Explanation as a special case of Abduction.
+*   [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
 
-*   [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789\&secret=f39e15) - ***Routledge***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895\&hl=en\&as_sdt=0,5)]. Lipton's book on Inference to the Best Explanation as a special case of Abduction.
+*   [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. \[[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560\&hl=en\&as_sdt=0,5)].
 
 *   [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. \[[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930\&hl=en\&as_sdt=0,5)]. A classic book on thinking patterns.
 
@@ -696,9 +696,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 \*[Back to Top](#c)
 
-#### Automated DSL Design
+#### Design Automation
 
 *   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+
+\*[Back to Top](#c)
 
 #### Imperative DSL Applications
 
