@@ -1,12 +1,52 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2024
 
-5 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [1. Awesome Math](/content/rossant/awesome-math/week/README.md)
+
+### Tools
+
+*   [Mathcheap](https://mathcheap.xyz)
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Utilities
+
+*   [PubSubx (⭐1)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
+
+## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Databases
+
+*   [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
+
+## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+
+### Gallery / PGFPlots
+
+*   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [Kurama622/llm.nvim (⭐2)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+
+### Markdown and LaTeX / Diagnostics
+
+*   [SCJangra/table-nvim (⭐5)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+
+## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -20,7 +60,7 @@
 
 *   [Brick Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -104,13 +144,21 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+### Docker Related
+
+*   [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
+
+### Other Free Resources
+
+*   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
+
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -132,7 +180,7 @@
 
 *   [ngx-vest-forms (⭐43)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [11. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Actions / Setup Actions
 

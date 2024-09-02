@@ -1802,6 +1802,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
 *   [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
 *   [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
+*   [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1984,6 +1985,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 *   [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
 *   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
+*   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
 **[⬆️ Back to Top](#table-of-contents)**
 

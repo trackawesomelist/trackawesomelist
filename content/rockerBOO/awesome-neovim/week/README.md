@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### AI / Diagnostics
+
+*   [Kurama622/llm.nvim (⭐2)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+
+### Markdown and LaTeX / Diagnostics
+
+*   [SCJangra/table-nvim (⭐5)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### (requires Neovim 0.5)
@@ -15,7 +25,6 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [StubbornVegeta/llm.nvim (⭐2)](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 *   [3v0k4/exit.nvim (⭐3)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 
 ### Web Development / Diagnostics
