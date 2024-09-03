@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 03, 2024](/content/2024/09/03/README.md)
+
+### Email
+
+*   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
+*   [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
+
 ## [Sep 02, 2024](/content/2024/09/02/README.md)
 
 ### Authentication, Authorization, and User Management
@@ -19,12 +26,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
-
-## [Aug 27, 2024](/content/2024/08/27/README.md)
-
-### Email
-
-*   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
 
 ## [Aug 25, 2024](/content/2024/08/25/README.md)
 
@@ -209,7 +210,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [yopmail](https://yopmail.com/) - Free, temporary inboxes of your choice instantaneously.
 *   [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
 *   [Inboxes App](https://inboxesapp.com) — Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.
 *   [Momentary Email](https://www.momentaryemail.com/) — Free Temporary Email Addresses. Read incoming emails on the website or by RSS feed.
@@ -1083,10 +1083,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
 
-### Email
-
-*   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
-
 ## [Aug 10, 2023](/content/2023/08/10/README.md)
 
 ### Monitoring
@@ -1595,12 +1591,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Game Development
 
 *   [Gamefresco.com](https://gamefresco.com/) — Discover, collect, and share free game assets from game artists everywhere.
-
-## [Feb 16, 2023](/content/2023/02/16/README.md)
-
-### Email
-
-*   [emaildrop.io](https://emaildrop.io/) — Free disposable email provider. Email addresses can be created via GraphQL API.
 
 ## [Feb 15, 2023](/content/2023/02/15/README.md)
 
@@ -3494,7 +3484,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
-*   [HotTempMail](https://hottempmail.com/) - Unlimited, free, disposable temporary email addresses. Autoexpires in one day.
 *   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
@@ -3626,10 +3615,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jul 04, 2021](/content/2021/07/04/README.md)
 
-### Email
-
-*   [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. You don't need to register. Free Forever.
-
 ### Forms
 
 *   [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration is required.
@@ -3684,10 +3669,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CMS
 
 *   [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. There are no limitations or paywalls.
-
-### Email
-
-*   [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with the last 100 email accounts stored.
 
 ### CDN and Protection
 
@@ -4439,12 +4420,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript, and TypeScript out of the box, reloads your browsers and makes it easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
-
-## [Dec 30, 2020](/content/2020/12/30/README.md)
-
-### Email
-
-*   [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
 
 ## [Dec 21, 2020](/content/2020/12/21/README.md)
 
@@ -5767,12 +5742,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
-
-## [Oct 23, 2019](/content/2019/10/23/README.md)
-
-### Email
-
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ## [Oct 21, 2019](/content/2019/10/21/README.md)
 

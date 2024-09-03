@@ -813,6 +813,7 @@ additional ordered map implementations.
 *   [dbbench (⭐98)](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 *   [dg (⭐28)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 *   [dynago (⭐12)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
+*   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 *   [go-mysql (⭐4.5k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [gorm-multitenancy (⭐31)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
 *   [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.

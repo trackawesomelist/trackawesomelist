@@ -12,6 +12,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
 
+### Email
+
+*   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
+*   [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
+
 ### Docker Related
 
 *   [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
@@ -19,12 +24,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
-
-## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
-
-### Email
-
-*   [faxmail.co](https://faxmail.co) — Professional and legit looking free temporary emails.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
@@ -175,7 +174,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [yopmail](https://yopmail.com/) - Free, temporary inboxes of your choice instantaneously.
 *   [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
 *   [Inboxes App](https://inboxesapp.com) — Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.
 *   [Momentary Email](https://www.momentaryemail.com/) — Free Temporary Email Addresses. Read incoming emails on the website or by RSS feed.
@@ -888,10 +886,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
 
-### Email
-
-*   [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
-
 ### DNS
 
 *   [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
@@ -1298,10 +1292,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Testing
 
 *   [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
-
-### Email
-
-*   [emaildrop.io](https://emaildrop.io/) — Free disposable email provider. Email addresses can be created via GraphQL API.
 
 ### Forms
 
@@ -2842,7 +2832,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
-*   [HotTempMail](https://hottempmail.com/) - Unlimited, free, disposable temporary email addresses. Autoexpires in one day.
 *   [QuickEmailVerification](https://quickemailverification.com) — Verify 100 emails daily for free on a free tier along with other free APIs like DEA Detector, DNS Lookup, SPF Detector, and more.
 
 ### Other Free Resources
@@ -2929,10 +2918,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source and based on event sourcing (versing every change automatically).
 
-### Email
-
-*   [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. You don't need to register. Free Forever.
-
 ### Forms
 
 *   [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration is required.
@@ -2961,10 +2946,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CMS
 
 *   [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. There are no limitations or paywalls.
-
-### Email
-
-*   [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with the last 100 email accounts stored.
 
 ### CDN and Protection
 
@@ -3550,12 +3531,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [Prepros](https://prepros.io/) - Prepros can compile Sass, Less, Stylus, Pug/Jade, Haml, Slim, CoffeeScript, and TypeScript out of the box, reloads your browsers and makes it easy to develop & test your websites so you can focus on making them perfect. You can also add your own tools with just a few clicks.
-
-## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
-
-### Email
-
-*   [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
 
 ## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
 
@@ -4700,10 +4675,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Management System
 
 *   [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
-
-### Email
-
-*   [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
