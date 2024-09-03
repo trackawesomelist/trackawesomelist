@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
+### Machine Learning
+
+*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.

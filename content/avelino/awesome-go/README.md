@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 03, 2024](/content/2024/09/03/README.md)
+
+### Machine Learning
+
+*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+
 ## [Sep 02, 2024](/content/2024/09/02/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares

@@ -1,42 +1,76 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2024
 
-11 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [1. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+
+### Tools / Static Analysis Tools
+
+*   [Droid Intent Data Flow Analysis for Information Leakage](https://insights.sei.cmu.edu/library/didfail/)
+
+### Academic/Research/Publications/Books / Books
+
+*   [SEI CERT Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
+
+### Academic/Research/Publications/Books / Others
+
+*   [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Others / Web project skeletons and generators
+
+*   [dns-client (⭐15)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib](https://directory.fsf.org/wiki/License:Zlib).
+
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### Spreadsheet / Runner
+
+*   [RevoGrid (⭐2.7k)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+
+### Machine Learning / Runner
+
+*   [JS-PyTorch (⭐1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+
+## [4. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Mathcheap](https://mathcheap.xyz)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Utilities
 
 *   [PubSubx (⭐1)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
-## [3. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Machine Learning
+
+*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 
-## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [8. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Gallery / PGFPlots
 
 *   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -46,7 +80,7 @@
 
 *   [SCJangra/table-nvim (⭐5)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -60,15 +94,11 @@
 
 *   [Brick Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
-### Libraries/Frameworks / Graphics
+### Libraries/Frameworks / Dependency Injection
 
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+*   [traversals/kapsule (⭐164)](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin.
 
 ### Libraries/Frameworks / Logging
 
@@ -144,7 +174,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
@@ -158,7 +188,11 @@
 
 *   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-flexbot (⭐3)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -180,7 +214,15 @@
 
 *   [ngx-vest-forms (⭐43)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 
-## [11. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-angular-query-builder (⭐30)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐293)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+
+## [14. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Actions / Setup Actions
 

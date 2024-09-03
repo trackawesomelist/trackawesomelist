@@ -1656,6 +1656,7 @@ additional ordered map implementations.
 *   [golinear (⭐45)](https://github.com/danieldk/golinear) - liblinear bindings for Go.
 *   [GoMind (⭐82)](https://github.com/surenderthakran/gomind) - A simplistic Neural Network Library in Go.
 *   [goml (⭐1.6k)](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
+*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 *   [gonet (⭐82)](https://github.com/dathoangnd/gonet) - Neural Network for Go.
 *   [Goptuna (⭐256)](https://github.com/c-bata/goptuna) - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 *   [goRecommend (⭐204)](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.

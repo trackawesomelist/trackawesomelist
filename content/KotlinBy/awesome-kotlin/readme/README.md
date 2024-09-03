@@ -154,7 +154,6 @@ Here is the awesome badge for your project:
 *   [XayahSuSuSu/Android-DataBackup (⭐3k)](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 *   [duckduckgo/Android (⭐3.7k)](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 *   [z-huang/InnerTune (⭐4k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-*   [recloudstream/cloudstream (⭐6.4k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 *   [skydoves/android-developer-roadmap (⭐7.2k)](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 *   [RikkaApps/Shizuku (⭐9.8k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [MatsuriDayo/NekoBoxForAndroid (⭐11k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
@@ -166,38 +165,37 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [iamr0s/Dhizuku (⭐958)](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
+*   [iamr0s/Dhizuku (⭐1.1k)](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
 *   [tolgee/tolgee-platform (⭐1.4k)](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 *   [anilbeesetti/nextplayer (⭐1.5k)](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-*   [keiyoushi/extensions-source (⭐1.8k)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 *   [google/ksp (⭐2.8k)](https://github.com/google/ksp) - Kotlin Symbol Processing API
+*   [osfans/trime (⭐3k)](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 *   [T8RIN/ImageToolbox (⭐3.2k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
-*   [element-hq/element-android (⭐3.3k)](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 *   [gotson/komga (⭐3.8k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 *   [ChuckerTeam/chucker (⭐3.8k)](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 *   [Ashinch/ReadYou (⭐4.7k)](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+*   [iSoron/uhabits (⭐7.7k)](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 *   [ankidroid/Anki-Android (⭐8.3k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 *   [ethereum-lists/chains (⭐8.6k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [tiann/KernelSU (⭐9.5k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 *   [coil-kt/coil (⭐11k)](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 *   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 *   [gedoor/legado (⭐28k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 *   [2dust/v2rayNG (⭐34k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [bannedbook/fanqiang (⭐38k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [samolego/Canta (⭐1k)](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
+*   [DroidKaigi/conference-app-2024 (⭐371)](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
+*   [zacharee/InstallWithOptions (⭐770)](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
+*   [KieronQuinn/AmbientMusicMod (⭐1.9k)](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
+*   [MM2-0/Kvaesitso (⭐2.3k)](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
 *   [jarnedemeulemeester/findroid (⭐2.3k)](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
-*   [Swordfish90/Lemuroid (⭐2.5k)](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
-*   [jellyfin/jellyfin-androidtv (⭐2.6k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
-*   [Dr-TSNG/Hide-My-Applist (⭐2.8k)](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-*   [bmax121/APatch (⭐3.9k)](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-*   [iSoron/uhabits (⭐7.7k)](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-*   [vfsfitvnm/ViMusic (⭐8.5k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-*   [square/leakcanary (⭐29k)](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-*   [square/okhttp (⭐46k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+*   [Ivy-Apps/ivy-wallet (⭐2.6k)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+*   [Droid-ify/client (⭐3.5k)](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
+*   [deniscerri/ytdlnis (⭐3.5k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+*   [aniyomiorg/aniyomi (⭐4.8k)](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
+*   [tiann/KernelSU (⭐9.5k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+*   [JunkFood02/Seal (⭐10k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -386,6 +384,7 @@ Here is the awesome badge for your project:
 *   [authzee/kotlin-guice (⭐66)](https://github.com/authzee/kotlin-guice) - Guice DSL extensions for Kotlin
 *   [sergeshustoff/dikt (⭐141)](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform
 *   [corbella83/PopKorn (⭐155)](https://github.com/corbella83/PopKorn) - Forget about modules and components. DI can be simple
+*   [traversals/kapsule (⭐164)](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin.
 *   [evant/kotlin-inject (⭐1.2k)](https://github.com/evant/kotlin-inject) - Dependency injection lib for kotlin
 *   [Kodein-Framework/Kodein-DI (⭐3.2k)](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection.
 *   [Ekito/koin (⭐8.9k)](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM.
@@ -699,66 +698,64 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
 
-*   [data2viz/data2viz (⭐415)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
-*   [kotlin-graphics/glm (⭐123)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
-*   [dananas/kotlin-glsl (⭐42)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
-*   [kotlin-graphics/kotlin-unsigned (⭐74)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
-*   [kotlin-graphics/gli (⭐31)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
-*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
-*   [kotlin-graphics/openvr (⭐35)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
-*   [kotlin-graphics/assimp (⭐93)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-*   [kotlin-graphics/imgui (⭐598)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
-*   [kotlin-graphics/bullet (⭐43)](https://github.com/kotlin-graphics/bullet) - bullet port
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-*   [java-opengl-labs/modern-jogl-examples (⭐108)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
-*   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
-*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐10k)](https://github.com/SaschaWillems/Vulkan)
+*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [Jonatino/JOGL2D (⭐28)](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
+*   [kotlin-graphics/gli (⭐31)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
 *   [soywiz/kaifu2x (⭐32)](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
+*   [kotlin-graphics/openvr (⭐35)](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+*   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
+*   [dananas/kotlin-glsl (⭐42)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
+*   [kotlin-graphics/bullet (⭐43)](https://github.com/kotlin-graphics/bullet) - bullet port
+*   [java-opengl-labs/Vulkan (⭐49)](https://github.com/java-opengl-labs/Vulkan) - port of [https://github.com/SaschaWillems/Vulkan (⭐10k)](https://github.com/SaschaWillems/Vulkan)
+*   [kotlin-graphics/kotlin-unsigned (⭐74)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
 *   [nwillc/ksvg (⭐81)](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-*   [openrndr/openrndr (⭐866)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
+*   [kotlin-graphics/assimp (⭐93)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+*   [java-opengl-labs/modern-jogl-examples (⭐108)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 *   [openrndr/orx (⭐120)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+*   [kotlin-graphics/glm (⭐123)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 *   [markaren/three.kt (⭐206)](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
+*   [data2viz/data2viz (⭐415)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+*   [kotlin-graphics/imgui (⭐598)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+*   [openrndr/openrndr (⭐866)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 *   [JetBrains/skiko (⭐1.8k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [Kotlin/dataframe (⭐794)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [Kotlin/kandy (⭐566)](https://github.com/Kotlin/kandy) - Kotlin plotting library
-*   [JetBrains/lets-plot-kotlin (⭐426)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
-*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [mipt-npm/kmath (⭐645)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐183)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-*   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
-*   [breandan/kotlingrad (⭐518)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
-*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
-*   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
-*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
 *   [lamba92/KGraph (⭐18)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
-*   [Kotlin/multik (⭐636)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
-*   [breandan/kaliningraph (⭐115)](https://github.com/breandan/kaliningraph)
-*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 *   [sigbla/sigbla-app (⭐19)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
+*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
+*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
+*   [breandan/kaliningraph (⭐115)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐183)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
+*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [JetBrains/lets-plot-kotlin (⭐426)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [breandan/kotlingrad (⭐518)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [Kotlin/kandy (⭐566)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/multik (⭐636)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
+*   [mipt-npm/kmath (⭐645)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [Kotlin/dataframe (⭐794)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
+*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [Kotlin/KotlinDL (⭐1.4k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
 
-*   [ajalt/clikt (⭐2.5k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
 *   [leprosus/kotlin-cli (⭐38)](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
 *   [jimschubert/kopper (⭐39)](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
-*   [xenomachina/kotlin-argparser (⭐483)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [ajalt/mordant (⭐945)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
-*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [fork-handles/bunting4k (⭐205)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik)
-*   [varabyte/kotter (⭐560)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
 *   [kotlin-inquirer (⭐202)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+*   [fork-handles/bunting4k (⭐205)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [xenomachina/kotlin-argparser (⭐483)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [varabyte/kotter (⭐560)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [ajalt/mordant (⭐945)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [ajalt/clikt (⭐2.5k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
 
 ### <a name="libraries-frameworks-browsers"></a>Browsers <sup>[Back ⇈](#libraries-frameworks-browsers-subcategory)</sup>
 
