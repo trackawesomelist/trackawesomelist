@@ -12,6 +12,10 @@
 
 *   [qupaya](https://qupaya.com/blog/)
 
+### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
+
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-flexbot (⭐3)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
@@ -36,9 +40,17 @@
 
 *   [dhutaryan/ngx-mat-timepicker (⭐60)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-ellipsis (⭐96)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
+
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-vest-forms (⭐43)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
+
+### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-azure-maps (⭐16)](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

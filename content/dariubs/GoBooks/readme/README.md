@@ -35,6 +35,7 @@ List of Golang books
         *   [2023 - Go Faster](#2023---go-faster)
         *   [2023 - Shipping Go](#2023---shipping-go)
         *   [2024 - Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](#2024---learning-go-an-idiomatic-approach-to-real-world-go-programming-2nd-edition)
+        *   [2024 - Go Programming - From Beginner to Professional, 2nd Edition](#2024---go-programming---from-beginner-to-professional)
 
     *   [Advanced Books](#advanced-books)
         *   [2018 - Hands-On Dependency Injection in Go](#2018---hands-on-dependency-injection-in-go)
@@ -109,7 +110,7 @@ List of Golang books
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github (⭐541)](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐540)](https://github.com/miekg/learninggo).
 
 ### 2018 - [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -284,6 +285,23 @@ This book helps you:
 *   Know which Go features you should use sparingly or not at all
 *   Use Go's tools to improve performance, optimize memory usage, and reduce garbage collection
 *   Learn how to use Go's advanced development tools
+
+### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF)
+
+<img src="https://content.packt.com/_/image/original/B18621/cover_image_large.jpg" width="120px"/>
+
+Go Programming – From Beginner to Professional is a comprehensive guide that takes your proficiency in the Go programming language from novice to expert. Starting with fundamental concepts, this book covers variables, command-line tools, and working with data before delving into advanced concepts, including error handling, interfaces, and generics, harnessing Go’s latest features through hands-on exercises. Along the way, you’ll learn to structure projects using Go modules, manage packages effectively, and master debugging techniques. As you progress, you’ll get to grips with practical application-centric aspects such as command-line programming, file manipulation, and working with SQL databases. Additionally, the book explores web server development, RESTful APIs, and utilizing the Go HTTP client to interact with web applications. Further enhancing your Go skills, you’ll learn concurrent programming, testing methodologies, Go tools, and how to deploy applications in the cloud. Throughout the book, you’ll uncover Go’s hidden gems and gain insights into time manipulation, best practices, and more. By the end of this book, you’ll have worked through practical exercises and activities that’ll equip you with the knowledge and skills needed to excel as a proficient Go developer, primed for success in real-world projects.
+
+What you will learn
+
+*   Understand the Go syntax and apply it proficiently to handle data and write functions
+*   Debug your Go code to troubleshoot development problems
+*   Safely handle errors and recover from panics
+*   Implement polymorphism using interfaces and gain insight into generics
+*   Work with files and connect to popular external databases
+*   Create an HTTP client and server and work with a RESTful web API
+*   Use concurrency to design efficient software
+*   Use Go tools to simplify development and improve your code
 
 ## Advanced Books
 
@@ -602,7 +620,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐136)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐137)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### 2023 - [Let's Go!](https://lets-go.alexedwards.net/)
 
@@ -679,7 +697,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Golangbot.com Articles](https://golangbot.com/)
 
-### [Tuxerrante repo on go exercises (⭐4)](https://github.com/tuxerrante/go_exercises)
+### [Tuxerrante repo on go exercises (⭐5)](https://github.com/tuxerrante/go_exercises)
 
 # Contributing
 

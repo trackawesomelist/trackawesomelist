@@ -238,7 +238,6 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 *   [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 *   [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-*   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ### HTTP
 
@@ -307,6 +306,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 *   [PHP FFmpeg (⭐4.8k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 *   [UnifiedArchive (⭐274)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
+*   [Parquet (⭐17)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Streams
 
@@ -921,7 +921,7 @@ Libraries to help manage database schemas and migrations.
 *   [ClassPreloader (⭐361)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 *   [Ganesha (⭐567)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 *   [Hprose-PHP (⭐2k)](https://github.com/hprose/hprose-php) - A cross-language RPC.
-*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐500)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 *   [noCAPTCHA (⭐357)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 *   [Safe (⭐2.3k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.

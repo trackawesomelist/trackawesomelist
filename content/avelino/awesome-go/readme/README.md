@@ -3723,6 +3723,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goapp (⭐824)](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 *   [Golang for Node.js Developers (⭐4.6k)](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
 *   [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/) - A List of Free Courses to Learn the Go Programming Language.
+*   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
 *   [Golangbot](https://golangbot.com/learn-golang-series/) - Tutorials to get started with programming in Go.
 *   [GopherCoding](https://gophercoding.com/) - Collection of code snippets and tutorials to help tackle every day issues.
 *   [GopherSnippets](https://gophersnippets.com/) - Code snippets with tests and testable examples for the Go programming language.

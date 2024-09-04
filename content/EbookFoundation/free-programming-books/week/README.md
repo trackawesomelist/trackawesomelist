@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 324K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 332K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/readme/README.md) ]
 ## Related Files
@@ -12,6 +12,12 @@
 - [Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### PHP / Drupal
+
+*   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 
@@ -297,7 +303,7 @@
 
 ### JavaScript / Node.js
 
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
+*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -396,7 +402,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Learn Python 3 (⭐321)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+*   [Learn Python 3 (⭐331)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 *   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
@@ -537,7 +543,7 @@
 
 ### JavaScript / Wicket
 
-*   [JavaScript For Beginners (⭐82k)](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
+*   [JavaScript For Beginners (⭐83k)](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 
 ### JavaScript / React
 
@@ -623,7 +629,7 @@
 
 ### PHP / Laravel
 
-*   [Laravel Tips and Tricks (⭐158)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Laravel Tips and Tricks (⭐171)](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
@@ -857,7 +863,7 @@
 
 ### Lisp / PicoLisp
 
-*   [PicoLisp by Example (⭐52)](https://github.com/tj64/picolisp-by-example)
+*   [PicoLisp by Example (⭐54)](https://github.com/tj64/picolisp-by-example)
 *   [PicoLisp Works (⭐62)](https://github.com/tj64/picolisp-works)
 
 ### OCaml / PicoLisp
@@ -1102,8 +1108,8 @@
 
 ### Visual Prolog / Vulkan
 
-*   [Vulkan Tutorial Java (⭐162)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
-*   [Vulkan Tutorial RS (⭐677)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *(:construction: in process)* (Rust)
+*   [Vulkan Tutorial Java (⭐166)](https://github.com/Naitsirc98/Vulkan-Tutorial-Java) - Cristian Herrera, et al. (Java)
+*   [Vulkan Tutorial RS (⭐686)](https://github.com/bwasty/vulkan-tutorial-rs) - Benjamin Wasty, et al. *(:construction: in process)* (Rust)
 *   [Vulkano](https://vulkano.rs/guide/introduction) - Tomaka, et al. (HTML) (Rust)
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
@@ -1203,7 +1209,7 @@
 
 ### C++ / Non-X86
 
-*   [A Complete Guide to Standard C++ Algorithms (⭐954)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) *(:construction: in process)*
+*   [A Complete Guide to Standard C++ Algorithms (⭐968)](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) *(:construction: in process)*
 
 ### HTML and CSS / Spock Framework
 
@@ -1271,7 +1277,7 @@
 
 ### V / Deno
 
-*   [V Documentation (⭐35k)](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
+*   [V Documentation (⭐36k)](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -1371,7 +1377,7 @@
 
 ### OCaml / PicoLisp
 
-*   [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo (⭐282)](https://github.com/ocaml/ocamlunix/))
+*   [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo (⭐285)](https://github.com/ocaml/ocamlunix/))
 
 ### Solidity / Play Scala
 
@@ -1436,7 +1442,7 @@
 
 ### Smalltalk / Play Scala
 
-*   [Squeak by Example (⭐24)](https://github.com/hpi-swa-lab/SqueakByExample-english)
+*   [Squeak by Example (⭐26)](https://github.com/hpi-swa-lab/SqueakByExample-english)
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -1586,7 +1592,7 @@
 
 ### C / Non-X86
 
-*   [Coursebook (⭐661)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
+*   [Coursebook (⭐676)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 *   [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
 
 ### C# / Non-X86
@@ -1649,7 +1655,7 @@
 
 ### Assembly Language / Blazor
 
-*   [WebAssembly friendly programming with C/C++ (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples (⭐1.3k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
+*   [WebAssembly friendly programming with C/C++ (⭐1.4k)](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples (⭐1.4k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 ### C++ / Non-X86
 
@@ -1708,7 +1714,7 @@
 ### MongoDB / PicoLisp
 
 *   [Learning MongoDB](https://riptutorial.com/Download/mongodb.pdf) - Based on Unaffiliated  Stack Overflow Documentation (PDF)
-*   [MongoDB Koans (⭐178)](https://github.com/chicagoruby/MongoDB_Koans)
+*   [MongoDB Koans (⭐179)](https://github.com/chicagoruby/MongoDB_Koans)
 *   [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
 *   [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 *   [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
@@ -1751,7 +1757,7 @@
 
 ### Graphs / GraphQL
 
-*   [Fullstack GraphQL (⭐591)](https://github.com/GraphQLCollege/fullstack-graphql)
+*   [Fullstack GraphQL (⭐590)](https://github.com/GraphQLCollege/fullstack-graphql)
 
 ### JavaScript / Ember.js
 
@@ -1921,7 +1927,7 @@
 
 ### Delphi / Pascal / Non-X86
 
-*   [Modern Object Pascal Introduction for Programmers (⭐141)](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc (⭐141)](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
+*   [Modern Object Pascal Introduction for Programmers (⭐151)](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc (⭐151)](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
@@ -1939,7 +1945,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [Introduction to SQL (⭐295)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to SQL (⭐332)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -2024,7 +2030,7 @@
 
 ### .NET Core / PicoLisp
 
-*   [Clean Code .NET (⭐6.9k)](https://github.com/thangchung/clean-code-dotnet)
+*   [Clean Code .NET (⭐7k)](https://github.com/thangchung/clean-code-dotnet)
 *   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
 *   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
 *   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
@@ -2087,7 +2093,7 @@
 
 ### Bash / Non-X86
 
-*   [Introduction to Bash Scripting (⭐2.6k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Bash Scripting (⭐4.1k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
 
 ### C++ / Non-X86
 
@@ -2179,7 +2185,7 @@
 
 ### JavaScript / Node.js
 
-*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐515)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
+*   [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB (⭐519)](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 *   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.8k)](https://github.com/azat-co/practicalnode) - Azat Mardan
 
 ### Nim / PicoLisp
@@ -2261,7 +2267,7 @@
 
 *   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 *   [Book of Modern Frontend Tooling (⭐2.5k)](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
-*   [Clean Code JavaScript (⭐90k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
+*   [Clean Code JavaScript (⭐91k)](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 *   [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
 *   [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Axel Rauschmayer (HTML)
 *   [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
@@ -2291,7 +2297,7 @@
 *   [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 *   [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
 *   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
-*   [You Don't Know JS (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+*   [You Don't Know JS (⭐179k)](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
 
 ### JavaScript / jQuery
 
@@ -2366,7 +2372,7 @@
 
 ### Ruby / Ruby on Rails
 
-*   [Api on Rails 6 (⭐363)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
+*   [Api on Rails 6 (⭐366)](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 *   [Ruby on Rails Notes for Professionals](https://goalkicker.com/RubyOnRailsBook/) - Compiled from StackOverflow Documentation (PDF)
 
 ### SQL (implementation agnostic) / Play Scala
@@ -2444,7 +2450,7 @@
 
 ### Ruby / Tornado
 
-*   [Ruby Best Practices (⭐312)](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
+*   [Ruby Best Practices (⭐311)](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
 *   [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
 *   [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne
 
@@ -2576,7 +2582,7 @@
 ### Raku / Tornado
 
 *   [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
-*   [Raku Guide](https://raku.guide) (HTML) [(PDF) (⭐190)](https://github.com/hankache/rakuguide)
+*   [Raku Guide](https://raku.guide) (HTML) [(PDF) (⭐192)](https://github.com/hankache/rakuguide)
 *   [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
 *   [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
 *   [Using Perl 6 (⭐283)](https://github.com/perl6/book/) *(:construction: project is dead)*
@@ -3068,7 +3074,7 @@
 
 ### C / Non-X86
 
-*   [Bare-metal programming for ARM (⭐597)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+*   [Bare-metal programming for ARM (⭐621)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -3332,7 +3338,7 @@
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
-*   [Python 3 Tutorial (⭐1.3k)](https://github.com/Akuli/python-tutorial)
+*   [Python 3 Tutorial (⭐1.4k)](https://github.com/Akuli/python-tutorial)
 
 ## [May 14 - May 20, 2018](/content/2018/20/README.md)
 
@@ -3570,7 +3576,7 @@
 
 ### Elixir / Non-X86
 
-*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐143)](https://github.com/radar/joyofelixir) *(:construction: in process)*
+*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐147)](https://github.com/radar/joyofelixir) *(:construction: in process)*
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
 
@@ -3671,7 +3677,7 @@
 
 ### C# / Non-X86
 
-*   [High level asynchronous programming with Reactive Extensions (⭐73)](https://github.com/petroemil/Rx.Book) - Emil Petro
+*   [High level asynchronous programming with Reactive Extensions (⭐74)](https://github.com/petroemil/Rx.Book) - Emil Petro
 
 ## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
 
@@ -3742,7 +3748,7 @@
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
-*   [Build applications in Python the antitextbook (⭐550)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+*   [Build applications in Python the antitextbook (⭐556)](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
 
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
 
@@ -3866,7 +3872,7 @@
 
 ### Unix / Deno
 
-*   [Unix as IDE (⭐362)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
+*   [Unix as IDE (⭐368)](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
@@ -4129,7 +4135,7 @@
 
 ### Ruby / Sinatra
 
-*   [Sinatra Book (⭐671)](https://github.com/sinatra/sinatra-book)
+*   [Sinatra Book (⭐673)](https://github.com/sinatra/sinatra-book)
 
 ## [Dec 14 - Dec 20, 2015](/content/2015/50/README.md)
 
@@ -4298,7 +4304,7 @@
 
 ### VHDL / Deno
 
-*   [Free Range VHDL (⭐240)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+*   [Free Range VHDL (⭐248)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -4739,7 +4745,7 @@
 
 ### D / Non-X86
 
-*   [D Templates Tutorial (⭐227)](https://github.com/PhilippeSigaud/D-templates-tutorial)
+*   [D Templates Tutorial (⭐229)](https://github.com/PhilippeSigaud/D-templates-tutorial)
 
 ### MATLAB / PicoLisp
 

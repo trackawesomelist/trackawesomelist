@@ -12,6 +12,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 
+### Table of Contents / Files
+
+*   [Parquet (⭐17)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+
 ### Table of Contents / E-commerce
 
 *   [Brick Money (⭐1.6k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
@@ -51,7 +55,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Miscellaneous
 
-*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐500)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
@@ -1729,12 +1733,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 *   [phpMyAdmin (⭐7.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
-
-## [Dec 21 - Dec 27, 2015](/content/2015/51/README.md)
-
-### Table of Contents / Static Site Generators
-
-*   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ## [Oct 12 - Oct 18, 2015](/content/2015/41/README.md)
 

@@ -6,6 +6,19 @@ List of Golang books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / Weekly / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
 
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF) / Why does this book look so different?
+
+*   Understand the Go syntax and apply it proficiently to handle data and write functions
+*   Debug your Go code to troubleshoot development problems
+*   Safely handle errors and recover from panics
+*   Implement polymorphism using interfaces and gain insight into generics
+*   Work with files and connect to popular external databases
+*   Create an HTTP client and server and work with a RESTful web API
+*   Use concurrency to design efficient software
+*   Use Go tools to simplify development and improve your code
+
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
 ### 2024 - [Learning Go: An Idiomatic Approach to Real-World Go Programming, 2nd Edition](https://www.amazon.de/-/en/Jon-Bodner/dp/1098139291) / Why does this book look so different?

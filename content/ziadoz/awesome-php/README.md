@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/ziadoz/awesome-php/week/README.md) / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Sep 04, 2024](/content/2024/09/04/README.md)
+
+### Table of Contents / Files
+
+*   [Parquet (⭐17)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+
 ## [Sep 02, 2024](/content/2024/09/02/README.md)
 
 ### Table of Contents / Micro Frameworks
@@ -51,7 +57,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Miscellaneous
 
-*   [Laravel Serializable Closure (⭐494)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐500)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
@@ -1818,12 +1824,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-
-## [Dec 20, 2015](/content/2015/12/20/README.md)
-
-### Table of Contents / Static Site Generators
-
-*   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ## [Oct 09, 2015](/content/2015/10/09/README.md)
 

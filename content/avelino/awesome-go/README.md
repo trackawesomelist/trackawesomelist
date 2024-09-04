@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 04, 2024](/content/2024/09/04/README.md)
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
+
 ## [Sep 03, 2024](/content/2024/09/03/README.md)
 
 ### Database Tools

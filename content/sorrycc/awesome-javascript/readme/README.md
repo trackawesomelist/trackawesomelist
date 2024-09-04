@@ -409,7 +409,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [raptor-editor (⭐533)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 *   [popline (⭐1.1k)](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 *   [Summernote (⭐12k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
-*   [Everright-formEditor (⭐434)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐437)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## Documentation
 
@@ -608,6 +608,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [loglevel (⭐2.6k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 *   [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 *   [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
+*   [LogTape](https://logtape.org/) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions.
 
 ## RegExp
 
@@ -1002,7 +1003,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Anime.js](https://animejs.com/) - A JavaScript animation engine.
 *   [Mo.js](https://mojs.github.io/) - Motion graphics toolbelt for the web.
 *   [particles.js (⭐29k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
-*   [tsParticles (⭐7.4k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
+*   [tsParticles (⭐7.5k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 *   [particles-bg (⭐646)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 *   [barbajs (⭐12k)](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 *   [typicaljs (⭐1.6k)](https://github.com/camwiegert/typical) - Animated typing in \~400 bytes 🐡 of JavaScript

@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
+
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### Artificial Intelligence
