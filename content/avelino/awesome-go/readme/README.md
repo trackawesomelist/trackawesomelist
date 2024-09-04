@@ -1121,6 +1121,7 @@ additional ordered map implementations.
 *   [Falcon (⭐11)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 *   [Fault (⭐158)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 *   [go-multierror (⭐2.3k)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
+*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 *   [oops (⭐341)](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
 *   [tracerr (⭐969)](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 
@@ -1142,6 +1143,7 @@ additional ordered map implementations.
 *   [go-decent-copy (⭐22)](https://github.com/hugocarreira/go-decent-copy) - Copy files for humans.
 *   [go-exiftool (⭐241)](https://github.com/barasher/go-exiftool) - Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...).
 *   [go-gtfs (⭐45)](https://github.com/artonge/go-gtfs) - Load gtfs files in go.
+*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
 *   [gofs (⭐455)](https://github.com/no-src/gofs) - A cross-platform real-time file synchronization tool out of the box.
 *   [gut/yos (⭐27)](https://github.com/1set/gut) - Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links.
 *   [higgs (⭐23)](https://github.com/dastoori/higgs) - A tiny cross-platform Go library to hide/unhide files and directories.

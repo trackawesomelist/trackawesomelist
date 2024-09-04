@@ -1,24 +1,64 @@
 # Awesome List Updates on Sep 04, 2024
 
-12 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2024
+
+*   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [cname.dev](https://cname.dev/) — Free and secure dynamic reverse proxy service.
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [@yoichiro/vite-plugin-handlebars (⭐1)](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
+
+### PHP / Community
+
+*   [php-vitelinker (⭐0)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [qaptoR-nvim/chocolatier.nvim (⭐1)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+
+### Neovim Lua Development / Diagnostics
+
+*   [OXY2DEV/helpview.nvim (⭐135)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Files
 
 *   [Parquet (⭐17)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Error Handling
+
+*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+
+### File Handling
+
+*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
@@ -30,13 +70,13 @@
     *   [eclipse-zenoh-flow/zenoh-flow (⭐87)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
     *   [eclipse-zenoh/zenoh (⭐1.4k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Log / Runner
 
 *   [LogTape](https://logtape.org/) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -91,7 +131,7 @@
 
 *   [JSON Schema (⭐3.6k) (⭐3.6k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -105,13 +145,13 @@
 
 *   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Network & Storage Testing
 
 *   [Examples of SMPTE ST 2110 pcap files (⭐19)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -125,13 +165,13 @@
 
 *   [ng-azure-maps (⭐16)](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
 
-## [9. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [13. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Customization
 
 *   [oh-my-bash (⭐5.8k)](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 
-## [10. GoBooks](/content/dariubs/GoBooks/README.md)
+## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF) / Why does this book look so different?
 
@@ -144,13 +184,13 @@
 *   Use concurrency to design efficient software
 *   Use Go tools to simplify development and improve your code
 
-## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### PHP / Drupal
 
 *   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
 
-## [12. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [16. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 

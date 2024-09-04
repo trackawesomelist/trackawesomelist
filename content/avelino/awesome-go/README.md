@@ -8,6 +8,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
+### Error Handling
+
+*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+
+### File Handling
+
+*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
+
 ### Tutorials / Libraries for creating HTTP middlewares
 
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.

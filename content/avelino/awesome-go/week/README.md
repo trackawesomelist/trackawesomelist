@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
+### Error Handling
+
+*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+
+### File Handling
+
+*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
+
 ### Machine Learning
 
 *   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.

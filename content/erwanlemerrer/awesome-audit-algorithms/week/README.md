@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / Weekly / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### Papers / 2024
+
+*   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
+
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### Papers / 2023

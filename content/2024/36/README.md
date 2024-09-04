@@ -1,12 +1,28 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2024
 
-22 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Papers / 2024
+
+*   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [@yoichiro/vite-plugin-handlebars (⭐1)](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
+
+### PHP / Community
+
+*   [php-vitelinker (⭐0)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
@@ -18,7 +34,7 @@
     *   [eclipse-zenoh-flow/zenoh-flow (⭐87)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
     *   [eclipse-zenoh/zenoh (⭐1.4k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -73,13 +89,13 @@
 
 *   [JSON Schema (⭐3.6k) (⭐3.6k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [3. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Customization
 
 *   [oh-my-bash (⭐5.8k)](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 
-## [4. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [6. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF) / Why does this book look so different?
 
@@ -92,25 +108,25 @@
 *   Use concurrency to design efficient software
 *   Use Go tools to simplify development and improve your code
 
-## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### PHP / Drupal
 
 *   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
 
-## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [Artie](https://www.artie.com/) - Real-time data ingestion tool leveraging change data capture.
 
-## [7. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / LLM Integration Frameworks
 
-*   [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [Reference](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [GitHub (⭐9.1k)](https://github.com/microsoft/promptflow)
+*   [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐9.1k)](https://github.com/microsoft/promptflow)
 
-## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
@@ -126,7 +142,7 @@
 
 *   [NVIDIA NMOS Library (⭐4)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
-## [9. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -140,13 +156,13 @@
 
 *   [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [dns-client (⭐15)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Spreadsheet / Runner
 
@@ -160,23 +176,31 @@
 
 *   [JS-PyTorch (⭐1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
-## [12. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [14. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Mathcheap](https://mathcheap.xyz)
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Utilities
 
 *   [PubSubx (⭐1)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
 *   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+
+### Error Handling
+
+*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+
+### File Handling
+
+*   [go-wkhtmltopdf (⭐1k)](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) - A package to convert an HTML template to a PDF file.
 
 ### Machine Learning
 
@@ -190,19 +214,19 @@
 
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 
-## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [18. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Gallery / PGFPlots
 
 *   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -212,7 +236,15 @@
 
 *   [SCJangra/table-nvim (⭐5)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [qaptoR-nvim/chocolatier.nvim (⭐1)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+
+### Neovim Lua Development / Diagnostics
+
+*   [OXY2DEV/helpview.nvim (⭐135)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -230,7 +262,7 @@
 
 *   [Brick Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -322,7 +354,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
@@ -333,6 +365,10 @@
 *   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
 *   [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
 
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [cname.dev](https://cname.dev/) — Free and secure dynamic reverse proxy service.
+
 ### Docker Related
 
 *   [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
@@ -341,7 +377,7 @@
 
 *   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
-## [21. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -399,7 +435,7 @@
 
 *   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 
-## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Actions / Setup Actions
 
