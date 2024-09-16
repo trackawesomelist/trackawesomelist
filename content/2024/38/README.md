@@ -1,12 +1,55 @@
 # Awesome List Updates on Sep 16 - Sep 22, 2024
 
-3 awesome lists updated this week.
+8 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Topics](/content/selvaklnc/topics/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Kotlin Native / Projects
+
+*   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
+
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
+
+### Image Segmentation / Deforum
+
+*   [Infinity AI](https://infinity.ai/): a video foundation model that allows you to craft characters and animate them
+
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+
+### Public Data Resources / Environment and Ecosystem Services
+
+*   [National Geologic Map Database](https://ngmdb.usgs.gov/mapview/) - This is a nation wide geologic map database developed by USGS's National Geologic Map Database (NGMDB) that comes with thousands of georeferenced geologic maps searchable through map interaction. Maps are visible at the zoom level that they were originally mapped.
+
+### Platforms and Software Resources / Transportation Planning Tools and Platforms
+
+*   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
+
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-google-charts (⭐272)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-ui-switch (⭐110)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
+*   [olt-ngx-ui-switch (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
+
+## [6. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of interesting topics
 
@@ -24,13 +67,17 @@
 *   [Why India is special for tourists](https://top-list-reads.blogspot.com/2024/09/top-reasons-why-india-special-tour-destination.html) - Top 7 reasons.
 *   [How to take care of pets](https://ourmaster.wordpress.com/2024/09/15/pet-care-tips-for-travelers-making-the-best-choice-for-your-furry-friend/) during travel.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Message Queue
 
 *   [RobustMQ (⭐69)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
 
-## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+### Applications / MLOps
+
+*   [TensorZero (⭐56)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
+
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 

@@ -113,6 +113,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [polars-candle (⭐21)](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle (⭐15k)](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 *   [photoshoot (⭐5)](https://github.com/ngriffiths13/photoshoot) - A pytest plugin library for doing snapshot testing with Polars DataFrames by [@ngriffiths13](https://github.com/ngriffiths13).
 *   [polar\_patch (⭐3)](https://github.com/Summit-Sailors/polar_patch) - Python package that brings type safety and type checking for custom Polars plugins by [@Summit-Sailors](https://github.com/Summit-Sailors).
+*   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
 
 ### Rust
 

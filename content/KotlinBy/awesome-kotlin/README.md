@@ -6,6 +6,12 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
+## [Sep 16, 2024](/content/2024/09/16/README.md)
+
+### Kotlin Native / Projects
+
+*   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
+
 ## [Sep 14, 2024](/content/2024/09/14/README.md)
 
 ### Libraries/Frameworks / Graphics

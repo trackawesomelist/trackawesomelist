@@ -6,6 +6,16 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
+
+### Public Data Resources / Environment and Ecosystem Services
+
+*   [National Geologic Map Database](https://ngmdb.usgs.gov/mapview/) - This is a nation wide geologic map database developed by USGS's National Geologic Map Database (NGMDB) that comes with thousands of georeferenced geologic maps searchable through map interaction. Maps are visible at the zoom level that they were originally mapped.
+
+### Platforms and Software Resources / Transportation Planning Tools and Platforms
+
+*   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards

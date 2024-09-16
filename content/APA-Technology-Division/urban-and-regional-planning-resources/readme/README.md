@@ -166,6 +166,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 *   [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
 *   [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 *   [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
+*   [National Geologic Map Database](https://ngmdb.usgs.gov/mapview/) - This is a nation wide geologic map database developed by USGS's National Geologic Map Database (NGMDB) that comes with thousands of georeferenced geologic maps searchable through map interaction. Maps are visible at the zoom level that they were originally mapped.
 
 ### Energy and Natural Resources
 
@@ -556,6 +557,7 @@ Software, tools, and platforms intended to assist with transportation planning t
 *   [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use.
 *   [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 *   [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continusous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
+*   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
 
 ## Educational and Informational Resources
 

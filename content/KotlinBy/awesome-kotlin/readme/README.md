@@ -144,7 +144,6 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
-*   [DroidKaigi/conference-app-2024 (⭐420)](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 *   [CrossPaste/crosspaste-desktop (⭐650)](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 *   [iamr0s/Dhizuku (⭐1.1k)](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
 *   [LawnchairLauncher/lawnicons (⭐1.3k)](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
@@ -153,9 +152,9 @@ Here is the awesome badge for your project:
 *   [ReVanced/revanced-patches (⭐2.2k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [XayahSuSuSu/Android-DataBackup (⭐3.2k)](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 *   [VREMSoftwareDevelopment/WiFiAnalyzer (⭐3.1k)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+*   [simondankelmann/Bluetooth-LE-Spam (⭐3.8k)](https://github.com/simondankelmann/Bluetooth-LE-Spam)
 *   [gotson/komga (⭐3.9k)](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
-*   [z-huang/InnerTune (⭐4k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-*   [skydoves/android-developer-roadmap (⭐7.2k)](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
+*   [z-huang/InnerTune (⭐4.1k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 *   [ankidroid/Anki-Android (⭐8.4k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 *   [ethereum-lists/chains (⭐8.6k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
 *   [tiann/KernelSU (⭐9.7k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
@@ -167,37 +166,39 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
+*   [abdallahmehiz/mpvKt (⭐304)](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 *   [android/platform-samples (⭐1k)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
 *   [flipperdevices/Flipper-Android-App (⭐1.5k)](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
-*   [KotatsuApp/Kotatsu (⭐3.7k)](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
-*   [simondankelmann/Bluetooth-LE-Spam (⭐3.8k)](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+*   [T8RIN/ImageToolbox (⭐3.3k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 *   [detekt/detekt (⭐6.2k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+*   [bitwarden/android (⭐6.2k)](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 *   [chrisbanes/tivi (⭐6.6k)](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 *   [vfsfitvnm/ViMusic (⭐8.6k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 *   [thunderbird/thunderbird-android (⭐10k)](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+*   [RikkaApps/Shizuku (⭐10k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [ktorio/ktor (⭐13k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+*   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 *   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-*   [android/nowinandroid (⭐16k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 *   [pppscn/SmsForwarder (⭐17k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 *   [alibaba/p3c (⭐30k)](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 *   [2dust/v2rayNG (⭐34k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-*   [square/okhttp (⭐46k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [hannibal002/SkyHanni (⭐318)](https://github.com/hannibal002/SkyHanni) - SkyHanni is a 1.8.9 Minecraft Mod for Hypixel SkyBlock.
-*   [nightscout/AndroidAPS (⭐687)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
+*   [measure-sh/measure (⭐271)](https://github.com/measure-sh/measure) - Measure is an open source tool to monitor mobile apps
+*   [Cateners/tiny\_computer (⭐931)](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
+*   [samolego/Canta (⭐1k)](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
+*   [VegaBobo/DSU-Sideloader (⭐1.4k)](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
+*   [CCBlueX/LiquidBounce (⭐1.4k)](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
+*   [keiyoushi/extensions-source (⭐1.9k)](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 *   [tanujnotes/Olauncher (⭐1.9k)](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
+*   [FooIbar/EhViewer (⭐2.2k)](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from [https://github.com/Ehviewer-Overhauled/Ehviewer (⭐5.2k)](https://github.com/Ehviewer-Overhauled/Ehviewer)
 *   [GuoXiCheng/SKIP (⭐2.2k)](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 *   [Dr-TSNG/Hide-My-Applist (⭐2.9k)](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-*   [T8RIN/ImageToolbox (⭐3.3k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
-*   [hectorqin/reader (⭐7.8k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-*   [yujincheng08/BiliRoaming (⭐9.3k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-*   [RikkaApps/Shizuku (⭐10k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [aniyomiorg/aniyomi (⭐4.8k)](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
+*   [breezy-weather/breezy-weather (⭐5.2k)](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+*   [recloudstream/cloudstream (⭐6.5k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 *   [JunkFood02/Seal (⭐11k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
-*   [MatsuriDayo/NekoBoxForAndroid (⭐11k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [CymChad/BaseRecyclerViewAdapterHelper (⭐24k)](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
-*   [gedoor/legado (⭐28k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -626,8 +627,8 @@ Here is the awesome badge for your project:
 *   [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 *   [hotchemi/khronos (⭐327)](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
 *   [insanusmokrassar/TelegramBotAPI (⭐342)](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
-*   [nsk90/kstatemachine (⭐352)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 *   [touchlab/KMMBridge (⭐356)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
+*   [nsk90/kstatemachine (⭐352)](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 *   [charleskorn/kaml (⭐506)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
 *   [cretz/asmble (⭐633)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 *   [doyaaaaaken/kotlin-csv (⭐640)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
@@ -1149,6 +1150,7 @@ Here is the awesome badge for your project:
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 *   [perses-games/konan-sfml (⭐18)](https://github.com/perses-games/konan-sfml) - Kotlin native with SFML example
 *   [JetBrains/kotlinconf-spinner (⭐626)](https://github.com/JetBrains/kotlinconf-spinner) - Simple spinner-like game intended to demonstrate capabilities of Kotlin/Native software stack.
+*   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 
 ### <a name="kotlin-native-frameworks"></a>Frameworks <sup>[Back ⇈](#kotlin-native-frameworks-subcategory)</sup>
 

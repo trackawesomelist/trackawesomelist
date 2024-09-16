@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [RobustMQ (⭐69)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
 
+### Applications / MLOps
+
+*   [TensorZero (⭐56)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
+
 ## [Sep 15, 2024](/content/2024/09/15/README.md)
 
 ### Libraries / Asynchronous

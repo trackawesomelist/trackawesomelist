@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Official news

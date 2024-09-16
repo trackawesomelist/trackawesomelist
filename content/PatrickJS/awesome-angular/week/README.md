@@ -6,6 +6,17 @@
 
 [ [Daily](/content/PatrickJS/awesome-angular/README.md) / Weekly / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-google-charts (⭐272)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-ui-switch (⭐110)](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
+*   [olt-ngx-ui-switch (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -144,7 +155,7 @@
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [litlyx (⭐347)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+*   [litlyx (⭐444)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -169,7 +180,7 @@
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-techs-logos (⭐3)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
+*   [angular-techs-logos (⭐4)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -243,7 +254,7 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [slate-angular (⭐175)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
+*   [slate-angular (⭐177)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 *   [BlockNoteAngular (⭐1)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.2k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
 *   [ngx-jodit (⭐17)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.6k)](https://github.com/xdan/jodit) WYSIWYG editor.
 
@@ -355,8 +366,8 @@
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.
-*   [VS Code NG Language Service (⭐769)](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
-*   [VS Code Angular Snippets (⭐573)](https://github.com/johnpapa/vscode-angular-snippets) - This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML.
+*   [VS Code NG Language Service (⭐773)](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
+*   [VS Code Angular Snippets (⭐574)](https://github.com/johnpapa/vscode-angular-snippets) - This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML.
 *   [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
 *   [Angular Jester](https://marketplace.visualstudio.com/items?itemName=michael-fontecchio.angular-jester) - Generate Jest spec files for Angular projects.
 *   [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
@@ -378,7 +389,7 @@
 *   [elite-angular-lite (⭐9)](https://github.com/wrappixel/elite-angular-lite) - WrapPixel's Elite Angular 17 Lite is a competent, powerful, and carefully handcrafted Angular Admin Template with a clean and minimalist design aesthetic.
 *   [berry-free-angular-admin-template (⭐10)](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
 *   [mantis-free-angular-admin-template (⭐12)](https://github.com/codedthemes/mantis-free-angular-admin-template)
-*   [datta-able-free-angular-admin-template (⭐17)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
+*   [datta-able-free-angular-admin-template (⭐18)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -413,7 +424,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Windmillcode-Angular-CDK (⭐2)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+*   [Windmillcode-Angular-CDK (⭐18)](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -538,7 +549,7 @@
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [cryptr-angular (⭐1)](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
-*   [angular-authentication (⭐219)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
+*   [angular-authentication (⭐223)](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 *   [ngx-security (⭐21)](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -568,13 +579,13 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
+*   [angular-ru-sdk (⭐71)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 *   [dfts-common (⭐3)](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 *   [sba-angular (⭐30)](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [tansu (⭐83)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
+*   [tansu (⭐84)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 
 ### UX Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -695,7 +706,7 @@
 
 ### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [awesome-utils-dev/angular (⭐139)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
+*   [awesome-utils-dev/angular (⭐141)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
 *   [awesome-angular (⭐89)](https://github.com/DaanDeSmedt/awesome-angular)
 *   [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 
@@ -818,7 +829,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-tauri (⭐92)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
+*   [angular-tauri (⭐93)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -830,11 +841,11 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angularx-qrcode (⭐462)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+*   [angularx-qrcode (⭐467)](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [signalstory (⭐39)](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
+*   [signalstory (⭐40)](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -854,7 +865,7 @@
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular Design Patterns and Best Practices (⭐46)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
+*   [Angular Design Patterns and Best Practices (⭐49)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -929,7 +940,7 @@
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-code-input (⭐178)](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
-*   [ng-multiselect-dropdown (⭐324)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
+*   [ng-multiselect-dropdown (⭐323)](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 
 ### Keyboard Mouse / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -941,7 +952,7 @@
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-svg-round-progressbar (⭐741)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
+*   [angular-svg-round-progressbar (⭐742)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 *   [ng-circle-progress (⭐250)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1027,7 +1038,7 @@
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-highlightjs (⭐273)](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
-*   [ngx-sharebuttons (⭐521)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
+*   [ngx-sharebuttons (⭐524)](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1039,7 +1050,7 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-scrollbar (⭐607)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
+*   [ngx-scrollbar (⭐609)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1077,7 +1088,7 @@
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-oauth2-oidc (⭐1.9k)](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
-*   [keycloak-angular (⭐722)](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
+*   [keycloak-angular (⭐725)](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1111,7 +1122,7 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-drag-scroll (⭐347)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
+*   [ngx-drag-scroll (⭐346)](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1199,9 +1210,9 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-scroll-animations (⭐3)](https://github.com/hm21/ngx-scroll-animations) - This minimalistic Angular directive, free from external dependencies, empowers you to effortlessly implement CSS animations on elements. These animations trigger when an element comes into view through scrolling on the page. It seamlessly integrates with your choice of CSS animations.
+*   [ngx-scroll-animations (⭐4)](https://github.com/hm21/ngx-scroll-animations) - This minimalistic Angular directive, free from external dependencies, empowers you to effortlessly implement CSS animations on elements. These animations trigger when an element comes into view through scrolling on the page. It seamlessly integrates with your choice of CSS animations.
 *   [OverlayScrollbars (⭐3.8k)](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
-*   [ng-table-virtual-scroll (⭐134)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
+*   [ng-table-virtual-scroll (⭐135)](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1406,25 +1417,25 @@
 
 *   [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
 *   [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows you to embed a Tableau report in an Angular webapp.
-*   [ngx-matomo-client (⭐68)](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
+*   [ngx-matomo-client (⭐70)](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 *   [angulartics2 (⭐1k)](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 *   [angular-google-tag-manager (⭐136)](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
 
 ### SEO / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngaox](https://www.npmjs.com/package/@ngaox/seo) - Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More.
-*   [ngx-seo (⭐13)](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
+*   [ngx-seo (⭐14)](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
 *   [seo-analyzer (⭐76)](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
 *   [ngx-seo (⭐2)](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 *   [angular-react-seo (⭐71)](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngu-carousel (⭐328)](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
-*   [ngx-slider (⭐385)](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on angularjs-slider.
-*   [ngx-gallery (⭐602)](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
+*   [ngu-carousel (⭐329)](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
+*   [ngx-slider (⭐387)](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on angularjs-slider.
+*   [ngx-gallery (⭐605)](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
 *   [ng-image-slider (⭐105)](https://github.com/sanjayV/ng-image-slider) - Angular Image Slider with Lightbox.
-*   [ngx-slick-carousel (⭐103)](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
+*   [ngx-slick-carousel (⭐104)](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
 *   [ngx-splide (⭐15)](https://github.com/JustCommunication-ru/ngx-splide) - Splide.js integration to Angular.
 *   [ngx-owl-carousel-o (⭐176)](https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o) - owl-carousel for Angular >=6.
 *   [angular2-image-gallery (⭐304)](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
@@ -1451,10 +1462,10 @@
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-reactive-storage (⭐36)](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
-*   [ng2-webstorage (⭐426)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
+*   [ng2-webstorage (⭐427)](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
 *   [ngx-indexed-db (⭐171)](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
 *   [angular-async-local-storage (⭐675)](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
-*   [ng-web-apis/storage (⭐729)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+*   [ng-web-apis/storage (⭐735)](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
 *   [ngx-odm (⭐42)](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1731,7 +1742,7 @@
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-auth-oidc-client (⭐1.1k)](https://github.com/damienbod/angular-auth-oidc-client) - NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
-*   [angularx-social-login (⭐634)](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17.
+*   [angularx-social-login (⭐635)](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17.
 *   [ms-identity-javascript-angular-tutorial (⭐203)](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial) - A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular.
 *   [auth0-angular (⭐175)](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
 *   [ng-universal (⭐442)](https://github.com/nestjs/ng-universal) - Angular Universal module for Nest framework (Node.js).
@@ -1761,7 +1772,7 @@
 *   [aws amplify](https://docs.amplify.aws/angular/)
 *   [Vercel](https://vercel.com/solutions/angular)
 *   [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality. The [Angular Runtime (⭐19)](https://github.com/netlify/angular-runtime) plugin implements Angular Support on Netlify.
-*   [angular-cli-ghpages (⭐950)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+*   [angular-cli-ghpages (⭐951)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1773,12 +1784,12 @@
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-doc (⭐209)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
+*   [ng-doc (⭐217)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 *   [docgeni (⭐195)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [teleport-code-generators (⭐989)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
+*   [teleport-code-generators (⭐994)](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
 
 ### Spring Boot / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1824,13 +1835,13 @@
 
 *   [ng-matero (⭐1.3k)](https://github.com/ng-matero/ng-matero) - Angular Material admin dashboard template.
 *   [coreui-free-angular-admin-template (⭐1.7k)](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5.
-*   [sakai-ng (⭐528)](https://github.com/primefaces/sakai-ng) - Free Angular Admin Template by PrimeNG.
-*   [angular-template-for-threejs (⭐143)](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js.
-*   [lemon-mart (⭐155)](https://github.com/duluca/lemon-mart) - Angular Template App with a Router-first architecture.
+*   [sakai-ng (⭐540)](https://github.com/primefaces/sakai-ng) - Free Angular Admin Template by PrimeNG.
+*   [angular-template-for-threejs (⭐144)](https://github.com/makimenko/angular-template-for-threejs) - Angular Template For Three.js.
+*   [lemon-mart (⭐157)](https://github.com/duluca/lemon-mart) - Angular Template App with a Router-first architecture.
 *   [devextreme-angular-template (⭐119)](https://github.com/DevExpress/devextreme-angular-template) - Responsive Application Layout Templates​ based on DevExtreme Angular Components.
 *   [QuickApp (⭐1.3k)](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development.
 *   [material-pro-angular-lite (⭐123)](https://github.com/wrappixel/material-pro-angular-lite) - MaterialPro Angular Lite is high quality free angular material template / theme from WrapPixel. You can download and use for Personal as well as Commercial Projects.
-*   [Angular-V17-Template (⭐49)](https://github.com/GabrielToth/Angular-V17-Template) - A template designed for Angular 17 that emphasizes clean code practices and test-friendly development.
+*   [Angular-V17-Template (⭐53)](https://github.com/GabrielToth/Angular-V17-Template) - A template designed for Angular 17 that emphasizes clean code practices and test-friendly development.
 *   [angular-quickstart (⭐21)](https://github.com/netlify-templates/angular-quickstart) - A bare-bones Angular template to get you deployed to Netlify fast!
 *   [sap-fiori-templates (⭐22)](https://github.com/meta-d/sap-fiori-templates) - SAP BTP & Fiori App templates implemented with third-party frontend frameworks such as React, Vue, and Angular.
 *   [template-angular (⭐19)](https://github.com/phaserjs/template-angular) - Phaser 3 TypeScript project template that uses the Angular framework and Vite for bundling.
@@ -1841,18 +1852,18 @@
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-mocks (⭐1k)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
-*   [auto-spies (⭐178)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
+*   [auto-spies (⭐179)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
 *   [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 *   [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.
 *   [jasmine](https://jasmine.github.io/) - Simple JavaScript testing.
 *   [jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-*   [jest-preset-angular (⭐884)](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
+*   [jest-preset-angular (⭐883)](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
 *   [jest-preview (⭐2.3k)](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.
-*   [playwright-ct-angular (⭐47)](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
+*   [playwright-ct-angular (⭐48)](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
 *   [spectacular (⭐37)](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries.
 *   [spectator (⭐2.1k)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 *   [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
-*   [webdriverio (⭐8.9k)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
+*   [webdriverio (⭐9k)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 *   [angular-tour-of-heroes-jest-100-coverage (⭐3)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 *   [how-do-i-test (⭐5)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 *   [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
@@ -1883,17 +1894,17 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-chartist (⭐126)](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js.
-*   [org-chart (⭐873)](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
-*   [ag-charts (⭐143)](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
+*   [org-chart (⭐887)](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
+*   [ag-charts (⭐148)](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 *   [systelab-charts (⭐0)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
-*   [ngx-gantt (⭐234)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
-*   [carbon-charts (⭐901)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
+*   [ngx-gantt (⭐239)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
+*   [carbon-charts (⭐904)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
-*   [ngx-easy-table (⭐370)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
-*   [active-table (⭐216)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
+*   [ngx-easy-table (⭐371)](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
+*   [active-table (⭐219)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
 *   [jsgrids (⭐169)](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1925,7 +1936,7 @@
 
 ### Keyboard Mouse / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular2-hotkeys (⭐202)](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps.
+*   [angular2-hotkeys (⭐203)](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps.
 *   [virtual-keyboard-javascript (⭐0)](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 *   [angular-touch-keyboard (⭐47)](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 
@@ -1937,8 +1948,8 @@
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-maps (⭐48)](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
-*   [ngx-leaflet (⭐766)](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
-*   [ngx-maplibre-gl (⭐69)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
+*   [ngx-leaflet (⭐769)](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
+*   [ngx-maplibre-gl (⭐71)](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 *   [@angular/google-maps (⭐24k)](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1949,7 +1960,7 @@
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rx-angular (⭐1.9k)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
-*   [ng-web-apis (⭐729)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
+*   [ng-web-apis (⭐735)](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1957,9 +1968,9 @@
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-sweetalert2 (⭐653)](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
-*   [hot-toast (⭐66)](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
-*   [ngx-sonner (⭐78)](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
+*   [ngx-sweetalert2 (⭐652)](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
+*   [hot-toast (⭐68)](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
+*   [ngx-sonner (⭐81)](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 *   [angular-bootstrap-toast-service (⭐18)](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 *   [angular2-notifications (⭐746)](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 
@@ -1990,7 +2001,7 @@
 
 *   [angular-shepherd (⭐216)](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd (⭐13k)](https://github.com/shepherd-pro/shepherd).
 *   [skyux (⭐29)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
-*   [ngx-ui-tour (⭐165)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour (⭐163)](https://github.com/benmarch/angular-ui-tour).
+*   [ngx-ui-tour (⭐166)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour (⭐163)](https://github.com/benmarch/angular-ui-tour).
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2009,9 +2020,9 @@
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngrx](https://ngrx.io/) - Reactive State for Angular.
-*   [ngrx-course (⭐379)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
+*   [ngrx-course (⭐380)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
 *   [ngrx-store-localstorage (⭐608)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
-*   [angular-ngrx-nx-realworld-example-app (⭐869)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+*   [angular-ngrx-nx-realworld-example-app (⭐877)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2024,17 +2035,17 @@
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [typehero (⭐5.7k)](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-*   [type-challenges (⭐42k)](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
+*   [type-challenges (⭐43k)](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
 *   [typescript-challenges (⭐160)](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript.
-*   [Sheriff (⭐177)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
-*   [Total Typescript Book (⭐1.6k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
+*   [Sheriff (⭐183)](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
+*   [Total Typescript Book (⭐1.7k)](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
 *   [ts-essentials (⭐3.7k)](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
 *   [trpc (⭐34k)](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 *   [quicktype (⭐12k)](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 *   [ts-pattern (⭐12k)](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-*   [ngx-mf (⭐39)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type.
+*   [ngx-mf (⭐40)](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type.
 *   [superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-*   [typebox (⭐4.7k)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
+*   [typebox (⭐4.8k)](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 *   [zod (⭐33k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
