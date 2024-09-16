@@ -6,6 +6,12 @@ Awesome & Marvelous Amas
 
 [ [Daily](/content/sindresorhus/amas/README.md) / Weekly / [Overview](/content/sindresorhus/amas/readme/README.md) ]
 
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### Ask these organizations anything!
+
+*   [S Fox Jones (⭐1)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
+
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Ask these people anything!
@@ -52,7 +58,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐143)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 *   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
@@ -149,7 +155,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐7)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
 
@@ -667,5 +673,5 @@ Awesome & Marvelous Amas
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Zach Holman (⭐732)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 *   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.

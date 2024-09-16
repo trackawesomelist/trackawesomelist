@@ -12,6 +12,10 @@ A curated list of delightful Bash scripts and resources.
 
 *   [oh-my-bash (⭐5.8k)](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 
+### Shell Script Development
+
+*   [lobash (⭐364)](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
+
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Command-Line Productivity

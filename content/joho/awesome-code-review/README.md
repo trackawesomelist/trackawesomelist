@@ -2,9 +2,15 @@
 
 An "Awesome" list of code review resources - articles, papers, tools, etc
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.1K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.3K · 🏷️ Work
 
 [ Daily / [Weekly](/content/joho/awesome-code-review/week/README.md) / [Overview](/content/joho/awesome-code-review/readme/README.md) ]
+
+## [Sep 15, 2024](/content/2024/09/15/README.md)
+
+### Tools
+
+*   [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
@@ -103,10 +109,6 @@ An "Awesome" list of code review resources - articles, papers, tools, etc
 
 *   [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
 
-### Tools
-
-*   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
-
 ## [May 06, 2019](/content/2019/05/06/README.md)
 
 ### Tools
@@ -193,12 +195,6 @@ An "Awesome" list of code review resources - articles, papers, tools, etc
 ### Tools
 
 *   [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
-
-## [Aug 14, 2018](/content/2018/08/14/README.md)
-
-### Tools
-
-*   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
 ## [Jul 23, 2018](/content/2018/07/23/README.md)
 

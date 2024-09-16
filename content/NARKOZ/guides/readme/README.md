@@ -79,7 +79,7 @@ coding style guides and development practices across the web.
 
 ### Sass
 
-*   [Principles of writing idiomatic Sass (⭐230)](https://github.com/anthonyshort/idiomatic-sass#readme)
+*   [Principles of writing idiomatic Sass (⭐228)](https://github.com/anthonyshort/idiomatic-sass#readme)
 *   [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 *   [Sass Guidelines](https://sass-guidelin.es/)
 
@@ -125,7 +125,7 @@ coding style guides and development practices across the web.
 
 ### Go
 
-*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐123k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ### Haskell
 
@@ -135,8 +135,8 @@ coding style guides and development practices across the web.
 
 *   [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 *   \[UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐24k)](https://github.com/rwaldron/idiomatic.js#readme)
-*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
+*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐25k)](https://github.com/rwaldron/idiomatic.js#readme)
+*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 *   [JavaScript SDK Design Guide (⭐1.4k)](https://github.com/hueitan/javascript-sdk-design#readme)
@@ -173,7 +173,7 @@ coding style guides and development practices across the web.
 
 ### Rust
 
-*   [Rust Style Guide (⭐95k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
+*   [Rust Style Guide (⭐97k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Scala
 
@@ -207,7 +207,8 @@ coding style guides and development practices across the web.
 ### RSpec
 
 *   [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
-*   [RSpec Style Guide (⭐947)](https://github.com/rubocop/rspec-style-guide#readme)
+*   [RSpec Style Guide (⭐952)](https://github.com/rubocop/rspec-style-guide#readme)
+*   [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
 
 ### Rails
 
@@ -243,7 +244,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
+*   [favicon-cheat-sheet (⭐9.9k)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
 
 ### iOS
 
@@ -265,7 +266,7 @@ coding style guides and development practices across the web.
 ### Node.js
 
 *   [Node.js Style Guide (⭐5k)](https://github.com/felixge/node-style-guide#readme)
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ### Security
 

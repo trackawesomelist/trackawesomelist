@@ -2,9 +2,32 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 2.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
+
+## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
+
+### Applications and Platforms / Data Collection
+
+*   [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
+*   [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
+
+### Applications and Platforms / Time
+
+*   [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
+
+### Applications and Platforms / Wealth
+
+*   [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
+
+### Open Source Projects / Wealth
+
+*   [HumanProgrammingInrerface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+*   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
+*   [Chronicle (⭐138)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+*   [Datasette (⭐9.2k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -18,21 +41,19 @@
 
 ### Open Source Projects / Wealth
 
-*   [Me API (⭐818)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
-*   [Bolero (⭐15)](https://github.com/bcongdon/bolero) - An extensible, personal API with custom integrations.
-*   [Memacs (⭐949)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
-*   [Syte3 (⭐44)](https://github.com/rigoneri/Syte3) - A personal website that shows your activity on social networks and more.
+*   [Me API (⭐822)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+*   [Memacs (⭐1k)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
-*   [BiomarkerDash (⭐10)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
+*   [BiomarkerDash (⭐14)](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Open Source Projects / Wealth
 
-*   [Timeliner (⭐3.5k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
-*   [TimelineBuilder (⭐322)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+*   [Timeliner (⭐3.6k)](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+*   [TimelineBuilder (⭐335)](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 
@@ -52,13 +73,9 @@
 
 ### Applications and Platforms / Wealth
 
-*   [Firefly III (⭐13k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+*   [Firefly III (⭐15k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
-
-### Websites and Resources
-
-*   [Quantified Self Institute](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
 
 ### Applications and Platforms / Fitness
 
@@ -71,18 +88,6 @@
 ### Applications and Platforms / Wealth
 
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
-
-## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
-
-### Websites and Resources
-
-*   [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
-
-## [Jul 05 - Jul 11, 2021](/content/2021/27/README.md)
-
-### Open Source Projects / Wealth
-
-*   [health-records (⭐23)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -100,10 +105,6 @@
 
 *   [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 
-### Devices and Wearables / Wealth
-
-*   [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
-
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
 ### Applications and Platforms / Heart
@@ -115,12 +116,6 @@
 ### Articles & Blogs
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
-
-## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
-
-### Applications and Platforms / Data Collection
-
-*   [LifeMetrics](https://lifemetrics.io/) - Daily questionnaires and automatically generated wellness insights (iOS).
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
@@ -152,18 +147,6 @@
 
 *   [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - A keynote by Chris Dancy ("the Most Connected Man on Earth") in which he explores how technology helped him become a better person by paying attention to the data he collected about his life.
 
-## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
-
-### Applications and Platforms / Data Collection
-
-*   [Logsit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
-
-## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
-
-### Open Source Projects / Wealth
-
-*   [Awesome Biomarkers (⭐324)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
-
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
 ### Applications and Platforms / Habits
@@ -171,35 +154,11 @@
 *   [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 *   [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
 
-## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
-
-### Websites and Resources
-
-*   [Biohack Stack](https://biohackstack.com/) - Biohacker community with "stacks" of famous scientists.
-
-## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
-
-### Open Source Projects / Wealth
-
-*   [Heedy (⭐388)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
-
-## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
-
-### Websites and Resources
-
-*   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
-
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
 *   [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
-
-## [Aug 26 - Sep 01, 2019](/content/2019/34/README.md)
-
-### Applications and Platforms / Time
-
-*   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
 
 ## [Jun 24 - Jun 30, 2019](/content/2019/25/README.md)
 
@@ -212,10 +171,6 @@
 ### Applications and Platforms / Media Consumption
 
 *   [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
-
-### Open Source Projects / Wealth
-
-*   [QS Ledger (⭐950)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -235,19 +190,12 @@
 
 *   [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 
-## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
-
-### Applications and Platforms / Aggregators & Dashboards
-
-*   [Memento Labs](https://mementolabs.io) - Personalized health and wellness action plans using wearables & A/B testing.
-
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 
 ### Applications and Platforms / Diet
 
 *   [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
 *   [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android).
-*   [Vora](https://getvora.com/) - Fasting tracker (iOS & Android).
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
@@ -284,12 +232,6 @@
 *   [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch).
 *   [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
 
-## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
-
-### Open Source Projects / Wealth
-
-*   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 
 ### Applications and Platforms / Health
@@ -306,12 +248,7 @@
 
 ### Applications and Platforms / Media Consumption
 
-*   [PhotoStats](http://www.photostats.io/) - Photo tracking with visualizations, analytics and auto-tagging using machine learning (iOS, Android).
 *   [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac).
-
-### Applications and Platforms / Sleep
-
-*   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
@@ -329,9 +266,6 @@
 
 ### Applications and Platforms / Mood
 
-*   [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
-*   [MoodNotes](http://moodnotes.thriveport.com/) - Capture your feelings with a modifiable smiling or frowning face. Exportable data. (iOS and Apple Watch).
-*   [MoodPanda](http://moodpanda.com/) - One of the oldest moodtrackers available online. Rate your mood and share to support. Exportable data. Sync and extend via API (Web, iOS, Android).
 *   [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
 *   [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
 *   [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
@@ -406,7 +340,6 @@
 
 *   [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 *   [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
-*   [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
 
 ### Applications and Platforms / Time
 
@@ -416,49 +349,23 @@
 *   [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
 *   [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
 *   [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
-*   [Moment](https://inthemoment.io/) - Track time spent on iPhone and iPad (iOS).
-
-### Applications and Platforms / Health
-
-*   [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
-*   [Symple](http://www.sympleapp.com/) - Symptom journal and health tracker (iOS).
 
 ### Applications and Platforms / Heart
 
-*   [Cardiio](http://www.cardiio.com/) - Touchless heart rate monitor (iOS).
 *   [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
-
-### Applications and Platforms / Mind & Cognition
-
-*   [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - Scientifically proven tools for the assessment of cognitive function.
-*   [Quantified Mind](http://www.quantified-mind.com/about) - Tests and experiments to quantify cognitive abilities.
 
 ### Applications and Platforms / Sleep
 
 *   [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
-*   [SleepBot](https://mysleepbot.com/) - Smart alarm and sleep tracker (iOS & Android).
 *   [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
 *   [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS).
 
-### Applications and Platforms / Tally
-
-*   [Nomie](http://nomie.io/) - Privately track events in your life (iOS & Android).
-*   [Track This For Me](https://www.trackthisfor.me/) - Multi-purpose tracking platform (Android).
-*   [Instant](http://instantapp.today/) - Track all of your daily activities automatically (iOS & Android).
-
 ### Applications and Platforms / Wealth
 
-*   [Mint](http://www.mint.com/) - Manage your money, pay your bills and track your credit score.
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
-
-## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
-
-### Research and Analysis / Wealth
-
-*   [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
+*   [Ledger (⭐5.3k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [Nov 14 - Nov 20, 2016](/content/2016/46/README.md)
 
@@ -476,7 +383,6 @@
 ### Research and Analysis / Wealth
 
 *   [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
-*   [DNA land](http://dna.land/) - DNA imputation and scientific research.
 
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
@@ -507,7 +413,6 @@
 
 *   [Quantified Self](http://quantifiedself.com/) - Official website.
 *   [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
-*   [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 *   [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 
 ### Articles & Blogs
@@ -517,7 +422,6 @@
 ### Applications and Platforms / Fitness
 
 *   [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
-*   [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 *   [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 *   [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 
@@ -544,18 +448,12 @@
 
 *   [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
 *   [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
-*   [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - Fitness trackers and watches.
-*   [Jawbone UP](https://jawbone.com/up) - Fitness trackers for a healthier you.
 *   [Withings](http://www.withings.com/) - Activity tracking and connected devices.
-*   [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - Universal activity tracking devices.
-*   [Misfit](https://misfit.com/) - Wearable tracking devices.
-*   [Pebble](https://www.pebble.com/) - Smart watches that works with your mobile device.
 *   [Wahoo](http://wahoofitness.com/) - Connected cycling, running, and fitness devices.
 *   [Hexo Skin](http://www.hexoskin.com/) - Awesome biometric shirts.
 *   [Whoop](http://whoop.com/) - Athletic performance monitoring.
 *   [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
 *   [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
-*   [Amiigo](https://amiigo.com/) - Activity and gym workout trackers.
 
 ### Research and Analysis / Wealth
 
@@ -570,5 +468,3 @@
 ### Open Source Projects / Wealth
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Quantifier (⭐40)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐150)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.

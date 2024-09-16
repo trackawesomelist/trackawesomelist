@@ -1,18 +1,149 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2024
 
-24 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [1. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Monitoring
+
+*   [Axibase Collector](https://axibase.com/docs/axibase-collector/) - Axibase Collector streams performance counters, configuration changes and lifecycle events from the Docker engine(s) into Axibase Time Series Database for roll-up dashboards and integration with upstream monitoring systems.
+
+## [2. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these organizations anything!
+
+*   [S Fox Jones (⭐1)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
+
+## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+
+### GUI
+
+*   [Clidey WhoDB (⭐784)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+
+## [4. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+
+### General
+
+*   Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [nvm-deferred (⭐0)](https://github.com/davidparsson/zsh-nvm-deferred) - Defers loading of the `nvm` oh-my-zsh plugin using [zsh-defer (⭐332)](https://github.com/romkatv/zsh-defer) to speed up shell startup.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [cryptic (⭐0)](https://github.com/thederpykrafter/cryptic.zsh-theme) - Based on [aphrodite-terminal-theme (⭐142)](https://github.com/win0err/aphrodite-terminal-theme). Includes decorators for current directory, `git` status, time, username, hostname and virtual environment.
+
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Email - Complete Solutions
+
+*   [Mox](https://www.xmox.nl/) - Complete e-mail solution with IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE and DNSSEC, reputation-based and content-based junk filtering, Internationalization (IDNA), automatic TLS with ACME and Let's Encrypt, account autoconfiguration, and webmail. ([Source Code (⭐3.5k)](https://github.com/mjl-/mox)) `MIT` `Go`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [auto-mcs](https://www.auto-mcs.com) - Cross-platform Minecraft server manager. ([Source Code (⭐122)](https://github.com/macarooni-man/auto-mcs)) `AGPL-3.0` `Python`
+
+### Software / Media Streaming - Audio Streaming
+
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - A sleek and efficient podcast downloader. ([Source Code (⭐338)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+
+### Software / Miscellaneous
+
+*   [asciinema](https://asciinema.org/) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/explore), [Source Code (⭐2.3k)](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
+*   [LubeLogger](https://lubelogger.com) - A web-based vehicle maintenance and fuel mileage tracker. ([Demo (⭐1k)](https://github.com/hargata/lubelog?tab=readme-ov-file#demo), [Source Code (⭐1k)](https://github.com/hargata/lubelog)) `MIT` `Docker/K8S/C#`
+
+### Software / Photo and Video Galleries
+
+*   [Photofield (⭐408)](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer. `MIT` `Docker/Go`
+
+### Software / Recipe Management
+
+*   [Recipya](https://recipes.musicavis.ca) - A clean, simple and powerful recipe manager your whole family will enjoy. ([Demo](https://recipes.musicavis.ca/guide/login), [Source Code (⭐174)](https://github.com/reaper47/recipya)) `GPL-3.0` `Docker/Go`
+
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Misc
+
+*   [The Web Development Glossary (⭐1)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
+
+## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+
+### Applications and Platforms / Data Collection
+
+*   [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
+*   [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
+
+### Applications and Platforms / Time
+
+*   [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
+
+### Applications and Platforms / Wealth
+
+*   [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
+
+### Open Source Projects / Wealth
+
+*   [HumanProgrammingInrerface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+*   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
+*   [Chronicle (⭐138)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+*   [Datasette (⭐9.2k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Critical Views about Generative AI
+
+*   ["AI for Good" Campaigns Are the Wrong Approach - IEEE Spectrum](https://spectrum.ieee.org/ai-for-good)
+
+### Generative AI Tools Directories
+
+*   [A.I. Productivity Tools](https://www.aiproductivitytoolkit.com/)
+
+### Courses and Educational Materials
+
+*   [Niraj-Lunavat/Artificial-Intelligence (⭐1.6k)](https://github.com/Niraj-Lunavat/Artificial-Intelligence?tab=readme-ov-file#researchers): Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
+
+### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
+
+*   [DecorAI](https://decorai.io): Generate Interior and Exterior Ideas in Seconds
+
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### IDE Extensions
+
+*   [Editor support for VS2022 (⭐85)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
+
+## [11. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+
+### Examples
+
+*   [dutrevis/spark-resources-metrics-plugin (⭐0)](https://github.com/dutrevis/spark-resources-metrics-plugin#readme) - Highlights an interactive Mermaid diagram in the Developer section, showcasing the code architecture. Has a patch-inspired logo, useful badges (CI, coverage, version links), and a concise ToC. Installation section is well-organized with expandable blocks for different scenarios. Usage section covers current functionalities and examples, also with expandable blocks. Includes technology badges, and also prior art and next steps sections.
+
+### Presentations
+
+*   ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8\&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL\&index=31) - *Jason A. Crome* at *The Perl and Raku Conference* in 2024 in Las Vegas, Nevada, USA.
+
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [fantomas](https://fsprojects.github.io/fantomas/) — F# source code formatter.
+*   [ionide-analyzers](https://ionide.io/ionide-analyzers/) — A collection of F# analyzers, built with the FSharp.Analyzers.SDK.
+
+## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
 *   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 
-## [2. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -22,7 +153,7 @@
 
 *   [php-vitelinker (⭐0)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
@@ -34,18 +165,16 @@
     *   [eclipse-zenoh-flow/zenoh-flow (⭐87)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
     *   [eclipse-zenoh/zenoh (⭐1.4k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
 *   [Gravitee.io API Management (⭐172) (⭐172)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐841) (⭐841)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### Projects / API Design
 
 *   [OpenAPI Diff (⭐802) (⭐802)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Style Validator (⭐202) (⭐202)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-*   [Zally (⭐899) (⭐899)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
@@ -54,23 +183,6 @@
 ### Projects / API Gateway
 
 *   [Apache ShenYu (⭐8.4k) (⭐8.4k)](https://github.com/apache/shenyu) - A Java native API Gateway for service proxy, protocol conversion and API governance.
-
-### Projects / API Testing
-
-*   MQ clients
-    *   [JMSToolBox (⭐200) (⭐200)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
-    *   [kcat (⭐5.3k) (⭐5.4k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-    *   [MQTT Explorer (⭐2.9k) (⭐2.9k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
-    *   [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
-    *   [Service Bus Explorer (⭐2k) (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐152) (⭐152)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐626) (⭐627)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ETL
 
@@ -81,21 +193,21 @@
 *   [Bonita (⭐151) (⭐151)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 *   [Elsa Core (⭐6.2k) (⭐6.2k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
-### Resources / Data Formats
-
-*   [YAML (⭐339) (⭐339)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
 ### Resources / Structure and Validation
 
 *   [JSON Schema (⭐3.6k) (⭐3.6k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [5. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [17. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Customization
 
 *   [oh-my-bash (⭐5.8k)](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 
-## [6. GoBooks](/content/dariubs/GoBooks/week/README.md)
+### Shell Script Development
+
+*   [lobash (⭐364)](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
+
+## [18. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF) / Why does this book look so different?
 
@@ -108,25 +220,19 @@
 *   Use concurrency to design efficient software
 *   Use Go tools to simplify development and improve your code
 
-## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### PHP / Drupal
-
-*   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
-
-## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [19. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [Artie](https://www.artie.com/) - Real-time data ingestion tool leveraging change data capture.
 
-## [9. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [20. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Microsoft Azure OpenAI relevant LLM Framework** / LLM Integration Frameworks
 
 *   [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐9.1k)](https://github.com/microsoft/promptflow)
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
@@ -142,7 +248,7 @@
 
 *   [NVIDIA NMOS Library (⭐4)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
-## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -156,13 +262,13 @@
 
 *   [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [dns-client (⭐15)](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Spreadsheet / Runner
 
@@ -176,19 +282,50 @@
 
 *   [JS-PyTorch (⭐1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
-## [14. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Dependency Injection
+
+*   [traversals/kapsule (⭐164)](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin.
+
+## [26. Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/week/README.md)
+
+### Development / Docs
+
+*   [Laravel Model Doc Generator (⭐22)](https://github.com/romanzipp/Laravel-Model-Doc) - Generate docs for models for easy autocomplete
+*   [Laravel IDE Helper (⭐14k)](https://github.com/barryvdh/laravel-ide-helper) - Generate docs for models for easy autocomplete
+
+### Development / Quality Check
+
+*   [PHP CS Fixer (⭐13k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+    *   [Laravel Pint - code style fixer for minimalists](https://laravel.com/docs/11.x/pint)
+*   [PHP Code Sniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer)
+    *   [PHP Laravel Code Sniffer Rule (⭐38)](https://github.com/PatricNox/laravel-phpcs)
+*   [PHP PSALM (⭐5.5k)](https://github.com/vimeo/psalm)
+    *   [PSALM Laravel plugin (⭐301)](https://github.com/psalm/psalm-plugin-laravel)
+
+### Development / Generator
+
+*   [Laravel Shift Blueprint Generator (⭐2.8k)](https://github.com/laravel-shift/blueprint)
+
+### Development / Starter Kits
+
+*   [Laravel Starter with Base Configuration (⭐6)](https://github.com/lightszentip/laravel-starter-base-app)
+*   [Laravel Starter with Jetstream (⭐6)](https://github.com/lightszentip/laravel-starter-base-app/tree/jetstream)
+
+## [27. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Mathcheap](https://mathcheap.xyz)
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Utilities
 
 *   [PubSubx (⭐1)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -214,19 +351,23 @@
 
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Note-taking
+
+*   [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12)
 
 ### Developer Tools / Databases
 
 *   [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 
-## [18. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [31. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Gallery / PGFPlots
 
 *   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -244,7 +385,11 @@
 
 *   [OXY2DEV/helpview.nvim (⭐135)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 
-## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+### Preconfigured Configuration / Diagnostics
+
+*   [adoyle-h/one.nvim (⭐139)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
+
+## [33. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -262,108 +407,32 @@
 
 *   [Brick Math (⭐1.8k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
-### Libraries/Frameworks / Dependency Injection
+### APIs, Data, and ML
 
-*   [traversals/kapsule (⭐164)](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin.
+*   [JSON Serve](https://jsonserve.com/) — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.
 
-### Libraries/Frameworks / Extensions
+### Tools for Teams and Collaboration
 
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐292)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
-
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐40)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐34)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐178)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐86)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐564)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+*   [Revolt.chat](https://revolt.chat/) — An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
 
 ### Authentication, Authorization, and User Management
 
 *   [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
 
+### Education and Career Development
+
+*   [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)
+
 ### Email
 
 *   [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
 *   [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
+
+### Feature Toggles Management Platforms
+
+*   [Abby](https://www.tryabby.com) - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -377,7 +446,7 @@
 
 *   [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -391,6 +460,10 @@
 
 *   [ng-flexbot (⭐3)](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-env-builder (⭐1)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
+
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-three (⭐169)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐101k)](https://github.com/mrdoob/three.js).
@@ -403,9 +476,16 @@
 
 *   [fast-facts/ng-update (⭐4)](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [zingchart-angular (⭐2)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
+*   [unovis (⭐2.1k)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [revogrid (⭐2.7k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+*   [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid (⭐87)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
+*   [ngx-panemu-table (⭐6)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -415,6 +495,10 @@
 
 *   [ngx-ellipsis (⭐96)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
 
+### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-custom-material-file-input (⭐7)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
+
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-vest-forms (⭐43)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
@@ -423,9 +507,22 @@
 
 *   [ng-azure-maps (⭐16)](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
 
+### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-redux (⭐7)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
+
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [signaldb (⭐240)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
+
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [po-angular (⭐902)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐4.5k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [ngxtw (⭐1)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -434,8 +531,9 @@
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+*   [ngx-signal-store-query (⭐2)](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 
-## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Actions / Setup Actions
 
@@ -464,4 +562,5 @@
 
 ---
 
+- Prev: [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 - Next: [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)

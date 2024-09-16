@@ -2,9 +2,15 @@
 
 An "Awesome" list of code review resources - articles, papers, tools, etc
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.1K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.3K · 🏷️ Work
 
 [ [Daily](/content/joho/awesome-code-review/README.md) / Weekly / [Overview](/content/joho/awesome-code-review/readme/README.md) ]
+
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Tools
+
+*   [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
@@ -99,10 +105,6 @@ An "Awesome" list of code review resources - articles, papers, tools, etc
 
 *   [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) Practical tips for the submitter and the reviewer to make effective code reviews.
 
-### Tools
-
-*   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
-
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 
 ### Tools
@@ -182,7 +184,6 @@ An "Awesome" list of code review resources - articles, papers, tools, etc
 
 *   [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 *   [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
-*   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
 ## [Jul 23 - Jul 29, 2018](/content/2018/30/README.md)
 

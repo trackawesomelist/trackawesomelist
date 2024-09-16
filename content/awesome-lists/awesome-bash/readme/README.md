@@ -12,7 +12,7 @@ A curated list of delightful Bash scripts and resources.
 
 > A curated list of delightful Bash scripts and resources.
 
-In addition to this list, you should read the list [awesome-shell (⭐32k)](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish (⭐4.1k)](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome (⭐320k)](https://github.com/sindresorhus/awesome).
+In addition to this list, you should read the list [awesome-shell (⭐32k)](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish (⭐4.1k)](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome (⭐323k)](https://github.com/sindresorhus/awesome).
 
 ## Contents <!-- omit in toc -->
 
@@ -173,6 +173,7 @@ In addition to this list, you should read the list [awesome-shell (⭐32k)](http
 *   [bash-modules (⭐127)](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 *   [bash\_unit (⭐595)](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
 *   [bashunit (⭐295)](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
+*   [lobash (⭐364)](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 *   [mo (⭐561)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 *   [semver\_bash (⭐246)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 *   [shellcheck (⭐36k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.

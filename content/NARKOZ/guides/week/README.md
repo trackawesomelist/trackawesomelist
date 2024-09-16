@@ -6,6 +6,12 @@ Design and development guides
 
 [ [Daily](/content/NARKOZ/guides/README.md) / Weekly / [Overview](/content/NARKOZ/guides/readme/README.md) ]
 
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Frameworks / RSpec
+
+*   [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
+
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
 ### Styling / CSS
@@ -32,7 +38,7 @@ Design and development guides
 
 ### Programming Languages / Rust
 
-*   [Rust Style Guide (⭐95k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
+*   [Rust Style Guide (⭐97k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Programming Languages / Swift
 
@@ -41,7 +47,7 @@ Design and development guides
 ### Frameworks / RSpec
 
 *   [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
-*   [RSpec Style Guide (⭐947)](https://github.com/rubocop/rspec-style-guide#readme)
+*   [RSpec Style Guide (⭐952)](https://github.com/rubocop/rspec-style-guide#readme)
 
 ### Frameworks / Rails
 
@@ -57,7 +63,7 @@ Design and development guides
 
 ### Other / Favicon
 
-*   [favicon-cheat-sheet (⭐9.8k)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
+*   [favicon-cheat-sheet (⭐9.9k)](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
 
 ### Other / Writing
 
@@ -90,7 +96,7 @@ Design and development guides
 
 ### Other / Node.js
 
-*   [Node.js Best Practices (⭐97k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
@@ -279,7 +285,7 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐24k)](https://github.com/rwaldron/idiomatic.js#readme)
+*   [Principles of Writing Consistent, Idiomatic JavaScript (⭐25k)](https://github.com/rwaldron/idiomatic.js#readme)
 
 ### Frameworks / AngularJS
 
@@ -297,7 +303,7 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐143k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
 *   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
@@ -325,7 +331,7 @@ Design and development guides
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐121k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐123k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [Jan 12 - Jan 18, 2015](/content/2015/2/README.md)
 
@@ -336,7 +342,7 @@ Design and development guides
 
 ### Styling / Sass
 
-*   [Principles of writing idiomatic Sass (⭐230)](https://github.com/anthonyshort/idiomatic-sass#readme)
+*   [Principles of writing idiomatic Sass (⭐228)](https://github.com/anthonyshort/idiomatic-sass#readme)
 
 ### Markup / HTML
 

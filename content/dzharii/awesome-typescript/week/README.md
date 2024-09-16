@@ -6,6 +6,16 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ [Daily](/content/dzharii/awesome-typescript/README.md) / Weekly / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Design patterns / Chrome Extensions
+
+*   :octocat: [Real World Design Patterns (⭐67)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [PigmentTS (⭐3)](https://github.com/Jay-Karia/pigment-ts) - A lightweight utility for color manipulation and conversion.
+
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### Standalone apps / Playground
@@ -22,7 +32,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Standalone apps / Playground
 
-*   :octocat: [MemFree (⭐255)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   :octocat: [MemFree (⭐284)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -35,7 +45,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [nocodb (⭐44k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb (⭐47k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ### Runtime / Playground
 
@@ -164,7 +174,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Validation / Playground
 
-*   [valibot (⭐5.8k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐5.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -187,7 +197,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐471)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐473)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -601,7 +611,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   :octocat: [Prisma (⭐39k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐411)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
-*   :octocat: [tsParticles (⭐7.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐7.5k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -635,7 +645,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 *   [zod (⭐33k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.6k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.9k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
@@ -1005,7 +1015,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐96k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [Jun 19 - Jun 25, 2017](/content/2017/25/README.md)
 

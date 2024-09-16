@@ -6,6 +6,13 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Sep 15, 2024](/content/2024/09/15/README.md)
+
+### Internet and Networking
+
+*   [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - Youtube Client
+
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
 ### System and Customization
@@ -28,7 +35,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Productivity and Time
 
-*   [Newelle (⭐114)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
+*   [Newelle (⭐125)](https://github.com/qwersyk/Newelle) - Virtual assistant (local, based on GPT4All) that interacts with the system by running shell commands and execute Python code.
 
 ### Development and Design
 
@@ -54,7 +61,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Discord GNOME Theme (⭐10)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
+*   [Discord GNOME Theme (⭐13)](https://github.com/ricewind012/discord-gnome-theme) - A GNOME theme for Discord, following the Adwaita style & GNOME Human Interface Guidelines.
 
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
@@ -78,7 +85,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Luminance (⭐92)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
+*   [Luminance (⭐95)](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
 *   [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
@@ -260,7 +267,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Obsidian (⭐187)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
+*   [Obsidian (⭐189)](https://github.com/madmaxms/iconpack-obsidian) - Continuation of the famous Faenza theme.
 
 ### Cursors / Skeumorphic Icons
 
@@ -305,26 +312,26 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Thunderbird GNOME Theme (⭐277)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+*   [Thunderbird GNOME Theme (⭐286)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 
 ## [Jan 09, 2024](/content/2024/01/09/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
 *   [Adwaita for Steam (⭐1.1k)](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
-*   [Adwaita theme for VS Code (⭐142)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
+*   [Adwaita theme for VS Code (⭐144)](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 
 ## [Jan 07, 2024](/content/2024/01/07/README.md)
 
 ### Themes for non-GTK apps / Skeumorphic Icons
 
-*   [Obsidian Adwaita Theme (⭐103)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
+*   [Obsidian Adwaita Theme (⭐105)](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## [Dec 29, 2023](/content/2023/12/29/README.md)
 
 ### Utilities
 
-*   [Lan Mouse (⭐2.2k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
+*   [Lan Mouse (⭐2.4k)](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
@@ -346,7 +353,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Upstream Style
 
-*   [MoreWaita (⭐488)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+*   [MoreWaita (⭐500)](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
@@ -358,7 +365,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Development and Design
 
-*   [Escambo (⭐139)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+*   [Escambo (⭐140)](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 
 ## [Apr 27, 2023](/content/2023/04/27/README.md)
 
@@ -380,7 +387,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### System and Customization
 
-*   [Dynamic Gnome Wallpapers (⭐354)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+*   [Dynamic Gnome Wallpapers (⭐362)](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
 
 ## [May 05, 2021](/content/2021/05/05/README.md)
 
@@ -410,7 +417,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Third-party Apps Plugins / Design Tooling
 
-*   [Nautilus Terminal (⭐320)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
+*   [Nautilus Terminal (⭐319)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## [Sep 21, 2019](/content/2019/09/21/README.md)
 
@@ -446,7 +453,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Cursors / Skeumorphic Icons
 
-*   [Bibata (⭐1.9k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+*   [Bibata (⭐2k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐1.1k)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## [Sep 25, 2017](/content/2017/09/25/README.md)
@@ -465,7 +472,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Homogeneous Icons
 
-*   [Numix Circle (⭐880)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+*   [Numix Circle (⭐882)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 *   [Numix Square (⭐162)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 ## [Aug 16, 2017](/content/2017/08/16/README.md)
@@ -481,4 +488,4 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ### Icons / Skeumorphic Icons
 
-*   [Elementary XFCE (⭐270)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
+*   [Elementary XFCE (⭐271)](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.

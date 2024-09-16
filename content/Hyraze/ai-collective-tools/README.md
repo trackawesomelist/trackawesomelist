@@ -2,9 +2,40 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 83 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 99 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Sep 15, 2024](/content/2024/09/15/README.md)
+
+### Audio Editing
+
+*   [Diktatorial Suite](https://diktatorial.com) - Audio mastering and music enhancer with text prompts. `#freemium`
+
+### Education
+
+*   [Text With History](https://textwith.me/history/) - Chat with famous politicians, scientists, artists, world leaders and more. Also includes history tutors. `#freemium`
+*   [Text With Authors](https://textwith.me/authors/) - Chat with famous authors, poets, playwrights, philosophers and more from classical literature. `#freemium`
+
+### HealthCare
+
+*   [Enlitic](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
+
+### Image Generator
+
+*   [GenPictures](https://www.getconverse.com/pics) - Create stunning AI art, images, and pictures in seconds for free with GenPictures. Turn your text into visual masterpieces effortlessly. `freemium`
+
+### Productivity
+
+*   [Uizard](https://uizard.io) - With this AI tool you can create a beautiful website and app `paid`
+
+### Travel
+
+*   [Famxplor](https://famxplor.com/) - Find activities for your family vacations worldwide. `#paid`
+
+### Video Generator
+
+*   [Syllaby.io](https://ai.syllaby.io) - AI Video Script Generator, Syllaby shows you how to create a content strategy for social media in minute `paid`
 
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 
@@ -18,7 +49,7 @@ Explore a curated selection of AI tools and resources
 
 ### Developer
 
-*   [Floom (⭐19)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐34)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 ### Models
 
@@ -338,7 +369,7 @@ Explore a curated selection of AI tools and resources
 
 ### Models
 
-*   [Qwen (⭐11k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐13k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 
@@ -446,7 +477,7 @@ Explore a curated selection of AI tools and resources
 *   [AstroGPT](https://vedicastrogpt.com/) - AstroGPT is a personalized astrology service that provides expert guidance for love, career, and more. `#free`
 *   [Gita GPT](https://www.gitagpt.in/) - Unlock the Power of AI with the Bhagavad Gita `#free`
 *   [Tarteel](https://www.tarteel.ai/) - Tarteel is an AI-powered Quran companion that helps users improve their recitation and memorization skills by providing real-time feedback, highlighting words, offering translations, and customizable challenges. `#paid`
-*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#paid`
+*   [Text With Jesus](https://textwith.me/jesus) - Enlightening conversations and a deeper connection to revered biblical figures. `#freemium`
 
 ### Travel
 
@@ -664,7 +695,6 @@ Explore a curated selection of AI tools and resources
 
 ### HealthCare
 
-*   [Enlitic ](https://enlitic.com/) - an AI-driven application that lets you transform big data into relevant insights that can help you make more accurate, strategic, and timely decisions. `#paid`
 *   [Viz.AI](https://www.viz.ai/) - Offers a wide range of features to help healthcare professionals run their operations more efficiently and accurately. `#paid`
 
 ### Human Resources

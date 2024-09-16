@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Table of Contents / Code Quality
+
+*   [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Table of Contents / Micro Frameworks
@@ -28,7 +34,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Testing
 
-*   [PHPUnit Polyfills (⭐170)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+*   [PHPUnit Polyfills (⭐171)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 
 ### Table of Contents / Documentation
 
@@ -36,7 +42,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Code Quality
 
-*   [PHP CodeSniffer (⭐857)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+*   [PHP CodeSniffer (⭐880)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -70,10 +76,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / LLMs
 
-*   [Instructor for PHP (⭐157)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-*   [LLPhant (⭐742)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-*   [OpenAI Client (⭐4.7k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-*   [OpenAI Client for Laravel (⭐2.5k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+*   [Instructor for PHP (⭐174)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [LLPhant (⭐768)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+*   [OpenAI Client (⭐4.8k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [OpenAI Client for Laravel (⭐2.6k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 *   [PHP Mistral AI SDK (⭐3)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
@@ -212,7 +218,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Magic Number Detector (⭐549)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐550)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 
 ### Table of Contents / Event
 
@@ -488,7 +494,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Essence (⭐769)](https://github.com/essence/essence) - A library for extracting web media.
 *   [Embera (⭐334)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐279)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.6k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [Shiki PHP (⭐279)](https://github.com/spatie/shiki-php) - A [Shiki (⭐9.7k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
 *   [VObject (⭐569)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
@@ -843,7 +849,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Static Analysis
 
-*   [PHP Architecture Tester (⭐1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
+*   [PHP Architecture Tester (⭐1.1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 
 ### Configuration / Miscellaneous
 
@@ -1671,7 +1677,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐7k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐7.1k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
 
@@ -1804,7 +1810,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Code Analysis
 
-*   [PHP Semantic Versioning Checker (⭐425)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+*   [PHP Semantic Versioning Checker (⭐426)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 
 ## [Mar 09 - Mar 15, 2015](/content/2015/10/README.md)
 

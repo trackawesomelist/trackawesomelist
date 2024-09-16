@@ -147,6 +147,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Retrieval Augmented Generation or Long-Context LLMs?](https://arxiv.org/abs/2407.16833): Long-Context consistently outperforms RAG in terms of average performance. However, RAG's significantly lower cost remains a distinct advantage. \[23 Jul 2024]
     *   [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921) \[15 Aug 2024]
     *   [Adaptive-RAG](https://arxiv.org/abs/2403.14403): Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity [git (⭐145)](https://github.com/starsuzi/Adaptive-RAG) \[21 Mar 2024]
+    *   [OP-RAG: Order-preserve RAG](https://arxiv.org/abs/2409.01666): Unlike traditional RAG, which sorts retrieved chunks by relevance, we keep them in their original order from the text.  \[3 Sep 2024]
 
     </details>
 
@@ -162,7 +163,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     2.  Embeddings fine-tuning: Fine-tune embeddings to domain specifics, adjust them according to context, and refresh them periodically to capture evolving semantics.
     3.  Retrieval optimization: Refine chunking, embed metadata, use query routing, multi-vector retrieval, re-ranking, hybrid search, recursive retrieval, query engine, [HyDE](https://arxiv.org/abs/2212.10496) \[20 Dec 2022], and vector search algorithms to improve retrieval efficiency and relevance.
     4.  Synthesis techniques: Query transformations, prompt templating, prompt conditioning, function calling, and fine-tuning the generator to refine the generation step.
-    *   HyDE: Implemented in [LangChain: HypotheticalDocumentEmbedder (⭐91k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
+    *   HyDE: Implemented in [LangChain: HypotheticalDocumentEmbedder (⭐92k)](https://github.com/langchain-ai/langchain/blob/master/cookbook/hypothetical_document_embeddings.ipynb). A query generates hypothetical documents, which are then embedded and retrieved to provide the most relevant results. `query -> generate n hypothetical documents -> documents embedding - (avg of embeddings) -> retrieve -> final result.` [ref](https://www.jiang.jp/posts/20230510_hyde_detailed/index.html)
 *   Demystifying Advanced RAG Pipelines: An LLM-powered advanced RAG pipeline built from scratch [git (⭐780)](https://github.com/pchunduri6/rag-demystified) \[19 Oct 2023]
 *   [9 Effective Techniques To Boost Retrieval Augmented Generation (RAG) Systems](https://towardsdatascience.com/9-effective-techniques-to-boost-retrieval-augmented-generation-rag-systems-210ace375049) [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/9-effective-rag-techniques.png): ReRank, Prompt Compression, Hypothetical Document Embedding (HyDE), Query Rewrite and Expansion, Enhance Data Quality, Optimize Index Structure, Add Metadata, Align Query with Documents, Mixed Retrieval (Hybrid Search) \[2 Jan 2024]
 *   [cite](https://twitter.com/yi_ding/status/1721728060876300461) \[7 Nov 2023] `OpenAI has put together a pretty good roadmap for building a production RAG system.` Naive RAG -> Tune Chunks -> Rerank & Classify -> Prompt Engineering. In `llama_index`... [Youtube](https://www.youtube.com/watch?v=ahnGLM-RC1Y)  <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/oai-rag-success-story.jpg" width="500">
@@ -201,25 +202,25 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
         *   [GraphRAG Implementation with LlamaIndex (⭐35k)](https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/cookbooks/GraphRAG_v1.ipynb) \[15 Jul 2024]
         *   ["From Local to Global" GraphRAG with Neo4j and LangChain](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/) \[09 Jul 2024]
     *   [Learn RAG with LangChain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
-    *   [Advanced RAG Techniques (⭐3.6k)](https://github.com/NirDiamant/RAG_Techniques): Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) \[Jul 2024]
+    *   [Advanced RAG Techniques (⭐5.9k)](https://github.com/NirDiamant/RAG_Techniques): Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) \[Jul 2024]
     *   [A Practical Approach to Retrieval Augmented Generation (RAG) Systems (⭐15)](https://github.com/mallahyari/rag-ebook): Online book \[Dec 2023]
 *   RAG Application / Framework
     *   [RAG capabilities of LlamaIndex to QA about SEC 10-K & 10-Q documents (⭐2.3k)](https://github.com/run-llama/sec-insights): A real world full-stack application using LlamaIndex \[Sep 2023]
     *   [RAGxplorer (⭐1.1k)](https://github.com/gabrielchua/RAGxplorer): Visualizing document chunks and the queries in the embedding space. \[Jan 2024]
-    *   [PrivateGPT (⭐53k)](https://github.com/imartinez/privateGPT): 100% privately, no data leaks 1. The API is built using FastAPI and follows OpenAI's API scheme. 2. The RAG pipeline is based on LlamaIndex. \[May 2023]
+    *   [PrivateGPT (⭐54k)](https://github.com/imartinez/privateGPT): 100% privately, no data leaks 1. The API is built using FastAPI and follows OpenAI's API scheme. 2. The RAG pipeline is based on LlamaIndex. \[May 2023]
     *   [Danswer (⭐10k)](https://github.com/danswer-ai/danswer): Ask Questions in natural language and get Answers backed by private sources: Slack, GitHub, Confluence, etc. \[Apr 2023]
-    *   [Verba](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/verba.weaviate.io) Retrieval Augmented Generation (RAG) chatbot powered by Weaviate [git (⭐5.9k)](https://github.com/weaviate/Verba) \[Jul 2023]
+    *   [Verba](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/verba.weaviate.io) Retrieval Augmented Generation (RAG) chatbot powered by Weaviate [git (⭐6k)](https://github.com/weaviate/Verba) \[Jul 2023]
     *   [llm-answer-engine (⭐4.5k)](https://github.com/developersdigest/llm-answer-engine): Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, LangChain, OpenAI, Brave & Serper \[Mar 2024]
     *   [turboseek (⭐827)](https://github.com/Nutlope/turboseek): An AI search engine inspired by Perplexity \[May 2024]
     *   [quivr (⭐36k)](https://github.com/QuivrHQ/quivr): A personal productivity assistant (RAG). Chat with your docs (PDF, CSV, ...) \[May 2023]
     *   [RAGApp](https://github.com/ragapp): Agentic RAG. custom GPTs, but deployable in your own cloud infrastructure using Docker. \[Apr 2024]
     *   [Cognita (⭐3.1k)](https://github.com/truefoundry/cognita): RAG (Retrieval Augmented Generation) Framework for building modular, open source applications \[Jul 2023]
-    *   Open Source AI Searches: [Perplexica (⭐13k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.4k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.6k)](https://github.com/neuml/txtai) / [Typesense (⭐20k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.8k)](https://github.com/miurla/morphic)
+    *   Open Source AI Searches: [Perplexica (⭐13k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.4k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.7k)](https://github.com/neuml/txtai) / [Typesense (⭐20k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.8k)](https://github.com/miurla/morphic)
     *   [AutoRAG (⭐1.3k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
     *   [RAGflow (⭐16k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
     *   [MindSearch (⭐4.4k)](https://github.com/InternLM/MindSearch): an open-source AI Search Engine Framework \[Jul 2024]
     *   [RAGFoundry (⭐453)](https://github.com/IntelLabs/RAGFoundry): a library designed to improve LLMs ability to use external information by fine-tuning models on specially created RAG-augmented datasets. \[5 Aug 2024]
-    *   [Haystack (⭐15k)](https://github.com/deepset-ai/haystack): LLM orchestration framework to build customizable, production-ready LLM applications. \[5 May 2020]
+    *   [Haystack (⭐17k)](https://github.com/deepset-ai/haystack): LLM orchestration framework to build customizable, production-ready LLM applications. \[5 May 2020]
     *   [RAGChecker](https://arxiv.org/abs/2408.08067): A Fine-grained Framework For Diagnosing RAG [git (⭐332)](https://github.com/amazon-science/RAGChecker) \[15 Aug 2024]
     *   [HybridRAG](https://arxiv.org/abs/2408.04948): Integrating VectorRAG and GraphRAG with financial earnings call transcripts in Q\&A format. \[9 Aug 2024]
     *   [MedGraphRAG](https://arxiv.org/abs/2408.04187): MedGraphRAG outperforms the previous SOTA model, [Medprompt](https://arxiv.org/abs/2311.16452), by 1.1%. [git (⭐100)](https://github.com/medicinetoken/medical-graph-rag) \[8 Aug 2024]
@@ -334,7 +335,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   [Redis extension for vector search, RedisVL (⭐203)](https://github.com/RedisVentures/redisvl): Redis Vector Library (RedisVL) \[Nov 2022]
 *   [A SQLite extension for efficient vector search, based on Faiss! (⭐1.7k)](https://github.com/asg017/sqlite-vss) \[Jan 2023]
 *   [pgvector (⭐12k)](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres \[Apr 2021] / [pgvectorscale (⭐936)](https://github.com/timescale/pgvectorscale): 75% cheaper than pinecone \[Jul 2023]
-*   [lancedb (⭐4k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
+*   [lancedb (⭐4.1k)](https://github.com/lancedb/lancedb): LanceDB's core is written in Rust and is built using Lance, an open-source columnar format.  \[Feb 2023]
 *   [A Comprehensive Survey on Vector Database](https://arxiv.org/abs/2310.11703): Categorizes search algorithms by their approach, such as hash-based, tree-based, graph-based, and quantization-based. \[18 Oct 2023]
 
 #### **Vector Database Options for Azure**
@@ -372,11 +373,9 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 #### LLM Integration Frameworks
 
-1.  [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/) (Feb 2023): An open-source SDK for integrating AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages such as C# and Python. It's an LLM orchestrator, similar to LangChain. / [GitHub (⭐21k)](https://github.com/microsoft/semantic-kernel)
+1.  [Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/) (Feb 2023): An open-source SDK for integrating AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages such as C# and Python. It's an LLM orchestrator, similar to LangChain. / [git (⭐21k)](https://github.com/microsoft/semantic-kernel)
 2.  [Kernel Memory (⭐1.5k)](https://github.com/microsoft/kernel-memory) (Jul 2023): An open-source service and plugin for efficient dataset indexing through custom continuous data hybrid pipelines.
-3.  [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat) (Apr 2023): A tool that replaces prompt engineering with schema engineering, designed to build natural language interfaces using types. / [GitHub (⭐8.1k)](https://github.com/microsoft/Typechat)
-4.  [AI Central (⭐77)](https://github.com/microsoft/AICentral) (Oct 2023): An AI Control Center for monitoring, authenticating, and providing resilient access to multiple OpenAI services.
-5.  [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [Reference](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [GitHub (⭐9.1k)](https://github.com/microsoft/promptflow)
+3.  [Azure ML Prompt Flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/overview-what-is-prompt-flow) (Jun 2023): A visual designer for prompt crafting using Jinja as a prompt template language. / [ref](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harness-the-power-of-large-language-models-with-azure-machine/ba-p/3828459) / [git (⭐9.1k)](https://github.com/microsoft/promptflow)
 
 *   A Memory in Semantic Kernel vs Kernel Memory (FKA. Semantic Memory (SM)): Kernel Memory is designed to efficiently handle large datasets and extended conversations. Deploying the memory pipeline as a separate service can be beneficial when dealing with large documents or long bot conversations. [ref (⭐2k)](https://github.com/microsoft/chat-copilot/tree/main/memorypipeline)
 
@@ -384,28 +383,30 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 1.  [Prompt Engine (⭐2.5k)](https://github.com/microsoft/prompt-engine) (Jun 2022): A tool for crafting prompts for large language models in Python. / [Python (⭐204)](https://github.com/microsoft/prompt-engine-py)
 2.  [PromptBench (⭐2.3k)](https://github.com/microsoft/promptbench) (Jun 2023): A unified evaluation framework for large language models.
-3.  [SAMMO (⭐309)](https://github.com/microsoft/sammo) (Apr 2024): A general-purpose framework for prompt optimization. / [Reference](https://www.microsoft.com/en-us/research/blog/sammo-a-general-purpose-framework-for-prompt-optimization/)
+3.  [SAMMO (⭐309)](https://github.com/microsoft/sammo) (Apr 2024): A general-purpose framework for prompt optimization. / [ref](https://www.microsoft.com/en-us/research/blog/sammo-a-general-purpose-framework-for-prompt-optimization/)
 4.  [Prompty (⭐353)](https://github.com/microsoft/prompty) (Apr 2024): A template language for integrating prompts with LLMs and frameworks, enhancing prompt management and evaluation.
 5.  [guidance (⭐19k)](https://github.com/microsoft/guidance) (Nov 2022): A domain-specific language (DSL) for controlling large language models, focusing on model interaction and implementing the "Chain of Thought" technique.
-6.  [LMOps (⭐3.5k)](https://github.com/microsoft/LMOps) (Dec 2022): A toolkit for improving text prompts used in generative AI models, including tools like Promptist for text-to-image generation and Structured Prompting.
+6.  [LMOps (⭐3.6k)](https://github.com/microsoft/LMOps) (Dec 2022): A toolkit for improving text prompts used in generative AI models, including tools like Promptist for text-to-image generation and Structured Prompting.
 7.  [LLMLingua (⭐4.4k)](https://github.com/microsoft/LLMLingua) (Jul 2023): A tool for compressing prompts and KV-Cache, achieving up to 20x compression with minimal performance loss. LLMLingua-2 was released in Mar 2024.
+8.  [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat) (Apr 2023): A tool that replaces prompt engineering with schema engineering, designed to build natural language interfaces using types. / [git (⭐8.1k)](https://github.com/microsoft/Typechat)
 
 #### Agent Frameworks
 
 1.  [JARVIS (⭐24k)](https://github.com/microsoft/JARVIS) (Mar 2023): An interface for LLMs to connect numerous AI models for solving complex AI tasks.
-2.  [Autogen (⭐30k)](https://github.com/microsoft/autogen) (Mar 2023): A customizable and conversable agent framework. / [Reference](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) / [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) (June 2024)
+2.  [Autogen (⭐31k)](https://github.com/microsoft/autogen) (Mar 2023): A customizable and conversable agent framework. / [ref](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) / [Autogen Studio](https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/) (June 2024)
 3.  [TaskWeaver (⭐5.2k)](https://github.com/microsoft/TaskWeaver) (Sep 2023): A code-first agent framework for converting natural language requests into executable code with support for rich data structures and domain-adapted planning.
 4.  [UFO (⭐7.5k)](https://github.com/microsoft/UFO) (Mar 2024): A UI-focused agent for Windows OS interaction.
-5.  [Semantic Workbench (⭐37)](https://github.com/microsoft/semanticworkbench) (Aug 2024): A development tool for creating intelligent agents. / [Reference](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695)
+5.  [Semantic Workbench (⭐42)](https://github.com/microsoft/semanticworkbench) (Aug 2024): A development tool for creating intelligent agents. / [ref](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/introducing-semantic-workbench-your-gateway-to-agentic-ai/ba-p/4212695)
 
 #### Deep learning
 
 1.  [DeepSpeed (⭐35k)](https://github.com/microsoft/DeepSpeed) (May 2020): A deep learning optimization library for easy, efficient, and effective distributed training and inference, featuring the Zero Redundancy Optimizer.
 2.  [FLAML (⭐3.8k)](https://github.com/microsoft/FLAML) (Dec 2020): A lightweight Python library for efficient automation of machine learning and AI operations, offering interfaces for AutoGen, AutoML, and hyperparameter tuning.
 
-#### Risk Identification
+#### Risk Identification & Ops
 
 1.  [PyRIT (⭐1.7k)](https://github.com/Azure/PyRIT) (Dec 2023): Python Risk Identification Tool for generative AI, focusing on LLM robustness against issues like hallucination, bias, and harassment.
+2.  [AI Central (⭐77)](https://github.com/microsoft/AICentral) (Oct 2023): An AI Control Center for monitoring, authenticating, and providing resilient access to multiple OpenAI services.
 
 #### Data processing
 
@@ -542,7 +543,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 |            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-architecture-csharp2.png" alt="embeddin_azure_csharp" width="200"/>           |         <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen.png" alt="gpt-cosmos" width="200"/>         |
 |                                      [Azure Video Indexer demo](https://aka.ms/viopenaidemo) Azure Video Indexer + OpenAI \[Apr 2023]                                     |        [Miyagi (⭐714)](https://github.com/Azure-Samples/miyagi) Integration demonstrate for multiple langchain libraries \[Feb 2023]       |
 |                  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-videoindexer.png" alt="demo-videoindexer" width="200"/>                 |            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/wip-azure.png" alt="miyagi" width="200"/>           |
-|             [ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) (⭐5.8k)](https://github.com/Azure-Samples/azure-search-openai-demo)🏆 \[Feb 2023]             | [Chat with your data - Solution accelerator (⭐727)](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) \[Jun 2023] |
+|             [ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) (⭐5.8k)](https://github.com/Azure-Samples/azure-search-openai-demo)🏆 \[Feb 2023]             | [Chat with your data - Solution accelerator (⭐769)](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) \[Jun 2023] |
 |                    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen2.png" alt="demo-videoindexer" height="130"/>                    |          <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cwyd-solution-architecture.png" width="200"/>         |
 
 *   Referece Application and Architecture
@@ -557,6 +558,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
     *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
     *   [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137) \[20 Aug 2024]
+    *   [AI Agent-Driven Auto Insurance Claims RAG Pipeline](https://techcommunity.microsoft.com/t5/azure-architecture-blog/exploring-ai-agent-driven-auto-insurance-claims-rag-pipeline/ba-p/4233779) \[09 Sep 2024]
 
 *   Azure OpenAI Accelerator
     *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐320)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
@@ -583,7 +585,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [AI Samples for .NET (⭐262)](https://github.com/dotnet/ai-samples):  official .NET samples demonstrating how to use AI \[Feb 2024]
     *   [OpenAI Official .NET Library (⭐1k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
     *   [Smart Components (⭐694)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
-    *   [Prompt Buddy (⭐143)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
+    *   [Prompt Buddy (⭐153)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
 
 *   Guideline
     *   [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857): Retrieval-Augmented Generation (RAG) \[09 Jun 2023]
@@ -724,11 +726,11 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **DSPy**
 
-*   DSPy (Declarative Self-improving Language Programs, pronounced “dee-es-pie”) / doc:[ref](https://dspy-docs.vercel.app) / [git (⭐16k)](https://github.com/stanfordnlp/dspy)
+*   DSPy (Declarative Self-improving Language Programs, pronounced “dee-es-pie”) / doc:[ref](https://dspy-docs.vercel.app) / [git (⭐17k)](https://github.com/stanfordnlp/dspy)
 
 *   DSPy Documentation & Cheetsheet [ref](https://dspy-docs.vercel.app)
 
-*   [DSPy](https://arxiv.org/abs/2310.03714): Compiling Declarative Language Model Calls into Self-Improving Pipelines \[5 Oct 2023] / [git (⭐16k)](https://github.com/stanfordnlp/dspy)
+*   [DSPy](https://arxiv.org/abs/2310.03714): Compiling Declarative Language Model Calls into Self-Improving Pipelines \[5 Oct 2023] / [git (⭐17k)](https://github.com/stanfordnlp/dspy)
 
 *   DSPy Explained! [youtube](https://www.youtube.com/watch?v=41EfOY0Ldkc) \[30 Jan 2024]
 
@@ -798,7 +800,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 ## **Section 4** : LangChain Features, Usage, and Comparisons
 
 *   LangChain is a framework for developing applications powered by language models. (1) Be data-aware: connect a language model to other sources of data.
-    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐91k)](https://github.com/langchain-ai/langchain)
+    (2) Be agentic: Allow a language model to interact with its environment. doc:[ref](https://docs.langchain.com/docs) / blog:[ref](https://blog.langchain.dev) / [git (⭐92k)](https://github.com/langchain-ai/langchain)
 *   It highlights two main value props of the framework:
 
     1.  Components: modular abstractions and implementations for working with language models, with easy-to-use features.
@@ -842,10 +844,10 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   [LangChain Expression Language](https://python.langchain.com/docs/guides/expression_language/): A declarative way to easily compose chains together \[Aug 2023]
 *   [LangSmith](https://blog.langchain.dev/announcing-langsmith/) Platform for debugging, testing, evaluating. \[Jul 2023]
     <!-- <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/langchain_debugging.png" width="150" /> -->
-*   [LangChain Template (⭐91k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
+*   [LangChain Template (⭐92k)](https://github.com/langchain-ai/langchain/tree/master/templates): LangChain Reference architectures and samples. e.g., `RAG Conversation Template` \[Oct 2023]
 *   [OpenGPTs (⭐6.4k)](https://github.com/langchain-ai/opengpts): An open source effort to create a similar experience to OpenAI's GPTs \[Nov 2023]
 *   [LangGraph (⭐5.4k)](https://github.com/langchain-ai/langgraph): Build and navigate language agents as graphs \[Aug 2023]
-*   [langflow (⭐26k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
+*   [langflow (⭐28k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain, designed with react-flow. \[Feb 2023]
 *   [Flowise (⭐29k)](https://github.com/FlowiseAI/Flowise) Drag & drop UI to build your customized LLM flow \[Apr 2023]
 
 ### **LangChain chain type: Chains & Summarizer**
@@ -894,7 +896,7 @@ class AgentType(str, Enum):
 
     MRKL stands for Modular Reasoning, Knowledge and Language and is a neuro-symbolic architecture that combines large language models, external knowledge sources, and discrete reasoning
 
-    > cite: [ref (⭐91k)](https://github.com/langchain-ai/langchain/issues/2284#issuecomment-1526879904) \[28 Apr 2023] <br/>
+    > cite: [ref (⭐92k)](https://github.com/langchain-ai/langchain/issues/2284#issuecomment-1526879904) \[28 Apr 2023] <br/>
     > `zero-shot-react-description`: Uses ReAct to select tools based on their descriptions. Any number of tools can be used, each requiring a description. <br/>
     > `react-docstore`: Uses ReAct to manage a docstore with two required tools: *Search* and *Lookup*. These tools must be named exactly as specified. It follows the original ReAct paper's example from Wikipedia.
 
@@ -922,7 +924,7 @@ class AgentType(str, Enum):
 
 #### **Prompting Frameworks**
 
-*   [LangChain (⭐91k)](https://github.com/langchain-ai/langchain) \[Oct 2022] |  [LlamaIndex (⭐35k)](https://github.com/jerryjliu/llama_index) \[Nov 2022] |  [Microsoft Semantic Kernel (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023] | [Microsoft guidance (⭐19k)](https://github.com/microsoft/guidance) \[Nov 2022] | [Azure ML Promt flow (⭐9.1k)](https://github.com/microsoft/promptflow) \[Jun 2023] | [DSPy (⭐16k)](https://github.com/stanfordnlp/dspy) \[Jan 2023]
+*   [LangChain (⭐92k)](https://github.com/langchain-ai/langchain) \[Oct 2022] |  [LlamaIndex (⭐35k)](https://github.com/jerryjliu/llama_index) \[Nov 2022] |  [Microsoft Semantic Kernel (⭐21k)](https://github.com/microsoft/semantic-kernel) \[Feb 2023] | [Microsoft guidance (⭐19k)](https://github.com/microsoft/guidance) \[Nov 2022] | [Azure ML Promt flow (⭐9.1k)](https://github.com/microsoft/promptflow) \[Jun 2023] | [DSPy (⭐17k)](https://github.com/stanfordnlp/dspy) \[Jan 2023]
 *   [Prompting Framework (PF)](https://arxiv.org/abs/2311.12785): Prompting Frameworks for Large Language Models: A Survey [git (⭐72)](https://github.com/lxx0628/Prompting-Framework-Survey)
 *   [What Are Tools Anyway?](https://arxiv.org/abs/2403.15452): 1. For a small number (e.g., 5–10) of tools, LMs can directly select from contexts. However, with a larger number (e.g., hundreds), an additional retrieval step involving a retriever model is often necessary. 2. LM-used tools incl. Tool creation and reuse. Tool is not useful when machine translation, summarization, and sentiment analysis (among others).  3. Evaluation metrics \[18 Mar 2024]
 
@@ -1091,7 +1093,7 @@ class AgentType(str, Enum):
 *   [Azure OpenAI Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering)
 *   [OpenAI Prompt example](https://platform.openai.com/examples)
 *   [OpenAI Best practices for prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
-*   [Awesome ChatGPT Prompts (⭐109k)](https://github.com/f/awesome-chatgpt-prompts) \[Dec 2022]
+*   [Awesome ChatGPT Prompts (⭐111k)](https://github.com/f/awesome-chatgpt-prompts) \[Dec 2022]
 *   [Awesome Prompt Engineering (⭐3.7k)](https://github.com/promptslab/Awesome-Prompt-Engineering) \[Feb 2023]
 *   [Awesome-GPTs-Prompts (⭐5k)](https://github.com/ai-boost/awesome-prompts) \[Jan 2024]
 *   [Prompts for Education (⭐1.5k)](https://github.com/microsoft/prompts-for-edu): Microsoft Prompts for Education \[Jul 2023]
@@ -1099,12 +1101,12 @@ class AgentType(str, Enum):
 *   Leaked prompts of [GPTs (⭐28k)](https://github.com/linexjlin/GPTs) \[Nov 2023] and [Agents (⭐7.9k)](https://github.com/LouisShark/chatgpt_system_prompt) \[Nov 2023]
 *   [LLM Prompt Engineering Simplified (⭐106)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) \[Feb 2024]
 *   [Power Platform GPT Prompts (⭐168)](https://github.com/pnp/powerplatform-prompts) \[Mar 2024]
-*   [Fabric (⭐22k)](https://github.com/danielmiessler/fabric): A modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere \[Jan 2024]
+*   [Fabric (⭐23k)](https://github.com/danielmiessler/fabric): A modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere \[Jan 2024]
 *   [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library): Anthropic released a Claude 3 AI prompt library \[Mar 2024]
 *   [Copilot prompts (⭐154)](https://github.com/pnp/copilot-prompts): Examples of prompts for Microsoft Copilot. \[25 Apr 2024]
 *   [In-The-Wild Jailbreak Prompts on LLMs (⭐1.9k)](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts). Collected from December 2022 to December 2023 \[Aug 2023]
 *   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
-*   [Anthropic courses > Prompt engineering interactive tutorial (⭐1.1k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques \[Aug 2024]
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐3.7k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques \[Aug 2024]
 
 ### **Finetuning**
 
@@ -1457,6 +1459,10 @@ class AgentType(str, Enum):
 
 *   Model Spec: Desired behavior for the models in the OpenAI API and ChatGPT [ref](https://cdn.openai.com/spec/model-spec-2024-05-08.html) \[8 May 2024] [ref](https://twitter.com/yi_ding/status/1788281765637038294): takeaway
 
+### OpenAI o1-preview
+
+*   [A new series of reasoning models](https://openai.com/index/introducing-openai-o1-preview/): The complex reasoning-specialized model, OpenAI o1 series, excels in math, coding, and science, outperforming GPT-4o on key benchmarks. \[12 Sep 2024]
+
 #### **GPT-4 details leaked** `unverified`
 
 *   GPT-4V(ision) system card: [ref](https://openai.com/research/gpt-4v-system-card) \[25 Sep 2023] / [ref](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
@@ -1468,7 +1474,7 @@ class AgentType(str, Enum):
 #### **OpenAI Products**
 
 *   [OpenAI DevDay 2023](https://openai.com/blog/new-models-and-developer-products-announced-at-devday): GPT-4 Turbo with 128K context, Assistants API (Code interpreter, Retrieval, and function calling), GPTs (Custom versions of ChatGPT: [ref](https://openai.com/blog/introducing-gpts)), Copyright Shield, Parallel Function Calling, JSON Mode, Reproducible outputs \[6 Nov 2023]
-*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐67k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
+*   [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak): It has recently been updated to support multimodal capabilities, including voice and image. \[25 Sep 2023] [Whisper (⭐68k)](https://github.com/openai/whisper) / [CLIP (⭐24k)](https://github.com/openai/Clip)
 *   [GPT-3.5 Turbo Fine-tuning](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates) Fine-tuning for GPT-3.5 Turbo is now available, with fine-tuning for GPT-4 coming this fall. \[22 Aug 2023]
 *   [DALL·E 3](https://openai.com/dall-e-3) : In September 2023, OpenAI announced their latest image model, DALL-E 3 [git (⭐11k)](https://github.com/openai/dall-e) \[Sep 2023]
 *   Open AI Enterprise: Removes GPT-4 usage caps, and performs up to two times faster [ref](https://openai.com/blog/introducing-chatgpt-enterprise) \[28 Aug 2023]
@@ -1562,6 +1568,7 @@ class AgentType(str, Enum):
     generated webpages are considered better than the original reference webpages` \[5 Mar 2024]
 *   [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z): Some large language models (LLMs) perform as well as, and in some cases better than, humans when presented with tasks designed to test the ability to track people’s mental states, known as “theory of mind.” [cite](https://www.technologyreview.com/2024/05/20/1092681/ai-models-can-outperform-humans-in-tests-to-identify-mental-states) \[20 May 2024]
 *   [A Survey on Employing Large Language Models for Text-to-SQL Tasks](https://arxiv.org/abs/2407.15186): a comprehensive overview of LLMs in text-to-SQL tasks \[21 Jul 2024]
+*   [Can LLMs Generate Novel Research Ideas?](https://arxiv.org/abs/2409.04109): A Large-Scale Human Study with 100+ NLP Researchers. We find LLM-generated ideas are judged as more novel (p < 0.05) than human expert ideas. However, the study revealed a lack of diversity in AI-generated ideas. \[6 Sep 2024]
 
 ## **Section 7** : Large Language Model: Landscape
 
@@ -1592,7 +1599,7 @@ class AgentType(str, Enum):
 
 *   [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.18223)] /[git (⭐9.9k)](https://github.com/RUCAIBox/LLMSurvey) \[31 Mar 2023] contd.
 
-*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9.2k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
+*   [LLM evolutionary tree](https://arxiv.org/abs/2304.13712): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.13712)]: A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) [git (⭐9.3k)](https://github.com/Mooler0410/LLMsPracticalGuide) \[26 Apr 2023]
 
 ### **A Taxonomy of Natural Language Processing**
 
@@ -1617,7 +1624,7 @@ class AgentType(str, Enum):
 *   [ollam](https://ollama.com/library?sort=popular): ollama-supported models
 *   [KoAlpaca (⭐1.5k)](https://github.com/Beomi/KoAlpaca): Alpaca for korean \[Mar 2023]
 *   [Pythia](https://arxiv.org/abs/2304.01373): How do large language models (LLMs) develop and evolve over the course of training and change as models scale? A suite of decoder-only autoregressive language models ranging from 70M to 12B parameters [git (⭐2.2k)](https://github.com/EleutherAI/pythia) \[Apr 2023]
-*   [OLMo](https://arxiv.org/abs/2402.00838): Truly open language model and framework to build, study, and advance LMs, along with the training data, training and evaluation code, intermediate model checkpoints, and training logs. [git (⭐4.3k)](https://github.com/allenai/OLMo) \[Feb 2024]
+*   [OLMo](https://arxiv.org/abs/2402.00838): Truly open language model and framework to build, study, and advance LMs, along with the training data, training and evaluation code, intermediate model checkpoints, and training logs. [git (⭐4.3k)](https://github.com/allenai/OLMo) \[Feb 2024] / [OLMoE (⭐354)](https://github.com/allenai/OLMoE): fully-open LLM leverages sparse Mixture-of-Experts \[Sep 2024]
 *   [Open-Sora (⭐21k)](https://github.com/hpcaitech/Open-Sora): Democratizing Efficient Video Production for All  \[Mar 2024]
 *   [Jamba](https://www.ai21.com/blog/announcing-jamba): AI21's SSM-Transformer Model. Mamba  + Transformer + MoE \[28 Mar 2024]
 *   Meta (aka. Facebook)
@@ -1632,6 +1639,7 @@ class AgentType(str, Enum):
 *   Qualcomm
     1.  [Qualcomm’s on-device AI models](https://huggingface.co/qualcomm): Bring generative AI to mobile devices \[Feb 2024]
 *   xAI
+    *   xAI is an American AI company founded by Elon Musk in March 2023
     1.  [Grok](https://x.ai/blog/grok-os): 314B parameter Mixture-of-Experts (MoE) model. Released under the Apache 2.0 license. Not includeded training code. Developed by JAX [git (⭐49k)](https://github.com/xai-org/grok) \[17 Mar 2024]
     2.  [Grok-2 and Grok-2 mini](https://x.ai/blog/grok-2) \[13 Aug 2024]
 *   Databricks
@@ -1644,12 +1652,20 @@ class AgentType(str, Enum):
 *   NVIDIA
     1.  [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b): Synthetic Data Generation for Training Large Language Models \[14 Jun 2024]
 *   Mistral
+    *   Founded in April 2023. French tech.
     1.  open-weights models (Mistral 7B, Mixtral 8x7B, Mixtral 8x22B, NeMo) and optimized commercial models (Mistral Small, Mistral Medium, Mistral Large) [ref](https://docs.mistral.ai/getting-started/models/)
     2.  [NeMo](https://mistral.ai/news/mistral-nemo/): 12B model with 128k context length that outperforms LLama 3 8B \[18 Jul 2024]
 *   Groq
+    *   Founded in 2016. low-latency AI inference H/W. American tech.
     1.  [Llama-3-Groq-Tool-Use](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/): a model optimized for function calling \[Jul 2024]
 *   Alibaba
-    1.  [Qwen series](https://github.com/QwenLM) > [Qwen2 (⭐7k)](https://github.com/QwenLM/Qwen2): 29 languages. 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B. \[Feb 2024]
+    1.  [Qwen series](https://github.com/QwenLM) > [Qwen2 (⭐7.5k)](https://github.com/QwenLM/Qwen2): 29 languages. 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B. \[Feb 2024]
+*   Cohere
+    *   Founded in 2019. Canadian multinational tech.
+    1.  [Command R+](https://huggingface.co/collections/CohereForAI/c4ai-command-r-plus-660ec4c34f7a69c50ce7f7b9): The performant model for RAG capabilities, multilingual support, and tool use. \[Aug 2024]
+*   Deepseek
+    *   Founded in 2023, is a Chinese company dedicated to AGI.
+    1.  A list of models: [git](https://github.com/deepseek-ai)
 *   GPT for Domain Specific [X-ref](#gpt-for-domain-specific)
 *   MLLM (multimodal large language model) [X-ref](#mllm-multimodal-large-language-model)
 *   Large Language Models (in 2023) [X-ref](#large-language-models-in-2023)
@@ -1683,13 +1699,14 @@ class AgentType(str, Enum):
 *   [OpenDevin](https://github.com/OpenDevin): an open-source project aiming to replicate Devin \[Mar 2024]
 *   [FrugalGPT](https://arxiv.org/abs/2305.05176): LLM with budget constraints, requests are cascaded from low-cost to high-cost LLMs. [git (⭐167)](https://github.com/stanford-futuredata/FrugalGPT) \[9 May 2023]
 *   [DeepSeek-Coder-V2 (⭐1.8k)](https://github.com/deepseek-ai/DeepSeek-Coder-V2): Open-source Mixture-of-Experts (MoE) code language model \[17 Jun 2024]
-*   [Qwen2-Math (⭐393)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐942)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+*   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+*   [Chai-1 (⭐925)](https://github.com/chaidiscovery/chai-lab): a multi-modal foundation model for molecular structure prediction \[Sep 2024]
 
 ### **MLLM (multimodal large language model)**
 
 *   [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](https://arxiv.org/abs/2309.10020): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.10020)]: A comprehensive survey of the taxonomy and evolution of multimodal foundation models that demonstrate vision and vision-language capabilities. Specific-Purpose 1. Visual understanding tasks 2. Visual generation tasks General-Purpose 3. General-purpose interface. \[18 Sep 2023]
 
-*   [Awesome Multimodal Large Language Models (⭐11k)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. \[Jun 2023]
+*   [Awesome Multimodal Large Language Models (⭐12k)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. \[Jun 2023]
 
 *   [CLIP](https://arxiv.org/abs/2103.00020): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2103.00020)]: CLIP (Contrastive Language-Image Pretraining), Trained on a large number of internet text-image pairs and can be applied to a wide range of tasks with zero-shot learning. [git (⭐24k)](https://github.com/openai/CLIP) \[26 Feb 2021]
 
@@ -1862,7 +1879,7 @@ class AgentType(str, Enum):
 
 *   [pix2code (⭐12k)](https://github.com/tonybeltramelli/pix2code): Generating Code from a Graphical User Interface Screenshot. Trained dataset as a pair of screenshots and simplified intermediate script for HTML, utilizing image embedding for CNN and text embedding for LSTM, encoder and decoder model. Early adoption of image-to-code. \[May 2017] -> [Screenshot to code (⭐16k)](https://github.com/emilwallner/Screenshot-to-code): Turning Design Mockups Into Code With Deep Learning \[Oct 2017] [ref](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 
-*   [Build a Large Language Model (From Scratch) (⭐25k)](https://github.com/rasbt/LLMs-from-scratch):🏆Implementing a ChatGPT-like LLM from scratch, step by step
+*   [Build a Large Language Model (From Scratch) (⭐27k)](https://github.com/rasbt/LLMs-from-scratch):🏆Implementing a ChatGPT-like LLM from scratch, step by step
 
 *   [Spreadsheets-are-all-you-need (⭐1.1k)](https://github.com/ianand/spreadsheets-are-all-you-need): Spreadsheets-are-all-you-need implements the forward pass of GPT2 entirely in Excel using standard spreadsheet functions. \[Sep 2023]
 
@@ -1942,6 +1959,7 @@ class AgentType(str, Enum):
 *   [Machine Learning Study 혼자 해보기 (⭐2.6k)](https://github.com/teddylee777/machine-learning) \[Sep 2018]
 *   [LangChain 한국어 튜토리얼 (⭐968)](https://github.com/teddylee777/langchain-kr) \[Feb 2024]
 *   [AI 데이터 분석가 ‘물어보새’ 등장 – RAG와 Text-To-SQL 활용](https://techblog.woowahan.com/18144/) \[Jul 2024]
+*   [LLM, 더 저렴하게, 더 빠르게, 더 똑똑하게](https://tech.kakao.com/posts/633) \[09 Sep 2024]
 
 ### **Learning and Supplementary Materials**
 
@@ -1951,7 +1969,7 @@ class AgentType(str, Enum):
 *   [Must read: the 100 most cited AI papers in 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/top-cited-2020-2021-2022-papers.pdf) \[8 Mar 2023]
 *   [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1) : [doc](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/files/ml_rsc.pdf) \[20 Aug 2017]
 *   [What are the most influential current AI Papers?](https://arxiv.org/abs/2308.04889): NLLG Quarterly arXiv Report 06/23 [git (⭐8)](https://github.com/NL2G/Quaterly-Arxiv) \[31 Jul 2023]
-*   [OpenAI Cookbook (⭐58k)](https://github.com/openai/openai-cookbook) Examples and guides for using the OpenAI API
+*   [OpenAI Cookbook (⭐59k)](https://github.com/openai/openai-cookbook) Examples and guides for using the OpenAI API
 *   [gpt4free (⭐60k)](https://github.com/xtekky/gpt4free) for educational purposes only \[Mar 2023]
 *   [Comparing Adobe Firefly, Dalle-2, OpenJourney, Stable Diffusion, and Midjourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/): Generative AI for images \[20 Jun 2023]
 *   [Open Problem and Limitation of RLHF](https://arxiv.org/abs/2307.15217): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2307.15217)]: Provides an overview of open problems and the limitations of RLHF \[27 Jul 2023]
@@ -1994,7 +2012,7 @@ class AgentType(str, Enum):
     *   [Sentence Transformers](https://arxiv.org/abs/1908.10084): Python framework for state-of-the-art sentence, text and image embeddings. Useful for semantic textual similar, semantic search, or paraphrase mining. [git (⭐15k)](https://github.com/UKPLab/sentence-transformers) \[27 Aug 2019]
     *   [fastText (⭐26k)](https://github.com/facebookresearch/fastText): A library for efficient learning of word representations and sentence classification \[Aug 2016 ]
     *   [GPT4All (⭐69k)](https://github.com/nomic-ai/gpt4all): Open-source large language models that run locally on your CPU \[Mar 2023]
-    *   [ollama (⭐86k)](https://github.com/jmorganca/ollama): Running with Large language models locally \[Jun 2023]
+    *   [ollama (⭐89k)](https://github.com/jmorganca/ollama): Running with Large language models locally \[Jun 2023]
     *   [unsloth (⭐15k)](https://github.com/unslothai/unsloth): Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! QLoRA & LoRA finetuning \[Nov 2023]
     *   [LLaMA-Factory (⭐30k)](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-Tuning of 100+ LLMs \[May 2023]
     *   [Visual Blocks (⭐1.2k)](https://github.com/google/visualblocks): Google visual programming framework that lets you create ML pipelines in a no-code graph editor. \[Mar 2023]
@@ -2014,7 +2032,7 @@ class AgentType(str, Enum):
     *   RAG: [X-ref](#rag-solution-design--application)
 *   UI/UX
     *   [Gradio (⭐32k)](https://github.com/gradio-app/gradio): Build Machine Learning Web Apps - in Python \[Mar 2023]
-    *   [Text generation web UI (⭐39k)](https://github.com/oobabooga/text-generation-webui): Text generation web UI \[Mar 2023]
+    *   [Text generation web UI (⭐40k)](https://github.com/oobabooga/text-generation-webui): Text generation web UI \[Mar 2023]
     *   Open AI Chat Mockup: An open source ChatGPT UI. [mckaywrigley/chatbot-ui (⭐28k)](https://github.com/mckaywrigley/chatbot-ui) \[Mar 2023]
     *   [chainlit (⭐6.7k)](https://github.com/Chainlit/chainlit): Build production-ready Conversational AI applications in minutes. \[Mar 2023]
     *   [CopilotKit (⭐9.6k)](https://github.com/CopilotKit/CopilotKit): Built-in React UI components \[Jun 2023]
@@ -2046,7 +2064,7 @@ class AgentType(str, Enum):
     *   [MemGPT (⭐11k)](https://github.com/cpacker/MemGPT): Virtual context management to extend the limited context window of LLM. A tiered memory system and a set of functions that allow it to manage its own memory. [ref](https://memgpt.ai) \[12 Oct 2023]
     *   Very Simple LangChain example using Open AI: [langchain-ask-pdf (⭐592)](https://github.com/alejandro-ao/langchain-ask-pdf) \[Apr 2023]
     *   [marvin (⭐5.1k)](https://github.com/PrefectHQ/marvin): a lightweight AI toolkit for building natural language interfaces. \[Mar 2023]
-    *   [langfuse (⭐5.4k)](https://github.com/langfuse/langfuse): Traces, evals, prompt management and metrics to debug and improve your LLM application. \[May 2023]
+    *   [langfuse (⭐5.6k)](https://github.com/langfuse/langfuse): Traces, evals, prompt management and metrics to debug and improve your LLM application. \[May 2023]
     *   [mindsdb (⭐26k)](https://github.com/mindsdb/mindsdb): The open-source virtual database for building AI from enterprise data. It supports SQL syntax for development and deployment, with over 70 technology and data integrations. \[Aug 2018]
 *   Agent Applications & LLMOps
     *   Agent Applications and Libraries: [X-ref](#agent-applications-and-libraries)
@@ -2076,7 +2094,7 @@ class AgentType(str, Enum):
         *   [Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924) \[16 Jul 2023]
         *   [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) \[16 Aug 2023]
         *   [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) \[1 Aug 2023]
-        *   Framework: [Autogen (⭐30k)](https://github.com/microsoft/autogen) / [LangGraph (⭐5.4k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐19k)](https://github.com/joaomdmoura/CrewAI)
+        *   Framework: [Autogen (⭐31k)](https://github.com/microsoft/autogen) / [LangGraph (⭐5.4k)](https://github.com/langchain-ai/langgraph) / [crewAI (⭐19k)](https://github.com/joaomdmoura/CrewAI)
 *   Generate the code [ref](https://www.deeplearning.ai/the-batch/issue-254/) \[Jun 2024]
     *   [AgentCoder: Multiagent-Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) \[20 Dec 2023]
     *   [LDB: A Large Language Model Debugger via Verifying Runtime Execution Step by Step](https://arxiv.org/abs/2402.16906) \[25 Feb 2024]
@@ -2107,18 +2125,18 @@ class AgentType(str, Enum):
 
 *   Agent Framework
     *   [Open AI Assistant](https://platform.openai.com/docs/assistants/overview)
-    *   [Autogen (⭐30k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework
-    *   [MetaGPT (⭐43k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
+    *   [Autogen (⭐31k)](https://github.com/microsoft/autogen): Customizable and conversable agents framework
+    *   [MetaGPT (⭐44k)](https://github.com/geekan/MetaGPT): Multi-Agent Framework. Assign different roles to GPTs to form a collaborative entity for complex tasks. e.g., Data Interpreter \[Jun 2023]
     *   [crewAI (⭐19k)](https://github.com/joaomdmoura/CrewAI): Framework for orchestrating role-playing, autonomous AI agents. \[Oct 2023]
     *   [LangGraph](https://langchain-ai.github.io/langgraph/): Built on top of LangChain
-    *   [composio (⭐5.5k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
+    *   [composio (⭐7.9k)](https://github.com/ComposioHQ/composio): Integration of Agents with 100+ Tools \[Feb 2024]
     *   [phidata (⭐11k)](https://github.com/phidatahq/phidata): Build AI Assistants with memory, knowledge and tools \[May 2022]
     *   [Qwen-Agent (⭐3k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
     *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
     *   Microsoft Agent Frameworks [X-ref](#microsoft-azure-openai-relevant-llm-framework)
 *   Agent Application
-    *   [Auto-GPT (⭐166k)](https://github.com/Torantulino/Auto-GPT): Most popular \[Mar 2023]
+    *   [Auto-GPT (⭐167k)](https://github.com/Torantulino/Auto-GPT): Most popular \[Mar 2023]
     *   [babyagi (⭐20k)](https://github.com/yoheinakajima/babyagi): Most simplest implementation - Coworking of 4 agents \[Apr 2023]
     *   [SuperAGI (⭐15k)](https://github.com/TransformerOptimus/superagi): GUI for agent settings \[May 2023]
     *   [lightaime/camel (⭐5.3k)](https://github.com/lightaime/camel): 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society \[Mar 2023] / 1:1 Conversation between two ai agents [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
@@ -2129,8 +2147,11 @@ class AgentType(str, Enum):
     *   [LaVague (⭐5.3k)](https://github.com/lavague-ai/LaVague): Automate automation with Large Action Model framework. Generate Selenium code. \[Feb 2024]
     *   [Project Astra](https://deepmind.google/technologies/gemini/project-astra/): Google DeepMind, A universal AI agent that is helpful in everyday life \[14 May 2024]
     *   [KHOJ (⭐12k)](https://github.com/khoj-ai/khoj): Open-source, personal AI agents. Cloud or Self-Host, Multiple Interfaces. Python Django based \[Aug 2021]
-    *   [PR-Agent (⭐5.4k)](https://github.com/Codium-ai/pr-agent): Efficient code review and handle pull requests, by providing AI feedbacks and suggestions \[Jan 2023]
+    *   [PR-Agent (⭐5.6k)](https://github.com/Codium-ai/pr-agent): Efficient code review and handle pull requests, by providing AI feedbacks and suggestions \[Jan 2023]
     *   [SakanaAI AI-Scientist (⭐7k)](https://github.com/SakanaAI/AI-Scientist): Towards Fully Automated Open-Ended Scientific Discovery \[Aug 2024]
+    *   [aider (⭐18k)](https://github.com/paul-gauthier/aider): AI pair programming in your terminal \[Jan 2023]
+    *   [Zed (⭐0)](https://github.com/soitun/zed-ai): AI code editor from the creators of Atom and Tree-sitter \[Sep 2024]
+    *   Proprietary Software: AI Code Editor: [Replit Agent](https://replit.com/) \[09 Sep 2024] / [Cursor](https://www.cursor.com/) \[Mar 2023]
 
 #### **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -2288,6 +2309,7 @@ databricks-dolly-15k: Instruction-Tuned [git](https://huggingface.co/datasets/da
 *   [LLM-as-a-Judge](https://cameronrwolfe.substack.com/i/141159804/practical-takeaways): LLM-as-a-Judge offers a quick, cost-effective way to develop models aligned with human preferences and is easy to implement with just a prompt, but should be complemented by human evaluation to address biases.  \[Jul 2024]
 *   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
 *   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
+*   [LightEval (⭐655)](https://github.com/huggingface/lighteval): a lightweight LLM evaluation suite that Hugging Face has been using internally \[Jan 2024]
 
 ### **LLM Evalution Benchmarks**
 
@@ -2378,7 +2400,7 @@ databricks-dolly-15k: Instruction-Tuned [git](https://huggingface.co/datasets/da
 *   Azure Machine Learning studio Model Data Collector: Collect production data, analyze key safety and quality evaluation metrics on a recurring basis, receive timely alerts about critical issues, and visualize the results. [ref](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-collect-production-data?view=azureml-api-2\&tabs=azure-cli)
 *   [Azure ML Prompt flow](https://microsoft.github.io/promptflow/index.html): A set of LLMOps tools designed to facilitate the creation of LLM-based AI applications \[Sep 2023] > [How to Evaluate & Upgrade Model Versions in the Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/how-to-evaluate-amp-upgrade-model-versions-in-the-azure-openai/ba-p/4218880) \[14 Aug 2024]
 *   [Ragas (⭐6.4k)](https://github.com/explodinggradients/ragas): Evaluation framework for your Retrieval Augmented Generation (RAG) \[May 2023]
-*   [DeepEval (⭐2.8k)](https://github.com/confident-ai/deepeval): LLM evaluation framework. similar to Pytest but specialized for unit testing LLM outputs. \[Aug 2023]
+*   [DeepEval (⭐3k)](https://github.com/confident-ai/deepeval): LLM evaluation framework. similar to Pytest but specialized for unit testing LLM outputs. \[Aug 2023]
 *   [traceloop openllmetry (⭐1.7k)](https://github.com/traceloop/openllmetry): Quality monitoring for your LLM applications. \[Sep 2023]
 *   [Language Model Evaluation Harness (⭐6.3k)](https://github.com/EleutherAI/lm-evaluation-harness): Over 60 standard academic benchmarks for LLMs. A framework for few-shot evaluation. \[Aug 2020]
 

@@ -2,7 +2,7 @@
 
 An "Awesome" list of code review resources - articles, papers, tools, etc
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.1K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/joho/awesome-code-review/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 joho/awesome-code-review](https://github.com/joho/awesome-code-review) · ⭐ 4.3K · 🏷️ Work
 
 [ [Daily](/content/joho/awesome-code-review/README.md) / [Weekly](/content/joho/awesome-code-review/week/README.md) / Overview ]
 
@@ -93,13 +93,12 @@ Code review is the systematic examination (sometimes referred to as peer review)
 *   [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 *   [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 *   [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
-*   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 *   [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
 *   [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+*   [PullNotifier](https://www.pullnotifier.com/) Improve pull request visibility and overall productivity for dev teams using Github and Slack.
 *   [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 *   [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 *   [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
-*   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 *   [Sider](https://sider.review/) Automated code review service for GitHub.
 *   [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
 *   [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.

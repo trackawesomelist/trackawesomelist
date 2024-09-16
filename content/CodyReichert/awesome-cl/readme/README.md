@@ -207,7 +207,7 @@ Around the OpenAI API:
     *   makes it easy to create GPT functions in Common Lisp.
     *   Ollama support.
 *   [cl-embeddings (⭐6)](https://github.com/atgreen/cl-embeddings) - LLM embeddings.
-*   [cl-chroma (⭐7)](https://github.com/atgreen/cl-chroma) - the vecor DB interface.
+*   [cl-chroma (⭐7)](https://github.com/atgreen/cl-chroma) - the vector DB interface.
 
 demos: [cl-rag-example (⭐7)](https://github.com/atgreen/cl-rag-example) and [cl-chat (⭐12)](https://github.com/atgreen/cl-chat), a LLM chat library and web UI.
 
@@ -220,7 +220,7 @@ Educational:
 
 Music composition:
 
-*   [OpenMusic (⭐312)](https://github.com/openmusic-project/openmusic/) visual programming / computer-aided composition environment. [GPL3][2]. Developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France.
+*   [OpenMusic (⭐313)](https://github.com/openmusic-project/openmusic/) visual programming / computer-aided composition environment. [GPL3][2]. Developped at [IRCAM](https://www.stms-lab.fr/team/representations-musicales/), France.
 *   [OM7 (⭐167)](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
     *   an extension: [rq (⭐8)](https://github.com/openmusic-project/RQ) - a library for rhythm transcription in OpenMusic (version 6.10 and later). [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs). [GPL3][2].
 *   [Incudine](http://incudine.sourceforge.net/) -  Music/DSP programming environment for Common Lisp. Useful to design software synthesizers or sound plugins from scratch. It is also a compositional tool that allows to produce high quality sounds controllable at the sample level, defining and redefining the digital signal processors and the musical structures on-the-fly.
@@ -257,7 +257,7 @@ bindings and clients to other software and libraries:
 *   [cl-collider (⭐218)](https://github.com/byulparan/cl-collider) - A [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial (⭐18)](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
 *   [cl-openal (⭐34)](https://github.com/zkat/cl-openal) - bindings for the OpenAL audio library. Public domain.
 
-and more audio software targetting musicians on [awesome-cl-software#audio (⭐2.5k)](https://github.com/CodyReichert/awesome-cl#audio) (Opus Modus, OpenMusic…).
+and more audio software targetting musicians on [awesome-cl-software#audio (⭐2.6k)](https://github.com/CodyReichert/awesome-cl#audio) (Opus Modus, OpenMusic…).
 
 # Build Systems
 
@@ -323,7 +323,7 @@ See also [legochain (⭐63)](https://github.com/defunkydrummer/legochain), a sim
 ## ORMs
 
 *   ⭐ [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
-*   👍 [mito (⭐286)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8].
+*   👍 [mito (⭐286)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD\_3Clause][15].
     *   [mitho-auth (⭐18)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
     *   [mito-attachment (⭐14)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 *   [cl-dbi (⭐200)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL][8].
@@ -530,7 +530,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 *   [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 *   [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
 *   [pngload-fast (⭐1)](https://github.com/lisp-mirror/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
-*   [imago (⭐48)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
+*   [imago (⭐49)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
     *   supports images in png, pcx, portable bitmap (.pnm), Truevision TGA (.tga) and jpeg formats
     *   allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
     *   is integrated with common-lisp-jupyter.
@@ -594,7 +594,7 @@ But that's not all.
 *   [cl-webkit (⭐52)](https://github.com/joachifm/cl-webkit) - A binding to WebKitGTK+. Also adds web browsing capabilities to an application, leveraging the full power of the WebKit browsing engine. [MIT][200].
 *   [ftw (⭐60)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT][200].
-*   [bodge-nuklear (⭐62)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
+*   [bodge-nuklear (⭐62)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.1k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
 *   [vk (⭐48)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT][200].
 
 Other utilities:
@@ -642,6 +642,10 @@ Other implementations, mainly for historical purposes:
 *   [Corman Lisp (⭐571)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT][200].
 
 You can check the implementations' compatibility to common extensions here: [portability.cl](https://portability.cl).
+
+See also:
+
+*   [cl-all (⭐19)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
 
 # JSON
 
@@ -1332,7 +1336,7 @@ See also [common-lisp-stat (⭐169)](https://github.com/blindglobe/common-lisp-s
 *   ⭐ [lparallel (⭐15)](https://github.com/sharplispers/lparallel) - A library for parallel programming. [3-clause BSD][15]. Originally on [lmj/lparallel (⭐243)](https://github.com/lmj/lparallel).
 *   [lfarm (⭐104)](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause][15]
 *   [calispel (⭐31)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.5k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.6k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 *   [chanl (⭐166)](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
 *   [cl-async (⭐272)](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
 *   [Moira (⭐29)](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. [MIT][200].
@@ -1392,15 +1396,21 @@ See also clj-re above.
 
 # Scripting
 
-## Writing, running scripts
+## Running scripts
 
-*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) -
-    a lisp installer and scripting environment (helper, launcher,
-    installer) and more. [MIT][200].
-*   [cl-all (⭐19)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
-*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*Implementations can run files with `--load`, SBCL has `--script`,
+but there is a start-up time specially when loading libraries. Can we
+do better? We can always build a binary.*
+
+*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) - a script installer and launcher, that makes it easy to distribute Lisp scripts and programs. [MIT][200].
+    *   *compiles a binary under the hood*
 *   [ScriptL (⭐72)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL][8].
     *   similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
+*   [CIEL (⭐333)](https://github.com/ciel-lang/CIEL/) - CIEL Is an Extended Lisp is a collection of dozens of libraries useful for mundane tasks (HTTP, JSON, regexps…). \[unclear licence]
+    *   It also comes as a binary that is able to run scripts from sources. Scripts that use the built-in libraries start fast without a compilation step.
+    *   *in beta as of 2024*
+*   NEW in 2024 [kiln (⭐38)](https://github.com/ruricolist/kiln) - an infrastructure (managing a hidden multicall binary) to make Lisp scripting efficient and ergonomic. [MIT][200].
+    *   Kiln makes it practical to write very small scripts. Kiln scripts are fast and cheap to the point where it makes sense to expose even small pieces of Lisp functionality to the shell.
 
 ## Command-line options parsers
 
@@ -1453,6 +1463,11 @@ Lisp utilities:
     *   You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
 
 ## Other scripting utilities
+
+*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+*   [lqn (⭐33)](https://github.com/inconvergent/lqn) -  query language and terminal utility for querying and transforming Lisp, JSON and other text files. written in Common Lisp. [MIT][200].
+
+And also, stalled projects:
 
 *   [WCL (⭐78)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
     applications to be realistically available at once, while allowing

@@ -6,6 +6,12 @@ A curated list of delightful Bash scripts and resources.
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Sep 08, 2024](/content/2024/09/08/README.md)
+
+### Shell Script Development
+
+*   [lobash (⭐364)](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
+
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
 ### Customization

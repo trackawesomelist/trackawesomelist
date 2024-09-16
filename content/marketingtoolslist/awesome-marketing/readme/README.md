@@ -2,7 +2,7 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 22 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / Overview ]
 
@@ -328,6 +328,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 *   [Intercom](https://www.intercom.com) - Conversational relationship platform that enables businesses to communicate with customers via messaging, bots, and automation.
 *   [Drift](https://www.drift.com) - Conversational marketing platform that combines chat, email, and automation to improve customer engagement.
 *   [Help Scout](https://www.helpscout.com) - Customer service platform designed to help small businesses manage email, live chat, and knowledge base interactions.
+*   [NeetoDesk](https://neeto.com/neetodesk) - A price-competitive customer service software to help companies provide support using email.
 
 ## Advertising and Media Buying
 

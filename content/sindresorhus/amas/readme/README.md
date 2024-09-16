@@ -14,11 +14,11 @@ Awesome & Marvelous Amas
 
 #### Ask these people anything!
 
-*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐143)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Stephen Sawchuk](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Zach Holman (⭐732)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 *   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 *   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 *   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
@@ -167,7 +167,7 @@ Awesome & Marvelous Amas
 *   [Frédéric Harper (⭐0)](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 *   [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
 *   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at Adobe, blogger, streamer, tweeter.
-*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐7)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 *   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, blogger, trainer, speaker, and a conference organizer.
 *   [Even Stensberg](https://github.com/evenstensberg/ama) - OSS contributor and developer.
 *   [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - All in one developer.
@@ -201,6 +201,7 @@ Awesome & Marvelous Amas
 *   [Ansible Taiwan (⭐33)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 *   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 *   [Nikita Voloboev (⭐34)](https://github.com/nikitavoloboev/ama) - Loves making and sharing things. Building Learn Anything, Enpicom and tools.
+*   [S Fox Jones (⭐1)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
 
 ***
 

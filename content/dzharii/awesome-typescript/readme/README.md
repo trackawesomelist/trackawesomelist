@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐4.8k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐320k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -174,7 +174,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ## CMS
 
 *   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
-*   [Graphweaver (⭐471)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐473)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## Tools
 
@@ -193,7 +193,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [itertools-ts (⭐45)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 *   [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - An i18n compiler that generates fully typesafe translations
 *   [pg (⭐334)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
-*   [nocodb (⭐44k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb (⭐47k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## Types
 
@@ -233,11 +233,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [@core/match (⭐41)](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
 *   [io-ts (⭐6.7k)](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 *   [zod (⭐33k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
-*   [valibot (⭐5.8k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐5.9k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 *   [runtypes (⭐2.6k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ts-codec (⭐17)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.9k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 *   [computed-types (⭐365)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 *   [json-schema-to-ts (⭐1.4k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
@@ -255,7 +255,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ### Web
 
-*   :octocat: [Angular (⭐95k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐96k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 *   :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
 *   :octocat: [feednext.io (⭐314)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 *   :octocat: [ionic (⭐51k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
@@ -320,7 +320,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
 *   :octocat: [App Outlet (⭐381)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 *   :octocat: [SnowFS (⭐1.3k)](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
-*   :octocat: [MemFree (⭐255)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   :octocat: [MemFree (⭐284)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 *   :octocat: [Nostream (⭐723)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
 
 ##### Chrome Extensions
@@ -331,6 +331,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ### Design patterns
 
 *   :octocat: [Design Patterns implementation (⭐5.2k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Real World Design Patterns (⭐67)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
 ### Libraries
 
@@ -364,7 +365,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [sub-events (⭐36)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 *   :octocat: [ts-audio (⭐312)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 *   :octocat: [tslog (⭐1.3k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
-*   :octocat: [tsParticles (⭐7.4k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐7.5k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 *   :octocat: [statek (⭐9)](https://github.com/pie6k/statek) - Reactive state management library
 *   :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 *   :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
@@ -378,6 +379,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [sweet-monads (⭐335)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 *   :octocat: [simple-mask-money (⭐172)](https://github.com/codermarcos/simple-mask-money) - 💰 Simple mask money is a light, safe and typed package to format money!
 *   :octocat: [Color-Core (⭐7)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
+*   :octocat: [PigmentTS (⭐3)](https://github.com/Jay-Karia/pigment-ts) - A lightweight utility for color manipulation and conversion.
 
 # LLM
 

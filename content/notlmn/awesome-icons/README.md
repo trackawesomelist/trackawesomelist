@@ -2,15 +2,27 @@
 
 A curated list of awesome downloadable SVG/PNG/Font icon projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 729 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 735 · 🏷️ Media
 
 [ Daily / [Weekly](/content/notlmn/awesome-icons/week/README.md) / [Overview](/content/notlmn/awesome-icons/readme/README.md) ]
+
+## [Sep 15, 2024](/content/2024/09/15/README.md)
+
+### Special
+
+*   [IconicFonts (⭐25)](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
+
+## [Sep 07, 2024](/content/2024/09/07/README.md)
+
+### General
+
+*   Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
 
 ## [Aug 28, 2024](/content/2024/08/28/README.md)
 
 ### Logos
 
-*   [Web3 Icons (⭐43)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
+*   [Web3 Icons (⭐48)](https://github.com/0xa3k5/web3icons#readme) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
 ## [Apr 21, 2024](/content/2024/04/21/README.md)
 
@@ -22,13 +34,13 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### Logos
 
-*   [VectorLogoZone (⭐371)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
+*   [VectorLogoZone (⭐374)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
 ## [Nov 15, 2021](/content/2021/11/15/README.md)
 
 ### General
 
-*   [Radix Icons (⭐2.1k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
+*   [Radix Icons (⭐2.2k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
 ## [Aug 29, 2021](/content/2021/08/29/README.md)
 
@@ -47,7 +59,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### Logos
 
-*   [Devicon (⭐9.6k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
+*   [Devicon (⭐9.7k)](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 
 ## [Aug 06, 2020](/content/2020/08/06/README.md)
 
@@ -115,7 +127,7 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 
 ### General
 
-*   [VSCode Icons (⭐853)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
+*   [VSCode Icons (⭐856)](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 
 ## [May 17, 2019](/content/2019/05/17/README.md)
 
@@ -131,8 +143,8 @@ A curated list of awesome downloadable SVG/PNG/Font icon projects
 *   [Eva icons (⭐8.6k)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 *   [Evil icons (⭐5k)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 *   [Feather (⭐25k)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
-*   [Font Awesome (⭐73k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
-*   [Ion icons (⭐17k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
+*   [Font Awesome (⭐74k)](https://github.com/FortAwesome/Font-Awesome#readme) - The iconic SVG, font, and CSS toolkit. ([Website](https://fontawesome.com))
+*   [Ion icons (⭐18k)](https://github.com/ionic-team/ionicons#readme) - The premium icon font for Ionic Framework and web apps everywhere. ([Website](https://ionicons.com))
 *   [Material design icons (⭐50k)](https://github.com/google/material-design-icons#readme) - Material Design icons by Google. ([Website](https://fonts.google.com/icons))
 *   [Octicons (⭐8.3k)](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 *   Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))

@@ -107,7 +107,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [materio-free-vuetify-nuxtjs-admin-template (⭐46)](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 *   [vite-plugin-vue-style-bundler (⭐6)](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
 *   [celeris-web (⭐385)](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
-*   [vite-ts-starter (⭐115)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
+*   [vite-ts-starter (⭐118)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 
 #### Vue 2
 
@@ -321,7 +321,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-lib-types (⭐4)](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
 *   [vite-plugin-minipic (⭐30)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 *   [vite-plugin-robots (⭐7)](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
-*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+*   [vite-plugin-bundle-obfuscator (⭐9)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
 #### Transformers
 
@@ -363,6 +363,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-abbrlink (⭐1)](https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme) - Add the abbrlink attribute to the `markdown` file in the specified directory.
 *   [vite-plugin-native (⭐9)](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
 *   [@yoichiro/vite-plugin-handlebars (⭐1)](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
+*   [vite-plugin-magic-preloader (⭐7)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 
 #### Helpers
 
@@ -419,6 +420,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-serve-static (⭐6)](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
 *   [vite-plugin-valibot-env (⭐1)](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 *   [vite-plugin-vitest-cache (⭐1)](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
+*   [vite-preload (⭐8)](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 
 #### Testing
 

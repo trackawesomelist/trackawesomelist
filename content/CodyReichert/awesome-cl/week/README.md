@@ -6,6 +6,20 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Running scripts / Third-party APIs
+
+*   [CIEL (⭐333)](https://github.com/ciel-lang/CIEL/) - CIEL Is an Extended Lisp is a collection of dozens of libraries useful for mundane tasks (HTTP, JSON, regexps…). \[unclear licence]
+    *   It also comes as a binary that is able to run scripts from sources. Scripts that use the built-in libraries start fast without a compilation step.
+    *   *in beta as of 2024*
+*   NEW in 2024 [kiln (⭐38)](https://github.com/ruricolist/kiln) - an infrastructure (managing a hidden multicall binary) to make Lisp scripting efficient and ergonomic. [MIT](https://opensource.org/licenses/MIT).
+    *   Kiln makes it practical to write very small scripts. Kiln scripts are fast and cheap to the point where it makes sense to expose even small pieces of Lisp functionality to the shell.
+
+### Other scripting utilities / Third-party APIs
+
+*   [lqn (⭐33)](https://github.com/inconvergent/lqn) -  query language and terminal utility for querying and transforming Lisp, JSON and other text files. written in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Others / Web project skeletons and generators
@@ -20,7 +34,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Miscellaneous
 
-*   [imago (⭐48)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
+*   [imago (⭐49)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
     *   supports images in png, pcx, portable bitmap (.pnm), Truevision TGA (.tga) and jpeg formats
     *   allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
     *   is integrated with common-lisp-jupyter.
@@ -712,7 +726,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### ORMs
 
-*   👍 [mito (⭐286)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [mito (⭐286)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   [mitho-auth (⭐18)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
     *   [mito-attachment (⭐14)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 
@@ -1141,7 +1155,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [cl-wget](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0](https://directory.fsf.org/wiki/License:ArtisticLicense2.0).
 *   [trivial-download (⭐38)](https://github.com/eudoxia0/trivial-download) - Download files. [MIT](https://opensource.org/licenses/MIT).
 
-### Writing, running scripts / Third-party APIs
+### Running scripts / Third-party APIs
 
 *   [ScriptL (⭐72)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL](http://opensource.franz.com/preamble.html).
     *   similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
@@ -1239,6 +1253,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   👍 [Qtools (⭐209)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 
+### Mobile
+
+*   [cl-all (⭐19)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+
 ### Portability layers
 
 *   [trivial-arguments (⭐22)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
@@ -1266,10 +1284,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [simple-tasks (⭐20)](https://github.com/Shinmera/simple-tasks) - A very simple task scheduling framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [deeds (⭐22)](https://github.com/Shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-
-### Writing, running scripts / Third-party APIs
-
-*   [cl-all (⭐19)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Apps / Third-party APIs
 
@@ -1421,7 +1435,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Utils / Third-party APIs
 
 *   [calispel (⭐31)](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.5k)](https://github.com/CodyReichert/awesome-cl/issues/290)
+    *   "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion (⭐2.6k)](https://github.com/CodyReichert/awesome-cl/issues/290)
 
 ### Apps / Third-party APIs
 
@@ -1761,10 +1775,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [TEN (⭐34)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
-### Writing, running scripts / Third-party APIs
-
-*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
-
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
 *   [replic (⭐33)](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT](https://opensource.org/licenses/MIT).
@@ -1778,6 +1788,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     functions like a shell command, without the need to write a command
     line arguments parser. And it also can be used as a Make-like
     build-tool. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+
+### Other scripting utilities / Third-party APIs
+
+*   [clawk (⭐48)](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
 
 ### Date and time / Third-party APIs
 
@@ -2168,7 +2182,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐62)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐62)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.1k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
@@ -2735,11 +2749,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
-### Writing, running scripts / Third-party APIs
+### Running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) -
-    a lisp installer and scripting environment (helper, launcher,
-    installer) and more. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Roswell (⭐1.8k)](https://github.com/roswell/roswell#scripting-with-roswell) - a script installer and launcher, that makes it easy to distribute Lisp scripts and programs. [MIT](https://opensource.org/licenses/MIT).
+    *   *compiles a binary under the hood*
 
 ### Plotting / Third-party APIs
 

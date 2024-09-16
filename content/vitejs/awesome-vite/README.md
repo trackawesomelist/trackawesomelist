@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Sep 12, 2024](/content/2024/09/12/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-magic-preloader (⭐7)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-preload (⭐8)](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
+
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
 ### Framework-agnostic Plugins / Transformers
@@ -26,7 +36,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-obfuscator (⭐3)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+*   [vite-plugin-bundle-obfuscator (⭐9)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
 ## [Aug 24, 2024](/content/2024/08/24/README.md)
 
@@ -36,7 +46,7 @@
 
 ### Templates / Vue 3
 
-*   [vite-ts-starter (⭐115)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
+*   [vite-ts-starter (⭐118)](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 
 ## [Aug 19, 2024](/content/2024/08/19/README.md)
 

@@ -29,6 +29,7 @@ All resources are freely available except those with a 💲 icon.
     *   [Books](#books)
     *   [Magazines](#magazines)
     *   [Blogs](#blogs)
+    *   [Meetings and Conferences](#meetings-and-conferences)
     *   [Misc](#misc)
 *   [Branches of Mathematics](#branches-of-mathematics)
     *   [Foundations of Mathematics](#foundations-of-mathematics)
@@ -146,6 +147,8 @@ All resources are freely available except those with a 💲 icon.
 *   [CopyPasteMathjax](https://www.copypastemathjax.com/)
 *   [Finance calculators](https://www.financecharts.com/pages/5724-retirement-calculators-and-stock-market-tips)
 *   [Mathcheap](https://mathcheap.xyz)
+*   [Midpoint Calculator](https://midpointcalculator.co)
+*   [Quartiles Calculator](https://quartilecalculator.net)
 
 ## Questions and Answers
 
@@ -170,7 +173,7 @@ All resources are freely available except those with a 💲 icon.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books (⭐332k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐333k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -189,6 +192,12 @@ All resources are freely available except those with a 💲 icon.
 *   [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 *   [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 *   [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
+
+## Meetings and Conferences
+
+*   [MathsJam](https://mathsjam.com/) - monthly local recreational maths/puzzle meetups and an annual gathering in Staffordshire, England
+*   [Talking Maths in Public](https://talkingmathsinpublic.uk/) - a conference for maths communicators, running every two years, usually in the UK
+*   [Bridges](https://www.bridgesmathart.org/) - an annual conference on mathematical connections in art, music, architecture, and culture. The 2025 meeting is in Eindhoven, Netherlands.
 
 ## Misc
 
@@ -214,7 +223,7 @@ All resources are freely available except those with a 💲 icon.
 
 *   📝 [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
 *   📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
-*   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
+*   📖 [How to Prove It: A Structured Approach (3rd Edition)](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf) - Daniel J. Velleman (Professor).
 
 ### Set Theory
 

@@ -6,6 +6,23 @@ A curated list of awesome mathematics resources
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+
+### Tools
+
+*   [Midpoint Calculator](https://midpointcalculator.co)
+*   [Quartiles Calculator](https://quartilecalculator.net)
+
+### Meetings and Conferences
+
+*   [MathsJam](https://mathsjam.com/) - monthly local recreational maths/puzzle meetups and an annual gathering in Staffordshire, England
+*   [Talking Maths in Public](https://talkingmathsinpublic.uk/) - a conference for maths communicators, running every two years, usually in the UK
+*   [Bridges](https://www.bridgesmathart.org/) - an annual conference on mathematical connections in art, music, architecture, and culture. The 2025 meeting is in Eindhoven, Netherlands.
+
+### Foundations of Mathematics / Transition To Pure Rigour Math
+
+*   📖 [How to Prove It: A Structured Approach (3rd Edition)](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf) - Daniel J. Velleman (Professor).
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Tools
@@ -37,10 +54,6 @@ A curated list of awesome mathematics resources
 
 *   💲 [The Princeton Companion to Mathematics](https://press.princeton.edu/books/hardcover/9780691118802/the-princeton-companion-to-mathematics) - Timothy Gowers (Professor, Fields medallist), June Barrow-Green (Professor), and Imre Leader (Professor).
 *   💲 [Encyclopedia of Distances (4th Edition)](https://link.springer.com/book/10.1007/978-3-662-52844-0) - Michel Marie Deza, Elena Deza.
-
-### Foundations of Mathematics / Transition To Pure Rigour Math
-
-*   📖💲 [How to Prove It: A Structured Approach (3rd Edition)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA) - Daniel J. Velleman (Professor).
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -190,7 +203,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐332k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐333k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 

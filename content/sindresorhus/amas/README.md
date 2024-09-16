@@ -6,6 +6,12 @@ Awesome & Marvelous Amas
 
 [ Daily / [Weekly](/content/sindresorhus/amas/week/README.md) / [Overview](/content/sindresorhus/amas/readme/README.md) ]
 
+## [Sep 08, 2024](/content/2024/09/08/README.md)
+
+### Ask these organizations anything!
+
+*   [S Fox Jones (⭐1)](https://github.com/tj-commits/ama) - Full stack developer, independent author, and JavaScript lover.
+
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Ask these people anything!
@@ -52,7 +58,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Sindre Sorhus (⭐138)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
+*   [Sindre Sorhus (⭐143)](https://github.com/sindresorhus/ama) - Full-time open-sourcerer. Maker of many npm packages and apps.
 
 ## [Jan 19, 2021](/content/2021/01/19/README.md)
 
@@ -161,7 +167,7 @@ Awesome & Marvelous Amas
 
 ### Ask these people anything!
 
-*   [Fabio Spampinato (⭐6)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+*   [Fabio Spampinato (⭐7)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 
 ## [Feb 12, 2019](/content/2019/02/12/README.md)
 
@@ -823,7 +829,7 @@ Awesome & Marvelous Amas
 
 *   [Pascal Hartig (⭐33)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 *   [Mark Otto (⭐94)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
-*   [Zach Holman (⭐731)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Zach Holman (⭐732)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 *   [Kent C. Dodds (⭐685)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 
 ## [Jul 04, 2015](/content/2015/07/04/README.md)
