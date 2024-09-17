@@ -6,6 +6,28 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Sep 17, 2024](/content/2024/09/17/README.md)
+
+### Software / Analytics
+
+*   [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code (⭐1k)](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
+
+### Software / Communication - Social Networks and Forums
+
+*   [Redlib (⭐1.1k)](https://github.com/redlib-org/redlib) `⚠` - An alternative private front-end to Reddit, with its origins in Libreddit. `AGPL-3.0` `Rust`
+
+### Software / Feed Readers
+
+*   [Precis (⭐22)](https://github.com/leozqin/precis) - Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. `MIT` `Python/Docker`
+
+### Software / Photo and Video Galleries
+
+*   [Immich Kiosk (⭐341)](https://github.com/damongolding/immich-kiosk) - A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`
+
+### Software / Polls and Events
+
+*   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐6.3k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
+
 ## [Sep 09, 2024](/content/2024/09/09/README.md)
 
 ### Software / Note-taking & Editors
@@ -3483,12 +3505,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Inventory Management
 
 *   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.1k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
-
-## [Mar 05, 2021](/content/2021/03/05/README.md)
-
-### Software / Video Surveillance
-
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐684)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [Mar 02, 2021](/content/2021/03/02/README.md)
 

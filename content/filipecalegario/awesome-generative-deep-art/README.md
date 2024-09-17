@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 17, 2024](/content/2024/09/17/README.md)
+
+### Critical Views about Generative AI
+
+*   [\[2406.17864\] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
+
 ## [Sep 16, 2024](/content/2024/09/16/README.md)
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image

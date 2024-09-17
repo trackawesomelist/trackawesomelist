@@ -6,6 +6,28 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
+
+### Software / Analytics
+
+*   [Middleware](https://middlewarehq.com/) - Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. ([Source Code (⭐1k)](https://github.com/middlewarehq/middleware)) `Apache-2.0` `Docker/Python/Nodejs`
+
+### Software / Communication - Social Networks and Forums
+
+*   [Redlib (⭐1.1k)](https://github.com/redlib-org/redlib) `⚠` - An alternative private front-end to Reddit, with its origins in Libreddit. `AGPL-3.0` `Rust`
+
+### Software / Feed Readers
+
+*   [Precis (⭐22)](https://github.com/leozqin/precis) - Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. `MIT` `Python/Docker`
+
+### Software / Photo and Video Galleries
+
+*   [Immich Kiosk (⭐341)](https://github.com/damongolding/immich-kiosk) - A lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. `GPL-3.0` `Docker/Go`
+
+### Software / Polls and Events
+
+*   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐6.3k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Software / Note-taking & Editors
@@ -3181,10 +3203,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Complete Solutions
 
 *   [emailwiz (⭐1.7k)](https://github.com/LukeSmithxyz/emailwiz) - Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. `GPL-3.0` `Shell`
-
-### Software / Video Surveillance
-
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐684)](https://github.com/kerberos-io/agent)) `MIT` `Docker/K8S`
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 

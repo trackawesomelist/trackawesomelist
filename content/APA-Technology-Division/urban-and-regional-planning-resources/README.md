@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Sep 17, 2024](/content/2024/09/17/README.md)
+
+### Platforms and Software Resources / Urban Design Tools and Platforms
+
+*   [Forma](https://www.autodesk.com/products/forma/overview)- Autodesk Forma is a clound based platform that enables architects and designers to conduct pre-design and schematic design evaluations and environmental impact simulations.
+
 ## [Sep 16, 2024](/content/2024/09/16/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services

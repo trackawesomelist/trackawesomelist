@@ -4,9 +4,9 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
-  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
   - [Awesome Java](/content/content/akullpp/awesome-java/README.md)
@@ -41,8 +41,8 @@
   - [Awesome Nix](/content/content/nix-community/awesome-nix/README.md)
   - [Awesome Love2d](/content/content/love2d-community/awesome-love2d/README.md)
   - [Open Source Flutter Apps](/content/content/tortuvshin/open-source-flutter-apps/README.md)
-  - [Awesome Dotnet Core](/content/content/thangchung/awesome-dotnet-core/README.md)
   - [Awesome Generative Deep Art](/content/content/filipecalegario/awesome-generative-deep-art/README.md)
+  - [Awesome Dotnet Core](/content/content/thangchung/awesome-dotnet-core/README.md)
   - [Awesome Cl](/content/content/CodyReichert/awesome-cl/README.md)
   - [Android Security Awesome](/content/content/ashishb/android-security-awesome/README.md)
   - [Awesome Db Tools](/content/content/mgramin/awesome-db-tools/README.md)
@@ -2083,6 +2083,7 @@
 - [Days](daily/README.md)
   - [2024](2024/month/README.md)
     - [9](2024/9/day/README.md)
+      - [Sep 17, 2024](2024/09/17/README.md)
       - [Sep 16, 2024](2024/09/16/README.md)
       - [Sep 15, 2024](2024/09/15/README.md)
       - [Sep 14, 2024](2024/09/14/README.md)

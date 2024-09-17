@@ -8,6 +8,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
 ### Kotlin Native / Projects
 
 *   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.

@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
+### Critical Views about Generative AI
+
+*   [\[2406.17864\] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
+
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
