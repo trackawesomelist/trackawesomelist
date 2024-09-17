@@ -65,7 +65,7 @@ We use the *[Golang Bridge (⭐401)](https://github.com/gobridge/about-us/blob/m
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines (⭐128k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐128k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐129k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐129k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 > *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -422,8 +422,8 @@ Please take a quick gander at the [contribution guidelines (⭐128k)](https://gi
 *   [acmd (⭐115)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐605)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐307)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐830)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐316)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐850)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐17)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐177)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
@@ -1238,7 +1238,7 @@ additional ordered map implementations.
 *   [ecs (⭐114)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 *   [engo (⭐1.7k)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
 *   [fantasyname (⭐33)](https://github.com/s0rg/fantasyname) - Fantasy names generator.
-*   [g3n (⭐2.7k)](https://github.com/g3n/engine) - Go 3D Game Engine.
+*   [g3n (⭐2.8k)](https://github.com/g3n/engine) - Go 3D Game Engine.
 *   [go-astar (⭐596)](https://github.com/beefsack/go-astar) - Go implementation of the A\* path finding algorithm.
 *   [go-sdl2 (⭐2.2k)](https://github.com/veandco/go-sdl2) - Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
 *   [go3d (⭐309)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
@@ -1250,7 +1250,7 @@ additional ordered map implementations.
 *   [nano (⭐2.8k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.5k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.3k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-*   [Pixel (⭐4.4k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐4.5k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
 *   [prototype (⭐88)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 *   [raylib-go (⭐1.5k)](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 *   [termloop (⭐1.4k)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -1761,6 +1761,12 @@ additional ordered map implementations.
 *   [goxlsxwriter (⭐21)](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 *   [xlsx (⭐5.8k)](https://github.com/tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
 *   [xlsx (⭐174)](https://github.com/plandem/xlsx) - Fast and safe way to read/update your existing Microsoft Excel files in Go programs.
+
+### Microsoft Word
+
+*Libraries for working with Microsoft Word.*
+
+*   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
 **[⬆ back to top](#contents)**
 
@@ -2279,7 +2285,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [goSecretBoxPassword (⭐60)](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 *   [Interpol (⭐4)](https://github.com/avahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
 *   [lego (⭐7.9k)](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
-*   [luks.go (⭐85)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+*   [luks.go (⭐86)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 *   [memguard (⭐2.5k)](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 *   [multikey (⭐5)](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 *   [nacl (⭐545)](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
@@ -2393,7 +2399,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [raymond (⭐602)](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 *   [Razor (⭐856)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 *   [Soy (⭐172)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
-*   [sprout (⭐81)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+*   [sprout (⭐86)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 *   [tbd (⭐25)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 *   [templ (⭐7.9k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
@@ -2415,7 +2421,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [commander (⭐226)](https://github.com/SimonBaeumer/commander) - Tool for testing cli applications on windows, linux and osx.
 *   [cupaloy (⭐299)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
 *   [dbcleaner (⭐161)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
-*   [dft (⭐3)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
+*   [dft (⭐5)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 *   [dsunit (⭐44)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
 *   [embedded-postgres (⭐817)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 *   [endly (⭐262)](https://github.com/viant/endly) - Declarative end to end functional testing.
@@ -2773,7 +2779,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [fzf (⭐64k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐973)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐972)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [gitbatch (⭐1.5k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐115)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
@@ -3279,7 +3285,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### DevOps Tools
 
 *   [abbreviate (⭐218)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
-*   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐635)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 *   [aptly (⭐12)](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 *   [aurora (⭐596)](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 *   [awsenv (⭐34)](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
@@ -3410,7 +3416,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [ide (⭐357)](https://github.com/thestrukture/ide) - Browser accessible IDE. Designed for Go with Go.
 *   [ipe (⭐367)](https://github.com/dimiro1/ipe) - Open source Pusher server implementation compatible with Pusher client libraries written in GO.
 *   [joincap (⭐209)](https://github.com/assafmo/joincap) - Command-line utility for merging multiple pcap files together.
-*   [JuiceFS (⭐10k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
+*   [JuiceFS (⭐11k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
 *   [Juju](https://jujucharms.com/) - Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
 *   [Leaps (⭐750)](https://github.com/jeffail/leaps) - Pair programming service using Operational Transforms.
 *   [lgo (⭐2.4k)](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.

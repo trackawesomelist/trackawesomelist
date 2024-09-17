@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
+
+### Microsoft Word
+
+*   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Blockchain
@@ -83,7 +89,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [alaz (⭐632)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐635)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -189,16 +195,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [luks.go (⭐85)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+*   [luks.go (⭐86)](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 
 ### Template Engines
 
-*   [sprout (⭐81)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+*   [sprout (⭐86)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 
 ### Testing Frameworks
 
 *   [arch-go (⭐158)](https://github.com/fdaines/arch-go) - Architecture testing tool for Go projects.
-*   [dft (⭐3)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
+*   [dft (⭐5)](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 
 ### Parsers/Encoders/Decoders
 
@@ -214,7 +220,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [JuiceFS (⭐10k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
+*   [JuiceFS (⭐11k)](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and AWS S3.
 *   [sonic (⭐2k)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.
 
 ### Benchmarks / Libraries for creating HTTP middlewares
@@ -2626,8 +2632,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [argparse (⭐605)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐307)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐830)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐316)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐850)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐177)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
 *   [cmd (⭐41)](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way.
@@ -3071,7 +3077,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Azul3D (⭐614)](https://github.com/azul3d/engine) - 3D game engine written in Go.
 *   [engo (⭐1.7k)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
-*   [g3n (⭐2.7k)](https://github.com/g3n/engine) - Go 3D Game Engine.
+*   [g3n (⭐2.8k)](https://github.com/g3n/engine) - Go 3D Game Engine.
 *   [go-astar (⭐596)](https://github.com/beefsack/go-astar) - Go implementation of the A\* path finding algorithm.
 *   [go-sdl2 (⭐2.2k)](https://github.com/veandco/go-sdl2) - Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
 *   [go3d (⭐309)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
@@ -3081,7 +3087,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [nano (⭐2.8k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.5k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.3k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-*   [Pixel (⭐4.4k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐4.5k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
 *   [prototype (⭐88)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 *   [raylib-go (⭐1.5k)](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 *   [termloop (⭐1.4k)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -4055,7 +4061,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fzf (⭐64k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐973)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐972)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 *   [go-astitodo (⭐63)](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 *   [go-bind-plugin (⭐184)](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
