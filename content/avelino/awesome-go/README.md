@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 18, 2024](/content/2024/09/18/README.md)
+
+### Science and Data Analysis
+
+*   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
+
 ## [Sep 17, 2024](/content/2024/09/17/README.md)
 
 ### Microsoft Word
@@ -87,11 +93,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐210)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
 ### Machine Learning
 
-*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐259)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ## [Sep 02, 2024](/content/2024/09/02/README.md)
 

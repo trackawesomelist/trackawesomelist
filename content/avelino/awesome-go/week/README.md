@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
+### Science and Data Analysis
+
+*   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Blockchain
@@ -73,7 +77,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Tools
 
-*   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐210)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
 ### Error Handling
 
@@ -85,7 +89,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Machine Learning
 
-*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐259)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 

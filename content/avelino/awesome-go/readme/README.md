@@ -813,7 +813,7 @@ additional ordered map implementations.
 *   [dbbench (⭐98)](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 *   [dg (⭐29)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 *   [dynago (⭐12)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
-*   [gatewayd (⭐206)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐210)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 *   [go-mysql (⭐4.6k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [gorm-multitenancy (⭐31)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
 *   [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
@@ -1661,7 +1661,7 @@ additional ordered map implementations.
 *   [golinear (⭐45)](https://github.com/danieldk/golinear) - liblinear bindings for Go.
 *   [GoMind (⭐84)](https://github.com/surenderthakran/gomind) - A simplistic Neural Network Library in Go.
 *   [goml (⭐1.6k)](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
-*   [GoMLX (⭐236)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐259)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 *   [gonet (⭐82)](https://github.com/dathoangnd/gonet) - Neural Network for Go.
 *   [Goptuna (⭐256)](https://github.com/c-bata/goptuna) - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 *   [goRecommend (⭐204)](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.
@@ -2246,6 +2246,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [pagerank (⭐83)](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go.
 *   [piecewiselinear (⭐26)](https://github.com/sgreben/piecewiselinear) - Tiny linear interpolation library.
 *   [PiHex (⭐20)](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi.
+*   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 *   [rootfinding (⭐11)](https://github.com/khezen/rootfinding) - root-finding algorithms library for finding roots of quadratic functions.
 *   [sparse (⭐158)](https://github.com/james-bowman/sparse) - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
 *   [stats (⭐2.9k)](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
