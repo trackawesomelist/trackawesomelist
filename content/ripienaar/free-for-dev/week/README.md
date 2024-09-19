@@ -20,6 +20,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Formlick.com](https://formlick.com) - Typeform alternative with lifetime deal. Users can create 1 free form and receive unlimited submissions. In premium, users can create unlimited forms and unlimited submissions.
 
+### Miscellaneous
+
+*   [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Tools for Teams and Collaboration

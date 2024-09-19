@@ -14,9 +14,9 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template <!-- omit from toc -->
+# Awesome Firebase Genkit <!-- omit from toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/) <a href="https://app.commanddash.io/agent/github_firebase_genkit"><img src="https://img.shields.io/badge/AI-Genkit%20Assist-EB9FDA"></a>
 
 <!-- [![lint](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml/badge.svg)](https://github.com/xavidop/awesome-firebase-genkit/actions/workflows/lint.yaml) -->
 
@@ -137,7 +137,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 ## Articles
 
+*   [Build Firebase Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
 *   [Firebase GenKit with Gemma using Ollama](https://xavidop.me/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
+*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learng how to integrate Gemma2 with Genkit.
+*   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
 
 ## Tutorials
 

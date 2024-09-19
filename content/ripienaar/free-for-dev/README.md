@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 19, 2024](/content/2024/09/19/README.md)
+
+### Miscellaneous
+
+*   [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
 ### APIs, Data, and ML

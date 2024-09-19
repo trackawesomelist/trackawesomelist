@@ -2,9 +2,44 @@
 
 A community driven list of useful Scala libraries, frameworks and software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauris/awesome-scala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauris/awesome-scala](https://github.com/lauris/awesome-scala) · ⭐ 8.6K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lauris/awesome-scala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lauris/awesome-scala](https://github.com/lauris/awesome-scala) · ⭐ 9K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/lauris/awesome-scala/week/README.md) / [Overview](/content/lauris/awesome-scala/readme/README.md) ]
+
+## [Sep 19, 2024](/content/2024/09/19/README.md)
+
+### Table of Contents / Misc
+
+*   [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
+    [**Ammonite**](https://github.com/com-lihaoyi/Ammonite) | Scala Scripting | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/Ammonite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/Ammonite)
+    [**bootzooka**](https://github.com/softwaremill/bootzooka) | Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
+    [**eclair**](https://github.com/ACINQ/eclair) | A scala implementation of the Lightning Network. | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
+    [fansi (⭐226)](https://github.com/com-lihaoyi/fansi) | Scala/Scala.js library for manipulating Fancy Ansi colored strings | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
+    [fs2-aws (⭐189)](https://github.com/laserdisc-io/fs2-aws) | fs2 utilities to interact with AWS | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
+    [mailgun4s (⭐17)](https://github.com/outr/mailgun4s) | Mailgun API implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/outr/mailgun4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/mailgun4s)
+    [managerial (⭐13)](https://github.com/dvgica/managerial) | A zero-dependency Scala library for managing resources monadically | ![GitHub stars](https://img.shields.io/github/stars/dvgica/managerial) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dvgica/managerial)
+    [media4s (⭐34)](https://github.com/outr/media4s) | Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media. | ![GitHub stars](https://img.shields.io/github/stars/outr/media4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/media4s)
+    [play-swagger (⭐403)](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
+    [PPrint (⭐224)](https://github.com/com-lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
+    [**pureconfig**](https://github.com/pureconfig/pureconfig) | A boilerplate-free library for loading configuration files | ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
+*   [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
+    [service-chassis (⭐7)](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
+    [spliff (⭐58)](https://github.com/sirthias/spliff) | Efficient diffing in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
+    [scountries (⭐20)](https://github.com/lambdaworks/scountries) | Scala library that provides an enumeration of ISO 3166 codes for countries, along with their subdivisions. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scountries) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scountries)
+    [scurl-detector (⭐16)](https://github.com/lambdaworks/scurl-detector) | Scala library that detects and extracts URLs from text. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scurl-detector) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scurl-detector)
+    [aptus-core (⭐7)](https://github.com/aptusproject/aptus-core) | A utility library aiming to simplify the Scala coding experience. | ![GitHub stars](https://img.shields.io/github/stars/aptusproject/aptus-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aptusproject/aptus-core)
+
+### Exercises / Devops
+
+*   [Exercism - Scala Exercises](https://exercism.org/tracks/scala/exercises) - Community-driven Scala exercises.
+
+### Tutorials and courses / Devops
+
+*   [Clean Architecture Example (⭐24)](https://github.com/SaeidDadkhah/clean-arch-example) - A step-by-step guide to develop an application using Clean Architecture in Scala.
+
+### Podcasts / Devops
+
+*   [Scala for Fun & Profit](https://podcasters.spotify.com/pod/show/julien-truffaut) - Interviewing Scala users and companies.
 
 ## [Sep 19, 2022](/content/2022/09/19/README.md)
 
@@ -77,14 +112,13 @@ A community driven list of useful Scala libraries, frameworks and software.
 
 *   [S-99](http://aperiodic.net/phil/scala/s-99) - Ninety-Nine Scala Problems
 *   [Scala Exercises](http://scala-exercises.47deg.com/) - Brings the popular Scala Koans to the web. Offering hundreds of solvable exercises organized into 42 categories covering the basics of the Scala language.
-*   [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - Community-driven Scala exercises.
-*   [Learn-by-doing functional programming course on Scala (⭐587)](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
+*   [Learn-by-doing functional programming course on Scala (⭐611)](https://github.com/dehun/learn-fp/) - Covers type classes, functors, applicatives, monads, monad transformers, free monad
 
 ### Tutorials and courses / Devops
 
 *   [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - Bite-sized introductions to some of the core language concepts.
 *   [Functional Programming in Scala](https://www.coursera.org/specializations/scala) - Coursera Specialization (5 courses) created by  Martin Odersky et al. at the EPFL (Ecole polytechnique fédérale de Lausanne).
-*   Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/\~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+*   Resources by [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
 *   **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2 (⭐1.1k)](https://github.com/jacksu/utils4s)** - repo of sample Scala library usage, written in Chinese
 *   [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) - Video Course by Dmytro Mitin
 *   [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/) - Scala collections introduction. written in Chinese.
@@ -115,7 +149,7 @@ A community driven list of useful Scala libraries, frameworks and software.
 ### Misc. / Devops
 
 *   [Scala @LibHunt](https://scala.libhunt.com) - A community driven list of useful Scala libraries, frameworks and software
-*   [CA Art (⭐12)](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
+*   [CA Art (⭐16)](https://github.com/makingthematrix/ca_art) - A small project aimed at learning Scala on intermediate level by experimenting with Cellular Automata
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -130,7 +164,7 @@ A community driven list of useful Scala libraries, frameworks and software.
 
 *   <http://eed3si9n.com/category/tags/scala>
 *   <https://blog.bruchez.name/search/label/scala>
-*   [https://github.com/lemastero/scala\_typeclassopedia (⭐365)](https://github.com/lemastero/scala_typeclassopedia)
+*   [https://github.com/lemastero/scala\_typeclassopedia (⭐379)](https://github.com/lemastero/scala_typeclassopedia)
 
 ### Company Blogs / Devops
 

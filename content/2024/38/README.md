@@ -1,49 +1,132 @@
 # Awesome List Updates on Sep 16 - Sep 22, 2024
 
-26 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+
+### Articles / Golang - Community
+
+*   [Build Firebase Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
+*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learng how to integrate Gemma2 with Genkit.
+*   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
+
+## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
+
+*   [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746): LLMs cannot completely eliminate hallucinations through architectural improvements, dataset enhancements, or fact-checking mechanisms due to fundamental mathematical and logical limitations. \[9 Sep 2024]
+
+## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Related Events / 2024
+
+*   [1st International Conference on Auditing and Artificial Intelligence](https://www.ircg.msm.uni-due.de/ai/)
+*   [Regulatable ML Workshop (RegML'24)](https://regulatableml.github.io/)
+
+### Related Events / 2023
+
+*   [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
+
+## [4. Awesome Math](/content/rossant/awesome-math/week/README.md)
+
+### Learning Platforms
+
+*   [Math Academy](https://mathacademy.com/)
+
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+
+### Community, SIGs, Discussion Forums and Mailing Lists
+
+*   [Keycloak OAuth SIG (⭐70)](https://github.com/keycloak/kc-sig-fapi)
+*   [Keycloak SRE SIG (⭐17)](https://github.com/keycloak/keycloak-sre-sig)
+
+### Community Extensions
+
+*   [Keycloak Adaptive Authentication Extension by @mabartos (⭐8)](https://github.com/mabartos/keycloak-adaptive-authn)
+
+## [6. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+
+### Table of Contents / Misc
+
+*   [Agora](https://gitlab.com/aossie/Agora/) | Library of vote-counting algorithms for elections. |
+    [**Ammonite**](https://github.com/com-lihaoyi/Ammonite) | Scala Scripting | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/Ammonite) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/Ammonite)
+    [**bootzooka**](https://github.com/softwaremill/bootzooka) | Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
+    [**eclair**](https://github.com/ACINQ/eclair) | A scala implementation of the Lightning Network. | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
+    [fansi (⭐226)](https://github.com/com-lihaoyi/fansi) | Scala/Scala.js library for manipulating Fancy Ansi colored strings | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
+    [fs2-aws (⭐189)](https://github.com/laserdisc-io/fs2-aws) | fs2 utilities to interact with AWS | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
+    [mailgun4s (⭐17)](https://github.com/outr/mailgun4s) | Mailgun API implementation in Scala | ![GitHub stars](https://img.shields.io/github/stars/outr/mailgun4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/mailgun4s)
+    [managerial (⭐13)](https://github.com/dvgica/managerial) | A zero-dependency Scala library for managing resources monadically | ![GitHub stars](https://img.shields.io/github/stars/dvgica/managerial) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dvgica/managerial)
+    [media4s (⭐34)](https://github.com/outr/media4s) | Scala command-line wrapper around ffmpeg, ffprobe, ImageMagick, and other tools relating to media. | ![GitHub stars](https://img.shields.io/github/stars/outr/media4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/media4s)
+    [play-swagger (⭐403)](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
+    [PPrint (⭐224)](https://github.com/com-lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
+    [**pureconfig**](https://github.com/pureconfig/pureconfig) | A boilerplate-free library for loading configuration files | ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
+*   [Scavenger](https://gitlab.com/aossie/Scavenger) | An experimental automated theorem prover. |
+    [service-chassis (⭐7)](https://github.com/allawala/service-chassis) | A scala chassis to get your applications and services bootstrapped quickly | ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
+    [spliff (⭐58)](https://github.com/sirthias/spliff) | Efficient diffing in Scala | ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
+    [scountries (⭐20)](https://github.com/lambdaworks/scountries) | Scala library that provides an enumeration of ISO 3166 codes for countries, along with their subdivisions. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scountries) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scountries)
+    [scurl-detector (⭐16)](https://github.com/lambdaworks/scurl-detector) | Scala library that detects and extracts URLs from text. | ![GitHub stars](https://img.shields.io/github/stars/lambdaworks/scurl-detector) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lambdaworks/scurl-detector)
+    [aptus-core (⭐7)](https://github.com/aptusproject/aptus-core) | A utility library aiming to simplify the Scala coding experience. | ![GitHub stars](https://img.shields.io/github/stars/aptusproject/aptus-core) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aptusproject/aptus-core)
+
+### Exercises / Devops
+
+*   [Exercism - Scala Exercises](https://exercism.org/tracks/scala/exercises) - Community-driven Scala exercises.
+
+### Tutorials and courses / Devops
+
+*   [Clean Architecture Example (⭐24)](https://github.com/SaeidDadkhah/clean-arch-example) - A step-by-step guide to develop an application using Clean Architecture in Scala.
+
+### Podcasts / Devops
+
+*   [Scala for Fun & Profit](https://podcasters.spotify.com/pod/show/julien-truffaut) - Interviewing Scala users and companies.
+
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Utilities / System Interaction Utilities
+
+*   [fastfetch (⭐9.7k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
+
+## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Articles / Machine translation
 
 *   [Awesome New Languages in Machine Translation (⭐13)](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
 
-## [2. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [9. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Part Search Engines / Altium
 
 *   [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database.
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [ControlMonkey](https://www.controlmonkey.io/) - Alternative to Terraform Cloud with Terraform/OpenTofu code generation, cloud inventory and IaC coverage. Includes out-of-the-box policies, drift remediation, and a ClickOps activity scanne. :heavy\_dollar\_sign:
 
-## [4. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [11. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Momen](https://momen.app/ai?utm_source=altern\&utm_medium=platform\&utm_campaign=ai) - Build and Deploy AI Apps & Agents for Your Business
 
-## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) - A different and a great way to introduce algorithms and data structures that can be used at work.
 *   [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Large Source Code Examples
 
 *   [Tezos](https://gitlab.com/tezos/tezos) - a self-upgradable Proof of Stake blockchain
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -106,7 +189,7 @@
 
 *   [NDJSON (⭐670) (⭐661)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -120,25 +203,29 @@
 
 *   [Formlick.com](https://formlick.com) - Typeform alternative with lifetime deal. Users can create 1 free form and receive unlimited submissions. In premium, users can create unlimited forms and unlimited submissions.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+### Miscellaneous
+
+*   [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
+
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Dev Tools
 
 *   [Vue Mess Detector (⭐119)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [westchange (⭐0)](https://github.com/TomiVidal99/westchange) - Allows you to quickly change between directories. Requires [fzf (⭐64k)](https://github.com/junegunn/fzf).
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
 *   [prompt (⭐29)](https://github.com/silbermm/prompt) - Toolkit for building command line applications in Elixir.
 
-## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Microsoft Word
 
@@ -148,19 +235,19 @@
 
 *   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Pinning services
 
 *   [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Journaling
 
 *   [Life Note](https://mylifenote.ai) - Journal with the greatest minds in human history. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [15. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [22. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -173,19 +260,19 @@
 **Free** game that teaches the CSS Flexbox\
 *(CSS)*
 
-## [16. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [23. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
 *   [Xeres](https://xeres.io) is a decentralized and secure application designed for communication and sharing. Use chatrooms, send private messages to friends, participate in forums, share and download files anonymously.
 
-## [17. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [24. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [DotnetPackaging (⭐48)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -207,13 +294,13 @@
 
 *   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐6.3k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
 
-## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
 
-## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -223,7 +310,7 @@
 
 *   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 
-## [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -237,7 +324,7 @@
 
 *   [Infinity AI](https://infinity.ai/): a video foundation model that allows you to craft characters and animate them
 
-## [22. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services
 
@@ -251,7 +338,7 @@
 
 *   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -279,7 +366,7 @@
 
 *   [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 
-## [24. Topics](/content/selvaklnc/topics/week/README.md)
+## [31. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of interesting topics
 
@@ -371,7 +458,7 @@
 *   [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)
 *   [wmWebStack alternatives](https://alternativeto.net/software/wmwebstack/) Web Servers and other similar apps like wmWebStack.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Message Queue
 
@@ -381,7 +468,7 @@
 
 *   [TensorZero (⭐56)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
 
-## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 

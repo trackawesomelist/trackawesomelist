@@ -6,6 +6,17 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Sep 19, 2024](/content/2024/09/19/README.md)
+
+### Related Events / 2024
+
+*   [1st International Conference on Auditing and Artificial Intelligence](https://www.ircg.msm.uni-due.de/ai/)
+*   [Regulatable ML Workshop (RegML'24)](https://regulatableml.github.io/)
+
+### Related Events / 2023
+
+*   [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
+
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
 ### Papers / 2024
@@ -42,7 +53,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 ## [Feb 29, 2024](/content/2024/02/29/README.md)
 
-### Related Events / 2005
+### Related Events / 2023
 
 *   [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)
 
@@ -139,7 +150,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 ### Papers / 2022
 
-*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐29)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐30)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
@@ -149,7 +160,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 ## [Jan 21, 2023](/content/2023/01/21/README.md)
 
-### Related Events / 2005
+### Related Events / 2023
 
 *   [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
 

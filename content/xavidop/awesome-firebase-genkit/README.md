@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Sep 19, 2024](/content/2024/09/19/README.md)
+
+### Articles / Golang - Community
+
+*   [Build Firebase Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
+*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learng how to integrate Gemma2 with Genkit.
+*   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
+
 ## [Sep 15, 2024](/content/2024/09/15/README.md)
 
 ### Plugins / JavaScript - Official

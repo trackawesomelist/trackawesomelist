@@ -20,7 +20,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 ## Contents
 
 *   [Papers](#papers)
-*   [Related Events](#related-events)
+*   [Related Events (conferences/workshops)](#related-events)
 
 ## Papers
 
@@ -56,7 +56,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 ### 2022
 
 *   [Two-Face: Adversarial Audit of Commercial Face Recognition Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/19300/19072) - (ICWSM) *Performs an adversarial audit on multiple systems APIs and datasets, making a number of concerning observations.*
-*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐29)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐30)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 *   [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *Measures the distance between two remote models using LIME.*
 *   [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) - (ICML) *Studies of query-based auditing algorithms that can estimate the demographic parity of ML models in a query-efficient manner.*
 *   [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://proceedings.neurips.cc/paper/2021/file/da94cbeff56cfda50785df477941308b-Paper.pdf) - (NeurIPS) *Sobol indices provide an efficient way to capture higher-order interactions between image regions and their contributions to a (black box) neural network’s prediction through the lens of variance.*
@@ -158,6 +158,14 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Related Events
 
+### 2024
+
+*   [1st International Conference on Auditing and Artificial Intelligence](https://www.ircg.msm.uni-due.de/ai/)
+*   [Regulatable ML Workshop (RegML'24)](https://regulatableml.github.io/)
+
+### 2023
+
+*   [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
 *   [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
 *   [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)
 
