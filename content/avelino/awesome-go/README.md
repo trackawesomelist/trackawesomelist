@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 
+### Go Tools / Libraries for creating HTTP middlewares
+
+*   [MoniGO (⭐117)](https://github.com/iyashjayesh/monigo) - A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀
+
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
 ### Science and Data Analysis

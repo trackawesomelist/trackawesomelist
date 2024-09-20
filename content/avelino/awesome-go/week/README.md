@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 
+### Go Tools / Libraries for creating HTTP middlewares
+
+*   [MoniGO (⭐117)](https://github.com/iyashjayesh/monigo) - A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Blockchain
