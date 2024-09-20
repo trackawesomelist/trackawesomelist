@@ -541,6 +541,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
 
 *Tools for help with continuous integration.*
 
+*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 *   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 *   [CDS (⭐4.6k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 *   [dot (⭐16)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
@@ -1124,7 +1125,7 @@ additional ordered map implementations.
 *   [Falcon (⭐11)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 *   [Fault (⭐159)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 *   [go-multierror (⭐2.3k)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
-*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+*   [multierr (⭐1k)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 *   [oops (⭐384)](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
 *   [tracerr (⭐974)](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 

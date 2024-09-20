@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 20, 2024](/content/2024/09/20/README.md)
+
+### Continuous Integration
+
+*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
+
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
 ### Science and Data Analysis
@@ -79,7 +85,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Error Handling
 
-*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+*   [multierr (⭐1k)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 
 ### File Handling
 

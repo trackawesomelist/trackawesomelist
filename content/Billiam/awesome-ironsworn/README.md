@@ -2,9 +2,16 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 118 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 123 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Sep 20, 2024](/content/2024/09/20/README.md)
+
+### Resources / Ironsworn
+
+*   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
+*   [Traveler's Starforged](https://www.drivethrurpg.com/en/product/495130/traveler-s-starforged-diy-edition) - Compact move and oracle reference for Starforged
 
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
@@ -213,7 +220,7 @@ An awesome list of awesome Ironsworn projects
 
 ### Tools / Ironsworn
 
-*   [Ironsworn and Starforged for Foundry VTT (⭐66)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
+*   [Ironsworn and Starforged for Foundry VTT (⭐69)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
 ### Hacks and homebrew / Ironsworn
 
@@ -395,7 +402,7 @@ An awesome list of awesome Ironsworn projects
 ### Tools / Ironsworn
 
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
-*   [IronWriter (⭐54)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐55)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 
 ### Resources / Ironsworn
 
@@ -433,12 +440,12 @@ An awesome list of awesome Ironsworn projects
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
-*   [TheOracle (⭐36)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+*   [TheOracle (⭐37)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐184)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐121)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐187)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐123)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 
 ### Hacks and homebrew / Ironsworn

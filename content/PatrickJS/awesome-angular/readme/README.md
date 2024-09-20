@@ -55,6 +55,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [Developer tools](#developer-tools)
     *   [Documentation tools](#documentation-tools)
     *   [Generators](#generators)
+        *   [Go](#go)
         *   [NET](#net)
         *   [Node](#node)
         *   [Spring Boot](#spring-boot)
@@ -545,6 +546,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Generators
 
+##### Go
+
+*   [goxygen (⭐3.5k)](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
+
 ##### NET
 
 *   [abp (⭐13k)](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
@@ -711,7 +716,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [carbon-angular-starter (⭐76)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
 *   [front-angular (⭐2)](https://github.com/starter-kits-usmb/front-angular) - This starter kit use angular version 18.0.0 and includes the following features: scalable folder structure, linter and Prettier, routing and lazy loading, authentication service, light design system, toast and modal service, Jest test setup and Docker compose.
 *   [tailkit-starter-kit-angular (⭐2)](https://github.com/pixelcave/tailkit-starter-kit-angular) - Angular Starter Kit for using [Tailkit UI](https://tailkit.com/) components out of the box in your project.
-*   [angular-tailwind (⭐307)](https://github.com/lannodev/angular-tailwind) - Angular & Tailwind CSS Admin Dashboard Starter Kit.
+*   [angular-tailwind (⭐316)](https://github.com/lannodev/angular-tailwind) - Angular & Tailwind CSS Admin Dashboard Starter Kit.
 *   [angular-starter-kit (⭐1)](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
 *   [fractal-boilerplate-lua-angular (⭐1)](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 *   [angular-nestjs-starter-kit (⭐1)](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
@@ -1215,7 +1220,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-sherlock (⭐6)](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock (⭐39)](https://github.com/politie/sherlock) distributed reactive state management library.
 *   [tansu (⭐84)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 *   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
-*   [angular-redux (⭐7)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
+*   [angular-redux (⭐57)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 
 #### Storage
 
@@ -1283,6 +1288,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-vcl (⭐17)](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 *   [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 *   [po-angular (⭐903)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+*   [pastanaga-angular (⭐10)](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
 
 ##### Material Based
 
@@ -1313,9 +1319,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 *   [David UI Angular (⭐64)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 *   [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
-*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐4.5k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐4.6k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 *   [ngxtw (⭐1)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 *   [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+*   [Rectangle UI (⭐2)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
+*   [Mamba UI (⭐1.1k)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 
 ##### Node Based
 

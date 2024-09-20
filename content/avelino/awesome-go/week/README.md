@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
+### Continuous Integration
+
+*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
+
 ### Microsoft Word
 
 *   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
@@ -81,7 +85,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Error Handling
 
-*   [multierr (⭐994)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
+*   [multierr (⭐1k)](https://github.com/uber-go/multierr) - Package for representing a list of errors as a single error.
 
 ### File Handling
 

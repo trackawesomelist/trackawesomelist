@@ -1,26 +1,61 @@
 # Awesome List Updates on Sep 16 - Sep 22, 2024
 
-33 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Real-Time Search, Social Media Search, and General Social Media Tools
+
+*   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
+
+### Social Media Tools / Steam
+
+*   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐2)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+
+### Email Search / Email Check / Steam
+
+*   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
+
+### DNS / Steam
+
+*   [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
+
+### OSINT Blogs / Steam
+
+*   [OSINT Ambition Publication](https://publication.osintambition.org/)
+*   [OSINT Team](https://www.osintteam.com/)
+
+### Other Resources / Steam
+
+*   [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
+
+## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Resources / Ironsworn
+
+*   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
+*   [Traveler's Starforged](https://www.drivethrurpg.com/en/product/495130/traveler-s-starforged-diy-edition) - Compact move and oracle reference for Starforged
+
+## [3. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Build Firebase Genkit Node.js apps with Dash Agents](https://medium.com/firebase-developers/build-firebase-genkit-nodejs-apps-with-dash-agents-skip-the-docs-258e067b3fdc) - A step-by-step guide to building Genkit Node.js apps by leveraging Dash Agents.
-*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learng how to integrate Gemma2 with Genkit.
+*   [Master Gemma2 and Genkit](https://medium.com/firebase-developers/how-to-develop-using-the-gemma2-model-in-genkit-085f22ce68f3) - Learn how to integrate Gemma2 with Genkit.
 *   [Unleash the Power of Function Calling with Genkit](https://medium.com/firebase-developers/implementing-function-calling-using-genkit-0c03f6cb9179) - Learn how to implement function calling using Genkit.
+*   [Unlocking the power of code execution in Genkit](https://medium.com/firebase-developers/getting-started-with-code-execution-in-genkit-c5391b45b321) - Learn how to integrate Python code within Genkit.
 
-## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
 *   [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746): LLMs cannot completely eliminate hallucinations through architectural improvements, dataset enhancements, or fact-checking mechanisms due to fundamental mathematical and logical limitations. \[9 Sep 2024]
 
-## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Related Events / 2024
 
@@ -31,13 +66,13 @@
 
 *   [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
 
-## [4. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [6. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
 *   [Math Academy](https://mathacademy.com/)
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community, SIGs, Discussion Forums and Mailing Lists
 
@@ -48,7 +83,7 @@
 
 *   [Keycloak Adaptive Authentication Extension by @mabartos (⭐8)](https://github.com/mabartos/keycloak-adaptive-authn)
 
-## [6. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [8. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Table of Contents / Misc
 
@@ -83,50 +118,50 @@
 
 *   [Scala for Fun & Profit](https://podcasters.spotify.com/pod/show/julien-truffaut) - Interviewing Scala users and companies.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / System Interaction Utilities
 
 *   [fastfetch (⭐9.7k)](https://github.com/fastfetch-cli/fastfetch) - System information tool.
 
-## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Articles / Machine translation
 
 *   [Awesome New Languages in Machine Translation (⭐13)](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
 
-## [9. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [11. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Part Search Engines / Altium
 
 *   [Yoo Need One - SMD Marking Database](https://smd.yooneed.one/) - Surface Mount Device (SMD) component marking database.
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Managed Terraform Platforms :heavy_dollar_sign: / IDE
 
 *   [ControlMonkey](https://www.controlmonkey.io/) - Alternative to Terraform Cloud with Terraform/OpenTofu code generation, cloud inventory and IaC coverage. Includes out-of-the-box policies, drift remediation, and a ClickOps activity scanne. :heavy\_dollar\_sign:
 
-## [11. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [13. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Momen](https://momen.app/ai?utm_source=altern\&utm_medium=platform\&utm_campaign=ai) - Build and Deploy AI Apps & Agents for Your Business
 
-## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) - A different and a great way to introduce algorithms and data structures that can be used at work.
 *   [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners.
 
-## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Large Source Code Examples
 
 *   [Tezos](https://gitlab.com/tezos/tezos) - a self-upgradable Proof of Stake blockchain
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -189,7 +224,7 @@
 
 *   [NDJSON (⭐670) (⭐661)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -207,25 +242,29 @@
 
 *   [Webacus](https://webacus.dev) — Access a wide range of free developer tools for encoding, decoding, and data manipulation.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Dev Tools
 
 *   [Vue Mess Detector (⭐119)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [westchange (⭐0)](https://github.com/TomiVidal99/westchange) - Allows you to quickly change between directories. Requires [fzf (⭐64k)](https://github.com/junegunn/fzf).
 
-## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
 *   [prompt (⭐29)](https://github.com/silbermm/prompt) - Toolkit for building command line applications in Elixir.
 
-## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Continuous Integration
+
+*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 
 ### Microsoft Word
 
@@ -235,19 +274,19 @@
 
 *   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 
-## [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [22. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Pinning services
 
 *   [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Journaling
 
 *   [Life Note](https://mylifenote.ai) - Journal with the greatest minds in human history. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [22. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [24. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
 
@@ -260,19 +299,19 @@
 **Free** game that teaches the CSS Flexbox\
 *(CSS)*
 
-## [23. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
 *   [Xeres](https://xeres.io) is a decentralized and secure application designed for communication and sharing. Use chatrooms, send private messages to friends, participate in forums, share and download files anonymously.
 
-## [24. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [26. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [DotnetPackaging (⭐48)](https://github.com/SuperJMN/DotnetPackaging) - Tool to distribute .NET applications in the AppImage format.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -294,13 +333,13 @@
 
 *   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐6.3k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
 
-## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [28. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [harley (⭐6)](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
 
-## [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -310,7 +349,7 @@
 
 *   [trueangle/kotlin-native-aws-lambda-runtime (⭐4)](https://github.com/trueangle/kotlin-native-aws-lambda-runtime) - A runtime for executing AWS Lambda functions written in Kotlin/Native, designed to reduce cold start issues common with the JVM platform.
 
-## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -324,7 +363,7 @@
 
 *   [Infinity AI](https://infinity.ai/): a video foundation model that allows you to craft characters and animate them
 
-## [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services
 
@@ -338,7 +377,7 @@
 
 *   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -347,6 +386,10 @@
 ### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Offering Solutions](https://offering.solutions/trainings/)
+
+### Go / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [goxygen (⭐3.5k)](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -362,11 +405,17 @@
 *   [olt-ngx-ui-switch (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 *   [auto-complete (⭐279)](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [pastanaga-angular (⭐10)](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
+
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+*   [Rectangle UI (⭐2)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
+*   [Mamba UI (⭐1.1k)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 
-## [31. Topics](/content/selvaklnc/topics/week/README.md)
+## [33. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of interesting topics
 
@@ -458,7 +507,7 @@
 *   [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)
 *   [wmWebStack alternatives](https://alternativeto.net/software/wmwebstack/) Web Servers and other similar apps like wmWebStack.
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Message Queue
 
@@ -468,7 +517,7 @@
 
 *   [TensorZero (⭐56)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
 
-## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
