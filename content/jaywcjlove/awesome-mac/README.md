@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Sep 21, 2024](/content/2024/09/21/README.md)
+
+### Utilities / Clipboard Tools
+
+*   [Yippy (⭐355)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Sep 17, 2024](/content/2024/09/17/README.md)
 
 ### Reading and Writing Tools / Journaling
@@ -1468,12 +1474,6 @@
 ### Utilities / Productivity
 
 *   [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
-
-## [Sep 10, 2021](/content/2021/09/10/README.md)
-
-### Utilities / Clipboard Tools
-
-*   [Yippy](https://yippy.mattdavo.com/) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Sep 03, 2021](/content/2021/09/03/README.md)
 

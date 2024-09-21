@@ -12,6 +12,10 @@
 
 *   [Life Note](https://mylifenote.ai) - Journal with the greatest minds in human history. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Clipboard Tools
+
+*   [Yippy (⭐355)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Reading and Writing Tools / Note-taking
@@ -1321,12 +1325,6 @@
 ### Utilities / Productivity
 
 *   [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
-
-## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
-
-### Utilities / Clipboard Tools
-
-*   [Yippy](https://yippy.mattdavo.com/) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 

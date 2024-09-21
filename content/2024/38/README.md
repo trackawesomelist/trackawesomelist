@@ -308,6 +308,10 @@
 
 *   [Life Note](https://mylifenote.ai) - Journal with the greatest minds in human history. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Utilities / Clipboard Tools
+
+*   [Yippy (⭐355)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [27. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Beginner
@@ -384,6 +388,10 @@
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
+
+### Image Upscaling / Deforum
+
+*   [Leonardo AI Upscaler](https://leonadoai.com/upscaler/): free image upscaler
 
 ### Image Segmentation / Deforum
 
