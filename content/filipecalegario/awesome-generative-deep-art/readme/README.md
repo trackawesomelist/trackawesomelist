@@ -112,6 +112,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Generative AI history, timelines, maps, and definitions
 
+*   [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/): interactive timeline visualization made by Information Is Beautiful
 *   [The AI Timeline (@TheAITimeline) / X](https://x.com/TheAITimeline)
 *   [Generative AI for Beginners: Part 1 — Introduction to AI | by Raja Gupta | Medium](https://medium.com/@raja.gupta20/generative-ai-for-beginners-part-1-introduction-to-ai-eadb5a71f07d)
 *   [Artificial Intelligence Learning Roadmap \[AI Roadmap\] 2024](https://www.mltut.com/artificial-intelligence-learning-roadmap/)
@@ -553,6 +554,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Prompt Engineering
 
+*   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
 *   [Anthropic's Prompt Engineering Interactive Tutorial (⭐5k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 *   [ncwilson78/System-Prompt-Library (⭐46)](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 *   [Promptstacks](https://www.promptstacks.com/): a prompt engineering community
@@ -737,6 +739,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### LLM Evaluation
 
+*   [PAIR-code/llm-comparator (⭐274)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 *   [confident-ai/deepeval (⭐3k)](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
 *   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)

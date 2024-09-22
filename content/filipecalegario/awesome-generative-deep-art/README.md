@@ -6,6 +6,20 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 22, 2024](/content/2024/09/22/README.md)
+
+### Generative AI history, timelines, maps, and definitions
+
+*   [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/): interactive timeline visualization made by Information Is Beautiful
+
+### Prompt Engineering
+
+*   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
+
+### LLM Evaluation / Multi-agents
+
+*   [PAIR-code/llm-comparator (⭐274)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
+
 ## [Sep 21, 2024](/content/2024/09/21/README.md)
 
 ### Image Upscaling / Deforum

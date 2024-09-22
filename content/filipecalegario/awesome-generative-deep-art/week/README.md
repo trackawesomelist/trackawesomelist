@@ -8,13 +8,25 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
+### Generative AI history, timelines, maps, and definitions
+
+*   [The Rise of Generative AI Large Language Models (LLMs)](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/): interactive timeline visualization made by Information Is Beautiful
+
 ### Critical Views about Generative AI
 
 *   [\[2406.17864\] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
 
+### Prompt Engineering
+
+*   [Narrow AI](https://www.getnarrow.ai/): Automated Prompt Engineering and Optimization Platform
+
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
+
+### LLM Evaluation / Multi-agents
+
+*   [PAIR-code/llm-comparator (⭐274)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 
 ### Image Upscaling / Deforum
 
