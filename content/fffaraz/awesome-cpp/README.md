@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Sep 22, 2024](/content/2024/09/22/README.md)
+
+### GUI
+
+*   [wxCharts (⭐126)](https://github.com/wxIshiko/wxCharts) - A library to create charts in wxWidgets applications. \[MIT] [website](https://www.wxishiko.com/wxCharts/)
+
 ## [Sep 21, 2024](/content/2024/09/21/README.md)
 
 ### Miscellaneous

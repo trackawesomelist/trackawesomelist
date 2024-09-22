@@ -30,6 +30,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+*   [Selvakumaran @ HubPages](https://hubpages.com/@selvakumarank) profile.
 *   [Selva @ Instagram](https://www.instagram.com/ourmasterks)
 *   [Selvakumaran Krishnan @ MOZ](https://moz.com/community/q/user/selvakumaran)
 *   [Crunchbase profile of Selvakumaran Krishnan](https://www.crunchbase.com/person/selvakumaran-krishnan-20e4) with developer profile.
@@ -74,6 +75,7 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+*   [Online Business](https://ext-6630128.livejournal.com/495.html): A Path to Financial Freedom
 *   How wmWebStack Simplifies [Local Web Development](https://moneymakingstrategies1.wordpress.com/2024/09/18/how-wmwebstack-simplifies-local-web-development/)
 *   wmWebStack: The Best [Free Server Software for Windows](https://tan7078.livepositively.com/wmwebstack-the-best-free-server-software-for-windows-developers/) for web developrs.
 *   The Benefits of Using [wmWebStack as Your Localhost Server](https://www.timessquarereporter.com/technology/the-benefits-of-using-wmwebstack-as-your-localhost-server)

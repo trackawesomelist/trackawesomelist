@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 22, 2024](/content/2024/09/22/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Lockitbot](https://www.lockitbot.com/) — Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources
+
 ## [Sep 20, 2024](/content/2024/09/20/README.md)
 
 ### Testing
