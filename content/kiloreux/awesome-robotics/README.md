@@ -2,9 +2,15 @@
 
 A list of awesome Robotics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kiloreux/awesome-robotics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) · ⭐ 3K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kiloreux/awesome-robotics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) · ⭐ 4.2K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/kiloreux/awesome-robotics/week/README.md) / [Overview](/content/kiloreux/awesome-robotics/readme/README.md) ]
+
+## [Sep 23, 2024](/content/2024/09/23/README.md)
+
+### Courses
+
+*   [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
 
 ## [Feb 23, 2022](/content/2022/02/23/README.md)
 
@@ -31,12 +37,12 @@ A list of awesome Robotics resources
 *   [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
 *   [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
 *   [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
-*   [Advanced Robotics](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/) **UC Berkeley**
+*   [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 
 ### Misc
 
-*   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+*   [Hexapod Robot Simulator (⭐582)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+*   [PythonRobotics (⭐23k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
 ## [Oct 15, 2020](/content/2020/10/15/README.md)
 
@@ -58,7 +64,7 @@ A list of awesome Robotics resources
 
 ### Related awesome lists
 
-*   [Awesome RoboCupJunior Soccer (⭐16)](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+*   [Awesome RoboCupJunior Soccer (⭐53)](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
 
 ## [Sep 03, 2019](/content/2019/09/03/README.md)
 
@@ -67,7 +73,7 @@ A list of awesome Robotics resources
 *   [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
 *   [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
 *   [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
-*   [Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/) **UCBerkeley**
+*   [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
 
 ### Books
 
@@ -80,8 +86,8 @@ A list of awesome Robotics resources
 
 ### Related awesome lists
 
-*   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
-*   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
+*   [Awesome Gazebo (⭐129)](https://github.com/fkromer/awesome-gazebo)
+*   [Awesome ROS2 (⭐1.7k)](https://github.com/fkromer/awesome-ros2)
 
 ## [Sep 21, 2018](/content/2018/09/21/README.md)
 
@@ -147,8 +153,8 @@ A list of awesome Robotics resources
 
 ### Related awesome lists
 
-*   [Awesome Robotics (⭐628)](https://github.com/ahundt/awesome-robotics)
-*   [Awesome Robotics Libraries (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries)
+*   [Awesome Robotics (⭐979)](https://github.com/ahundt/awesome-robotics)
+*   [Awesome Robotics Libraries (⭐2.3k)](https://github.com/jslee02/awesome-robotics-libraries)
 
 ## [Jan 26, 2017](/content/2017/01/26/README.md)
 
@@ -240,8 +246,8 @@ A list of awesome Robotics resources
 
 ### Related awesome lists
 
-*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
-*   [Awesome Reinforcement Learning (⭐7.9k)](https://github.com/aikorea/awesome-rl/)
+*   [Awesome Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Reinforcement Learning (⭐8.8k)](https://github.com/aikorea/awesome-rl/)
 
 ## [May 03, 2016](/content/2016/05/03/README.md)
 
@@ -271,7 +277,7 @@ A list of awesome Robotics resources
 
 ### Books
 
-*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 
 ## [Feb 15, 2016](/content/2016/02/15/README.md)
 
@@ -313,7 +319,7 @@ A list of awesome Robotics resources
 
 ### Books
 
-*   [A gentle introduction to ROS](https://cse.sc.edu/\~jokane/agitr/agitr-letter.pdf)
+*   [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 
 ## [Dec 12, 2015](/content/2015/12/12/README.md)
 
@@ -326,7 +332,7 @@ A list of awesome Robotics resources
 ### Papers
 
 *   [Optimization Based Controller Design and Implementation for the
-    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/\~cga/drc/ICHR15_0025_MS.pdf)
+    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
 ### Competitions
 
@@ -347,7 +353,7 @@ A list of awesome Robotics resources
 *   [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
 *   [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
 *   [Planning Algorithms](http://planning.cs.uiuc.edu/)
-*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/\~murray/mlswiki/?title=First_edition)
+*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 *   [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 *   [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 *   [INTECH Books](http://www.intechopen.com/subjects/robotics)
@@ -358,7 +364,7 @@ A list of awesome Robotics resources
 
 ### Related awesome lists
 
-*   [Awesome Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence)
-*   [Awesome Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision)
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [Awesome Artificial Intelligence (⭐10k)](https://github.com/owainlewis/awesome-artificial-intelligence)
+*   [Awesome Computer Vision (⭐21k)](https://github.com/jbhuang0604/awesome-computer-vision)
+*   [Awesome Machine Learning (⭐65k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Learning (⭐24k)](https://github.com/ChristosChristofidis/awesome-deep-learning)

@@ -30,6 +30,7 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+*   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
 *   [Selvakumaran @ HubPages](https://hubpages.com/@selvakumarank) profile.
 *   [Selva @ Instagram](https://www.instagram.com/ourmasterks)
 *   [Selvakumaran Krishnan @ MOZ](https://moz.com/community/q/user/selvakumaran)
@@ -75,6 +76,7 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+*   12 key [SEO metrics and ranking factors](https://top-list-reads.blogspot.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
 *   [Online Business](https://ext-6630128.livejournal.com/495.html): A Path to Financial Freedom
 *   How wmWebStack Simplifies [Local Web Development](https://moneymakingstrategies1.wordpress.com/2024/09/18/how-wmwebstack-simplifies-local-web-development/)
 *   wmWebStack: The Best [Free Server Software for Windows](https://tan7078.livepositively.com/wmwebstack-the-best-free-server-software-for-windows-developers/) for web developrs.
@@ -171,6 +173,7 @@ Interesting topics on all subjects:
 
 ## List of company profiles
 
+*   [Wikimint @ Pinterest](https://in.pinterest.com/selvaklnc/wikimint/) insightful board.
 *   [Wikimint @ Issuu](https://issuu.com/wikimint) with recent publications.
 *   [Wikimint @ Trustpilot](https://www.trustpilot.com/review/wikimint.com) reviews.
 *   [Wikimint @ YouTube](https://www.youtube.com/c/wikimint) publishing videos on various topics.

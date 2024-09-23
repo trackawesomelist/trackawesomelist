@@ -2,9 +2,15 @@
 
 :sunglasses: A complete list of Arch-based projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 313 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 426 · 🏷️ Platforms
 
 [ [Daily](/content/PandaFoss/Awesome-Arch/README.md) / Weekly / [Overview](/content/PandaFoss/Awesome-Arch/readme/README.md) ]
+
+## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
+
+### Inactive projects / Other
+
+*   **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
@@ -24,11 +30,11 @@
 
 ### AUR Helpers / Pacman wrappers
 
-*   [amethyst (⭐90)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
+*   [amethyst (⭐102)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
 
 ### Other projects / Other
 
-*   [makepkg-optimize (⭐12)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
+*   [makepkg-optimize (⭐17)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -42,19 +48,13 @@
 
 ### Other projects / Other
 
-*   [JuNest (⭐1.8k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+*   [JuNest (⭐2.1k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
 ### Other projects / Other
 
-*   [Dotfiles Generator (⭐54)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
-
-## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
-
-### Arch Linux Installers / Specific purpose
-
-*   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
+*   [Dotfiles Generator (⭐91)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -66,7 +66,7 @@
 
 ### AUR Helpers / Pacman wrappers
 
-*   [Paru (⭐4.4k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+*   [Paru (⭐6.1k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Arch Linux Installers / Specific purpose
 
-*   [Archfi (⭐2.4k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+*   [Archfi (⭐2.5k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
@@ -114,51 +114,51 @@
 
 ### AUR Helpers / Search and download
 
-*   [Auracle (⭐222)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
+*   [Auracle (⭐236)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
 *   [pbget](https://xyne.archlinux.ca/projects/pbget/) (Python) - Retrieve PKGBUILDs and local source files from Git, ABS and the AUR for makepkg.
-*   [repoctl (⭐98)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
+*   [repoctl (⭐122)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
 *   [yaah](https://projects.metalgamer.eu/yaah) (Bash) - A helper for the Archlinux User Repository (AUR).
 
 ### AUR Helpers / Search and build
 
-*   [Aurutils (⭐858)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
+*   [Aurutils (⭐945)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
 *   [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
-*   [PKGBUILDer (⭐63)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
+*   [PKGBUILDer (⭐69)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
 *   [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
-*   [RUA (⭐334)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+*   [RUA (⭐425)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 
 ### AUR Helpers / Pacman wrappers
 
-*   [Aura (⭐1.5k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-*   [Pacaur (⭐99)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
-*   [Pakku (⭐131)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
-*   [pikaur (⭐784)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
-*   [Trizen (⭐772)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
-*   [Yay (⭐9.1k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
+*   [Aura (⭐1.7k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+*   [Pacaur (⭐110)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
+*   [Pakku (⭐130)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
+*   [pikaur (⭐859)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+*   [Trizen (⭐794)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
+*   [Yay (⭐11k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
 
 ### AUR Helpers / Graphical
 
-*   [Argon (⭐30)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
-*   [Cylon (⭐152)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+*   [Argon (⭐35)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
+*   [Cylon (⭐165)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
 *   [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
 *   [Pakku GUI](https://gitlab.com/mrvik/pakku-gui) (Python | GTK3) - Basic GTK interface to (install|remove|upgrade) packages with `pakku`.
 *   [Octopi](https://tintaescura.com/projects/octopi) (C++ | Qt5) - A graphical user interface for the Arch Linux package management tool `pacman`.
-*   [Yup (⭐127)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
+*   [Yup (⭐139)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 
 ### AUR Helpers / Maintenance
 
 *   [aur-out-of-date (⭐48)](https://github.com/simon04/aur-out-of-date) - Determines out-of-date AUR packages w\.r.t. upstream version.
-*   [aurpublish (⭐211)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
+*   [aurpublish (⭐246)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
 *   [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
 *   [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - Alerts you to upstream activity.
-*   [pkgoutofdate (⭐8)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
+*   [pkgoutofdate (⭐10)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
 
 ### AUR Helpers / Other
 
 *   [aur-talk (⭐15)](https://github.com/GermainZ/aur-talk) - A script to fetch and display AUR package comments.
-*   [aurvote-utils (⭐8)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
+*   [aurvote-utils (⭐10)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
 *   [haskell-aur](https://hackage.haskell.org/package/aur) - Haskell library for accessing Aurweb RPC interface.
-*   [package-query (⭐67)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
+*   [package-query (⭐69)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
 *   [python3-aur](https://xyne.archlinux.ca/projects/python3-aur) - AUR-related modules and helper utilities (aurploader, aurquery, aurtomatic).
 *   [raur](https://gitlab.com/davidbittner/raur) - Rust library for accessing Aurweb RPC interface.
 

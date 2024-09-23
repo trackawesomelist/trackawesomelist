@@ -2,9 +2,15 @@
 
 A curated list of cryptography papers, articles, tutorials and howtos.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.6K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) · ⭐ 1.8K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
+
+## [Sep 23, 2024](/content/2024/09/23/README.md)
+
+### Books / Post-quantum cryptography
+
+*   [CrypTool book](https://www.cryptool.org/en/ctbook/) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
 
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
@@ -112,7 +118,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Proofs of knowledge](https://cseweb.ucsd.edu/~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
-*   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
+*   [Knowledge complexity of interactive proof systems (⭐3)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography
 
@@ -289,7 +295,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 ### Books / Post-quantum cryptography
 
-*   [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
 *   [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 

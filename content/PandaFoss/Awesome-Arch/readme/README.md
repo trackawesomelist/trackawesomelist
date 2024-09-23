@@ -2,7 +2,7 @@
 
 :sunglasses: A complete list of Arch-based projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 313 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PandaFoss/Awesome-Arch/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch) · ⭐ 426 · 🏷️ Platforms
 
 [ [Daily](/content/PandaFoss/Awesome-Arch/README.md) / [Weekly](/content/PandaFoss/Awesome-Arch/week/README.md) / Overview ]
 
@@ -116,63 +116,62 @@
 
 > Installers created specifically to facilitate the installation of Linux Arch.
 
-*   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
-*   [Archfi (⭐2.4k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+*   [Archfi (⭐2.5k)](https://github.com/MatMoul/archfi) - Just a simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 *   [aui (⭐2.8k)](https://github.com/helmuthdu/aui) - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 
 ## AUR Helpers
 
 ### Search and download
 
-*   [Auracle (⭐222)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
+*   [Auracle (⭐236)](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
 *   [pbget](https://xyne.archlinux.ca/projects/pbget/) (Python) - Retrieve PKGBUILDs and local source files from Git, ABS and the AUR for makepkg.
-*   [repoctl (⭐98)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
+*   [repoctl (⭐122)](https://github.com/cassava/repoctl) (Go) - Make it easy to manage your local Arch Linux repository.
 *   [yaah](https://projects.metalgamer.eu/yaah) (Bash) - A helper for the Archlinux User Repository (AUR).
 
 ### Search and build
 
-*   [Aurutils (⭐858)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
+*   [Aurutils (⭐945)](https://github.com/AladW/aurutils) (Bash) - Helper tools for the AUR.
 *   [Bauerbill](https://xyne.archlinux.ca/projects/bauerbill/) (Python) - An extension of Powerpill with AUR and ABS support.
-*   [PKGBUILDer (⭐63)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
+*   [PKGBUILDer (⭐69)](https://github.com/Kwpolska/pkgbuilder) (Python) - An AUR helper (and library) in Python 3.
 *   [repofish](https://git.seppia.net/repofish.git) (Bash) - Simple shell script used to manage a local archlinux repository.
-*   [RUA (⭐334)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
+*   [RUA (⭐425)](https://github.com/vn971/rua) (Rust) - Build tool for Arch Linux providing control, review and jailed build options.
 
 ### Pacman wrappers
 
-*   [amethyst (⭐90)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
-*   [Aura (⭐1.5k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
-*   [Pacaur (⭐99)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
-*   [Pakku (⭐131)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
-*   [Paru (⭐4.4k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
-*   [pikaur (⭐784)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
-*   [Trizen (⭐772)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
-*   [Yay (⭐9.1k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
+*   [amethyst (⭐102)](https://github.com/crystal-linux/amethyst) (Rust) - A fast, efficient and lightweight AUR helper and Pacman wrapper made for Crystal, compatible with any Arch-based Linux distribution.
+*   [Aura (⭐1.7k)](https://github.com/fosskers/aura) (Haskell) - A secure, multilingual package manager for Arch Linux and the AUR.
+*   [Pacaur (⭐110)](https://github.com/E5ten/pacaur) (Bash) - An AUR helper that minimizes user interaction.
+*   [Pakku (⭐130)](https://github.com/kitsunyan/pakku) (Nim) - `pacman` wrapper with AUR support.
+*   [Paru (⭐6.1k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
+*   [pikaur (⭐859)](https://github.com/actionless/pikaur) (Python) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+*   [Trizen (⭐794)](https://github.com/trizen/trizen) (Perl) - Lightweight AUR Package Manager.
+*   [Yay (⭐11k)](https://github.com/Jguer/yay) (Go) - Yet another Yogurt, an AUR Helper written in Go.
 
 ### Graphical
 
-*   [Argon (⭐30)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
-*   [Cylon (⭐152)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+*   [Argon (⭐35)](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - lightweight GUI package manager for Arch Linux.
+*   [Cylon (⭐165)](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
 *   [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
 *   [Pakku GUI](https://gitlab.com/mrvik/pakku-gui) (Python | GTK3) - Basic GTK interface to (install|remove|upgrade) packages with `pakku`.
 *   [PkgBrowser](https://osdn.net/projects/pkgbrowser) (Python | Qt5) - A utility for browsing `pacman` databases and the AUR.
 *   [Octopi](https://tintaescura.com/projects/octopi) (C++ | Qt5) - A graphical user interface for the Arch Linux package management tool `pacman`.
-*   [Yup (⭐127)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
+*   [Yup (⭐139)](https://github.com/ericm/yup) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 
 ### Maintenance
 
 *   [aur-out-of-date (⭐48)](https://github.com/simon04/aur-out-of-date) - Determines out-of-date AUR packages w\.r.t. upstream version.
-*   [aurpublish (⭐211)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
+*   [aurpublish (⭐246)](https://github.com/eli-schwartz/aurpublish) - PKGBUILD management framework for the Arch User Repository.
 *   [devtools](https://git.archlinux.org/devtools.git/) - Tools for the Arch Linux distribution for building and maintaining official repository packages.
 *   [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - Alerts you to upstream activity.
-*   [pkgoutofdate (⭐8)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
+*   [pkgoutofdate (⭐10)](https://github.com/anatol/pkgoutofdate) - Checks whether Arch packages are out-of-date.
 
 ### Other
 
 *   [arch-audit](https://gitlab.com/ilpianista/arch-audit) - A utility like pkg-audit based on Arch Security Team data.
 *   [aur-talk (⭐15)](https://github.com/GermainZ/aur-talk) - A script to fetch and display AUR package comments.
-*   [aurvote-utils (⭐8)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
+*   [aurvote-utils (⭐10)](https://github.com/jadenPete/aurvote-utils) - A set of utilities for managing AUR votes.
 *   [haskell-aur](https://hackage.haskell.org/package/aur) - Haskell library for accessing Aurweb RPC interface.
-*   [package-query (⭐67)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
+*   [package-query (⭐69)](https://github.com/archlinuxfr/package-query) - Tool for querying `libalpm` and the AUR.
 *   [python3-aur](https://xyne.archlinux.ca/projects/python3-aur) - AUR-related modules and helper utilities (aurploader, aurquery, aurtomatic).
 *   [raur](https://gitlab.com/davidbittner/raur) - Rust library for accessing Aurweb RPC interface.
 
@@ -180,12 +179,12 @@
 
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
-*   [Dotfiles Generator (⭐54)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
+*   [Dotfiles Generator (⭐91)](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 *   [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
 *   [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 *   [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
-*   [JuNest (⭐1.8k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
-*   [makepkg-optimize (⭐12)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
+*   [JuNest (⭐2.1k)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+*   [makepkg-optimize (⭐17)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
 
 ## Inactive projects
 
@@ -194,6 +193,7 @@
 *   **Arch XFerience** - A modern OS based on Arch Linux, built for day-to-day operations with tons of packages & features. (inactive)
 *   **Chakra GNU/Linux** - A user-friendly and powerful distribution and live CD originally forked from Arch Linux. ([discontinued](https://twitter.com/chakralinux/status/1475111596640727045))
 *   **Archphile** - *(Raspberry Pi/ARM/Audio)* - Yet another linux audio distribution for embedded boards. (inactive)
+*   **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
 ## Contribute
 
@@ -226,9 +226,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="12.5%"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt="Ulises Jeremias Cornejo Fandos"/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt="Andrea"/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/codecrap"><img src="https://avatars.githubusercontent.com/u/5834554?v=4?s=100" width="100px;" alt="Olexiy"/><br /><sub><b>Olexiy</b></sub></a><br /><a href="#content-codecrap" title="Content">🖋</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt="0xMRTT"/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/ghost"><img src="https://avatars.githubusercontent.com/u/10137?v=4?s=100" width="100px;" alt="Deleted user"/><br /><sub><b>Deleted user</b></sub></a><br /><a href="#maintenance-ghost" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
@@ -239,7 +242,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors (⭐7k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors (⭐7.6k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## License
 

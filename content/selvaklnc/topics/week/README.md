@@ -4,6 +4,20 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
+
+### List of articles and posts
+
+*   12 key [SEO metrics and ranking factors](https://top-list-reads.blogspot.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
+
+### List of company profiles
+
+*   [Wikimint @ Pinterest](https://in.pinterest.com/selvaklnc/wikimint/) insightful board.
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### List of interesting topics
