@@ -6,6 +6,13 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Sep 23, 2024](/content/2024/09/23/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [bakageddy/alduin.nvim (⭐1)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐440)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
+*   [diegoulloao/neofusion.nvim (⭐162)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
+
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
 ### AI / Diagnostics

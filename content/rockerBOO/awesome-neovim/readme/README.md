@@ -577,6 +577,8 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [0xstepit/flow.nvim (⭐159)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 *   [samharju/serene.nvim (⭐17)](https://github.com/samharju/serene.nvim) - A soothing and dark Tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 *   [killitar/obscure.nvim (⭐10)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [bakageddy/alduin.nvim (⭐1)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐440)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
+*   [diegoulloao/neofusion.nvim (⭐162)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 
 ### Lua Colorscheme
 

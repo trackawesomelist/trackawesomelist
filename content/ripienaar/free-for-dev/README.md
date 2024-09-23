@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 23, 2024](/content/2024/09/23/README.md)
+
+### CI and CD
+
+*   [blacksmith](https://www.blacksmith.sh/) - Managed performance runners for GitHub Actions that provides 3,000 free minutes per month, with no credit card needed.
+
+### PaaS
+
+*   [genezio](https://genezio.com/) - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.
+
+### Storage and Media Processing
+
+*   [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
+
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
 ### Tools for Teams and Collaboration
@@ -1251,7 +1265,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### PaaS
 
-*   [Cosmonic](https://cosmonic.com) - Feature-rich WebAssembly PaaS and SDKs for low boilerplate, flexible, and secure by default microservices. Always free tier includes a managed host, 25 microservices, and capabilities like a robust key-value store, load-balanced public HTTP endpoints, and more.
 *   [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
 
 ### Web Hosting
@@ -4165,7 +4178,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
 
-### PaaS
+### Low-code Platform
 
 *   [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
 
@@ -4676,12 +4689,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Security and PKI
 
 *   [DJ Checkup](https://djcheckup.com) — Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.
-
-## [Oct 11, 2020](/content/2020/10/11/README.md)
-
-### PaaS
-
-*   [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. The free tier provides enough to run five services and collaborate with others.
 
 ## [Oct 07, 2020](/content/2020/10/07/README.md)
 

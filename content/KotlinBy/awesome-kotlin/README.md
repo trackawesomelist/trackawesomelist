@@ -6,11 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Sep 18, 2024](/content/2024/09/18/README.md)
-
-### Libraries/Frameworks / Misc
-
-*   [kryptokrona/kryptokrona-kotlin-sdk (⭐50)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+## [Sep 23, 2024](/content/2024/09/23/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -249,8 +245,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Misc
 
-*   [jillesvangurp/geogeometry (⭐125)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 *   [jillesvangurp/querylight (⭐5)](https://github.com/jillesvangurp/querylight) - In memory search engine for simple in app search. Implements tf/idf and a some basic queries, tokenizers and analyzers.
+*   [jillesvangurp/geogeometry (⭐125)](https://github.com/jillesvangurp/geogeometry) - GeoGeometry is a set of algorithms and functions for manipulating geo hashes and geometric shapes with geo coordinates
 
 ### Libraries/Frameworks / API Clients
 
@@ -309,8 +305,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [Ashampoo/kim (⭐163)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 *   [Ashampoo/xmpcore (⭐16)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
+*   [Ashampoo/kim (⭐163)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
 
 ## [Jul 04, 2023](/content/2023/07/04/README.md)
 
@@ -1903,16 +1899,16 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Parsers
 
-*   [ParserKt/ParserKt (⭐14)](https://github.com/ParserKt/ParserKt)
-*   [h0tk3y/better-parse (⭐417)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [ParserKt/ParserKt (⭐14)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
 *   [fork-handles/parser4k (⭐210)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [h0tk3y/better-parse (⭐417)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [ionspin/kotlin-multiplatform-bignum (⭐350)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
-*   [davidepianca98/KMQTT (⭐184)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
-*   [GitLiveApp/firebase-kotlin-sdk (⭐1.1k)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 *   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
+*   [davidepianca98/KMQTT (⭐184)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
+*   [ionspin/kotlin-multiplatform-bignum (⭐350)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [GitLiveApp/firebase-kotlin-sdk (⭐1.1k)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
 
 ### Libraries/Frameworks / Extensions
 

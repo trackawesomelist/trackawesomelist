@@ -3039,6 +3039,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Hertz (⭐5.1k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 *   [hiboot (⭐180)](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 *   [Huma (⭐1.9k)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+*   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 *   [Lit (⭐24)](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 *   [Macaron (⭐3.5k)](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 *   [mango (⭐372)](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.

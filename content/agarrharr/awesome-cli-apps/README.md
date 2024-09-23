@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Sep 23, 2024](/content/2024/09/23/README.md)
+
+### Entertainment / Music
+
+*   [mpvc (⭐92)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
+
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
 ### Utilities / System Interaction Utilities
@@ -132,7 +138,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐82k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐83k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
@@ -160,7 +166,7 @@
 
 ## [Oct 03, 2022](/content/2022/10/03/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [rebound (⭐4.1k)](https://github.com/shobrook/rebound) - Fetch Stack Overflow results on compiler error.
 *   [bcal (⭐629)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
@@ -304,7 +310,7 @@
 
 ### Development / Text Editors
 
-*   [neovim (⭐81k)](https://github.com/neovim/neovim) - Modern vim.
+*   [neovim (⭐82k)](https://github.com/neovim/neovim) - Modern vim.
 *   [helix (⭐33k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
@@ -416,7 +422,7 @@
 
 *   [medium-cli (⭐708)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
 
-### Development / Books
+### Development / Chat
 
 *   [gdb-dashboard (⭐11k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 *   [iola (⭐152)](https://github.com/pvarentsov/iola) - Socket client with REST API.
@@ -518,7 +524,7 @@
 
 ## [May 23, 2021](/content/2021/05/23/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [grex (⭐7.2k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
@@ -580,7 +586,7 @@
 
 ## [Mar 26, 2021](/content/2021/03/26/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [just (⭐20k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
@@ -591,7 +597,7 @@
 *   [lstags (⭐327)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐3.8k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐36k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐135)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [docker-pushrm (⭐137)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Data Manipulation / Internet Speedtest
 
@@ -629,7 +635,7 @@
 
 ## [Oct 13, 2020](/content/2020/10/13/README.md)
 
-### Entertainment / Social Media
+### Entertainment / Chat
 
 *   [kirc (⭐523)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
@@ -687,7 +693,7 @@
 ### Files and Directories / Directory Listing
 
 *   [alder (⭐224)](https://github.com/aweary/alder) - Minimal `tree` with colors.
-*   [tre (⭐759)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐830)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐47)](https://github.com/antonmedv/ll) - `ls` with git status.
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
@@ -736,12 +742,6 @@
 ### Productivity / Time Tracking
 
 *   [utt (⭐327)](https://github.com/larose/utt) - Simple time tracking tool.
-
-## [Dec 10, 2019](/content/2019/12/10/README.md)
-
-### Entertainment / Social Media
-
-*   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 
 ## [Nov 25, 2019](/content/2019/11/25/README.md)
 
@@ -823,7 +823,7 @@
 
 ### Development / Database
 
-*   [sqlline (⭐615)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐613)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ## [Jul 17, 2019](/content/2019/07/17/README.md)
 
@@ -856,7 +856,7 @@
 
 ## [Jul 12, 2019](/content/2019/07/12/README.md)
 
-### Development / Books
+### Development / Chat
 
 *   [foy (⭐260)](https://github.com/zaaack/foy) - Lightweight general purpose task runner/build tool.
 
@@ -919,19 +919,10 @@
 
 ## [Mar 28, 2019](/content/2019/03/28/README.md)
 
-### Entertainment
-
-*   [football-cli (⭐1.1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
-
 ### Entertainment / Music
 
 *   [cmus (⭐5.5k)](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 *   [itunes-remote (⭐426)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
-
-### Entertainment / Social Media
-
-*   [Rainbowstream (⭐3.5k)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-*   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 
 ### Entertainment / Video
 
@@ -944,7 +935,11 @@
 *   [moviemon (⭐205)](https://github.com/iCHAIT/moviemon) - Everything about your movies.
 *   [movie (⭐159)](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
-### Development / Books
+### Entertainment / Chat
+
+*   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+
+### Development / Chat
 
 *   [legit (⭐562)](https://github.com/captainsafia/legit) - Generate Open Source licences as files or file headers.
 *   [mklicense (⭐188)](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info.
@@ -1008,7 +1003,7 @@
 
 ## [Mar 16, 2019](/content/2019/03/16/README.md)
 
-### Entertainment / Social Media
+### Entertainment / Chat
 
 *   [irssi (⭐2.9k)](https://github.com/irssi/irssi) - IRC chat client.
 
@@ -1124,10 +1119,6 @@
 
 ## [Mar 01, 2019](/content/2019/03/01/README.md)
 
-### Entertainment / Social Media
-
-*   [facebook-cli (⭐397)](https://github.com/specious/facebook-cli) - Facebook command line interface.
-
 ### Utilities / macOS
 
 *   [active-win-cli (⭐66)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
@@ -1201,12 +1192,6 @@
 ### Version Control / Git
 
 *   [git-standup (⭐7.6k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
-
-## [Mar 09, 2017](/content/2017/03/09/README.md)
-
-### Entertainment
-
-*   [pockyt (⭐502)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ## [Jul 06, 2016](/content/2016/07/06/README.md)
 

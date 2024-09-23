@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
+
+### Web Frameworks
+
+*   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### Continuous Integration

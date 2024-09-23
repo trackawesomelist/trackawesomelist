@@ -18,7 +18,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐326k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -99,8 +99,6 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 
 ## Entertainment
 
-*   [football-cli (⭐1.1k)](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
-*   [pockyt (⭐502)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 *   [newsboat (⭐2.9k)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Music
@@ -119,15 +117,7 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 *   [swaglyrics-for-spotify (⭐320)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 *   [dzr (⭐190)](https://github.com/yne/dzr) - deezer.com player.
 *   [radio-active (⭐494)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
-
-### Social Media
-
-*   [facebook-cli (⭐397)](https://github.com/specious/facebook-cli) - Facebook command line interface.
-*   [Rainbowstream (⭐3.5k)](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-*   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-*   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
-*   [irssi (⭐2.9k)](https://github.com/irssi/irssi) - IRC chat client.
-*   [kirc (⭐523)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+*   [mpvc (⭐92)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ### Video
 
@@ -136,7 +126,7 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.1k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐4.7k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐82k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐83k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -155,6 +145,12 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 *   [Bible.Js CLI (⭐302)](https://github.com/BibleJS/BibleApp) - Bible.
 *   [SpeedRead (⭐62)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 *   [medium-cli (⭐708)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+
+### Chat
+
+*   [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+*   [irssi (⭐2.9k)](https://github.com/irssi/irssi) - IRC chat client.
+*   [kirc (⭐523)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## Development
 
@@ -202,7 +198,7 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 
 *   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 *   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
-*   [sqlline (⭐615)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+*   [sqlline (⭐613)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 *   [iredis (⭐2.5k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 *   [usql (⭐8.9k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
@@ -225,7 +221,7 @@ Inspired by the [awesome (⭐323k)](https://github.com/sindresorhus/awesome) lis
 *   [lstags (⭐327)](https://github.com/ivanilves/lstags) - Synchronize images across registries.
 *   [dockly (⭐3.8k)](https://github.com/lirantal/dockly) - Interactively manage containers.
 *   [lazydocker (⭐36k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
-*   [docker-pushrm (⭐135)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
+*   [docker-pushrm (⭐137)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
 ### Release
 
@@ -543,7 +539,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 *   [alder (⭐224)](https://github.com/aweary/alder) - Minimal `tree` with colors.
 *   [eza (⭐11k)](https://github.com/eza-community/eza) - Improved version of `ls`.
-*   [tre (⭐759)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
+*   [tre (⭐830)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐47)](https://github.com/antonmedv/ll) - `ls` with git status.
 *   [lsd (⭐13k)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 
