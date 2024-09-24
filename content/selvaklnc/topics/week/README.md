@@ -12,7 +12,7 @@
 
 ### List of articles and posts
 
-*   12 key [SEO metrics and ranking factors](https://top-list-reads.blogspot.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
+*   12 key [SEO metrics and ranking factors](https://developer.wikimint.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
 
 ### List of company profiles
 

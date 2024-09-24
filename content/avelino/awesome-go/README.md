@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 24, 2024](/content/2024/09/24/README.md)
+
+### Maps
+
+*   [go-shelve (⭐4)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
+
 ## [Sep 23, 2024](/content/2024/09/23/README.md)
 
 ### Web Frameworks
@@ -923,7 +929,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [beelzebub (⭐646)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐660)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
