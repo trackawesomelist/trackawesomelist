@@ -228,6 +228,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [FlashRAG (⭐1.1k)](https://github.com/RUC-NLPIR/FlashRAG): A Python Toolkit for Efficient RAG Research \[Mar 2024]
     *   [Canopy (⭐949)](https://github.com/pinecone-io/canopy): open-source RAG framework and context engine built on top of the Pinecone vector database. \[Aug 2023]
     *   [kotaemon (⭐12k)](https://github.com/Cinnamon/kotaemon): open-source clean & customizable RAG UI for chatting with your documents. \[Mar 2024]
+    *   [PaperQA2 (⭐5.8k)](https://github.com/Future-House/paper-qa): High accuracy RAG for answering questions from scientific documents with citations \[Feb 2023]
 *   Applications, Frameworks, and User Interface (UI/UX): [X-ref](#applications-frameworks-and-user-interface-uiux)
 
 ### **LlamaIndex**
@@ -587,6 +588,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [OpenAI Official .NET Library (⭐1.1k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
     *   [Smart Components (⭐696)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
     *   [Prompt Buddy (⭐153)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
+    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
 
 *   Guideline
     *   [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857): Retrieval-Augmented Generation (RAG) \[09 Jun 2023]
@@ -983,8 +985,9 @@ class AgentType(str, Enum):
     *   [Open AI: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2005.14165)] \[28 May 2020]
 
 3.  [Chain of Thought (CoT)](https://arxiv.org/abs/2201.11903): Chain-of-Thought Prompting Elicits Reasoning in Large Language Models \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2201.11903)]: ReAct and Self Consistency also inherit the CoT concept. \[28 Jan 2022]
+    *   Family of CoT: `Self-Consistency (CoT-SC)` > `Tree of Thought (ToT)` > `Graph of Thoughts (GoT)` > [`Iteration of Thought (IoT)`](https://arxiv.org/abs/2409.12618) \[19 Sep 2024], [`Diagram of Thought (DoT)`](https://arxiv.org/abs/2409.10038) \[16 Sep 2024] / [`To CoT or not to CoT?`](https://arxiv.org/abs/2409.12183): Meta-analysis of 100+ papers shows CoT significantly improves performance in math and logic tasks. \[18 Sep 2024]
 
-4.  [Self-Consistency](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]
+4.  [Self-Consistency (CoT-SC)](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]
 
 5.  [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
     *   Critique: Review your previous answer and find problems with your answer.
@@ -992,7 +995,7 @@ class AgentType(str, Enum):
 
 6.  [ReAct](https://arxiv.org/abs/2210.03629): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2210.03629)]: Grounding with external sources. (Reasoning and Act): Combines reasoning and acting [ref](https://react-lm.github.io/) \[6 Oct 2022]
 
-7.  [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.6k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.3k)](https://github.com/kyegomez/tree-of-thoughts)
+7.  [Tree of Thought (ToT)](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.6k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.3k)](https://github.com/kyegomez/tree-of-thoughts)
 
     *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
     *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
@@ -1064,6 +1067,8 @@ class AgentType(str, Enum):
 
 25. [Is the new norm for NLP papers "prompt engineering" papers?](https://www.reddit.com/r/MachineLearning/comments/1ei9e3l/d_is_the_new_norm_for_nlp_papers_prompt/): "how can we make LLM 1 do this without training?" Is this the new norm? The CL section of arXiv is overwhelming with papers like "how come LLaMA can't understand numbers?" \[2 Aug 2024]
 
+26. [Re-Reading Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.06275): RE2 (Re-Reading), which involves re-reading the question as input to enhance the LLM's understanding of the problem. `Read the question again` \[12 Sep 2023]
+
 *   <details>
 
     <summary>Expand</summary>
@@ -1107,7 +1112,7 @@ class AgentType(str, Enum):
 *   [Copilot prompts (⭐175)](https://github.com/pnp/copilot-prompts): Examples of prompts for Microsoft Copilot. \[25 Apr 2024]
 *   [In-The-Wild Jailbreak Prompts on LLMs (⭐2.1k)](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts). Collected from December 2022 to December 2023 \[Aug 2023]
 *   [LangChainHub](https://smith.langchain.com/hub): a collection of all artifacts useful for working with LangChain primitives such as prompts, chains and agents. \[Jan 2023]
-*   [Anthropic courses > Prompt engineering interactive tutorial (⭐3.7k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐5k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
 
 ### **Finetuning**
 
@@ -1342,6 +1347,11 @@ class AgentType(str, Enum):
 *   [ORPO (odds ratio preference optimization)](https://arxiv.org/abs/2403.07691): Monolithic Preference Optimization without Reference Model. New method that `combines supervised fine-tuning and preference alignment into one process` [git (⭐410)](https://github.com/xfactlab/orpo) \[12 Mar 2024] [Fine-tune Llama 3 with ORPO](https://towardsdatascience.com/fine-tune-llama-3-with-orpo-56cfab2f9ada) \[Apr 2024] <br/> <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/orpo.png" width="400" />
 *   [Reinforcement Learning from AI Feedback (RLAF)](https://arxiv.org/abs/2309.00267): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.00267)]: Uses AI feedback to generate instructions for the model. TLDR: CoT (Chain-of-Thought, Improved), Few-shot (Not improved). Only explores the task of summarization. After training on a few thousand examples, performance is close to training on the full dataset. RLAIF vs RLHF: In many cases, the two policies produced similar summaries. \[1 Sep 2023]
 *   OpenAI Spinning Up in Deep RL!: An educational resource to help anyone learn deep reinforcement learning. [git (⭐10k)](https://github.com/openai/spinningup) \[Nov 2018]
+*   Preference optimization techniques: [ref](https://x.com/helloiamleonie/status/1823305448650383741) \[13 Aug 2024]
+    *   `DPO (Direct preference optimization)`  removes the need for a reward model.
+    *   `IPO (Identity Preference Optimization)` : A change in the objective, which is simpler and less prone to overfitting.
+    *   `KTO (Kahneman-Tversky Optimization)` : Scales more data by replacing the pairs of accepted and rejected generations with a binary label.
+    *   `ORPO (Odds Ratio Preference Optimization)` : Combines instruction tuning and preference optimization into one training process, which is cheaper and faster.
 
 ## **Model Compression for Large Language Models**
 
@@ -1638,7 +1648,7 @@ class AgentType(str, Enum):
 *   Google
     1.  [Gemma](http://ai.google.dev/gemma): Open weights LLM from Google DeepMind. [git (⭐2.4k)](https://github.com/google-deepmind/gemma) / Pytorch [git (⭐5.2k)](https://github.com/google/gemma_pytorch) \[Feb 2024]
     2.  [Gemma 2](https://www.kaggle.com/models/google/gemma-2/) 2B, 9B, 27B [ref: releases](https://ai.google.dev/gemma/docs/releases) \[Jun 2024]
-    3.  [DataGemma](https://blog.google/technology/ai/google-datagemma-ai-llm/) \[12 Sep 2024]
+    3.  [DataGemma](https://blog.google/technology/ai/google-datagemma-ai-llm/) \[12 Sep 2024] / [NotebookLM](https://blog.google/technology/ai/notebooklm-audio-overviews/): LLM-powered notebook. free to use, not open-source. \[12 Jul 2023]
 *   Qualcomm
     1.  [Qualcomm’s on-device AI models](https://huggingface.co/qualcomm): Bring generative AI to mobile devices \[Feb 2024]
 *   xAI
@@ -1702,7 +1712,7 @@ class AgentType(str, Enum):
 *   [OpenDevin](https://github.com/OpenDevin): an open-source project aiming to replicate Devin \[Mar 2024]
 *   [FrugalGPT](https://arxiv.org/abs/2305.05176): LLM with budget constraints, requests are cascaded from low-cost to high-cost LLMs. [git (⭐172)](https://github.com/stanford-futuredata/FrugalGPT) \[9 May 2023]
 *   [DeepSeek-Coder-V2 (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder-V2): Open-source Mixture-of-Experts (MoE) code language model \[17 Jun 2024]
-*   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+*   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024] / [Qwen 2.5-Coder (⭐571)](https://github.com/QwenLM/Qwen2.5-Coder) \[18 Sep 2024 ]
 *   [Chai-1 (⭐925)](https://github.com/chaidiscovery/chai-lab): a multi-modal foundation model for molecular structure prediction \[Sep 2024]
 
 ### **MLLM (multimodal large language model)**
@@ -2023,6 +2033,7 @@ class AgentType(str, Enum):
     *   [LM Studio](https://lmstudio.ai/): UI for Discover, download, and run local LLMs \[2023]
     *   [YaFSDP (⭐821)](https://github.com/yandex/YaFSDP): Yet another Fully Sharded Data Parallel (FSDP): enhanced for distributed training. YaFSDP vs DeepSpeed. \[May 2024]
     *   [vLLM (⭐27k)](https://github.com/vllm-project/vllm): Easy-to-use library for LLM inference and serving. \[Feb 2023]
+    *   [litellm (⭐12k)](https://github.com/BerriAI/litellm): Python SDK to call 100+ LLM APIs in OpenAI format \[Jul 2023]
 *   LLM Application
     *   [BIG-AGI (⭐5.3k)](https://github.com/enricoros/big-agi) FKA nextjs-chatgpt-app \[Mar 2023]
     *   [GPT Researcher (⭐14k)](https://github.com/assafelovic/gpt-researcher): Autonomous agent designed for comprehensive online research \[Jul 2023] / [GPT Newspaper (⭐1.2k)](https://github.com/assafelovic/gpt-newspaper): Autonomous agent designed to create personalized newspapers \[Jan 2024]
@@ -2041,6 +2052,8 @@ class AgentType(str, Enum):
     *   [chainlit (⭐6.8k)](https://github.com/Chainlit/chainlit): Build production-ready Conversational AI applications in minutes. \[Mar 2023]
     *   [CopilotKit (⭐9.9k)](https://github.com/CopilotKit/CopilotKit): Built-in React UI components \[Jun 2023]
     *   [Open-source GPT Wrappers](https://star-history.com/blog/gpt-wrappers) 1. [ChatGPT-Next-Web (⭐75k)](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) 2. [FastGPT (⭐17k)](https://github.com/labring/FastGPT) 3. [Lobe Chat (⭐41k)](https://github.com/lobehub/lobe-chat) \[Jan 2024]
+    *   [anything-llm (⭐23k)](https://github.com/Mintplex-Labs/anything-llm): All-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. \[Jun 2023]
+    *   [langfun (⭐207)](https://github.com/google/langfun): leverages PyGlove to integrate LLMs and programming. \[Aug 2023]
 *   Data Processing and Management
     *   [PostgresML (⭐5.9k)](https://github.com/postgresml/postgresml): The GPU-powered AI application database. \[Apr 2022]
     *   Azure AI Document Intelligence (FKA. Azure Form Recognizer): [ref](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence): Table and Meta data Extraction in the Document

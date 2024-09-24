@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Sep 24, 2024](/content/2024/09/24/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
+
 ## [Sep 21, 2024](/content/2024/09/21/README.md)
 
 ### Utilities / Clipboard Tools

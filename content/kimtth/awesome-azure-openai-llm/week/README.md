@@ -6,6 +6,26 @@
 
 [ [Daily](/content/kimtth/awesome-azure-openai-llm/README.md) / Weekly / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
+
+### **Prompt Engineering** / **Prompt Template Language**
+
+*   [Self-Consistency (CoT-SC)](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]
+*   [Tree of Thought (ToT)](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.6k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.3k)](https://github.com/kyegomez/tree-of-thoughts)
+
+    *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
+    *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
+    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
+*   [Re-Reading Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.06275): RE2 (Re-Reading), which involves re-reading the question as input to enhance the LLM's understanding of the problem. `Read the question again` \[12 Sep 2023]
+
+### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
+
+*   Preference optimization techniques: [ref](https://x.com/helloiamleonie/status/1823305448650383741) \[13 Aug 2024]
+    *   `DPO (Direct preference optimization)`  removes the need for a reward model.
+    *   `IPO (Identity Preference Optimization)` : A change in the objective, which is simpler and less prone to overfitting.
+    *   `KTO (Kahneman-Tversky Optimization)` : Scales more data by replacing the pairs of accepted and rejected generations with a binary label.
+    *   `ORPO (Odds Ratio Preference Optimization)` : Combines instruction tuning and preference optimization into one training process, which is cheaper and faster.
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
@@ -60,7 +80,7 @@
 
 ### **GPT for Domain Specific** / **GPT series release date**
 
-*   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024]
+*   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024] / [Qwen 2.5-Coder (⭐571)](https://github.com/QwenLM/Qwen2.5-Coder) \[18 Sep 2024 ]
 
 ### **MLLM (multimodal large language model)** / **GPT series release date**
 
@@ -125,7 +145,7 @@
 
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
-*   [Anthropic courses > Prompt engineering interactive tutorial (⭐3.7k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐5k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
 
 ### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
 
@@ -429,6 +449,7 @@
     *   [OpenAI Official .NET Library (⭐1.1k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
     *   [Smart Components (⭐696)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
     *   [Prompt Buddy (⭐153)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
+    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
 
 ### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
 
@@ -1462,10 +1483,6 @@
 
 *   [AI Central (⭐80)](https://github.com/microsoft/AICentral) (Oct 2023): An AI Control Center for monitoring, authenticating, and providing resilient access to multiple OpenAI services.
 
-### **Prompt Engineering** / **Prompt Template Language**
-
-*   [Self-Consistency](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]
-
 ### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [LLM Model Evals vs LLM Task Evals](https://x.com/aparnadhinak/status/1752763354320404488)
@@ -1700,6 +1717,7 @@
 ### **Prompt Engineering** / **Prompt Template Language**
 
 *   [Chain of Thought (CoT)](https://arxiv.org/abs/2201.11903): Chain-of-Thought Prompting Elicits Reasoning in Large Language Models \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2201.11903)]: ReAct and Self Consistency also inherit the CoT concept. \[28 Jan 2022]
+    *   Family of CoT: `Self-Consistency (CoT-SC)` > `Tree of Thought (ToT)` > `Graph of Thoughts (GoT)` > [`Iteration of Thought (IoT)`](https://arxiv.org/abs/2409.12618) \[19 Sep 2024], [`Diagram of Thought (DoT)`](https://arxiv.org/abs/2409.10038) \[16 Sep 2024] / [`To CoT or not to CoT?`](https://arxiv.org/abs/2409.12183): Meta-analysis of 100+ papers shows CoT significantly improves performance in math and logic tasks. \[18 Sep 2024]
 *   [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2309.03409)]: `Take a deep breath and work on this problem step-by-step.` to improve its accuracy. Optimization by PROmpting (OPRO) \[7 Sep 2023]
 
 ### **MLLM (multimodal large language model)** / **GPT series release date**
@@ -2169,11 +2187,6 @@
 *   [Recursively Criticizes and Improves (RCI)](https://arxiv.org/abs/2303.17491): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2303.17491)] \[30 Mar 2023]
     *   Critique: Review your previous answer and find problems with your answer.
     *   Improve: Based on the problems you found, improve your answer.
-*   [Tree of Thought](https://arxiv.org/abs/2305.10601): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.10601)]: Self-evaluate the progress intermediate thoughts make towards solving a problem \[17 May 2023] [git (⭐4.6k)](https://github.com/ysymyth/tree-of-thought-llm) / Agora: Tree of Thoughts (ToT) [git (⭐4.3k)](https://github.com/kyegomez/tree-of-thoughts)
-
-    *   `tree-of-thought\forest_of_thought.py`: Forest of thought Decorator sample
-    *   `tree-of-thought\tree_of_thought.py`: Tree of thought Decorator sample
-    *   `tree-of-thought\react-prompt.py`: ReAct sample without LangChain
 *   Zero-shot, one-shot and few-shot [cite](https://arxiv.org/abs/2005.14165) \[28 May 2020]
 
     <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/zero-one-few-shot.png" width="200">
