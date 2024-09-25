@@ -30,6 +30,11 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+*   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
+*   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
+*   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
+*   [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
+*   [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
 *   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
 *   [Selvakumaran @ HubPages](https://hubpages.com/@selvakumarank) profile.
 *   [Selva @ Instagram](https://www.instagram.com/ourmasterks)
@@ -229,4 +234,11 @@ Interesting topics on all subjects:
 *   [Search Wikimint](https://yandex.com.tr/search/?text=wikimint.com) on Yandex.
 *   [Top list reads](https://yandex.com.tr/search/?text=top-list-reads.blogspot.com) listicle blog on Yandex.
 *   [Search Ourmaster](https://yandex.com.tr/search/?text=ourmaster.wordpress.com) on Yandex.
+
+## Responses
+
+*   [Eco-Culture Research](http://crpgsa.unm.edu/2008/12/eco-culture-research-gallery.html) Gallery Presentation.
+*   Local [Food Rebuilds Small Town](http://crpgsa.unm.edu/2008/10/local-food-rebuilds-small-town-and.html) (And Inner-City) America.
+*   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
+*   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
 

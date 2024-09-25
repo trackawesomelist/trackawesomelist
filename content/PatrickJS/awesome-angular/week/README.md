@@ -8,6 +8,10 @@
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
+### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
+
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Ben And Engineering](https://www.youtube.com/@the__b_a_e)

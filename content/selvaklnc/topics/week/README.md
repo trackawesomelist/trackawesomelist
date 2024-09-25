@@ -8,6 +8,11 @@
 
 ### List of public profiles of Selvakumaran Krishnan
 
+*   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
+*   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
+*   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
+*   [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
+*   [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
 *   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
 
 ### List of articles and posts
@@ -17,6 +22,13 @@
 ### List of company profiles
 
 *   [Wikimint @ Pinterest](https://in.pinterest.com/selvaklnc/wikimint/) insightful board.
+
+### Responses
+
+*   [Eco-Culture Research](http://crpgsa.unm.edu/2008/12/eco-culture-research-gallery.html) Gallery Presentation.
+*   Local [Food Rebuilds Small Town](http://crpgsa.unm.edu/2008/10/local-food-rebuilds-small-town-and.html) (And Inner-City) America.
+*   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
+*   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 

@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
@@ -22,8 +22,8 @@
   - [Awesome Osint](/content/content/jivoi/awesome-osint/README.md)
   - [Awesome Algorithms](/content/content/tayllan/awesome-algorithms/README.md)
   - [Awesome Ruby](/content/content/markets/awesome-ruby/README.md)
-  - [Awesome Kotlin](/content/content/KotlinBy/awesome-kotlin/README.md)
   - [Awesome Angular](/content/content/PatrickJS/awesome-angular/README.md)
+  - [Awesome Kotlin](/content/content/KotlinBy/awesome-kotlin/README.md)
   - [Awesome Zsh Plugins](/content/content/unixorn/awesome-zsh-plugins/README.md)
   - [Awesome Elixir](/content/content/h4cc/awesome-elixir/README.md)
   - [Awesome Docker](/content/content/veggiemonk/awesome-docker/README.md)
@@ -2083,6 +2083,7 @@
 - [Days](daily/README.md)
   - [2024](2024/month/README.md)
     - [9](2024/9/day/README.md)
+      - [Sep 25, 2024](2024/09/25/README.md)
       - [Sep 24, 2024](2024/09/24/README.md)
       - [Sep 23, 2024](2024/09/23/README.md)
       - [Sep 22, 2024](2024/09/22/README.md)

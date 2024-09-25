@@ -4,6 +4,23 @@
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
+*   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
+*   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
+*   [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
+*   [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
+
+### Responses
+
+*   [Eco-Culture Research](http://crpgsa.unm.edu/2008/12/eco-culture-research-gallery.html) Gallery Presentation.
+*   Local [Food Rebuilds Small Town](http://crpgsa.unm.edu/2008/10/local-food-rebuilds-small-town-and.html) (And Inner-City) America.
+*   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
+*   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
+
 ## [Sep 24, 2024](/content/2024/09/24/README.md)
 
 ### List of articles and posts
