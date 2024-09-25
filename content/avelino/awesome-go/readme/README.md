@@ -1380,6 +1380,7 @@ additional ordered map implementations.
 *Toolkits*
 
 *   [app (⭐7.9k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
+*   [cimgui-go (⭐325)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐59k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
 *   [Cogent Core (⭐1.7k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 *   [DarwinKit (⭐5k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 *   [energy (⭐358)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
@@ -1724,6 +1725,7 @@ additional ordered map implementations.
 *   [guble (⭐158)](https://github.com/smancke/guble) - Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence.
 *   [hare (⭐53)](https://github.com/leozz37/hare) - A user friendly library for sending messages and listening to TCP sockets.
 *   [hub (⭐146)](https://github.com/leandro-lugaresi/hub) - A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
+*   [hypermatch (⭐17)](https://github.com/SchwarzIT/hypermatch) - A very fast and efficient Go library for matching events to a large set of rules
 *   [jazz (⭐18)](https://github.com/socifi/jazz) - A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
 *   [machinery (⭐7.5k)](https://github.com/RichardKnop/machinery) - Asynchronous task queue/job queue based on distributed message passing.
 *   [mangos (⭐671)](https://github.com/nanomsg/mangos) - Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.

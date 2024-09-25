@@ -633,6 +633,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-stripe (⭐218)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 *   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 *   [angular-three (⭐195)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐102k)](https://github.com/mrdoob/three.js).
+*   [limitless-angular (⭐10)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
 
 #### Internationalization
 
@@ -1487,11 +1488,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Other Lists
 
-> This Awesome List excludes some libraries that don't yet support Angular 16+.  If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
+> This Awesome List excludes some libraries that don't yet support Angular 16+. If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
 
 *   [awesome-utils-dev/angular (⭐141)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
 *   [awesome-angular (⭐89)](https://github.com/DaanDeSmedt/awesome-angular)
 *   [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
+*   [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
 
 ***
 

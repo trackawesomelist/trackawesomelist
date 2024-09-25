@@ -20,9 +20,17 @@
 
 *   [ng-rspack-build (⭐2)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐9.3k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [limitless-angular (⭐10)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
+
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-intl (⭐6)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
+
+### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 

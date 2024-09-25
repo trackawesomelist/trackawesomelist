@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### Contents / Productivity
+
+*   [Tasker (⭐146)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+
 ## [Sep 13, 2024](/content/2024/09/13/README.md)
 
 ### Contents / Education

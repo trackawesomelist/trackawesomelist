@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 850 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.1K · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐850)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -351,6 +351,7 @@ For the latest additions [click here (⭐850)](https://github.com/agamm/awesome-
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
+*   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 *   [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
 *   [Rollbar](https://rollbar.com/) - Reports errors in production.
 *   [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
@@ -359,7 +360,6 @@ For the latest additions [click here (⭐850)](https://github.com/agamm/awesome-
 
 *Interactions with natural language.*
 
-*   [CometLLM (⭐514)](https://github.com/comet-ml/comet-llm) - UI to log, visualize, and search prompts, prompt templates, prompt variables, and chains. [![Comet](https://img.shields.io/github/stars/comet-ml/comet-llm?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/comet-llm)
 *   [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
@@ -461,5 +461,5 @@ For the latest additions [click here (⭐850)](https://github.com/agamm/awesome-
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐850)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐1.1k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

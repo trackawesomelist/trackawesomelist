@@ -8,6 +8,11 @@
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
+### **LangChain Agent & Memory** / **Criticism to LangChain**
+
+*   [How to Build Ridiculously Complex LLM Pipelines with LangGraph!](https://newsletter.theaiedge.io/p/how-to-build-ridiculously-complex) \[17 Sep 2024 ]
+    > LangChain does too much, and as a consequence, it does many things badly. Scaling beyond the basic use cases with LangChain is a challenge that is often better served with building things from scratch by using the underlying APIs.
+
 ### **Prompt Engineering** / **Prompt Template Language**
 
 *   [Self-Consistency (CoT-SC)](https://arxiv.org/abs/2203.11171): The three steps in the self-consistency method: 1) prompt the language model using CoT prompting, 2) sample a diverse set of reasoning paths from the language model, and 3) marginalize out reasoning paths to aggregate final answers and choose the most consistent answer. \[21 Mar 2022]

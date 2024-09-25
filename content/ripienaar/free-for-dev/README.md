@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
+
+### Code Quality
+
+*   [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
+
+### Security and PKI
+
+*   [seclookup.com](https://www.seclookup.com/) - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).
+
 ## [Sep 24, 2024](/content/2024/09/24/README.md)
 
 ### APIs, Data, and ML
@@ -795,10 +809,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐241)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
 
-### Forms
-
-*   [Tapform.com](https://tapform.com/) — Includes unlimited forms, unlimited fields, and unlimited submissions for free. Forms can either be displayed in a standard or a chat format.
-
 ### Other Free Resources
 
 *   [SimpleBackups.com](https://simplebackups.com/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
@@ -831,12 +841,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### IDE and Code Editing
 
 *   [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
-
-## [Nov 18, 2023](/content/2023/11/18/README.md)
-
-### Email
-
-*   [validemail.io](https://validemail.io/) - Free Tier with 10,000 validations per month & 10 requests per second.
 
 ## [Nov 16, 2023](/content/2023/11/16/README.md)
 
@@ -999,7 +1003,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### PaaS
 
 *   [deco.cx](https://www.deco.cx/en/dev) - Edge-native frontend platform with a visual CMS auto-generated from TypeScript code. Built-in A/B testing, content segmentation, and real-time analytics. Perfect for content-heavy and Enterprise e-commerce websites. Free up to 5k pageviews/month or open-source/personal projects.
-*   [Platformatic Cloud](https://platformatic.dev/) - Platformatic offers many open-source packages to wrap and deploy your Fastify application in the Platformatic Cloud. Built-in CD with a GitHub Action. [Free plan](https://platformatic.dev/pricing/) for hobbyists with a simple [GitHub login](https://platformatic.cloud/).
 
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
@@ -1434,10 +1437,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
 
-### BaaS
-
-*   [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many ad-hoc/cron/periodic webhook deliveries as possible. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
-
 ## [Apr 29, 2023](/content/2023/04/29/README.md)
 
 ### Artifact Repos
@@ -1564,7 +1563,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
 *   [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
 *   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
-*   [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available.
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 *   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
@@ -2244,10 +2242,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Aug 25, 2022](/content/2022/08/25/README.md)
 
-### APIs, Data, and ML
-
-*   [Einblick](https://www.einblick.ai/) - a modern data science platform that brings Python notebooks to a collaborative canvas and includes tools that automate everyday tasks such as building predictive models (AutoML) or comparing populations. The free tier consists of 5 canvases and unlimited collaborators.
-
 ### Security and PKI
 
 *   [Dotenv](https://dotenv.org/) — Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
@@ -2559,12 +2553,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
 
-## [May 31, 2022](/content/2022/05/31/README.md)
-
-### Security and PKI
-
-*   [seclookup.com](https://seclookup.com/) - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).
-
 ## [May 30, 2022](/content/2022/05/30/README.md)
 
 ### APIs, Data, and ML
@@ -2630,10 +2618,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [code.cs50.io](https://code.cs50.io/) - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.
 
 ## [May 10, 2022](/content/2022/05/10/README.md)
-
-### APIs, Data, and ML
-
-*   [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/) - An embeddable CSV and spreadsheet import tool that makes data to your website fast, easy, and painless.
 
 ### Web Hosting
 
@@ -2711,12 +2695,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Gather](https://www.gather.town/) - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 10 concurrent users.
 *   [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open-source projects.
-
-## [Apr 19, 2022](/content/2022/04/19/README.md)
-
-### APIs, Data, and ML
-
-*   [Orchest](https://orchest.io) — Visual pipeline editor and workflow orchestrator for data science, one instance for free, open source version available.
 
 ## [Apr 16, 2022](/content/2022/04/16/README.md)
 
@@ -2964,10 +2942,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan has unlimited users, 100 runs with 1000 monthly rows, and unlimited integrations.
-
-### Messaging and Streaming
-
-*   [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with a maximum of 10,000 messages per day.
 
 ## [Jan 26, 2022](/content/2022/01/26/README.md)
 
@@ -3504,10 +3478,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [MarkUp](https://www.markup.io/) — MarkUp lets you collect feedback directly on top of your websites, PDFs and images.
 
-### Monitoring
-
-*   [meercode.io](https://meercode.io/) — Meercode is the ultimate monitoring dashboard for your CI/CD builds. Free for open-source and one private repository.
-
 ### Other Free Resources
 
 *   [Themeselection](https://themeselection.com/) — Selected high quality, modern design, professional and easy-to-use Free Admin Dashboard Template,
@@ -3577,12 +3547,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Data Visualization on Maps
 
 *   [geoapify.com](https://www.geoapify.com/) - Vector and raster map tiles, geocoding, places, routing, isolines APIs. Three thousand free requests/day.
-
-## [Aug 25, 2021](/content/2021/08/25/README.md)
-
-### Code Quality
-
-*   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
 
 ## [Aug 20, 2021](/content/2021/08/20/README.md)
 
@@ -4476,10 +4440,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
 
-### Miscellaneous
-
-*   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram, or HTTP. No coding is necessary.
-
 ### Design and UI
 
 *   [Grapedrop](https://grapedrop.com/) — Responsive, powerful, SEO-optimized web page builder based on GrapesJS Framework. Free for the first five pages, unlimited custom domains, all features, and simple usage.
@@ -4938,10 +4898,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60-second interval, and more.
 *   [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
 
-### Forms
-
-*   [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies are required.
-
 ## [Jul 02, 2020](/content/2020/07/02/README.md)
 
 ### IDE and Code Editing
@@ -5390,13 +5346,11 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
-*   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy, and gather feedback for your iOS and Android apps in one seamless, iterative system
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
 
 ### Testing
 
 *   [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
-*   [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
 *   [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
 *   [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
 *   [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
@@ -5996,12 +5950,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
 
-## [Mar 25, 2019](/content/2019/03/25/README.md)
-
-### APIs, Data, and ML
-
-*   [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames, and ASN details. Free for personal and business users.
-
 ## [Mar 04, 2019](/content/2019/03/04/README.md)
 
 ### Monitoring
@@ -6190,10 +6138,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CI and CD
 
 *   [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, one environment, shared servers, unlimited public repos
-
-### Monitoring
-
-*   [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
 
 ### Web Hosting
 

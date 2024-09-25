@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### Data Processing and ETL
+
+*   [Multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
+
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
 ### Machine Learning
@@ -1673,7 +1679,7 @@
 
 ### Encryption
 
-*   [Themis (⭐1.8k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
 
 ## [Dec 19, 2016](/content/2016/12/19/README.md)
 

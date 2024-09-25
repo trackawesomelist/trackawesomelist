@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### **LangChain Agent & Memory** / **Criticism to LangChain**
+
+*   [How to Build Ridiculously Complex LLM Pipelines with LangGraph!](https://newsletter.theaiedge.io/p/how-to-build-ridiculously-complex) \[17 Sep 2024 ]
+    > LangChain does too much, and as a consequence, it does many things badly. Scaling beyond the basic use cases with LangChain is a challenge that is often better served with building things from scratch by using the underlying APIs.
+
 ## [Sep 24, 2024](/content/2024/09/24/README.md)
 
 ### **Prompt Engineering** / **Prompt Template Language**

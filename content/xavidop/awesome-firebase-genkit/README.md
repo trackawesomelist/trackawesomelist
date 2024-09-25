@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Sep 25, 2024](/content/2024/09/25/README.md)
+
+### Plugins / JavaScript - Community
+
+*   Evaluator Plugins
+    *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
+
 ## [Sep 20, 2024](/content/2024/09/20/README.md)
 
 ### Articles / Golang - Community

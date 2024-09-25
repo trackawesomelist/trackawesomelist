@@ -1,12 +1,47 @@
 # Awesome List Updates on Sep 23 - Sep 29, 2024
 
-20 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+
+### Plugins / JavaScript - Community
+
+*   Evaluator Plugins
+    *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+
+### Data Processing and ETL
+
+*   [Multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
+
+## [3. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+
+### Modules / CLI utils
+
+*   [clite (⭐5)](https://github.com/jersou/clite-parser) - Automatic CLI generation from a class.
+
+### Tools / XML
+
+*   [studio-pack-generator (⭐81)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
+
+## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+
+### Contents / Productivity
+
+*   [Tasker (⭐146)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Monitoring
+
+*   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
+
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -54,7 +89,7 @@
 
 *   [OpenMessaging (⭐288) (⭐288)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -72,7 +107,12 @@
 
 *   [Coppermine](https://coppermine-gallery.com/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.com/demo/cpg15x/), [Source Code (⭐66)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 
-## [3. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **LangChain Agent & Memory** / **Criticism to LangChain**
+
+*   [How to Build Ridiculously Complex LLM Pipelines with LangGraph!](https://newsletter.theaiedge.io/p/how-to-build-ridiculously-complex) \[17 Sep 2024 ]
+    > LangChain does too much, and as a consequence, it does many things badly. Scaling beyond the basic use cases with LangChain is a challenge that is often better served with building things from scratch by using the underlying APIs.
 
 ### **Prompt Engineering** / **Prompt Template Language**
 
@@ -92,19 +132,19 @@
     *   `KTO (Kahneman-Tversky Optimization)` : Scales more data by replacing the pairs of accepted and rejected generations with a binary label.
     *   `ORPO (Odds Ratio Preference Optimization)` : Combines instruction tuning and preference optimization into one training process, which is cheaper and faster.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Introduction course that introduces the concept of DataFrame](https://tlouf.github.io/Py4DataSci-course/dataframes/1-basics-sol.html#) with Polars and Python. It also proposes some corrected exercices by [@TLouf](https://github.com/TLouf).
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Logging
 
@@ -114,7 +154,7 @@
 
 *   [REFLECT (⭐274)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
 
-## [7. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [12. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Anti-virus Evasion Tools / Tor Tools
 
@@ -145,11 +185,19 @@
 
 *   [authoscope (⭐396)](https://github.com/kpcyrd/authoscope) - Scriptable network authentication cracker.
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Maps
 
 *   [go-shelve (⭐4)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
+
+### GUI
+
+*   [cimgui-go (⭐325)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐59k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
+
+### Messaging
+
+*   [hypermatch (⭐17)](https://github.com/SchwarzIT/hypermatch) - A very fast and efficient Go library for matching events to a large set of rules
 
 ### Science and Data Analysis
 
@@ -159,21 +207,33 @@
 
 *   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
 *   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
 
+### Tools for Teams and Collaboration
+
+*   [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
+
+### Code Quality
+
+*   [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
+
 ### CI and CD
 
 *   [blacksmith](https://www.blacksmith.sh/) - Managed performance runners for GitHub Actions that provides 3,000 free minutes per month, with no credit card needed.
+
+### Security and PKI
+
+*   [seclookup.com](https://www.seclookup.com/) - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).
 
 ### PaaS
 
@@ -191,7 +251,7 @@
 
 *   [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
 
-## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [16. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -210,7 +270,7 @@
 
 *   [PeerTube (⭐13k)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
 
-## [12. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [17. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Component Libraries
 
@@ -225,26 +285,26 @@
 
 *   [simple-parallax-js (⭐1.8k)](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [bakageddy/alduin.nvim (⭐1)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐440)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
 *   [diegoulloao/neofusion.nvim (⭐162)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
 *   [mpvc (⭐92)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
-## [15. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [20. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [bemi-rails (⭐79)](https://github.com/BemiHQ/bemi-rails) - A robust data change tracking and audit trail for Rails. [:red\_circle:](https://rubygems.org/gems/bemi-rails)
 
-## [16. Topics](/content/selvaklnc/topics/week/README.md)
+## [21. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
 
@@ -270,19 +330,19 @@
 *   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
 *   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
 
-## [17. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [22. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Inactive projects / Other
 
 *   **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
-## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [23. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -296,11 +356,19 @@
 
 *   [ng-rspack-build (⭐2)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐9.3k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [limitless-angular (⭐10)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
+
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-intl (⭐6)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 
-## [20. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
+
+## [25. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Books / Post-quantum cryptography
 
