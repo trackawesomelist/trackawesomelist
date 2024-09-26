@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
+
+### Generative AI history, timelines, maps, and definitions
+
+*   [Cartography of generative AI](https://cartography-of-generative-ai.net/): "What set of extractions, agencies, and resources allow us to converse online with a text-generating tool or to obtain images in a matter of seconds?"
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

@@ -1,12 +1,49 @@
 # Awesome List Updates on Sep 26, 2024
 
-8 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   Semantic Kernel sample application: [Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐2)](https://github.com/jvargh/VCSM) \[Jul 2024]
+
+### **GPT for Domain Specific** / **GPT series release date**
+
+*   [Prithvi WxC](https://arxiv.org/abs/2409.13598): In collaboration with NASA, IBM is releasing an open-source foundation model for Weather and Climate [ref](https://research.ibm.com/blog/foundation-model-weather-climate) \[20 Sep 2024]
+
+### **Section 9: Applications and Frameworks** / Korean
+
+*   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Mobile
+
+*   [nyaml (⭐25)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
+
+### HTTP Servers / Clack plugins
+
+*   [lack-expression-cache (⭐0)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
+*   [lack-rerouter (⭐0)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Generative AI history, timelines, maps, and definitions
+
+*   [Cartography of generative AI](https://cartography-of-generative-ai.net/): "What set of extractions, agencies, and resources allow us to converse online with a text-generating tool or to obtain images in a matter of seconds?"
+
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Link Shorteners
 
@@ -17,19 +54,19 @@
 
 *   [🤖](#icons) [Aliucord (⭐3.6k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.6k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [FastLZ (⭐428)](https://github.com/ariya/FastLZ) - Small & portable byte-aligned LZ77 compression. \[MIT]
 
-## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / General Overviews
 
 *   *[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)*, by Michele Coscia (2021).
 
-## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Community
 
@@ -67,13 +104,17 @@
 
 *   [GTFS Realtime Display](https://codeberg.org/dancingCycle/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
 
-## [5. Magictools](/content/ellisonleao/magictools/README.md)
+## [9. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Tile/Level Editors
 
 *   :money\_with\_wings: [MapperMate](https://mappermate.com/) - A cloud based tile map editor used to create 2D levels directly in the browser.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Daniel Kreider](https://danielk.tech/)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -92,7 +133,7 @@
 *   [ngx-components (⭐2)](https://github.com/DSI-HUG/ngx-components) - Useful components and utility functions for Angular.
 *   [dejajs-components (⭐38)](https://github.com/DSI-HUG/dejajs-components) - This repository is an Angular components library and the common utility functions, with a demo application for testing it.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -111,7 +152,7 @@
 *   [nerdp (⭐0)](https://github.com/joknarf/nerdp) - Nerd powerline-style prompt. Requires a nerd font. Includes decorators for `git` status, username\@hostname, current directory, Python virtualenv, filesystem usage check, 1 minute CPU load, available memory and the time.
 *   [rho (⭐0)](https://github.com/andrii-rieznik/rho-zsh-theme) - Minimalist theme. Includes decorators for `git` status, hostname and current directory.
 
-## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Component Libraries
 

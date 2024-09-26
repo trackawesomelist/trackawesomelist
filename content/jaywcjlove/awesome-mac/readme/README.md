@@ -779,7 +779,7 @@ Any comments, suggestions? [Let us know! (⭐75k)](https://github.com/jaywcjlove
 *   [Hydrogen](http://hydrogen-music.org/) - Professional yet simple and intuitive pattern-based drum programming for GNU/Linux. [![Open-Source Software][OSS Icon]](https://github.com/hydrogen-music/hydrogen)
 *   [ffWorks](https://www.ffworks.net/) - Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone.
 *   [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
-*   [Jellyfin (⭐33k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
+*   [Jellyfin (⭐34k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software][OSS Icon]](https://jellyfin.org) ![Freeware][Freeware Icon]
 *   [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 *   [LMMS](https://lmms.io) - Formerly "Linux MultiMedia Studio", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops). [![Open-Source Software][OSS Icon]](https://github.com/lmms/lmms) ![Freeware][Freeware Icon]
 *   [LosslessCut (⭐26k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
@@ -935,7 +935,7 @@ Any comments, suggestions? [Let us know! (⭐75k)](https://github.com/jaywcjlove
 *   [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 *   [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
-*   [RerouteMe](https://naden.co) - An easy one-click macOS Proxy Configuration app. ![Freeware][Freeware Icon]
+*   [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware][Freeware Icon]
 *   [ShadowsocksX-NG (⭐32k)](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 *   [ShadowsocksX](http://shadowsocks.org/) - Secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
 *   [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.

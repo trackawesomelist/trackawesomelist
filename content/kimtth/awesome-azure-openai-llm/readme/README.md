@@ -202,7 +202,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
         *   [GraphRAG Implementation with LlamaIndex (⭐35k)](https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/cookbooks/GraphRAG_v1.ipynb) \[15 Jul 2024]
         *   ["From Local to Global" GraphRAG with Neo4j and LangChain](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/) \[09 Jul 2024]
     *   [Learn RAG with LangChain](https://www.sakunaharinda.xyz/ragatouille-book): Online book \[May 2024]
-    *   [Advanced RAG Techniques (⭐5.9k)](https://github.com/NirDiamant/RAG_Techniques): Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) \[Jul 2024]
+    *   [Advanced RAG Techniques (⭐5.9k)](https://github.com/NirDiamant/RAG_Techniques):🏆Showcases various advanced techniques for Retrieval-Augmented Generation (RAG) \[Jul 2024]
     *   [A Practical Approach to Retrieval Augmented Generation (RAG) Systems (⭐15)](https://github.com/mallahyari/rag-ebook): Online book \[Dec 2023]
 *   RAG Application / Framework
     *   [RAG capabilities of LlamaIndex to QA about SEC 10-K & 10-Q documents (⭐2.3k)](https://github.com/run-llama/sec-insights): A real world full-stack application using LlamaIndex \[Sep 2023]
@@ -215,7 +215,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [quivr (⭐36k)](https://github.com/QuivrHQ/quivr): A personal productivity assistant (RAG). Chat with your docs (PDF, CSV, ...) \[May 2023]
     *   [RAGApp](https://github.com/ragapp): Agentic RAG. custom GPTs, but deployable in your own cloud infrastructure using Docker. \[Apr 2024]
     *   [Cognita (⭐3.2k)](https://github.com/truefoundry/cognita): RAG (Retrieval Augmented Generation) Framework for building modular, open source applications \[Jul 2023]
-    *   Open Source AI Searches: [Perplexica (⭐13k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.5k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.7k)](https://github.com/neuml/txtai) / [Typesense (⭐20k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.9k)](https://github.com/miurla/morphic)
+    *   Open Source AI Searches: [Perplexica (⭐13k)](https://github.com/ItzCrazyKns/Perplexica): Open source alternative to Perplexity AI \[Apr 2024] / [Marqo (⭐4.5k)](https://github.com/marqo-ai/marqo) / [txtai (⭐8.7k)](https://github.com/neuml/txtai) / [Typesense (⭐21k)](https://github.com/typesense/typesense)  / [Morphic (⭐5.9k)](https://github.com/miurla/morphic)
     *   [AutoRAG (⭐1.4k)](https://github.com/Marker-Inc-Korea/AutoRAG): RAG AutoML tool for automatically finds an optimal RAG pipeline for your data. \[Jan 2024]
     *   [RAGflow (⭐17k)](https://github.com/infiniflow/ragflow): Streamlined RAG workflow. Focusing on Deep document understanding \[Dec 2023]
     *   [MindSearch (⭐4.6k)](https://github.com/InternLM/MindSearch): an open-source AI Search Engine Framework \[Jul 2024]
@@ -604,6 +604,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Optimize Azure OpenAI Applications with Semantic Caching](https://techcommunity.microsoft.com/t5/azure-architecture-blog/optimize-azure-openai-applications-with-semantic-caching/ba-p/4106867) \[09 Apr 2024]
     *   [Azure OpenAI and Call Center Modernization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-and-call-center-modernization/ba-p/4107070) \[11 Apr2024]
     *   [Azure OpenAI Best Practices Insights from Customer Journeys](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-best-practices-insights-from-customer-journeys/ba-p/4166943): LLMLingua, Skeleton Of Thought \[12 Jun 2024]
+    *   [Retrieval Augmented Fine Tuning](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/retrieval-augmented-fine-tuning-use-gpt-4o-to-fine-tune-gpt-4o/ba-p/4248861): RAFT: Combining the best parts of RAG and fine-tuning (SFT) \[25 Sep 2024]
 
 #### **Azure AI Search**
 
@@ -650,7 +651,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 #### **Code Recipes**
 
-*   Chat Copilot Sample Application: A reference application for building a chat experience using Semantic Kernel. Leveraging plugins, planners, and AI memories. [git (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023]
+*   Semantic Kernel sample application: [Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐2)](https://github.com/jvargh/VCSM) \[Jul 2024]
 *   Semantic Kernel Recipes: A collection of C# notebooks [git (⭐164)](https://github.com/johnmaeda/SK-Recipes) \[Mar 2023]
 *   Deploy Semantic Kernel with Bot Framework [ref](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-semantic-kernel-with-bot-framework/ba-p/3928101) [git (⭐53)](https://github.com/Azure/semantic-kernel-bot-in-a-box) \[26 Oct 2023]
 *   Semantic Kernel-Powered OpenAI Plugin Development Lifecycle [ref](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/semantic-kernel-powered-openai-plugin-development-lifecycle/ba-p/3967751) \[30 Oct 2023]
@@ -1716,6 +1717,7 @@ class AgentType(str, Enum):
 *   [DeepSeek-Coder-V2 (⭐2k)](https://github.com/deepseek-ai/DeepSeek-Coder-V2): Open-source Mixture-of-Experts (MoE) code language model \[17 Jun 2024]
 *   [Qwen2-Math (⭐435)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024] / [Qwen 2.5-Coder (⭐571)](https://github.com/QwenLM/Qwen2.5-Coder) \[18 Sep 2024 ]
 *   [Chai-1 (⭐925)](https://github.com/chaidiscovery/chai-lab): a multi-modal foundation model for molecular structure prediction \[Sep 2024]
+*   [Prithvi WxC](https://arxiv.org/abs/2409.13598): In collaboration with NASA, IBM is releasing an open-source foundation model for Weather and Climate [ref](https://research.ibm.com/blog/foundation-model-weather-climate) \[20 Sep 2024]
 
 ### **MLLM (multimodal large language model)**
 
@@ -2013,6 +2015,7 @@ class AgentType(str, Enum):
 *   [900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html):🏆What I learned from looking at 900 most popular open source AI tools [list](https://huyenchip.com/llama-police) \[Mar 2024]
 *   [Open100: Top 100 Open Source achievements.](https://www.benchcouncil.org/evaluation/opencs/annual.html)
 *   [Awesome LLM Apps (⭐3.1k)](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. \[Apr 2024]
+*   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
 ### **Applications, Frameworks, and User Interface (UI/UX)**
 
@@ -2046,6 +2049,7 @@ class AgentType(str, Enum):
     *   [code2prompt (⭐1.5k)](https://github.com/mufeedvh/code2prompt/): a command-line tool (CLI) that converts your codebase into a single LLM prompt with a source tree \[Mar 2024]
     *   [vanna (⭐11k)](https://github.com/vanna-ai/vanna): Chat with your SQL database \[May 2023]
     *   [Mem0 (⭐22k)](https://github.com/mem0ai/mem0): A self-improving memory layer for personalized AI experiences. \[Jun 2023]
+    *   [PDF2Audio (⭐716)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
     *   RAG: [X-ref](#rag-solution-design--application)
 *   UI/UX
     *   [Gradio (⭐32k)](https://github.com/gradio-app/gradio): Build Machine Learning Web Apps - in Python \[Mar 2023]

@@ -8,6 +8,10 @@
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Menu Bar Tools
 
 *   [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
@@ -399,7 +403,6 @@
 
 ### Proxy and VPN Tools / Audio Record and Process
 
-*   [RerouteMe](https://naden.co) - An easy one-click macOS Proxy Configuration app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [TigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 
 ### Utilities / Menu Bar Tools
@@ -534,7 +537,7 @@
 
 ### Audio and Video Tools / File Sharing
 
-*   [Jellyfin (⭐33k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Jellyfin (⭐34k)](https://github.com/jellyfin/jellyfin) - The Free Software Media System. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://jellyfin.org) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Browsers / Audio Record and Process
 

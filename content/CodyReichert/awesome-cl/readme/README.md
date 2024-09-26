@@ -673,8 +673,9 @@ and search for JSON RPC below.
 
 # YAML
 
+*   👍 [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
+*   [nyaml (⭐25)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
 *   [cl-yacclyaml (⭐14)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3][2].
-*   [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
 
 # Language extensions
 
@@ -843,7 +844,7 @@ See also:
 ## Intermediate
 
 *   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-*   [Lisp Tips (⭐119)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐119)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks.
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 *   A gentle introduction to Compile-Time Computing - [Part 1](https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-1-d4d96099cea0), [Part 2](https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-2-cb0a46f6cfe8), [Part 3 (Safely dealing with scientific units of variables at compile time)](https://medium.com/@MartinCracauer/a-gentle-introduction-to-compile-time-computing-part-3-scientific-units-8e41d8a727ca)
 *   [Static type checking in the programmable programming language](https://medium.com/@MartinCracauer/static-type-checking-in-the-programmable-programming-language-lisp-79bb79eb068a)
@@ -1041,6 +1042,8 @@ See also:
 *   [hermetic (⭐43)](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
 *   [live-reload (⭐8)](https://github.com/knobo/live-reload) - Live reload prototype for clack. [LLGPL][8].
 *   [clack-static-asset-middleware (⭐1)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT][200].
+*   [lack-expression-cache (⭐0)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
+*   [lack-rerouter (⭐0)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
 
 For routing, we can also use Snooze (see below).
 

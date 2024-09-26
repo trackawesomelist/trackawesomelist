@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Sep 26, 2024](/content/2024/09/26/README.md)
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   Semantic Kernel sample application: [Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐2)](https://github.com/jvargh/VCSM) \[Jul 2024]
+
+### **GPT for Domain Specific** / **GPT series release date**
+
+*   [Prithvi WxC](https://arxiv.org/abs/2409.13598): In collaboration with NASA, IBM is releasing an open-source foundation model for Weather and Climate [ref](https://research.ibm.com/blog/foundation-model-weather-climate) \[20 Sep 2024]
+
+### **Section 9: Applications and Frameworks** / Korean
+
+*   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
+
 ## [Sep 25, 2024](/content/2024/09/25/README.md)
 
 ### **LangChain Agent & Memory** / **Criticism to LangChain**
@@ -626,6 +640,7 @@
     *   [Optimize Azure OpenAI Applications with Semantic Caching](https://techcommunity.microsoft.com/t5/azure-architecture-blog/optimize-azure-openai-applications-with-semantic-caching/ba-p/4106867) \[09 Apr 2024]
     *   [Azure OpenAI and Call Center Modernization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-and-call-center-modernization/ba-p/4107070) \[11 Apr2024]
     *   [Azure OpenAI Best Practices Insights from Customer Journeys](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-best-practices-insights-from-customer-journeys/ba-p/4166943): LLMLingua, Skeleton Of Thought \[12 Jun 2024]
+    *   [Retrieval Augmented Fine Tuning](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/retrieval-augmented-fine-tuning-use-gpt-4o-to-fine-tune-gpt-4o/ba-p/4248861): RAFT: Combining the best parts of RAG and fine-tuning (SFT) \[25 Sep 2024]
 
 ### **Prompt Engineering** / **Prompt Template Language**
 
@@ -1594,7 +1609,6 @@
 
 ### **Semantic Kernel** / **Code Recipes**
 
-*   Chat Copilot Sample Application: A reference application for building a chat experience using Semantic Kernel. Leveraging plugins, planners, and AI memories. [git (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023]
 *   Semantic Kernel Recipes: A collection of C# notebooks [git (⭐164)](https://github.com/johnmaeda/SK-Recipes) \[Mar 2023]
 *   Deploy Semantic Kernel with Bot Framework [ref](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-semantic-kernel-with-bot-framework/ba-p/3928101) [git (⭐53)](https://github.com/Azure/semantic-kernel-bot-in-a-box) \[26 Oct 2023]
 *   Semantic Kernel-Powered OpenAI Plugin Development Lifecycle [ref](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/semantic-kernel-powered-openai-plugin-development-lifecycle/ba-p/3967751) \[30 Oct 2023]

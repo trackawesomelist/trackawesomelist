@@ -6,6 +6,17 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Sep 26, 2024](/content/2024/09/26/README.md)
+
+### Mobile
+
+*   [nyaml (⭐25)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
+
+### HTTP Servers / Clack plugins
+
+*   [lack-expression-cache (⭐0)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
+*   [lack-rerouter (⭐0)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
+
 ## [Sep 20, 2024](/content/2024/09/20/README.md)
 
 ### Developer utilities / Third-party APIs
@@ -1794,7 +1805,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Intermediate
 
-*   [Lisp Tips (⭐119)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+*   [Lisp Tips (⭐119)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks.
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
 ## [May 10, 2020](/content/2020/05/10/README.md)
@@ -2504,8 +2515,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Mobile
 
+*   👍 [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-yacclyaml (⭐14)](https://github.com/mabragor/cl-yaclyaml) - a pure lisp YAML processor (loader, but not yet dumper). [GPL3](http://www.gnu.org/copyleft/gpl.html).
-*   [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT](https://opensource.org/licenses/MIT).
 
 ## [Oct 08, 2018](/content/2018/10/08/README.md)
 
