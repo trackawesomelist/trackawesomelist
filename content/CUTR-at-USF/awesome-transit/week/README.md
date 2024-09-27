@@ -8,6 +8,17 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
+### Courses
+
+*   [MobilityData - "Understanding GTFS: An intro and overivew](https://www.youtube.com/watch?v=SDz2460AjNo) - Video provides an overview of of the General Transit Feed Specification (GTFS) and why it is useful for transit agencies, riders, and policymakers.
+*   [ArcGIS - Introduction to GTFS](https://www.youtube.com/watch?v=8OQKHhu1VgQ\&t=148s)
+
+### Consumer app guidance
+
+*   [Transit app Guidelines for Producing GTFS Static Data](https://resources.transitapp.com/article/458-guidelines-for-producing-gtfs-static-data-for-transit) - Additional Transit app-specific documentation of GTFS.
+*   [Bing Maps Transit - Add your transit data to Bing Maps](https://www.bing.com/maps/transitcontentproviders) - Additional Bing-specific documentation of GTFS.
+*   [Yandex Maps - Transport integration](https://yandex.ru/support/m-maps/transport.html?lang=en#connect-display) - Additional Yandex-specific documentation of GTFS.
+
 ### Community
 
 *   [Transitous](https://transitous.org) - Community-run free and open public transport routing service.
@@ -31,6 +42,8 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### GTFS Converters / Ruby
 
 *   [Chouette](https://bitbucket.org/enroute-mobi/chouette-core/src/master/) - Converts French-Transmodel, SIRI, NETeX.
+*   [Transporter-Project transxchange-to-gtfs (⭐3)](https://github.com/Transporter-Project/transxchange-to-gtfs) TransXChange to GTFS converter written in Objective-C.
+*   [TXC TransXChange publisher (UK Department for Transport)](https://www.gov.uk/government/publications/transxchange-publisher) - The TXC TransXChange publisher is a standalone software tool that can be used to publish TransXChange compliant XML documents in a format that’s easy to read and print.
 
 ### GTFS Analysis Tools / Ruby
 
@@ -84,11 +97,13 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Mar 18 - Mar 24, 2024](/content/2024/12/README.md)
 
-### Reference resources
+### GTFS Reference resources
 
-*   [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification. Includes additional GTFS resources.
-*   [Google Transit Developers](https://developers.google.com/transit/gtfs/) additional Google-specific documentation of GTFS.
-*   [World Bank: Intro. to GTFS](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) free, online, self-paced course for learning about GTFS and GTFS Realtime.
+*   [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification.
+
+### Consumer app guidance
+
+*   [Google Transit Developers](https://developers.google.com/transit/gtfs/) - Additional Google-specific documentation of GTFS.
 
 ### Local and regional groups
 
@@ -268,13 +283,13 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
+### Courses
+
+*   [GTFS-books (⭐12)](https://github.com/MobilityData/GTFS-books) - Comprehensive guides to GTFS and GTFS Realtime. These books were written by [Quentin Zervaas](https://github.com/HendX), and have been donated to [MobilityData](https://mobilitydata.org/) and made open access.
+
 ### Other multimodal data formats / Ruby
 
 *   [TIDES project (⭐25)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
-
-### On-line courses / Ruby
-
-*   [GTFS-books (⭐12)](https://github.com/MobilityData/GTFS-books) - Comprehensive guides to GTFS and GTFS Realtime. These books were written by [Quentin Zervaas](https://github.com/HendX), and have been donated to [MobilityData](https://mobilitydata.org/) and made open access.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -286,7 +301,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### Community
 
-*   [MobilityData Slack chat](https://share.mobilitydata.org/slack)
+*   [MobilityData Slack chat](https://share.mobilitydata.org/slack) - Chatroom that includes channels #gtfs, #gtfs-validators #mobility-database  #gtfs-realtime #gtfs\_best-practices #gtfs-pathways #gtfs-fares #gtfs-flex #trb-transit-data.
 
 ### GTFS Converters / Ruby
 
@@ -495,7 +510,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### Local and regional groups
 
-*   [German Open Transport Meetup (⭐42)](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
+*   [German Open Transport Meetup (⭐42)](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -667,7 +682,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
-### On-line courses / Ruby
+### Courses
 
 *   [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required.
 
@@ -699,7 +714,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
 
-### On-line courses / Ruby
+### Courses
 
 *   [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image (⭐7)](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
 
@@ -892,7 +907,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ### Local and regional groups
 
-*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
@@ -912,7 +927,7 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Jan 14 - Jan 20, 2019](/content/2019/2/README.md)
 
-### On-line courses / Ruby
+### Courses
 
 *   [Open Transit Data Toolkit](http://transitdatatoolkit.com/) - A series of lessons to help people utilize open transit data.
 
@@ -1003,6 +1018,10 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
 
+### Courses
+
+*   [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
+
 ### 3rd party GTFS URL directories
 
 *   [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies) - Formerly the definitive directory of GTFS feed URLs. Shutdown in 2016. But 93 GB of data from 2008 to 2016 is available upon request.
@@ -1017,10 +1036,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API for real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States that have purchased TransLoc's AVL hardware and software.
 *   [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
 *   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐551)](https://github.com/eskerda/pybikes).
-
-### On-line courses / Ruby
-
-*   [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
 
 ### Blog posts / Ruby
 
@@ -1152,10 +1167,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 *   [Transitive.js (⭐677)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
 ## [May 16 - May 22, 2016](/content/2016/20/README.md)
-
-### Reference resources
-
-*   [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
 
 ### Community
 

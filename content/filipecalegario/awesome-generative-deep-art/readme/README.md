@@ -474,8 +474,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
-[microsoft/LMOps (⭐3.6k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
-
+*   [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development (⭐123)](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
+*   [unclecode/crawl4ai: Crawl4AI (⭐3.6k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
+*   [microsoft/LMOps (⭐3.6k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐23k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 *   [langfuse/langfuse (⭐5.6k)](https://github.com/langfuse/langfuse/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more
@@ -1331,6 +1332,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Auxiliary tools and concepts
 
+*   [Rosie](https://heyrosie.com/): AI Phone Answering Service
 *   [MuckBrass](https://www.muckbrass.com): Find & Validate Startup Ideas using AI
 *   [ResumeDive](https://resumedive.com): A resume boosting service using AI
 *   [Owlbot](https://www.owlbot.ai/): AI Support Agent
@@ -1357,6 +1359,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Taplio](https://taplio.com/?ref=filipecalegario-awesome-generative-ai): The all-in-one, AI-powered LinkedIn tool.
 *   [Galichat.com](https://www.galichat.com/?ref=filipecalegario-awesome-generative-ai): AI Support Assistant that helps you grow your business.
 *   [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+*   [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 
 ### Dimension reduction techniques
 

@@ -6,6 +6,19 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 27, 2024](/content/2024/09/27/README.md)
+
+### Large Language Models (LLMs)
+
+*   [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development (⭐123)](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
+*   [unclecode/crawl4ai: Crawl4AI (⭐3.6k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
+*   [microsoft/LMOps (⭐3.6k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Rosie](https://heyrosie.com/): AI Phone Answering Service
+*   [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+
 ## [Sep 26, 2024](/content/2024/09/26/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

@@ -6,7 +6,54 @@
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [Databend (⭐7.7k)](https://github.com/databendlabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/databendlabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/databendlabs/databend/actions/workflows/databend-release.yml)
+
+### Applications / Productivity
+
+*   [Furtherance (⭐260)](https://github.com/unobserved-io/Furtherance) - Time tracking app built with GTK4
+
+### Resources / Web programming
+
+*   Learning
+    *   [100 Exercises To Learn Rust](https://rust-exercises.com) - Learn Rust through 100 hands-on exercises, covering syntax, types, and more
+    *   [Aquascope (⭐2k)](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
+    *   [Awesome Rust Streaming (⭐696)](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of livestreams.
+    *   [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) - A list of helpful mentors willing to take mentees and educate them about Rust and programming.
+    *   [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/) - a series of posts to detailing how to build a language VM.
+    *   [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule/) - University of Pennsylvania's Comp Sci Rust Programming Course
+    *   [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) - Build your own Redis, Git, Docker, or SQLite
+    *   [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - A 3-day course on Rust Fundamentals plus 1-day courses on Android, Bare-metal Rust, and Concurrency. Available in English, [Brazilian Portuguese](https://google.github.io/comprehensive-rust/pt-BR/), and [Korean](https://google.github.io/comprehensive-rust/ko/).
+    *   [Easy Rust (⭐8.1k)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
+    *   [exercism.org](https://exercism.org/tracks/rust) - programming exercises that help you learn new concepts in Rust.
+    *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
+    *   [Idiomatic Rust (⭐6.5k)](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [Learn Rust by 500 lines code (⭐484)](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
+    *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) - in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
+    *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
+    *   [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) - A list of recommended resources voted by the programming community.
+    *   [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - A book that introduces to Rust language.
+    *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+    *   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+    *   [Rust Flashcards (⭐528)](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles.
+    *   [Rust for professionals](https://overexact.com/rust-for-professionals/) - A quick introduction to Rust for experienced software developers.
+    *   [Rust Gym (⭐886)](https://github.com/warycat/rustgym) - A big collection of coding interview problems solved in Rust.
+    *   [Rust in Action](https://www.manning.com/books/rust-in-action) - A hands-on guide to systems programming with Rust by [Tim McNamara](https://github.com/timClicks) (paid)
+    *   [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols\&a_bid=6a993c2e) - A video series by [Carol Nichols](https://github.com/carols10cents) and [Jake Goulding](https://github.com/shepmaster) (paid)
+    *   [Rust Language Cheat Sheet](https://cheats.rs/) - Rust Language Cheat Sheet
+    *   [Rust Tiếng Việt](https://rust-tieng-viet.github.io/) - Learn Rust in Vietnamese.
+    *   [rust-how-do-i-start (⭐1.1k)](https://github.com/jondot/rust-how-do-i-start) - A repo dedicated to answering the question: "So, Rust. How do I *start*?". A beginner only hand-picked resources and learning track.
+    *   [rust-learning (⭐11k)](https://github.com/ctjhoa/rust-learning) - A collection of useful resources to learn Rust
+    *   [Rustlings (⭐53k)](https://github.com/rust-lang/rustlings) - small exercises to get you used to reading and writing Rust code
+    *   [Rusty CS (⭐898)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
+    *   [stdx (⭐2k)](https://github.com/brson/stdx) - Learn these crates first as an extension to std
+    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
+    *   [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -17,13 +64,24 @@
 *   [lack-expression-cache (⭐0)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
 *   [lack-rerouter (⭐0)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
 *   [Cartography of generative AI](https://cartography-of-generative-ai.net/): "What set of extractions, agencies, and resources allow us to converse online with a text-generating tool or to obtain images in a matter of seconds?"
 
-## [3. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+### Large Language Models (LLMs)
+
+*   [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development (⭐123)](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
+*   [unclecode/crawl4ai: Crawl4AI (⭐3.6k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
+*   [microsoft/LMOps (⭐3.6k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
+
+### Auxiliary tools and concepts / Deforum
+
+*   [Rosie](https://heyrosie.com/): AI Phone Answering Service
+*   [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Link Shorteners
 
@@ -34,13 +92,24 @@
 
 *   [🤖](#icons) [Aliucord (⭐3.6k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.6k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
-## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / General Overviews
 
 *   *[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)*, by Michele Coscia (2021).
 
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Courses
+
+*   [MobilityData - "Understanding GTFS: An intro and overivew](https://www.youtube.com/watch?v=SDz2460AjNo) - Video provides an overview of of the General Transit Feed Specification (GTFS) and why it is useful for transit agencies, riders, and policymakers.
+*   [ArcGIS - Introduction to GTFS](https://www.youtube.com/watch?v=8OQKHhu1VgQ\&t=148s)
+
+### Consumer app guidance
+
+*   [Transit app Guidelines for Producing GTFS Static Data](https://resources.transitapp.com/article/458-guidelines-for-producing-gtfs-static-data-for-transit) - Additional Transit app-specific documentation of GTFS.
+*   [Bing Maps Transit - Add your transit data to Bing Maps](https://www.bing.com/maps/transitcontentproviders) - Additional Bing-specific documentation of GTFS.
+*   [Yandex Maps - Transport integration](https://yandex.ru/support/m-maps/transport.html?lang=en#connect-display) - Additional Yandex-specific documentation of GTFS.
 
 ### Community
 
@@ -65,6 +134,8 @@
 ### GTFS Converters / Ruby
 
 *   [Chouette](https://bitbucket.org/enroute-mobi/chouette-core/src/master/) - Converts French-Transmodel, SIRI, NETeX.
+*   [Transporter-Project transxchange-to-gtfs (⭐3)](https://github.com/Transporter-Project/transxchange-to-gtfs) TransXChange to GTFS converter written in Objective-C.
+*   [TXC TransXChange publisher (UK Department for Transport)](https://www.gov.uk/government/publications/transxchange-publisher) - The TXC TransXChange publisher is a standalone software tool that can be used to publish TransXChange compliant XML documents in a format that’s easy to read and print.
 
 ### GTFS Analysis Tools / Ruby
 
@@ -78,13 +149,13 @@
 
 *   [GTFS Realtime Display](https://codeberg.org/dancingCycle/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
 
-## [6. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [7. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Tile/Level Editors
 
 *   :money\_with\_wings: [MapperMate](https://mappermate.com/) - A cloud based tile map editor used to create 2D levels directly in the browser.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -103,26 +174,26 @@
 *   [nerdp (⭐0)](https://github.com/joknarf/nerdp) - Nerd powerline-style prompt. Requires a nerd font. Includes decorators for `git` status, username\@hostname, current directory, Python virtualenv, filesystem usage check, 1 minute CPU load, available memory and the time.
 *   [rho (⭐0)](https://github.com/andrii-rieznik/rho-zsh-theme) - Minimalist theme. Includes decorators for `git` status, hostname and current directory.
 
-## [8. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [9. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Component Libraries
 
 *   [dash-vega-components (⭐44)](https://github.com/altair-viz/dash-vega-components) - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 
-## [9. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [10. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / JavaScript - Community
 
 *   Evaluator Plugins
     *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Processing and ETL
 
 *   [Multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
@@ -132,19 +203,19 @@
 
 *   [studio-pack-generator (⭐81)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Productivity
 
 *   [Tasker (⭐146)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -192,7 +263,7 @@
 
 *   [OpenMessaging (⭐288) (⭐288)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -210,7 +281,7 @@
 
 *   [Coppermine](https://coppermine-gallery.com/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.com/demo/cpg15x/), [Source Code (⭐67)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 
-## [16. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Semantic Kernel** / **Code Recipes**
 
@@ -247,7 +318,7 @@
 
 *   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -257,13 +328,13 @@
 
 *   [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
 
-## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [19. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
 *   [Introduction course that introduces the concept of DataFrame](https://tlouf.github.io/Py4DataSci-course/dataframes/1-basics-sol.html#) with Polars and Python. It also proposes some corrected exercices by [@TLouf](https://github.com/TLouf).
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -277,7 +348,7 @@
 
 *   [REFLECT (⭐274)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
 
-## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Anti-virus Evasion Tools / Tor Tools
 
@@ -308,7 +379,7 @@
 
 *   [authoscope (⭐396)](https://github.com/kpcyrd/authoscope) - Scriptable network authentication cracker.
 
-## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Maps
 
@@ -329,12 +400,6 @@
 ### Web Frameworks
 
 *   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
-
-## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
 ## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
