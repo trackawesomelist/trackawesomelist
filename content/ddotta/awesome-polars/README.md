@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Sep 27, 2024](/content/2024/09/27/README.md)
+
+### Resources / Talks and videos
+
+*   [Polars with Plotly](https://www.youtube.com/watch?v=slq4VhUxtCc) ⏳ 19 min - A video that shows the usage of Polars with the Plotly graphic library by [Plotly](https://plotly.com/).
+
 ## [Sep 24, 2024](/content/2024/09/24/README.md)
 
 ### Resources / Tutorials & workshops

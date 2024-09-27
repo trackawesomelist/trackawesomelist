@@ -343,7 +343,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
 *   [telegram-bot-api (⭐5.7k)](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
 *   [teleterm (⭐36)](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 *   [Tenyks (⭐178)](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
-*   [wayback (⭐1.7k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+*   [wayback (⭐1.8k)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 **[⬆ back to top](#contents)**
 
@@ -2257,6 +2257,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [stats (⭐2.9k)](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
 *   [streamtools (⭐1.3k)](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
 *   [TextRank (⭐202)](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
+*   [topk (⭐0)](https://github.com/keilerkonzept/topk) - Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm.
 *   [triangolatte (⭐36)](https://github.com/tchayen/triangolatte) - 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs.
 
 **[⬆ back to top](#contents)**
@@ -2351,7 +2352,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Easegress (⭐5.8k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [etcd (⭐47k)](https://github.com/etcd-io/etcd) - Highly-available key value store for shared configuration and service discovery.
 *   [Euterpe (⭐533)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
-*   [Fider (⭐2.8k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
+*   [Fider (⭐2.9k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.4k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐3.6k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
 *   [go-feature-flag (⭐1.3k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
@@ -2368,7 +2369,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [psql-streamer (⭐59)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.8k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐9.1k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐9.2k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐39)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐2k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 *   [Wish (⭐3.5k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
@@ -3578,7 +3579,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Berlin Golang](https://www.meetup.com/golang-users-berlin/)
 *   [Brisbane Gophers](https://www.meetup.com/Brisbane-Golang-Meetup/)
 *   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
-*   [Canberra Gophers](https://www.meetup.com/Canberra-Gophers/)
 *   [Go Language NYC](https://www.meetup.com/golanguagenewyork/)
 *   [Go London User Group](https://www.meetup.com/Go-London-User-Group/)
 *   [Go Remote Meetup](https://www.meetup.com/Go-Remote-Meetup/)
@@ -3606,7 +3606,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Golang Hamburg - Germany](https://www.meetup.com/Go-User-Group-Hamburg/)
 *   [Golang Israel](https://www.meetup.com/Go-Israel/)
 *   [Golang Kathmandu](https://www.meetup.com/Golang-Kathmandu/)
-*   [Golang Korea](https://www.meetup.com/GDG-Golang-Korea/)
 *   [Golang Lima - Peru](https://www.meetup.com/Golang-Peru/)
 *   [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
 *   [Golang Marseille](https://www.meetup.com/fr-FR/Golang-Marseille/)
