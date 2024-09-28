@@ -6,6 +6,13 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 28, 2024](/content/2024/09/28/README.md)
+
+### Critical Views about Generative AI
+
+*   [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk)
+*   [The AI Risk Repository](https://airisk.mit.edu/)
+
 ## [Sep 27, 2024](/content/2024/09/27/README.md)
 
 ### Large Language Models (LLMs)
@@ -114,7 +121,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### AI Tools for Searching / Multi-agents
 
-*   [MemFree (⭐284)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   [MemFree (⭐309)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ### Image Synthesis / Multi-agents
 

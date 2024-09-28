@@ -226,6 +226,8 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+*   [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk)
+*   [The AI Risk Repository](https://airisk.mit.edu/)
 *   [\[2406.17864\] AI Risk Categorization Decoded (AIR 2024)](https://www.arxiv.org/abs/2406.17864): From Government Regulations to Corporate Policies
 *   ["AI for Good" Campaigns Are the Wrong Approach - IEEE Spectrum](https://spectrum.ieee.org/ai-for-good)
 *   [Generative AI is not the panacea we’ve been promised | Eric Siegel for Big Think+ - YouTube](https://www.youtube.com/watch?v=B2zCWJBnfuE)
@@ -894,7 +896,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 *   [whitead/paper-qa (⭐5.6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 *   [Metaphor](https://metaphor.systems/): search engine that "understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways"
-*   [MemFree (⭐284)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   [MemFree (⭐309)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 # Image
 
