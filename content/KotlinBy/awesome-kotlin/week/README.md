@@ -12,6 +12,92 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [Mr-Mappie/mappie (⭐18)](https://github.com/Mr-Mappie/mappie) - Kotlin compiler plugin generating type-safe and performant object mapping code.
 
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+### Libraries/Frameworks / Data Science
+
+*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐435)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+### Projects / Desktop
+
+*   [yschimke/okurl (⭐124)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐184)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [AnkitSuda/Rebound (⭐180)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐87)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐237)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐562)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### Kotlin Native / Projects
@@ -164,8 +250,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / API Clients
 
-*   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
 *   [jillesvangurp/kt-search (⭐106)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
+*   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
@@ -213,8 +299,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [Ashampoo/xmpcore (⭐16)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 *   [Ashampoo/kim (⭐167)](https://github.com/Ashampoo/kim) - Kotlin Multiplatform library for reading and writing image metadata
+*   [Ashampoo/xmpcore (⭐16)](https://github.com/Ashampoo/xmpcore) - Kotlin Multiplatform port of Adobe's XMP SDK
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -268,8 +354,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / API Clients
 
-*   [MoviebaseApp/trakt-api (⭐46)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
 *   [MoviebaseApp/tmdb-api (⭐205)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
+*   [MoviebaseApp/trakt-api (⭐46)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -369,28 +455,28 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
-*   [kotlin-inquirer (⭐203)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
-*   [fork-handles/bunting4k (⭐213)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [xenomachina/kotlin-argparser (⭐483)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [varabyte/kotter (⭐568)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [ajalt/mordant (⭐972)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
 *   [ajalt/clikt (⭐2.5k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+*   [xenomachina/kotlin-argparser (⭐483)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [ajalt/mordant (⭐972)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
+*   [fork-handles/bunting4k (⭐213)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik)
+*   [varabyte/kotter (⭐568)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [kotlin-inquirer (⭐203)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin)
 
 ### Libraries/Frameworks / I/O
 
-*   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
 *   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
+*   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 *   [cashapp/barber (⭐165)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
+*   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -398,216 +484,216 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Web
 
-*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
-*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
-*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [sdeleuze/spring-boot-kotlin-demo (⭐617)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [IRus/kotlin-dev-proxy (⭐22)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-*   [ssouris/petclinic-spring5-reactive (⭐53)](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
 *   [eddywm/KTFLITE (⭐177)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
-*   [mixitconf/mixit (⭐539)](https://github.com/mixitconf/mixit) - MiXiT website
-*   [sdeleuze/spring-boot-kotlin-demo (⭐617)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
+*   [mixitconf/mixit (⭐539)](https://github.com/mixitconf/mixit) - MiXiT website
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [ssouris/petclinic-spring5-reactive (⭐53)](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
 
 ### Projects / Build tools
 
-*   [pubref/rules\_kotlin (⭐159)](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin.
 *   [cbeust/kobalt (⭐432)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
+*   [pubref/rules\_kotlin (⭐159)](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin.
 
 ### Projects / Misc
 
-*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
-*   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
-*   [madhead/tyzenhaus (⭐13)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
-*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
-*   [AngryJKirk/familybot (⭐121)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
-*   [lice-lang/lice (⭐130)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-*   [ruslanys/telegraff (⭐146)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
-*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐148)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-*   [borisf/classyshark-bytecode-viewer (⭐202)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
 *   [quicktype/quicktype (⭐12k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
+*   [lice-lang/lice (⭐130)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [borisf/classyshark-bytecode-viewer (⭐202)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐148)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+*   [Poweranimal/PowerCollections (⭐16)](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
+*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
+*   [ruslanys/telegraff (⭐146)](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
+*   [krzema12/fsynth (⭐11)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
+*   [AngryJKirk/familybot (⭐121)](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
+*   [madhead/tyzenhaus (⭐13)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
 
 ### Projects / Desktop
 
+*   [ice1000/Dekoder (⭐21)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
+*   [ice1000/dev-kt (⭐94)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
+*   [ruslanys/vkmusic (⭐36)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
 *   [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
 *   [pintowar/sudoscan (⭐7)](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
-*   [ice1000/Dekoder (⭐21)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
 *   [russellbanks/HashHash (⭐34)](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
-*   [ruslanys/vkmusic (⭐36)](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
-*   [ice1000/dev-kt (⭐94)](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
 
 ### Projects / Examples
 
-*   [robfletcher/lazybones-kotlin (⭐1)](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
-*   [itmaginationdemos/KMM-Sample-App (⭐5)](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
-*   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
-*   [dkandalov/rosettacode-kotlin (⭐21)](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
-*   [gyulavoros/kotlin-todomvc (⭐22)](https://github.com/gyulavoros/kotlin-todomvc) - Kotlin TodoMVC – full-stack Kotlin application demo
-*   [vicboma1/Kotlin-Examples-Problems (⭐25)](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
-*   [wangjiegulu/KotlinAndroidSample (⭐27)](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
-*   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐28)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
-*   [vicboma1/GettingStartedKotlin (⭐43)](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
-*   [rozkminiacz/KotlinUnitTesting (⭐115)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
-*   [vicboma1/Kotlin-Koans (⭐124)](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project.
-*   [dodyg/Kotlin101 (⭐193)](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
-*   [IvanMwiruki/30-seconds-of-kotlin (⭐251)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
-*   [pakoito/FunctionalAndroidReference (⭐276)](https://github.com/pakoito/FunctionalAndroidReference) - A different Android app showcasing Functional Reactive Programming.
-*   [dkandalov/kotlin-99 (⭐650)](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
-*   [bmaslakov/kotlin-algorithm-club (⭐930)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
 *   [JetBrains/swot (⭐1.7k)](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+*   [robfletcher/lazybones-kotlin (⭐1)](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
+*   [wangjiegulu/KotlinAndroidSample (⭐27)](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
+*   [dodyg/Kotlin101 (⭐193)](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
+*   [dkandalov/kotlin-99 (⭐650)](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
+*   [dkandalov/rosettacode-kotlin (⭐21)](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
+*   [vicboma1/Kotlin-Koans (⭐124)](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project.
+*   [vicboma1/GettingStartedKotlin (⭐43)](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
+*   [vicboma1/Kotlin-Examples-Problems (⭐25)](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
+*   [pakoito/FunctionalAndroidReference (⭐276)](https://github.com/pakoito/FunctionalAndroidReference) - A different Android app showcasing Functional Reactive Programming.
+*   [bmaslakov/kotlin-algorithm-club (⭐930)](https://github.com/bmaslakov/kotlin-algorithm-club) - Classic algorithms and data structures in Kotlin.
+*   [gyulavoros/kotlin-todomvc (⭐22)](https://github.com/gyulavoros/kotlin-todomvc) - Kotlin TodoMVC – full-stack Kotlin application demo
+*   [mkraynov/todomvc-react-kotlin (⭐10)](https://github.com/mkraynov/todomvc-react-kotlin) - React Kotlin TodoMVC – example based on create-react-kotlin-app and todomvc-react
+*   [IvanMwiruki/30-seconds-of-kotlin (⭐251)](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - Useful Kotlin snippets you can understand quickly, using only the stdlib.
+*   [xurxodev/integration-testing-kotlin-multiplatform-kata (⭐28)](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - A full exercise to learn how to use stubbing HTTP in Kotlin multiplatform using Ktor and Ktor Client Mock.
+*   [rozkminiacz/KotlinUnitTesting (⭐115)](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
+*   [itmaginationdemos/KMM-Sample-App (⭐5)](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
 
 ### Projects / Idea Plugins
 
+*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+*   [intellij-rust/intellij-rust (⭐4.5k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
+*   [izhangzhihao/intellij-rainbow-brackets (⭐4.4k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
+*   [roger-yh99/Readhub (⭐62)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
+*   [roger-yh99/AwesomeKotlinPlugin (⭐12)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
+*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
 *   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
 *   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
-*   [emedinaa/kotlin-mvp-volley (⭐9)](https://github.com/emedinaa/kotlin-mvp-volley) - Example of Android project in Kotlin using MVP(Model View Presenter) pattern and volley library
-*   [roger-yh99/AwesomeKotlinPlugin (⭐12)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
 *   [csense-oss/idea-kotlin-checked-exceptions (⭐23)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
-*   [roger-yh99/Readhub (⭐62)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
-*   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
-*   [izhangzhihao/intellij-rainbow-brackets (⭐4.4k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
-*   [intellij-rust/intellij-rust (⭐4.5k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 
 ### Projects / Playground
 
-*   [LouisCAD/kotlin-libraries-playground (⭐179)](https://github.com/LouisCAD/kotlin-libraries-playground) - A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
+*   [LouisCAD/kotlin-libraries-playground (⭐179)](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 ### Projects / Android
 
-*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
-*   [pranayairan/CoinBit (⭐60)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
-*   [SimonSchubert/NewsOut (⭐117)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
 *   [skydoves/themovies (⭐495)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
+*   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
 *   [TonnyL/Mango (⭐655)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
 *   [SimonSchubert/LinuxCommandBibliotheca (⭐817)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
-*   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
+*   [SimonSchubert/NewsOut (⭐117)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
+*   [pranayairan/CoinBit (⭐60)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
+*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
 
 ### Android / Libraries
 
-*   [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
-*   [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
-*   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
-*   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
-*   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
-*   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
-*   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
-*   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
-*   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
-*   [adrielcafe/AndroidCoroutineScopes (⭐17)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
-*   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
-*   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
-*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
-*   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
-*   [developingdeveloper-tech/toaster-android (⭐27)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
-*   [evilthreads669966/Pickpocket (⭐28)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
-*   [evilthreads669966/BootLaces (⭐34)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
-*   [evilthreads669966/EvadeMe (⭐40)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
-*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
-*   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
-*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
-*   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
-*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
-*   [heart-switch (⭐61)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
-*   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful) - Stateful is a Kotlin library which makes Android application development faster and easier.
-*   [MackHartley/DashedView (⭐69)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
-*   [adrielcafe/HAL (⭐79)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
-*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble) - Screen orientation detector for android
-*   [adrielcafe/PufferDB (⭐100)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
-*   [denisidoro/krouter (⭐121)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
-*   [line/clay (⭐121)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
-*   [WindSekirun/RxSocialLogin (⭐125)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
-*   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
-*   [deva666/peko (⭐152)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
-*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
-*   [WindSekirun/RichUtilsKt (⭐172)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
-*   [infotech-group/android-drawable-dsl (⭐179)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
-*   [adrielcafe/KrumbsView (⭐186)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
-*   [iglaweb/Ferris-Wheel (⭐323)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
-*   [metalabdesign/AsyncAwait (⭐408)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
-*   [BennyWang/KBinding (⭐409)](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin, develop Android has never been so fun.
-*   [MarcinMoskala/ActivityStarter (⭐431)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-*   [skydoves/Submarine (⭐475)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
-*   [skydoves/Only (⭐483)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
+*   [MarcinMoskala/ActivityStarter (⭐431)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
+*   [MarcinMoskala/PreferenceHolder (⭐155)](https://github.com/MarcinMoskala/PreferenceHolder)
+*   [pawegio/KAndroid (⭐896)](https://github.com/pawegio/KAndroid)
+*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref)
+*   [TouK/bubble (⭐99)](https://github.com/TouK/bubble)
+*   [mcxiaoke/kotlin-koi (⭐516)](https://github.com/mcxiaoke/kotlin-koi)
+*   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful)
+*   [BennyWang/KBinding (⭐409)](https://github.com/BennyWang/KBinding)
+*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
 *   [grandstaish/paperparcel (⭐499)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
-*   [mcxiaoke/kotlin-koi (⭐516)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
-*   [zsmb13/MaterialDrawerKt (⭐518)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
-*   [skydoves/Needs (⭐613)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
-*   [DanielMartinus/Stepper-Touch (⭐685)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
-*   [chibatching/Kotpref (⭐696)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
 *   [nitrico/LastAdapter (⭐776)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
-*   [MackHartley/RoundedProgressBar (⭐783)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
-*   [TradeMe/MapMe (⭐841)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
-*   [pawegio/KAndroid (⭐896)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
-*   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
-*   [cortinico/slidetoact (⭐1.2k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
+*   [denisidoro/krouter (⭐121)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
+*   [metalabdesign/AsyncAwait (⭐408)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 *   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
-*   [skydoves/AndroidVeil (⭐1.5k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
+*   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
+*   [DanielMartinus/Stepper-Touch (⭐685)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
+*   [infotech-group/android-drawable-dsl (⭐179)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
+*   [zsmb13/MaterialDrawerKt (⭐518)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
 *   [DanielMartinus/Konfetti (⭐3.1k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
+*   [rakshakhegde/ObservableFlow (⭐27)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
+*   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
+*   [line/clay (⭐121)](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
+*   [WindSekirun/RichUtilsKt (⭐172)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
+*   [TradeMe/MapMe (⭐841)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
+*   [iglaweb/Ferris-Wheel (⭐323)](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
+*   [ehsunshine/colored-time-selector (⭐152)](https://github.com/ehsunshine/colored-time-selector) - A smart colored time selector. Users can select just free time with a handy colorful range selector.
+*   [yundom/kache (⭐24)](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
+*   [adrielcafe/KBus (⭐46)](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
+*   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
+*   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
+*   [adrielcafe/AndroidCoroutineScopes (⭐17)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
+*   [WindSekirun/RxSocialLogin (⭐125)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
+*   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
+*   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
+*   [adrielcafe/KrumbsView (⭐186)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
+*   [inshiro/Skate (⭐9)](https://github.com/inshiro/Skate) - A simple and easy to use Android fragment stack controller
+*   [cortinico/slidetoact (⭐1.2k)](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin
 *   [AppIntro/AppIntro (⭐11k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
+*   [CuriousNikhil/gossip (⭐14)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
+*   [adrielcafe/PufferDB (⭐100)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
+*   [adrielcafe/HAL (⭐79)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [coil-kt/coil (⭐11k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+*   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
+*   [rosariopfernandes/firecoil (⭐44)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
+*   [skydoves/Only (⭐483)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
+*   [skydoves/AndroidVeil (⭐1.5k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
+*   [skydoves/Submarine (⭐475)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
+*   [skydoves/Needs (⭐613)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
+*   [evilthreads669966/EvadeMe (⭐40)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
+*   [evilthreads669966/BootLaces (⭐34)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
+*   [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
+*   [evilthreads669966/Pickpocket (⭐28)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
+*   [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
+*   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
+*   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
+*   [deva666/peko (⭐152)](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
+*   [MackHartley/DashedView (⭐69)](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
+*   [MackHartley/RoundedProgressBar (⭐783)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
+*   [developingdeveloper-tech/toaster-android (⭐27)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
+*   [heart-switch (⭐61)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 
 ### Android / Frameworks
 
-*   [hpost/rx-mvi (⭐8)](https://github.com/hpost/rx-mvi) - Minimal framework for Model View Intent inspired Android applications written in Kotlin.
-*   [0xe1f/ararat (⭐32)](https://github.com/0xe1f/ararat) - Crossword library for Android
-*   [lightningkite/kotlin-core (⭐36)](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
-*   [Miha-x64/Lychee (⭐119)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
 *   [nekocode/kotgo (⭐1.6k)](https://github.com/nekocode/kotgo) - An android development framework on kotlin using MVP architecture.
+*   [lightningkite/kotlin-core (⭐36)](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
+*   [hpost/rx-mvi (⭐8)](https://github.com/hpost/rx-mvi) - Minimal framework for Model View Intent inspired Android applications written in Kotlin.
 *   [LouisCAD/Splitties (⭐2.5k)](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
+*   [Miha-x64/Lychee (⭐119)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
+*   [0xe1f/ararat (⭐32)](https://github.com/0xe1f/ararat)
 
 ### Android / Projects
 
-*   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
-*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
-*   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
-*   [halilozel1903/LearnKotlinProgramming (⭐7)](https://github.com/halilozel1903/LearnKotlinProgramming) - Let's Learn Kotlin Programming ❤️
+*   [BanDev/Buddha-Quotes (⭐36)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
+*   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
+*   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
+*   [damianpetla/kotlin-dagger-example (⭐535)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
+*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 *   [MakinGiants/banjen (⭐11)](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
-*   [Marwa-Eltayeb/CurrencyExchange (⭐11)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
-*   [massivedisaster/AFM (⭐12)](https://github.com/massivedisaster/AFM) - A library to help android developers work easily with activities and fragments with Kotlin
-*   [inshiro/Kodesh (⭐13)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
-*   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
+*   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
 *   [MakinGiants/todayhistory (⭐30)](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
 *   [RxKotlin/Pocket (⭐32)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
-*   [inaka/kotlillon (⭐33)](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
-*   [BanDev/Buddha-Quotes (⭐36)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
-*   [Karumi/MaxibonKataKotlin (⭐43)](https://github.com/Karumi/MaxibonKataKotlin) - A ready to use playground to learn how to write tests using property-based testing in Kotlin.
-*   [Karumi/KataContactsKotlin (⭐49)](https://github.com/Karumi/KataContactsKotlin) - An exercise to learn how to write software based on Clean Architecture using Kotlin.
-*   [Karumi/KataTODOApiClientKotlin (⭐60)](https://github.com/Karumi/KataTODOApiClientKotlin) - A full exercise to learn how to use stubbing HTTP in Kotlin.
-*   [Karumi/KataScreenshotKotlin (⭐76)](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android
-*   [ziggy42/Blum-kotlin (⭐83)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
-*   [Karumi/KataSuperHeroesKotlin (⭐86)](https://github.com/Karumi/KataSuperHeroesKotlin) - A full exercise to learn how to create espresso tests using test doubles and a dependency injector for Android written in Kotlin.
-*   [adrielcafe/ChromaAndroidApp (⭐111)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
-*   [halilozel1903/KotlinTutorials (⭐111)](https://github.com/halilozel1903/KotlinTutorials) - It's a project that contains lessons and examples about Kotlin programming language.
-*   [AmrDeveloper/Linkhub (⭐165)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
-*   [dgngulcan/droid-feed (⭐187)](https://github.com/dgngulcan/droid-feed) - News feed aggregated exclusively for Android Developers.
 *   [SidneyXu/AndroidDemoIn4Languages (⭐195)](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
-*   [AllanWang/KAU (⭐222)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
-*   [dodyg/AndroidRivers (⭐321)](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
-*   [hanjoongcho/aaf-easydiary (⭐428)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
-*   [cuongpm/youtube-dl-android (⭐510)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
-*   [SimpleMobileTools/Simple-Draw (⭐516)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
-*   [damianpetla/kotlin-dagger-example (⭐535)](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
-*   [SimpleMobileTools/Simple-Camera (⭐765)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
-*   [SimpleMobileTools/Simple-Notes (⭐829)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
-*   [skydoves/MarvelHeroes (⭐1.2k)](https://github.com/skydoves/MarvelHeroes) - A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
-*   [SimpleMobileTools/Simple-File-Manager (⭐1.5k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [skydoves/DisneyMotions (⭐1.5k)](https://github.com/skydoves/DisneyMotions) - A beautiful Disney app using transformation motions based on MVVM architecture.
-*   [PatilShreyas/NotyKT (⭐1.7k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
-*   [antoniolg/Bandhook-Kotlin (⭐1.9k)](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
-*   [PatilShreyas/Foodium (⭐2.3k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
-*   [VMadalin/kotlin-sample-app (⭐2.4k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack
-*   [android-password-store/Android-Password-Store (⭐2.5k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
-*   [antoniolg/Kotlin-for-Android-Developers (⭐2.7k)](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
+*   [ziggy42/Blum-kotlin (⭐83)](https://github.com/ziggy42/Blum-kotlin) - A simple android Twitter client written in Kotlin
 *   [TwidereProject/Twidere-Android (⭐2.7k)](https://github.com/TwidereProject/Twidere-Android) - Material Design ready and feature rich Twitter app for Android 4.0+
 *   [SimpleMobileTools/Simple-Calendar (⭐3.5k)](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widget and no ads.
+*   [SimpleMobileTools/Simple-Camera (⭐765)](https://github.com/SimpleMobileTools/Simple-Camera) - A camera with flash, zoom and no ads.
+*   [SimpleMobileTools/Simple-Draw (⭐516)](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
+*   [SimpleMobileTools/Simple-File-Manager (⭐1.5k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [SimpleMobileTools/Simple-Gallery (⭐3.6k)](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
+*   [SimpleMobileTools/Simple-Notes (⭐829)](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
+*   [ahong222/happy21 (⭐14)](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
+*   [AllanWang/KAU (⭐222)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
+*   [inshiro/Kodesh (⭐13)](https://github.com/inshiro/Kodesh) - Free and open source Bible for Android
+*   [Karumi/KataScreenshotKotlin (⭐76)](https://github.com/Karumi/KataScreenshotKotlin) - An full exercise to learn how to create screenshot tests for Android
+*   [massivedisaster/AFM (⭐12)](https://github.com/massivedisaster/AFM) - A library to help android developers work easily with activities and fragments with Kotlin
+*   [Karumi/KataSuperHeroesKotlin (⭐86)](https://github.com/Karumi/KataSuperHeroesKotlin) - A full exercise to learn how to create espresso tests using test doubles and a dependency injector for Android written in Kotlin.
+*   [Karumi/KataContactsKotlin (⭐49)](https://github.com/Karumi/KataContactsKotlin) - An exercise to learn how to write software based on Clean Architecture using Kotlin.
+*   [Karumi/KataTODOApiClientKotlin (⭐60)](https://github.com/Karumi/KataTODOApiClientKotlin) - A full exercise to learn how to use stubbing HTTP in Kotlin.
+*   [Karumi/MaxibonKataKotlin (⭐43)](https://github.com/Karumi/MaxibonKataKotlin) - A ready to use playground to learn how to write tests using property-based testing in Kotlin.
+*   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
+*   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
+*   [hanjoongcho/aaf-easydiary (⭐428)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
+*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
+*   [adrielcafe/ChromaAndroidApp (⭐111)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
+*   [cuongpm/youtube-dl-android (⭐510)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
+*   [dgngulcan/droid-feed (⭐187)](https://github.com/dgngulcan/droid-feed) - News feed aggregated exclusively for Android Developers.
+*   [VMadalin/kotlin-sample-app (⭐2.4k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack
+*   [PatilShreyas/Foodium (⭐2.3k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+*   [skydoves/MarvelHeroes (⭐1.2k)](https://github.com/skydoves/MarvelHeroes) - A sample Marvel heroes application based on MVVM (ViewModel, Coroutines, LiveData, Room, Repository, Koin)  architecture.
+*   [halilozel1903/LearnKotlinProgramming (⭐7)](https://github.com/halilozel1903/LearnKotlinProgramming) - Let's Learn Kotlin Programming ❤️
+*   [halilozel1903/KotlinTutorials (⭐111)](https://github.com/halilozel1903/KotlinTutorials) - It's a project that contains lessons and examples about Kotlin programming language.
+*   [android-password-store/Android-Password-Store (⭐2.5k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
+*   [PatilShreyas/NotyKT (⭐1.7k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
+*   [Marwa-Eltayeb/CurrencyExchange (⭐11)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
+*   [AmrDeveloper/Linkhub (⭐165)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 
 ### Android / Extensions
 
-*   [matteocrippa/karamba (⭐51)](https://github.com/matteocrippa/karamba) - A Swiss army knife of useful extensions for Kotlin
 *   [ajalt/timberkt (⭐203)](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber.
+*   [matteocrippa/karamba (⭐51)](https://github.com/matteocrippa/karamba) - A Swiss army knife of useful extensions for Kotlin
 
 ### Android / Tools
 
@@ -615,26 +701,26 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Kotlin JavaScript / JavaScript
 
-*   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
-*   [kengorab/kotlin-javascript-boilerplate (⭐10)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
-*   [stangls/kotlin-js-jquery (⭐20)](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
-*   [shafirov/klogging (⭐34)](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
-*   [markaren/three-kt-wrapper (⭐56)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
-*   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
-*   [Kabbura/Kunafa (⭐164)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
-*   [nosix/vue-kotlin (⭐193)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
 *   [andrewoma/reakt (⭐265)](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
+*   [shafirov/klogging (⭐34)](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
+*   [stangls/kotlin-js-jquery (⭐20)](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
+*   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
+*   [kengorab/kotlin-javascript-boilerplate (⭐10)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
+*   [markaren/three-kt-wrapper (⭐56)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
 *   [rjaros/kvision (⭐1.2k)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
+*   [nosix/vue-kotlin (⭐193)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
+*   [Kabbura/Kunafa (⭐164)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
+*   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
 
 ### Kotlin JavaScript / Game Development
 
-*   [Ayfri/PIXI-Kotlin (⭐15)](https://github.com/Ayfri/PIXI-Kotlin) - Typings for the graphics library PixiJs
 *   [perses-games/kudens (⭐30)](https://github.com/perses-games/kudens) - Develop browser games in Kotlin
+*   [Ayfri/PIXI-Kotlin (⭐15)](https://github.com/Ayfri/PIXI-Kotlin) - Typings for the graphics library PixiJs
 
 ### Kotlin Native / Frameworks
 
-*   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang) - High Performance Kotlin Native Web Framework based on Lwan
-*   [msink/kotlin-libui (⭐649)](https://github.com/msink/kotlin-libui) - Kotlin/Native interop to libui: a portable GUI library
+*   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
+*   [msink/kotlin-libui (⭐649)](https://github.com/msink/kotlin-libui)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -728,19 +814,19 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Data Science
 
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
+*   [Kotlin/dataframe (⭐809)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [mipt-npm/kmath (⭐649)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [lamba92/KGraph (⭐19)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
-*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐183)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 *   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
 *   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [breandan/kaliningraph (⭐115)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐183)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [mipt-npm/kmath (⭐649)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
-*   [Kotlin/dataframe (⭐809)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
+*   [lamba92/KGraph (⭐19)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
+*   [breandan/kaliningraph (⭐115)](https://github.com/breandan/kaliningraph)
+*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 
 ### Libraries/Frameworks / API Clients
 
@@ -1009,8 +1095,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Graphics
 
-*   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 *   [kotlin-graphics/bullet (⭐43)](https://github.com/kotlin-graphics/bullet) - bullet port
+*   [java-opengl-labs/learn-OpenGL (⭐38)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -1498,16 +1584,16 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Parsers
 
-*   [ParserKt/ParserKt (⭐14)](https://github.com/ParserKt/ParserKt) - Naive one-pass recursive descent, scannerless parser framework for Kotlin
-*   [fork-handles/parser4k (⭐213)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
+*   [ParserKt/ParserKt (⭐14)](https://github.com/ParserKt/ParserKt)
 *   [h0tk3y/better-parse (⭐418)](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
+*   [fork-handles/parser4k (⭐213)](https://github.com/fork-handles/forkhandles/tree/trunk/parser4k) - Recursive descent parser combinator library
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
-*   [davidepianca98/KMQTT (⭐186)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
 *   [ionspin/kotlin-multiplatform-bignum (⭐356)](https://github.com/ionspin/kotlin-multiplatform-bignum) - Pure kotlin multiplatform arbitrary precision arithmetic library.
+*   [davidepianca98/KMQTT (⭐186)](https://github.com/davidepianca98/KMQTT) - MQTT Broker library/executables for Kotlin multiplatform.
 *   [GitLiveApp/firebase-kotlin-sdk (⭐1.1k)](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first Multiplatform SDK for Firebase supporting iOS, Android & Web
+*   [DetachHead/kotlinxpath (⭐4)](https://github.com/DetachHead/kotlinxpath) - A typesafe builder for Xpath with several useful helper functions that make Xpath easier to work with
 
 ### Libraries/Frameworks / Extensions
 
@@ -1515,22 +1601,22 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Configuration
 
-*   [daviddenton/configur8 (⭐12)](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
-*   [Nohus/AutoKonfig](https://autokonfig.nohus.dev/) - A Kotlin configuration library with batteries included. Type-safe, zero lines of setup.
-*   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
-*   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
-*   [mariomac/kaconf (⭐60)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
-*   [jdiazcano/cfg4k (⭐80)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
-*   [config4k/config4k (⭐275)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
 *   [npryce/konfig (⭐279)](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
-*   [cdimascio/dotenv-kotlin (⭐497)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
+*   [mariomac/kaconf (⭐60)](https://github.com/mariomac/kaconf) - KickAss Configuration. An annotation-based configuration system for Java and Kotlin
+*   [config4k/config4k (⭐275)](https://github.com/config4k/config4k) - A Kotlin wrapper for Typesafe Config
+*   [jdiazcano/cfg4k (⭐80)](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin.
+*   [daviddenton/configur8 (⭐12)](https://github.com/daviddenton/configur8) - A Kotlin port of Configur8 - A Type Safe Configuration API for Kotlin, extendable to user-defined types.
+*   [ufoscout/properlty (⭐26)](https://github.com/ufoscout/properlty) - Simple configuration library with placeholders resolution and zero magic!
 *   [sksamuel/hoplite (⭐913)](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
+*   [Nohus/AutoKonfig](https://autokonfig.nohus.dev/) - A Kotlin configuration library with batteries included. Type-safe, zero lines of setup.
+*   [cdimascio/dotenv-kotlin (⭐497)](https://github.com/cdimascio/dotenv-kotlin) - A zero-dependency module that loads environment variables from a .env file
+*   [davidohana/kofiko-kotlin (⭐22)](https://github.com/davidohana/kofiko-kotlin) - Kofiko: Code-First configuration library. Lightweight, simple and minimal boilerplate.
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
-*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 *   [data2viz/data2viz (⭐415)](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+*   [kotlin-graphics/uno-sdk (⭐24)](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
+*   [kotlin-graphics/ovr (⭐6)](https://github.com/kotlin-graphics/ovr) - Oculus binding
 *   [kotlin-graphics/imgui (⭐598)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 *   [openrndr/openrndr (⭐873)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
@@ -1730,8 +1816,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 *   [breandan/kotlingrad (⭐520)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
 
 ### Libraries/Frameworks / Command Line Interface
 

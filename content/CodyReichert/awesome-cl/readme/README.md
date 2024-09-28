@@ -737,7 +737,7 @@ For strings:
 
 Writing terser defclass forms:
 
-*   [defclass-std (⭐38)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8].
+*   [defclass-std (⭐3)](https://github.com/lisp-maintainers/defclass-std) - a shortcut macro to write DEFCLASS and PRINT-OBJECT forms quickly. [LLGPL][8].
 *   [nclasses (⭐7)](https://github.com/atlas-engineer/nclasses) - Syntactic sugar for class and generic function declarations. Fork of [hu.dwim.defclass-star (⭐5)](https://github.com/hu-dwim/hu.dwim.defclass-star). Features type inference, automatic accessors, inline initform syntax, automatic exports, and other conveniences. [BSD][15].
 
 And also:
@@ -1274,7 +1274,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
 *   [cl-pushover (⭐2)](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT][200].
 *   [humbler (⭐11)](https://github.com/Shinmera/humbler) - A Tumblr API interface. [zlib][33].
 *   [multiposter (⭐13)](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib][33].
-*   [stripe (⭐4)](https://github.com/atlas-engineer/stripe) - a client for the Stripe payment system. [MIT][200].
+*   [stripe (⭐0)](https://github.com/boogsbunny/stripe) - a client for the Stripe payment system. [MIT][200].
 *   [lisp-pay (⭐23)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT][200].
 *   [lunamech-matrix-api (⭐7)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT][200].
 *   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT][200].

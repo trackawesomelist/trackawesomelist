@@ -12,10 +12,18 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [nyaml (⭐25)](https://github.com/jasom/nyaml) - A lisp native YAML parser. MIT.
 
+### CLOS extensions
+
+*   [defclass-std (⭐3)](https://github.com/lisp-maintainers/defclass-std) - a shortcut macro to write DEFCLASS and PRINT-OBJECT forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
+
 ### HTTP Servers / Clack plugins
 
 *   [lack-expression-cache (⭐0)](https://github.com/daninus14/lack-compression-cache) -  lack middleware for compressing and caching static resources. MIT.
 *   [lack-rerouter (⭐0)](https://github.com/daninus14/lack-rerouter) -  lack middleware to reroute URIs of requests. MIT.
+
+### Others / Third-party APIs
+
+*   [stripe (⭐0)](https://github.com/boogsbunny/stripe) - a client for the Stripe payment system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
@@ -109,10 +117,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Others / Web project skeletons and generators
 
 *   [cl-cookie (⭐18)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT](https://opensource.org/licenses/MIT)
-
-### Others / Third-party APIs
-
-*   [stripe (⭐4)](https://github.com/atlas-engineer/stripe) - a client for the Stripe payment system. [MIT](https://opensource.org/licenses/MIT).
 
 ### Job processing / Third-party APIs
 
@@ -2623,10 +2627,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   👍 [serapeum (⭐420)](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 *   [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
-
-### CLOS extensions
-
-*   [defclass-std (⭐38)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Reference
 

@@ -462,6 +462,7 @@ See also [A comparison of operating systems written in Rust (⭐697)](https://gi
 *   [bandwhich (⭐9.9k)](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 *   [bottom (⭐9.9k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 *   [brocode/fblog (⭐433)](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
+*   [brush-shell (⭐13)](https://github.com/reubeno/brush) - bash/POSIX-compatible shell [![CICD](https://github.com/reubeno/brush/actions/workflows/ci.yaml/badge.svg)](https://github.com/reubeno/brush/actions/workflows/ci.yaml)[![Crate](https://img.shields.io/crates/v/brush-shell.svg?logo=rust)](https://crates.io/crates/brush-shell)
 *   [bustd (⭐212)](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon to handle out-of-memory scenarios on Linux. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
 *   [buster/rrun (⭐112)](https://github.com/buster/rrun) - A command launcher for Linux, similar to gmrun
 *   [cantino/mcfly (⭐6.9k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -493,7 +494,7 @@ See also [A comparison of operating systems written in Rust (⭐697)](https://gi
 *   [mmstick/tv-renamer (⭐148)](https://github.com/mmstick/tv-renamer) - A tv series renaming application with an optional GTK3 frontend.
 *   [mxseev/logram (⭐97)](https://github.com/mxseev/logram) - Push log files' updates to Telegram
 *   [netscanner (⭐817)](https://github.com/Chleba/netscanner) - TUI Network Scanner
-*   [nickgerace/gfold (⭐282)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐283)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 *   [nivekuil/rip (⭐1.4k)](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to `rm`
 *   [nushell/nushell (⭐32k)](https://github.com/nushell/nushell) - A new type of shell
 *   [orhun/kmon (⭐2.5k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
@@ -822,7 +823,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [rust-lang/rust-enhanced (⭐780)](https://github.com/rust-lang/rust-enhanced) - official Rust package
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.5k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐846)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐851)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.9k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐630)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 *   Visual Studio

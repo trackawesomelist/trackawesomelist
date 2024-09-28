@@ -6,6 +6,16 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Sep 28, 2024](/content/2024/09/28/README.md)
+
+### CLOS extensions
+
+*   [defclass-std (⭐3)](https://github.com/lisp-maintainers/defclass-std) - a shortcut macro to write DEFCLASS and PRINT-OBJECT forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
+
+### Others / Third-party APIs
+
+*   [stripe (⭐0)](https://github.com/boogsbunny/stripe) - a client for the Stripe payment system. [MIT](https://opensource.org/licenses/MIT).
+
 ## [Sep 26, 2024](/content/2024/09/26/README.md)
 
 ### Mobile
@@ -109,10 +119,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Others / Web project skeletons and generators
 
 *   [cl-cookie (⭐18)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT](https://opensource.org/licenses/MIT)
-
-### Others / Third-party APIs
-
-*   [stripe (⭐4)](https://github.com/atlas-engineer/stripe) - a client for the Stripe payment system. [MIT](https://opensource.org/licenses/MIT).
 
 ### Job processing / Third-party APIs
 
@@ -2730,12 +2736,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Emacs / Third-party APIs
 
 *   [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
-
-## [Jan 07, 2018](/content/2018/01/07/README.md)
-
-### CLOS extensions
-
-*   [defclass-std (⭐38)](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [Jan 06, 2018](/content/2018/01/06/README.md)
 
