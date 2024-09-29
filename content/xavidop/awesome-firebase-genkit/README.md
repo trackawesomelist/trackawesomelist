@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Sep 29, 2024](/content/2024/09/29/README.md)
+
+### Articles / Golang - Community
+
+*   [Understanding Genkit flows with Czech language tricks](https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3) - Learn how to work with Genkit flows and use the features of Genkit UI.
+
 ## [Sep 25, 2024](/content/2024/09/25/README.md)
 
 ### Plugins / JavaScript - Community

@@ -13,6 +13,10 @@
 *   Evaluator Plugins
     *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 
+### Articles / Golang - Community
+
+*   [Understanding Genkit flows with Czech language tricks](https://dev.to/denisvalasek/understanding-genkit-flows-with-czech-language-tricks-26i3) - Learn how to work with Genkit flows and use the features of Genkit UI.
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### Articles / Golang - Community
