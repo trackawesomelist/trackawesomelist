@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Sep 29, 2024](/content/2024/09/29/README.md)
+
+### Miscellaneous
+
+*   [HighwayHash (⭐1.5k)](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. \[Apache-2.0]
+
 ## [Sep 27, 2024](/content/2024/09/27/README.md)
 
 ### Concurrency

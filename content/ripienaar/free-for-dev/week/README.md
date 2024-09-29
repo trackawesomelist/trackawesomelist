@@ -28,13 +28,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [seclookup.com](https://www.seclookup.com/) - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).
 
+### Generative AI
+
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
+
 ### PaaS
 
 *   [genezio](https://genezio.com/) - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.
-
-### Web Hosting
-
-*   [EdgeOne Pages](https://edgeone.ai/products/pages) - EdgeOne Pages enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance. Free access to all features.
 
 ### Managed Data Services
 
@@ -912,10 +912,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
 *   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
-
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
 ### Payment and Billing Integration
 
@@ -1932,10 +1928,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [GatsbyjsCMS](https://www.gatsbyjs.com/) - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!
 
-### PaaS
-
-*   [Divio](https://www.divio.com/) - A platform to manage cloud applications deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.
-
 ### BaaS
 
 *   [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
@@ -2512,6 +2504,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
     *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+    *   [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
 ### Source Code Repos
 

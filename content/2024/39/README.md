@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 23 - Sep 29, 2024
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [1. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### Type / React
+
+*   [gqloom (⭐2)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6k)](https://github.com/fabian-hiller/valibot), [Zod (⭐33k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
+
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -20,7 +26,7 @@
 
 *   [List of Automated Testing Tools and Frameworks for .NET (⭐537)](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET) - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Community
 
@@ -34,27 +40,23 @@
 *   [Euro Python](https://europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
 *   [DjangoCongress JP](https://djangocongress.jp/) ([YouTube Channel](https://www.youtube.com/@djangocongressjp3623))
 
-## [3. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [4. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
 *   [wagtailmdx (⭐0)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐1.9k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Precaution](https://www.securesauce.dev/) — Precaution is a static analysis security tool (SAST) designed to find potentially critical vulnerabilities in source code prior to production. It is available as a CLI, GitHub Action, and GitHub App.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Compiler Plugins
 
 *   [Mr-Mappie/mappie (⭐18)](https://github.com/Mr-Mappie/mappie) - Kotlin compiler plugin generating type-safe and performant object mapping code.
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
 ### Libraries/Frameworks / Graphics
 
@@ -138,13 +140,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-quilly (⭐41)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -195,7 +197,7 @@
     *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -214,7 +216,7 @@
 
 *   [stripe (⭐0)](https://github.com/boogsbunny/stripe) - a client for the Stripe payment system. [MIT](https://opensource.org/licenses/MIT).
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -236,7 +238,7 @@
 *   [Rosie](https://heyrosie.com/): AI Phone Answering Service
 *   [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Link Shorteners
 
@@ -247,13 +249,13 @@
 
 *   [🤖](#icons) [Aliucord (⭐3.6k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐3.6k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
-## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / General Overviews
 
 *   *[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)*, by Michele Coscia (2021).
 
-## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Courses
 
@@ -304,16 +306,18 @@
 
 *   [GTFS Realtime Display](https://codeberg.org/dancingCycle/gtfs-rt-display) - Analyse, monitor and maintain GTFS Realtime data. [Example instances](https://www.swingbe.de/activity/gtfs-rt-display/)
 
-## [13. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [14. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Tile/Level Editors
 
 *   :money\_with\_wings: [MapperMate](https://mappermate.com/) - A cloud based tile map editor used to create 2D levels directly in the browser.
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [auto-pnpm-use (⭐3)](https://github.com/brunomacedo/zsh-auto-pnpm-use) - Automatically loads the node version specified in `.nvmrc` or `.npmrc`.
+*   [banner (⭐0)](https://github.com/drkhsh/zsh-banner) - Displays ANSI/ASCII art on session startup.
 *   [firebase (seqi) (⭐9)](https://github.com/Seqi/firebase-zsh) - Display the current working project or project alias when in a Firebase project directory or subdirectory.
 *   [flatpak (⭐0)](https://github.com/claymorwan/Flatpak-zsh-plugin) - Adds aliases for [Flatpak](https://docs.flatpak.org/en/latest/using-flatpak.html).
 *   [kubectl-prompt (⭐559)](https://github.com/superbrothers/zsh-kubectl-prompt) - Display information about the kubectl current context and namespace in your ZSH prompt. Creates `ZSH_KUBECTL_CONTEXT`, `ZSH_KUBECTL_NAMESPACE`,`ZSH_KUBECTL_PROMPT` and `ZSH_KUBECTL_USER` variables you can use to customize your prompt.
@@ -326,29 +330,32 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [alpha (⭐2)](https://github.com/Republic-Of-Lunar/alpha-zsh-theme) - Includes decorators for username\@hostname and current directory.
+*   [ap2 (⭐0)](https://github.com/aungphyo-dev/ap2.zsh) - Minimalist them with decortators for time, OS, current directory, `git` status and the last command's exit status.
+*   [biraskull (⭐0)](https://github.com/Shahryar-Pirooz/biraSkull.zsh-theme) - Based on [bira (⭐172k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), includes root status and `git` status decorations.
 *   [nerdp (⭐0)](https://github.com/joknarf/nerdp) - Nerd powerline-style prompt. Requires a nerd font. Includes decorators for `git` status, username\@hostname, current directory, Python virtualenv, filesystem usage check, 1 minute CPU load, available memory and the time.
 *   [rho (⭐0)](https://github.com/andrii-rieznik/rho-zsh-theme) - Minimalist theme. Includes decorators for `git` status, hostname and current directory.
+*   [zido (⭐1)](https://github.com/SidonieBouthors/zido-zsh-theme) - Includes decorators for `git` status and current directory.
 
-## [15. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [16. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Component Libraries
 
 *   [dash-vega-components (⭐44)](https://github.com/altair-viz/dash-vega-components) - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 
-## [16. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [17. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / JavaScript - Community
 
 *   Evaluator Plugins
     *   [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 
-## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Processing and ETL
 
 *   [Multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 
-## [18. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / CLI utils
 
@@ -358,19 +365,19 @@
 
 *   [studio-pack-generator (⭐81)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
 
-## [19. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Productivity
 
 *   [Tasker (⭐146)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
 
-## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -418,7 +425,7 @@
 
 *   [OpenMessaging (⭐288) (⭐288)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -436,7 +443,7 @@
 
 *   [Coppermine](https://coppermine-gallery.com/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.com/demo/cpg15x/), [Source Code (⭐67)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 
-## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [24. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Semantic Kernel** / **Code Recipes**
 
@@ -473,7 +480,7 @@
 
 *   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Proxy and VPN Tools / Audio Record and Process
 
@@ -483,7 +490,7 @@
 
 *   [RewriteBar](https://rewritebar.com/) - A macOS menu bar app that helps you write your text with the assistance of AI.
 
-## [25. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [26. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -493,7 +500,7 @@
 
 *   [Polars with Plotly](https://www.youtube.com/watch?v=slq4VhUxtCc) ⏳ 19 min - A video that shows the usage of Polars with the Plotly graphic library by [Plotly](https://plotly.com/).
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -511,7 +518,11 @@
 
 *   [REFLECT (⭐274)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
 
-## [27. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+### Miscellaneous
+
+*   [HighwayHash (⭐1.5k)](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. \[Apache-2.0]
+
+## [28. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Anti-virus Evasion Tools / Tor Tools
 
@@ -542,7 +553,7 @@
 
 *   [authoscope (⭐396)](https://github.com/kpcyrd/authoscope) - Scriptable network authentication cracker.
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [29. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Maps
 
@@ -565,7 +576,7 @@
 
 *   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -587,6 +598,10 @@
 
 *   [seclookup.com](https://www.seclookup.com/) - Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, and improve threat detection & response. Get 50K lookups free [here](https://account.seclookup.com/).
 
+### Generative AI
+
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
+
 ### PaaS
 
 *   [genezio](https://genezio.com/) - A serverless function provider offers 1 million function calls, 100GB of bandwidth, and 10 cron jobs per month for free, exclusively for non-commercial or academic use.
@@ -599,7 +614,7 @@
 
 *   [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
 
-## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [31. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -618,7 +633,7 @@
 
 *   [PeerTube (⭐13k)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (<https://joinpeertube.org/>)
 
-## [31. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [32. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Component Libraries
 
@@ -633,26 +648,26 @@
 
 *   [simple-parallax-js (⭐1.8k)](https://github.com/geosigno/simpleParallax.js) - The easiest way to get a parallax effect with React and JavaScript
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [bakageddy/alduin.nvim (⭐1)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐440)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
 *   [diegoulloao/neofusion.nvim (⭐162)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
 *   [mpvc (⭐92)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
-## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [35. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [bemi-rails (⭐79)](https://github.com/BemiHQ/bemi-rails) - A robust data change tracking and audit trail for Rails. [:red\_circle:](https://rubygems.org/gems/bemi-rails)
 
-## [35. Topics](/content/selvaklnc/topics/week/README.md)
+## [36. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
 
@@ -678,19 +693,19 @@
 *   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
 *   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
 
-## [36. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [37. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Inactive projects / Other
 
 *   **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
-## [37. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [38. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
 
-## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -711,6 +726,7 @@
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-schematics-utilities (⭐7)](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
+*   [angular-library-template (⭐0)](https://github.com/lazycuh/angular-library-template) - A template for creating Angular libraries.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -721,20 +737,37 @@
 
 *   [ng-intl (⭐6)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-testing-kit (⭐1)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
+
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [npx-app-updater (⭐1)](https://github.com/DSI-HUG/ngx-app-updater) - When a new version of your application is deployed, this library will trigger a user notification to inform them that updates are available.
+
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-notification (⭐3)](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
+
+### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-tooltip (⭐1)](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-components (⭐2)](https://github.com/DSI-HUG/ngx-components) - Useful components and utility functions for Angular.
 *   [dejajs-components (⭐38)](https://github.com/DSI-HUG/dejajs-components) - This repository is an Angular components library and the common utility functions, with a demo application for testing it.
 
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-confirmation-capture (⭐1)](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
+*   [angular-anchored-floating-box (⭐0)](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a TemplateRef or component.
+
 ### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
 
-## [39. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [40. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Books / Post-quantum cryptography
 

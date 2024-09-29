@@ -1217,6 +1217,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [gcc-poison (⭐189)](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 *   [happly (⭐309)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 *   [hedley (⭐768)](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+*   [HighwayHash (⭐1.5k)](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. \[Apache-2.0]
 *   [icecream-cpp (⭐557)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 *   [inja (⭐1.6k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 *   [Jinja2С++ (⭐496)](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)

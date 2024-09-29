@@ -24,6 +24,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [REFLECT (⭐274)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
 
+### Miscellaneous
+
+*   [HighwayHash (⭐1.5k)](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. \[Apache-2.0]
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### GUI

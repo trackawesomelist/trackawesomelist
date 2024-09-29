@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Sep 29, 2024](/content/2024/09/29/README.md)
+
+### Generative AI
+
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
+
 ## [Sep 25, 2024](/content/2024/09/25/README.md)
 
 ### Tools for Teams and Collaboration
@@ -25,10 +31,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
-
-### Web Hosting
-
-*   [EdgeOne Pages](https://edgeone.ai/products/pages) - EdgeOne Pages enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance. Free access to all features.
 
 ### Managed Data Services
 
@@ -1123,10 +1125,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
 *   [RingCentral](https://www.ringcentral.com/) — Video meetings with a free plan offering 50 minutes per meeting with 100 participants.
-
-### Tunneling, WebRTC, Web Socket Servers and Other Routers
-
-*   [Metered](https://www.metered.ca/) — Free TURN server with 50GB included monthly TURN usage.
 
 ### Payment and Billing Integration
 
@@ -2392,10 +2390,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [GatsbyjsCMS](https://www.gatsbyjs.com/) - Gatsby is the fast and flexible framework that makes building websites with any CMS, API, or database fun again. Build and deploy headless websites that drive more traffic, convert better, and earn more revenue!
 
-### PaaS
-
-*   [Divio](https://www.divio.com/) - A platform to manage cloud applications deploying only using Docker. Available free subscription for development projects. Requires card and no custom domain support.
-
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
@@ -3113,6 +3107,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
     *   [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
     *   [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
+    *   [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
 ## [Dec 06, 2021](/content/2021/12/06/README.md)
 
