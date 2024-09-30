@@ -575,7 +575,7 @@ See also [A comparison of operating systems written in Rust (⭐697)](https://gi
 *   [rust-parallel (⭐152)](https://github.com/aaronriekenberg/rust-parallel) - Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs. [![Crate](https://img.shields.io/crates/v/rust-parallel.svg?logo=rust)](https://crates.io/crates/rust-parallel) [![Build Status](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml/badge.svg)](https://github.com/aaronriekenberg/rust-parallel/actions/workflows/CI.yml)
 *   [rustdesk/rustdesk (⭐73k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
 *   [rustic-rs/rustic (⭐1.8k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
-*   [sorairolake/qrtool](https://gitlab.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://gitlab.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+*   [sorairolake/qrtool (⭐128)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
 *   [str4d/rage (⭐2.6k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐17k)](https://github.com/FiloSottile/age).
 *   [suckit (⭐732)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 *   [Tabiew (⭐376)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
@@ -1167,8 +1167,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [rustls/rustls (⭐5.9k)](https://github.com/rustls/rustls) - Implementation of TLS
 *   [sfackler/rust-native-tls (⭐472)](https://github.com/sfackler/rust-native-tls) - Bindings for native TLS libraries
 *   [sfackler/rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
-*   [sorairolake/abcrypt](https://gitlab.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://gitlab.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
-*   [sorairolake/scryptenc-rs](https://gitlab.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://gitlab.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
+*   [sorairolake/abcrypt (⭐12)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
 *   [w3f/schnorrkel (⭐309)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ### Data processing
@@ -1306,7 +1306,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [arthurhenrique/rusti-cal (⭐54)](https://github.com/arthurhenrique/rusti-cal) \[[rusti-cal](https://crates.io/crates/rusti-cal)] - A cal(1) clone lightning-fast \~ more than 9999 years \~ Written in Rust.
 *   [chronotope/chrono (⭐3.3k)](https://github.com/chronotope/chrono) - Date and time library
 *   [Mnwa/ms (⭐36)](https://github.com/Mnwa/ms) \[[ms-converter](https://crates.io/crates/ms-converter)] - it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild)
-*   [sorairolake/nt-time](https://gitlab.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://gitlab.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+*   [sorairolake/nt-time (⭐5)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
 *   [time-rs/time (⭐1.1k)](https://github.com/time-rs/time) - [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
 ### Distributed systems
@@ -1772,7 +1772,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [ardaku/whoami (⭐184)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] - crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 *   [GuillaumeGomez/sysinfo (⭐2k)](https://github.com/GuillaumeGomez/sysinfo) \[[sysinfo](https://crates.io/crates/sysinfo)] - Cross-platform library to fetch system information [![build badge](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml)
 *   [Phate6660/nixinfo (⭐46)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
-*   [sorairolake/sysexits-rs](https://gitlab.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://gitlab.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+*   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
 ### Task scheduling
 

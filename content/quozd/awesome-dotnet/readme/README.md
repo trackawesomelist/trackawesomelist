@@ -144,6 +144,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Algorithms and Data structures
 
+*   [OneOf (⭐3.4k)](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
 *   [Algorithmia (⭐532)](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 *   [C# Algorithms (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 *   [Towel (⭐720)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
@@ -376,6 +377,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Amplifier.NET (⭐173)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 *   [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
 *   [Lib.Harmony (⭐5.2k)](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.
+*   [dotnet-repl (⭐721)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
 
 ## Compression
 
@@ -980,6 +982,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Dapper (⭐17k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 *   [Dapper Extensions (⭐1.8k)](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 *   [Dapper.FastCRUD (⭐499)](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
+*   [DapperQueryBuilder (⭐512)](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 *   [SqlSugar (⭐5.3k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 *   [FreeSql (⭐4.1k)](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 *   [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
@@ -1048,6 +1051,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Query Builders
 
 *   [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+*   [InterpolatedSql (⭐108)](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
 
 ## Queue
 
@@ -1345,6 +1349,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Source Generator
 
+*   [CodegenCS (⭐248)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 *   [M31.FluentAPI (⭐95)](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 *   [Supernova.Enum.Generators (⭐177)](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 

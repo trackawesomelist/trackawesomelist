@@ -6,6 +6,28 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Sep 30, 2024](/content/2024/09/30/README.md)
+
+### Algorithms and Data structures
+
+*   [OneOf (⭐3.4k)](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
+
+### Compilers, Transpilers and Languages
+
+*   [dotnet-repl (⭐721)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+
+### ORM
+
+*   [DapperQueryBuilder (⭐512)](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
+
+### Query Builders
+
+*   [InterpolatedSql (⭐108)](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
+
+### Source Generator
+
+*   [CodegenCS (⭐248)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
+
 ## [Sep 28, 2024](/content/2024/09/28/README.md)
 
 ### CMS

@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Small Language Models
+
+*   [\[2409.15790\] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

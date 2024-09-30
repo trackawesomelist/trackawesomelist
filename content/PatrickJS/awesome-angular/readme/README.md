@@ -339,6 +339,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 *   [angular-debugging-challenge (⭐1)](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
 *   [angular-api-challenge (⭐1)](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
+*   [angular-exercises (⭐1)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 
 ##### Online Training
 
@@ -544,6 +545,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [vscode-angulartools (⭐19)](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
 *   [ngx-schematics-utilities (⭐7)](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
 *   [angular-library-template (⭐0)](https://github.com/lazycuh/angular-library-template) - A template for creating Angular libraries.
+*   [detective (⭐53)](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
 
 #### Documentation tools
 
@@ -638,6 +640,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-three (⭐195)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐102k)](https://github.com/mrdoob/three.js).
 *   [limitless-angular (⭐10)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
 *   [ngx-sentry (⭐3)](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK (⭐7.9k)](https://github.com/getsentry/sentry-javascript).
+*   [ngx-fabric-wrapper (⭐21)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 
 #### Internationalization
 
@@ -976,6 +979,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [slate-angular (⭐177)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 *   [BlockNoteAngular (⭐2)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.3k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
 *   [ngx-jodit (⭐17)](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit (⭐1.7k)](https://github.com/xdan/jodit) WYSIWYG editor.
+*   [ngx-ace-wrapper (⭐47)](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
+*   [ngx-quill-wrapper (⭐13)](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 
 #### File Upload
 
@@ -989,6 +994,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [uppy](https://uppy.io/docs/angular/) - [Uppy (⭐29k)](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
 *   [ngx-custom-material-file-input (⭐7)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 *   [ngxf-uploader (⭐27)](https://github.com/ZouYouShun/ngxf-uploader) - File uploader for Angular 18+.
+*   [ngx-dropzone-wrapper (⭐174)](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
 
 #### Forms
 
@@ -1034,8 +1040,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ##### Validation
 
 *   [ngx-valdemort (⭐201)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
-*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
-    Angular 7+ Validator, a library handle validation messages easy and automatic.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - Angular 7+ Validator. Handle validation messages easily and automatically.
 *   [validointi (⭐24)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
 *   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
 *   [angular-reactive-validation (⭐32)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.

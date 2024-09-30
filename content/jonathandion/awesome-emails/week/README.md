@@ -2,9 +2,27 @@
 
 ✉️ An awesome list of resources to build better emails.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 2.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 2.4K · 🏷️ Front-End Development
 
 [ [Daily](/content/jonathandion/awesome-emails/README.md) / Weekly / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
+
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Frameworks / React
+
+*   [JSX-email](https://jsx.email/) - JSX Mail is an email framework that uses React to create email templates.
+
+### Services / Misc
+
+*   [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
+
+### Self-Hosted Services / Misc
+
+*   [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Install and Upgrade a Postfix+Dovecot or Stalwart mail server instance, hands free.
+
+### Inspirations / Misc
+
+*   [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -20,8 +38,8 @@
 
 ### Learning / Check Also
 
-*   [Web Configs (⭐5)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
-*   [My Neovim Config (⭐52)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+*   [Web Configs (⭐16)](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
+*   [My Neovim Config (⭐66)](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -92,13 +110,7 @@
 
 ### Resources / Misc
 
-*   [Email marketing regulations (⭐409)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
-
-## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
-
-### Frameworks / React
-
-*   [JSX-email](https://jsx-mail.org/) - JSX Mail is an email framework that uses React to create email templates.
+*   [Email marketing regulations (⭐445)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -130,7 +142,7 @@
 
 ### Tools / Misc
 
-*   [email-verifier (⭐908)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐1.2k)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
@@ -156,7 +168,7 @@
 
 ### Self-Hosted Services / Misc
 
-*   [SimpleLogin (⭐3.9k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐5k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
@@ -237,11 +249,7 @@
 ### Frameworks / Misc
 
 *   [Pine](https://docs.thememountain.com/pine/) - A 12 column grid, responsive email framework.
-*   [Maizzle](https://maizzle.com) - Rapidly prototype HTML emails with Tailwind CSS and advanced, email-specific post-processing.
-
-### Testing / Misc
-
-*   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
+*   [Maizzle](https://maizzle.com) - Quickly build HTML emails with Tailwind CSS.
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 
@@ -253,7 +261,7 @@
 
 ### Testing / Misc
 
-*   [MailHog (⭐12k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
+*   [MailHog (⭐14k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go).
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby).
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
@@ -301,7 +309,7 @@
 
 ### Templates / Misc
 
-*   [Postmark Transactional Email Templates (⭐2.8k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐3.1k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 
@@ -349,7 +357,7 @@
 
 ### Learning / Check Also
 
-*   [Awesome JS Books (⭐58)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
+*   [Awesome JS Books (⭐63)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 
 ## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
 
@@ -367,7 +375,7 @@
 ### Services / Misc
 
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal (⭐13k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ### Copy / Misc
 
@@ -412,7 +420,7 @@
 
 ### Frameworks / Misc
 
-*   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+*   [Foundation for Emails (⭐7.8k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 
 ## [Feb 22 - Feb 28, 2016](/content/2016/8/README.md)
 
@@ -465,7 +473,7 @@
 
 ### Templates / Misc
 
-*   [Grunt Email Boilerplate (⭐287)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐285)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
 
 ### Articles / Misc
@@ -490,7 +498,7 @@
 
 ### Templates / Misc
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐640)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources / Misc
 
@@ -504,12 +512,12 @@
 
 ### Templates / Misc
 
-*   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+*   [Mailchimp Email Blueprints (⭐7k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
-*   [Cerberus (⭐4.8k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Responsive Transactional HTML Email Templates (⭐6.9k)](https://github.com/mailgun/transactional-email-templates) - Each template is responsive and each has been tested in all the popular email clients.
+*   [Cerberus (⭐5k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐687)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐691)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
 *   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
@@ -519,7 +527,7 @@
 
 ### Articles / Misc
 
-*   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+*   [Darylldoyle Gulp workflow (⭐167)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
 ### Resources / Misc
 

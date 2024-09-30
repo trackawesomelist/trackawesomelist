@@ -6,6 +6,29 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Sep 30, 2024](/content/2024/09/30/README.md)
+
+### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-exercises (⭐1)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [detective (⭐53)](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-fabric-wrapper (⭐21)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
+
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-ace-wrapper (⭐47)](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
+*   [ngx-quill-wrapper (⭐13)](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
+
+### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-dropzone-wrapper (⭐174)](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
+
 ## [Sep 29, 2024](/content/2024/09/29/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1579,8 +1602,7 @@
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-valdemort (⭐201)](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
-*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - About
-    Angular 7+ Validator, a library handle validation messages easy and automatic.
+*   [ngx-validator (⭐43)](https://github.com/why520crazy/ngx-validator) - Angular 7+ Validator. Handle validation messages easily and automatically.
 *   [validointi (⭐24)](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
 *   [ngx-reactive-forms-utils (⭐6)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
 *   [angular-reactive-validation (⭐32)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.

@@ -6,6 +6,25 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Applications / Utilities
+
+*   [sorairolake/qrtool (⭐128)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+
+### Libraries / Cryptography
+
+*   [sorairolake/abcrypt (⭐12)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
+
+### Libraries / Date and time
+
+*   [sorairolake/nt-time (⭐5)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+
+### Libraries / System
+
+*   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Applications / Database
@@ -130,19 +149,6 @@ A curated list of Rust code and resources.
 *   Telegram
     *   [tgt (⭐282)](https://github.com/FedericoBruzzone/tgt) - A crossplatform TUI for Telegram [![ci-linux](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-linux.yml) [![ci-macos](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-macos.yml) [![ci-windows](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tgt/actions/workflows/ci-windows.yml)
 
-### Applications / Utilities
-
-*   [sorairolake/qrtool](https://gitlab.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://gitlab.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-
-### Libraries / Cryptography
-
-*   [sorairolake/abcrypt](https://gitlab.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://gitlab.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
-*   [sorairolake/scryptenc-rs](https://gitlab.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://gitlab.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
-
-### Libraries / Date and time
-
-*   [sorairolake/nt-time](https://gitlab.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://gitlab.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/nt-time/actions?query=workflow%3ACI)
-
 ### Libraries / Image processing
 
 *   [Enet4/dicom-rs (⭐416)](https://github.com/Enet4/dicom-rs) - A pure Rust implementation of the DICOM standard, allowing users to work with DICOM objects and interact with DICOM applications, while aiming to be fast, safe, and intuitive to use.
@@ -151,10 +157,6 @@ A curated list of Rust code and resources.
 
 *   Telegram
     *   [tdilb-rs (⭐37)](https://github.com/FedericoBruzzone/tdlib-rs) \[[tdilb-rs](https://crates.io/crates/tdlib-rs)] - Crossplatform Rust wrapper around the Telegram Database Library (TDLib) [![CI Linux](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-linux.yml) [![CI macOS](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-macos.yml) [![CI Windows](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml/badge.svg)](https://github.com/FedericoBruzzone/tdlib-rs/actions/workflows/ci-windows.yml)
-
-### Libraries / System
-
-*   [sorairolake/sysexits-rs](https://gitlab.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://gitlab.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://gitlab.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
 ### Resources / Web programming
 
