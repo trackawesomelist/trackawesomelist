@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Sep 30, 2024](/content/2024/09/30/README.md)
+
+### Utilities
+
+*   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
+
 ## [Sep 27, 2024](/content/2024/09/27/README.md)
 
 ### Science and Data Analysis

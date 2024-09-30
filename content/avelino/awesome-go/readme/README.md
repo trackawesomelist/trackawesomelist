@@ -2839,6 +2839,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [immortal (⭐800)](https://github.com/immortal/immortal) - \*nix cross-platform (OS agnostic) supervisor.
 *   [intrinsic (⭐47)](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
 *   [jsend (⭐22)](https://github.com/clevergo/jsend) - JSend's implementation written in Go.
+*   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 *   [jump (⭐1.8k)](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
 *   [just (⭐31)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 *   [koazee (⭐527)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.

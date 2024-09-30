@@ -236,11 +236,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Useful Keycloak EventListenerProvider implementations and utilities (⭐173)](https://github.com/p2-inc/keycloak-events)
 *   [Keycloak: Home IdP Discovery extension (⭐253)](https://github.com/sventorben/keycloak-home-idp-discovery)
 *   [Keycloak Metrics SPI (⭐547)](https://github.com/aerogear/keycloak-metrics-spi)
-*   [Organizations for Keycloak by p2-inc (⭐402)](https://github.com/p2-inc/keycloak-orgs)
+*   [Organizations for Keycloak by Phase Two (⭐402)](https://github.com/p2-inc/keycloak-orgs)
 *   [Flexible IdP mapper for OIDC and SAML providers (⭐14)](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
 *   [2FA with Code sent via Email (⭐140)](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
-*   [Admin Portal for User and Organization management by p2-inc (⭐19)](https://github.com/p2-inc/phasetwo-admin-portal)
-*   [MagicLink Authenticator by p2-inc (⭐223)](https://github.com/p2-inc/keycloak-magic-link)
+*   [Admin Portal for User and Organization management by Phase Two (⭐19)](https://github.com/p2-inc/phasetwo-admin-portal)
+*   [MagicLink Authenticator by Phase Two (⭐223)](https://github.com/p2-inc/keycloak-magic-link)
 *   [Keycloak Metrics based on Micrometer (⭐28)](https://github.com/kokuwaio/keycloak-event-metrics)
 *   [softwarefactory-project/keycloak-filter-provider-users (⭐8)](https://github.com/softwarefactory-project/keycloak-filter-provider-users)
 *   [rciam/keycloak-group-management (⭐11)](https://github.com/rciam/keycloak-group-management)
@@ -269,7 +269,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐83)](https://github.com/InseeFr/Keycloak-FranceConnect)
 *   [Ambassador Keycloak Support](https://www.getambassador.io/reference/idp-support/keycloak/)
 *   [Keycloak Python Client (⭐39)](https://github.com/keycloak-client/keycloak-client)
-*   [Keycloak Terraform Provider (⭐607)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐622)](https://github.com/mrparkers/terraform-provider-keycloak)
 *   [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 *   [React/NextJS Keycloak Bindings (⭐558)](https://github.com/panz3r/react-keycloak)
 *   [NextJS + tailwind + keycloak integration (⭐8)](https://github.com/santiblanko/keycloak-nextjs-auth)
@@ -302,9 +302,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [keycloakify: Create Keycloak themes using React (⭐1.5k)](https://github.com/InseeFrLab/keycloakify)
 *   [Keywind: Component-based theme built with Tailwind CSS (⭐767)](https://github.com/lukin/keywind)
 *   [TailwindUI theme (⭐33)](https://github.com/santiblanko/tailwind-keycloak-theme)
-*   [Keycloak login theme template (⭐38)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Extension for runtime loading of CSS themes (⭐29)](https://github.com/p2-inc/keycloak-themes)
-*   [3 CSS-only Keycloak theme examples (⭐29)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*   [Phase Two: Keycloak login theme template (⭐38)](https://github.com/p2-inc/keycloak-theme-template)
+*   [Phase Two: Extension for runtime loading of CSS themes (⭐29)](https://github.com/p2-inc/keycloak-themes)
+*   [Phase Two: 3 CSS-only Keycloak theme examples (⭐29)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ## Docker
 
@@ -392,7 +392,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
 *   [Keycloak as a Service](https://www.cloud-iam.com)
 *   [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
-*   Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
+*   Phase Two (<https://phasetwo.io/>) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 *   [Skycloak](https://skycloak.io/)
 
 ## Miscellaneous

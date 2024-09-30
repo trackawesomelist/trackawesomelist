@@ -6,6 +6,24 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Sep 30, 2024](/content/2024/09/30/README.md)
+
+### Community Extensions
+
+*   [Organizations for Keycloak by Phase Two (⭐402)](https://github.com/p2-inc/keycloak-orgs)
+*   [Admin Portal for User and Organization management by Phase Two (⭐19)](https://github.com/p2-inc/phasetwo-admin-portal)
+*   [MagicLink Authenticator by Phase Two (⭐223)](https://github.com/p2-inc/keycloak-magic-link)
+
+### Themes
+
+*   [Phase Two: Keycloak login theme template (⭐38)](https://github.com/p2-inc/keycloak-theme-template)
+*   [Phase Two: Extension for runtime loading of CSS themes (⭐29)](https://github.com/p2-inc/keycloak-themes)
+*   [Phase Two: 3 CSS-only Keycloak theme examples (⭐29)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+
+### Commercial Offerings
+
+*   Phase Two (<https://phasetwo.io/>) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
+
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
 ### Community, SIGs, Discussion Forums and Mailing Lists
@@ -77,7 +95,6 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Community Extensions
 
-*   [Admin Portal for User and Organization management by p2-inc (⭐19)](https://github.com/p2-inc/phasetwo-admin-portal)
 *   [Email Notifications when login from a new IP and Login History (⭐5)](https://github.com/eliskachylikova/keycloak-extensions)
 *   [Keycloak Authenticator for Duo's Universal Prompt (⭐50)](https://github.com/instipod/DuoUniversalKeycloakAuthenticator)
 *   [Keycloak extension for creating multi-tenant IAM for B2B SaaS applications (⭐116)](https://github.com/anarsultanov/keycloak-multi-tenancy)
@@ -86,12 +103,6 @@ A curated list of resources for learning about http://www.keycloak.org
 
 *   [Keycloak Provider for Laravel's Socialite Plugin](https://socialiteproviders.com/Keycloak/)
 *   [mantelo (Python Admin Client) (⭐17)](https://github.com/derlin/mantelo)
-
-### Themes
-
-*   [Keycloak login theme template (⭐38)](https://github.com/p2-inc/keycloak-theme-template)
-*   [Extension for runtime loading of CSS themes (⭐29)](https://github.com/p2-inc/keycloak-themes)
-*   [3 CSS-only Keycloak theme examples (⭐29)](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
 
 ### Docker
 
@@ -109,7 +120,6 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Commercial Offerings
 
 *   [Red Hat build of Keycloak](https://access.redhat.com/products/red-hat-build-of-keycloak)
-*   Phase Two [Keycloak hosting](https://phasetwo.io/) and on-prem [Keycloak support](https://phasetwo.io/product/onprem)
 *   [Skycloak](https://skycloak.io/)
 
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
@@ -195,13 +205,6 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Community Extensions
 
 *   [Keycloak Metrics based on Micrometer (⭐28)](https://github.com/kokuwaio/keycloak-event-metrics)
-
-## [Mar 02, 2023](/content/2023/03/02/README.md)
-
-### Community Extensions
-
-*   [Organizations for Keycloak by p2-inc (⭐402)](https://github.com/p2-inc/keycloak-orgs)
-*   [MagicLink Authenticator by p2-inc (⭐223)](https://github.com/p2-inc/keycloak-magic-link)
 
 ## [Feb 14, 2023](/content/2023/02/14/README.md)
 
@@ -763,7 +766,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Integrations
 
-*   [Keycloak Terraform Provider (⭐607)](https://github.com/mrparkers/terraform-provider-keycloak)
+*   [Keycloak Terraform Provider (⭐622)](https://github.com/mrparkers/terraform-provider-keycloak)
 
 ## [Jun 05, 2019](/content/2019/06/05/README.md)
 
