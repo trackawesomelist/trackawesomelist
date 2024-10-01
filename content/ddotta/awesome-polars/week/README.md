@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Resources / Tutorials & workshops
@@ -45,13 +51,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Libraries/Packages/Scripts / R
 
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
-*   [neo-r-polars (⭐17)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+*   [neo-r-polars (⭐19)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-distance (⭐41)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-distance (⭐44)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
 *   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Libraries/Packages/Scripts / Python
@@ -624,12 +630,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ### Libraries/Packages/Scripts / Python
 
-*   [polars for Python (⭐29k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+*   [polars for Python (⭐30k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 *   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
 
 ### Libraries/Packages/Scripts / Rust
 
-*   [polars for Rust (⭐29k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+*   [polars for Rust (⭐30k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 *   [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
 
 ### Libraries/Packages/Scripts / R

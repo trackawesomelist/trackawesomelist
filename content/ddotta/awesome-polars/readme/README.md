@@ -91,12 +91,13 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [life\_polars\_plugin (⭐3)](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
 *   [polars-url (⭐4)](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
 *   [polars-ml (⭐5)](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
-*   [polars-distance (⭐41)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-distance (⭐44)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
 *   [polars-reverse-geocode (⭐6)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
 
 ### Python
 
-*   [polars for Python (⭐29k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+*   [polars for Python (⭐30k)](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 *   [PDS(polars-ds) (⭐333)](https://github.com/abstractqqq/polars_ds_extension) - A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.[@abstractqqq](https://github.com/abstractqqq).
 *   [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
 *   [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
@@ -118,7 +119,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 ### Rust
 
-*   [polars for Rust (⭐29k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+*   [polars for Rust (⭐30k)](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 *   [Polars CLI (⭐149)](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend.
 *   [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
 
@@ -128,7 +129,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [tidypolars for R (⭐169)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 *   [polarssql (⭐24)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
-*   [neo-r-polars (⭐17)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+*   [neo-r-polars (⭐19)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ### Node.js
 
