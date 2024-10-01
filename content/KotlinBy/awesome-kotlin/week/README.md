@@ -6,15 +6,17 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ [Daily](/content/KotlinBy/awesome-kotlin/README.md) / Weekly / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Libraries/Frameworks / Compiler Plugins
 
 *   [Mr-Mappie/mappie (⭐18)](https://github.com/Mr-Mappie/mappie) - Kotlin compiler plugin generating type-safe and performant object mapping code.
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐55)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
 
 ### Libraries/Frameworks / Graphics
 
@@ -1785,10 +1787,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Code Generators
 
 *   [jhipster/jhipster-kotlin (⭐449)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
-
-### Libraries/Frameworks / Desktop
-
-*   [edvin/tornadofx (⭐3.7k)](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin/
 
 ### Libraries/Frameworks / Syntax Highlighters
 

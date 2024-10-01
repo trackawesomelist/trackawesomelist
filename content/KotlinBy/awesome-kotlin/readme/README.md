@@ -145,63 +145,58 @@ Here is the awesome badge for your project:
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
 *   [element-hq/element-x-android (⭐997)](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
-*   [LawnchairLauncher/lawnicons (⭐1.3k)](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
 *   [YenalyLiew/Han1meViewer (⭐1.5k)](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
 *   [Nain57/Smart-AutoClicker (⭐1.7k)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
+*   [ReVanced/revanced-patches (⭐2.3k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [VREMSoftwareDevelopment/WiFiAnalyzer (⭐3.4k)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
-*   [T8RIN/ImageToolbox (⭐3.3k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
+*   [T8RIN/ImageToolbox (⭐3.6k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 *   [KotatsuApp/Kotatsu (⭐3.8k)](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 *   [simondankelmann/Bluetooth-LE-Spam (⭐3.8k)](https://github.com/simondankelmann/Bluetooth-LE-Spam)
 *   [z-huang/InnerTune (⭐4.1k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 *   [bmax121/APatch (⭐4.2k)](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+*   [LibChecker/LibChecker (⭐4.3k)](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 *   [florisboard/florisboard (⭐5.9k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-*   [JetBrains/Exposed (⭐8.3k)](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 *   [ankidroid/Anki-Android (⭐8.4k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 *   [ethereum-lists/chains (⭐8.7k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [firebase/quickstart-android (⭐8.8k)](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 *   [thunderbird/thunderbird-android (⭐10k)](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 *   [android/nowinandroid (⭐17k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 *   [pppscn/SmsForwarder (⭐17k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 *   [signalapp/Signal-Android (⭐25k)](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-*   [shadowsocks/shadowsocks-android (⭐35k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 *   [JetBrains/kotlin (⭐49k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [android/snippets (⭐647)](https://github.com/android/snippets) - Main repository for snippets surfaced on developer.android.com.
+*   [DD3Boh/OuterTune (⭐192)](https://github.com/DD3Boh/OuterTune) - A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune
+*   [ReVanced/revanced-cli (⭐1k)](https://github.com/ReVanced/revanced-cli) - 💻 Command line application to use ReVanced
+*   [keymapperorg/KeyMapper (⭐1k)](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
 *   [samolego/Canta (⭐1.1k)](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
-*   [FossifyOrg/Gallery (⭐1.5k)](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
+*   [FossifyOrg/Gallery (⭐1.6k)](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 *   [d4rken-org/sdmaid-se (⭐2.6k)](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-*   [element-hq/element-android (⭐3.3k)](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
+*   [jellyfin/jellyfin-androidtv (⭐2.7k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
+*   [JetBrains/intellij-platform-plugin-template (⭐3.1k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+*   [streetcomplete/StreetComplete (⭐3.8k)](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 *   [square/moshi (⭐9.7k)](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
-*   [tiann/KernelSU (⭐9.8k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-*   [JunkFood02/Seal (⭐11k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-*   [gkd-kit/gkd (⭐20k)](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 *   [2dust/v2rayNG (⭐35k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [android/architecture-samples (⭐44k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [mapbox/mapbox-maps-android (⭐465)](https://github.com/mapbox/mapbox-maps-android) - Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.
-*   [Razeeman/Android-SimpleTimeTracker (⭐625)](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
-*   [nightscout/AndroidAPS (⭐697)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-*   [android/platform-samples (⭐1.1k)](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
+*   [DerGoogler/MMRL (⭐426)](https://github.com/DerGoogler/MMRL) - MMRL is an Android app that helps manage your own modules repository.
 *   [stripe/stripe-android (⭐1.3k)](https://github.com/stripe/stripe-android) - Stripe Android SDK
-*   [tanujnotes/Olauncher (⭐1.9k)](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
-*   [adrielcafe/voyager (⭐2.5k)](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
-*   [videolan/vlc-android (⭐2.6k)](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
-*   [wordpress-mobile/WordPress-Android (⭐3k)](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
-*   [JetBrains/intellij-platform-plugin-template (⭐3.1k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-*   [oblador/react-native-keychain (⭐3.2k)](https://github.com/oblador/react-native-keychain) - :key: Keychain Access for React Native
-*   [Kotlin/kotlinx.serialization (⭐5.3k)](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-*   [bitwarden/android (⭐6.3k)](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-*   [InsertKoinIO/koin (⭐8.9k)](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+*   [rebelonion/Dantotsu (⭐1.6k)](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
+*   [maxrave-dev/SimpMusic (⭐1.8k)](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+*   [tanujnotes/Olauncher (⭐2k)](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
+*   [rnmapbox/maps (⭐2.2k)](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
+*   [deniscerri/ytdlnis (⭐3.7k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+*   [Kunzisoft/KeePassDX (⭐4.5k)](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+*   [recloudstream/cloudstream (⭐6.6k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+*   [vfsfitvnm/ViMusic (⭐8.6k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
+*   [yujincheng08/BiliRoaming (⭐9.4k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+*   [Shabinder/SpotiFlyer (⭐10k)](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 *   [RikkaApps/Shizuku (⭐10k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-*   [Kotlin/kotlinx.coroutines (⭐13k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [lottie-react-native/lottie-react-native (⭐17k)](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-*   [alibaba/p3c (⭐30k)](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+*   [JunkFood02/Seal (⭐11k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -456,8 +451,8 @@ Here is the awesome badge for your project:
 *   [fluidsonic/fluid-mongo (⭐33)](https://github.com/fluidsonic/fluid-mongo) - Coroutine support for MongoDB built on top of the official Reactive Streams Java Driver
 *   [bloomberg/selekt](https://bloomberg.github.io/selekt) - Android SQL database library wrapping the community edition of SQLCipher, an SQLite extension that provides 256-bit AES encryption. Selekt realises the maximum concurrency offered by SQLite3.
 *   [coupang/spring-data-requery (⭐46)](https://github.com/coupang/spring-data-requery) - Spring Data for Requery (lightweight ORM)
-*   [smyrgeorge/sqlx4k (⭐95)](https://github.com/smyrgeorge/sqlx4k) - A small non-blocking database driver written in Kotlin for the Native platform.
 *   [darkredz/Zeko-SQL-Builder (⭐102)](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
+*   [smyrgeorge/sqlx4k (⭐95)](https://github.com/smyrgeorge/sqlx4k) - A small non-blocking database driver written in Kotlin for the Native platform.
 *   [andrewoma/kwery (⭐203)](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 *   [seratch/kotliquery (⭐207)](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
 *   [cheptsov/kotlin-nosql (⭐212)](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin.
@@ -517,8 +512,6 @@ Here is the awesome badge for your project:
 *   [jhipster/jhipster-kotlin (⭐449)](https://github.com/jhipster/jhipster-kotlin) - A scaffold generator to generate web apps or APIs using springboot and angularJS or React
 
 ### <a name="libraries-frameworks-desktop"></a>Desktop <sup>[Back ⇈](#libraries-frameworks-desktop-subcategory)</sup>
-
-*   [edvin/tornadofx (⭐3.7k)](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin/
 
 ### <a name="libraries-frameworks-http-clients"></a>Http Clients <sup>[Back ⇈](#libraries-frameworks-http-clients-subcategory)</sup>
 

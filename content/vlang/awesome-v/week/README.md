@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Web
+
+*   [Tiniest Veb Server (⭐9)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
+
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
 ### Database clients
@@ -38,10 +44,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [lsv (⭐20)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
-
-### Web
-
-*   [Tiniest vWeb Server (⭐9)](https://github.com/davlgd/tws) - A < 1MB static hosting web server written in V, based on x.vweb. 🍃
 
 ### Database clients
 
@@ -682,5 +684,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [vig (⭐52)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐59k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐52)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐60k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐45)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.

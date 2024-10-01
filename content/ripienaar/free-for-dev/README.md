@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 01, 2024](/content/2024/10/01/README.md)
+
+### APIs, Data, and ML
+
+*   [JSONing](https://jsoning.com/api/) — Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
+
 ## [Sep 29, 2024](/content/2024/09/29/README.md)
 
 ### Generative AI
