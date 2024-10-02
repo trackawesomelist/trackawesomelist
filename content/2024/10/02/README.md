@@ -1,12 +1,55 @@
 # Awesome List Updates on Oct 02, 2024
 
-8 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Topics](/content/selvaklnc/topics/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [OpenAI DevDay 2024](https://openai.com/devday/): Real-time API (speech-to-speech), Vision Fine-Tuning, Prompt Caching, and Distillation (fine-tuning a small language model using a large language model). [ref](https://community.openai.com/t/devday-2024-san-francisco-live-ish-news/963456) \[1 Oct 2024]
+
+## [2. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+### Papers / 2023
+
+*   [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
+
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+### Allocators and memory
+
+*   [dbandstra/zig-hunk (⭐0)](https://github.com/dbandstra/zig-hunk) - Basic "Hunk" memory allocator, based on the hunk system from id Software's Quake engine.
+
+### Audio
+
+*   [dbandstra/zig-wav (⭐0)](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
+
+### Games
+
+*   [dbandstra/oxid (⭐3)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+
+### Misc libraries
+
+*   [dbandstra/zig-pcx (⭐0)](https://github.com/dbandstra/zig-pcx) - PCX image format decoder and encoder.
+
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Amadou Sall](https://www.amadousall.com/)
+
+## [5. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### JavaScript
+
+*   [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
+*   [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
+
+## [6. Topics](/content/selvaklnc/topics/README.md)
 
 ### List of blogs and websites
 
@@ -16,19 +59,19 @@
 
 *   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [MPH (⭐164)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 
 *   [goxygen (⭐3.5k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -77,7 +120,7 @@
 
 *   [Standard Webhooks (⭐1.3k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -165,7 +208,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
@@ -179,7 +222,7 @@
 
 *   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
-## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### Agency Tools
 
@@ -218,12 +261,6 @@
 *   [OJP (⭐22)](https://github.com/VDVde/OJP) - Open Journey Planner.
 *   [OSDM (⭐56)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [TIDES (⭐25)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
-
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Computer Organization and Architecture
-
-*   [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
 
 ---
 

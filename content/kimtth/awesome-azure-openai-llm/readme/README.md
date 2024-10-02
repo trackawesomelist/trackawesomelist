@@ -412,6 +412,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 1.  Copilot Products
     *   `Microsoft Copilot in Windows` vs `Microsoft Copilot` (= Copilot in Windows + Commercial Data Protection) vs `Microsoft 365 Copilot` (= Microsoft Copilot + M365 Integration) \[Nov 2023]
     *   [Copilot Scenario Library](https://adoption.microsoft.com/en-us/copilot-scenario-library/)
+    *   [An AI companion for everyone](https://blogs.microsoft.com/blog/2024/10/01/an-ai-companion-for-everyone/): Copilot’s next phase (Copilot Voice, Copilot Daily, Copilot Vision, CoT, and others.) \[1 Oct 2024]
     1.  Azure
         *   [Microsoft Copilot for Azure](https://learn.microsoft.com/en-us/azure/copilot) / [blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/simplify-it-management-with-microsoft-copilot-for-azure-save/ba-p/3981106) \[Nov 2023]
         *   [Security Copilot](https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot) / [blog](https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/) \[March 2023]
@@ -451,84 +452,6 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     6.  [GraphRAG (by Microsoft)](https://arxiv.org/abs/2404.16130): RAG with a graph-based approach to efficiently answer both specific and broad questions over large text corpora1. [ref](https://microsoft.github.io/graphrag) [git (⭐17k)](https://github.com/microsoft/graphrag) \[24 Apr 2024]
     7.  [AutoGen Studio](https://arxiv.org/abs/2408.15247): A No-Code Developer Tool for Building and Debugging Multi-Agent Systems \[9 Aug 2024]
 
-<!-- #### **ChatGPT + Enterprise data Demo**
-
-- ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) Demo [Sep 2023]
-- A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI [git](https://github.com/Azure-Samples/azure-search-openai-demo) [8 Feb 2023]
-- ChatGPT + Enterprise data RAG Screenshot
-
-  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/capture_azure_demo.png" alt="sk" width="300"/>
-
-  <details>
-
-  <summary>Expand: Deployment Steps</summary>
-
-  The files in `code\azure-search-openai-demo` directory, `extra_steps`, have been created for managing extra configurations and steps for launching the demo repository.
-
-  1. (optional) Check Azure module installation in Powershell by running `ms_internal_az_init.ps1` script
-  2. (optional) Set your Azure subscription Id to default
-
-     > Start the following commands in `./azure-search-openai-demo` directory
-
-  3. (deploy azure resources) Simply Run `azd up`
-
-     The azd stores relevant values in the .env file which is stored at `${project_folder}\.azure\az-search-openai-tg\.env`.
-
-  4. Move to `app` by `cd app` command
-  5. (sample data loading) Move to `scripts` then Change into Powershell by `Powershell` command, Run `prepdocs.ps1`
-
-     - console output (excerpt)
-
-       ```commandline
-               Uploading blob for page 29 -> role_library-29.pdf
-               Uploading blob for page 30 -> role_library-30.pdf
-       Indexing sections from 'role_library.pdf' into search index 'gptkbindex'
-       Splitting './data\role_library.pdf' into sections
-               Indexed 60 sections, 60 succeeded
-       ```
-
-  6. Move to `app` by `cd ..` and `cd app` command
-  7. (locally running) Run `start.cmd`
-
-  - console output (excerpt)
-
-    ```commandline
-    Building frontend
-
-
-    > frontend@0.0.0 build \azure-search-openai-demo\app\frontend
-    > tsc && vite build
-
-    vite v4.1.1 building for production...
-    ✓ 1250 modules transformed.
-    ../backend/static/index.html                    0.49 kB
-    ../backend/static/assets/github-fab00c2d.svg    0.96 kB
-    ../backend/static/assets/index-184dcdbd.css     7.33 kB │ gzip:   2.17 kB
-    ../backend/static/assets/index-41d57639.js    625.76 kB │ gzip: 204.86 kB │ map: 5,057.29 kB
-
-    Starting backend
-
-    * Serving Flask app 'app'
-    * Debug mode: off
-    WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
-    * Running on http://127.0.0.1:5000
-    Press CTRL+C to quit
-    ...
-    ```
-
-  Running from second times
-
-  1. Move to `app` by `cd ..` and `cd app` command
-  2. (locally running) Run `start.cmd`
-
-  (optional)
-
-  - fix_from_origin : The modified files, setup related
-  - ms_internal_az_init.ps1 : Powershell script for Azure module installation
-  - ms_internal_troubleshootingt.ps1 : Set Specific Subscription Id as default
-
-  </details> -->
-
 ### **Azure Reference Architectures**
 
 |                                                                                                                                                                           |                                                                                                                                            |
@@ -541,20 +464,6 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 |                  <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/demo-videoindexer.png" alt="demo-videoindexer" width="200"/>                 |            <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/wip-azure.png" alt="miyagi" width="200"/>           |
 |             [ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) (⭐5.9k)](https://github.com/Azure-Samples/azure-search-openai-demo)🏆 \[Feb 2023]             | [Chat with your data - Solution accelerator (⭐789)](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) \[Jun 2023] |
 |                    <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/chatscreen2.png" alt="demo-videoindexer" height="130"/>                    |          <img src="https://github.com/kimtth/awesome-azure-openai-llm/raw/main/files/cwyd-solution-architecture.png" width="200"/>         |
-
-*   Referece Use Case and Architecture
-    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
-    *   [Azure Command Companion](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/azure-command-companion/ba-p/4005044): Harnessing the Power of OpenAI GPT-3.5 Turbo for Azure CLI Command Generation \[10 Dec 2023 ]
-    *   [Chat with your Azure DevOps data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/chat-with-your-azure-devops-data/ba-p/4017784) \[10 Jan 2024]
-    *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
-    *   [Build language model pipelines with memory](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/guide/language-model-pipelines)
-    *   [NL to SQL Architecture Alternative](https://techcommunity.microsoft.com/t5/azure-architecture-blog/nl-to-sql-architecture-alternatives/ba-p/4136387) \[14 May 2024] / [Natural Language to SQL Console (⭐1.5k)](https://github.com/microsoft/kernel-memory/tree/NL2SQL/examples/200-dotnet-nl2sql)
-    *   [GPT-RAG (⭐839)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
-    *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
-    *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
-    *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
-    *   [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137) \[20 Aug 2024]
-    *   [AI Agent-Driven Auto Insurance Claims RAG Pipeline](https://techcommunity.microsoft.com/t5/azure-architecture-blog/exploring-ai-agent-driven-auto-insurance-claims-rag-pipeline/ba-p/4233779) \[09 Sep 2024]
 
 *   Azure OpenAI Accelerator / Application
     *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐326)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
@@ -584,8 +493,23 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Prompt Buddy (⭐161)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
     *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
     *   [ARGUS (⭐35)](https://github.com/Azure-Samples/ARGUS): Hybrid approach with Azure Document Intelligence combined and GPT4-Vision to get better results without any pre-training. \[Jun 2024]
+    *   [azure-llm-fine-tuning (⭐29)](https://github.com/Azure/azure-llm-fine-tuning): SLM/LLM Fine-tuning on Azure \[May 2024]
+    *   [OpenAI Chat Application with Microsoft Entra Authentication (⭐23)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin): Microsoft Entra ID for user authentication  \[May 2024]
+    *   [VoiceRAG (⭐31)](https://github.com/Azure-Samples/aisearch-openai-rag-audio): Voice Using Azure AI Search and the GPT-4o Realtime API for Audio [ref](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/voicerag-an-app-pattern-for-rag-voice-using-azure-ai-search-and/ba-p/4259116) \[Sep 2024]
 
-*   Guideline
+*   Referece: Use Case and Architecture
+    *   [AI Feed](https://techcommunity.microsoft.com/t5/artificial-intelligence-and/ct-p/AI) | [AI Platform Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/bg-p/AIPlatformBlog)
+    *   [Azure Command Companion](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/azure-command-companion/ba-p/4005044): Harnessing the Power of OpenAI GPT-3.5 Turbo for Azure CLI Command Generation \[10 Dec 2023 ]
+    *   [Chat with your Azure DevOps data](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/chat-with-your-azure-devops-data/ba-p/4017784) \[10 Jan 2024]
+    *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
+    *   [Build language model pipelines with memory](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/guide/language-model-pipelines)
+    *   [NL to SQL Architecture Alternative](https://techcommunity.microsoft.com/t5/azure-architecture-blog/nl-to-sql-architecture-alternatives/ba-p/4136387) \[14 May 2024] / [Natural Language to SQL Console (⭐1.5k)](https://github.com/microsoft/kernel-memory/tree/NL2SQL/examples/200-dotnet-nl2sql)
+    *   [GPT-RAG (⭐839)](https://github.com/Azure/GPT-RAG): Retrieval-Augmented Generation pattern running in Azure \[Jun 2023]
+    *   [Responsible AI Transparency Report](https://www.microsoft.com/en-us/corporate-responsibility/responsible-ai-transparency-report)
+    *   [Safeguard and trustworthy generative AI applications](https://azure.microsoft.com/en-us/blog/announcing-new-tools-in-azure-ai-to-help-you-build-more-secure-and-trustworthy-generative-ai-applications/) \[28 Mar 2024]
+    *   [Microsoft AI / Responsible AI](https://aka.ms/RAIResources) 🏆
+    *   [Baseline Agentic AI Systems Architecture](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/baseline-agentic-ai-systems-architecture/ba-p/4207137) \[20 Aug 2024]
+    *   [AI Agent-Driven Auto Insurance Claims RAG Pipeline](https://techcommunity.microsoft.com/t5/azure-architecture-blog/exploring-ai-agent-driven-auto-insurance-claims-rag-pipeline/ba-p/4233779) \[09 Sep 2024]
     *   [Grounding LLMs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857): Retrieval-Augmented Generation (RAG) \[09 Jun 2023]
     *   [Revolutionize your Enterprise Data with ChatGPT](https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087) \[09 Mar 2023]
     *   [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/) \[07 Mar 2023]
@@ -600,6 +524,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Azure OpenAI and Call Center Modernization](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-and-call-center-modernization/ba-p/4107070) \[11 Apr2024]
     *   [Azure OpenAI Best Practices Insights from Customer Journeys](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-best-practices-insights-from-customer-journeys/ba-p/4166943): LLMLingua, Skeleton Of Thought \[12 Jun 2024]
     *   [Retrieval Augmented Fine Tuning](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/retrieval-augmented-fine-tuning-use-gpt-4o-to-fine-tune-gpt-4o/ba-p/4248861): RAFT: Combining the best parts of RAG and fine-tuning (SFT) \[25 Sep 2024]
+    *   [Using keyless authentication with Azure OpenAI](https://techcommunity.microsoft.com/t5/microsoft-developer-community/using-keyless-authentication-with-azure-openai/ba-p/4111521) \[12 Apr 2024]
 
 #### **Azure AI Search**
 
@@ -1498,6 +1423,7 @@ class AgentType(str, Enum):
 *   [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/): a version of GPT-4 fine-tuned to critique code generated by ChatGPT \[27 Jun 2024]
 *   [SearchGPT](https://openai.com/index/searchgpt-prototype/): AI search \[25 Jul 2024]
 *   [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/): a new feature designed to ensure model-generated outputs will exactly match JSON Schemas provided by developers. \[6 Aug 2024]
+*   [OpenAI DevDay 2024](https://openai.com/devday/): Real-time API (speech-to-speech), Vision Fine-Tuning, Prompt Caching, and Distillation (fine-tuning a small language model using a large language model). [ref](https://community.openai.com/t/devday-2024-san-francisco-live-ish-news/963456) \[1 Oct 2024]
 
 #### **GPT series release date**
 
@@ -2052,6 +1978,7 @@ class AgentType(str, Enum):
     *   [Mem0 (⭐22k)](https://github.com/mem0ai/mem0): A self-improving memory layer for personalized AI experiences. \[Jun 2023]
     *   [PDF2Audio (⭐716)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
     *   [Llama Stack (⭐2.6k)](https://github.com/meta-llama/llama-stack): building blocks for Large Language Model (LLM) development \[Jun 2024]
+    *   [o1-engineer (⭐1k)](https://github.com/Doriandarko/o1-engineer): a command-line tool designed to assist developers \[Sep 2024]
     *   RAG: [X-ref](#rag-solution-design--application)
 *   UI/UX
     *   [Gradio (⭐32k)](https://github.com/gradio-app/gradio): Build Machine Learning Web Apps - in Python \[Mar 2023]

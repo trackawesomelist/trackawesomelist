@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [Oct 02, 2024](/content/2024/10/02/README.md)
+
+### Papers / 2023
+
+*   [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
+
 ## [Sep 19, 2024](/content/2024/09/19/README.md)
 
 ### Related Events / 2024

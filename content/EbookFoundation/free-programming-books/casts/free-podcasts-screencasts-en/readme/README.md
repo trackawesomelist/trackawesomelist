@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 303K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 335K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md) / Overview ]
 
@@ -200,7 +200,9 @@
 *   [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
 *   [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
 *   [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
+*   [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
 *   [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+*   [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
 *   [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 #### Angular
@@ -238,7 +240,7 @@
 *   [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 *   [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
 *   [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
-*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources (⭐650)](https://github.com/cassiozen/ReactCasts)
+*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources (⭐649)](https://github.com/cassiozen/ReactCasts)
 *   [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 ### Kotlin

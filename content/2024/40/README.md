@@ -1,12 +1,43 @@
 # Awesome List Updates on Sep 30 - Oct 06, 2024
 
-20 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Topics](/content/selvaklnc/topics/week/README.md)
+## [1. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+
+### Papers / 2023
+
+*   [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
+
+## [2. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+
+### Allocators and memory
+
+*   [dbandstra/zig-hunk (⭐0)](https://github.com/dbandstra/zig-hunk) - Basic "Hunk" memory allocator, based on the hunk system from id Software's Quake engine.
+
+### Audio
+
+*   [dbandstra/zig-wav (⭐0)](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
+
+### Games
+
+*   [dbandstra/oxid (⭐3)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+
+### Misc libraries
+
+*   [dbandstra/zig-pcx (⭐0)](https://github.com/dbandstra/zig-pcx) - PCX image format decoder and encoder.
+
+## [3. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+### JavaScript
+
+*   [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
+*   [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
+
+## [4. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of blogs and websites
 
@@ -16,7 +47,7 @@
 
 *   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -65,13 +96,11 @@
 
 *   [Standard Webhooks (⭐1.3k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [6. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
-### Computer Organization and Architecture
+### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
-*   [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
-
-## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+*   [OpenAI DevDay 2024](https://openai.com/devday/): Real-time API (speech-to-speech), Vision Fine-Tuning, Prompt Caching, and Distillation (fine-tuning a small language model using a large language model). [ref](https://community.openai.com/t/devday-2024-san-francisco-live-ish-news/963456) \[1 Oct 2024]
 
 ### **LLM for Domain Specific** / **GPT series release date**
 
@@ -87,13 +116,13 @@
 
 *   [Umar Jamil github](https://github.com/hkproj): Model explanation / building a model from scratch [youtube](https://www.youtube.com/@umarjamilai)
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -185,7 +214,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -203,13 +232,13 @@
 
 *   [vite-plugin-remix-flat-routes (⭐1)](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
 
-## [8. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [Tiniest Veb Server (⭐9)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 
-## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Community
 
@@ -272,19 +301,19 @@
 
 *   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](https://www.mjskay.com/papers/chi_2016_uncertain_bus.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [JSONing](https://jsoning.com/api/) — Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.8k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -302,7 +331,7 @@
 
 *   Phase Two (<https://phasetwo.io/>) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -312,7 +341,7 @@
 
 *   [MPH (⭐164)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Project Layout
 
@@ -326,13 +355,13 @@
 
 *   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   🧬 [Quantity Queries (⭐0)](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Utilities
 
@@ -355,7 +384,7 @@
 
 *   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -377,7 +406,7 @@
 
 *   [CodegenCS (⭐248)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -395,7 +424,7 @@
 
 *   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
-## [19. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks / React
 
@@ -413,11 +442,15 @@
 
 *   [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
 
-## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
 *   [built with angular](https://builtwithangular.dev/) - Discover apps of all sizes, including Open Source and Indie developer projects.
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Amadou Sall](https://www.amadousall.com/)
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

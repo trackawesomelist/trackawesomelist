@@ -12,6 +12,10 @@
 
 *   [built with angular](https://builtwithangular.dev/) - Discover apps of all sizes, including Open Source and Indie developer projects.
 
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Amadou Sall](https://www.amadousall.com/)
+
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-exercises (⭐1)](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.

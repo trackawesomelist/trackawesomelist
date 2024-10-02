@@ -18,13 +18,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-##### Computer Organization and Architecture
-
-*   [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
-
-#### [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### Agency Tools
 
@@ -64,7 +58,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [OSDM (⭐56)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 *   [TIDES (⭐25)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 
-#### [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Critical Views about Generative AI
 
@@ -78,7 +72,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
-#### [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Extensions
 
@@ -166,7 +160,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -215,19 +209,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Standard Webhooks (⭐1.3k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Project Layout
 
 *   [goxygen (⭐3.5k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 
-#### [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Miscellaneous
 
 *   [MPH (⭐164)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 
-#### [8. Topics](/content/selvaklnc/topics/README.md)
+#### [7. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of blogs and websites
 
@@ -236,6 +230,49 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Others
 
 *   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
+
+#### [8. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+##### JavaScript
+
+*   [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
+*   [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
+
+#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Amadou Sall](https://www.amadousall.com/)
+
+#### [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+##### Allocators and memory
+
+*   [dbandstra/zig-hunk (⭐0)](https://github.com/dbandstra/zig-hunk) - Basic "Hunk" memory allocator, based on the hunk system from id Software's Quake engine.
+
+##### Audio
+
+*   [dbandstra/zig-wav (⭐0)](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
+
+##### Games
+
+*   [dbandstra/oxid (⭐3)](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+
+##### Misc libraries
+
+*   [dbandstra/zig-pcx (⭐0)](https://github.com/dbandstra/zig-pcx) - PCX image format decoder and encoder.
+
+#### [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+##### Papers / 2023
+
+*   [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
+
+#### [12. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **OpenAI's Roadmap and Products** / **OpenAI Products**
+
+*   [OpenAI DevDay 2024](https://openai.com/devday/): Real-time API (speech-to-speech), Vision Fine-Tuning, Prompt Caching, and Distillation (fine-tuning a small language model using a large language model). [ref](https://community.openai.com/t/devday-2024-san-francisco-live-ish-news/963456) \[1 Oct 2024]
 
 ### [Oct 01, 2024](/content/2024/10/01/README.md)
 
@@ -277,7 +314,59 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vite-plugin-remix-flat-routes (⭐1)](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
 
-#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Finance
+
+*   [dancixx/stochastic-rs (⭐12)](https://github.com/dancixx/stochastic-rs) \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/dancixx/stochastic-rs/actions/workflows/rust.yml/badge.svg)
+
+#### [6. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
+
+#### [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+##### Community
+
+*   OneBusAway
+    *   [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
+    *   [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
+
+##### Agency Tools
+
+*   [TransAM](\[http://camsys.software/products/transam]\(https://github.com/camsys/transam_core\)) - An open-source asset management platform for public transportation agencies.
+
+##### Web Apps (open source)
+
+*   [1-Click](\[http://camsys.software/products/1-click]\(https://github.com/camsys/oneclick\)) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking.
+
+##### Web Apps (closed source)
+
+*   [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
+
+##### GTFS Based Visualizations
+
+*   [Simple Transit Map](\[https://transit.chat/simple-transit-map]\(https://github.com/ioTransit/simple-transit-map\)) - An online example of how to host and update a webmap.
+
+##### Academic papers / Ruby
+
+*   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](https://www.mjskay.com/papers/chi_2016_uncertain_bus.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
+
+#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Android / Tools
+
+*   [jzbrooks/vgo (⭐39)](https://github.com/jzbrooks/vgo) - vgo is a tool for optimizing and converting between vector artwork representations.
+
+#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Performance
+
+*   [mm-go (⭐143)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
+
+#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -340,19 +429,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [rxjs-typewriter (⭐4)](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 
-#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Libraries / Finance
-
-*   [dancixx/stochastic-rs (⭐12)](https://github.com/dancixx/stochastic-rs) \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/dancixx/stochastic-rs/actions/workflows/rust.yml/badge.svg)
-
-#### [7. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
-
-#### [8. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **LLM for Domain Specific** / **GPT series release date**
 
@@ -367,46 +444,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### **Build an LLMs from scratch: picoGPT and lit-gpt** / **GPT series release date**
 
 *   [Umar Jamil github](https://github.com/hkproj): Model explanation / building a model from scratch [youtube](https://www.youtube.com/@umarjamilai)
-
-#### [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-##### Community
-
-*   OneBusAway
-    *   [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
-    *   [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
-
-##### Agency Tools
-
-*   [TransAM](\[http://camsys.software/products/transam]\(https://github.com/camsys/transam_core\)) - An open-source asset management platform for public transportation agencies.
-
-##### Web Apps (open source)
-
-*   [1-Click](\[http://camsys.software/products/1-click]\(https://github.com/camsys/oneclick\)) - A virtual “trip aggregator” that assembles information on a wide variety of available modes: public transit, private, rail, rideshare, carpool, volunteer, paratransit, and walking and biking.
-
-##### Web Apps (closed source)
-
-*   [DC MetroHero](https://dcmetrohero.net) - Realtime vehicle position and arrivals and departure information for the Washington, D.C. region's WMATA Metrorail and Metrobus systems. WebApp, Android, and iOS apps avaliable.
-
-##### GTFS Based Visualizations
-
-*   [Simple Transit Map](\[https://transit.chat/simple-transit-map]\(https://github.com/ioTransit/simple-transit-map\)) - An online example of how to host and update a webmap.
-
-##### Academic papers / Ruby
-
-*   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](https://www.mjskay.com/papers/chi_2016_uncertain_bus.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
-
-#### [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Android / Tools
-
-*   [jzbrooks/vgo (⭐39)](https://github.com/jzbrooks/vgo) - vgo is a tool for optimizing and converting between vector artwork representations.
-
-#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Performance
-
-*   [mm-go (⭐143)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
 
 ### [Sep 30, 2024](/content/2024/09/30/README.md)
 
@@ -476,7 +513,44 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   Phase Two (<https://phasetwo.io/>) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 
-#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Utilities
+
+*   [sorairolake/qrtool (⭐128)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
+
+##### Libraries / Cryptography
+
+*   [sorairolake/abcrypt (⭐12)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
+*   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
+
+##### Libraries / Date and time
+
+*   [sorairolake/nt-time (⭐5)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
+
+##### Libraries / System
+
+*   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
+
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Small Language Models
+
+*   [\[2409.15790\] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
+
+#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Utilities
+
+*   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
+
+#### [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Image Processing
+
+*   [QOI (⭐6.9k)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
+
+#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Community
 
@@ -503,43 +577,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-dropzone-wrapper (⭐174)](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
 
-#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Utilities
-
-*   [sorairolake/qrtool (⭐128)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-
-##### Libraries / Cryptography
-
-*   [sorairolake/abcrypt (⭐12)](https://github.com/sorairolake/abcrypt) \[[abcrypt](https://crates.io/crates/abcrypt)] - A simple, modern and secure file encryption library. [![CI](https://github.com/sorairolake/abcrypt/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/abcrypt/actions?query=workflow%3ACI)
-*   [sorairolake/scryptenc-rs (⭐1)](https://github.com/sorairolake/scryptenc-rs) \[[scryptenc](https://crates.io/crates/scryptenc)] - An implementation of the scrypt encrypted data format. [![CI](https://github.com/sorairolake/scryptenc-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/scryptenc-rs/actions?query=workflow%3ACI)
-
-##### Libraries / Date and time
-
-*   [sorairolake/nt-time (⭐5)](https://github.com/sorairolake/nt-time) \[[nt-time](https://crates.io/crates/nt-time)] - A Windows file time library. [![CI](https://github.com/sorairolake/nt-time/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/nt-time/actions?query=workflow%3ACI)
-
-##### Libraries / System
-
-*   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
-
-#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Small Language Models
-
-*   [\[2409.15790\] Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790)
-
-#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Utilities
-
-*   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
-
-#### [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Image Processing
-
-*   [QOI (⭐6.9k)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
-
 ---
 
 - Next: [Sep 29, 2024](&#x2F;content&#x2F;2024&#x2F;09&#x2F;29&#x2F;README.md)
@@ -563,8 +600,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 15. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;02 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 16. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 09&#x2F;29 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 17. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 09&#x2F;29 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-18. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 21K 📝 09&#x2F;23 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
-19. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;01 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+18. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;02 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+19. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 21K 📝 09&#x2F;23 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 20. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 41K 📝 09&#x2F;15 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 21. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 13K 📝 09&#x2F;26 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 09&#x2F;26 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -826,7 +863,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K, 📝 10&#x2F;01 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K, 📝 10&#x2F;02 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;09&#x2F;04 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -962,7 +999,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 314, 📝 10&#x2F;01 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 314, 📝 10&#x2F;02 ](https://github.com/kimtth/awesome-azure-openai-llm)) - "Awesome-LLM: a curated list of Azure OpenAI & Large Language Models" 🔎References to Azure OpenAI, 🦙Large Language Models, and related 🌌 services and 🎋libraries.
 - [Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md) - ([Source ⭐ 4, 📝 09&#x2F;29 ](https://github.com/xavidop/awesome-firebase-genkit)) - 🔥 List of Firebase Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
 ### Learn
@@ -1293,7 +1330,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K, 📝 23&#x2F;09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.9K, 📝 10&#x2F;01 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 129, 📝 23&#x2F;12&#x2F;27 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
-- [Awesome Zig](/content/catdevnull/awesome-zig/README.md) - ([Source ⭐ 349, 📝 08&#x2F;11 ](https://github.com/catdevnull/awesome-zig)) - A list of awesome projects related to Zig
+- [Awesome Zig](/content/catdevnull/awesome-zig/README.md) - ([Source ⭐ 368, 📝 10&#x2F;02 ](https://github.com/catdevnull/awesome-zig)) - A list of awesome projects related to Zig
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.1K, 📝 07&#x2F;07 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects
 - [Js Must Watch](/content/bolshchikov/js-must-watch/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;01&#x2F;20 ](https://github.com/bolshchikov/js-must-watch)) - Must-watch videos about javascript
 - [Jstips](/content/loverajoel/jstips/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/loverajoel/jstips)) - This is about useful JS tips!
@@ -1343,7 +1380,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 277, 📝 09&#x2F;15 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 20K, 📝 09&#x2F;18 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 8.9K, 📝 03&#x2F;15 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 88, 📝 09&#x2F;19 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
+- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 88, 📝 10&#x2F;02 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8.7K, 📝 09&#x2F;19 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 - [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 18K, 📝 09&#x2F;20 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 - [Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md) - ([Source ⭐ 1.1K, 📝 20&#x2F;11&#x2F;25 ](https://github.com/passy/awesome-recursion-schemes)) - Resources for learning and using recursion schemes.
