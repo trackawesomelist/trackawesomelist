@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
+### Project Layout
+
+*   [goxygen (⭐3.5k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
+
 ### Performance
 
 *   [mm-go (⭐143)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.

@@ -4,6 +4,16 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### List of blogs and websites
+
+*   Official website of [Selvakumaran Krishnan](https://sk.wikimint.com/selvakumaran-krishnan)
+
+### Others
+
+*   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
