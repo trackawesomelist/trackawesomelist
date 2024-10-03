@@ -2,9 +2,33 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 253K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-es/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-es.md) · ⭐ 335K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
+
+## [Oct 03, 2024](/content/2024/10/03/README.md)
+
+### Rust / Ruby on Rails
+
+*   [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Steve Klabnik y Carol Nichols, `trl.:` Comunidad Rust en Español (HTML)
+
+## [May 30, 2024](/content/2024/05/30/README.md)
+
+### JavaScript / Sistemas Operativos
+
+*   [JavaScript Definitivo Vol. I (⭐1)](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
+
+## [Dec 05, 2023](/content/2023/12/05/README.md)
+
+### LaTeX / React
+
+*   [Edición de textos científicos con LaTeX. Composición, gráficos, diseño editorial y presentaciones beamer](https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf) - Walter Mora F., Alexander Borbón A. (PDF)
+
+## [Oct 04, 2023](/content/2023/10/04/README.md)
+
+### NoSQL / DynamoDB
+
+*   [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF)
 
 ## [Nov 01, 2022](/content/2022/11/01/README.md)
 
@@ -70,13 +94,13 @@
 
 ### PHP / Symfony
 
-*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
+*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html) - Fabien Potencier (HTML)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 
 ### 0 - Meta-Listas
 
-*   [Gitbook - Libros útiles en español (⭐91)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
+*   [Gitbook - Libros útiles en español (⭐136)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
 *   [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal Galiano
 
 ### 1 - Agnósticos / Algoritmos y Estructuras de Datos
@@ -102,7 +126,7 @@
 ### 1 - Agnósticos / Misceláneos
 
 *   [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
-*   [Docker (⭐185)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
+*   [Docker (⭐226)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
 *   [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 *   [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
 *   [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
@@ -110,7 +134,7 @@
 ### 1 - Agnósticos / Sistemas Operativos
 
 *   [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-*   [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red Martinez (PDF)
+*   [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
 
 ### C++ / Sistemas Operativos
 
@@ -120,7 +144,7 @@
 
 ### Haskell / Sistemas Operativos
 
-*   [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/\~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
+*   [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
 
 ### HTML and CSS / Sistemas Operativos
 
@@ -135,9 +159,9 @@
 ### Java / Sistemas Operativos
 
 *   [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
-*   [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/\~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
+*   [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
 *   [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
-*   [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos (⭐86)](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
+*   [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos (⭐92)](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
 *   [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
 *   [Programación en Java](http://elvex.ugr.es/decsai/java/) - Fernando Berzal Galiano (HTML)
 *   [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
@@ -147,7 +171,6 @@
 *   [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
 *   [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 *   [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
-*   [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) - Ivo Wetzel, `trl.:` Julio Napurí, `trl.:` David Matas, `trl.:` Vitalii Zurian, `trl.:` David Rubert, et al. (HTML)
 *   [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
 *   [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
 
@@ -184,12 +207,12 @@
 
 ### .NET (C# / Visual Studio) / React
 
-*   [El lenguaje de programación C#](http://dis.um.es/\~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF)
+*   [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF)
 *   [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex) - Cesar De la Torre (HTML)
 
 ### NoSQL / MongoDB
 
-*   [El pequeño libro MongoDB (⭐91)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
+*   [El pequeño libro MongoDB (⭐100)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
 *   [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *(:construction: en proceso)*
 
 ### PHP / Redis
@@ -198,6 +221,9 @@
 *   [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
 *   [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
 *   [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
+
+### PHP / Symfony
+
 *   [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 *   [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
@@ -216,7 +242,7 @@
 *   [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
 *   [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
 *   [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
-*   [Python para ciencia e ingeniería (⭐130)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
+*   [Python para ciencia e ingeniería (⭐162)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
 *   [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
 *   [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
 
@@ -227,7 +253,7 @@
 ### Ruby / Web2py
 
 *   [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (HTML)
-*   [La Guía de Estilos de Ruby (⭐102)](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) - Ale Mohamad (GitHub)
+*   [La Guía de Estilos de Ruby (⭐103)](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) - Ale Mohamad (GitHub)
 *   [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
 
 ### Ruby / Ruby on Rails
@@ -263,15 +289,13 @@
 
 *   [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
-*   [TypeScript Deep Dive (⭐103)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
+*   [TypeScript Deep Dive (⭐140)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
 
 ### TypeScript / Angular
 
-*   [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
-*   [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
 *   [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-*   [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos (⭐6)](https://github.com/jorgeucano/entendiendo-angular))
+*   [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
 
@@ -279,7 +303,7 @@
 
 *   [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
 *   [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
-*   [Gitmagic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
+*   [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
 *   [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
 
 ### Subversion / Ruby on Rails
@@ -328,7 +352,7 @@
 
 ### 1 - Agnósticos / Algoritmos y Estructuras de Datos
 
-*   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
+*   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
 *   [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
 ### 1 - Agnósticos / Ciencia Computacional
@@ -351,7 +375,7 @@
 
 ### 0 - Meta-Listas
 
-*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐398)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
+*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐586)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
 
 ### Java / Sistemas Operativos
 
@@ -380,10 +404,6 @@
 *   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
 ## [Oct 13, 2021](/content/2021/10/13/README.md)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 ### Python / Django
 
@@ -419,7 +439,7 @@
 
 ### 0 - Meta-Listas
 
-*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐118)](https://github.com/ddd-espanol/asombroso-ddd)
+*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐200)](https://github.com/ddd-espanol/asombroso-ddd)
 
 ## [May 06, 2021](/content/2021/05/06/README.md)
 
@@ -457,10 +477,6 @@
 ### JavaScript / Sistemas Operativos
 
 *   [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
-
-### JavaScript / AngularJS
-
-*   [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 
 ## [Aug 14, 2018](/content/2018/08/14/README.md)
 
@@ -503,7 +519,7 @@
 
 ### Perl / Symfony
 
-*   [Tutorial Perl](http://kataix.umag.cl/\~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
+*   [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
 
 ### Python / Symfony
 
@@ -516,9 +532,3 @@
 ### SQL / Ruby on Rails
 
 *   [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
-
-## [Feb 11, 2014](/content/2014/02/11/README.md)
-
-### 1 - Agnósticos / Metodologías de desarrollo de software
-
-*   [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)

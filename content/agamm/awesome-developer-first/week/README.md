@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Analytics
+
+*   [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Monitoring

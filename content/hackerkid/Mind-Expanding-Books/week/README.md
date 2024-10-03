@@ -2,9 +2,23 @@
 
  :books: Find your next book to read!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 11K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 12K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/Mind-Expanding-Books/README.md) / Weekly / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
+
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Fiction / Fantasy
+
+- Name: And the Mountains Echoed
+
+  Author: Khaled Hosseini
+
+  Goodreads Rating: [4.26](https://www.goodreads.com/book/show/21897740-and-the-mountains-echoed)
+
+  Year Published: 2013
+
+
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 

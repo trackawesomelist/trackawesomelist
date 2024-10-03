@@ -72,6 +72,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *Track web/app visitors.*
 
 *   [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+*   [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
 *   [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events.
 *   [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
 *   [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.

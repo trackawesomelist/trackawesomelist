@@ -2,7 +2,7 @@
 
  :books: Find your next book to read!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 11K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) · ⭐ 12K · 🏷️ Miscellaneous
 
 [ [Daily](/content/hackerkid/Mind-Expanding-Books/README.md) / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / Overview ]
 
@@ -558,6 +558,7 @@ If you like Mind Expanding books you should check out my new project <http://dif
 | Harry Potter and the Methods of Rationality | Eliezer Yudkowsky   | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality)                                  | 2015           |
 | Discworld                                   | Terry Pratchett     | [4.32](https://www.goodreads.com/series/40650-discworld)                                                                          | 2001           |
 | The Dark Tower                              | Stephen King        | [4.27](https://www.goodreads.com/series/40750-the-dark-tower)                                                                     | 1982           |
+| And the Mountains Echoed                    | Khaled Hosseini     | [4.26](https://www.goodreads.com/book/show/21897740-and-the-mountains-echoed)                                                     | 2013           |
 | His Dark Materials                          | Philip Pullman      | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials)                                                              | 1995           |
 | The Last Wish                               | Andrzej Sapkowski   | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish)                                                                  | 1993           |
 | The Chronicles of Narnia                    | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia)                                                        | 2002           |
@@ -743,7 +744,7 @@ If you like Mind Expanding books you should check out my new project <http://dif
 
 *   [@hackerkid](https://github.com/hackerkid) for starting the list.
 *   [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
-*   All the [contributors (⭐11k)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
+*   All the [contributors (⭐12k)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 # License
 
