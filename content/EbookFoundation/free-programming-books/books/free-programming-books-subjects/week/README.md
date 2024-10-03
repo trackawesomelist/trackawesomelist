@@ -12,6 +12,10 @@
 
 *   [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
 
+### Mathematics
+
+*   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Mathematics

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 03, 2024](/content/2024/10/03/README.md)
+
+### Design and UI
+
+*   [Flyon UI](https://flyonui.com/)- The Easiest Components Library For Tailwind CSS.
+
 ## [Oct 01, 2024](/content/2024/10/01/README.md)
 
 ### APIs, Data, and ML

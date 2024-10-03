@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 03, 2024](/content/2024/10/03/README.md)
+
+### Mathematics
+
+*   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
+
 ## [Oct 02, 2024](/content/2024/10/02/README.md)
 
 ### Computer Organization and Architecture

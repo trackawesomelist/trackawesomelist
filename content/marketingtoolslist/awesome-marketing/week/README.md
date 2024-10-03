@@ -2,9 +2,17 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 45 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / Weekly / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Email Marketing / Email Deliverability
+
+*   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
+*   [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
+*   [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 

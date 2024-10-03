@@ -12,6 +12,14 @@ A curated list of awesome developer-first tools products.
 
 *   [devActivity](https://devactivity.com/) - Contributions analytics with AI Insights, Performance Review, Retrospectives and Gamifications.
 
+### Automation
+
+*   [Lil'bots](https://www.lilbots.io/) - Create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic, and more.
+
+### Mail
+
+*   [Heybounce](https://www.heybounce.io/) - Email verification API.
+
 ## [Sep 25, 2024](/content/2024/09/25/README.md)
 
 ### Monitoring

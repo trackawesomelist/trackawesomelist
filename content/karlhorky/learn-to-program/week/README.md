@@ -2,9 +2,24 @@
 
 Educational resources to learn to program (Foundation in Web Development)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/karlhorky/learn-to-program/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program) · ⭐ 4.1K · 🏷️ Learn
 
 [ [Daily](/content/karlhorky/learn-to-program/README.md) / Weekly / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
+
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Contributing
+
+#### [CodeCrafters](https://codecrafters.io/)
+
+**Freemium** recreate programming tools from scratch in any language\
+*(Go, Rust, Python, JavaScript, C++, Ruby, Haskell, C#, C, Java, PHP, Elixir, Crystal, Clojure, Zig, Nim)*
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+
+In lieu of a formal style guide, take care to maintain the existing style of this list.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
@@ -104,22 +119,10 @@ Educational resources to learn to program (Foundation in Web Development)
 
 **Free** programming challenges, hackathons and contests\
 *(dynamic programming, artificial intelligence, algorithms, functional programming, machine learning)*
-
-### Contributing
-
 #### [CodeSignal](https://codesignal.com/)
 
 **Free** programming challenges\
 *(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
-
-**Freemium** recreate programming tools from scratch in any language\
-*(Go, Rust, Python, JavaScript, C++, Ruby, Haskell, C#, C, Java, PHP, Elixir, Crystal, Clojure, Zig, Nim)*
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
-
-In lieu of a formal style guide, take care to maintain the existing style of this list.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
@@ -174,7 +177,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐621)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐622)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -298,7 +301,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 **Mixed** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐56k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐57k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*
