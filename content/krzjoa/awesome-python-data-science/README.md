@@ -6,6 +6,12 @@ Probably the best curated list of data science software in Python.
 
 [ Daily / [Weekly](/content/krzjoa/awesome-python-data-science/week/README.md) / [Overview](/content/krzjoa/awesome-python-data-science/readme/README.md) ]
 
+## [Oct 04, 2024](/content/2024/10/04/README.md)
+
+### Data Validation / Synthetic Data
+
+*   [DataComPy (⭐470)](https://github.com/capitalone/datacompy)- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
 ## [Aug 29, 2024](/content/2024/08/29/README.md)
 
 ### Time Series / Others
@@ -29,33 +35,33 @@ Probably the best curated list of data science software in Python.
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [PyCaret (⭐8.8k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
+*   [PyCaret (⭐8.9k)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 
 ### Reinforcement Learning / Others
 
-*   [DI-engine (⭐2.9k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [DI-engine (⭐3k)](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [Imitation (⭐1.3k)](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
 ### Computer Vision / Others
 
-*   [PyTorch3D (⭐8.6k)](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [PyTorch3D (⭐8.7k)](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [Decord (⭐1.8k)](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
-*   [MMEngine (⭐1.1k)](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [LAVIS (⭐9.4k)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
+*   [MMEngine (⭐1.2k)](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [LAVIS (⭐9.7k)](https://github.com/salesforce/LAVIS) - A One-stop Library for Language-Vision Intelligence.
 
 ### Reinforcement Learning / Others
 
-*   [MAgent2 (⭐210)](https://github.com/Farama-Foundation/MAgent2) - An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments.
+*   [MAgent2 (⭐219)](https://github.com/Farama-Foundation/MAgent2) - An engine for high performance multi-agent environments with very large numbers of agents, along with a set of reference environments.
 
 ### Learning-to-Rank & Recommender Systems / Others
 
 *   [LightFM (⭐4.7k)](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
 *   [Spotlight](https://maciejkula.github.io/spotlight/) - Deep recommender models using PyTorch.
-*   [Surprise (⭐6.3k)](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
-*   [RecBole (⭐3.3k)](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [allRank (⭐843)](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Surprise (⭐6.4k)](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
+*   [RecBole (⭐3.4k)](https://github.com/RUCAIBox/RecBole) - A unified, comprehensive and efficient recommendation library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [allRank (⭐857)](https://github.com/allegro/allRank) - allRank is a framework for training learning-to-rank neural models based on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [TensorFlow Recommenders (⭐1.8k)](https://github.com/tensorflow/recommenders) - A library for building recommender system models using TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [TensorFlow Ranking (⭐2.7k)](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
@@ -66,23 +72,23 @@ Probably the best curated list of data science software in Python.
 
 ### Conversion / Synthetic Data
 
-*   [treelite (⭐729)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
+*   [treelite (⭐730)](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
 ## [Sep 25, 2023](/content/2023/09/25/README.md)
 
 ### Automated Machine Learning / Others
 
-*   [Auto-PyTorch (⭐2.3k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Auto-PyTorch (⭐2.4k)](https://github.com/automl/Auto-PyTorch) - Automatic architecture search and hyperparameter optimization for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Reinforcement Learning / Others
 
-*   [PettingZoo (⭐2.5k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
+*   [PettingZoo (⭐2.6k)](https://github.com/Farama-Foundation/PettingZoo) - An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities.
 
 ## [Sep 24, 2023](/content/2023/09/24/README.md)
 
 ### Reinforcement Learning / Others
 
-*   [Shimmy (⭐128)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
+*   [Shimmy (⭐133)](https://github.com/Farama-Foundation/Shimmy) - An API conversion tool for popular external reinforcement learning environments.
 *   [EnvPool (⭐1.1k)](https://github.com/sail-sg/envpool) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
 
 ## [Sep 22, 2023](/content/2023/09/22/README.md)
@@ -90,19 +96,19 @@ Probably the best curated list of data science software in Python.
 ### Deep Learning / JAX
 
 *   [JAX (⭐30k)](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-*   [FLAX (⭐5.9k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+*   [FLAX (⭐6k)](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
 *   [Optax (⭐1.6k)](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
 
 ### Reinforcement Learning / Others
 
 *   [rlpyt (⭐2.2k)](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [cleanrl (⭐5.1k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
-*   [Machin (⭐395)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [SKRL (⭐489)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [cleanrl (⭐5.4k)](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
+*   [Machin (⭐397)](https://github.com/iffiX/machin) -  A reinforcement library designed for pytorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [SKRL (⭐518)](https://github.com/Toni-SM/skrl) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Isaac Orbit and Omniverse Isaac Gym. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Graph Machine Learning / Others
 
-*   [PyTorch Geometric Signed Directed (⭐117)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [PyTorch Geometric Signed Directed (⭐121)](https://github.com/SherylHYX/pytorch_geometric_signed_directed) -  A signed/directed graph neural network extension library for PyTorch Geometric. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [StellarGraph (⭐2.9k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Graph Nets (⭐5.3k)](https://github.com/google-deepmind/graph_nets) - Build Graph Nets in Tensorflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 *   [TensorFlow GNN (⭐1.3k)](https://github.com/tensorflow/gnn) - A library to build Graph Neural Networks on the TensorFlow platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
@@ -120,11 +126,11 @@ Probably the best curated list of data science software in Python.
 ### Machine Learning / Gradient Boosting
 
 *   [NGBoost (⭐1.6k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
-*   [TensorFlow Decision Forests (⭐657)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [TensorFlow Decision Forests (⭐658)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
 ### Deep Learning / Others
 
-*   [transformers (⭐131k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [transformers (⭐133k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ### Automated Machine Learning / Others
 
@@ -132,15 +138,15 @@ Probably the best curated list of data science software in Python.
 
 ### Natural Language Processing / Others
 
-*   [KerasNLP (⭐755)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
+*   [KerasNLP (⭐766)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
 
 ### Computer Vision / Others
 
-*   [KerasCV (⭐994)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
+*   [KerasCV (⭐1k)](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="MXNet based">
 
 ### Feature Engineering / General
 
-*   [OpenFE (⭐722)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+*   [OpenFE (⭐775)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 
 ## [Sep 20, 2023](/content/2023/09/20/README.md)
 
@@ -152,9 +158,9 @@ Probably the best curated list of data science software in Python.
 
 ### Reinforcement Learning / Others
 
-*   [Gymnasium (⭐6.6k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐34k)](https://github.com/openai/gym)).
-*   [Stable Baselines3 (⭐8.6k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-*   [Tianshou (⭐7.7k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [Gymnasium (⭐6.9k)](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym (⭐35k)](https://github.com/openai/gym)).
+*   [Stable Baselines3 (⭐8.8k)](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+*   [Tianshou (⭐7.8k)](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [Acme (⭐3.5k)](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
 *   [Catalyst-RL (⭐46)](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [d3rlpy (⭐1.3k)](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
@@ -167,19 +173,19 @@ Probably the best curated list of data science software in Python.
 
 ### Data Manipulation / Pipelines
 
-*   [Hamilton (⭐1.7k)](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+*   [Hamilton (⭐1.8k)](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
 ### Quantum Computing / Synthetic Data
 
-*   [qiskit (⭐5k)](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+*   [qiskit (⭐5.1k)](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
 
 ## [Feb 23, 2023](/content/2023/02/23/README.md)
 
 ### Optimization / Others
 
-*   [Optuna (⭐10k)](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
+*   [Optuna (⭐11k)](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
 
 ### Feature Engineering / General
 
@@ -188,29 +194,29 @@ Probably the best curated list of data science software in Python.
 
 ### Feature Engineering / Feature Selection
 
-*   [zoofs (⭐239)](https://github.com/jaswinder9051998/zoofs) - A feature selection library based on evolutionary algorithms.
+*   [zoofs (⭐240)](https://github.com/jaswinder9051998/zoofs) - A feature selection library based on evolutionary algorithms.
 
 ## [Jan 30, 2023](/content/2023/01/30/README.md)
 
 ### Data Manipulation / Data Frames
 
-*   [polars (⭐29k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+*   [polars (⭐30k)](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
 
 ## [Jan 08, 2023](/content/2023/01/08/README.md)
 
 ### Deployment / NLP
 
-*   [gradio (⭐32k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
+*   [gradio (⭐33k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
 
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
 ### Data Validation / Synthetic Data
 
-*   [great\_expectations (⭐9.8k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-*   [pandera (⭐3.2k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
-*   [deepchecks (⭐3.5k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [evidently (⭐5.1k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
-*   [TensorFlow Data Validation (⭐756)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
+*   [great\_expectations (⭐9.9k)](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+*   [pandera (⭐3.3k)](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
+*   [deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks) - Validation & testing of ML models and data during model development, deployment, and production. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [evidently (⭐5.2k)](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production.
+*   [TensorFlow Data Validation (⭐758)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data.
 
 ## [Dec 17, 2022](/content/2022/12/17/README.md)
 
@@ -232,7 +238,7 @@ Probably the best curated list of data science software in Python.
 
 ### Data Manipulation / Data Frames
 
-*   [xarray (⭐3.5k)](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+*   [xarray (⭐3.6k)](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
 
 ### Data Manipulation / Synthetic Data
 
@@ -255,11 +261,11 @@ Probably the best curated list of data science software in Python.
 
 ### Automated Machine Learning / Others
 
-*   [AutoGluon (⭐7.6k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+*   [AutoGluon (⭐7.7k)](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Data Manipulation / Data-centric AI
 
-*   [cleanlab (⭐9.3k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+*   [cleanlab (⭐9.4k)](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 *   [snorkel (⭐5.8k)](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
 *   [dataprep (⭐2k)](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
 
@@ -267,55 +273,55 @@ Probably the best curated list of data science software in Python.
 
 ### Optimization / Others
 
-*   [sklearn-genetic-opt (⭐295)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-genetic-opt (⭐307)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [Aug 24, 2022](/content/2022/08/24/README.md)
 
 ### Feature Engineering / General
 
-*   [Feature Engine (⭐1.8k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Feature Engine (⭐1.9k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn-like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
 ### Probabilistic Graphical Models / Others
 
-*   [pomegranate (⭐3.3k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [pomegranate (⭐3.4k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ## [Jul 29, 2022](/content/2022/07/29/README.md)
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐706)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐708)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / Others
 
-*   [darts (⭐7.9k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-*   [statsforecast (⭐3.8k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐835)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-*   [neuralforecast (⭐2.9k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+*   [darts (⭐8k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [statsforecast (⭐3.9k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+*   [mlforecast (⭐858)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [neuralforecast (⭐3k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.8k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐724)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐728)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / Synthetic Data
 
-*   [envd (⭐1.9k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐2k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [Jan 12, 2022](/content/2022/01/12/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
-*   [sklearn-expertsys (⭐487)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-expertsys (⭐488)](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ## [Dec 03, 2021](/content/2021/12/03/README.md)
 
 ### Time Series / Others
 
-*   [sktime (⭐7.7k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sktime (⭐7.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [tslearn (⭐2.9k)](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tick (⭐483)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tick (⭐487)](https://github.com/X-DataInitiative/tick) - Module for statistical learning, with a particular emphasis on time-dependent modeling.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Prophet (⭐18k)](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 *   [PyFlux (⭐2.1k)](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-*   [bayesloop (⭐140)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+*   [bayesloop (⭐152)](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
 *   [luminol (⭐1.2k)](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 *   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
@@ -347,7 +353,7 @@ Probably the best curated list of data science software in Python.
 ### Deep Learning / Others
 
 *   [Tangent (⭐2.3k)](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
-*   [autograd (⭐6.9k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+*   [autograd (⭐7k)](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 *   [Caffe (⭐34k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 *   [nnabla (⭐2.7k)](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 
@@ -423,7 +429,7 @@ Probably the best curated list of data science software in Python.
 
 ### Data Manipulation / Data Frames
 
-*   [vaex (⭐8.2k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
+*   [vaex (⭐8.3k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
 
 ## [May 18, 2020](/content/2020/05/18/README.md)
 
@@ -453,7 +459,7 @@ Probably the best curated list of data science software in Python.
 
 ### Optimization / Others
 
-*   [scikit-opt (⭐5.1k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐5.2k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ## [Oct 28, 2019](/content/2019/10/28/README.md)
 
@@ -487,7 +493,7 @@ Probably the best curated list of data science software in Python.
 
 ### Reinforcement Learning / Others
 
-*   [Dopamine (⭐10k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+*   [Dopamine (⭐11k)](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 
 ### Statistics / NLP
 
@@ -505,7 +511,7 @@ Probably the best curated list of data science software in Python.
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐9.9k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐10k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [Sep 05, 2019](/content/2019/09/05/README.md)
 
@@ -541,10 +547,10 @@ Probably the best curated list of data science software in Python.
 
 *   [Horovod (⭐14k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐904)](https://github.com/Samsung/veles) - Distributed machine learning platform.
-*   [Jubatus (⭐706)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+*   [Veles (⭐906)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Jubatus (⭐705)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.7k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐890)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [dask-ml (⭐894)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.6k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ## [Sep 02, 2019](/content/2019/09/02/README.md)
@@ -552,41 +558,41 @@ Probably the best curated list of data science software in Python.
 ### Visualization / General Purposes
 
 *   [chartify (⭐3.5k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐129)](https://github.com/janpipek/physt) - Improved histograms.
+*   [physt (⭐131)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐408)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐410)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ## [Aug 31, 2019](/content/2019/08/31/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
 *   [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [cuML (⭐4.1k)](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
+*   [cuML (⭐4.2k)](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 *   [modAL (⭐2.2k)](https://github.com/cosmic-cortex/modAL) - Modular active learning framework for Python3. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Sparkit-learn (⭐1.2k)](https://github.com/lensacom/sparkit-learn) - PySpark + scikit-learn = Sparkit-learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
 *   [MLxtend (⭐4.9k)](https://github.com/rasbt/mlxtend) - Extension and helper modules for Python's data analysis and machine learning libraries. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Reproducible Experiment Platform (REP) (⭐687)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [scikit-multilearn (⭐915)](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification for python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [seqlearn (⭐684)](https://github.com/larsmans/seqlearn) - Sequence classification toolkit for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [pystruct (⭐664)](https://github.com/pystruct/pystruct) - Simple structured learning framework for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [RuleFit (⭐404)](https://github.com/christophM/rulefit) - Implementation of the rulefit. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [scikit-multilearn (⭐918)](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification for python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [seqlearn (⭐686)](https://github.com/larsmans/seqlearn) - Sequence classification toolkit for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [pystruct (⭐665)](https://github.com/pystruct/pystruct) - Simple structured learning framework for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [RuleFit (⭐408)](https://github.com/christophM/rulefit) - Implementation of the rulefit. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [metric-learn (⭐1.4k)](https://github.com/all-umass/metric-learn) - Metric learning algorithms in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Machine Learning / Gradient Boosting
 
 *   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost) - Scalable, Portable, and Distributed Gradient Boosting. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
-*   [LightGBM (⭐16k)](https://github.com/Microsoft/LightGBM) - A fast, distributed, high-performance gradient boosting. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
+*   [LightGBM (⭐17k)](https://github.com/Microsoft/LightGBM) - A fast, distributed, high-performance gradient boosting. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 *   [CatBoost (⭐8k)](https://github.com/catboost/catboost) - An open-source gradient boosting on decision trees library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
-*   [ThunderGBM (⭐690)](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
+*   [ThunderGBM (⭐692)](https://github.com/Xtra-Computing/thundergbm) - Fast GBDTs and Random Forests on GPUs. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
 ### Machine Learning / Ensemble Methods
 
 *   [ML-Ensemble](http://ml-ensemble.com/) - High performance ensemble learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Stacking (⭐216)](https://github.com/ikki407/stacking) - Simple and useful stacking library written in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Stacking (⭐217)](https://github.com/ikki407/stacking) - Simple and useful stacking library written in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [stacked\_generalization (⭐117)](https://github.com/fukatani/stacked_generalization) - Library for machine learning stacking generalization. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [vecstack (⭐685)](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [vecstack (⭐683)](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Machine Learning / Imbalanced Datasets
 
@@ -595,13 +601,13 @@ Probably the best curated list of data science software in Python.
 
 ### Machine Learning / Random Forests
 
-*   [rpforest (⭐222)](https://github.com/lyst/rpforest) - A forest of random projection trees. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [rpforest (⭐223)](https://github.com/lyst/rpforest) - A forest of random projection trees. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [sklearn-random-bits-forest (⭐9)](https://github.com/tmadl/sklearn-random-bits-forest) - Wrapper of the Random Bits Forest program written by (Wang et al., 2016).<img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [rgf\_python (⭐373)](https://github.com/fukatani/rgf_python) - Python Wrapper of Regularized Greedy Forest. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Machine Learning / Kernel Methods
 
-*   [pyFM (⭐920)](https://github.com/coreylynch/pyFM) - Factorization machines in python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [pyFM (⭐921)](https://github.com/coreylynch/pyFM) - Factorization machines in python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [fastFM (⭐1.1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [tffm (⭐780)](https://github.com/geffy/tffm) - TensorFlow implementation of an arbitrary order Factorization Machine. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [scikit-rvm (⭐229)](https://github.com/JamesRitchie/scikit-rvm) - Relevance Vector Machine implementation using the scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
@@ -611,17 +617,17 @@ Probably the best curated list of data science software in Python.
 
 *   [PyTorch (⭐82k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [ignite (⭐4.5k)](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [skorch (⭐5.7k)](https://github.com/dnouri/skorch) - A scikit-learn compatible neural network library that wraps PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [skorch (⭐5.8k)](https://github.com/dnouri/skorch) - A scikit-learn compatible neural network library that wraps PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Deep Learning / TensorFlow
 
-*   [TensorFlow (⭐185k)](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning by Google. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [TensorFlow (⭐186k)](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning by Google. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [TensorLayer (⭐7.3k)](https://github.com/zsdonghao/tensorlayer) - Deep Learning and Reinforcement Learning Library for Researcher and Engineer. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [Sonnet (⭐9.7k)](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [Polyaxon (⭐3.5k)](https://github.com/polyaxon/polyaxon) - A platform that helps you build, manage and monitor deep learning models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [Polyaxon (⭐3.6k)](https://github.com/polyaxon/polyaxon) - A platform that helps you build, manage and monitor deep learning models. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [tfdeploy (⭐352)](https://github.com/riga/tfdeploy) - Deploy TensorFlow graphs for fast evaluation and export to TensorFlow-less environments running numpy. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [tensorflow-upstream (⭐685)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
+*   [tensorflow-upstream (⭐686)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight) - A high-level framework for TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [Mesh TensorFlow (⭐1.6k)](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
@@ -631,13 +637,13 @@ Probably the best curated list of data science software in Python.
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [Gluon (⭐2.3k)](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning (now included in MXNet). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
-*   [Xfer (⭐251)](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
+*   [Xfer (⭐253)](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 *   [MXNet (⭐28)](https://github.com/ROCmSoftwarePlatform/mxnet) - HIP Port of MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
 
 ### Automated Machine Learning / Others
 
-*   [auto-sklearn (⭐7.5k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [TPOT (⭐9.6k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [auto-sklearn (⭐7.6k)](https://github.com/automl/auto-sklearn) - An AutoML toolkit and a drop-in replacement for a scikit-learn estimator. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [TPOT (⭐9.7k)](https://github.com/rhiever/tpot) - AutoML tool that optimizes machine learning pipelines using genetic programming. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Natural Language Processing / Others
 
@@ -665,36 +671,36 @@ Probably the best curated list of data science software in Python.
 *   [pyro (⭐8.5k)](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) - Bayesian Deep Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) - Gaussian processes in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [InferPy (⭐144)](https://github.com/PGM-Lab/InferPy) - Deep Probabilistic Modelling Made Easy.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [sklearn-bayes (⭐512)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [skpro (⭐231)](https://github.com/alan-turing-institute/skpro) - Supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [InferPy (⭐146)](https://github.com/PGM-Lab/InferPy) - Deep Probabilistic Modelling Made Easy.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [sklearn-bayes (⭐513)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [skpro (⭐232)](https://github.com/alan-turing-institute/skpro) - Supervised domain-agnostic prediction framework for probabilistic modelling by [The Alan Turing Institute](https://www.turing.ac.uk/). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [PyVarInf (⭐358)](https://github.com/ctallec/pyvarinf) - Bayesian Deep Learning methods with Variational Inference for PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [GPyTorch (⭐3.5k)](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
-*   [sklearn-crfsuite (⭐425)](https://github.com/TeamHG-Memex/sklearn-crfsuite) - A scikit-learn-inspired API for CRFsuite. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-crfsuite (⭐426)](https://github.com/TeamHG-Memex/sklearn-crfsuite) - A scikit-learn-inspired API for CRFsuite. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Model Explanation / Others
 
-*   [Contrastive Explanation (⭐45)](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Contrastive Explanation (⭐44)](https://github.com/MarcelRobeer/ContrastiveExplanation) - Contrastive Explanation (Foil Trees). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [yellowbrick (⭐4.3k)](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [scikit-plot (⭐2.4k)](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [shap (⭐22k)](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [Lime (⭐11k)](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [shap (⭐23k)](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Lime (⭐12k)](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [FairML (⭐359)](https://github.com/adebayoj/fairml) - FairML is a python toolbox auditing the machine learning models for bias. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [model-analysis (⭐1.3k)](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [themis-ml (⭐124)](https://github.com/cosmicBboy/themis-ml) - A library that implements fairness-aware machine learning algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [treeinterpreter (⭐741)](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [treeinterpreter (⭐744)](https://github.com/andosa/treeinterpreter) - Interpreting scikit-learn's decision tree and random forest predictions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Genetic Programming / Others
 
 *   [gplearn (⭐1.6k)](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [karoo\_gp (⭐157)](https://github.com/kstaats/karoo_gp) - A Genetic Programming platform for Python with GPU support. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-*   [sklearn-genetic (⭐322)](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection module for scikit-learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-genetic (⭐324)](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection module for scikit-learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Optimization / Others
 
-*   [BoTorch (⭐3k)](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [BoTorch (⭐3.1k)](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 *   [hyperopt-sklearn (⭐1.6k)](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [sklearn-deap (⭐771)](https://github.com/rsteca/sklearn-deap) - Use evolutionary algorithms instead of gridsearch in scikit-learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap) - Use evolutionary algorithms instead of gridsearch in scikit-learn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [sigopt\_sklearn (⭐75)](https://github.com/sigopt/sigopt_sklearn) - SigOpt wrappers for scikit-learn methods. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [GPflowOpt (⭐270)](https://github.com/GPflow/GPflowOpt) - Bayesian Optimization using GPflow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
@@ -702,36 +708,36 @@ Probably the best curated list of data science software in Python.
 
 *   [skl-groups (⭐41)](https://github.com/dougalsutherland/skl-groups) - A scikit-learn addon to operate on set/"group"-based features. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Feature Forge (⭐382)](https://github.com/machinalis/featureforge) - A set of tools for creating and testing machine learning features. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [few (⭐50)](https://github.com/lacava/few) - A feature engineering wrapper for sklearn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [scikit-mdr (⭐125)](https://github.com/EpistasisLab/scikit-mdr) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [tsfresh (⭐8.3k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [few (⭐51)](https://github.com/lacava/few) - A feature engineering wrapper for sklearn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [scikit-mdr (⭐126)](https://github.com/EpistasisLab/scikit-mdr) - A sklearn-compatible Python implementation of Multifactor Dimensionality Reduction (MDR) for feature construction. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [tsfresh (⭐8.4k)](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Feature Engineering / Feature Selection
 
 *   [scikit-feature (⭐1.5k)](https://github.com/jundongl/scikit-feature) - Feature selection repository in Python.
 *   [boruta\_py (⭐1.5k)](https://github.com/scikit-learn-contrib/boruta_py) - Implementations of the Boruta all-relevant feature selection method. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [BoostARoota (⭐216)](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
-*   [scikit-rebate (⭐405)](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [BoostARoota (⭐218)](https://github.com/chasedehan/BoostARoota) - A fast xgboost feature selection algorithm. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [scikit-rebate (⭐408)](https://github.com/EpistasisLab/scikit-rebate) - A scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Statistics / NLP
 
-*   [pandas\_summary (⭐500)](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [pandas\_summary (⭐501)](https://github.com/mouradmourafiq/pandas-summary) - Extension to pandas dataframes describe function. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [Pandas Profiling (⭐12k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [Alphalens (⭐3.3k)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 
 ### Data Manipulation / Data Frames
 
 *   [datatable (⭐1.8k)](https://github.com/h2oai/datatable) - Data.table for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
-*   [cuDF (⭐8.2k)](https://github.com/rapidsai/cudf) - GPU DataFrame Library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
+*   [cuDF (⭐8.3k)](https://github.com/rapidsai/cudf) - GPU DataFrame Library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 *   [blaze (⭐3.2k)](https://github.com/blaze/blaze) - NumPy and pandas interface to Big Data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [pandasql (⭐1.3k)](https://github.com/yhat/pandasql) -  Allows you to query pandas DataFrames using SQL syntax. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
-*   [pandas-gbq (⭐437)](https://github.com/pydata/pandas-gbq) - pandas Google Big Query. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [pandas-gbq (⭐446)](https://github.com/pydata/pandas-gbq) - pandas Google Big Query. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [pysparkling (⭐261)](https://github.com/svenkreiss/pysparkling) - A pure Python implementation of Apache Spark's RDD and DStream interfaces. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [modin (⭐9.7k)](https://github.com/modin-project/modin) - Speed up your pandas workflows by changing a single line of code. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [modin (⭐9.8k)](https://github.com/modin-project/modin) - Speed up your pandas workflows by changing a single line of code. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ### Data Manipulation / Pipelines
 
-*   [pandas-ply (⭐199)](https://github.com/coursera/pandas-ply) - Functional data manipulation for pandas. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [pandas-ply (⭐200)](https://github.com/coursera/pandas-ply) - Functional data manipulation for pandas. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [Dplython (⭐764)](https://github.com/dodger487/dplython) - Dplyr for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired/ported lib">
 *   [sklearn-pandas (⭐2.8k)](https://github.com/scikit-learn-contrib/sklearn-pandas) - pandas integration with sklearn. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 *   [pyjanitor (⭐1.3k)](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
@@ -739,7 +745,7 @@ Probably the best curated list of data science software in Python.
 ### Experimentation / Synthetic Data
 
 *   [Sacred (⭐4.2k)](https://github.com/IDSIA/sacred) - A tool to help you configure, organize, log, and reproduce experiments.
-*   [Ax (⭐2.3k)](https://github.com/facebook/Ax) - Adaptive Experimentation Platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [Ax (⭐2.4k)](https://github.com/facebook/Ax) - Adaptive Experimentation Platform. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
 ### Computations / Synthetic Data
 
@@ -747,18 +753,18 @@ Probably the best curated list of data science software in Python.
 
 ### Spatial Analysis / Synthetic Data
 
-*   [GeoPandas (⭐4.4k)](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+*   [GeoPandas (⭐4.5k)](https://github.com/geopandas/geopandas) - Python tools for geographic data. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
 ### Model Explanation / Others
 
-*   [Auralisation (⭐41)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-*   [CapsNet-Visualization (⭐394)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
-*   [lucid (⭐4.6k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-*   [Netron (⭐27k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+*   [Auralisation (⭐42)](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+*   [CapsNet-Visualization (⭐393)](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+*   [lucid (⭐4.7k)](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
+*   [Netron (⭐28k)](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
 *   [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-*   [tensorboard-pytorch (⭐7.8k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
+*   [tensorboard-pytorch (⭐7.9k)](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
 ### Data Manipulation / Data Frames
 
@@ -775,7 +781,7 @@ Probably the best curated list of data science software in Python.
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 *   [mlpack (⭐5k)](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 *   [dlib (⭐13k)](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
-*   [pyGAM (⭐860)](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
+*   [pyGAM (⭐866)](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
 
 ### Machine Learning / Kernel Methods
 
@@ -788,19 +794,19 @@ Probably the best curated list of data science software in Python.
 ### Natural Language Processing / Others
 
 *   [NLTK (⭐13k)](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
-*   [CLTK (⭐830)](https://github.com/cltk/cltk) - The Classical Language Toolkik.
+*   [CLTK (⭐835)](https://github.com/cltk/cltk) - The Classical Language Toolkik.
 *   [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
 *   [Phonemizer (⭐1.2k)](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
 
 ### Computer Audition / Others
 
-*   [librosa (⭐6.9k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-*   [Yaafe (⭐241)](https://github.com/Yaafe/Yaafe) - Audio features extraction.
+*   [librosa (⭐7.1k)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+*   [Yaafe (⭐243)](https://github.com/Yaafe/Yaafe) - Audio features extraction.
 *   [aubio (⭐3.3k)](https://github.com/aubio/aubio) - A library for audio and music analysis.
 *   [Essentia (⭐2.8k)](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
-*   [LibXtract (⭐225)](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
-*   [Marsyas (⭐404)](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
-*   [muda (⭐230)](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
+*   [LibXtract (⭐226)](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
+*   [Marsyas (⭐406)](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
+*   [muda (⭐231)](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
 *   [madmom (⭐1.3k)](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
 
 ### Computer Vision / Others
@@ -818,43 +824,43 @@ Probably the best curated list of data science software in Python.
 
 ### Probabilistic Methods / Others
 
-*   [PyMC (⭐8.6k)](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
-*   [PyStan (⭐333)](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
+*   [PyMC (⭐8.7k)](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
+*   [PyStan (⭐338)](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
 *   [emcee (⭐1.5k)](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
-*   [hsmmlearn (⭐76)](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
-*   [pyhsmm (⭐546)](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
+*   [hsmmlearn (⭐78)](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
+*   [pyhsmm (⭐548)](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
 
 ### Model Explanation / Others
 
 *   [Alibi (⭐2.4k)](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
-*   [anchor (⭐793)](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
-*   [aequitas (⭐665)](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
+*   [anchor (⭐795)](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
+*   [aequitas (⭐679)](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
 *   [ELI5 (⭐2.8k)](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
-*   [L2X (⭐123)](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
-*   [PDPbox (⭐840)](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
+*   [L2X (⭐124)](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
+*   [PDPbox (⭐841)](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
 *   [PyCEbox (⭐164)](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox.
 *   [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation.
 *   [AI Explainability 360 (⭐1.6k)](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models.
 
 ### Genetic Programming / Others
 
-*   [DEAP (⭐5.7k)](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
+*   [DEAP (⭐5.8k)](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
 *   [monkeys (⭐122)](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python.
 
 ### Optimization / Others
 
 *   [Spearmint (⭐1.5k)](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 *   [SMAC3 (⭐1.1k)](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
-*   [Optunity (⭐413)](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
+*   [Optunity (⭐415)](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 *   [hyperopt (⭐7.2k)](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
-*   [SafeOpt (⭐139)](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization.
+*   [SafeOpt (⭐140)](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization.
 *   [scikit-optimize (⭐2.7k)](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
 *   [Solid (⭐576)](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python.
 *   [PySwarms (⭐1.3k)](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python.
-*   [Platypus (⭐560)](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization.
+*   [Platypus (⭐565)](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization.
 *   [POT (⭐2.4k)](https://github.com/rflamary/POT) - Python Optimal Transport library.
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
-*   [nlopt (⭐1.8k)](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
+*   [nlopt (⭐1.9k)](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
 
 ### Feature Engineering / General
 
@@ -865,41 +871,41 @@ Probably the best curated list of data science software in Python.
 *   [Matplotlib (⭐20k)](https://github.com/matplotlib/matplotlib) - Plotting with Python.
 *   [seaborn (⭐12k)](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
 *   [prettyplotlib (⭐1.7k)](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
-*   [python-ternary (⭐724)](https://github.com/marcharper/python-ternary) - Ternary plotting library for Python with matplotlib.
+*   [python-ternary (⭐726)](https://github.com/marcharper/python-ternary) - Ternary plotting library for Python with matplotlib.
 *   [missingno (⭐3.9k)](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 
 ### Statistics / NLP
 
-*   [scikit-posthocs (⭐330)](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
+*   [scikit-posthocs (⭐339)](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
 
 ### Data Manipulation / Data Frames
 
 *   [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
-*   [Arctic (⭐3k)](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
+*   [Arctic (⭐3.1k)](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
 *   [xpandas (⭐26)](https://github.com/alan-turing-institute/xpandas) - Universal 1d/2d data containers with Transformers .functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 ### Data Manipulation / Pipelines
 
-*   [pdpipe (⭐715)](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
+*   [pdpipe (⭐713)](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
 *   [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy, and Pytorch.
-*   [Dataset (⭐198)](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
+*   [Dataset (⭐200)](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
 *   [Prodmodel (⭐59)](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
 
 ### Evaluation / Synthetic Data
 
-*   [recmetrics (⭐561)](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
+*   [recmetrics (⭐565)](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
 *   [Metrics (⭐1.6k)](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
 *   [AI Fairness 360 (⭐2.4k)](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
 
 ### Computations / Synthetic Data
 
 *   [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
-*   [bottleneck (⭐1k)](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
-*   [CuPy (⭐8.1k)](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
+*   [bottleneck (⭐1.1k)](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
+*   [CuPy (⭐9.3k)](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 *   [scikit-tensor (⭐401)](https://github.com/mnick/scikit-tensor) - Python library for multilinear algebra and tensor factorizations.
-*   [numdifftools (⭐254)](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
-*   [quaternion (⭐605)](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
-*   [adaptive (⭐1.1k)](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
+*   [numdifftools (⭐253)](https://github.com/pbrod/numdifftools) - Solve automatic numerical differentiation problems in one or more variables.
+*   [quaternion (⭐609)](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
+*   [adaptive (⭐1.2k)](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
 
 ### Spatial Analysis / Synthetic Data
 
@@ -907,7 +913,7 @@ Probably the best curated list of data science software in Python.
 
 ### Quantum Computing / Synthetic Data
 
-*   [QML (⭐197)](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
+*   [QML (⭐199)](https://github.com/qmlcode/qml) - A Python Toolkit for Quantum Machine Learning.
 
 ### Conversion / Synthetic Data
 

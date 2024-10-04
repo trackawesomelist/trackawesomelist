@@ -2,9 +2,58 @@
 
 :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevemao/awesome-git-addons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) · ⭐ 1.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/stevemao/awesome-git-addons/week/README.md) / [Overview](/content/stevemao/awesome-git-addons/readme/README.md) ]
+
+## [Oct 04, 2024](/content/2024/10/04/README.md)
+
+### [git-exfiltrate](https://github.com/Incognito/git-exfiltrator)
+
+### Delete branches with day-offset
+
+    $ git branchcut execute -o 7
+    Switched to branch 'main'
+    Deleted branch bugfix/test (was e2afad6).
+    Deleted branch too-old-branch (was 1d3f82d).
+
+### [git-spend](https://github.com/Goutte/git-spend)
+
+### Break apart large branches into smaller ones
+
+Assume a hypothetical project where you make changes to two software component
+folders in one feature-branch, you can use this tool to make that two branches
+with a preserved history for both.
+
+    git checkout feature-branch
+    ./git-exfiltrate master feature-branch-extracted "component-folder/*"
+
+The `feature-branch-extracted` branch will be created with just the contents of
+`component-folder` from the feature-branch changes.
+
+    *   e01009e  (main)
+    |
+    | * ce4ca64  (feature-branch-extracted)
+    | |  component-folder/1 | 20 +
+    | * f3bf092
+    | |  component-folder/1 | 20 +
+    * | 4b2ebd6
+    |/
+    |
+    | * d4c374e  (feature-branch)
+    | |  component-folder/1 | 20 +
+    | |  different-component-folder/2 | 100 -
+    | * 4724dbb
+    | |  component-folder/1 | 20 +
+    | |  different-component-folder/2 | 100 -
+    |/
+    * 927799f
+    * 219e9b2
+
+Collect and sum the `/spend <duration>` directives found in commit messages.
+
+    $ git spend sum
+    3 weeks 2 days 1 hour 37 minutes
 
 ## [Oct 02, 2023](/content/2023/10/02/README.md)
 
@@ -287,22 +336,6 @@ Interactive UI and fuzzy-search for Git branches.
       2|  ⭐  sugar
       3|  ⭐  milk
       4|  ✅  love
-
-## [Aug 14, 2023](/content/2023/08/14/README.md)
-
-### [git-spend](https://github.com/Goutte/git-spend)
-
-### Delete branches with day-offset
-
-    $ git branchcut execute -o 7
-    Switched to branch 'main'
-    Deleted branch bugfix/test (was e2afad6).
-    Deleted branch too-old-branch (was 1d3f82d).
-
-Collect and sum the `/spend <duration>` directives found in commit messages.
-
-    $ git spend sum
-    3 weeks 2 days 1 hour 37 minutes
 
 ## [Oct 02, 2021](/content/2021/10/02/README.md)
 

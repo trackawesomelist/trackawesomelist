@@ -1,19 +1,80 @@
 # Awesome List Updates on Sep 30 - Oct 06, 2024
 
-30 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
+## [1. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+
+### Data Validation / Synthetic Data
+
+*   [DataComPy (⭐470)](https://github.com/capitalone/datacompy)- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
+## [2. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+
+### [git-exfiltrate](https://github.com/Incognito/git-exfiltrator)
+
+### Delete branches with day-offset
+
+    $ git branchcut execute -o 7
+    Switched to branch 'main'
+    Deleted branch bugfix/test (was e2afad6).
+    Deleted branch too-old-branch (was 1d3f82d).
+
+### [git-spend](https://github.com/Goutte/git-spend)
+
+### Break apart large branches into smaller ones
+
+Assume a hypothetical project where you make changes to two software component
+folders in one feature-branch, you can use this tool to make that two branches
+with a preserved history for both.
+
+    git checkout feature-branch
+    ./git-exfiltrate master feature-branch-extracted "component-folder/*"
+
+The `feature-branch-extracted` branch will be created with just the contents of
+`component-folder` from the feature-branch changes.
+
+    *   e01009e  (main)
+    |
+    | * ce4ca64  (feature-branch-extracted)
+    | |  component-folder/1 | 20 +
+    | * f3bf092
+    | |  component-folder/1 | 20 +
+    * | 4b2ebd6
+    |/
+    |
+    | * d4c374e  (feature-branch)
+    | |  component-folder/1 | 20 +
+    | |  different-component-folder/2 | 100 -
+    | * 4724dbb
+    | |  component-folder/1 | 20 +
+    | |  different-component-folder/2 | 100 -
+    |/
+    * 927799f
+    * 219e9b2
+
+Collect and sum the `/spend <duration>` directives found in commit messages.
+
+    $ git spend sum
+    3 weeks 2 days 1 hour 37 minutes
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Remote Development / Diagnostics
+
+*   [live-share.nvim (⭐61)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+
+## [4. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### Email Marketing / Email Deliverability
 
 *   [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
 *   [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
 
-## [2. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [5. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Contributing
 
@@ -28,7 +89,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 In lieu of a formal style guide, take care to maintain the existing style of this list.
 
-## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / PHP
 
@@ -38,7 +99,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [yii-mongodb (⭐326)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
 *   [opentelemetry php auto-mongodb (⭐0)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
 
-## [4. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [7. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
@@ -46,19 +107,19 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [spark-connect-go (⭐145)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 *   [spark-connect-rs (⭐1)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
 
-## [5. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [8. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Models
 
 *   [django-auto-prefetch (⭐353)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
-## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Security
 
 *   [harpoon (⭐87)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
 
-## [7. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -72,7 +133,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -86,13 +147,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Heybounce](https://www.heybounce.io/) - Email verification API.
 
-## [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2023
 
 *   [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
 
-## [10. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [13. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Allocators and memory
 
@@ -110,7 +171,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [dbandstra/zig-pcx (⭐0)](https://github.com/dbandstra/zig-pcx) - PCX image format decoder and encoder.
 
-## [11. Topics](/content/selvaklnc/topics/week/README.md)
+## [14. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of blogs and websites
 
@@ -120,7 +181,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -169,7 +230,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Standard Webhooks (⭐1.3k) (⭐1.3k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Computer Organization and Architecture
 
@@ -179,7 +240,46 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
 
-## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Azure Reference Architectures** / Data processing
+
+*   Azure OpenAI Accelerator / Application
+    *   [An open-source template gallery](https://azure.github.io/awesome-azd/?tags=aicollection): 🏆AI template collection
+    *   [Azure-Cognitive-Search-Azure-OpenAI-Accelerator (⭐328)](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator) \[May 2023]
+    *   [Conversational-Azure-OpenAI-Accelerator (⭐63)](https://github.com/MSUSAzureAccelerators/Conversational-Azure-OpenAI-Accelerator) \[Feb 2022]
+    *   ChatGPT + Enterprise data RAG (Retrieval-Augmented Generation) Demo [git (⭐6k)](https://github.com/Azure-Samples/azure-search-openai-demo) 🏆 \[8 Feb 2023]
+    *   Azure OpenAI samples: [ref (⭐530)](https://github.com/Azure/azure-openai-samples) \[Apr 2023]
+    *   The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.: [ref (⭐1.1k)](https://github.com/Azure-Samples/openai) \[Apr 2023]
+    *   Azure-Samples [ref](https://github.com/Azure-Samples)
+        *   Azure OpenAI with AKS By Terraform: [git (⭐45)](https://github.com/Azure-Samples/aks-openai-terraform) \[Jun 2023]
+        *   Azure OpenAI with AKS By Bicep: [git (⭐28)](https://github.com/Azure-Samples/aks-openai) \[May 2023]
+        *   Enterprise Logging: [git (⭐176)](https://github.com/Azure-Samples/openai-python-enterprise-logging) \[Feb 2023] / [Setting up Azure OpenAI with Azure API Management (⭐81)](https://github.com/Azure/enterprise-azureai) \[Jan 2024]
+        *   Azure OpenAI with AKS by Terraform (simple version): [git (⭐49)](https://github.com/Azure-Samples/azure-openai-terraform-deployment-sample) \[May 2023]
+        *   ChatGPT Plugin Quickstart using Python and FastAPI: [git (⭐438)](https://github.com/Azure-Samples/openai-plugin-fastapi) \[May 2023]
+        *   GPT-Azure-Search-Engine: [git (⭐376)](https://github.com/pablomarin/GPT-Azure-Search-Engine) `Integration of Azure Bot Service with LangChain` \[Feb 2023]
+        *   Azure OpenAI Network Latency Test Script
+            : [git (⭐1)](https://github.com/wloryo/networkchatgpt/blob/dc76f2264ff8c2a83392e6ae9ee2aaa55ca86f0e/openai_network_latencytest_nocsv_pub_v1.1.py) \[Jun 2023]
+        *   Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform [git (⭐131)](https://github.com/Azure-Samples/container-apps-openai/) \[Jul 2023]
+        *   [Azure SQL DB + AOAI (⭐65)](https://github.com/Azure-Samples/SQL-AI-samples) / [Smart load balancing for AOAI (⭐40)](https://github.com/Azure-Samples/openai-aca-lb) / [Azure Functions (C#) bindings for OpenAI (⭐74)](https://github.com/Azure/azure-functions-openai-extension) / [Microsoft Entra ID Authentication for AOAI (⭐29)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin) / [Azure OpenAI workshop (⭐479)](https://github.com/microsoft/OpenAIWorkshop) / [RAG for Azure Data (⭐119)](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) / [AI-Sentry (⭐13)](https://github.com/microsoft/ai-sentry): A lightweight, pluggable facade layer for AOAI
+    *   Azure Open AI work with Cognitive Search act as a Long-term memory
+        1.  [ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (⭐6k)](https://github.com/Azure-Samples/azure-search-openai-demo) \[Feb 2023]
+        2.  [Can ChatGPT work with your enterprise data?](https://www.youtube.com/watch?v=tW2EA4aZ_YQ) \[06 Apr 2023]
+        3.  [Azure OpenAI と Azure Cognitive Search の組み合わせを考える](https://qiita.com/nohanaga/items/59e07f5e00a4ced1e840) \[24 May 2023]
+    *   [AI-in-a-Box (⭐524)](https://github.com/Azure/AI-in-a-Box): AI-in-a-Box aims to provide an "Azure AI/ML Easy Button" for common scenarios \[Sep 2023]
+    *   [AI Samples for .NET (⭐268)](https://github.com/dotnet/ai-samples):  official .NET samples demonstrating how to use AI \[Feb 2024]
+    *   [OpenAI Official .NET Library (⭐1.2k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
+    *   [Smart Components (⭐694)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
+    *   [Prompt Buddy (⭐161)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
+    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
+    *   [ARGUS (⭐35)](https://github.com/Azure-Samples/ARGUS): Hybrid approach with Azure Document Intelligence combined and GPT4-Vision to get better results without any pre-training. \[Jun 2024]
+    *   [azure-llm-fine-tuning (⭐29)](https://github.com/Azure/azure-llm-fine-tuning): SLM/LLM Fine-tuning on Azure \[May 2024]
+    *   [OpenAI Chat Application with Microsoft Entra Authentication (⭐29)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin): Microsoft Entra ID for user authentication  \[May 2024]
+    *   [VoiceRAG (⭐31)](https://github.com/Azure-Samples/aisearch-openai-rag-audio): Voice Using Azure AI Search and the GPT-4o Realtime API for Audio [ref](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/voicerag-an-app-pattern-for-rag-voice-using-azure-ai-search-and/ba-p/4259116) \[Sep 2024]
+
+### **Semantic Kernel** / **Code Recipes**
+
+*   [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐7)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
 
 ### **OpenAI's Roadmap and Products** / **OpenAI Products**
 
@@ -199,13 +299,17 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Umar Jamil github](https://github.com/hkproj): Model explanation / building a model from scratch [youtube](https://www.youtube.com/@umarjamilai)
 
-## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars\_sim (⭐4)](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+### Resources / Talks and videos
+
+*   [Polars and time series | PyData 2024](https://www.youtube.com/watch?v=qz-zAHBz6Ks) ⏳ 29 min - A video that shows how to use Polars effectively for time series analysis iby [@MarcoGorelli](https://github.com/MarcoGorelli).
+
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Extensions
 
@@ -297,7 +401,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [20. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -315,13 +419,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [vite-plugin-remix-flat-routes (⭐1)](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
 
-## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [21. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [Tiniest Veb Server (⭐9)](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 
-## [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Community
 
@@ -384,7 +488,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](https://www.mjskay.com/papers/chi_2016_uncertain_bus.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐45)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -394,13 +498,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [Flyon UI](https://flyonui.com/)- The Easiest Components Library For Tailwind CSS.
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.8k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
 
-## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -418,7 +522,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   Phase Two (<https://phasetwo.io/>) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -428,7 +532,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [MPH (⭐164)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 
-## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Project Layout
 
@@ -442,13 +546,13 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [json-log-viewer (⭐85)](https://github.com/hedhyw/json-log-viewer) - Interactive viewer for JSON logs.
 
-## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   🧬 [Quantity Queries (⭐0)](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -475,7 +579,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -497,7 +601,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [CodegenCS (⭐248)](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 
-## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -515,7 +619,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
-## [29. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [32. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services / Misc
 
@@ -535,7 +639,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [WhoSentWhat](http://whosentwhat.com) - We bring email newsletters from inbox to web
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -616,6 +720,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 *   [ngx-flickering-grid (⭐0)](https://github.com/omnedia/ngx-flickering-grid) - A simple component library to create a container with an animated grid pattern background.
 *   [ngx-gridpattern (⭐3)](https://github.com/omnedia/ngx-gridpattern) - A simple component library to create a container with an pattern background.
 *   [ngx-retro-grid (⭐0)](https://github.com/omnedia/ngx-retro-grid) - This component creates a 3D perspective grid with customizable colors, rotation, and smooth animation, perfect for adding a nostalgic or futuristic visual effect to your application.
+*   [ngx-bottom-sheet (⭐2)](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
