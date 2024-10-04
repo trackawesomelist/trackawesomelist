@@ -14,7 +14,9 @@
 
 ### Services / Misc
 
+*   [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 *   [ForwardMX](https://forwardmx.net) - Premium email forwarding for your domain name.
+*   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
 
 ### Self-Hosted Services / Misc
 
@@ -136,7 +138,7 @@
 
 ### Inspirations / Misc
 
-*   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
+*   [TidyMails](http://tidymails.com/) - The Email Newsletters' Universe.
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
@@ -377,7 +379,7 @@
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 *   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy / Misc
+### Inspirations / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -538,7 +540,7 @@
 
 *   [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
 *   [Milled](http://milled.com/)
-*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
+*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 *   [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ### Testing / Misc

@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Oct 04, 2024](/content/2024/10/04/README.md)
+
+### Services / Misc
+
+*   [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
+*   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
+
 ## [Sep 30, 2024](/content/2024/09/30/README.md)
 
 ### Frameworks / React
@@ -143,7 +150,7 @@
 
 ### Inspirations / Misc
 
-*   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
+*   [TidyMails](http://tidymails.com/) - The Email Newsletters' Universe.
 
 ## [Aug 15, 2021](/content/2021/08/15/README.md)
 
@@ -396,7 +403,7 @@
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 *   [Postal (⭐15k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
-### Copy / Misc
+### Inspirations / Misc
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
@@ -562,7 +569,7 @@
 ### Inspirations / Misc
 
 *   [Really good emails](http://reallygoodemails.com/) - The Best Email Designs in the Universe.
-*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -The most effective email marketing campaigns from Campaign Monitor.
+*   [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) - The most effective email marketing campaigns from Campaign Monitor.
 *   [Htmlemaildesigns](http://htmlemaildesigns.com/) - Beautiful emails to help inspire your next email design.
 
 ### Testing / Misc

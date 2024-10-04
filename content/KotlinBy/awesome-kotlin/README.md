@@ -6,7 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Oct 02, 2024](/content/2024/10/02/README.md)
+## [Oct 04, 2024](/content/2024/10/04/README.md)
 
 ### Libraries/Frameworks / Extensions
 
