@@ -6,6 +6,25 @@ A curated list of awesome Dash (plotly) resources
 
 [ Daily / [Weekly](/content/ucg8j/awesome-dash/week/README.md) / [Overview](/content/ucg8j/awesome-dash/readme/README.md) ]
 
+## [Oct 05, 2024](/content/2024/10/05/README.md)
+
+### Deployment
+
+*   [Ploomber Cloud](https://ploomber.io) - The community plan allows free deployments
+
+### Component Libraries
+
+*   [Dash PDF (⭐13)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
+*   [Dash MUI (⭐8)](https://github.com/ploomber/dash-mui) - Material UI components
+*   [Dash React Simple Maps (⭐5)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
+*   [Dash Mosaic (⭐3)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐801)](https://github.com/uwdata/mosaic) plots
+*   [Dash Tabler Icons (⭐2)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
+*   [Dash React Syntax Highlighter (⭐1)](https://github.com/ploomber/dash-react-syntax-highlighter) - Display code snippets with a copy button
+
+### Contributors
+
+*   [Eduardo Blancas](https://github.com/edublancas)
+
 ## [Sep 26, 2024](/content/2024/09/26/README.md)
 
 ### Component Libraries

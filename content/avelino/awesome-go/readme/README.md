@@ -65,7 +65,7 @@ We use the *[Golang Bridge (⭐401)](https://github.com/gobridge/about-us/blob/m
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines (⭐129k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐129k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐130k)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors (⭐130k)](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 > *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -138,6 +138,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
     *   [Messaging](#messaging)
     *   [Microsoft Office](#microsoft-office)
         *   [Microsoft Excel](#microsoft-excel)
+        *   [Microsoft Word](#microsoft-word)
     *   [Miscellaneous](#miscellaneous)
         *   [Dependency Injection](#dependency-injection)
         *   [Project Layout](#project-layout)
@@ -157,6 +158,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
     *   [Package Management](#package-management)
     *   [Performance](#performance)
     *   [Query Language](#query-language)
+    *   [Reflection](#reflection)
     *   [Resource Embedding](#resource-embedding)
     *   [Science and Data Analysis](#science-and-data-analysis)
     *   [Security](#security)
@@ -422,8 +424,8 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
 *   [acmd (⭐115)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐604)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐316)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐850)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐321)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐861)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐17)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 *   [climax (⭐216)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐178)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
@@ -525,7 +527,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
 *   [nfigure (⭐7)](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 *   [onion (⭐116)](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 *   [piper (⭐8)](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation.
-*   [sonic (⭐6.7k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
+*   [sonic (⭐6.8k)](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
 *   [store (⭐273)](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 *   [swap (⭐8)](https://github.com/oblq/swap) - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 *   [typenv (⭐9)](https://github.com/diegomarangoni/typenv) - Minimalistic, zero dependency, typed environment variables library.
@@ -541,7 +543,7 @@ Please take a quick gander at the [contribution guidelines (⭐129k)](https://gi
 
 *Tools for help with continuous integration.*
 
-*   [abstruse (⭐934)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
+*   [abstruse (⭐937)](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 *   [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 *   [CDS (⭐4.6k)](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 *   [dot (⭐18)](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
@@ -815,7 +817,7 @@ additional ordered map implementations.
 *   [dbbench (⭐100)](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 *   [dg (⭐28)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 *   [dynago (⭐12)](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
-*   [gatewayd (⭐210)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐217)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 *   [go-mysql (⭐4.6k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [gorm-multitenancy (⭐39)](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
 *   [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
@@ -1269,8 +1271,7 @@ additional ordered map implementations.
 *   [generis (⭐43)](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 *   [go-enum (⭐729)](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 *   [go-linq (⭐3.5k)](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
-*   [goderive (⭐1.2k)](https://github.com/awalterschulze/goderive) - Derives functions from input types.
-*   [gotype (⭐61)](https://github.com/wzshiming/gotype) - Golang source code parsing, usage like reflect package.
+*   [goderive (⭐1.2k)](https://github.com/awalterschulze/goderive) - Derives functions from input types
 *   [goverter (⭐499)](https://github.com/jmattheis/goverter) - Generate converters by defining an interface.
 *   [GoWrap (⭐1.1k)](https://github.com/hexdigest/gowrap) - Generate decorators for Go interfaces using simple templates.
 *   [interfaces (⭐421)](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
@@ -1664,7 +1665,7 @@ additional ordered map implementations.
 *   [golinear (⭐45)](https://github.com/danieldk/golinear) - liblinear bindings for Go.
 *   [GoMind (⭐84)](https://github.com/surenderthakran/gomind) - A simplistic Neural Network Library in Go.
 *   [goml (⭐1.6k)](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
-*   [GoMLX (⭐259)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐270)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 *   [gonet (⭐82)](https://github.com/dathoangnd/gonet) - Neural Network for Go.
 *   [Goptuna (⭐256)](https://github.com/c-bata/goptuna) - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 *   [goRecommend (⭐204)](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.
@@ -1770,7 +1771,7 @@ additional ordered map implementations.
 
 *Libraries for working with Microsoft Word.*
 
-*   [godocx (⭐77)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
+*   [godocx (⭐81)](https://github.com/gomutex/godocx) - Library for reading and writing Microsoft Word (Docx) files.
 
 **[⬆ back to top](#contents)**
 
@@ -1872,7 +1873,6 @@ additional ordered map implementations.
 *   [go-openapi](https://github.com/go-openapi) - Collection of packages to parse and utilize open-api schemas.
 *   [go-resiliency (⭐2.2k)](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 *   [go-unarr (⭐280)](https://github.com/gen2brain/go-unarr) - Decompression library for RAR, TAR, ZIP and 7z archives.
-*   [goenum (⭐10)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
 *   [gofakeit (⭐4.5k)](https://github.com/brianvoe/gofakeit) - Random data generator written in go.
 *   [gommit (⭐113)](https://github.com/antham/gommit) - Analyze git commit messages to ensure they follow defined patterns.
 *   [gopsutil (⭐11k)](https://github.com/shirou/gopsutil) - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
@@ -2203,6 +2203,19 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 **[⬆ back to top](#contents)**
 
+## Reflection
+
+*   [copy (⭐48)](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
+*   [Deepcopier (⭐451)](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
+*   [go-deepcopy (⭐20)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
+*   [goenum (⭐10)](https://github.com/lvyahui8/goenum) - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
+*   [gotype (⭐61)](https://github.com/wzshiming/gotype) - Golang source code parsing, usage like reflect package.
+*   [gpath (⭐40)](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
+*   [objwalker (⭐2)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
+*   [reflectutils (⭐8)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
+
+**[⬆ back to top](#contents)**
+
 ## Resource Embedding
 
 *   [debme (⭐32)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
@@ -2253,7 +2266,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [pagerank (⭐83)](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go.
 *   [piecewiselinear (⭐26)](https://github.com/sgreben/piecewiselinear) - Tiny linear interpolation library.
 *   [PiHex (⭐20)](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi.
-*   [Poly (⭐666)](https://github.com/bebop/poly) - A Go package for engineering organisms.
+*   [Poly (⭐671)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 *   [rootfinding (⭐11)](https://github.com/khezen/rootfinding) - root-finding algorithms library for finding roots of quadratic functions.
 *   [sparse (⭐158)](https://github.com/james-bowman/sparse) - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
 *   [stats (⭐2.9k)](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
@@ -2408,7 +2421,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [raymond (⭐602)](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 *   [Razor (⭐857)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 *   [Soy (⭐172)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
-*   [sprout (⭐86)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
+*   [sprout (⭐87)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 *   [tbd (⭐25)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 *   [templ (⭐8k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
@@ -2506,13 +2519,13 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [timex (⭐70)](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
 *   [xgo (⭐330)](https://github.com/xhd2015/xgo) - A general pureposed function mocking library.
 
-## Fuzzing and delta-debugging/reducing/shrinking
+### Fuzzing and delta-debugging/reducing/shrinking
 
 *   [go-fuzz (⭐4.8k)](https://github.com/dvyukov/go-fuzz) - Randomized testing system.
 *   [gofuzz (⭐1.5k)](https://github.com/google/gofuzz) - Library for populating go objects with random values.
 *   [Tavor (⭐245)](https://github.com/zimmski/tavor) - Generic fuzzing and delta-debugging framework.
 
-## Selenium and browser control tools
+### Selenium and browser control tools
 
 *   [cdp (⭐722)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 *   [chromedp (⭐11k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
@@ -2762,7 +2775,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [config-file-validator (⭐324)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
 *   [contextplus (⭐16)](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 *   [cookie (⭐110)](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
-*   [copy (⭐48)](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
 *   [copy-pasta (⭐50)](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 *   [countries (⭐397)](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
 *   [countries (⭐88)](https://github.com/pioz/countries) - All you need when you are working with countries in Go.
@@ -2773,7 +2785,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [cvt (⭐48)](https://github.com/shockerli/cvt) - Easy and safe convert any value to another type.
 *   [dbt (⭐62)](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 *   [Death (⭐196)](https://github.com/vrecan/death) - Managing go application shutdown with signals.
-*   [Deepcopier (⭐451)](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 *   [delve (⭐632)](https://github.com/derekparker/delve) - Go debugger.
 *   [dive (⭐46k)](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 *   [dlog (⭐17)](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
@@ -2788,7 +2799,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [fzf (⭐64k)](https://github.com/junegunn/fzf) - Command-line fuzzy finder written in Go.
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐43)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
-*   [git-time-metric (⭐972)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-time-metric (⭐976)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 *   [gitbatch (⭐1.5k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐115)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 *   [go-actuator (⭐15)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
@@ -2829,7 +2840,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gostrutils (⭐45)](https://github.com/ik5/gostrutils) - Collections of string manipulation and conversion functions.
 *   [gotenv (⭐296)](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
 *   [goval (⭐154)](https://github.com/maja42/goval) - Evaluate arbitrary expressions in Go.
-*   [gpath (⭐40)](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
 *   [graterm (⭐26)](https://github.com/skovtunenko/graterm) - Provides primitives to perform ordered (sequential/concurrent) GRAceful TERMination (aka shutdown) in Go application.
 *   [grofer (⭐350)](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang!
 *   [gubrak (⭐481)](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
@@ -2868,19 +2878,17 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [netbug (⭐73)](https://github.com/e-dard/netbug) - Easy remote profiling of your services.
 *   [nfdump (⭐10)](https://github.com/chrispassas/nfdump) - Read nfdump netflow files.
 *   [nostromo (⭐142)](https://github.com/pokanop/nostromo) - CLI for building powerful aliases.
-*   [objwalker (⭐2)](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
 *   [okrun (⭐16)](https://github.com/xta/okrun) - go run error steamroller.
 *   [olaf (⭐6)](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.
 *   [onecache (⭐136)](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
 *   [panicparse (⭐3.5k)](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
 *   [pattern-match (⭐243)](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching library.
-*   [peco (⭐7.6k)](https://github.com/peco/peco) - Simplistic interactive filtering tool.
+*   [peco (⭐7.7k)](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 *   [pgo (⭐86)](https://github.com/arthurkushman/pgo) - Convenient functions for PHP community.
 *   [pm (⭐80)](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 *   [pointer (⭐43)](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
 *   [ptr (⭐27)](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
 *   [rclient (⭐35)](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
-*   [reflectutils (⭐8)](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
 *   [remote-touchpad (⭐514)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 *   [repeat (⭐86)](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
 *   [request (⭐426)](https://github.com/mozillazg/request) - Go HTTP Requests for Humans™.
@@ -3297,7 +3305,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### DevOps Tools
 
 *   [abbreviate (⭐219)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
-*   [alaz (⭐635)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐644)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 *   [aptly (⭐12)](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 *   [aurora (⭐597)](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 *   [awsenv (⭐34)](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.

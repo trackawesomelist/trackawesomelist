@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Oct 05, 2024](/content/2024/10/05/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
+
 ## [Sep 30, 2024](/content/2024/09/30/README.md)
 
 ### Plugins
@@ -52,7 +58,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐316)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐325)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐19)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [May 06, 2024](/content/2024/05/06/README.md)

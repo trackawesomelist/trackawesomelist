@@ -2,7 +2,7 @@
 
 A curated list of awesome jQuery plugins, resources and other shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-jquery/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 petk/awesome-jquery](https://github.com/petk/awesome-jquery) · ⭐ 842 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-jquery/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 petk/awesome-jquery](https://github.com/petk/awesome-jquery) · ⭐ 927 · 🏷️ Front-End Development
 
 [ [Daily](/content/petk/awesome-jquery/README.md) / [Weekly](/content/petk/awesome-jquery/week/README.md) / Overview ]
 
@@ -62,7 +62,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *   [Learning jQuery](https://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 *   [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 *   [Tuts+](https://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
-*   [jQuery guide for teams (⭐30)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
+*   [jQuery guide for teams (⭐32)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
 ### Tutorials
 
@@ -85,7 +85,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *   [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - A Sensible Introduction to Coding with JavaScript and jQuery, *by Nicholas Johnson*.
 *   [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/jquery) (PDF, mobi, epub) *(Registration required)*.
-*   [jQuery fundamentals (⭐186)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
+*   [jQuery fundamentals (⭐184)](https://github.com/bocoup/jqfundamentals.com) - Comfortable working through common problems you'll be called upon to solve using jQuery.
 
 #### Paid Books
 
@@ -113,7 +113,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *   [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
 *   [jQuery Source Viewer](https://j11y.io/jquery/) - Browser of jQuery method implementations.
 *   [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
-*   [TodoMVC (⭐28k)](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
+*   [TodoMVC (⭐29k)](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV\* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 *   [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 *   [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
 *   [HTML Tutorial by Scaler](https://www.scaler.com/topics/html/)
@@ -136,15 +136,15 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *   [Animsition (⭐3.8k)](https://github.com/blivesta/animsition/) - A simple and easy jQuery plugin for CSS animated page transitions.
 *   [fakeLoader.js (⭐721)](https://github.com/joaopereirawd/fakeLoader.js) - Lightweight plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-*   [Fullpage.js (⭐34k)](https://github.com/alvarotrigo/fullPage.js) - Create full screen pages fast and simple.
-*   [jQuery Transit (⭐7.4k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
-*   [Material Design Preloader!s (⭐375)](https://github.com/aarondo/Material-Preloader) - Recreation of the Material Design preloader.
+*   [Fullpage.js (⭐35k)](https://github.com/alvarotrigo/fullPage.js) - Create full screen pages fast and simple.
+*   [jQuery Transit (⭐7.3k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+*   [Material Design Preloader!s (⭐369)](https://github.com/aarondo/Material-Preloader) - Recreation of the Material Design preloader.
 *   [Midnight (⭐3.7k)](https://github.com/Aerolab/midnight.js) - Switches fixed headers on the fly.
 *   [Parallax.js (⭐3.5k)](https://github.com/pixelcog/parallax.js/) - Scrolling effect.
 *   [Scrollify (⭐1.8k)](https://github.com/lukehaas/Scrollify/) - Assists scrolling and snaps to sections. Touch optimised.
 *   [Waves (⭐3.5k)](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
-*   [jQuery DrawSVG (⭐759)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
-*   [jQuery Particles (⭐4.3k)](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
+*   [jQuery DrawSVG (⭐769)](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+*   [jQuery Particles (⭐7.6k)](https://github.com/matteobruni/tsparticles/tree/master/components/jquery) - A plugin to easily add Particles animations to your web application
 
 [Back to top](#awesome-jquery)
 
@@ -152,8 +152,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *WYSIWYG editors.*
 
-*   [Froala WYSIWYG HTML Editor (⭐5k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
-*   [Hallo (⭐2.5k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
+*   [Froala WYSIWYG HTML Editor (⭐5.3k)](https://github.com/froala/wysiwyg-editor) - jQuery WYSIWYG Rich Text Editor based on HTML5.
+*   [Hallo (⭐2.4k)](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI.
 *   [jQuery Notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.
 *   [jQuery TE](http://jqueryte.com/) - Lightweight HTML editor.
 *   [TinyMCE](https://www.tiny.cloud/) - Popular WYSIWYG editor with jQuery build and a jQuery integration plugin.
@@ -164,16 +164,16 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins for Forms, AJAX, validation.*
 
-*   [Bootstrap Multiselect (⭐3.6k)](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
+*   [Bootstrap Multiselect (⭐3.7k)](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 *   [File Upload (⭐31k)](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video.
-*   [Ideal Forms (⭐733)](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
+*   [Ideal Forms (⭐725)](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
 *   [jQuery Form Plugin (⭐5.2k)](https://github.com/jquery-form/form) - Easy and unobtrusive HTML forms upgrade to use AJAX.
-*   [jquery-minicolors (⭐953)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
-*   [Justified Gallery (⭐1.6k)](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
-*   [Labelauty (⭐906)](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
-*   [Payform (⭐418)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
+*   [jquery-minicolors (⭐959)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
+*   [Justified Gallery (⭐1.7k)](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
+*   [Labelauty (⭐884)](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
+*   [Payform (⭐427)](https://github.com/jondavidjohn/payform) - A library (with jQuery plugin) for building credit card forms, validating inputs, and formatting numbers.
 *   [Pickadate (⭐7.7k)](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight date & time input picker.
-*   [Select2 (⭐25k)](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
+*   [Select2 (⭐26k)](https://github.com/select2/select2) - Select box with support for searching, tagging, remote data sets, infinite scrolling.
 *   [selectize.js (⭐13k)](https://github.com/selectize/selectize.js/) - jQuery based hybrid of a textbox and \<select> box.
 
 [Back to top](#awesome-jquery)
@@ -182,26 +182,26 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins related to images, image manipulation, galleries, maps and charts.*
 
-*   [AnyChart-jQuery (⭐12)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
-*   [Arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
-*   [BackStretch (⭐4k)](https://github.com/jquery-backstretch/jquery-backstretch) - jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.
-*   [Chart.js (⭐59k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
+*   [AnyChart-jQuery (⭐13)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
+*   [Arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery.
+*   [BackStretch (⭐3.9k)](https://github.com/jquery-backstretch/jquery-backstretch) - jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element.
+*   [Chart.js (⭐65k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
 *   [Cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
 *   [Dense.js (⭐212)](https://github.com/gocom/dense) - Serving retina-ready, high pixel ratio images with ease.
-*   [Flot (⭐6k)](https://github.com/flot/flot) - Attractive charts.
-*   [Gridder (⭐454)](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
+*   [Flot (⭐5.9k)](https://github.com/flot/flot) - Attractive charts.
+*   [Gridder (⭐461)](https://github.com/oriongunning/gridder) - Displays a thumbnail grid expanding preview similar to the effect seen on Google Images.
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - Generate small sparkline charts.
-*   [jQuery.eraser (⭐326)](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
+*   [jQuery.eraser (⭐332)](https://github.com/boblemarin/jQuery.eraser) - Erasing image with mouse or touch movements.
 *   [jQuery Mapael (⭐1k)](https://github.com/neveldo/jQuery-Mapael) - Plugin based on raphael.js that allows you to display dynamic vector maps.
-*   [jQueryGantt (⭐2.1k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
-*   [jQuery Images Compare (⭐49)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
+*   [jQueryGantt (⭐2.2k)](https://github.com/robicch/jQueryGantt) - Gantt editor.
+*   [jQuery Images Compare (⭐61)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 *   [Nivo Slider (⭐1.2k)](https://github.com/Codeinwp/Nivo-Slider-jQuery) - Beautiful and easy to use image slider.
-*   [Owl Carousel 2 (⭐7.7k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
+*   [Owl Carousel 2 (⭐7.9k)](https://github.com/OwlCarousel2/OwlCarousel2) - Responsive carousel slider.
 *   [Slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 *   [Peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive \<svg> pie, donut, bar and line charts.
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
-*   [JQuery-linechart (⭐42)](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
+*   [JQuery-linechart](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
 
 [Back to top](#awesome-jquery)
 
@@ -210,13 +210,13 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Menus animation, usability enhancements and beautification.*
 
 *   [jQuery contextMenu (⭐2.2k)](https://github.com/swisnl/jQuery-contextMenu) - Management facility for context menus.
-*   [jPanelMenu (⭐928)](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
+*   [jPanelMenu (⭐922)](https://github.com/acolangelo/jPanelMenu) - Creates a paneled-style menu (like the type seen in the mobile versions of Facebook, Google and native iPhone applications).
 *   [jQuery-menu-aim (⭐7.7k)](https://github.com/kamens/jQuery-menu-aim) - Fires events when user's cursor aims at particular dropdown menu items.
 *   [mmenu (⭐2.6k)](https://github.com/FrDH/mmenu-js) - App look-alike on- and off-canvas menus with sliding submenus.
-*   [Multi-level push menu (⭐809)](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
+*   [Multi-level push menu (⭐804)](https://github.com/adgsm/multi-level-push-menu) - Allows endless nesting of navigation elements.
 *   [Slidebars (⭐1.5k)](https://github.com/adchsm/Slidebars) - jQuery framework for off-canvas menus and sidebars.
-*   [stickUp (⭐1.6k)](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
-*   [Superfish (⭐916)](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
+*   [stickUp (⭐1.5k)](https://github.com/LiranCohen/stickUp) - Sticks an element to the top of the browser window while scrolling past it, always keeping it in view.
+*   [Superfish (⭐913)](https://github.com/joeldbirch/superfish) - Adds usability enhancements to existing multi-level drop-down menus.
 *   [Yamm (⭐1.2k)](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
 [Back to top](#awesome-jquery)
@@ -225,17 +225,17 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins for modals (dialog box/popups), tooltips, and similar popup windows.*
 
-*   [animatedModal.js (⭐974)](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
+*   [animatedModal.js (⭐962)](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 *   [Avgrund (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
 *   [Bootstrap Modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
-*   [iziModal (⭐2.1k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-*   [jBox (⭐1.3k)](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
-*   [jQuery Modal (⭐2.5k)](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
-*   [jQuery Popup Overlay (⭐515)](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
-*   [Lightbox (⭐5.7k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
+*   [iziModal (⭐2.2k)](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+*   [jBox (⭐1.4k)](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
+*   [jQuery Modal (⭐2.6k)](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.
+*   [jQuery Popup Overlay (⭐508)](https://github.com/vast-engineering/jquery-popup-overlay) - Responsive and accessible modal windows and tooltips.
+*   [Lightbox (⭐6.2k)](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
 *   [Magnific Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Fast, light and responsive lightbox plugin.
 *   [SweetAlert (⭐22k)](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's alert.
-*   [tipso (⭐324)](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
+*   [tipso (⭐319)](https://github.com/object505/tipso) - A Lightweight Responsive jQuery Tooltip Plugin.
 *   [vex (⭐6.9k)](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
 [Back to top](#awesome-jquery)
@@ -244,7 +244,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Grid plugins and plugins for creating and showcasing data in form of tables.*
 
-*   [Bootgrid (⭐978)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
+*   [Bootgrid (⭐972)](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
 *   [Bootstrap table](https://bootstrap-table.com/) - A powerful table control designed for bootstrap.
 *   [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 *   [FancyGrid](https://fancygrid.com/) - JavaScript grid library with charts integration and server communication.
@@ -252,13 +252,13 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *   [FloatThead (⭐1.2k)](https://github.com/mkoryak/floatThead) - Sticky headers. Supports responsive, window and overflow scrolling.
 *   [FooTable (⭐2.1k)](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
 *   [Isotope (⭐11k)](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
-*   [HighchartTable (⭐272)](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
+*   [HighchartTable (⭐270)](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
 *   [jqGrid (⭐2.8k)](https://github.com/tonytomov/jqGrid) - Grid plugin.
-*   [jQuery treetable (⭐735)](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
+*   [jQuery treetable (⭐739)](https://github.com/ludo/jquery-treetable) - Show a tree structure in a table.
 *   [jsGrid (⭐1.5k)](https://github.com/tabalinas/jsgrid) - Lightweight grid plugin.
 *   [Stackable.js (⭐1k)](https://github.com/johnpolacek/stacktable.js/) - Stacking tables on small screens.
-*   [Stupid Table Sort (⭐710)](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
-*   [tableExport.jquery.plugin (⭐903)](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
+*   [Stupid Table Sort (⭐709)](https://github.com/joequery/Stupid-Table-Plugin) - A stupidly small and simple jQuery table sorter plugin.
+*   [tableExport.jquery.plugin (⭐984)](https://github.com/hhurz/tableExport.jquery.plugin) - Export HTML table to JSON, XML, CSV, TXT, SQL, Word, Excel, PNG or PDF.
 *   [jquery.table-shrinker (⭐29)](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
 
 [Back to top](#awesome-jquery)
@@ -267,7 +267,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins for handling, manipulating or formating time and date.*
 
-*   [jQuery Timer Plugin (⭐290)](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
+*   [jQuery Timer Plugin (⭐294)](https://github.com/walmik/timer.jquery) - Start/Stop/Resume/Remove pretty timer inside any HTML element.
 *   [Timeago (⭐3.8k)](https://github.com/rmm5t/jquery-timeago) - Easy support of automatic updating fuzzy timestamps (e.g. "4 minutes ago").
 
 [Back to top](#awesome-jquery)
@@ -276,9 +276,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Internationalization (i18n) and localization (l10n).*
 
-*   [i18n properties (⭐405)](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
-*   [jquery.i18n (⭐640)](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
-*   [jquery.localize.js (⭐470)](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
+*   [i18n properties (⭐428)](https://github.com/jquery-i18n-properties/jquery-i18n-properties) - Lightweight plugin for providing internationalization to JavaScript from [.properties](https://en.wikipedia.org/wiki/.properties) files
+*   [jquery.i18n (⭐701)](https://github.com/wikimedia/jquery.i18n) - jQuery based Javascript internationalization library for easy internationalization of web application
+*   [jquery.localize.js (⭐465)](https://github.com/coderifous/jquery-localize) - Easy internationalization of your static web site
 
 [Back to top](#awesome-jquery)
 
@@ -287,8 +287,8 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Validation plugins.*
 
 *   [FormValidation](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
-*   [h5Validate (⭐587)](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
-*   [jQuery Form Validator (⭐978)](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
+*   [h5Validate (⭐576)](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
+*   [jQuery Form Validator (⭐972)](https://github.com/victorjonsson/jQuery-Form-Validator/) - Validate user input while keeping your HTML markup clean from JavaScript code.
 *   [jquery-validation (⭐10k)](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 *   [jQuery.validationEngine (⭐2.6k)](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 *   [jQuery-form-validation (⭐33)](https://github.com/bnabriss/jquery-form-validation) - Validatie html forms using Laravel syntax.
@@ -305,7 +305,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *   [Slugify (⭐87)](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 *   [Readmore.js (⭐1.5k)](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 *   [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
-*   [autoNumberic (⭐1.7k)](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
+*   [autoNumberic (⭐1.8k)](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
 [Back to top](#awesome-jquery)
 
@@ -314,7 +314,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Mobile section.*
 
 *   [jQuery mobile](http://jquerymobile.com/) - Lightweight framework for building mobile web apps with HTML5.
-*   [Interdimensional (⭐338)](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
+*   [Interdimensional (⭐336)](https://github.com/VodkaBears/Interdimensional) - Spatial scrolling on mobile devices for your web pages.
 *   [OhSnap!.js (⭐280)](https://github.com/justindomingue/ohSnap) - A simple jQuery/Zepto notification library designed to be used in mobile apps.
 
 [Back to top](#awesome-jquery)
@@ -323,11 +323,12 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *User Interface section.*
 
-*   [Dragula (⭐21k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
+*   [Dragula (⭐22k)](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 *   [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
-*   [jQuery Enhanced Splitter (⭐28)](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
-*   [tabulous.js (⭐557)](https://github.com/aarondo/tabulous.js) - Tabs for todays web
+*   [jQuery Enhanced Splitter (⭐30)](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
+*   [tabulous.js (⭐545)](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 *   [X-editable (⭐6.5k)](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
+*   [macon (⭐3)](https://github.com/LoganTann/macon) - Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.
 
 [Back to top](#awesome-jquery)
 
@@ -349,11 +350,11 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     *   [cheerio](https://cheerio.js.org/) - jQuery for server-side manipulations. It makes possible to construct jQuery instance from HTML string then query and manipulate it. Does not implement ajax and effects API.
 *   PHP:
     *   [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
-    *   [symfony-collection (⭐450)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
+    *   [symfony-collection (⭐444)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 *   Python:
     *   [django-static-jquery](https://pypi.org/project/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
 *   Ruby:
-    *   [jquery-rails (⭐935)](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
+    *   [jquery-rails (⭐948)](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
     *   [jquery-ui-rails (⭐1.1k)](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 [Back to top](#awesome-jquery)
@@ -378,7 +379,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Alternative implementations of jQuery API.*
 
-*   [cash (⭐6k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
+*   [cash (⭐6.5k)](https://github.com/kenwheeler/cash) - small jQuery alternative for modern browsers. Includes all API with deliberate exception for ajax.
 *   [Zepto](https://zeptojs.com/) - small jQuery alternative, which includes ajax, effects and additional utilities.
 *   [jBone](http://jbone.js.org/) - jQuery implementation to use with Backbone. Supports only subset of API which is required for Backbone to work. Can be a byte-saver if you don't intend to use jQuery directly, but have Backbone in your project.
 
@@ -387,14 +388,14 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 ## Looking for more lists like this?
 
 *   Awesome lists:
-    *   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - Awesome lists
-    *   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) - Awesome lists
-    *   [emijrp/awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome) - Awesome lists
-    *   [erichs/awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) - Awesome lists
+    *   [awesome (⭐326k)](https://github.com/sindresorhus/awesome) - Awesome lists
+    *   [awesome-all (⭐207)](https://github.com/bradoyler/awesome-all) - Awesome lists
+    *   [emijrp/awesome-awesome (⭐2.8k)](https://github.com/emijrp/awesome-awesome) - Awesome lists
+    *   [erichs/awesome-awesome (⭐272)](https://github.com/erichs/awesome-awesome) - Awesome lists
     *   [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
-    *   [lists (⭐8.5k)](https://github.com/jnv/lists) - Awesome lists
-*   [awesome-javascript (⭐29k)](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
-*   [awesome-javascript-books (⭐124)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
+    *   [lists (⭐9.9k)](https://github.com/jnv/lists) - Awesome lists
+*   [awesome-javascript (⭐33k)](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
+*   [awesome-javascript-books (⭐126)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 *   [js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 *   Translations:
     *   [Chinese (⭐11)](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
@@ -403,7 +404,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 ## Contributing and License
 
-You are most welcome to [contribute](https://github.com/petk/awesome-jquery/blob/master/README.md/CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors (⭐841)](https://github.com/petk/awesome-jquery/graphs/contributors) who have helped to build this list.
+You are most welcome to [contribute](https://github.com/petk/awesome-jquery/blob/master/README.md/CONTRIBUTING.md) to this awesome jQuery list as well. Big thanks to all [contributors (⭐927)](https://github.com/petk/awesome-jquery/graphs/contributors) who have helped to build this list.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 

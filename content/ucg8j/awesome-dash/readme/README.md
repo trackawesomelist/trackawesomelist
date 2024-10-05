@@ -19,6 +19,7 @@ A curated list of awesome Dash (plotly) resources
 
 ## Contents
 
+*   [Deployment](#deployment)
 *   [Tutorials](#tutorials)
 *   [Component Libraries](#component-libraries)
 *   [App Examples](#app-examples)
@@ -29,6 +30,10 @@ A curated list of awesome Dash (plotly) resources
 *   [Books](#books)
 *   [Community](#community)
 *   [Contributors](#contributors)
+
+## Deployment
+
+*   [Ploomber Cloud](https://ploomber.io) - The community plan allows free deployments
 
 ## Tutorials
 
@@ -54,6 +59,12 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 
+*   [Dash PDF (⭐13)](https://github.com/ploomber/dash-pdf) - Display inline PDFs
+*   [Dash MUI (⭐8)](https://github.com/ploomber/dash-mui) - Material UI components
+*   [Dash React Simple Maps (⭐5)](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
+*   [Dash Mosaic (⭐3)](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic (⭐801)](https://github.com/uwdata/mosaic) plots
+*   [Dash Tabler Icons (⭐2)](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
+*   [Dash React Syntax Highlighter (⭐1)](https://github.com/ploomber/dash-react-syntax-highlighter) - Display code snippets with a copy button
 *   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 *   [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
 *   [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
@@ -138,6 +149,7 @@ A curated list of awesome Dash (plotly) resources
 *   [vaexio](https://github.com/vaexio)
 *   [Fanchao MENG](https://github.com/pingf)
 *   [Snehil Vijay](https://github.com/snehilvj)
+*   [Eduardo Blancas](https://github.com/edublancas)
 
 ## License
 

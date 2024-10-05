@@ -12,6 +12,10 @@
 
 *   🧬 [Quantity Queries (⭐0)](https://github.com/skttl/tailwindcss-quantity-queries) - Adds variants for using quantity queries.
 
+### UI Libraries, Components & Templates
+
+*   📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### IDE Extensions
@@ -45,7 +49,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐316)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐325)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐19)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [May 06 - May 12, 2024](/content/2024/19/README.md)
