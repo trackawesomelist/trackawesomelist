@@ -6,6 +6,12 @@ A curated list of awesome TikZ documentations, libraries and resources
 
 [ [Daily](/content/xiaohanyu/awesome-tikz/README.md) / Weekly / [Overview](/content/xiaohanyu/awesome-tikz/readme/README.md) ]
 
+## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
+
+### Tools / PGFPlots
+
+*   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
+
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Gallery / PGFPlots
@@ -32,8 +38,8 @@ A curated list of awesome TikZ documentations, libraries and resources
 
 ### Gallery / PGFPlots
 
-*   [LatexDiagrams (⭐188)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
-*   [tikz-network (⭐325)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+*   [LatexDiagrams (⭐190)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+*   [tikz-network (⭐326)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 
 ### Tools / PGFPlots
 
@@ -57,7 +63,7 @@ A curated list of awesome TikZ documentations, libraries and resources
 
 ### Gallery / PGFPlots
 
-*   [alemelis/tikz\_drawings (⭐53)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
+*   [alemelis/tikz\_drawings (⭐54)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -96,7 +102,7 @@ A curated list of awesome TikZ documentations, libraries and resources
 ### Gallery / PGFPlots
 
 *   [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
-*   [walmes/Tikz (⭐442)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
+*   [walmes/Tikz (⭐444)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
 *   [MartinThoma/LaTeX-examples (⭐1.6k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
 *   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
 *   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
@@ -105,7 +111,7 @@ A curated list of awesome TikZ documentations, libraries and resources
 ### Tools / PGFPlots
 
 *   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
-*   [ktikz (⭐348)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
+*   [ktikz (⭐350)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 *   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
 *   [matlab2tikz (⭐1.6k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 *   [matplotlib2tikz (⭐2.4k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.

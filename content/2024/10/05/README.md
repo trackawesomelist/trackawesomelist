@@ -1,43 +1,61 @@
 # Awesome List Updates on Oct 05, 2024
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Theory of Mind / AI Assisted Research
+
+*   [Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities](https://escholarship.org/uc/item/2j53v5nv) - ***CogSci'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=902767361177896884)]. This work eveloped a comprehensive theoretical framework for social dynamics and introduced two evaluation tasks: Inverse Reasoning (IR) and Inverse Inverse Planning (IIP). The approach also encompassed a computational model based on recursive Bayesian inference, adept at elucidating diverse human behavioral patterns. Extensive experiments and detailed analyses revealed that humans surpassed the latest GPT models in overall performance, zero-shot learning, one-shot generalization, and adaptability to multi-modalities.
+
+## [2. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+
+### Tools / PGFPlots
+
+*   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+### 2D / Godot 3.2+
+
+*   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Reflection
 
 *   [go-deepcopy (⭐20)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
 
-## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Development / Engines
 
 *   [iR Engine (⭐14)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 
 *   [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213)
 *   [Generative AI Can Harm Learning by Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
 
-## [5. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### UI / Paid Books
 
 *   [macon (⭐3)](https://github.com/LoganTann/macon) - Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -55,7 +73,7 @@
 
 *   [ngx-copypaste (⭐26)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
-## [7. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [10. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Deployment
 
