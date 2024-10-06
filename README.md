@@ -54,17 +54,36 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Shaker (⭐241)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
-#### [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / System tools
-
-*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
-
-#### [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Summarizer
 
 *   [ChatPulse](https://chatpulse.dev) -ChatPulse allows you to have conversations with any PDF document. Simply upload your file and start asking questions right away!. `#freemium`
+
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Critical Views about Generative AI
+
+*   [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/)
+
+##### Generative AI Tools Directories
+
+*   [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
+
+##### Podcast generators / Deforum
+
+*   [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
+*   [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
+
+#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Games
+
+*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+
+##### Applications / System tools
+
+*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
 
 ### [Oct 05, 2024](/content/2024/10/05/README.md)
 
@@ -101,38 +120,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   📚🧩[Flyon UI](https://flyonui.com/) - Open-source components library for Tailwind CSS.
 
-#### [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Critical Views about Generative AI
-
-*   [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213)
-*   [Generative AI Can Harm Learning by Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
-
-#### [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Development / Engines
 
 *   [iR Engine (⭐14)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
-#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Reflection
 
 *   [go-deepcopy (⭐20)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
 
-#### [7. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+#### [6. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ##### Tools / PGFPlots
 
 *   [TikZiT](https://tikzit.github.io/) - A GUI editor designed for graphs and string diagrams.
 
-#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Theory of Mind / AI Assisted Research
 
 *   [Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities](https://escholarship.org/uc/item/2j53v5nv) - ***CogSci'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=902767361177896884)]. This work eveloped a comprehensive theoretical framework for social dynamics and introduced two evaluation tasks: Inverse Reasoning (IR) and Inverse Inverse Planning (IIP). The approach also encompassed a computational model based on recursive Bayesian inference, adept at elucidating diverse human behavioral patterns. Extensive experiments and detailed analyses revealed that humans surpassed the latest GPT models in overall performance, zero-shot learning, one-shot generalization, and adaptability to multi-modalities.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -150,11 +162,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-copypaste (⭐26)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
-#### [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### 2D / Godot 3.2+
 
 *   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
+
+#### [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Critical Views about Generative AI
+
+*   [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213)
+*   [Generative AI Can Harm Learning by Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 
 ### [Oct 04, 2024](/content/2024/10/04/README.md)
 
@@ -167,13 +186,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Resend](https://resend.com/) - Build, test, and send transactional emails at scale.
 *   [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails.
 
-#### [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Remote Development / Diagnostics
-
-*   [live-share.nvim (⭐61)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
-
-#### [3. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+#### [2. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ##### [git-exfiltrate](https://github.com/Incognito/git-exfiltrator)
 
@@ -222,19 +235,19 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
     $ git spend sum
     3 weeks 2 days 1 hour 37 minutes
 
-#### [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Data Validation / Synthetic Data
 
 *   [DataComPy (⭐470)](https://github.com/capitalone/datacompy)- A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
-#### [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [4. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Talks and videos
 
 *   [Polars and time series | PyData 2024](https://www.youtube.com/watch?v=qz-zAHBz6Ks) ⏳ 29 min - A video that shows how to use Polars effectively for time series analysis iby [@MarcoGorelli](https://github.com/MarcoGorelli).
 
-#### [6. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **Azure Reference Architectures** / Data processing
 
@@ -275,7 +288,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐7)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
 
-#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -289,7 +302,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [ngx-bottom-sheet (⭐2)](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
 
-#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Graphics
 
@@ -373,6 +386,12 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Remote Development / Diagnostics
+
+*   [live-share.nvim (⭐61)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+
 ---
 
 - Next: [Oct 03, 2024](&#x2F;content&#x2F;2024&#x2F;10&#x2F;03&#x2F;README.md)
@@ -412,7 +431,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 31. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 20K 📝 09&#x2F;18 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 32. [Learn to Program](/content/karlhorky/learn-to-program/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;03 ](https://github.com/karlhorky/learn-to-program)) - Educational resources to learn to program (Foundation in Web Development)
 33. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.2K 📝 10&#x2F;03 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-34. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.4K 📝 10&#x2F;05 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+34. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.4K 📝 10&#x2F;06 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
 35. [Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;04 ](https://github.com/krzjoa/awesome-python-data-science)) - Probably the best curated list of data science software in Python.
 36. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 13K 📝 09&#x2F;17 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 37. [Awesome Emails](/content/jonathandion/awesome-emails/README.md) - ([Source ⭐ 2.4K 📝 10&#x2F;04 ](https://github.com/jonathandion/awesome-emails)) - ✉️ An awesome list of resources to build better emails.
@@ -887,7 +906,7 @@ Collect and sum the `/spend <duration>` directives found in commit messages.
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 93, 📝 23&#x2F;07&#x2F;23 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.3K, 📝 23&#x2F;07&#x2F;14 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 22&#x2F;09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.4K, 📝 10&#x2F;05 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.4K, 📝 10&#x2F;06 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;12 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.9K, 📝 10&#x2F;04 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md) - ([Source ⭐ 244, 📝 09&#x2F;15 ](https://github.com/MyHoneyBadger/awesome-github-wiki)) - :neckbeard: Awesome list GitHub Wikis

@@ -6,6 +6,21 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Oct 06, 2024](/content/2024/10/06/README.md)
+
+### Critical Views about Generative AI
+
+*   [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/)
+
+### Generative AI Tools Directories
+
+*   [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
+
+### Podcast generators / Deforum
+
+*   [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
+*   [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
+
 ## [Oct 05, 2024](/content/2024/10/05/README.md)
 
 ### Critical Views about Generative AI
@@ -123,7 +138,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering
 
-*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐5k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐5.5k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 
 ## [Aug 21, 2024](/content/2024/08/21/README.md)
 
@@ -154,13 +169,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The FLUX.1 family of models – Replicate](https://replicate.com/collections/flux)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Parler-TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c): fully open-source high-quality TTS
 
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 
@@ -175,7 +190,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering
 
-*   [ncwilson78/System-Prompt-Library (⭐46)](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
+*   [ncwilson78/System-Prompt-Library (⭐55)](https://github.com/ncwilson78/System-Prompt-Library): A library of shared system prompts for creating customized educational GPT agents.
 
 ## [Jul 17, 2024](/content/2024/07/17/README.md)
 
@@ -219,9 +234,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Story Generator (Advance Options)](https://aistorygenerator.chat/) Create Unique and Engaging Stories Instantly with Customized Tone, Genre, and Narration.
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
-*   [p0n1/epub\_to\_audiobook (⭐1k)](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
+*   [p0n1/epub\_to\_audiobook (⭐1.1k)](https://github.com/p0n1/epub_to_audiobook): EPUB to audiobook converter, optimized for Audiobookshelf
 
 ## [Jul 10, 2024](/content/2024/07/10/README.md)
 
@@ -231,7 +246,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [LLM Benchmarks: MMLU, HellaSwag, BBH, and Beyond - Confident AI](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
 *   [LLM Leaderboards](https://llm.extractum.io/static/llm-leaderboards/)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Introducing Universal-1](https://www.assemblyai.com/blog/announcing-universal-1-speech-recognition-model/): multilingual speech-to-text
 
@@ -251,7 +266,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses
 *   [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
-*   [GPT Mobile (⭐127)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+*   [GPT Mobile (⭐135)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 
 ### AI Tools for Research / Multi-agents
 
@@ -290,7 +305,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [POTO.AI](https://poto.ai/): Finetune Stable Difussion model as AI Photographer to generate headshots, portrait and couple wedding photos
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
 *   [\[2406.09403\] Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403)
@@ -318,7 +333,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [ragapp/ragapp (⭐3.2k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
+*   [ragapp/ragapp (⭐3.6k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 
 ## [May 17, 2024](/content/2024/05/17/README.md)
 
@@ -347,7 +362,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Multi-agents
 
-*   [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment (⭐1.9k)](https://github.com/ToTheBeginning/PuLID)
+*   [ToTheBeginning/PuLID: Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment (⭐2.1k)](https://github.com/ToTheBeginning/PuLID)
 *   [Edit Your Image](https://huggingface.co/collections/ysharma/edit-your-image-662be093bf97b697957c3c3f): Find all the trending and useful Gradio demos that you can use to edit your images
 
 ## [May 07, 2024](/content/2024/05/07/README.md)
@@ -456,9 +471,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Composum AI (⭐2)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [Co-Developer GPT engine (⭐8)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
+*   [Co-Developer GPT engine (⭐11)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 ## [Apr 03, 2024](/content/2024/04/03/README.md)
 
@@ -521,14 +536,14 @@ A curated list of Generative AI tools, works, models, and references
 ### Small Language Models
 
 *   [\[2402.17764\] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
-*   [mbzuai-oryx/MobiLlama (⭐587)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
+*   [mbzuai-oryx/MobiLlama (⭐590)](https://github.com/mbzuai-oryx/MobiLlama): Small Language Model tailored for edge devices
 
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
 ### Prompt Engineering / Prompt Optimizers
 
 *   \[🔥🔥🔥] [stanfordnlp/dspy (⭐17k)](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming — not prompting — foundation models
-*   [vaibkumr/prompt-optimizer (⭐230)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
+*   [vaibkumr/prompt-optimizer (⭐235)](https://github.com/vaibkumr/prompt-optimizer): Minimize LLM token complexity to save API costs and model computations.
 *   [PromptPerfect](https://promptperfect.jina.ai/): "Optimize Your Prompts to Perfection"
 
 ### Auxiliary tools and concepts / Deforum
@@ -547,7 +562,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI Story Generate](https://aistorygenerate.com): Generate stories using LLM with custom emotion, genre, and word count.
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [ggerganov/whisper.cpp (⭐35k)](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. It can be executed locally.
 *   [Good Tape](https://goodtape.io/): paid service for transcription
@@ -580,7 +595,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
@@ -720,7 +735,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Large Language Models (LLMs)
 
 *   [LLM Visualization](https://bbycroft.net/llm)
-*   [GoogleCloudPlatform/generative-ai (⭐6.8k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
+*   [GoogleCloudPlatform/generative-ai (⭐7k)](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -746,7 +761,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [\[2312.00752\] Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752): alternative to Transformer architecture.
 *   [Mamba: A shallow dive into a new architecture for LLMs | by Geronimo (@geronimo7) | Dec, 2023 | Medium](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957)
-*   [Mamba-Chat (⭐897)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
+*   [Mamba-Chat (⭐903)](https://github.com/havenhq/mamba-chat): A chat LLM based on the state-space model architecture
 
 ### Running LLMs Locally / Prompt Engineering for Text-to-image
 
@@ -802,17 +817,17 @@ A curated list of Generative AI tools, works, models, and references
 *   [SDV (Stable Diffusion Image To Video)](https://twitter.com/stevemills/status/1727898404787986873?s=46\&t=CQsRDjHr9sNtph3xC84hXQ): generates 3 seconds of video in about 30 seconds using an A100 GPU on Colab+.
 *   [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [shashikg/WhisperS2T (⭐279)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
+*   [shashikg/WhisperS2T (⭐289)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
 *   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-*   [codefuse-ai/Awesome-Code-LLM (⭐1.4k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+*   [codefuse-ai/Awesome-Code-LLM (⭐1.5k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
 
 ### Multimodal Embedding Space / Deforum
 
 *   [Ego-Exo4D](https://ai.meta.com/blog/ego-exo4d-video-learning-perception/): a foundational dataset by Meta for research on video learning and multimodal perception [Dataset Download](https://ego-exo4d-data.org/)
 *   [Carolina](https://sites.usp.br/corpuscarolina/corpus/): General Corpus of Contemporary Brazilian Portuguese with provenance and typology information - Corpus Geral do Português Brasileiro Contemporâneo
-*   [gabolsgabs/DALI (⭐347)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
+*   [gabolsgabs/DALI (⭐348)](https://github.com/gabolsgabs/DALI): a large Dataset of synchronised Audio, LyrIcs and vocal notes
 
 ### Interesting GitHub Repositories / Deforum
 
@@ -831,7 +846,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Dimension reduction techniques / Deforum
 
 *   [Why you should use Topological Data Analysis over t-SNE or UMAP?](https://datarefiner.com/feed/why-tda)
-*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐507)](https://github.com/YingfanWang/PaCMAP)
+*   [YingfanWang/PaCMAP: PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure (⭐514)](https://github.com/YingfanWang/PaCMAP)
 *   [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://arxiv.org/abs/1802.03426)
 *   [Visualizing Data using t-SNE](https://jmlr.org/papers/v9/vandermaaten08a.html)
 
@@ -875,7 +890,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Adversarial Attacks on LLMs | Lil'Log](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 *   [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 *   [Attacking Large Language Models](https://systemweakness.com/attacking-large-language-models-37229085d4ff): an overview of the current attack techniques on LLMs by Marcello Carboni
-*   [corca-ai/awesome-llm-security (⭐875)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
+*   [corca-ai/awesome-llm-security (⭐893)](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security.
 *   [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial): a list of adversarial prompts attacks by Prompt Engineering Guide
 
 ## [Nov 28, 2023](/content/2023/11/28/README.md)
@@ -1001,7 +1016,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [GPT4All](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 *   [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
-*   [ggerganov/llama.cpp (⭐65k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+*   [ggerganov/llama.cpp (⭐66k)](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
 
 ### GPTs and Assistant API / Prompt Engineering for Text-to-image
 
@@ -1011,7 +1026,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [vectara/hallucination-leaderboard (⭐1.2k)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [tldraw/draw-a-ui (⭐5.1k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
@@ -1056,9 +1071,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AILab-CVC/VideoCrafter (⭐4.5k)](https://github.com/ailab-cvc/videocrafter): Open Diffusion Models for High-Quality Video Generation
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [Vaibhavs10/insanely-fast-whisper (⭐7.4k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
+*   [Vaibhavs10/insanely-fast-whisper (⭐7.5k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
 *   [deepseek-ai/DeepSeek-Coder (⭐6.6k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
 *   [roboflow/awesome-openai-vision-api-experiments (⭐1.6k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
@@ -1200,12 +1215,12 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐17k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
+*   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐18k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐97)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [dssjon/biblos: biblos.app (⭐195)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
+*   [dssjon/biblos: biblos.app (⭐196)](https://github.com/dssjon/biblos): example of RAG architecture using semantic search and summarization for retrieving Bible passages
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -1346,7 +1361,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Behind the AI boom, an army of overseas workers in ‘digital sweatshops’ | The Washington Post](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/): Scale AI’s Remotasks workers in the Philippines cry foul over low pay
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [facebookresearch/seamless\_communication (⭐11k)](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 
@@ -1362,13 +1377,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 
 ## [Aug 24, 2023](/content/2023/08/24/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
 
@@ -1384,7 +1399,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Aug 17, 2023](/content/2023/08/17/README.md)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [The "Voice Cloning AIs" they never tell you about (and how they work)](https://www.youtube.com/watch?v=vhArHsfsLAQ): Youtube video by @bycloud summarizing the available technologies for voice cloning
 
@@ -1403,11 +1418,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [a16z-infra/ai-town (⭐7.4k)](https://github.com/a16z-infra/AI-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 *   [AI Town](https://www.convex.dev/ai-town): a virtual town where AI characters live, chat and socialize.
-*   [joonspk-research/generative\_agents - Generative Agents (⭐16k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
+*   [joonspk-research/generative\_agents - Generative Agents (⭐17k)](https://github.com/joonspk-research/generative_agents): code for interactive simulacra of human behavior [\[arxiv\]](https://arxiv.org/abs/2304.03442)
 
 ### LLMOps / Multi-agents
 
-*   [LLM App (⭐4.1k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
+*   [LLM App (⭐4.2k)](https://github.com/pathwaycom/llm-app): LLM App is a Python library that helps you build real-time AI-powered data pipelines with few lines of code.
 
 ### LangChain / Multi-agents
 
@@ -1443,7 +1458,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [geekan/MetaGPT (⭐44k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
@@ -1463,13 +1478,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [LeMUR](https://www.assemblyai.com/blog/lemur/): a single API, enabling developers to reason over their spoken data with a few lines of code
 
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
@@ -1501,7 +1516,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Transforming 2D Images into 3D with the AdaMPI AI Model](https://notes.aimodels.fyi/transforming-2d-images-into-3d-with-the-adampi-ai-model/): guide on how to use the AdaMPI AI model for creating 3D photos from 2D images
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Voice-Swap](https://www.voice-swap.ai/?ref=producthunt): transform vocals to match the style of a list of singers
 
@@ -1520,7 +1535,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
@@ -1540,7 +1555,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Remini - AI Photo Enhancer](https://remini.ai/): photo and video enhancer
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Shaunwei/RealChar (⭐6k)](https://github.com/Shaunwei/RealChar): AI Character/Companion in Realtime
 *   [UneeQ Digital Humans](https://www.digitalhumans.com/): 3D character lib synced
@@ -1578,7 +1593,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
 
@@ -1611,9 +1626,9 @@ A curated list of Generative AI tools, works, models, and references
 *   [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://www.imgupscaler.com/): "free, browser-based, with five credits per day" reference by nejcsusec.beehiiv.com
 *   [Why you should upscale your images](https://nejcsusec.beehiiv.com/p/upscale-images): comparing different tools
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [wolfia-app/gpt-code-search (⭐198)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [wolfia-app/gpt-code-search (⭐199)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
@@ -1652,7 +1667,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [SolidUI (⭐572)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
+*   [SolidUI (⭐573)](https://github.com/CloudOrc/SolidUI): AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing.
 
 ## [Jun 20, 2023](/content/2023/06/20/README.md)
 
@@ -1694,7 +1709,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Dedicated File for Inbox for GenAI + Dev (⭐2.4k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
 
@@ -1801,7 +1816,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [e2b-dev/e2b (⭐6.7k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
@@ -1819,7 +1834,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Prompt Engineering / Prompt Engineering for Text-to-text
 
-*   [brexhq/prompt-engineering (⭐8.3k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
+*   [brexhq/prompt-engineering (⭐8.4k)](https://github.com/brexhq/prompt-engineering): "Tips and tricks for working with Large Language Models like OpenAI's GPT-4"
 
 ## [May 12, 2023](/content/2023/05/12/README.md)
 
@@ -1853,7 +1868,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 
@@ -1875,7 +1890,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Multimodal Embedding Space / Deforum
 
-*   [facebookresearch/ImageBind (⭐8.2k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.3k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ## [May 09, 2023](/content/2023/05/09/README.md)
 
@@ -1889,7 +1904,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Nekton.ai](https://nekton.ai/): automate your workflows with AI
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [gventuri/pandas-ai (⭐13k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
@@ -1897,7 +1912,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Multi-agents
 
-*   [deep-floyd/IF (⭐7.6k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
+*   [deep-floyd/IF (⭐7.7k)](https://github.com/deep-floyd/IF): open-source text-to-image model with a high degree of photorealism and language understanding by Stability.AI
 
 ### Image Segmentation / Deforum
 
@@ -1915,7 +1930,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [hpcaitech/ColossalAI (⭐39k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 *   [microsoft/LoRA (⭐10k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
@@ -1979,9 +1994,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [pgosar/ChatGDB (⭐899)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [pgosar/ChatGDB (⭐900)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
 ## [Apr 07, 2023](/content/2023/04/07/README.md)
 
@@ -2013,7 +2028,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
@@ -2092,7 +2107,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [facebookresearch/faiss (⭐31k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 
@@ -2121,7 +2136,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### AI Tools for Searching / Multi-agents
 
-*   [whitead/paper-qa (⭐5.6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
+*   [whitead/paper-qa (⭐6k)](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations"
 
 ### Image Synthesis / Multi-agents
 
@@ -2237,7 +2252,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -2314,7 +2329,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [openai/openai-cookbook (⭐59k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
@@ -2377,11 +2392,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 
-### Inbox: Speech-to-text (STT) and spoken content analysis / Deforum
+### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
@@ -2399,7 +2414,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Segmentation / Deforum
 
-*   \[🔥] [dmarx/video-killed-the-radio-star (⭐196)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐197)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
 ### Artists and Artworks / Deforum
 
@@ -2422,11 +2437,11 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Papers Collection
 
-*   [dair-ai/ML-Papers-Explained (⭐7k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+*   [dair-ai/ML-Papers-Explained (⭐7.2k)](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
 
 ### Prompt Engineering
 
-*   [dair-ai/Prompt-Engineering-Guide (⭐48k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
+*   [dair-ai/Prompt-Engineering-Guide (⭐49k)](https://github.com/dair-ai/Prompt-Engineering-Guide): Guide and resources for prompt engineering
 
 ### AI Tools for Research / Multi-agents
 
@@ -2467,7 +2482,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
@@ -2527,13 +2542,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 
 ### Related Awesome Lists / Deforum
 
-*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐339)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐340)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -2550,7 +2565,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [neonbjb/tortoise-tts (⭐13k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
@@ -2616,7 +2631,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / Multi-agents
 
-*   [DETEXTIFY (⭐252)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
+*   [DETEXTIFY (⭐255)](https://github.com/iuliaturc/detextify): A Python library to remove unwanted pseudo-text from images generated by your favorite generative AI models (Stable Diffusion, Midjourney, DALL·E)
 
 ### Image Segmentation / Deforum
 
@@ -2626,7 +2641,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Segmentation / Deforum
 
-*   [THUDM/CogVideo (⭐7.5k)](https://github.com/THUDM/CogVideo): text-to-video generation
+*   [THUDM/CogVideo (⭐7.9k)](https://github.com/THUDM/CogVideo): text-to-video generation
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
 *   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
 *   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
@@ -2681,7 +2696,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899)
 *   [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction \[on] how Stable Diffusion works"
-*   \[🔥][johnowhitaker/tglcourse (⭐131)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
+*   \[🔥][johnowhitaker/tglcourse (⭐130)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)
 
 ### Inbox: Stable Diffusion / Multi-agents
 
@@ -2876,7 +2891,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Prompt Engineering and Zero-Shot/Few-Shot Learning \[Guide\] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
 *   [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
 
-### Inbox: Text-to-speech (TTS) and avatars / Deforum
+### Text-to-speech (TTS) and avatars / Deforum
 
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
@@ -2977,7 +2992,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
 *   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
-*   [GitHub - johnowhitaker/aiaiart (⭐564)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [GitHub - johnowhitaker/aiaiart (⭐565)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
 *   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
 
 ### Large Language Models (LLMs)
@@ -2997,7 +3012,7 @@ A curated list of Generative AI tools, works, models, and references
 *   \[🔥] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
 *   [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
 *   \[🔥] [yuval-alaluf/hyperstyle (⭐998)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
-*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐772)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐773)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 
 ### Inbox: Stable Diffusion / Multi-agents
 
@@ -3023,7 +3038,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Inbox: Stable Diffusion / Web UI for Stable Diffusion via Google Colab
 
-*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐140k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐141k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
 *   [GitHub - sd-webui/stable-diffusion-webui (⭐7.9k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
 *   [Stable\_Diffusion\_WebUi\_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt)
 
@@ -3207,7 +3222,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Image Synthesis / Multi-agents
 
-*   [mikaelalafriz/lucid-sonic-dreams (⭐771)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
+*   [mikaelalafriz/lucid-sonic-dreams (⭐770)](https://github.com/mikaelalafriz/lucid-sonic-dreams): syncs GAN-generated visuals to music
 
 ### Improving Google Colab experience / Deforum
 
@@ -3252,7 +3267,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Creative Uses of Generative AI Image Synthesis Tools / Deforum
 
-*   [AgaMiko/pixel\_character\_generator (⭐119)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐120)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Related Awesome Lists / Deforum
 

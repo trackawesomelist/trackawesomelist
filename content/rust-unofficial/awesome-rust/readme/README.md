@@ -344,6 +344,7 @@ See also [Games Made With Piston (⭐4.6k)](https://github.com/PistonDevelopers/
 *   [Thinkofname/rust-quake (⭐73)](https://github.com/Thinkofname/rust-quake) - Quake map renderer.
 *   [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - Single player typing test game written for the terminal
 *   [Veloren](https://gitlab.com/veloren/veloren) - An open world, open source multiplayer voxel RPG game currently in alpha development [![build badge](https://gitlab.com/veloren/veloren/badges/master/pipeline.svg)](https://gitlab.com/veloren/veloren/-/pipelines)
+*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 *   [Zone of Control (⭐378)](https://github.com/ozkriff/zoc) - A turn-based hexagonal strategy game
 
 ### Graphics

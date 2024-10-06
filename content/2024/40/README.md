@@ -622,6 +622,10 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 *   [valentinus (⭐6)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 
+### Applications / Games
+
+*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+
 ### Applications / System tools
 
 *   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
@@ -673,9 +677,14 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Critical Views about Generative AI
 
+*   [I am tired of AI | On Test Automation](https://www.ontestautomation.com/i-am-tired-of-ai/)
 *   [Critique of Generative AI Can Harm Learning Study Design  by Steffi Tan, Vaikunthan Rajaratnam :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4898213)
 *   [Generative AI Can Harm Learning by Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı, Rei Mariman :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 *   [I Taught for Most of My Career. I Quit Because of ChatGPT | TIME](https://time.com/7026050/chatgpt-quit-teaching-ai-essay/)
+
+### Generative AI Tools Directories
+
+*   [AI Presentation Makers](https://www.aipresentationmakers.com/): In-depth reviews of dozens of AI presentation makers
 
 ### Small Language Models
 
@@ -688,6 +697,11 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [NirDiamant/GenAI\_Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+
+### Podcast generators / Deforum
+
+*   [Google NotebookLM](https://notebooklm.google.com/): generate podcast episodes based on your uploaded references
+*   [Illuminate](https://illuminate.google.com/home?pli=1): transform your content into engaging AI‑generated audio discussions also by Google
 
 ## [39. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
