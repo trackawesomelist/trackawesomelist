@@ -16,6 +16,10 @@
 
 *   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
 
+### Misc
+
+*   [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### Mathematics

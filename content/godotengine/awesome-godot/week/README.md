@@ -12,6 +12,10 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 
+### Plugins and scripts / Godot 4.2+
+
+*   [Shaker (⭐241)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### 3D / Godot 4.3
@@ -131,7 +135,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
-### 2D / Godot 4.2
+### 2D / Godot 4.0+
 
 *   [Poder Solar (⭐50)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
@@ -161,7 +165,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
-### Projects / Godot 4.0
+### Projects / Godot 4.0+
 
 *   [GodSVG (⭐1.2k)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
 
@@ -214,7 +218,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
-### Projects / Godot 4.0
+### Projects / Godot 4.0+
 
 *   [Clipboard Narrator (⭐44)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
@@ -226,7 +230,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
-### 3D / Godot 3.2+
+### 3D / Godot 4.2
 
 *   [Tanks of Freedom II (⭐218)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
@@ -399,7 +403,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
-### Projects / Godot 3.2+
+### Projects / Godot 4.0+
 
 *   [Lorien (⭐5.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
@@ -577,7 +581,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
-### Projects / Godot 3.2+
+### Projects / Godot 4.0+
 
 *   [ProtonGraph (⭐1.3k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
@@ -649,9 +653,14 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
-### 2D / Godot 3.2+
+### 2D / Godot 4.0+
 
 *   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
+*   [Unknown Horizons (⭐665)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
+
+### 2D / Godot 3.2+
+
+*   [Breakable (⭐63)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [TuxBuilder (⭐212)](https://github.com/Alzter/TuxBuilder) - Work-in-progress reimplementation of SuperTux.
 
 ### 2D / Godot 3.1
@@ -660,11 +669,9 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Circle Jump (⭐137)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 *   [Haldric (⭐368)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 *   [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-*   [Unknown Horizons (⭐665)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 ### 2D / Godot 3.0
 
-*   [Breakable (⭐63)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [Memory Game (⭐29)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
 ### 2D / Godot 2.1
@@ -686,11 +693,17 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Tanks of Freedom (⭐1.1k)](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 *   [Three Hungry Mice (⭐7)](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam of March 2016.
 
+### 3D / Godot 4.3
+
+*   [Thrive (⭐2.8k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
+
+### 3D / Godot 4.2
+
+*   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+
 ### 3D / Godot 3.2+
 
 *   [Broken Seals (⭐386)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
-*   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-*   [Thrive (⭐2.8k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 ### 3D / Godot 3.1
 
@@ -704,11 +717,14 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [Cheese Hunter (⭐16)](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
+### Projects / Godot 4.0+
+
+*   [Material Maker (⭐3.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+*   [Pixelorama (⭐7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+
 ### Projects / Godot 3.2+
 
 *   [Godello (⭐786)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-*   [Material Maker (⭐3.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
-*   [Pixelorama (⭐7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
 
 ### Templates / Godot 3.2+
 

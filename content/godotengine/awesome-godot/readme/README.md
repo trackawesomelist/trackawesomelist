@@ -42,16 +42,18 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 
 ### 2D
 
-#### Godot 4.2
+#### Godot 4.0+
 
+*   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 *   [Poder Solar (⭐50)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Unknown Horizons (⭐665)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.2+
 
+*   [Breakable (⭐63)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [Everplast (⭐71)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 *   [Falling Square (⭐19)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 *   [Flappy Race (⭐26)](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
-*   [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 *   [Pocket Broomball (⭐30)](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 *   [Portal 2D (⭐88)](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 *   [ROTA (⭐210)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
@@ -65,11 +67,9 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 *   [Circle Jump (⭐137)](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 *   [Haldric (⭐368)](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 *   [SealedBite](https://github.com/securas/SealedBite) - 2D platformer game, winner of the GitHub Game Off 2019 jam.
-*   [Unknown Horizons (⭐665)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3.0
 
-*   [Breakable (⭐63)](https://github.com/didier-v/breakable) - A breakout-like game.
 *   [Memory Game (⭐29)](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
 
 #### Godot 2.1
@@ -97,19 +97,19 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 
 *   [LibreAim (⭐104)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 *   [OpenLiberty (⭐143)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+*   [Thrive (⭐2.8k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 4.2
 
 *   [Reia (⭐126)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+*   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+*   [Tanks of Freedom II (⭐218)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
 #### Godot 3.2+
 
 *   [Ball2Box (⭐34)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 *   [Boom (⭐32)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 *   [Broken Seals (⭐386)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
-*   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
-*   [Tanks of Freedom II (⭐218)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
-*   [Thrive (⭐2.8k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
 
 #### Godot 3.1
 
@@ -138,10 +138,14 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 
 *Non-game Open source projects made with Godot (tools/utilities).*
 
-#### Godot 4.0
+#### Godot 4.0+
 
 *   [Clipboard Narrator (⭐44)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 *   [GodSVG (⭐1.2k)](https://github.com/MewPurPur/GodSVG) - Tool to create optimized Scalable Vector Graphics files.
+*   [Lorien (⭐5.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Material Maker (⭐3.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+*   [Pixelorama (⭐7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
+*   [ProtonGraph (⭐1.3k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
 #### Godot 3.5+
 
@@ -151,10 +155,6 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 
 *   [Arrow (⭐860)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 *   [Godello (⭐786)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
-*   [Lorien (⭐5.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
-*   [Material Maker (⭐3.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
-*   [Pixelorama (⭐7k)](https://github.com/Orama-Interactive/Pixelorama) - 2D pixel art editor.
-*   [ProtonGraph (⭐1.3k)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 *   [vpuppr (⭐738)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ## Templates
@@ -289,6 +289,7 @@ See [Vivraan/godot-lang-support (⭐325)](https://github.com/Vivraan/godot-lang-
 *   [Maaack's Menus Template (⭐121)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐22)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 *   [PixelPen (⭐87)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+*   [Shaker (⭐241)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 *   [TerraBrush (⭐663)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 #### Godot 3.2+
