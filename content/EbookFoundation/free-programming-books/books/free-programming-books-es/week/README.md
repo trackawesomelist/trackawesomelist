@@ -6,6 +6,13 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
+
+### JavaScript / Sistemas Operativos
+
+*   [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+*   [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
+
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
 ### Rust / Ruby on Rails
@@ -61,10 +68,6 @@
 *   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
-
-### JavaScript / Sistemas Operativos
-
-*   [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 
 ### JavaScript / React
 

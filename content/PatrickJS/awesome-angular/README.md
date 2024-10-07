@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 07, 2024](/content/2024/10/07/README.md)
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
+*   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
+
+### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
+
 ## [Oct 06, 2024](/content/2024/10/06/README.md)
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

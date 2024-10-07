@@ -646,6 +646,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.2k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 *   [stream-chat-angular (⭐52)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
 *   [gong (⭐12)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+*   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
+*   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
 
 #### Internationalization
 
@@ -988,6 +990,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [moveable (⭐9.9k)](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
 *   [angular-drag-drop-layout (⭐2)](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
 *   [ngx-swapy (⭐3)](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy (⭐5.5k)](https://github.com/TahaSh/swapy).
+*   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
 
 #### Editor Components
 

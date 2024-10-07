@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / Weekly / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
+
+### Resources / Educational
+
+*   [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.
+
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
 ### Third-Party Packages / Models
@@ -40,7 +46,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Templates
 
-*   [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
+*   [django-cotton](https://django-cotton.com/) - Goodbye `{% raw %}{%{% endraw %} extends, block, include {% raw %}%}{% endraw %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -96,10 +102,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Configuration
 
 *   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
-
-### Resources / Educational
-
-*   [💡 Photon Designer - Django tutorials](https:/photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.
 
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 

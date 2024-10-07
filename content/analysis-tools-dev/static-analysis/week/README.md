@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [ZPA](https://zpa.felipebz.com) — An open source parser and code analyzer for PL/SQL and Oracle SQL code.
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -126,7 +132,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [shisho (⭐370)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+*   [shisho (⭐371)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 *   [larastan (⭐5.5k)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 ## [Dec 11 - Dec 17, 2023](/content/2023/50/README.md)
@@ -628,9 +634,9 @@
 *   [go-consistent (⭐334)](https://github.com/Quasilyte/go-consistent) — Analyzer that helps you to make your Go programs more consistent.
 *   [go-critic (⭐1.8k)](https://github.com/go-critic/go-critic) — Go source code linter that maintains checks which are currently not implemented in other linters.
 *   [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
-*   [gochecknoglobals (⭐103)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
-*   [goconst (⭐286)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
-*   [gocyclo (⭐1.3k)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
+*   [gochecknoglobals (⭐104)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
+*   [goconst (⭐288)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+*   [gocyclo (⭐1.4k)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
 *   [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 *   [gofumpt (⭐3.3k)](https://github.com/mvdan/gofumpt) — Enforce a stricter format than `gofmt`, while being backwards-compatible.  That is, `gofumpt` is happy with a subset of the formats that `gofmt` is happy with.
     The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It can be used as a drop-in replacement to format your Go code, and running gofmt  after gofumpt should produce no changes.
@@ -647,9 +653,9 @@
 *   [interfacer (⭐690)](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 *   [maligned (⭐530)](https://github.com/mdempsky/maligned) :warning: — Detect structs that would take less memory if their fields were sorted.
 *   [misspell (⭐1.3k)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
-*   [nakedret (⭐126)](https://github.com/alexkohler/nakedret) — Finds naked returns.
+*   [nakedret (⭐127)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 *   [nargs (⭐84)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
-*   [prealloc (⭐633)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐635)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 *   [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
@@ -724,7 +730,7 @@
 *   [PHP Coding Standards Fixer](https://cs.symfony.com) — Fixes your code according to standards like PSR-1, PSR-2, and the Symfony standard.
 *   [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
 *   [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — A Static Code Analyzer for PHP.
-*   [PHP Semantic Versioning Checker (⭐426)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
+*   [PHP Semantic Versioning Checker (⭐428)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
 *   [PHP-Parser (⭐17k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 *   [php-speller (⭐67)](https://github.com/mekras/php-speller) — PHP spell check library.
 *   [php7cc (⭐1.5k)](https://github.com/sstalle/php7cc) :warning: — PHP 7 Compatibility Checker.
@@ -737,7 +743,7 @@
 *   [phploc (⭐2.3k)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 *   [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
-*   [phpmnd (⭐550)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
+*   [phpmnd (⭐553)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 *   [PHPQA](https://edgedesigncz.github.io/phpqa) :warning: — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 *   [phpqa - jakzal (⭐1.2k)](https://github.com/jakzal/phpqa) — Many tools for PHP static analysis in one container.
 *   [phpqa - jmolivas (⭐327)](https://github.com/jmolivas/phpqa) — PHPQA all-in-one Analyzer CLI tool.
@@ -747,7 +753,6 @@
 *   [Tuli (⭐169)](https://github.com/ircmaxell/Tuli) — A static analysis engine.
 *   [twig-lint (⭐118)](https://github.com/asm89/twig-lint) — twig-lint is a lint tool for your twig files.
 *   [WAP](https://securityonline.info/owasp-wap-web-application-protection-project) — Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.
-*   [ZPA](https://felipezorzo.com.br/zpa/) — Z PL/SQL Analyzer (ZPA) is an extensible code analyzer for PL/SQL and Oracle SQL. It can be integrated with SonarQube.
 *   [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — Critique Perl source code for best-practices.
 *   [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
 *   [Black](https://black.readthedocs.io/en/stable) — The uncompromising Python code formatter.
@@ -771,7 +776,7 @@
 *   [Pysa](https://pyre-check.org/docs/pysa-basics.html) — A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 *   [PyT - Python Taint (⭐2.2k)](https://github.com/python-security/pyt) :warning: — A static analysis tool for detecting security vulnerabilities in Python web applications.
 *   [pytype](https://google.github.io/pytype) — A static type analyzer for Python code.
-*   [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
+*   [radon](https://radon.readthedocs.io/en/latest) :warning: — A Python tool that computes various metrics from the source code.
 *   [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 *   [vulture (⭐3.4k)](https://github.com/jendrikseipp/vulture) — Find unused classes, functions and variables in Python code.
 *   [wily (⭐1.2k)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
@@ -941,7 +946,7 @@
 *   [KubeLinter (⭐2.9k)](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 *   [lacheck](https://www.ctan.org/pkg/lacheck) — A tool for finding common mistakes in LaTeX documents.
 *   [TeXLab](https://texlab.netlify.app) — A Language Server Protocol implementation for TeX/LaTeX, including lint capabilities.
-*   [mdformat](https://mdformat.rtfd.io) :warning: — CommonMark compliant Markdown formatter
+*   [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 *   [mdl (⭐1.8k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 *   [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
 *   [FlowDroid (⭐1k)](https://github.com/secure-software-engineering/FlowDroid) — Static taint analysis tool for Android applications.

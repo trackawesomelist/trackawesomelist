@@ -505,11 +505,11 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [goast (⭐59)](https://github.com/m-mizutani/goast) :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-*   [gochecknoglobals (⭐103)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
+*   [gochecknoglobals (⭐104)](https://github.com/leighmcculloch/gochecknoglobals) :warning: — Checks that no globals are present.
 
-*   [goconst (⭐286)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
+*   [goconst (⭐288)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
-*   [gocyclo (⭐1.3k)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
+*   [gocyclo (⭐1.4k)](https://github.com/fzipp/gocyclo) :warning: — Calculate cyclomatic complexities of functions in Go source code.
 
 *   [gofmt -s](https://golang.org/cmd/gofmt) — Checks if the code is properly formatted and could not be further simplified.
 
@@ -546,11 +546,11 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [misspell (⭐1.3k)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
 
-*   [nakedret (⭐126)](https://github.com/alexkohler/nakedret) — Finds naked returns.
+*   [nakedret (⭐127)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 
 *   [nargs (⭐84)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
-*   [prealloc (⭐633)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐635)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
 *   [Reviewdog (⭐7.8k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 
@@ -558,7 +558,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [safesql (⭐562)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
 
-*   [shisho (⭐370)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+*   [shisho (⭐371)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
@@ -817,7 +817,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [PHP Refactoring Browser](https://qafoolabs.github.io/php-refactoring-browser) — Refactoring helper.
 
-*   [PHP Semantic Versioning Checker (⭐426)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
+*   [PHP Semantic Versioning Checker (⭐428)](https://github.com/tomzx/php-semver-checker) :warning: — Suggests a next version according to semantic versioning.
 
 *   [PHP-Parser (⭐17k)](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
@@ -853,7 +853,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [PhpMetrics](http://www.phpmetrics.org) — Calculates and visualizes various code quality metrics.
 
-*   [phpmnd (⭐550)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
+*   [phpmnd (⭐553)](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 
 *   [PHPQA](https://edgedesigncz.github.io/phpqa) :warning: — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 
@@ -886,7 +886,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 <a name="plsql" />
 <h2>PL/SQL</h2>
 
-*   [ZPA](https://felipezorzo.com.br/zpa/) — Z PL/SQL Analyzer (ZPA) is an extensible code analyzer for PL/SQL and Oracle SQL. It can be integrated with SonarQube.
+*   [ZPA](https://zpa.felipebz.com) — An open source parser and code analyzer for PL/SQL and Oracle SQL code.
 
 <a name="perl" />
 <h2>Perl</h2>
@@ -981,7 +981,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐930)](https://g
 
 *   [QuantifiedCode (⭐109)](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
-*   [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
+*   [radon](https://radon.readthedocs.io/en/latest) :warning: — A Python tool that computes various metrics from the source code.
 
 *   [refurb (⭐2.5k)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
@@ -1904,7 +1904,7 @@ but with the following improvements:
 
 *   [markdownlint (⭐4.7k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-*   [mdformat](https://mdformat.rtfd.io) :warning: — CommonMark compliant Markdown formatter
+*   [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 
 *   [mdl (⭐1.8k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
@@ -2131,7 +2131,7 @@ but with the following improvements:
 
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
-*   [shisho (⭐370)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+*   [shisho (⭐371)](https://github.com/flatt-security/shisho) :warning: — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
 <a name="translation" />
 <h2>Translation</h2>
