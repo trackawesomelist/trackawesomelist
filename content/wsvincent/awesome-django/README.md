@@ -8,9 +8,21 @@ A curated list of awesome things related to Django
 
 ## [Oct 07, 2024](/content/2024/10/07/README.md)
 
+### Third-Party Packages / Mailing
+
+*   [django-anymail (⭐1.7k)](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
+
+### Python Packages / Views
+
+*   [Ruff (⭐32k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+
 ### Resources / Educational
 
 *   [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.
+
+### Wagtail / Wagtail Resources
+
+*   [Wagtail events](https://wagtail.org/events/) - Online and in-person Wagtail events.
 
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 
@@ -936,7 +948,7 @@ A curated list of awesome things related to Django
 
 *   [Wagtail Source Code (⭐18k)](https://github.com/wagtail/wagtail/)
 *   [awesome-wagtail (⭐2k)](https://github.com/springload/awesome-wagtail)
-*   [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+*   [Wagtail Space](https://www.wagtail.space/) - Wagtail conferences around the world.
 
 ## [Jun 24, 2020](/content/2020/06/24/README.md)
 

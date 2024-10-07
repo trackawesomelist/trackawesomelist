@@ -272,6 +272,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Mailing
 
 *   [django-pony-express (⭐59)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
+*   [django-anymail (⭐1.7k)](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
 
 ### Model Fields
 
@@ -415,6 +416,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [python-slugify (⭐1.5k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 *   [sentry-python (⭐1.9k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 *   [python-socketio (⭐4k)](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO\_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+*   [Ruff (⭐32k)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ## Resources
 
@@ -618,7 +620,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [Wagtail Source Code (⭐18k)](https://github.com/wagtail/wagtail/)
 *   [awesome-wagtail (⭐2k)](https://github.com/springload/awesome-wagtail)
 *   [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
-*   [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+*   [Wagtail Space](https://www.wagtail.space/) - Wagtail conferences around the world.
+*   [Wagtail events](https://wagtail.org/events/) - Online and in-person Wagtail events.
 
 <!--lint enable double-link-->
 
