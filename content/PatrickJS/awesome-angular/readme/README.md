@@ -355,6 +355,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 *   [Offering Solutions](https://offering.solutions/trainings/)
 *   [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
+*   [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 
 ##### On-Site Training
 

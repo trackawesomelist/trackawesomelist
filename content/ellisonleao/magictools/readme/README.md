@@ -97,6 +97,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [EzSpriteSheet (⭐44)](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 *   :tada: [Libgdx Texture Packer (⭐23k)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 *   :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
+*   :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 *   :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 *   :money\_with\_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 *   :tada: [Tilesplit (⭐3)](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
@@ -237,7 +238,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 *   :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
 *   :tada: [Dash (⭐422)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
-*   :tada: [Dear Imgui (⭐59k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
+*   :tada: [Dear Imgui (⭐60k)](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 *   :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 *   :tada: [DEM Net Elevation API C# (⭐299)](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 *   :tada: [Diligent Engine (⭐3.6k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
@@ -276,7 +277,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Irrlicht](http://irrlicht.sourceforge.net/) - open source high performance realtime 3D engine written in C++.
 *   :tada: [Jitter (⭐42)](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *   :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-*   :tada: [JNGL (⭐253)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
+*   :tada: [JNGL (⭐261)](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 *   :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 *   :tada: [Juno (⭐22)](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 *   :tada: [Juno (⭐162)](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
@@ -504,7 +505,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [Doom 3 (⭐3.1k)](https://github.com/id-Software/DOOM-3)
 *   :tada: [Doom (⭐14k)](https://github.com/id-Software/DOOM)
 *   :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
-*   :tada: [NetHack (⭐2.9k)](https://github.com/NetHack/NetHack)
+*   :tada: [NetHack (⭐3k)](https://github.com/NetHack/NetHack)
 *   :tada: [OpenRA (⭐15k)](https://github.com/OpenRA/OpenRA)
 *   :tada: [OpenTTD (⭐6.3k)](https://github.com/OpenTTD/OpenTTD)
 *   :tada: [Prince of Persia (⭐6.4k)](https://github.com/jmechner/Prince-of-Persia-Apple-II)
