@@ -283,6 +283,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-mpg (⭐1)](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
 *   [vite-plugin-pagefind (⭐14)](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
 *   [@mistjs/vite-plugin-px2viewport (⭐9)](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
+*   [vite-multiple-assets (⭐12)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
 
 #### Loaders
 

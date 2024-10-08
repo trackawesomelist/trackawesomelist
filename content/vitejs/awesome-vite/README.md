@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Oct 08, 2024](/content/2024/10/08/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-multiple-assets (⭐12)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
+
 ## [Oct 01, 2024](/content/2024/10/01/README.md)
 
 ### Templates / React
