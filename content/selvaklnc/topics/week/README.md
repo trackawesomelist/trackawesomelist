@@ -4,6 +4,12 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
+
+### Others
+
+*   [Important pages](https://www.geocities.ws/ourmaster/important-pages.html) of Ourmaster.
+
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
 ### List of blogs and websites

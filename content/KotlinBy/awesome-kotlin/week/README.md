@@ -8,6 +8,14 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
+### Links / Books
+
+*   [Kotlin Crash Course](https://www.amazon.com/dp/9355516304) - Quickly master Kotlin by practicing what you learn in eight interactive projects, including REST APIs, serverless deployments, and more.
+
+### Libraries/Frameworks / Misc
+
+*   [vendelieu/re.this](https://vendelieu.github.io/re.this/) - Kotlin Multiplatform Redis Client: coroutine-based, DSL-powered, and easy to use.
+
 ### Libraries/Frameworks / Logging
 
 *   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
@@ -672,6 +680,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [WilderPereira/lmgtfyGen (⭐6)](https://github.com/WilderPereira/lmgtfyGen) - Simple Android App to generate Let Me Google That For You urls.
 *   [WilderPereira/ftwfy (⭐3)](https://github.com/WilderPereira/ftwfy) - The real life Command/Ctrl + F - Android App that uses the Mobile Vision API to allow you to search for any occurrence of a text in a digital document.
 *   [hanjoongcho/aaf-easydiary (⭐428)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
+*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
 *   [adrielcafe/ChromaAndroidApp (⭐111)](https://github.com/adrielcafe/ChromaAndroidApp) - Chromatic tuner app.
 *   [cuongpm/youtube-dl-android (⭐510)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
 *   [dgngulcan/droid-feed (⭐187)](https://github.com/dgngulcan/droid-feed) - News feed aggregated exclusively for Android Developers.
@@ -684,7 +693,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [PatilShreyas/NotyKT (⭐1.7k)](https://github.com/PatilShreyas/NotyKT) - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 *   [Marwa-Eltayeb/CurrencyExchange (⭐11)](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
 *   [AmrDeveloper/Linkhub (⭐165)](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
-*   [adrielcafe/GreenHellCompanionApp (⭐4)](https://github.com/adrielcafe/GreenHellCompanionApp) - Unofficial companion app for the game Green Hell.
 
 ### Android / Extensions
 
