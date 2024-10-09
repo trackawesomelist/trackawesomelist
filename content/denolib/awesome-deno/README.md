@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Oct 09, 2024](/content/2024/10/09/README.md)
+
+### Modules / Web framework
+
+*   [faster\_react (⭐17)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
+
 ## [Sep 25, 2024](/content/2024/09/25/README.md)
 
 ### Modules / CLI utils

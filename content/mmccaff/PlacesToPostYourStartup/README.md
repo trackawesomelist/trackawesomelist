@@ -2,9 +2,16 @@
 
 Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 5.1K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 5.9K · 🏷️ Business
 
 [ Daily / [Weekly](/content/mmccaff/PlacesToPostYourStartup/week/README.md) / [Overview](/content/mmccaff/PlacesToPostYourStartup/readme/README.md) ]
+
+## [Oct 09, 2024](/content/2024/10/09/README.md)
+
+### Websites
+
+*   AI Collection - <https://www.thataicollection.com/>
+*   yesRamen - <https://yesramen.com/>
 
 ## [Oct 16, 2022](/content/2022/10/16/README.md)
 
@@ -13,12 +20,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   All My Faves - <https://www.allmyfaves.com/>
 *   Launching Next - <https://www.launchingnext.com/submit/>
 *   Startup Buffer - <https://startupbuffer.com>
-
-## [Oct 15, 2022](/content/2022/10/15/README.md)
-
-### Websites
-
-*   CtrlAlt.cc - <https://ctrlalt.cc/>
 
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
@@ -69,18 +70,10 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   Awesome Indie - <https://awesomeindie.com>
 
-## [Oct 14, 2020](/content/2020/10/14/README.md)
-
-### Websites
-
-*   KitDB - <https://kitdb.app/>
-
 ## [Sep 16, 2020](/content/2020/09/16/README.md)
 
 ### Websites
 
-*   Emoji Launch - <https://emojilaunch.com/>
-*   Springwise - <https://www.springwise.com/spotted/>
 *   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
 
 ## [Aug 31, 2020](/content/2020/08/31/README.md)
@@ -132,7 +125,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   Indie Hackers - <https://www.indiehackers.com/>
 *   SaaSHub - <https://www.saashub.com/>
 *   Saasified - <https://saasified.co>
-*   SideProjects - <https://sideprojects.net>
 *   Startup Tracker - <https://startuptracker.io/>
 *   Startups List - <https://www.startups-list.com/>
 
@@ -170,13 +162,12 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 ### Websites
 
-*   The Changelog - [https://github.com/thechangelog/ping (⭐268)](https://github.com/thechangelog/ping)
+*   The Changelog - [https://github.com/thechangelog/ping (⭐267)](https://github.com/thechangelog/ping)
 
 ## [Jul 30, 2017](/content/2017/07/30/README.md)
 
 ### Websites
 
-*   Appcrawlr - <http://appcrawlr.com/>
 *   appPicker - <http://www.apppicker.com/>
 *   Appvita - <http://www.appvita.com/>
 *   Arctic Startup - <http://arcticstartup.com/>
@@ -184,13 +175,11 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   BuiltInChicago - <http://www.builtinchicago.org/send-us-tip>
 *   Crunch Base - <https://www.crunchbase.com/#/home/index>
 *   Haro - <https://www.helpareporter.com/sources/>
-*   Index.co - <https://index.co/startup>
 *   Land-book - <https://land-book.com/guidelines>
 *   MakeUseOf - <http://www.makeuseof.com/about/>
 *   Netted - <https://www.netted.net/contact-us/>
 *   Paggu - <http://www.paggu.com/submit-your-startup/>
 *   PreApps - <http://www.preapps.com/>
-*   Programmable Web - <https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18>
 *   Show HN - <https://news.ycombinator.com/showhn.html>
 *   SimilarSiteSearch - <http://www.similarsitesearch.com/tips.html>
 *   Slant - <https://www.slant.co/>
@@ -202,8 +191,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
 *   The iPhone Mom - <https://www.theiphonemom.com/>
 *   Top Alternatives - <https://topalternatives.com/>
-*   VB Profiles - <http://vbprofiles.com/>
-*   YouNoodle - <https://ww2.younoodle.com/startups/>
 
 ## [Mar 30, 2017](/content/2017/03/30/README.md)
 
@@ -211,18 +198,11 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   G2 Crowd - <https://www.g2crowd.com/products/new>
 
-## [Mar 27, 2017](/content/2017/03/27/README.md)
-
-### Websites
-
-*   Startup Collections - <http://startupcollections.com/>
-
 ## [Mar 09, 2017](/content/2017/03/09/README.md)
 
 ### Websites
 
 *   Collaborizm - <https://www.collaborizm.com>
-*   Designer News - <https://www.designernews.co/>
 
 ## [Nov 15, 2016](/content/2016/11/15/README.md)
 
@@ -235,7 +215,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   /r/IndieBiz - <https://www.reddit.com/r/indiebiz/>
 *   /r/LadyBusiness - <https://www.reddit.com/r/ladybusiness/>
 *   /r/RoastMyStartup - <https://www.reddit.com/r/roastmystartup>
-*   /r/ShamelessPlug - <https://www.reddit.com/r/shamelessplug/>
 *   /r/SideProject - <http://reddit.com/r/sideproject>
 *   /r/SmallBusiness - <https://www.reddit.com/r/smallbusiness/>
 *   /r/Startups - <http://reddit.com/r/startups>
@@ -256,16 +235,13 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   Discova - <http://www.discova.co/>
 *   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
 *   F6S - <http://www.f6s.com/>
-*   Feed My App - <https://feedmyapp.com/submit/>
 *   Get App - <http://getapp.com/>
 *   Getworm - <https://getworm.com/submit-startup>
 *   Gust - <https://www.gust.com>
-*   Launch List - <https://launchlister.com/submit-startup>
 *   Next Big What - <http://nextbigwhat.com/>
 *   Product Hunt - <http://www.producthunt.com/>
 *   Software Advice - <https://softwareadvice-markets.questionpro.com/>
 *   Startup Lift - <http://www.startuplift.com/>
-*   Startup Resources - <https://startupresources.io>
 *   Startup Stash - <http://startupstash.com/>
 *   Startup Tabs - <http://startuptabs.com/>
 *   State of Tech - <http://stateoftech.net/advertise?submit-an-app-for-review>
@@ -280,13 +256,10 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   App Rater - <https://apprater.net/add/>
 *   Boing Boing - <http://boingboing.net/sub/>
 *   Capterra - <http://www.capterra.com/vendors/sign-up>
-*   Crazy About Startups - <http://www.crazyaboutstartups.com/index.php/share-your-startup-form>
 *   Geek Wire - <http://geekwire.com/startup-list/>
 *   Inc 42 - <https://inc42.com/startup-submission/>
 *   Killer Startups - <http://killerstartups.com/submit-startup/>
 *   Launched - <https://launched.io/SubmitStartup>
-*   Next Big Product - <http://nextbigproduct.net/product-submission/>
-*   Robingood - <http://tools.robingood.com/>
 *   Side Projectors - <https://www.sideprojectors.com>
 *   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
 *   Stack Share - <http://stackshare.io/>

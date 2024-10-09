@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [chromem-go (⭐234)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 
+### Package Management
+
+*   [syft (⭐6.1k)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
 ### Project Layout
@@ -34,7 +38,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Maps
 
-*   [go-shelve (⭐4)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
+*   [go-shelve (⭐6)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
 
 ### GUI
 
@@ -51,7 +55,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [iWF (⭐514)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
+*   [iWF (⭐522)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
@@ -885,7 +889,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [beelzebub (⭐660)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
+*   [beelzebub (⭐665)](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 
 ### Server Applications
 
@@ -2703,7 +2707,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [cobra (⭐38k)](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
 *   [commandeer (⭐173)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐928)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-*   [Dnote (⭐2.7k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+*   [Dnote (⭐2.8k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5.6k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐114)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 *   [flag (⭐131)](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
@@ -3787,7 +3791,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [johnny-deps (⭐214)](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
 *   [modgv (⭐485)](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language.
 *   [mvn-golang (⭐163)](https://github.com/raydac/mvn-golang) - plugin that provides way for auto-loading of Golang SDK, dependency management and start build environment in Maven project infrastructure.
-*   [nut (⭐232)](https://github.com/jingweno/nut) - Vendor Go dependencies.
 *   [VenGO (⭐124)](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
 ### Performance
