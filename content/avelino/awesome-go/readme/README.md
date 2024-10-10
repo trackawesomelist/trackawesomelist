@@ -1122,7 +1122,7 @@ additional ordered map implementations.
 *   [errors (⭐6)](https://github.com/neuronlabs/errors) - Simple golang error handling with classification primitives.
 *   [errors (⭐7)](https://github.com/PumpkinSeed/errors) - The most simple error wrapper with awesome performance and minimal memory overhead.
 *   [errors](https://gitlab.com/tozd/go/errors) - Providing errors with a stack trace and optional structured details. Compatible with github.com/pkg/errors API but does not use it internally.
-*   [errors (⭐63)](https://github.com/bnkamalesh/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+*   [errors (⭐64)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
 *   [errors (⭐2.1k)](https://github.com/cockroachdb/errors) - Go error library with error portability over the network.
 *   [errorx (⭐1.1k)](https://github.com/joomcode/errorx) - A feature rich error package with stack traces, composition of errors and more.
 *   [exception (⭐31)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
@@ -1175,7 +1175,7 @@ additional ordered map implementations.
 *   [ach (⭐454)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
 *   [bbgo (⭐1.2k)](https://github.com/c9s/bbgo) - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 *   [currency (⭐536)](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
-*   [currency (⭐61)](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
+*   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
 *   [decimal (⭐6.3k)](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
 *   [decimal (⭐72)](https://github.com/govalues/decimal) - Immutable decimal numbers with panic-free arithmetic.
 *   [fpdecimal (⭐30)](https://github.com/nikolaydubina/fpdecimal) - Fast and precise serialization and arithmetic for small fixed-point decimals
@@ -2250,7 +2250,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-dsp (⭐857)](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.
 *   [go-estimate (⭐112)](https://github.com/milosgajdos/go-estimate) - State estimation and filtering algorithms in Go.
 *   [go-gt (⭐11)](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
-*   [go-hep (⭐230)](https://github.com/go-hep/hep) - A set of libraries and tools for performing High Energy Physics analyses with ease.
+*   [go-hep (⭐231)](https://github.com/go-hep/hep) - A set of libraries and tools for performing High Energy Physics analyses with ease.
 *   [godesim (⭐23)](https://github.com/soypat/godesim) - Extended/multivariable ODE solver framework for event-based simulations with simple API.
 *   [goent (⭐34)](https://github.com/kzahedi/goent) - GO Implementation of Entropy Measures.
 *   [gograph (⭐61)](https://github.com/hmdsefi/gograph) - A golang generic graph library that provides mathematical graph-theory and algorithms.
@@ -3198,7 +3198,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
 *   [ChainJacking (⭐56)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
 *   [Chronos (⭐425)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
-*   [dupl (⭐342)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐344)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.3k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐129)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
@@ -3220,8 +3220,8 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [staticcheck (⭐6.1k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [testifylint (⭐98)](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify (⭐23k)](https://github.com/stretchr/testify).
 *   [tickgit (⭐324)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐423)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐376)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐425)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐377)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [usestdlibvars (⭐43)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 *   [vacuum (⭐578)](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 *   [validate (⭐61)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
@@ -3748,7 +3748,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 *   [go-clean-template (⭐6.2k)](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services.
 *   [go-patterns (⭐25k)](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms.
-*   [goapp (⭐841)](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service.
+*   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 *   [Golang for Node.js Developers (⭐4.6k)](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
 *   [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/) - A List of Free Courses to Learn the Go Programming Language.
 *   [golang-examples (⭐1.6k)](https://github.com/SimonWaldherr/golang-examples) - Many examples to learn Golang.

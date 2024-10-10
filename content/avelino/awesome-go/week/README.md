@@ -12,9 +12,21 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [chromem-go (⭐234)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 
+### Error Handling
+
+*   [errors (⭐64)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+
+### Financial
+
+*   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
+
 ### Package Management
 
 *   [syft (⭐6.1k)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -50,7 +62,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Science and Data Analysis
 
-*   [go-hep (⭐230)](https://github.com/go-hep/hep) - A set of libraries and tools for performing High Energy Physics analyses with ease.
+*   [go-hep (⭐231)](https://github.com/go-hep/hep) - A set of libraries and tools for performing High Energy Physics analyses with ease.
 *   [topk (⭐0)](https://github.com/keilerkonzept/topk) - Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm.
 
 ### Web Frameworks
@@ -1796,10 +1808,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gorm-seeder (⭐13)](https://github.com/Kachit/gorm-seeder) - Simple database seeder for Gorm ORM.
 *   [libschema (⭐15)](https://github.com/muir/libschema) - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
 
-### Error Handling
-
-*   [errors (⭐63)](https://github.com/bnkamalesh/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
-
 ### Financial
 
 *   [ach (⭐454)](https://github.com/moov-io/ach) - A reader, writer, and validator for Automated Clearing House (ACH) files.
@@ -3104,7 +3112,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [accounting (⭐877)](https://github.com/leekchan/accounting) - money and currency formatting for golang.
 *   [currency (⭐536)](https://github.com/bojanz/currency) - Handles currency amounts, provides currency information and formatting.
-*   [currency (⭐61)](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 *   [decimal (⭐6.3k)](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers.
 *   [go-finance (⭐173)](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 *   [go-finance (⭐27)](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
@@ -4433,7 +4440,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [apicompat (⭐179)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [ChainJacking (⭐56)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐342)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [dupl (⭐344)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.3k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐129)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
@@ -4450,8 +4457,8 @@ A curated list of awesome Go frameworks, libraries and software
 *   [php-parser (⭐938)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
 *   [staticcheck (⭐6.1k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐324)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐423)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐376)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐425)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐377)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [validate (⭐61)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares
@@ -4845,7 +4852,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 *   [go-clean-template (⭐6.2k)](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services.
 *   [go-patterns (⭐25k)](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms.
-*   [goapp (⭐841)](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 *   [Golang for Node.js Developers (⭐4.6k)](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning.
 *   [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/) - A List of Free Courses to Learn the Go Programming Language.
 *   [Golangbot](https://golangbot.com/learn-golang-series/) - Tutorials to get started with programming in Go.

@@ -814,6 +814,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐88k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 *   [ngx-testing-tools (⭐2)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 *   [angular-testing-kit (⭐1)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
+*   [playwright-ng-schematics (⭐9)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
 #### Updating
 

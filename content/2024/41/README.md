@@ -112,6 +112,7 @@
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-strsim (⭐2)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
+*   [polars\_ols (⭐103)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
 
 ## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
@@ -119,9 +120,21 @@
 
 *   [chromem-go (⭐234)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 
+### Error Handling
+
+*   [errors (⭐64)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+
+### Financial
+
+*   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
+
 ### Package Management
 
 *   [syft (⭐6.1k)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -337,6 +350,10 @@
 
 *   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 *   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [playwright-ng-schematics (⭐9)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

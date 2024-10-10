@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 10, 2024](/content/2024/10/10/README.md)
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [playwright-ng-schematics (⭐9)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+
 ## [Oct 09, 2024](/content/2024/10/09/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

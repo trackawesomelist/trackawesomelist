@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Oct 10, 2024](/content/2024/10/10/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars\_ols (⭐103)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
+
 ## [Oct 08, 2024](/content/2024/10/08/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins

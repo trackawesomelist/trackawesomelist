@@ -119,13 +119,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [vite-multiple-assets (⭐12)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
 
-#### [12. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars-strsim (⭐2)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
-
-#### [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -183,20 +177,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐671) (⭐669)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐345) (⭐341)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [14. Topics](/content/selvaklnc/topics/README.md)
+#### [13. Topics](/content/selvaklnc/topics/README.md)
 
 ##### Others
 
 *   [Important pages](https://www.geocities.ws/ourmaster/important-pages.html) of Ourmaster.
 
-#### [15. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+#### [14. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ##### Websites
 
 *   AI Collection - <https://www.thataicollection.com/>
 *   yesRamen - <https://yesramen.com/>
 
-#### [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Generative AI
 
@@ -206,74 +200,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
 
-#### [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Angular Philosophies (⭐2)](https://github.com/tomavic/angular-philosophies)
-
-##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
-
-##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
-*   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
-
-##### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
-
-##### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-super-forms (⭐1)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
-
-##### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
-
-#### [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Components & Libraries / Frameworks
 
 *   [vue-start-admin (⭐0)](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
 
-#### [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Browsers / Audio Record and Process
 
 *   [Zen](https://zen-browser.app/) - A beautifully designed, privacy-focused, and feature-rich browser ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zen-browser/desktop)
 
-#### [20. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [18. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Web framework
 
 *   [faster\_react (⭐17)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 
-#### [21. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Artificial Intelligence
-
-*   [chromem-go (⭐234)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
-
-##### Package Management
-
-*   [syft (⭐6.1k)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
-
-#### [22. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+#### [19. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ##### Books / Monograph
 
 *   [Pierce. Software Foundations. Pennsylvania](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
 
-#### [23. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+#### [20. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ##### Utilities
 
 *   [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 
-#### [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Links / Books
 
@@ -361,18 +318,78 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [25. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [22. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Make your life easier
 
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 
-#### [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Theory of Mind / AI Assisted Research
 
 *   [The naïve utility calculus: Computational principles underlying commonsense psychology](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(16\)30053-5) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763)]. \[[Preprint](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf)]. This review article proposes that human social cognition is structured around a basic understanding of ourselves and others as intuitive utility maximizers: from a young age, humans implicitly assume that agents choose goals and actions to maximize the rewards they expect to obtain relative to the costs they expect to incur. This ‘naïve utility calculus’ allows both children and adults observe the behavior of others and infer their beliefs and desires, their longer-term knowledge and preferences, and even their character: who is knowledgeable or competent, who is praiseworthy or blameworthy, who is friendly, indifferent, or an enemy.
 *   [Planning with theory of mind](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(22\)00185-1) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047)]. \[[Preprint](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Planning requires that Theory of Mind consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Theory of Mind contrasts with less cognitively demanding alternatives: statistical predictive models of other people’s actions, or model-free reinforcement of actions by their effects on other people. Theory of Mind is likely used to plan novel interventions and predict their effects, for example, in pedagogy, emotion regulation, and impression management.
+
+#### [24. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular Philosophies (⭐2)](https://github.com/tomavic/angular-philosophies)
+
+##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
+
+##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
+*   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
+
+##### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [playwright-ng-schematics (⭐9)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+
+##### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
+
+##### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-super-forms (⭐1)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
+
+##### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
+
+#### [25. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Artificial Intelligence
+
+*   [chromem-go (⭐234)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+
+##### Error Handling
+
+*   [errors (⭐64)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+
+##### Financial
+
+*   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
+
+##### Package Management
+
+*   [syft (⭐6.1k)](https://github.com/anchore/syft) - A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+
+##### Tutorials / Libraries for creating HTTP middlewares
+
+*   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
+
+#### [26. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-strsim (⭐2)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
+*   [polars\_ols (⭐103)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
 
 ---
 
@@ -382,7 +399,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 335K 📝 10&#x2F;08 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 196K 📝 10&#x2F;07 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 130K 📝 10&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 130K 📝 10&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 89K 📝 10&#x2F;10 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 72K 📝 10&#x2F;09 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 75K 📝 10&#x2F;08 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -394,9 +411,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 12. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 13K 📝 10&#x2F;08 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 13. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;10 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 10&#x2F;06 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-15. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 10&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-16. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 10&#x2F;04 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-17. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;09 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+15. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;10 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 10&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+17. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 10&#x2F;04 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 18. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 53K 📝 09&#x2F;22 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 19. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 13K 📝 10&#x2F;05 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 20. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.3K 📝 10&#x2F;07 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
@@ -660,7 +677,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K, 📝 10&#x2F;09 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K, 📝 10&#x2F;10 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;09&#x2F;04 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1087,7 +1104,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.9K, 📝 02&#x2F;17 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 130K, 📝 10&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 130K, 📝 10&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 689, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
@@ -1106,7 +1123,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 09&#x2F;15 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 724, 📝 10&#x2F;08 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 724, 📝 10&#x2F;10 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
