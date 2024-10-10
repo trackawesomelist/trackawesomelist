@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 647 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 675 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -228,13 +228,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books<a name=programming_language_theory_basics_books></a>
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐896)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐905)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 
 ## Introductory<a name=programming_language_theory_introductory></a>
 
 ### Books<a name=programming_language_theory_introductory_books></a>
 
-*   [Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
+*   [Pierce. Software Foundations. Pennsylvania](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
 
 ## Formal Verification<a name=programming_language_theory_formal_verification></a>
 
@@ -244,7 +244,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books<a name=programming_language_theory_formal_verification_books></a>
 
-*   [Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.
 *   [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
 *   [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 
@@ -626,10 +625,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 # Related Lists<a name=related_lists></a>
 
-*   [Algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms).
-*   [Mathematics (⭐8.5k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Algorithms (⭐20k)](https://github.com/tayllan/awesome-algorithms).
+*   [Mathematics (⭐8.7k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
 *   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.1k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
-*   [Cryptography (⭐5.7k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Cryptography (⭐5.8k)](https://github.com/sobolevn/awesome-cryptography).
 *   [Quantum Computing (⭐2.5k)](https://github.com/desireevl/awesome-quantum-computing).
-*   [Math (⭐4.1k)](https://github.com/ossu/math) and [CS (⭐168k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Math (⭐4.3k)](https://github.com/ossu/math) and [CS (⭐171k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 

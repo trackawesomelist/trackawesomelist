@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 10, 2024](/content/2024/10/10/README.md)
+
+### Theory of Mind / AI Assisted Research
+
+*   [Planning with theory of mind](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(22\)00185-1) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047)]. \[[Preprint](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Planning requires that Theory of Mind consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Theory of Mind contrasts with less cognitively demanding alternatives: statistical predictive models of other people’s actions, or model-free reinforcement of actions by their effects on other people. Theory of Mind is likely used to plan novel interventions and predict their effects, for example, in pedagogy, emotion regulation, and impression management.
+
 ## [Oct 08, 2024](/content/2024/10/08/README.md)
 
 ### Theory of Mind / AI Assisted Research
@@ -926,10 +932,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
 *   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
-### Theory of Mind / AI Assisted Research
-
-*   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
-
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
@@ -1504,7 +1506,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Theory of Mind / AI Assisted Research
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
-*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
+*   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of Theory of Mind. Humans are adept at inferring the mental states underlying other agents’ actions, such as goals, beliefs, desires, emotions and other thoughts. This paper proposes a computational framework based on Bayesian inverse planning for modeling human action understanding. The framework represents an intuitive theory of intentional agents’ behavior based on the principle of rationality: the expectation that agents will plan approximately rationally to achieve their goals, given their beliefs about the world. The mental states that caused an agent's behavior are inferred by inverting this model of rational planning using Bayesian inference, integrating the likelihood of the observed actions with the prior over mental states.
 *   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
 *   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
 *   [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772\&hl=en\&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.

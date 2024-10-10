@@ -2,7 +2,7 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 88K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 89K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
@@ -11,6 +11,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
+
+### Generative AI
+
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse)
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -684,7 +688,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Security and PKI
 
-*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐241)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
+*   [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github ([https://github.com/unknownhad/AWSAttacks (⭐243)](https://github.com/unknownhad/AWSAttacks)). Full list is available via API
 
 ### Miscellaneous
 
@@ -2532,7 +2536,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Public-Apis Github Repo (⭐313k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐314k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Code Quality
 
@@ -3932,7 +3936,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Responsively App](https://responsively.app) - A free dev tool for faster and more precise responsive web application development.
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
-*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐818)](https://github.com/xlayers/xlayers))
+*   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at [https://github.com/xlayers/xlayers (⭐819)](https://github.com/xlayers/xlayers))
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
@@ -4508,7 +4512,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [landen.co](https://www.landen.co) — Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.
 *   [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
 *   [marvelapp.com](https://marvelapp.com/) — Design, prototyping, and collaboration, free plan limited to one user and project.
-*   [Pencil (⭐9k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
+*   [Pencil (⭐9.1k)](https://github.com/evolus/pencil) - Open source design tool using Electron.
 *   [pexels.com](https://www.pexels.com/) - Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.
 *   [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 *   [pixlr.com](https://pixlr.com/) — Free online browser editor on the level of commercial ones.
