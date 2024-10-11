@@ -2,9 +2,37 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 376 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 434 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
+
+### Creative Technology
+
+- Name: [**Brain**](https://brain.wtf)
+
+  Locations: \[LA]
+
+  Keywords: s very serious art studio
+
+
+- Name: [**Groove Jones**](https://groovejones.com/)
+
+  Locations: \[Dallas]
+
+  Keywords: XR, AR, VR, volumetric scanning, popups
+
+  Jobs: [🌐](https://groovejones.com/workwithus/)
+
+
+- Name: [**Pneuhaus**](https://pneu.haus)
+
+  Locations: \[Island]
+
+  Keywords: using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder
+
+
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 

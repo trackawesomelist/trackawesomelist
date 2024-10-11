@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Oct 11, 2024](/content/2024/10/11/README.md)
+
+### Large Language Models (LLMs)
+
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse)
+
+### Image Segmentation / Deforum
+
+*   [Pyramid Flow](https://pyramid-flow.github.io/)
+
 ## [Oct 06, 2024](/content/2024/10/06/README.md)
 
 ### Critical Views about Generative AI
@@ -86,7 +96,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### LLM Evaluation / Multi-agents
 
-*   [PAIR-code/llm-comparator (⭐274)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
+*   [PAIR-code/llm-comparator (⭐288)](https://github.com/PAIR-code/llm-comparator): LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed by the PAIR team.
 
 ## [Sep 21, 2024](/content/2024/09/21/README.md)
 
@@ -272,10 +282,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [danielmiessler/fabric (⭐23k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 *   [AI Research Tools | x post](https://x.com/airesearchtools/status/1704031145476648992): Some AI tools that can be used for research/teaching
-
-### Large Language Models (LLMs)
-
-*   [langfuse/langfuse (⭐5.8k)](https://github.com/langfuse/langfuse/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more
 
 ### Prompt Engineering
 

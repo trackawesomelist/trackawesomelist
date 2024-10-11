@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Oct 11, 2024](/content/2024/10/11/README.md)
+
+### **LLM for Domain Specific** / **GPT series release date**
+
+*   [AlphaFold3 (⭐798)](https://github.com/Ligo-Biosciences/AlphaFold3): Open source implementation of AlphaFold3 \[Nov 2023] / [OpenFold (⭐2.7k)](https://github.com/aqlaboratory/openfold): PyTorch reproduction of AlphaFold 2 \[Sep 2021]
+*   [MechGPT](https://arxiv.org/abs/2310.10445): Language Modeling Strategies for Mechanics and Materials [git (⭐58)](https://github.com/lamm-mit/MeLM) \[16 Oct 2023]
+
 ## [Oct 04, 2024](/content/2024/10/04/README.md)
 
 ### **Azure Reference Architectures** / Data processing
@@ -37,11 +44,13 @@
     *   [OpenAI Official .NET Library (⭐1.2k)](https://github.com/openai/openai-dotnet/) \[Apr 2024]
     *   [Smart Components (⭐694)](https://github.com/dotnet-smartcomponents/smartcomponents): Experimental, end-to-end AI features for .NET apps \[Mar 2024]
     *   [Prompt Buddy (⭐161)](https://github.com/stuartridout/promptbuddy): 🏆Share and upvote favorite AI prompts. free Microsoft Teams Power App using Dataverse for Teams. \[Mar 2024]
-    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐30)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
+    *   [Azure Multimodal AI + LLM Processing Accelerator (⭐49)](https://github.com/Azure/multimodal-ai-llm-processing-accelerator): Build multimodal data processing pipelines with Azure AI Services + LLMs \[Aug 2024]
     *   [ARGUS (⭐35)](https://github.com/Azure-Samples/ARGUS): Hybrid approach with Azure Document Intelligence combined and GPT4-Vision to get better results without any pre-training. \[Jun 2024]
     *   [azure-llm-fine-tuning (⭐29)](https://github.com/Azure/azure-llm-fine-tuning): SLM/LLM Fine-tuning on Azure \[May 2024]
     *   [OpenAI Chat Application with Microsoft Entra Authentication (⭐29)](https://github.com/Azure-Samples/openai-chat-app-entra-auth-builtin): Microsoft Entra ID for user authentication  \[May 2024]
-    *   [VoiceRAG (⭐31)](https://github.com/Azure-Samples/aisearch-openai-rag-audio): Voice Using Azure AI Search and the GPT-4o Realtime API for Audio [ref](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/voicerag-an-app-pattern-for-rag-voice-using-azure-ai-search-and/ba-p/4259116) \[Sep 2024]
+    *   [VoiceRAG (⭐31)](https://github.com/Azure-Samples/aisearch-openai-rag-audio):💡Voice Using Azure AI Search and the GPT-4o Realtime API for Audio [ref](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/voicerag-an-app-pattern-for-rag-voice-using-azure-ai-search-and/ba-p/4259116) \[Sep 2024]
+    *   [Evaluating a RAG Chat App (⭐212)](https://github.com/Azure-Samples/ai-rag-chat-evaluator): Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK \[Nov 2023]
+    *   [Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/): a unified layer of C# abstractions for interacting with AI services, such as small and large language models (SLMs and LLMs), embeddings, and middleware. \[8 Oct 2024]
 
 ### **Semantic Kernel** / **Code Recipes**
 
@@ -172,7 +181,7 @@
 
 ### **LLM for Domain Specific** / **GPT series release date**
 
-*   [Qwen2-Math (⭐517)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024] / [Qwen 2.5-Coder (⭐571)](https://github.com/QwenLM/Qwen2.5-Coder) \[18 Sep 2024 ]
+*   [Qwen2-Math (⭐517)](https://github.com/QwenLM/Qwen2-Math): math-specific LLM / [Qwen2-Audio (⭐1.1k)](https://github.com/QwenLM/Qwen2-Audio): large-scale audio-language model \[Aug 2024] / [Qwen 2.5-Coder (⭐664)](https://github.com/QwenLM/Qwen2.5-Coder) \[18 Sep 2024 ]
 
 ### **Agents: AutoGPT and Communicative Agents** / Agent Applications and Libraries
 
@@ -187,6 +196,7 @@
     *   [Qwen-Agent (⭐3.2k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
     *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
+    *   [OpenHands (⭐33k)](https://github.com/All-Hands-AI/OpenHands): OpenHands (formerly OpenDevin), a platform for software development agents \[Mar 2024]
     *   Microsoft Agent Frameworks [X-ref](#microsoft-azure-openai-relevant-llm-framework)
 
 ### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
@@ -205,7 +215,7 @@
 
 ### **Prompt Guide & Leaked prompts** / **Prompt Template Language**
 
-*   [Anthropic courses > Prompt engineering interactive tutorial (⭐5k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
+*   [Anthropic courses > Prompt engineering interactive tutorial (⭐5.5k)](https://github.com/anthropics/courses): a comprehensive step-by-step guide to key prompting techniques / prompt evaluations \[Aug 2024]
 
 ### **Knowledge Distillation: Reducing Model Size with Textbooks** / **Llama Finetuning**
 
@@ -612,6 +622,7 @@
     *   [Using keyless authentication with Azure OpenAI](https://techcommunity.microsoft.com/t5/microsoft-developer-community/using-keyless-authentication-with-azure-openai/ba-p/4111521) \[12 Apr 2024]
     *   [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
     *   [Designing and developing a RAG solution](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
+    *   [Microsoft Copilot Studio Samples (⭐303)](https://github.com/microsoft/CopilotStudioSamples): Samples and artifacts for Microsoft Copilot Studio
 
 ### **LangChain Feature Matrix & Cheetsheet** / DSPy optimizer
 
@@ -1036,7 +1047,6 @@
 *   [Huggingface StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder): [git](https://huggingface.co/bigcode/starcoder) \[May 2023]
 *   [Code Llama](https://arxiv.org/abs/2308.12950): Built on top of Llama 2, free for research and commercial use. [ref](https://ai.meta.com/blog/code-llama-large-language-model-coding/) / [git (⭐16k)](https://github.com/facebookresearch/codellama) \[24 Aug 2023]
 *   [Devin AI](https://preview.devin.ai/): Devin is an AI software engineer developed by Cognition AI \[12 Mar 2024]
-*   [OpenDevin](https://github.com/OpenDevin): an open-source project aiming to replicate Devin \[Mar 2024]
 *   [FrugalGPT](https://arxiv.org/abs/2305.05176): LLM with budget constraints, requests are cascaded from low-cost to high-cost LLMs. [git (⭐177)](https://github.com/stanford-futuredata/FrugalGPT) \[9 May 2023]
 
 ### **MLLM (multimodal large language model)** / **GPT series release date**
@@ -1638,9 +1648,7 @@
 *   Semantic Kernel Recipes: A collection of C# notebooks [git (⭐164)](https://github.com/johnmaeda/SK-Recipes) \[Mar 2023]
 *   Deploy Semantic Kernel with Bot Framework [ref](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-semantic-kernel-with-bot-framework/ba-p/3928101) [git (⭐54)](https://github.com/Azure/semantic-kernel-bot-in-a-box) \[26 Oct 2023]
 *   Semantic Kernel-Powered OpenAI Plugin Development Lifecycle [ref](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/semantic-kernel-powered-openai-plugin-development-lifecycle/ba-p/3967751) \[30 Oct 2023]
-*   SemanticKernel Implementation sample to overcome Token limits of Open AI model.
-    Semantic Kernel でトークンの限界を超えるような長い文章を分割してスキルに渡して結果を結合したい (zenn.dev)
-    [ref](https://zenn.dev/microsoft/articles/semantic-kernel-10) \[06 May 2023]
+*   SemanticKernel Implementation sample to overcome Token limits of Open AI model. [ref](https://zenn.dev/microsoft/articles/semantic-kernel-10) \[06 May 2023]
 
 ### **Semantic Kernel** / **Semantic Kernel Planner**
 
@@ -1828,7 +1836,7 @@
     https://zhuanlan.zhihu.com/p/104393915
     -->
 *   Meta (aka. Facebook)
-    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.2k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
+    1.  [facebookresearch/ImageBind](https://arxiv.org/abs/2305.05665): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2305.05665)]: ImageBind One Embedding Space to Bind Them All [git (⭐8.3k)](https://github.com/facebookresearch/ImageBind) \[9 May 2023]
     2.  [facebookresearch/segment-anything(SAM)](https://arxiv.org/abs/2304.02643): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2304.02643)]: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [git (⭐47k)](https://github.com/facebookresearch/segment-anything) \[5 Apr 2023]
     3.  [facebookresearch/SeamlessM4T](https://arxiv.org/abs/2308.11596): \[[cnt](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=arxiv%3A+2308.11596)]: SeamlessM4T is the first all-in-one multilingual multimodal AI translation and transcription model. This single model can perform speech-to-text, speech-to-speech, text-to-speech, and text-to-text translations for up to 100 languages depending on the task. [ref](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/) \[22 Aug 2023]
     4.  [Chameleon](https://arxiv.org/abs/2405.09818): Early-fusion token-based mixed-modal models capable of understanding and generating images and text in any arbitrary sequence. The unified approach uses fully token-based representations for both image and textual modalities. \[16 May 2024]
@@ -1988,7 +1996,6 @@
 ### **Section 11: Datasets for LLM Training** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/): The Stanford Question Answering Dataset (SQuAD), a set of Wikipedia articles, 100,000+ question-answer pairs on 500+ articles. \[16 Jun 2016]
-*   [大規模言語モデルのデータセットまとめ](https://note.com/npaka/n/n686d987adfb1): 大規模言語モデルのデータセットまとめ \[Apr 2023]
 
 ## [Dec 11, 2023](/content/2023/12/11/README.md)
 
