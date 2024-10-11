@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Oct 11, 2024](/content/2024/10/11/README.md)
+
+### Resources / Talks and videos
+
+*   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=5V_MvnwTVwc) ⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by [@kimfetti](https://github.com/kimfetti). Associated github repo is [here (⭐34)](https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024).
+
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins

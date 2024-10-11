@@ -2059,6 +2059,8 @@ class AgentType(str, Enum):
 *   [AI Agents That Matter](https://arxiv.org/abs/2407.01502): AI agent evaluations for optimizing both accuracy and cost. Focusing solely on accuracy can lead to overfitting and high costs. `retry, warming, escalation` \[1 Jul 2024]
 *   [Generative AI Design Patterns for Agentic AI Systems (⭐600)](https://github.com/microsoft/azure-genai-design-patterns): Design Patterns for Agentic solutions in Azure \[May 2023]
 *   [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435): Automated Design of Agentic Systems (ADAS), which aims to automatically create powerful agentic system designs, including inventing novel building blocks and/or combining them. \[15 Aug 2024]
+*   [Language Agent Tree Search Method (LATS) (⭐655)](https://github.com/lapisrocks/LanguageAgentTreeSearch): LATS leverages an external environment and an MCTS (Monte Carlo Tree Search)-based search \[6 Oct 2023]
+*   [The Different Ochestration Frameworks](https://newsletter.theaiedge.io/p/implementing-a-language-agent-tree):💡Orchestration frameworks for LLM applications: Micro-orchestration / Macro-orchestration / Agentic Design Frameworks / Optimizer frameworks \[11 Oct 2024]
 
 #### Tool use: LLM to Master APIs
 
@@ -2091,13 +2093,13 @@ class AgentType(str, Enum):
     *   [Qwen-Agent (⭐3.2k)](https://github.com/QwenLM/Qwen-Agent): Agent framework built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. Qwen series released by  Alibaba Group \[Sep 2023]
     *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
-    *   [OpenHands (⭐33k)](https://github.com/All-Hands-AI/OpenHands): OpenHands (formerly OpenDevin), a platform for software development agents \[Mar 2024]
+    *   [Burr (⭐1.2k)](https://github.com/dagworks-inc/burr): create an application as a state machine (graph/flowchart) for managing state, decisions, human feedback, and workflows. \[Jan 2024]
     *   Microsoft Agent Frameworks [X-ref](#microsoft-azure-openai-relevant-llm-framework)
 *   Agent Application
     *   [Auto-GPT (⭐167k)](https://github.com/Torantulino/Auto-GPT): Most popular \[Mar 2023]
     *   [babyagi (⭐20k)](https://github.com/yoheinakajima/babyagi): Most simplest implementation - Coworking of 4 agents \[Apr 2023]
     *   [SuperAGI (⭐15k)](https://github.com/TransformerOptimus/superagi): GUI for agent settings \[May 2023]
-    *   [lightaime/camel (⭐5.4k)](https://github.com/lightaime/camel): 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society \[Mar 2023] / 1:1 Conversation between two ai agents [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
+    *   [lightaime/camel (⭐5.4k)](https://github.com/lightaime/camel):🐫CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society \[Mar 2023] / 1:1 Conversation between two ai agents [Hugging Face (camel-agents)](https://huggingface.co/spaces/camel-ai/camel-agents)
     *   [ChatDev (⭐25k)](https://github.com/OpenBMB/ChatDev): Virtual software company. Create Customized Software using LLM-powered Multi-Agent Collaboration \[Sep 2023]
     *   [GPT Pilot (⭐31k)](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer. Dev tool that writes scalable apps from scratch while the developer oversees the implementation \[Jul 2023]
     *   [SeeAct](https://osu-nlp-group.github.io/SeeAct): GPT-4V(ision) is a Generalist Web Agent, if Grounded \[Jan 2024]
@@ -2109,6 +2111,7 @@ class AgentType(str, Enum):
     *   [SakanaAI AI-Scientist (⭐7.7k)](https://github.com/SakanaAI/AI-Scientist): Towards Fully Automated Open-Ended Scientific Discovery \[Aug 2024]
     *   [aider (⭐20k)](https://github.com/paul-gauthier/aider): AI pair programming in your terminal \[Jan 2023]
     *   [Zed (⭐0)](https://github.com/soitun/zed-ai): AI code editor from the creators of Atom and Tree-sitter \[Sep 2024]
+    *   [OpenHands (⭐33k)](https://github.com/All-Hands-AI/OpenHands): OpenHands (formerly OpenDevin), a platform for software development agents \[Mar 2024]
     *   Proprietary Software: AI Code Editor: [Replit Agent](https://replit.com/) \[09 Sep 2024] / [Cursor](https://www.cursor.com/) \[Mar 2023]
 
 #### **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
@@ -2174,6 +2177,7 @@ class AgentType(str, Enum):
 *   [Vercel AI](https://sdk.vercel.ai/) Vercel AI Playground / Vercel AI SDK [git (⭐9.6k)](https://github.com/vercel/ai) \[May 2023]
 *   [Quora Poe](https://poe.com/login) A chatbot service that gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots. \[Feb 2023]
 *   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
+*   [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
 
 ## **Section 11: Datasets for LLM Training**
 
@@ -2186,6 +2190,7 @@ class AgentType(str, Enum):
 *   [RedPajama](https://together.ai/blog/redpajama): LLaMA training dataset of over 1.2 trillion tokens [git (⭐4.5k)](https://github.com/togethercomputer/RedPajama-Data) \[17 Apr 2023]
 *   [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb): HuggingFace: crawled 15 trillion tokens of high-quality web data from the summer of 2013 to March 2024. \[Apr 2024]
 *   [MS MARCO Web Search (⭐305)](https://github.com/microsoft/MS-MARCO-Web-Search): A large-scale information-rich web dataset, featuring millions of real clicked query-document labels \[Apr 2024]
+*   [Synthetic Data of LLMs (⭐592)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data): A reading list on LLM based Synthetic Data Generation \[Oct 2024]
 
 Pretrain for a base model
 

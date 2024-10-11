@@ -6,6 +6,40 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Oct 11, 2024](/content/2024/10/11/README.md)
+
+### General Section / Svelte
+
+*   [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
+
+### C# / Svelte
+
+*   [C# Insights](https://csharpinsights.com/). A free, weekly newsletter for .NET developers, to stay up-to-date with the latest news, enhancements, tips and tricks in the world of C# and .NET development. [Archive](https://newsletter.csharpinsights.com/).
+
+### Node.js / Svelte
+
+*   [Node.js Security Newsletter](https://www.nodejs-security.com/newsletter). Everything in and around the Node.js security ecosystem, direct to your inbox.
+
+### Cloud Development / Svelte
+
+*   [Cloud Study Weekly](https://cloudstudy.net/newsletter). This weekly newsletter features the latest news headlines in cloud computing, upcoming conferences related to cloud and DevOps, as well as weekly deals and freebies on cloud-native technologies.
+
+### Artificial Intelligence / Machine Learning / Big Data / Svelte
+
+*   [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
+
+### Technology in General / Svelte
+
+*   [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
+
+### Awesome news / Svelte
+
+*   [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
+
+### Productivity / Svelte
+
+*   [The Productivity Newsletter](https://newsletter.productivity.directory)
+
 ## [Jul 30, 2024](/content/2024/07/30/README.md)
 
 ### Go / Svelte
@@ -808,7 +842,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐686)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐711)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 
@@ -953,7 +987,7 @@ A list of amazing Newsletters
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.6k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.7k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 
 ### Resilience / Svelte
