@@ -6,6 +6,15 @@ Educational resources to learn to program (Foundation in Web Development)
 
 [ Daily / [Weekly](/content/karlhorky/learn-to-program/week/README.md) / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
 
+## [Oct 12, 2024](/content/2024/10/12/README.md)
+
+### Intermediate
+
+#### [LabEx](https://labex.io)
+
+**Freemium** hands-on tech skills labs in virtual environments, supported by an AI study assistant\
+*(Linux, Docker, DevOps, Python, Data Science, Machine Learning, Go, Java, C, C++, HTML, CSS, JavaScript, React)*
+
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 
 ### Contributing
@@ -87,7 +96,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 #### [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Computer%20Science)
 
 **Free** courses from MIT on advanced computer science topics\
-*(varied and extensive computer science topics, C, C++, ..)*
+*(varied and extensive computer science topics, C, C++)*
 #### [edX](https://www.edx.org/learn/computer-programming)
 
 **Free** courses from Harvard, MIT, and other universities\
