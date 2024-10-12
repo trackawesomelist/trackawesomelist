@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Oct 12, 2024](/content/2024/10/12/README.md)
+
+### JavaScript / Sistemas Operativos
+
+*   [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
+
 ## [Oct 07, 2024](/content/2024/10/07/README.md)
 
 ### JavaScript / Sistemas Operativos

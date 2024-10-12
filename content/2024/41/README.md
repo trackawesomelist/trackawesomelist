@@ -1,12 +1,26 @@
 # Awesome List Updates on Oct 07 - Oct 13, 2024
 
-31 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [1. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Audio
+
+*   [micropython-midi (⭐0)](https://github.com/EMATech/micropython-midi) - A MIDI implementation example for MicroPython.
+
+### Communications / Compression
+
+*   [micropython-zipfile (⭐0)](https://github.com/jonnor/micropython-zipfile) - Read/write ZIP archive files. Ported from CPython, supports DEFLATE compression.
+
+### Sensors / Camera
+
+*   [micropython-camera-API (⭐4)](https://github.com/cnadler86/micropython-camera-API) - Project with the aim of supporting cameras across various ports in MicroPython, starting with the ESP32 port and Omnivision cameras (OV2640 & OV5640).
+
+## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
@@ -40,7 +54,7 @@
 
 *   [The Productivity Newsletter](https://newsletter.productivity.directory)
 
-## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [3. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **LLM for Domain Specific** / **GPT series release date**
 
@@ -60,7 +74,7 @@
 
 *   [Synthetic Data of LLMs (⭐592)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data): A reading list on LLM based Synthetic Data Generation \[Oct 2024]
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -70,7 +84,7 @@
 
 *   [faer-rs (⭐1.8k)](https://github.com/sarah-quinones/faer-rs) \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
 
-## [4. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [5. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -98,7 +112,7 @@
 
 
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -108,50 +122,50 @@
 
 *   [Pyramid Flow](https://pyramid-flow.github.io/)
 
-## [6. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [7. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 
-## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Utilities
 
 *   [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 
-## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Books / Monograph
 
 *   [Pierce. Software Foundations. Pennsylvania](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [faster\_react (⭐17)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [vue-start-admin (⭐0)](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
 
-## [11. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   AI Collection - <https://www.thataicollection.com/>
 *   yesRamen - <https://yesramen.com/>
 
-## [12. Topics](/content/selvaklnc/topics/week/README.md)
+## [13. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### Others
 
 *   [Important pages](https://www.geocities.ws/ourmaster/important-pages.html) of Ourmaster.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -209,7 +223,7 @@
 *   [NDJSON (⭐671) (⭐669)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐345) (⭐341)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [15. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
@@ -220,7 +234,7 @@
 
 *   [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=5V_MvnwTVwc) ⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by [@kimfetti](https://github.com/kimfetti). Associated github repo is [here (⭐34)](https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024).
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
@@ -250,19 +264,35 @@
 
 *   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Text Editors
+
+*   [CodeEdit](https://www.codeedit.app/) - A lightweight, natively-built editor. Open source. Free forever. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CodeEditApp/CodeEdit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Reading and Writing Tools / Ebooks
+
+*   [Koodo Reader](https://www.koodoreader.com/en) - Koodo Reader is an all-in-one eBook reader for Windows, macOS, Linux, and the web, supporting over 15 formats. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/koodo-reader/koodo-reader)
 
 ### Browsers / Audio Record and Process
 
 *   [Zen](https://zen-browser.app/) - A beautifully designed, privacy-focused, and feature-rich browser ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zen-browser/desktop)
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+### Remote Login Software / System Related Tools
+
+*   [Moonlight (⭐10k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonlight-stream/moonlight-qt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Parsec](https://parsec.app) - Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go.
+*   [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - The Steam Link app allows you to play your Steam games across all your computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Sunshine (⭐19k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LizardByte/Sunshine) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-multiple-assets (⭐12)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
 
-## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Theory of Mind / AI Assisted Research
 
@@ -270,19 +300,19 @@
 *   [Planning with theory of mind](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(22\)00185-1) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047)]. \[[Preprint](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Planning requires that Theory of Mind consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. Theory of Mind contrasts with less cognitively demanding alternatives: statistical predictive models of other people’s actions, or model-free reinforcement of actions by their effects on other people. Theory of Mind is likely used to plan novel interventions and predict their effects, for example, in pedagogy, emotion regulation, and impression management.
 *   [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://openaccess.thecvf.com/content/CVPR2021/html/Fan_Learning_Triadic_Belief_Dynamics_in_Nonverbal_Communication_From_Videos_CVPR_2021_paper.html) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316)]. \[[Preprint](\(https://arxiv.org/abs/2104.02841\))]. This paper incorporates different nonverbal communication cues (e.g., gaze, human poses, and gestures) to represent, model, learn, and infer agents' mental states from pure visual inputs. Crucially, such a mental representation takes the agent's belief into account so that it represents what the true world state is and infers the beliefs in each agent's mental state, which may differ from the true world states. By aggregating different beliefs and true world states, the model essentially forms "five minds" during the interactions between two agents. This "five minds" model differs from prior works that infer beliefs in an infinite recursion; instead, agents' beliefs are converged into a "common mind". Based on this representation, this work further devises a hierarchical energy-based model that jointly tracks and predicts all five minds. From this new perspective, a social event is interpreted by a series of nonverbal communication and belief dynamics, which transcends the classic keyframe video summary.
 
-## [19. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Reporters
 
 *   [TestCollab (⭐0)](https://github.com/TCSoftInc/playwright-integration) - Run Playwright scripts and populate results back into [TestCollab](https://testcollab.com) test management tool.
 
-## [20. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [21. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Generators and Translators / Apache License
 
 *   [winforms2gtk (⭐1)](https://github.com/fdesp87/winforms2gtk) - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Books
 
@@ -339,7 +369,6 @@
 
 ### Android / Projects
 
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 *   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
 *   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
 *   [AnkitSuda/Rebound (⭐181)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
@@ -366,25 +395,25 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [22. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [23. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Spritesheet Tools
 
 *   :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 
-## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [moxide (⭐0)](https://github.com/dlurak/moxide) A tmux session manager with a modular config
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
 
-## [25. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [26. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -397,7 +426,7 @@
 
 *   [gatling-template.g8 (⭐3)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
-## [26. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Mailing
 
@@ -415,7 +444,7 @@
 
 *   [Wagtail events](https://wagtail.org/events/) - Online and in-person Wagtail events.
 
-## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -437,13 +466,13 @@
 
 *   [InvoiceShelf](https://invoiceshelf.com/) - A software that helps you track expenses, payments & create professional invoices & estimates (fork of Crater). ([Source Code (⭐303)](https://github.com/InvoiceShelf/InvoiceShelf)) `AGPL-3.0` `PHP/Docker`
 
-## [28. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [29. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Free Music Scores
 
 *   [bayanguru](https://bayanguru.org/) - engraving and publishing system that produces high quality sheet music for bayan in PDF.
 
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -462,6 +491,11 @@
 
 *   [playwright-ng-schematics (⭐9)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
+### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-cookie-consent (⭐14)](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
+*   [cookieconsent (⭐3.9k)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
@@ -474,13 +508,26 @@
 
 *   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 
-## [30. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-imageviewer (⭐1)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
+*   [ngx-json-schema-viewer (⭐2)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
+
+## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [ZPA](https://zpa.felipebz.com) — An open source parser and code analyzer for PL/SQL and Oracle SQL code.
 
-## [31. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [32. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### JavaScript / Sistemas Operativos
+
+*   [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+*   [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
+*   [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
+
+## [33. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Deployment and Infrastructure
 
