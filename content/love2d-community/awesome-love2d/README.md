@@ -6,6 +6,14 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/love2d-community/awesome-love2d/week/README.md) / [Overview](/content/love2d-community/awesome-love2d/readme/README.md) ]
 
+## [Oct 13, 2024](/content/2024/10/13/README.md)
+
+### IDEs
+
+*   [Zed](https://zed.dev) - Zed is a next-generation code editor designed for high-performance written in rust.
+    *   [love2z (⭐1)](https://github.com/alejandro-alzate/love2z) - Alejandro's Beta typing hints for Zed.
+    *   [love2d (⭐16)](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
+
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
 ### Utilities

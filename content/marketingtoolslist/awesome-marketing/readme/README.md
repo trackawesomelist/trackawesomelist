@@ -423,6 +423,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 
 ## Online Resources and Courses
 
+*   **[SEO Roadmap (⭐97)](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 *   **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 *   **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 

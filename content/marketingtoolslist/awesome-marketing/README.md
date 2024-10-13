@@ -6,6 +6,12 @@ A curated list of awesome marketing tools and resources
 
 [ Daily / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
 
+## [Oct 13, 2024](/content/2024/10/13/README.md)
+
+### Online Resources and Courses / Digital Asset Management (DAM)
+
+*   **[SEO Roadmap (⭐97)](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
+
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 
 ### Email Marketing / Email Deliverability

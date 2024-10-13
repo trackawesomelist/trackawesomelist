@@ -12,6 +12,12 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 *   [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 
+### IDEs
+
+*   [Zed](https://zed.dev) - Zed is a next-generation code editor designed for high-performance written in rust.
+    *   [love2z (⭐1)](https://github.com/alejandro-alzate/love2z) - Alejandro's Beta typing hints for Zed.
+    *   [love2d (⭐16)](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
+
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
 ### UI

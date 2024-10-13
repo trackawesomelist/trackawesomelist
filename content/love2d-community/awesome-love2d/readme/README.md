@@ -447,6 +447,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
     *   [love-ide (⭐56)](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar.
     *   [language-lua (⭐66)](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files.
     *   [atom-autocomplete-lua (⭐35)](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua.
+*   [Zed](https://zed.dev) - Zed is a next-generation code editor designed for high-performance written in rust.
+    *   [love2z (⭐1)](https://github.com/alejandro-alzate/love2z) - Alejandro's Beta typing hints for Zed.
+    *   [love2d (⭐16)](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
 
 ## Distribution
 
