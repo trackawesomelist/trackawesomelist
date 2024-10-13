@@ -8,6 +8,10 @@
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
+### C++ / Sistemas Operativos
+
+*   [Curso de C++](https://conclase.net/c/curso) - Salvador Pozo (HTML)
+
 ### JavaScript / Sistemas Operativos
 
 *   [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)

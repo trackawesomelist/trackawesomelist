@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Oct 13, 2024](/content/2024/10/13/README.md)
+
+### C++ / Sistemas Operativos
+
+*   [Curso de C++](https://conclase.net/c/curso) - Salvador Pozo (HTML)
+
 ## [Oct 12, 2024](/content/2024/10/12/README.md)
 
 ### JavaScript / Sistemas Operativos
