@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 14, 2024](/content/2024/10/14/README.md)
+
+### Cellular Automata
+
+*   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+
+## [Oct 13, 2024](/content/2024/10/13/README.md)
+
+### Cellular Automata
+
+*   [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
+
+## [Oct 12, 2024](/content/2024/10/12/README.md)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence, 3rd Edition (1993)](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) - Patrick Henry Winston (PDF)
+
 ## [Oct 06, 2024](/content/2024/10/06/README.md)
 
 ### Misc
@@ -46,13 +64,13 @@
 
 ### Artificial Intelligence
 
-*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF)
+*   [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
 ### Computer Organization and Architecture
 
-*   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF)
+*   [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000\&context=oer) - Charles W. Kann (PDF) (CC BY)
 
 ## [Jan 25, 2024](/content/2024/01/25/README.md)
 
@@ -101,7 +119,7 @@
 ### Embedded Systems
 
 *   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 *   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
@@ -327,7 +345,7 @@
 *   [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)
 *   [Practical File System Design: The Be File System](https://www.nobius.org/~dbg/practical-file-system-design.pdf) - Dominic Giampaolo (PDF)
 *   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
-*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
+*   [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF) (CC BY-NC-SA)
 *   [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
 *   [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 
@@ -439,7 +457,7 @@
 
 ### Machine Learning
 
-*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
+*   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF) (CC BY-NC-SA)
 
 ### Professional Development
 
@@ -586,7 +604,7 @@
 
 ### Algorithms & Data Structures
 
-*   [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+*   [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF) (GFDL)
 *   [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 *   [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 *   [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
@@ -645,7 +663,7 @@
 
 ### Containers
 
-*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+*   [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF) (CC BY-NC-ND)
 
 ## [Mar 04, 2023](/content/2023/03/04/README.md)
 
@@ -736,8 +754,8 @@
 
 ### Computer Science
 
-*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
-*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
+*   [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA)
+*   [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 
 ### Computer Vision
 
@@ -1016,7 +1034,7 @@
 
 ### Algorithms & Data Structures
 
-*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)*
+*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)* (CC BY-NC-ND)
 *   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 *   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
 
@@ -1104,8 +1122,8 @@
 
 ### Programming
 
-*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+*   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF) (CC BY-SA)
+*   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML) (CC BY-SA)
 
 ### Software Architecture
 
@@ -1612,7 +1630,7 @@
 *   [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 *   [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 *   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
-*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
+*   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 *   [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 *   [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 *   [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
@@ -1750,7 +1768,7 @@
 *   [How to Make a Computer Operating System (⭐21k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 *   [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 *   [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
-*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
+*   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 
 ### Professional Development
 

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 14, 2024](/content/2024/10/14/README.md)
+
+### Applications / Security tools
+
+*   [AdGuardian-Term (⭐952)](https://github.com/Lissy93/AdGuardian-Term) \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+
 ## [Oct 13, 2024](/content/2024/10/13/README.md)
 
 ### Applications / Blockchain

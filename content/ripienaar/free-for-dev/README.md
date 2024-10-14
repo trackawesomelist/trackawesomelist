@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 14, 2024](/content/2024/10/14/README.md)
+
+### Issue Tracking and Project Management
+
+*   [Crosswork](https://crosswork.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
+
+### IDE and Code Editing
+
+*   [GetVM](https://getvm.io) — Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.
+
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
 ### Generative AI
@@ -2878,7 +2888,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Issue Tracking and Project Management
 
 *   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, ten bug reports per app/month.
-*   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 

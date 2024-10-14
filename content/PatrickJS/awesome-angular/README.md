@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 14, 2024](/content/2024/10/14/README.md)
+
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Sebastian Persson](https://www.youtube.com/@DevBySeb)
+
+### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
+
 ## [Oct 13, 2024](/content/2024/10/13/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

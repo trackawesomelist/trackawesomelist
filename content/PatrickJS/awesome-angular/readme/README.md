@@ -406,6 +406,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Brian Treese](https://www.youtube.com/@briantreese)
 *   [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 *   [JSgigs](https://www.youtube.com/@jsgigs4909)
+*   [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 
 ##### Style Guides
 
@@ -1060,6 +1061,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-vest-forms (⭐46)](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 *   [ngx-currency (⭐236)](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 *   [ngx-super-forms (⭐1)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
+*   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 
 ##### Form Controls
 
