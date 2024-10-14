@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Theory of Mind / AI Assisted Research
+
+*   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](https://escholarship.org/content/qt5rk7z59q/qt5rk7z59q.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025)]. \[[Preprint](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf)]. This paper presents a computational framework for understanding Theory of Mind (ToM): the human capacity for reasoning about agents’ mental states such as beliefs and desires. The proposed Bayesian model of ToM (or BToM) expresses the predictive model of belief- and desire-dependent action at the heart of ToM as a partially observable Markov decision process (POMDP), and reconstructs an agent’s joint belief state and reward function using Bayesian inference, conditioned on observations of the agent’s behavior in some environmental context.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Theory of Mind / AI Assisted Research
@@ -1400,7 +1406,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of Theory of Mind. Humans are adept at inferring the mental states underlying other agents’ actions, such as goals, beliefs, desires, emotions and other thoughts. This paper proposes a computational framework based on Bayesian inverse planning for modeling human action understanding. The framework represents an intuitive theory of intentional agents’ behavior based on the principle of rationality: the expectation that agents will plan approximately rationally to achieve their goals, given their beliefs about the world. The mental states that caused an agent's behavior are inferred by inverting this model of rational planning using Bayesian inference, integrating the likelihood of the observed actions with the prior over mental states.
-*   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025\&hl=en\&as_sdt=0,5)].
 *   [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***MIT***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224\&hl=en\&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
 *   [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772\&hl=en\&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.
 *   [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204\&hl=en\&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.

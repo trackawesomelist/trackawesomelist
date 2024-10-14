@@ -2,9 +2,19 @@
 
 :art: A curated contents of amazing CSS :)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-css-group/awesome-css/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) · ⭐ 4K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/awesome-css-group/awesome-css/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) · ⭐ 5K · 🏷️ Front-End Development
 
 [ [Daily](/content/awesome-css-group/awesome-css/README.md) / Weekly / [Overview](/content/awesome-css-group/awesome-css/readme/README.md) ]
+
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Preprocessors :pill: / Editor's Draft :black_nib:
+
+*   [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
+
+### Miscellaneous / Editor's Draft :black_nib:
+
+*   [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
@@ -28,30 +38,29 @@
 
 ### CSS Working Group / Editor's Draft :black_nib:
 
-*   [W3c/csswg-drafts (⭐3.7k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
+*   [W3c/csswg-drafts (⭐4.5k)](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
 *   [W3c/css-houdini-drafts (⭐1.8k)](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository.
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
-*   [Mensch (⭐112)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
+*   [Mensch (⭐113)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [AgnosticUI](https://www.agnosticui.com/) - Accessible CSS component primitives that also work with React, Vue 3, Svelte, and Angular.
-*   [Awsm.css](https://igoradamenko.github.io/awsm.css/) - Simple CSS library for semantic HTML markup.
 *   [Inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
-*   [Material-components-web (⭐16k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
-*   [Tailwindcss (⭐62k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [Material-components-web (⭐17k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
+*   [Tailwindcss (⭐82k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [Normalize-OpenType (⭐798)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
-*   [Normalize (⭐49k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+*   [Normalize-OpenType (⭐794)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+*   [Normalize (⭐52k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 *   [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS Tools: Reset CSS.
-*   [Reseter.css (⭐1.1k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
-*   [Sanitize.css (⭐4.9k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
-*   [Unstyle.css (⭐25)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
+*   [Reseter.css (⭐1.2k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
+*   [Sanitize.css (⭐5.2k)](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
+*   [Unstyle.css (⭐29)](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
 ### CSS Development at Large-Scale Websites / Editor's Draft :black_nib:
 
@@ -60,10 +69,10 @@
 ### Code Style Guidelines :book: / Editor's Draft :black_nib:
 
 *   [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
-*   [CSS Styleguide (⭐411)](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
-*   [Dropbox (S)CSS Style Guide (⭐841)](https://github.com/dropbox/css-style-guide) by Dropbox
+*   [CSS Styleguide (⭐418)](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
+*   [Dropbox (S)CSS Style Guide (⭐1.2k)](https://github.com/dropbox/css-style-guide) by Dropbox
 *   [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
-*   [Idiomatic CSS (⭐6.5k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+*   [Idiomatic CSS (⭐6.7k)](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 *   [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 *   [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 
@@ -74,9 +83,9 @@
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
-*   [Styledoc (⭐6)](https://github.com/Joony/styledoc/)
+*   [Styledoc (⭐7)](https://github.com/Joony/styledoc/)
 *   [Styledocco (⭐1.1k)](https://github.com/jacobrask/styledocco)
-*   [Styledown (⭐675)](https://github.com/styledown/styledown)
+*   [Styledown (⭐667)](https://github.com/styledown/styledown)
 *   [Sc5-styleguide (⭐1.3k)](https://github.com/SC5/sc5-styleguide)
 
 ### Naming conventions & Methodologies :bulb: / Editor's Draft :black_nib:
@@ -91,19 +100,19 @@
 ### CSS in JS / Editor's Draft :black_nib:
 
 *   [Aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite)
-*   [Babel-plugin-css-in-js (⭐302)](https://github.com/martinandert/babel-plugin-css-in-js)
+*   [Babel-plugin-css-in-js (⭐298)](https://github.com/martinandert/babel-plugin-css-in-js)
 *   [Classy (⭐24)](https://github.com/inturn/classy)
-*   [Csjs (⭐578)](https://github.com/rtsao/csjs)
-*   [Css-loader (⭐4.2k)](https://github.com/webpack/css-loader)
-*   [React-styled (⭐37)](https://github.com/bloodyowl/react-styled)
+*   [Csjs (⭐575)](https://github.com/rtsao/csjs)
+*   [Css-loader (⭐4.3k)](https://github.com/webpack/css-loader)
+*   [React-styled (⭐39)](https://github.com/bloodyowl/react-styled)
 *   [React-with-styles (⭐1.7k)](https://github.com/airbnb/react-with-styles)
-*   [Styled-jsx (⭐7.2k)](https://github.com/zeit/styled-jsx)
-*   [Styled-components (⭐38k)](https://github.com/styled-components/styled-components)
-*   [Stylin (⭐172)](https://github.com/sultan99/stylin)
+*   [Styled-jsx (⭐7.7k)](https://github.com/zeit/styled-jsx)
+*   [Styled-components (⭐40k)](https://github.com/styled-components/styled-components)
+*   [Stylin (⭐180)](https://github.com/sultan99/stylin)
 
 ### CSS Polyfills / Editor's Draft :black_nib:
 
-*   [Polyfill.js (⭐294)](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
+*   [Polyfill.js (⭐296)](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
 *   [Prefixfree (⭐3.8k)](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
 *   [Fixed-sticky (⭐1.5k)](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 *   [Selectivizr (⭐1.7k)](https://github.com/keithclark/selectivizr) - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
@@ -113,7 +122,7 @@
 *   [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 *   [Single Div Project (⭐1.6k)](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 *   [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-*   [Xpath-to-selector (⭐8)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+*   [Xpath-to-selector (⭐11)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 ### Podcasts :radio: / Editor's Draft :black_nib:
 
@@ -179,7 +188,7 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [CSS Checker (⭐536)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+*   [CSS Checker (⭐577)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -249,25 +258,25 @@
 
 ### Style Guide / Editor's Draft :black_nib:
 
-*   [Fluent UI (⭐14k)](https://github.com/microsoft/fluentui) by Microsoft
+*   [Fluent UI (⭐18k)](https://github.com/microsoft/fluentui) by Microsoft
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
-*   [CSSOM (⭐721)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
-*   [CSSTree (⭐1.5k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
-*   [Gonzales PE (⭐320)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
-*   [ParserLib (⭐283)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
+*   [CSSOM (⭐751)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+*   [CSSTree (⭐1.9k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
+*   [Gonzales PE (⭐330)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
+*   [ParserLib (⭐287)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 *   [Rework (⭐2.8k)](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-*   [Stylecow (⭐154)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
+*   [Stylecow (⭐163)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
 
-*   [PostCSS (⭐27k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+*   [PostCSS (⭐28k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 *   [LESS (⭐17k)](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-*   [Sass (⭐14k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
-*   [STYLIS (⭐1.5k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
+*   [Sass (⭐15k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
+*   [STYLIS (⭐1.7k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 *   [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 
 ### Frameworks :art: / Editor's Draft :black_nib:
@@ -284,9 +293,9 @@
 *   [Milligram](http://milligram.io) - A minimalist CSS framework.
 *   [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 *   [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-*   [Shorthand Framework (⭐251)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+*   [Shorthand Framework (⭐255)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 *   [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
-*   [Strawberry (⭐74)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
+*   [Strawberry (⭐73)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 *   [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 *   [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
 *   [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
@@ -295,7 +304,6 @@
 ### Toolkits :wrench: / Editor's Draft :black_nib:
 
 *   [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-*   [Susy](https://www.oddbird.net/susy/) - Responsive layout toolkit for Sass.
 
 ### CSS Development at Large-Scale Websites / Editor's Draft :black_nib:
 
@@ -334,7 +342,7 @@
 
 ### CSS in JS / Editor's Draft :black_nib:
 
-*   [JSS (⭐6.8k)](https://github.com/cssinjs/jss)
+*   [JSS (⭐7.1k)](https://github.com/cssinjs/jss)
 
 ### CSS Polyfills / Editor's Draft :black_nib:
 
@@ -343,8 +351,8 @@
 ### Miscellaneous / Editor's Draft :black_nib:
 
 *   [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-*   [Live editor for CSS and LESS (⭐201)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-*   [RevengeCSS (⭐721)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+*   [Live editor for CSS and LESS (⭐275)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+*   [RevengeCSS (⭐832)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 
 ### Podcasts :radio: / Editor's Draft :black_nib:
 
@@ -376,7 +384,7 @@
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
-*   [Source (⭐553)](https://github.com/sourcejs/Source)
+*   [Source (⭐548)](https://github.com/sourcejs/Source)
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
 
@@ -402,14 +410,14 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [MiniReset.css (⭐2.6k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
+*   [MiniReset.css (⭐2.8k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Hologram (⭐2.2k)](https://github.com/trulia/hologram)
-*   [mdcss (⭐679)](https://github.com/jonathantneal/mdcss)
+*   [mdcss (⭐686)](https://github.com/jonathantneal/mdcss)
 
 ### Videos :tv: / 2015
 

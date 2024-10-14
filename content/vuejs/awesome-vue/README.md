@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Oct 14, 2024](/content/2024/10/14/README.md)
+
+### Resources / Community
+
+*   [VueJS Bangladesh - Facebook Group](https://www.facebook.com/groups/764064325433370)
+
+### Components & Libraries / UI Components
+
+*   [vue3-radial-progress (⭐25)](https://github.com/jairoblatt/vue3-radial-progress) - Radial progress bar component for Vue 3
+
 ## [Oct 09, 2024](/content/2024/10/09/README.md)
 
 ### Components & Libraries / Frameworks
@@ -16,7 +26,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-quilly (⭐41)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
+*   [vue-quilly (⭐46)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
@@ -157,7 +167,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vite (⭐67k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐68k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## [May 07, 2024](/content/2024/05/07/README.md)
 
@@ -271,10 +281,6 @@
 *   [vue-virtual-waterfall (⭐120)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
 ## [Nov 11, 2023](/content/2023/11/11/README.md)
-
-### Resources / Community
-
-*   \[VueJS Bangladesh - Facebook Group] (<https://www.facebook.com/groups/764064325433370>)
 
 ### Projects Using Vue.js / Open Source
 
@@ -413,7 +419,7 @@
 
 *   [tanstack-table (⭐25k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐12)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐298)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐299)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐33)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -550,7 +556,7 @@
 *   [vue-maplibre-gl (⭐86)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
 *   [1llest-waveform-vue (⭐30)](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
 *   [vue3-calendar-heatmap (⭐90)](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
-*   [Everright-formEditor (⭐441)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐442)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ### Components & Libraries / UI Utilities
 
@@ -614,7 +620,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vutron (⭐247)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+*   [Vutron (⭐248)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -791,7 +797,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐144)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐145)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ### Components & Libraries / UI Components
 
@@ -1251,7 +1257,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐401)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐408)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [Feb 16, 2022](/content/2022/02/16/README.md)
 
@@ -1599,7 +1605,7 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [NocoDB (⭐48k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
+*   [NocoDB (⭐49k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 
 ## [Oct 05, 2021](/content/2021/10/05/README.md)
 
@@ -1887,7 +1893,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐3.9k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [Jun 20, 2021](/content/2021/06/20/README.md)
 
@@ -2297,7 +2303,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐583)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐588)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
@@ -2438,7 +2444,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐742)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐743)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -3982,7 +3988,6 @@
 *   [@smartweb/vue-flash-message (⭐72)](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
 *   [vue-notification (⭐30)](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:
 *   [Breadstick (⭐120)](https://github.com/codebender828/breadstick) - 🚀 A simple and flexible positioning, stacking and dismissal API for your custom Vue notifications.
-*   [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
 *   [vue-simple-spinner (⭐428)](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
 *   [vue-wait (⭐2k)](https://github.com/f/vue-wait) - Complex Loader Management for Vue/Vuex and Nuxt applications.
 *   [vue-progress-path (⭐423)](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
@@ -6338,7 +6343,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐356)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐359)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 
@@ -6862,7 +6867,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐24k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [Wiki.js (⭐25k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 *   [vue-speech-streaming (⭐73)](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 
 ## [Oct 07, 2017](/content/2017/10/07/README.md)
@@ -7253,7 +7258,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Dockeron (⭐797)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+*   [Dockeron (⭐799)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
 ## [May 18, 2017](/content/2017/05/18/README.md)
 
