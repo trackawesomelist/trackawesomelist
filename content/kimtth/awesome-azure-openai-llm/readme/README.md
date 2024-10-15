@@ -137,6 +137,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
     *   [Adaptive-RAG](https://arxiv.org/abs/2403.14403): Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity [git (⭐159)](https://github.com/starsuzi/Adaptive-RAG) \[21 Mar 2024]
     *   [OP-RAG: Order-preserve RAG](https://arxiv.org/abs/2409.01666): Unlike traditional RAG, which sorts retrieved chunks by relevance, we keep them in their original order from the text.  \[3 Sep 2024]
     *   [Retrieval Augmented Generation (RAG) and Beyond](https://arxiv.org/abs/2409.14924):🏆The paper classifies user queries into four levels—`explicit, implicit, interpretable rationale, and hidden rationale`—and highlights the need for external data integration and fine-tuning LLMs for specialized tasks. \[23 Sep 2024]
+    *   [Astute RAG](https://arxiv.org/abs/2410.07176): adaptively extracts essential information from LLMs, consolidates internal and external knowledge with source awareness, and finalizes answers based on reliability. \[9 Oct 2024]
 
     </details>
 
@@ -358,6 +359,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 *   [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963): Our experiments were based on Lucene 9.5.0, but indexing was a bit tricky
     because the HNSW implementation in Lucene restricts vectors to 1024 dimensions, which was not sufficient for OpenAI’s 1536-dimensional embeddings. Although the resolution of this issue, which is to make vector dimensions configurable on a per codec basis, has been merged to the Lucene source trunk [git (⭐2.6k)](https://github.com/apache/lucene/pull/12436), this feature has not been folded into a Lucene release (yet) as of early August 2023. \[29 Aug 2023]
 *   [Is Cosine-Similarity of Embeddings Really About Similarity?](https://arxiv.org/abs/2403.05440): In linear matrix factorization, the use of regularization can impact, and in some cases, render cosine similarities meaningless. Regularization involves two objectives. The first objective applies L2-norm regularization to the product of matrices A and B, a process similar to dropout. The second objective applies L2-norm regularization to each individual matrix, similar to the weight decay technique used in deep learning. \[8 Mar 2024]
+*   [Contextual Document Embedding (CDE)](https://arxiv.org/abs/2410.02525): Improve document retrieval by embedding both queries and documents within the context of the broader document corpus. [ref](https://pub.aimind.so/unlocking-the-power-of-contextual-document-embeddings-enhancing-search-relevance-01abfa814c76) \[3 Oct 2024]
 
 ## **Section 2** : Azure OpenAI and Reference Architecture
 
@@ -1369,6 +1371,7 @@ class AgentType(str, Enum):
 *   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) A persona-driven data synthesis methodology using Text-to-Persona and Persona-to-Persona. \[28 Jun 2024]
 *   [RouteLLM (⭐3k)](https://github.com/lm-sys/RouteLLM): a framework for serving and evaluating LLM routers. \[Jun 2024]
 *   [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674): In machine learning, computer vision, audio processing, natural language processing, and symbolic formula representation (except for symbolic formula representation tasks), MLP generally outperforms KAN. \[23 Jul 2024]
+*   [Differential Transformer](https://arxiv.org/abs/2410.05258): Amplifies attention to the relevant context while minimizing noise using two separate softmax attention mechanisms. \[7 Oct 2024]
 
 ### **3. Visual Prompting & Visual Grounding**
 
@@ -1752,6 +1755,7 @@ class AgentType(str, Enum):
     *   [The State of Generative AI in the Enterprise](https://menlovc.com/2023-the-state-of-generative-ai-in-the-enterprise-report/) \[ⓒ2023]
         > 1.  96% of AI spend is on inference, not training. 2. Only 10% of enterprises pre-trained own models. 3. 85% of models in use are closed-source. 4. 60% of enterprises use multiple models.
     *   [Standford AI Index Annual Report](https://aiindex.stanford.edu/report/)
+    *   [State of AI Report 2024](https://www.stateof.ai/) \[10 Oct 2024]
 *   Google AI Research Recap
     *   [Gemini](https://blog.google/technology/ai/google-gemini-ai) \[06 Dec 2023] Three different sizes: Ultra, Pro, Nano. With a score of 90.0%, Gemini Ultra is the first model to outperform human experts on MMLU [ref](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
     *   [Google AI Research Recap (2022 Edition)](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
@@ -1942,7 +1946,7 @@ class AgentType(str, Enum):
 *   [900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html):🏆What I learned from looking at 900 most popular open source AI tools [list](https://huyenchip.com/llama-police) \[Mar 2024]
 *   [Open100: Top 100 Open Source achievements.](https://www.benchcouncil.org/evaluation/opencs/annual.html)
 *   [Awesome LLM Apps (⭐3.2k)](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. \[Apr 2024]
-*   [GenAI Agents (⭐2.5k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
+*   [GenAI Agents (⭐3.6k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
 ### **Applications, Frameworks, and User Interface (UI/UX)**
 
@@ -1977,7 +1981,7 @@ class AgentType(str, Enum):
     *   [code2prompt (⭐1.9k)](https://github.com/mufeedvh/code2prompt/): a command-line tool (CLI) that converts your codebase into a single LLM prompt with a source tree \[Mar 2024]
     *   [vanna (⭐11k)](https://github.com/vanna-ai/vanna): Chat with your SQL database \[May 2023]
     *   [Mem0 (⭐22k)](https://github.com/mem0ai/mem0): A self-improving memory layer for personalized AI experiences. \[Jun 2023]
-    *   [PDF2Audio (⭐716)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
+    *   [PDF2Audio (⭐1k)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
     *   [Llama Stack (⭐2.6k)](https://github.com/meta-llama/llama-stack): building blocks for Large Language Model (LLM) development \[Jun 2024]
     *   [o1-engineer (⭐1k)](https://github.com/Doriandarko/o1-engineer): a command-line tool designed to assist developers \[Sep 2024]
     *   [Auto\_Jobs\_Applier\_AIHawk (⭐17k)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk): automates the jobs application \[Aug 2024]
@@ -2005,7 +2009,7 @@ class AgentType(str, Enum):
     *   [Marker (⭐17k)](https://github.com/VikParuchuri/marker): converts PDF to markdown \[Oct 2023]
     *   [firecrawl (⭐15k)](https://github.com/mendableai/firecrawl): Scrap entire websites into LLM-ready markdown or structured data. \[Apr 2024]
     *   [Trafilatura (⭐3.5k)](https://github.com/adbar/trafilatura): Gather text from the web and convert raw HTML into structured, meaningful data. \[Apr 2019]
-    *   [Crawl4AI (⭐3.6k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper \[May 2024]
+    *   [Crawl4AI (⭐14k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper \[May 2024]
 *   Tools, Plugins, Development Tools, and Use Cases
     *   Streaming with Azure OpenAI [SSE (⭐59)](https://github.com/thivy/azure-openai-js-stream) \[May 2023]
     *   [Opencopilot](https://github.com/opencopilotdev/opencopilot): Build and embed open-source AI Copilots into your product with ease. \[Aug 2023]
@@ -2094,6 +2098,8 @@ class AgentType(str, Enum):
     *   [OpenAgents (⭐3.9k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
     *   [Burr (⭐1.2k)](https://github.com/dagworks-inc/burr): create an application as a state machine (graph/flowchart) for managing state, decisions, human feedback, and workflows. \[Jan 2024]
+    *   [OpenAI Swarm (⭐10k)](https://github.com/openai/swarm): An experimental and educational framework for lightweight multi-agent orchestration. \[11 Oct 2024]
+    *   [n8n (⭐47k)](https://github.com/n8n-io/n8n): A workflow automation tool for integrating various tools. [LangChain node](https://docs.n8n.io/advanced-ai/langchain/overview/) \[Jan 2019]
     *   Microsoft Agent Frameworks [X-ref](#microsoft-azure-openai-relevant-llm-framework)
 *   Agent Application
     *   [Auto-GPT (⭐167k)](https://github.com/Torantulino/Auto-GPT): Most popular \[Mar 2023]
@@ -2178,6 +2184,7 @@ class AgentType(str, Enum):
 *   [Quora Poe](https://poe.com/login) A chatbot service that gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots. \[Feb 2023]
 *   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
 *   [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
+*   [websim.ai](https://websim.ai/): a web editor and simulator that can generate websites. \[1 Jul 2024]
 
 ## **Section 11: Datasets for LLM Training**
 
@@ -2274,6 +2281,7 @@ databricks-dolly-15k: Instruction-Tuned [git](https://huggingface.co/datasets/da
 *   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
 *   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
 *   [LightEval (⭐689)](https://github.com/huggingface/lighteval): a lightweight LLM evaluation suite that Hugging Face has been using internally \[Jan 2024]
+*   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐378)](https://github.com/openai/mle-bench) \[9 Oct 2024]
 
 ### **LLM Evalution Benchmarks**
 

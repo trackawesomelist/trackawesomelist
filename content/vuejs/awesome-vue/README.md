@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Oct 15, 2024](/content/2024/10/15/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [vue-pagination (⭐1)](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
+
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
 ### Resources / Community

@@ -578,6 +578,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [killitar/obscure.nvim (⭐33)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 *   [bakageddy/alduin.nvim (⭐6)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐445)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
 *   [diegoulloao/neofusion.nvim (⭐183)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
+*   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 
 ### Lua Colorscheme
 
@@ -1192,6 +1193,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [niuiic/multiple-session.nvim (⭐9)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
 *   [RutaTang/spectacle.nvim (⭐13)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 *   [coffebar/neovim-project (⭐197)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
+*   [njayman/season.nvim (⭐1)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
 
 ## Remote Development
 

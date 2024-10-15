@@ -16,6 +16,10 @@
 
 *   [vue3-radial-progress (⭐25)](https://github.com/jairoblatt/vue3-radial-progress) - Radial progress bar component for Vue 3
 
+### Components & Libraries / UI Utilities
+
+*   [vue-pagination (⭐1)](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Components & Libraries / Frameworks

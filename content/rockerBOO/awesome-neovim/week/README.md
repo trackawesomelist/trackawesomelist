@@ -8,9 +8,17 @@ Collections of awesome neovim plugins.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
+
 ### Neovim Lua Development / Diagnostics
 
 *   [niuiic/omega.nvim (⭐1)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+
+### Session / Diagnostics
+
+*   [njayman/season.nvim (⭐1)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 

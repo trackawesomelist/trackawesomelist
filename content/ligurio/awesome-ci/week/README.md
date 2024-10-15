@@ -1,14 +1,30 @@
 # Track Awesome Ci Updates Weekly
 
-List of Continuous Integration services
+The list of continuous integration services and tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3.5K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3.7K · 🏷️ Development Environment
 
 [ [Daily](/content/ligurio/awesome-ci/README.md) / Weekly / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+- Name: [CICube](https://cicube.io/)
+
+  Description: Optimize your GitHub Actions with Insightful Analysis
+
+  Features: Cost optimization, Anomaly detection, AI powered CI Insights, GitHub Actions Dashboard
+
+  Supported repositories: GitHub
+
+  Documentation: -
+
+  Price: [14-day Trial](https://cicube.io/#pricing)
+
+
+
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
-- Name: [Laminar CI (⭐289)](https://github.com/ohwgiles/laminar)
+- Name: [Laminar CI (⭐299)](https://github.com/ohwgiles/laminar)
 
   Description: Fast and lightweight Continuous Integration
 
@@ -36,7 +52,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://docs.dagger.io/)
 
-  Price: [Open Source (⭐10k)](https://github.com/dagger/dagger)
+  Price: [Open Source (⭐11k)](https://github.com/dagger/dagger)
 
   Stars: 
 
@@ -62,7 +78,7 @@ List of Continuous Integration services
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
-- Name: [Pipelight (⭐272)](https://github.com/pipelight/pipelight)
+- Name: [Pipelight (⭐499)](https://github.com/pipelight/pipelight)
 
   Description: Tiny rust cli to run automation pipelines.
 
@@ -72,7 +88,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://pipelight.dev)
 
-  Price: [Free & Open Source (⭐272)](https://github.com/pipelight/pipelight/LICENSE.md)
+  Price: [Free & Open Source (⭐499)](https://github.com/pipelight/pipelight/LICENSE.md)
 
   Stars: [![Stars](https://img.shields.io/github/stars/pipelight/pipelight.svg)](https://github.com/pipelight/pipelight)
 
@@ -140,7 +156,7 @@ List of Continuous Integration services
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐537)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐556)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -279,7 +295,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://agola.io/doc/)
 
-  Price: [Open Source (⭐1.4k)](https://github.com/agola-io/agola)
+  Price: [Open Source (⭐1.5k)](https://github.com/agola-io/agola)
 
   Stars: [![Stars](https://img.shields.io/github/stars/agola-io/agola.svg)](https://github.com/agola-io/agola)
 
@@ -361,8 +377,6 @@ List of Continuous Integration services
 
   Price: [Free for 100 tests per month](http://www.chronoci.com/pricing)
 
-  Stars: 
-
 
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
@@ -377,7 +391,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐125)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐135)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 
@@ -411,9 +425,9 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐729)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐727)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐411)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐410)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -439,7 +453,7 @@ List of Continuous Integration services
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
-- Name: [minci (⭐26)](https://github.com/kristapsdz/minci)
+- Name: [minci (⭐27)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
 
@@ -487,7 +501,7 @@ List of Continuous Integration services
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
-- Name: [Abstruse CI (⭐920)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐937)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -495,7 +509,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐920)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐937)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -594,7 +608,7 @@ List of Continuous Integration services
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐828)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐839)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -624,7 +638,7 @@ List of Continuous Integration services
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐792)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐810)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -635,7 +649,7 @@ List of Continuous Integration services
   Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
 
 
-- Name: [CDS (⭐4.4k)](https://github.com/ovh/cds)
+- Name: [CDS (⭐4.6k)](https://github.com/ovh/cds)
 
   Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
@@ -645,7 +659,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://ovh.github.io/cds/)
 
-  Price: [Free Open Source (⭐4.4k)](https://github.com/ovh/cds)
+  Price: [Free Open Source (⭐4.6k)](https://github.com/ovh/cds)
 
   Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
 
@@ -785,7 +799,7 @@ List of Continuous Integration services
   Stars: 
 
 
-- Name: [Evergreen (⭐406)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐418)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -793,7 +807,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐406)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐418)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 
@@ -885,7 +899,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://jenkins.io/doc/)
 
-  Price: [Open Source (⭐22k)](https://github.com/jenkinsci/jenkins)
+  Price: [Open Source (⭐23k)](https://github.com/jenkinsci/jenkins)
 
   Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
 
@@ -905,7 +919,7 @@ List of Continuous Integration services
   Stars: 
 
 
-- Name: [Previs (⭐324)](https://github.com/PaulRosset/previs)
+- Name: [Previs (⭐325)](https://github.com/PaulRosset/previs)
 
   Description: Use Travis configuration to run stuff locally in a clean environment.
 
@@ -913,7 +927,7 @@ List of Continuous Integration services
 
   Supported repositories: Your computer, it's running locally!
 
-  Documentation: [Documentation (⭐324)](https://github.com/PaulRosset/previs)
+  Documentation: [Documentation (⭐325)](https://github.com/PaulRosset/previs)
 
   Price: It's free! Since you are hosting everything locally on your computer!
 
