@@ -6,6 +6,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Oct 15, 2024](/content/2024/10/15/README.md)
+
+### URI and IP handling / Isomorphic web frameworks
+
+*   [netaddr (⭐3)](https://github.com/ynadji/netaddr) -  A network address manipulation library for Common Lisp. MIT.
+    *   for manipulating IP addresses, subnets, ranges, and sets. It is inspired by its namesake library in Python, netaddr.
+
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
 ### Non-deterministic, logic programming
@@ -2846,7 +2853,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Nov 08, 2017](/content/2017/11/08/README.md)
 
-### URI handling / Isomorphic web frameworks
+### URI and IP handling / Isomorphic web frameworks
 
 *   [quri (⭐111)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
@@ -2970,7 +2977,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Apr 26, 2017](/content/2017/04/26/README.md)
 
-### URI handling / Isomorphic web frameworks
+### URI and IP handling / Isomorphic web frameworks
 
 *   [cl-slug (⭐25)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL](http://opensource.franz.com/preamble.html).
 

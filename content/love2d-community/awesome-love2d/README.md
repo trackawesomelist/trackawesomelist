@@ -6,6 +6,12 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/love2d-community/awesome-love2d/week/README.md) / [Overview](/content/love2d-community/awesome-love2d/readme/README.md) ]
 
+## [Oct 15, 2024](/content/2024/10/15/README.md)
+
+### UI
+
+*   [MeowUI (⭐7)](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
+
 ## [Oct 13, 2024](/content/2024/10/13/README.md)
 
 ### IDEs
