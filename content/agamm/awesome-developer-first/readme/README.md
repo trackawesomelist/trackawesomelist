@@ -150,6 +150,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *Check your code quality.*
 
 *   [Codacy](https://www.codacy.com/) - Automatic code quality checks.
+*   [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
 *   [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
 
 ## Computer Vision

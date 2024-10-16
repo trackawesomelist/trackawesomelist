@@ -12,6 +12,10 @@
 
 *   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
 
+### Software Architecture
+
+*   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Artificial Intelligence

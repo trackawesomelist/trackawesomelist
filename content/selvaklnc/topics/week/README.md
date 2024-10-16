@@ -4,6 +4,12 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Others
+
+*   [Important pages of Selvaklnc](http://www.geocities.ws/ourmaster/important-user-pages-selvaklnc.html) in Ourmaster Geocity.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Others

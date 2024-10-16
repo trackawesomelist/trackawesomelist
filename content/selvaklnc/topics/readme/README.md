@@ -222,6 +222,7 @@ Interesting topics on all subjects:
 
 ## Others
 
+*   [Important pages of Selvaklnc](http://www.geocities.ws/ourmaster/important-user-pages-selvaklnc.html) in Ourmaster Geocity.
 *   [Important pages](https://www.geocities.ws/ourmaster/important-pages.html) of Ourmaster.
 *   [Ourmaster @ Geocities](https://www.geocities.ws/ourmaster/) WS.
 *   [wmWebStacl localhost server](https://alternativeto.net/software/wmwebstack/about/)

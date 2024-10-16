@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 16, 2024](/content/2024/10/16/README.md)
+
+### Software Architecture
+
+*   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
+
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
 ### Cellular Automata

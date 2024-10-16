@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Code Quality
+
+*   [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Monitoring
