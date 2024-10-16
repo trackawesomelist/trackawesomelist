@@ -124,7 +124,7 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
-*   [Algo Deck (⭐5.6k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5.7k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Github Libraries
 
@@ -135,15 +135,15 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
     *   [by @TheAlgorithms (⭐19k)](https://github.com/TheAlgorithms/C)
 *   [CoffeeScript (⭐37)](https://github.com/BrunoRB/algorithms.coffee)
 *   C#
-    *   [by @shkolovy (⭐33)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @shkolovy (⭐34)](https://github.com/shkolovy/classic-algorithms)
     *   [by @aalhour (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.3k)](https://github.com/justcoding121/Advanced-Algorithms)
 *   C++
-    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐640)](https://github.com/PetarV-/Algorithms)
+    *   [by @xtaci (⭐5.3k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐642)](https://github.com/PetarV-/Algorithms)
     *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐188)](http://github.com/sslotin/algo)
-*   [Erlang (⭐156)](https://github.com/aggelgian/erlang-algorithms)
+    *   [by @sslotin (⭐190)](http://github.com/sslotin/algo)
+*   [Erlang (⭐157)](https://github.com/aggelgian/erlang-algorithms)
 *   Go
     *   [by @arnauddri (⭐1.9k)](https://github.com/arnauddri/algorithms)
     *   [by @floyernick (⭐2.8k)](https://github.com/floyernick/Data-Structures-and-Algorithms)
@@ -154,18 +154,18 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
     *   [by @psjava (⭐72)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
-    *   [by @Erdos-Graph-Framework (⭐127)](https://github.com/Erdos-Graph-Framework/Erdos)
+    *   [by @Erdos-Graph-Framework (⭐126)](https://github.com/Erdos-Graph-Framework/Erdos)
     *   [by @deepak-malik (⭐141)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐24)](https://github.com/yusufcakal/algorithms)
     *   [by @FarheenB (⭐141)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
     *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐9k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐927)](https://github.com/duereg/js-algorithms)
+    *   [by @nzakas (⭐9.1k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐928)](https://github.com/duereg/js-algorithms)
     *   [by @mgechev (⭐7.8k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐187k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐198)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @trekhleb (⭐188k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐199)](https://github.com/ManrajGrover/algorithms-js)
     *   [by @amejiarosario (⭐7.6k)](https://github.com/amejiarosario/dsa.js)
     *   [by @zonayedpca (⭐110)](https://github.com/zonayedpca/AlgoDS.js)
 *   Lua
@@ -180,14 +180,14 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
     *   [by @laurentluce (⭐277)](https://github.com/laurentluce/python-algorithms)
     *   [by @nbro (⭐59)](https://github.com/nbro/ands)
     *   [by @keon (⭐24k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐688)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐690)](https://github.com/vinta/fuck-coding-interviews)
 *   Ruby
     *   [by @kanwei (⭐2.7k)](https://github.com/kanwei/algorithms)
     *   [by @sagivo (⭐3.3k)](https://github.com/sagivo/algorithms)
     *   [by @kumar91gopi (⭐718)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 *   [Scala (⭐1.5k)](https://github.com/vkostyukov/scalacaster)
 *   Swift
-    *   [by @kingreza (⭐41)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐42)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐29k)](https://github.com/hollance/swift-algorithm-club)
 *   Language agnostic
@@ -203,10 +203,11 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
 
 *   [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 *   [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
-*   [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
+*   [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/) - A Japanese online judge from the University of Aizu, offering a wide range of algorithmic challenges.
 *   [Algo Muse](http://www.algomuse.appspot.com) - Research-based algorithmic problems.
 *   [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 *   [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
+*   [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
 *   [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 *   [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
 *   [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
@@ -225,6 +226,7 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
 *   [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 *   [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 *   [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
+*   [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
 *   [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
 *   [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depending on how much you already know).
 *   [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem-solving.
@@ -255,8 +257,8 @@ If you want to contribute, please read the [contribution guidelines (⭐20k)](ht
 
 ## Related Awesome Lists
 
-*   [Math (⭐8.6k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
-*   [Theoretical Computer Science (⭐661)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Math (⭐8.7k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Theoretical Computer Science (⭐677)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## License
 

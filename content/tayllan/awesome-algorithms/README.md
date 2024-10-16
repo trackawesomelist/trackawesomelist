@@ -6,6 +6,14 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
 
+## [Oct 16, 2024](/content/2024/10/16/README.md)
+
+### Online Judges / Randomized Algorithms
+
+*   [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/) - A Japanese online judge from the University of Aizu, offering a wide range of algorithmic challenges.
+*   [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
+*   [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
+
 ## [Sep 18, 2024](/content/2024/09/18/README.md)
 
 ### Books / Algorithms and Data structures
@@ -106,13 +114,13 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Theoretical Computer Science (⭐661)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+*   [Theoretical Computer Science (⭐677)](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
 
 ## [Jul 07, 2021](/content/2021/07/07/README.md)
 
 ### Related Awesome Lists / Randomized Algorithms
 
-*   [Math (⭐8.6k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+*   [Math (⭐8.7k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
 ## [Jul 04, 2021](/content/2021/07/04/README.md)
 
@@ -132,7 +140,7 @@ A curated list of awesome places to learn and/or practice algorithms.
     *   [by @psjava (⭐72)](https://github.com/psjava/psjava)
     *   [by @jeandersonbc (⭐22)](https://github.com/jeandersonbc/algorithms-and-ds)
     *   [by @pedrovgs (⭐2.8k)](https://github.com/pedrovgs/Algorithms)
-    *   [by @Erdos-Graph-Framework (⭐127)](https://github.com/Erdos-Graph-Framework/Erdos)
+    *   [by @Erdos-Graph-Framework (⭐126)](https://github.com/Erdos-Graph-Framework/Erdos)
     *   [by @deepak-malik (⭐141)](https://github.com/deepak-malik/Data-Structures-In-Java)
     *   [by @yusufcakal (⭐24)](https://github.com/yusufcakal/algorithms)
     *   [by @FarheenB (⭐141)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
@@ -199,7 +207,7 @@ A curated list of awesome places to learn and/or practice algorithms.
     *   [by @laurentluce (⭐277)](https://github.com/laurentluce/python-algorithms)
     *   [by @nbro (⭐59)](https://github.com/nbro/ands)
     *   [by @keon (⭐24k)](https://github.com/keon/algorithms)
-    *   [by @vinta (⭐688)](https://github.com/vinta/fuck-coding-interviews)
+    *   [by @vinta (⭐690)](https://github.com/vinta/fuck-coding-interviews)
 
 ## [Aug 11, 2020](/content/2020/08/11/README.md)
 
@@ -219,7 +227,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Cheat Sheets / Randomized Algorithms
 
-*   [Algo Deck (⭐5.6k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+*   [Algo Deck (⭐5.7k)](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
 
@@ -266,11 +274,11 @@ A curated list of awesome places to learn and/or practice algorithms.
 *   JavaScript
     *   [by @jiayihu (⭐2.2k)](https://github.com/jiayihu/pretty-algorithms)
     *   [by @felipernb (⭐3.7k)](https://github.com/felipernb/algorithms.js)
-    *   [by @nzakas (⭐9k)](https://github.com/nzakas/computer-science-in-javascript)
-    *   [by @duereg (⭐927)](https://github.com/duereg/js-algorithms)
+    *   [by @nzakas (⭐9.1k)](https://github.com/nzakas/computer-science-in-javascript)
+    *   [by @duereg (⭐928)](https://github.com/duereg/js-algorithms)
     *   [by @mgechev (⭐7.8k)](https://github.com/mgechev/javascript-algorithms)
-    *   [by @trekhleb (⭐187k)](https://github.com/trekhleb/javascript-algorithms)
-    *   [by @ManrajGrover (⭐198)](https://github.com/ManrajGrover/algorithms-js)
+    *   [by @trekhleb (⭐188k)](https://github.com/trekhleb/javascript-algorithms)
+    *   [by @ManrajGrover (⭐199)](https://github.com/ManrajGrover/algorithms-js)
     *   [by @amejiarosario (⭐7.6k)](https://github.com/amejiarosario/dsa.js)
     *   [by @zonayedpca (⭐110)](https://github.com/zonayedpca/AlgoDS.js)
 
@@ -279,10 +287,10 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   C++
-    *   [by @xtaci (⭐5.2k)](https://github.com/xtaci/algorithms)
-    *   [by @PetarV- (⭐640)](https://github.com/PetarV-/Algorithms)
+    *   [by @xtaci (⭐5.3k)](https://github.com/xtaci/algorithms)
+    *   [by @PetarV- (⭐642)](https://github.com/PetarV-/Algorithms)
     *   [by @faheel (⭐507)](https://github.com/faheel/Algos)
-    *   [by @sslotin (⭐188)](http://github.com/sslotin/algo)
+    *   [by @sslotin (⭐190)](http://github.com/sslotin/algo)
 
 ## [May 27, 2019](/content/2019/05/27/README.md)
 
@@ -351,7 +359,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   C#
-    *   [by @shkolovy (⭐33)](https://github.com/shkolovy/classic-algorithms)
+    *   [by @shkolovy (⭐34)](https://github.com/shkolovy/classic-algorithms)
     *   [by @aalhour (⭐5.9k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐1.3k)](https://github.com/justcoding121/Advanced-Algorithms)
 
@@ -418,7 +426,6 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Online Judges / Randomized Algorithms
 
-*   [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 *   [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 *   [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 *   [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
@@ -434,7 +441,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 ### Github Libraries / Randomized Algorithms
 
 *   Swift
-    *   [by @kingreza (⭐41)](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    *   [by @kingreza (⭐42)](https://github.com/kingreza/Swift-Algorithms-Strings-)
     *   [by @waynewbishop (⭐2.1k)](https://github.com/waynewbishop/SwiftStructures)
     *   [by @hollance (⭐29k)](https://github.com/hollance/swift-algorithm-club)
 
@@ -461,7 +468,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Github Libraries / Randomized Algorithms
 
-*   [Erlang (⭐156)](https://github.com/aggelgian/erlang-algorithms)
+*   [Erlang (⭐157)](https://github.com/aggelgian/erlang-algorithms)
 
 ## [Jul 17, 2014](/content/2014/07/17/README.md)
 
