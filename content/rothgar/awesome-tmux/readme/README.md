@@ -63,7 +63,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [sessionx (⭐723)](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
 *   [t (⭐325)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 *   [tat (⭐38)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
-*   [tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integration with tmuxinator, fzf and more, inspired by t
 *   [teamocil (⭐2.4k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmex (⭐88)](https://github.com/evnp/tmex) A minimalist tmux layout manager
 *   [tmux-cssh (⭐81)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
@@ -71,6 +70,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-nav-master (⭐6)](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
 *   [tmux-project (⭐6)](https://github.com/sei40kr/tmux-project) Search projects and open them in a new session
 *   [tmux-suspend (⭐126)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
+*   [tmux-tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 *   [tmux-up (⭐113)](https://github.com/jamesottaway/tmux-up) Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 *   [tmuxake (⭐11)](https://github.com/nkh/tmuxake) A side-pane manager for tmux
 *   [tmuxifier (⭐1.3k)](https://github.com/jimeh/tmuxifier) Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
@@ -100,7 +100,6 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-tokyo-night (⭐148)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 *   [tokyo-night-tmux (⭐304)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 *   [tomorrow (⭐45)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
-*   [tmux2k (⭐179)](https://github.com/2KAbhishek/tmux2k): Colorful and informative tmux theme.
 *   [tmux-kanagawa (⭐63)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ## Status Bar
@@ -108,6 +107,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [aws-tmux (⭐30)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 *   [gitmux (⭐618)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 *   [muxbar (⭐8)](https://github.com/dlurak/muxbar) configure the status bar in Rust.
+*   [tmux2k (⭐179)](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 *   [tmux-battery (⭐498)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-clima (⭐12)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
 *   [tmux-colortag (⭐96)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
@@ -167,7 +167,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-mouse-swipe (⭐12)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 *   [tmux-notify (⭐161)](https://github.com/rickstaa/tmux-notify) A plugin to notify you when processes are finished.
 *   [tmux-open-nvim (⭐47)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
-*   [tmux-thumbs (⭐903)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐910)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 *   [tmux-1password (⭐252)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 *   [tmux-jump (⭐356)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 *   [tmux-power-zoom (⭐44)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
@@ -177,7 +177,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tmux-spotify-playlists (⭐24)](https://github.com/danjeltahko/spotify-tmux) Another Spotify plugin, but for saving and playing your favorite playlists
 *   [tmux-super-fingers (⭐84)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 *   [tmux-tilish (⭐413)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
-*   [tmux-tilit (⭐28)](https://github.com/2KAbhishek/tmux-tilit) A more streamlined and enhanced version of tmux-tilish focusing on simplicity.
+*   [tmux-tilit (⭐28)](https://github.com/2KAbhishek/tmux-tilit) Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 *   [tmux-timetrap (⭐2)](https://github.com/croxarens/tmux-timetrap) Keep your time tracked directly with TMUX (The plugin is just a wrapper for [timetrap (⭐1.5k)](https://github.com/samg/timetrap))
 *   [tmux-wormhole (⭐98)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 *   [tmux-pianobar (⭐7)](https://github.com/GoHarder/tmux-pianobar) A menu and status bar widget for Pianobar

@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Tools and session management
+
+*   [tmux-tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Tools and session management
@@ -68,16 +74,15 @@ A list of awesome resources for tmux
 ### Tools and session management
 
 *   [sessionx (⭐723)](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
-*   [tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integration with tmuxinator, fzf and more, inspired by t
 
-### Themes
+### Status Bar
 
-*   [tmux2k (⭐179)](https://github.com/2KAbhishek/tmux2k): Colorful and informative tmux theme.
+*   [tmux2k (⭐179)](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 
 ### Plugins
 
 *   [tmux-filter (⭐5)](https://github.com/MaximilianGaedig/tmux-filter) Filter the current buffer by some text/pattern, very useful for viewing logs.
-*   [tmux-tilit (⭐28)](https://github.com/2KAbhishek/tmux-tilit) A more streamlined and enhanced version of tmux-tilish focusing on simplicity.
+*   [tmux-tilit (⭐28)](https://github.com/2KAbhishek/tmux-tilit) Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -489,7 +494,7 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-thumbs (⭐903)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐910)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 

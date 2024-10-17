@@ -1,12 +1,31 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2024
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [1. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+
+### Tools
+
+*   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
+*   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
+
+## [2. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Tools and session management
+
+*   [tmux-tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
+
+## [3. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Simple Lister - <https://simplelister.com/>
+
+## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
@@ -14,13 +33,21 @@
 *   [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
 *   [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Financial
 
 *   [udecimal (⭐69)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 
-## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+### Free e-books / Libraries for creating HTTP middlewares
+
+*   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+
+### Guided Learning / Libraries for creating HTTP middlewares
+
+*   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
+
+## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Community
 
@@ -29,13 +56,25 @@
 *   [Social Spaces](https://forum.ansible.com/c/chat/4) - Gather and interact with fellow enthusiasts.
 *   [News & Announcements](https://forum.ansible.com/c/news/5) - Track project-wide announcements including social events.
 
-## [4. Topics](/content/selvaklnc/topics/week/README.md)
+## [7. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### Others
 
+*   Wikimint Establishment. [Wikimint was officially founded on October 24, 2018](https://docs.google.com/drawings/d/e/2PACX-1vTker5nqrt6BzVlX9YQI6HIH5hpx9PGTyXqntm328KhnLZX-AtxWzc5klxxeNSiZxVaZWQNJAtgZAI2/pub?w=960\&h=720), with the goal of delivering insightful content on business and technology. Since its inception, it has grown into a trusted platform for entrepreneurs and tech enthusiasts alike.
+*   [Innovative Online Business Ideas](https://docs.google.com/document/d/1xATY7QnKLtoHBf-3w74WJdRQCtugOeqB_Tkm8zxOswo/edit?usp=sharing): Unleashing Your Entrepreneurial Spirit. Explore a variety of [creative online business opportunities](https://docs.google.com/document/d/e/2PACX-1vSUid822oiv_o6nZu5Zkk_RyI6J0XU1TBe4Y56T_yKxcWZ3RFpX6KrscFNC0FshQw8SM84sXcTmHWFt/pub) that can help ignite your entrepreneurial potential and guide you toward success.
+*   [Wikimint Location on Google Maps](https://www.google.com/maps/d/edit?mid=1w2U-F5RoZoZi_RpABQDgskcfzMypq64\&usp=sharing). Approximate location of the Wikimint online publishing platform, showcasing its presence in the digital landscape. Explore the map to get a visual representation of where Wikimint operates and connects with its audience.
+*   [Wikimint Logo Overview](https://docs.google.com/drawings/d/1yjCJ-DtXU3-SdpnmCO-4xekTMcy7z-A6t0brFIla5XY/edit?usp=sharing). The Wikimint logo features a clean, modern design accompanied by the tagline, encapsulating its focus on business and technology updates. [The logo represents the brand's identity and vision](https://docs.google.com/drawings/d/e/2PACX-1vTker5nqrt6BzVlX9YQI6HIH5hpx9PGTyXqntm328KhnLZX-AtxWzc5klxxeNSiZxVaZWQNJAtgZAI2/pub?w=960\&h=720), making it recognizable across platforms.
+*   [Survey on Emerging Online Business](https://forms.gle/snnnhkxJbp9yZB8n6) Trends. This poll delves into the latest developments and cutting-edge technologies [shaping the future of online business](https://docs.google.com/forms/d/e/1FAIpQLScL82ssHd2OuDrDKs3H2IWAjTLS3qINf7pA9FTwCHTEqYFKNA/viewform?usp=sf_link), offering insights into the direction of digital entrepreneurship.
+*   [Page version of Wikimint](https://docs.google.com/spreadsheets/d/1i_HggFUERkDxjFHyuAS13Ooz-CvAd2pd/edit?usp=sharing\&ouid=107369331720316719651\&rtpof=true\&sd=true) documentary pages.
+*   [Wikimint documentary](https://docs.google.com/spreadsheets/d/1i_HggFUERkDxjFHyuAS13Ooz-CvAd2pd/edit?usp=sharing\&ouid=107369331720316719651\&rtpof=true\&sd=true) page.
 *   [Important pages of Selvaklnc](http://www.geocities.ws/ourmaster/important-user-pages-selvaklnc.html) in Ourmaster Geocity.
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+### Responses
+
+*   [Profound and positive impact](https://blogs.uoregon.edu/myneighbor/2014/04/08/myneighbor/#comment-67) explore new opportunities.
+*   [Blog review #1](https://blogs.uoregon.edu/myneighbor/blog-review-1/#comment-66)
+
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -93,49 +132,49 @@
 
 *   [JSON Schema (⭐3.7k) (⭐3.7k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Utilities / Text
 
 *   [Wireshark (⭐7.2k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Autonomous LLM Agents / Multi-agents
 
 *   [openai/swarm (⭐10k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [AddTransit](https://addtransit.com/gtfs-transit-file.php) - SaaS (Software as a Service) platform to create, edit and publish schedules in GTFS format.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Decorators / Chrome Extensions
 
 *   :octocat: [Performance Decorators (⭐30)](https://github.com/RyanMyrvold/Performance-Decorators) - A collection of TypeScript decorators for performance optimization, including execution time logging, memory usage monitoring, and more.
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Griffe](https://mkdocstrings.github.io/griffe/) — Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Courses / Hash functions
 
 *   [Cryptography 101: Building Blocks](https://cryptography101.ca/crypto101-building-blocks/) - This introductory course (Fall 2024) by Alfred Menezes covers the fundamental cryptographic primitives: symmetric-key encryption, hash functions, MACs, authenticated encryption, public-key encryption, signatures, key agreement, RSA, elliptic curve cryptography.
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Code Quality
 
 *   [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
 
-## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [16. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Vector Database Comparison** / **Lucene based search engine with OpenAI Embedding**
 
@@ -153,7 +192,7 @@
 
 *   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐378)](https://github.com/openai/mle-bench) \[9 Oct 2024]
 
-## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [17. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [CICube](https://cicube.io/)
 
@@ -169,13 +208,13 @@
 
 
 
-## [15. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [18. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
 *   [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -251,13 +290,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [17. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [20. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 
 *   [MeowUI (⭐7)](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 
-## [18. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [21. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
@@ -302,14 +341,14 @@
 
 *   [Tidy Finance](https://www.tidy-finance.org/) - An opinionated approach to empirical research in financial economics - a fully transparent, open-source code base in multiple programming languages (Python and R) to enable the reproducible implementation of financial research projects for students and practitioners.
 
-## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Theory of Mind / AI Assisted Research
 
 *   [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](https://escholarship.org/content/qt5rk7z59q/qt5rk7z59q.pdf) - ***CogSci'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025)]. \[[Preprint](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf)]. This paper presents a computational framework for understanding Theory of Mind (ToM): the human capacity for reasoning about agents’ mental states such as beliefs and desires. The proposed Bayesian model of ToM (or BToM) expresses the predictive model of belief- and desire-dependent action at the heart of ToM as a partially observable Markov decision process (POMDP), and reconstructs an agent’s joint belief state and reward function using Bayesian inference, conditioned on observations of the agent’s behavior in some environmental context.
 *   [AGENT: A Benchmark for Core Psychological Reasoning](http://proceedings.mlr.press/v139/shu21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204)]. Inspired by cognitive development studies on intuitive psychology, this paper presents a benchmark consisting of a large dataset of procedurally generated 3D animations, AGENT (Action, Goal, Efficiency, coNstraint, uTility), structured around four scenarios (goal preferences, action efficiency, unobserved constraints, and cost-reward trade-offs) that probe key concepts of core intuitive psychology. The results suggest that to pass the designed tests of core intuitive psychology at human levels, a model must acquire or have built-in representations of how agents plan, combining utility computations and core knowledge of objects and physics.
 
-## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Non-deterministic, logic programming
 
@@ -325,7 +364,7 @@
 *   [netaddr (⭐3)](https://github.com/ynadji/netaddr) -  A network address manipulation library for Common Lisp. MIT.
     *   for manipulating IP addresses, subnets, ranges, and sets. It is inspired by its namesake library in Python, netaddr.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -339,7 +378,7 @@
 
 *   [vue-pagination (⭐1)](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
 
-## [22. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [25. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
 
@@ -349,7 +388,7 @@
 
 *   [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 
-## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -371,19 +410,23 @@
 
 *   [2KAbhishek/template.nvim (⭐1)](https://github.com/2kabhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [embedded-dht-rs](https://crates.io/crates/embedded-dht-rs) - 1-Wire, I2C - DHT11/DHT20/DHT22 temperature/humidity sensor driver - [github (⭐7)](https://github.com/rust-dd/embedded-dht-rs) - [![crates.io](https://img.shields.io/crates/v/embedded-dht-rs.svg)](https://crates.io/crates/embedded-dht-rs)
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
 *   [AdGuardian-Term (⭐952)](https://github.com/Lissy93/AdGuardian-Term) \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Libraries / Text search
+
+*   [SeekStorm (⭐164)](https://github.com/SeekStorm/SeekStorm) \[[SeekStorm](https://crates.io/crates/seekstorm)] - sub-millisecond full-text search library & multi-tenancy server in Rust
+
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -393,7 +436,7 @@
 
 *   [GetVM](https://getvm.io) — Instant free Linux and IDEs chrome sidebar. The free tier includes 5 VMs per day.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -428,7 +471,7 @@
 
 *   [ngx-toastr-message (⭐2)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -447,11 +490,15 @@
 
 *   [gcloud-prompt (⭐22)](https://github.com/ocadaruma/zsh-gcloud-prompt) - Shows the current gcloud configuration in the prompt.
 
-## [29. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Cellular Automata
 
 *   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+
+### IDE and editors
+
+*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 
 ### Software Architecture
 

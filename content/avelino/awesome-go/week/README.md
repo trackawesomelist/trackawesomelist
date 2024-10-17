@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [udecimal (⭐69)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 
+### Free e-books / Libraries for creating HTTP middlewares
+
+*   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+
+### Guided Learning / Libraries for creating HTTP middlewares
+
+*   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Artificial Intelligence

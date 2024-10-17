@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 335K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 336K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / Overview ]
 
@@ -302,13 +302,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
 *   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
-*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
+*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
 *   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐219)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐223)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 *   [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
@@ -332,7 +332,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [JPEG - Idea and Practice](https://en.wikibooks.org/wiki/JPEG_-_Idea_and_Practice)
 *   [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel *(:construction: in process)*
 *   [Learn OpenGL](https://learnopengl.com) - Joey de Vries
-*   [Learn OpenGL RS (⭐967)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐969)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
 *   [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft) *(:card\_file\_box: archived)*
 *   [Notes for a Computer Graphics Programming Course](https://dokumen.tips/documents/computer-grafics-notes.html) - Steve Cunningham (PDF)
 *   [OpenGL](https://www.songho.ca/opengl/index.html) - Concepts and illustrations
@@ -361,6 +361,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 *   [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
 *   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
+*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 *   [Learn Vim (the Smart Way) (⭐14k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
 *   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 *   [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
@@ -540,7 +541,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐55)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐57)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/) - Karl-Dieter Crisman (HTML, PDF)
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [Online Statistics Education](https://onlinestatbook.com) - David Lane
@@ -686,7 +687,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Open Source Ecosystem
 
 *   [500 lines or less (⭐29k)](https://github.com/aosabook/500lines) - Build from Source Code
-*   [Contributing to opensource: the right way (⭐129)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+*   [Contributing to opensource: the right way (⭐130)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 *   [Data Journalism Handbook](https://datajournalismhandbook.org)
 *   [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
 *   [Free for All](https://unglue.it/work/136445/) - Peter Wayner
@@ -821,7 +822,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
 *   [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
-*   [Solr for newbies workshop (2019) (⭐78)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐78)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐79)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐79)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -873,7 +874,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 *   [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)
 *   [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) (email address *requested*)
-*   [Refactor Like a Superhero (⭐988)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+*   [Refactor Like a Superhero (⭐994)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 *   [Scrum and XP from the Trenches](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2)
 *   [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/)
 *   [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) - Brian Zambrano (Packt account *required*)
@@ -882,7 +883,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 *   [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐360)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐361)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 *   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
@@ -933,10 +934,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐381)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐382)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 *   [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Chris Bourke (PDF)
-*   [Introduction to Git and GitHub eBook (⭐793)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Git and GitHub eBook (⭐822)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Learn Git - Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 *   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan

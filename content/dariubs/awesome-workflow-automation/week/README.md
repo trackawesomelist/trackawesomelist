@@ -2,9 +2,16 @@
 
 A curated list of Workflow Automation Software and Tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 250 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 279 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dariubs/awesome-workflow-automation/README.md) / Weekly / [Overview](/content/dariubs/awesome-workflow-automation/readme/README.md) ]
+
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Tools
+
+*   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
+*   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 

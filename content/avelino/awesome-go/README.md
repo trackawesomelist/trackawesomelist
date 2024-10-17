@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 17, 2024](/content/2024/10/17/README.md)
+
+### Free e-books / Libraries for creating HTTP middlewares
+
+*   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+
+### Guided Learning / Libraries for creating HTTP middlewares
+
+*   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
+
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### Financial

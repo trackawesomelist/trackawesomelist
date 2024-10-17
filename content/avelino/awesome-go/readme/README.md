@@ -3551,6 +3551,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 *   [An Introduction to Programming in Go](http://www.golang-book.com/)
+*   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 *   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 *   [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 *   [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
@@ -3784,6 +3785,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
 *   [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
+*   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
 **[⬆ back to top](#contents)**
 

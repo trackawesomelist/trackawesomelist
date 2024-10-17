@@ -6,6 +6,12 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 [ [Daily](/content/mmccaff/PlacesToPostYourStartup/README.md) / Weekly / [Overview](/content/mmccaff/PlacesToPostYourStartup/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Websites
+
+*   Simple Lister - <https://simplelister.com/>
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Websites

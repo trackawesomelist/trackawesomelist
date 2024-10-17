@@ -2,7 +2,7 @@
 
 A curated list of Workflow Automation Software and Tools
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 250 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 279 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dariubs/awesome-workflow-automation/README.md) / [Weekly](/content/dariubs/awesome-workflow-automation/week/README.md) / Overview ]
 
@@ -44,10 +44,12 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 *   **[Huginn (⭐43k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
 *   **[Pipedream](https://pipedream.com/)** - *[Review](https://productivity.directory/pipedream)*: Integrates APIs and data for powerful automation.
 *   **[Tray.io](https://tray.io/)** - *[Review](https://productivity.directory/tray-io)*: Provides a visual platform for connecting and automating business processes.
+*   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 *   **[Workato](https://www.workato.com/)** - *[Review](https://productivity.directory/workato)*: Focuses on enterprise automation with AI and machine learning capabilities.
 *   **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
 *   **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
 *   **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
+*   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
 ## Articles
 

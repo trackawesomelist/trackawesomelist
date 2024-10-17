@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 335K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 336K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
@@ -11,6 +11,10 @@
 ### Cellular Automata
 
 *   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+
+### IDE and editors
+
+*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 
 ### Software Architecture
 
@@ -112,7 +116,7 @@
 *   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
 *   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
-*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
+*   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
 *   [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
 
@@ -718,7 +722,7 @@
 
 ### Software Architecture
 
-*   [Refactor Like a Superhero (⭐988)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+*   [Refactor Like a Superhero (⭐994)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -754,7 +758,7 @@
 
 ### Open Source Ecosystem
 
-*   [Contributing to opensource: the right way (⭐129)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+*   [Contributing to opensource: the right way (⭐130)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 
 ### Search Engines
 
@@ -904,7 +908,7 @@
 
 ### Graphics Programming
 
-*   [Learn OpenGL RS (⭐967)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐969)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
 *   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 ### Graphical User Interfaces
@@ -1031,9 +1035,9 @@
 *   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐381)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐382)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and GitHub eBook (⭐793)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Git and GitHub eBook (⭐822)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 *   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
 *   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
@@ -1375,7 +1379,7 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐219)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
+*   [2D Game Development: From Zero To Hero (⭐223)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
 *   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
@@ -1472,7 +1476,7 @@
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐55)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐57)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 *   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
@@ -1598,7 +1602,7 @@
 ### Search Engines
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐78)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐78)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐79)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐79)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
 ### Security & Privacy
 
@@ -1626,7 +1630,7 @@
 *   [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 *   [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐360)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐361)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
