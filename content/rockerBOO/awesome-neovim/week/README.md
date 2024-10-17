@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
+### Marks / Diagnostics
+
+*   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
@@ -23,6 +27,10 @@ Collections of awesome neovim plugins.
 ### Session / Diagnostics
 
 *   [njayman/season.nvim (⭐1)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
+
+### Tmux / Diagnostics
+
+*   [EvWilson/slimux.nvim (⭐18)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 
 ### Boilerplate / Diagnostics
 

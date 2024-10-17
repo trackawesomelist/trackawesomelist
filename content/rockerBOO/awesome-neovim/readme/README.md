@@ -358,6 +358,7 @@ Collections of awesome neovim plugins.
 *   [fnune/recall.nvim (⭐39)](https://github.com/fnune/recall.nvim) - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 *   [niuiic/track.nvim (⭐23)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
 *   [tristone13th/lspmark.nvim (⭐54)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
+*   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 
 ## Search
 
@@ -1231,6 +1232,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [otavioschwanck/tmux-awesome-manager.nvim (⭐68)](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
 *   [karshPrime/only-tmux.nvim (⭐10)](https://github.com/karshPrime/only-tmux.nvim) - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
 *   [karshPrime/tmux-compile.nvim (⭐13)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
+*   [EvWilson/slimux.nvim (⭐18)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 
 ## Game
 

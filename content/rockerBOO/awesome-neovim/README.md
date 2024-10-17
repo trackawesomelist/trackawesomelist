@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 17, 2024](/content/2024/10/17/README.md)
+
+### Marks / Diagnostics
+
+*   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+
+### Tmux / Diagnostics
+
+*   [EvWilson/slimux.nvim (⭐18)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
+
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### Media / Diagnostics
