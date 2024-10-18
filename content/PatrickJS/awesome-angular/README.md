@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 18, 2024](/content/2024/10/18/README.md)
+
+### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
+
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -2792,7 +2798,7 @@
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐234)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐237)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 ## [Oct 27, 2023](/content/2023/10/27/README.md)
 

@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [udecimal (⭐69)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 
+### Utilities
+
+*   [sesh (⭐584)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
+
 ### Free e-books / Libraries for creating HTTP middlewares
 
 *   [Build a blockchain from scratch in Go with gRPC (⭐82)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.

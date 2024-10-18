@@ -41,6 +41,10 @@
 
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
 
+### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
+
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-youtube-player (⭐94)](https://github.com/orizens/ngx-youtube-player) - Angular component based on [YouTube player iframe API](https://developers.google.com/youtube/iframe_api_reference).
@@ -2407,7 +2411,7 @@
 
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐234)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐237)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 

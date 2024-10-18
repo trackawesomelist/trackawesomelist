@@ -6,6 +6,15 @@
 
 [ Daily / [Weekly](/content/dend/awesome-product-management/week/README.md) / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
 
+## [Oct 18, 2024](/content/2024/10/18/README.md)
+
+### Articles / Obsidian
+
+*   [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
+*   [Is or Is Not The Opposite Stupid on its Face?](https://rogermartin.medium.com/is-or-is-not-the-opposite-stupid-on-its-face-ab635b9c5582) - By [Roger Martin](https://rogermartin.medium.com/).
+*   [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
+*   [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism) - By [Guy Kawasaki](https://guykawasaki.com/).
+
 ## [Aug 30, 2024](/content/2024/08/30/README.md)
 
 ### Articles / Obsidian

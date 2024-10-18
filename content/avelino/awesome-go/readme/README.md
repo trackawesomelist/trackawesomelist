@@ -2910,6 +2910,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [scan (⭐63)](https://github.com/wroge/scan) - Scan sql rows into any type powered by generics.
 *   [scany (⭐1.3k)](https://github.com/georgysavva/scany) - Library for scanning data from a database into Go structs and more.
 *   [serve (⭐335)](https://github.com/syntaqx/serve) - A static http server anywhere you need.
+*   [sesh (⭐584)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
 *   [set (⭐47)](https://github.com/nofeaturesonlybugs/set) - Performant and flexible struct mapping and loose type conversion.
 *   [shutdown (⭐58)](https://github.com/ztrue/shutdown) - App shutdown hooks for `os.Signal` handling.
 *   [silk (⭐14)](https://github.com/chrispassas/silk) - Read silk netflow files.

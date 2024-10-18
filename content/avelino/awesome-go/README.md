@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 18, 2024](/content/2024/10/18/README.md)
+
+### Utilities
+
+*   [sesh (⭐584)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
+
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### Free e-books / Libraries for creating HTTP middlewares

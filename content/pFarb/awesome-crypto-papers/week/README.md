@@ -6,6 +6,12 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 [ [Daily](/content/pFarb/awesome-crypto-papers/README.md) / Weekly / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
 
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Specific topics / Post-quantum cryptography
+
+*   [Kyber and Dilithium](https://cryptography101.ca/kyber-dilithium) - These lectures describe Kyber (ML-KEM) and Dilithium (ML-DSA), the quantum-safe lattice-based key encapsulation and signature schemes that were standardized in August 2024 by the National Institute of Standards and Technology (NIST).
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Books / Post-quantum cryptography
