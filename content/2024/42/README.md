@@ -72,6 +72,21 @@
 
 *   [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
 
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
+*   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
+*   [CatBoost (⭐8k)](https://github.com/catboost/catboost)
+*   [JAX (⭐30k)](https://github.com/google/jax)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Dash](https://plotly.com/dash/)
+
+### Podcasts / Book Deals (Affiliated) 🛍
+
+*   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
+
 ## [10. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### Tools
@@ -104,6 +119,10 @@
 ### Financial
 
 *   [udecimal (⭐69)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
+
+### Networking
+
+*   [cloudflared (⭐9.1k)](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel).
 
 ### Utilities
 
@@ -456,6 +475,11 @@
 
 *   [AP5](https://ap5.com/) - allows users to program in a model of first order logic or a relational database. 1989, updated 2024. Public domain.
 
+### Advanced
+
+*   [Norvig's Lisp style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
+    *   and [lisp-lang.org's style guide](https://lisp-lang.org/style-guide/)
+
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-stuck-connection-monitor (⭐1)](https://github.com/avodonosov/hunchentoot-stuck-connection-monitor/) - Monitors hunchentoot connections and logs the connections stuck in the same state for a long time.
@@ -495,6 +519,7 @@
 ### Marks / Diagnostics
 
 *   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+*   [2KAbhishek/markit.nvim (⭐9)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -504,9 +529,18 @@
 
 *   [neo451/feed.nvim (⭐34)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, atom, json feed).
 
+### Utility / Diagnostics
+
+*   [EL-MASTOR/bufferlist.nvim (⭐14)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
+
 ### Neovim Lua Development / Diagnostics
 
 *   [niuiic/omega.nvim (⭐1)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+*   [2KAbhishek/utils.nvim (⭐2)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+
+### GitHub / Diagnostics
+
+*   [2KAbhishek/octohub.nvim (⭐38)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Session / Diagnostics
 
@@ -572,6 +606,7 @@
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
+*   [ngx-smart-forms (⭐2)](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

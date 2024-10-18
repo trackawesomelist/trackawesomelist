@@ -12,6 +12,21 @@
 
 *   [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
 
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
+*   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
+*   [CatBoost (⭐8k)](https://github.com/catboost/catboost)
+*   [JAX (⭐30k)](https://github.com/google/jax)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Dash](https://plotly.com/dash/)
+
+### Podcasts / Book Deals (Affiliated) 🛍
+
+*   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
+
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Books / Visualization Tools
@@ -445,7 +460,6 @@
 *   [Datacast](https://jameskle.com/writes/category/Datacast)
 *   [DataFramed](https://www.datacamp.com/community/podcast)
 *   [DataTalks.Club](https://anchor.fm/datatalksclub)
-*   [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 *   [Learning Machines 101](https://www.learningmachines101.com/)
 *   [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 *   [Linear Digressions](https://lineardigressions.com/)

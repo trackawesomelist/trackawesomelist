@@ -1997,6 +1997,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [buffstreams (⭐253)](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
 *   [canopus (⭐155)](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
 *   [cidranger (⭐899)](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
+*   [cloudflared (⭐9.1k)](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel).
 *   [dhcp6 (⭐77)](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 *   [dns (⭐8k)](https://github.com/miekg/dns) - Go library for working with DNS.
 *   [dnsmonster (⭐315)](https://github.com/mosajjal/dnsmonster) - Passive DNS Capture/Monitoring Framework.

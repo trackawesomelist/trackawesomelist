@@ -359,6 +359,7 @@ Collections of awesome neovim plugins.
 *   [niuiic/track.nvim (⭐23)](https://github.com/niuiic/track.nvim) - Enhanced mark with description. Track the thought process of reading source code.
 *   [tristone13th/lspmark.nvim (⭐54)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 *   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+*   [2KAbhishek/markit.nvim (⭐9)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 
 ## Search
 
@@ -816,6 +817,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ptdewey/pendulum-nvim (⭐53)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 *   [QuentinGruber/pomodoro.nvim (⭐20)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 *   [rlychrisg/truncateline.nvim (⭐13)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+*   [EL-MASTOR/bufferlist.nvim (⭐14)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
 *   [ellisonleao/dotenv.nvim (⭐40)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 
 ### CSV Files
@@ -939,6 +941,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [CWood-sdf/banana.nvim (⭐141)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 *   [OXY2DEV/helpview.nvim (⭐192)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 *   [niuiic/omega.nvim (⭐1)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+*   [2KAbhishek/utils.nvim (⭐2)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 
 ## Fennel
 
@@ -986,6 +989,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ldelossa/gh.nvim (⭐547)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 *   [topaxi/gh-actions.nvim (⭐114)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
 *   [rawnly/gist.nvim (⭐179)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
+*   [2KAbhishek/octohub.nvim (⭐38)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ## Motion
 

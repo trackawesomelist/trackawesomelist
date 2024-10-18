@@ -386,6 +386,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [Deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks)
 *   [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 *   [interpretable](https://pypi.org/project/interpretable)
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
+*   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
+*   [CatBoost (⭐8k)](https://github.com/catboost/catboost)
+*   [JAX (⭐30k)](https://github.com/google/jax)
 
 ### Deep Learning Packages
 
@@ -486,6 +490,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [C3](https://c3js.org/)
 *   [TensorWatch (⭐3.4k)](https://github.com/microsoft/tensorwatch)
 *   [geomap](https://pypi.org/project/geomap/)
+*   [Dash](https://plotly.com/dash/)
 
 ### Miscellaneous Tools
 
@@ -593,6 +598,21 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Opik (⭐1.7k)](https://github.com/comet-ml/opik)                                                        | Evaluate, test, and ship LLM applications across your dev and production lifecycles.                                                                                                                                                                                                                                          |
 | [Synthical](https://synthical.com)                                                                      | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place                                                                                                                                                                  |
 | [teeplot (⭐11)](https://github.com/mmore500/teeplot)                                                    | Workflow tool to automatically organize data visualization output                                                                                                                                                                                                                                                             |
+| [Streamlit (⭐35k)](https://github.com/streamlit/streamlit)                                              | App framework for Machine Learning and Data Science projects                                                                                                                                                                                                                                                                  |
+| [Gradio (⭐33k)](https://github.com/gradio-app/gradio)                                                   | Create customizable UI components around machine learning models                                                                                                                                                                                                                                                              |
+| [Weights & Biases (⭐9k)](https://github.com/wandb/wandb)                                                | Experiment tracking, dataset versioning, and model management                                                                                                                                                                                                                                                                 |
+| [DVC (⭐14k)](https://github.com/iterative/dvc)                                                          | Open-source version control system for machine learning projects                                                                                                                                                                                                                                                              |
+| [Optuna (⭐11k)](https://github.com/optuna/optuna)                                                       | Automatic hyperparameter optimization software framework                                                                                                                                                                                                                                                                      |
+| [Ray Tune (⭐33k)](https://github.com/ray-project/ray)                                                   | Scalable hyperparameter tuning library                                                                                                                                                                                                                                                                                        |
+| [Apache Airflow (⭐37k)](https://github.com/apache/airflow)                                              | Platform to programmatically author, schedule, and monitor workflows                                                                                                                                                                                                                                                          |
+| [Prefect (⭐16k)](https://github.com/PrefectHQ/prefect)                                                  | Workflow management system for modern data stacks                                                                                                                                                                                                                                                                             |
+| [Kedro (⭐9.9k)](https://github.com/kedro-org/kedro)                                                     | Open-source Python framework for creating reproducible, maintainable data science code                                                                                                                                                                                                                                        |
+| [SHAP (⭐23k)](https://github.com/slundberg/shap)                                                        | Game theoretic approach to explain the output of any machine learning model                                                                                                                                                                                                                                                   |
+| [LIME (⭐12k)](https://github.com/marcotcr/lime)                                                         | Explaining the predictions of any machine learning classifier                                                                                                                                                                                                                                                                 |
+| [flyte (⭐5.7k)](https://github.com/flyteorg/flyte)                                                      | Workflow automation platform for machine learning                                                                                                                                                                                                                                                                             |
+| [dbt (⭐9.8k)](https://github.com/dbt-labs/dbt-core)                                                     | Data build tool                                                                                                                                                                                                                                                                                                               |
+| [SHAP (⭐23k)](https://github.com/slundberg/shap)                                                        | Game theoretic approach to explain the output of any machine learning model                                                                                                                                                                                                                                                   |
+| [LIME (⭐12k)](https://github.com/marcotcr/lime)                                                         | Explaining the predictions of any machine learning classifier                                                                                                                                                                                                                                                                 |
 
 ## Literature and Media
 
@@ -841,7 +861,7 @@ This section includes some additional reading material, channels to watch, and t
 *   [Datacast](https://jameskle.com/writes/category/Datacast)
 *   [DataFramed](https://www.datacamp.com/community/podcast)
 *   [DataTalks.Club](https://anchor.fm/datatalksclub)
-*   [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
+*   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
 *   [Learning Machines 101](https://www.learningmachines101.com/)
 *   [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 *   [Linear Digressions](https://lineardigressions.com/)

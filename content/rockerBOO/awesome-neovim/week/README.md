@@ -11,6 +11,7 @@ Collections of awesome neovim plugins.
 ### Marks / Diagnostics
 
 *   [EvWilson/spelunk.nvim (⭐6)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
+*   [2KAbhishek/markit.nvim (⭐9)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -20,9 +21,18 @@ Collections of awesome neovim plugins.
 
 *   [neo451/feed.nvim (⭐34)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, atom, json feed).
 
+### Utility / Diagnostics
+
+*   [EL-MASTOR/bufferlist.nvim (⭐14)](https://github.com/EL-MASTOR/bufferlist.nvim) - A super fast, lightweight, minimal and super easy buffer manager.
+
 ### Neovim Lua Development / Diagnostics
 
 *   [niuiic/omega.nvim (⭐1)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
+*   [2KAbhishek/utils.nvim (⭐2)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+
+### GitHub / Diagnostics
+
+*   [2KAbhishek/octohub.nvim (⭐38)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Session / Diagnostics
 

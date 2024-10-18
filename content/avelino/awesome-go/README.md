@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
+### Networking
+
+*   [cloudflared (⭐9.1k)](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel).
+
 ### Utilities
 
 *   [sesh (⭐584)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.

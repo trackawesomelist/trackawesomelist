@@ -6,6 +6,23 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 18, 2024](/content/2024/10/18/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
+*   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
+*   [CatBoost (⭐8k)](https://github.com/catboost/catboost)
+*   [JAX (⭐30k)](https://github.com/google/jax)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [Dash](https://plotly.com/dash/)
+
+### Podcasts / Book Deals (Affiliated) 🛍
+
+*   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
+
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### MOOC's
@@ -457,7 +474,6 @@
 *   [Datacast](https://jameskle.com/writes/category/Datacast)
 *   [DataFramed](https://www.datacamp.com/community/podcast)
 *   [DataTalks.Club](https://anchor.fm/datatalksclub)
-*   [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 *   [Learning Machines 101](https://www.learningmachines101.com/)
 *   [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 *   [Linear Digressions](https://lineardigressions.com/)
