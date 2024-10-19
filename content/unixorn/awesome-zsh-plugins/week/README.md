@@ -23,6 +23,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [backbone (⭐2)](https://github.com/42LM/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
 *   [gcloud-prompt (⭐22)](https://github.com/ocadaruma/zsh-gcloud-prompt) - Shows the current gcloud configuration in the prompt.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
@@ -30,7 +31,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bws (⭐0)](https://github.com/elogiclab/zsh-bws) - Simplify and improve the retrieval of secrets from the [Bitwarden](https://bitwarden.com) Secret Manager.
-*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.8k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
+*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.9k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
@@ -162,7 +163,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.3k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
+*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.4k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
 *   [welcome-banner (⭐2)](https://github.com/joshuadanpeterson/zsh-welcome-banner) - Displays a login banner with a random quote.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -647,7 +648,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
 *   [ultima (⭐88)](https://github.com/egorlem/ultima.zsh-theme) - Minimalist, includes `git` status and current directory decorators.
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)

@@ -6,6 +6,22 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Oct 19, 2024](/content/2024/10/19/README.md)
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-flexmonster (⭐1)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
+
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-validator-pack (⭐14)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+    to simplify usage and allow quick customization.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-lazy-directive (⭐1)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+*   [ngx-fastboot (⭐6)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
+
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

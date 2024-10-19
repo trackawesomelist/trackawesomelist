@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 19, 2024](/content/2024/10/19/README.md)
+
+### Machine Learning
+
+*   [User Guide - scikit-learn](https://scikit-learn.org/stable/user_guide.html) - Scikit-learn developers (HTML) (BSD)
+
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### IDE and editors
@@ -1292,7 +1298,7 @@
 
 ### Software Architecture
 
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
+*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 
 ## [Dec 08, 2021](/content/2021/12/08/README.md)
 
@@ -1804,7 +1810,7 @@
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 *   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐445)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
-*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions
 
@@ -1816,7 +1822,7 @@
 ### Reverse Engineering
 
 *   [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
-*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
+*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
 ### Search Engines
 

@@ -1,24 +1,42 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2024
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [1. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+
+### Frameworks / Runtimes
+
+*   [Pears (⭐106)](https://github.com/holepunchto/pear) - Peer-to-peer runtime, development and deployment.
+
+### Security / Scala
+
+*   [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - Authorization management system for authoring, testing, and deploying access policies. Built scalable, fine-grained authorization in a microservice architecture.
+
+### Storage / Scala
+
+*   [Couchbase](https://couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+
+### Articles & Papers / Scala
+
+*   [Microservices - From Design to Deployment](https://www.f5.com/content/dam/f5/corp/global/pdf/ebooks/Microservices_Designing_Deploying.pdf) :small\_orange\_diamond:<sup>PDF</sup> - F5's seven-part series on microservices.
+
+## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak GraphQL API by @blevine (⭐2)](https://github.com/blevine/keycloak-graphql)
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Implementations/Compilers
 
 *   [Natalie (⭐934)](https://github.com/natalie-lang/natalie) - Natalie is a Ruby compiler that provides an ahead-of-time compiler using C++ and gcc/clang as the backend.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / File Sharing
 
@@ -28,13 +46,13 @@
 
 *   [PlayCover (⭐8.5k)](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PlayCover/PlayCover)
 
-## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [SiteStory](http://mementoweb.github.io/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
 
-## [5. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Obsidian
 
@@ -43,19 +61,19 @@
 *   [Guy Kawasaki, proto-evangelist](http://scripting.com/2024/10/08/155702.html) - By [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer).
 *   [The Art of Evangelism](https://hbr.org/2015/05/the-art-of-evangelism) - By [Guy Kawasaki](https://guykawasaki.com/).
 
-## [6. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Post-quantum cryptography
 
 *   [Kyber and Dilithium](https://cryptography101.ca/kyber-dilithium) - These lectures describe Kyber (ML-KEM) and Dilithium (ML-DSA), the quantum-safe lattice-based key encapsulation and signature schemes that were standardized in August 2024 by the National Institute of Standards and Technology (NIST).
 
-## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Cross-platform integration
 
 *   [Edge.js (⭐644)](https://github.com/agracio/edge-js) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -66,7 +84,7 @@
 *   [cast-text (⭐148)](https://github.com/piqoni/cast-text) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/cast-text)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png): a zero-latency, easy-to-use, rss reader.
 *   [Cleed (⭐172)](https://github.com/radulucut/cleed) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/radulucut/cleed)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -87,26 +105,26 @@
 
 *   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
 
-## [10. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [11. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### Tools
 
 *   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 *   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
-## [11. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [tmux-tea (⭐26)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 
-## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [13. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Simple Lister - <https://simplelister.com/>
 
-## [13. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
@@ -114,7 +132,7 @@
 *   [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
 *   [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Financial
 
@@ -136,7 +154,7 @@
 
 *   [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
-## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [16. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Community
 
@@ -144,21 +162,6 @@
 *   [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn) - Used to announce releases and important changes.
 *   [Social Spaces](https://forum.ansible.com/c/chat/4) - Gather and interact with fellow enthusiasts.
 *   [News & Announcements](https://forum.ansible.com/c/news/5) - Track project-wide announcements including social events.
-
-## [16. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Lisp / Emacs Lisp
-
-*   [Elisp Programming](https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html)
-
-### PHP / Yii
-
-*   [The Definitive Guide to Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) - Yii Software (PDF)
-
-### Python / NumPY
-
-*   [Guide to NumPY 2010](https://web.mit.edu/dvp/Public/numpybook.pdf) - Travis E. Oliphant (PDF).
-*   [NumPy user guide](https://numpy.org/doc/stable/user) - NumPY developers (HTML).
 
 ## [17. Topics](/content/selvaklnc/topics/week/README.md)
 
@@ -332,10 +335,6 @@
 *   [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
 
 ## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ### Libraries/Frameworks / Logging
 
@@ -603,10 +602,19 @@
 *   [go-captcha-angular (⭐2)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
 *   [ng-recaptcha-2 (⭐10)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha (⭐473)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
 
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-flexmonster (⭐1)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
+
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 *   [ngx-smart-forms (⭐2)](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
+
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-validator-pack (⭐14)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+    to simplify usage and allow quick customization.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -615,6 +623,11 @@
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-lazy-directive (⭐1)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+*   [ngx-fastboot (⭐6)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -645,7 +658,26 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
+*   [backbone (⭐2)](https://github.com/42LM/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
 *   [gcloud-prompt (⭐22)](https://github.com/ocadaruma/zsh-gcloud-prompt) - Shows the current gcloud configuration in the prompt.
+
+## [42. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Cellular Automata
+
+*   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+
+### IDE and editors
+
+*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
+
+### Machine Learning
+
+*   [User Guide - scikit-learn](https://scikit-learn.org/stable/user_guide.html) - Scikit-learn developers (HTML) (BSD)
+
+### Software Architecture
+
+*   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 
 ---
 

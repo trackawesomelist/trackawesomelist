@@ -29,10 +29,19 @@
 *   [go-captcha-angular (⭐2)](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
 *   [ng-recaptcha-2 (⭐10)](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha (⭐473)](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
 
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-flexmonster (⭐1)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
+
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 *   [ngx-smart-forms (⭐2)](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
+
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-validator-pack (⭐14)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+    to simplify usage and allow quick customization.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -41,6 +50,11 @@
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-lazy-directive (⭐1)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+*   [ngx-fastboot (⭐6)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

@@ -1067,7 +1067,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [git-aliases (mdumitru) (⭐30)](https://github.com/mdumitru/git-aliases) - Broken out version of the version in [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of [oh-my-zsh](https://ohmyz.sh).
 *   [git-aliases (peterhurford) (⭐80)](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 *   [git-aliases (remino) (⭐0)](https://github.com/remino/omz-plugin-git-aliases) - Aliases all `git xyz` commands to `gxyz`. Also aliases `g` to `git`.
-*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.8k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
+*   [git-arc (⭐0)](https://github.com/jlduran/git-arc-oh-my-zsh-plugin) - Adds aliases and functions for [git-arc (⭐7.9k)](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
 *   [git-branches (⭐6)](https://github.com/Schroefdop/git-branches) - Makes a menu of `git` branches you can switch to without having to type long branch names.
 *   [git-check (⭐1)](https://github.com/git-girl/git-check) - Adds a ZSH hook to check if the origin of the current branch has changes to local in the background and sends a notification.
 *   [git-clean-branch (⭐1)](https://github.com/gobriansteele/git-clean-branch) - Cleans up dead `git` branches.
@@ -1513,7 +1513,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [tab-title (trystan2k) (⭐49)](https://github.com/trystan2k/zsh-tab-title) - Set the terminal tab title according to current directory or running process. Forked from [termsupport.zsh (⭐173k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/lib/termsupport.zsh).
 *   [tailf (⭐2)](https://github.com/rummik/zsh-tailf) - Adds `tailf` function with prefixed newlines instead of trailing newlines.
 *   [take (⭐3)](https://github.com/amyreese/zsh-take) - Replicates `take` from [oh-my-zsh](https://ohmyz.sh/).
-*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.3k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
+*   [tasko (⭐1)](https://github.com/knid/tasko) - Allows you to annotate [TaskWarrior (⭐4.4k)](https://github.com/GothenburgBitFactory/taskwarrior) tasks.
 *   [telepresence (⭐0)](https://github.com/alexgervais/telepresence-ps1) - Add the current [Telepresence](https://www.telepresence.io/) connection status and context to your ZSH prompt.
 *   [terminal-aliases (⭐10)](https://github.com/dvir-levy/terminal-aliases) - Adds convenience aliases for \[terraform] \[git] and more.
 *   [terminal-app (⭐12)](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new macOS El Capitan Terminal.app features.
@@ -1987,7 +1987,7 @@ If you're using [Antigen (⭐8k)](https://github.com/zsh-users/antigen), you can
 *   [avit-mod (⭐0)](https://github.com/zlsun/avit-mod) - Modified version of oh-my-zsh's [avit (⭐173k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/avit.zsh-theme) theme.
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐173k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
-*   [backbone (⭐2)](https://github.com/lmllrjr/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
+*   [backbone (⭐2)](https://github.com/42LM/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
 *   [bahman (⭐1)](https://github.com/bahmanworld/bahman-zsh-theme) - Requires Nerd Font. Has `git` status decorator.
 *   [banana (⭐6)](https://github.com/sorcererxw/banana-zsh-theme) - Includes `git` status decorations and current directory.
 *   [bandit (⭐3)](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.

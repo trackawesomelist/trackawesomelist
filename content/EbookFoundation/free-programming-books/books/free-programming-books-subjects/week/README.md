@@ -16,6 +16,10 @@
 
 *   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 
+### Machine Learning
+
+*   [User Guide - scikit-learn](https://scikit-learn.org/stable/user_guide.html) - Scikit-learn developers (HTML) (BSD)
+
 ### Software Architecture
 
 *   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
@@ -1127,7 +1131,7 @@
 
 ### Software Architecture
 
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
+*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -1585,7 +1589,7 @@
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 *   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐445)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
-*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+*   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
 ### Regular Expressions
 
@@ -1597,7 +1601,7 @@
 ### Reverse Engineering
 
 *   [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
-*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) (PDF)
+*   [iOS App Reverse Engineering (⭐4.2k)](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
 ### Search Engines
 

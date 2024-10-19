@@ -934,6 +934,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [zingchart-angular (⭐2)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 *   [unovis (⭐2.2k)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 *   [angular-google-charts (⭐274)](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+*   [ngx-flexmonster (⭐1)](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
 
 #### Cookies
 
@@ -1110,6 +1111,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-reactive-validation (⭐32)](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 *   [ngx-formcontrol-errors (⭐1)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 *   [error-tailor (⭐482)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+*   [ngx-validator-pack (⭐14)](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+    to simplify usage and allow quick customization.
 
 #### Icons
 
@@ -1196,6 +1199,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-svg-round-progressbar (⭐741)](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 *   [ng-circle-progress (⭐251)](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 *   [ngx-loading-buttons (⭐14)](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+*   [ngx-lazy-directive (⭐1)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
+*   [ngx-fastboot (⭐6)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 #### Loggers
 
