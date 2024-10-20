@@ -25,6 +25,7 @@
 ### Gaming Software / System Related Tools
 
 *   [PlayCover (⭐8.5k)](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/PlayCover/PlayCover)
+*   [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://git.suyu.dev/suyu/suyu)
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
@@ -2819,7 +2820,6 @@
 *   [EME (⭐2k)](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 *   [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
-*   [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 
 ### Reading and Writing Tools / Note-taking

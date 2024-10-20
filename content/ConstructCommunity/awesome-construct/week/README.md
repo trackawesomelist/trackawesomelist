@@ -2,9 +2,19 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 60 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 71 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / Weekly / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
+
+### Tutorials / YouTube
+
+*   [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+
+### Tutorials / Other Sources
+
+*   [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 

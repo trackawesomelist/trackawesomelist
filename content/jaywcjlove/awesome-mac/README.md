@@ -18,6 +18,10 @@
 
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Gaming Software / System Related Tools
+
+*   [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://git.suyu.dev/suyu/suyu)
+
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
 ### Communication / File Sharing
@@ -3102,7 +3106,6 @@
 *   [EME (⭐2k)](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 *   [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
-*   [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Ulysses](https://www.ulyssesapp.com/features/) - The Ultimate Writing App for Mac, iPad and iPhone.
 
 ### Reading and Writing Tools / Note-taking

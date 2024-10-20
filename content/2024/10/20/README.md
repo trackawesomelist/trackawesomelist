@@ -1,12 +1,35 @@
 # Awesome List Updates on Oct 20, 2024
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Topics](/content/selvaklnc/topics/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/README.md)
+
+### Scientific computing
+
+*   [NeuralNetworks-V-Module (⭐19)](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
+
+## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Downloading, Installing, Upgrading, and Building
+
+*   [Qubes OS 4.2.3](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.3 download.
+*   [Qubes OS 4.2.3 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2.3 Weekly Build download.
+
+## [3. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+
+### Tutorials / YouTube
+
+*   [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+
+### Tutorials / Other Sources
+
+*   [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
+
+## [4. Topics](/content/selvaklnc/topics/README.md)
 
 ### List of articles and posts
 
@@ -14,7 +37,7 @@
 *   [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
 *   30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
 
-## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Artificial Intelligence (AI)
 
@@ -39,7 +62,7 @@
 *   [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 *   [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -51,7 +74,11 @@
 
 *   [Cleaner for Xcode (⭐1.4k)](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Helps make your Xcode faster by removing unwanted and deprecated files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+### Gaming Software / System Related Tools
+
+*   [Suyu](https://suyu.dev/) - A familiar, open source, and powerful Nintendo Switch emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://git.suyu.dev/suyu/suyu)
+
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -69,7 +96,7 @@
 
 *   [batchai (⭐18)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 
-## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Typescript
 
@@ -136,17 +163,21 @@
 
 *   [Basic-Car-Maintenance (⭐229)](https://github.com/mikaelacaron/Basic-Car-Maintenance) *(label: good first issue)* <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
 *   [HTMLy](https://www.htmly.com/) - Databaseless PHP blogging platform. A flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds. ([Demo](http://demo.htmly.com/), [Source Code (⭐1.1k)](https://github.com/danpros/htmly), [Clients](https://www.htmly.com/theme/)) `GPL-2.0` `PHP`
 
+### Software / Document Management - E-books
+
+*   [The Epube](https://gitlab.tt-rss.org/main/the-epube/-/wikis/home) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://gitlab.tt-rss.org/main/the-epube)) `GPL-3.0` `PHP`
+
 ### Software / Software Development - IDE & Tools
 
 *   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐6k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -156,7 +187,7 @@
 
 *   [ngx-nullish (⭐2)](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Mathematics For Computer Science
 

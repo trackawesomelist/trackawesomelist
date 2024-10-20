@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [HTMLy](https://www.htmly.com/) - Databaseless PHP blogging platform. A flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds. ([Demo](http://demo.htmly.com/), [Source Code (⭐1.1k)](https://github.com/danpros/htmly), [Clients](https://www.htmly.com/theme/)) `GPL-2.0` `PHP`
 
+### Software / Document Management - E-books
+
+*   [The Epube](https://gitlab.tt-rss.org/main/the-epube/-/wikis/home) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://gitlab.tt-rss.org/main/the-epube)) `GPL-3.0` `PHP`
+
 ### Software / Software Development - IDE & Tools
 
 *   [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. ([Demo](https://langfuse.com/docs/demo), [Source Code (⭐6k)](https://github.com/langfuse/langfuse), [Clients](https://langfuse.com/docs/integrations/overview)) `MIT` `Docker`
@@ -2891,7 +2895,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Document Management - E-books
 
 *   [Calibre Web (⭐13k)](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`
-*   [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -3546,7 +3549,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`
+*   [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle, client-side encrypted. ([Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 

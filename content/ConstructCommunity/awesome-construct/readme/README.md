@@ -2,7 +2,7 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 60 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 71 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / Overview ]
 
@@ -19,7 +19,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
-[How to contribute? (⭐60)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
+[How to contribute? (⭐71)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 <p align="center">  
    :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
@@ -101,6 +101,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[TodaysTuts\] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 *   Let's Make Games: [\[PONG\]](https://www.youtube.com/watch?v=cvItNHEMB80) [\[ASTEROIDS\]](https://www.youtube.com/watch?v=nYULTk2BpKY) [\[Flappy Bird\]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 *   [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
+*   [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
 
 ### Other Sources
 
@@ -108,6 +109,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[MVA\] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
 *   [\[Udemy FREE!\] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
 *   [\[TutPlus\] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
+*   [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
 
 ## E-Books
 
