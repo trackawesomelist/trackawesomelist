@@ -1,8 +1,33 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.2K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.3K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Oct 20, 2024](/content/2024/10/20/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
+*   [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
+
+### InfoSec
+
+*   [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
+
+### Remote / TypeScript
+
+*   [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
+
+### Tech / Aggregator
+
+*   [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+
+### Tech / Europe
+
+*   [DanishTech.co](https://danishtech.co/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
+*   [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
+*   [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
 ## [Apr 14, 2024](/content/2024/04/14/README.md)
 
@@ -13,10 +38,6 @@
 ### Database
 
 *   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
-
-### Programming / Java
-
-*   [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
@@ -59,12 +80,6 @@
 ### Various / United Kingdom
 
 *   [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
-
-## [Aug 03, 2023](/content/2023/08/03/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## [Jul 26, 2023](/content/2023/07/26/README.md)
 
@@ -168,10 +183,6 @@
 
 *   [Svelte Jobs](https://sveltejobs.com/)
 
-### Programming / Rust
-
-*   [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
-
 ### Programming / Scala
 
 *   [Scala Jobs](https://scalajobs.com)
@@ -227,12 +238,6 @@
 
 *   [TheRemoteWork](https://theremotework.co/)
 
-## [Dec 21, 2021](/content/2021/12/21/README.md)
-
-### Programming / JavaScript
-
-*   [React Jobs](https://reactjsjob.com)
-
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 
 ### Programming / Rust
@@ -284,7 +289,6 @@
 ### Writing / United Kingdom
 
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
-*   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
 ## [Mar 03, 2021](/content/2021/03/03/README.md)
 
@@ -309,12 +313,6 @@
 ### Tech / Europe
 
 *   [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
-
-## [Jul 28, 2020](/content/2020/07/28/README.md)
-
-### Tech / Europe
-
-*   [WeJob.ch](https://WeJob.ch/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
 ## [Jul 05, 2020](/content/2020/07/05/README.md)
 
@@ -393,16 +391,6 @@
 ### Programming / JavaScript
 
 *   [JavaScript Developer Board](https://javascriptjob.xyz/)
-
-## [May 16, 2019](/content/2019/05/16/README.md)
-
-### Artificial Intelligence (AI)
-
-*   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
-
-### InfoSec
-
-*   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## [Jan 04, 2019](/content/2019/01/04/README.md)
 

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Oct 20, 2024](/content/2024/10/20/README.md)
+
+### Mathematics For Computer Science
+
+*   [PROGRAM = PROOF](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Samuel Mimram (PDF)
+
 ## [Oct 19, 2024](/content/2024/10/19/README.md)
 
 ### Machine Learning

@@ -6,6 +6,12 @@
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
+### List of articles and posts
+
+*   [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
+*   [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
+*   30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
+
 ### Others
 
 *   Wikimint Establishment. [Wikimint was officially founded on October 24, 2018](https://docs.google.com/drawings/d/e/2PACX-1vTker5nqrt6BzVlX9YQI6HIH5hpx9PGTyXqntm328KhnLZX-AtxWzc5klxxeNSiZxVaZWQNJAtgZAI2/pub?w=960\&h=720), with the goal of delivering insightful content on business and technology. Since its inception, it has grown into a trusted platform for entrepreneurs and tech enthusiasts alike.
@@ -45,7 +51,6 @@
 *   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
 *   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
 *   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
-*   [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
 *   [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
 *   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
 

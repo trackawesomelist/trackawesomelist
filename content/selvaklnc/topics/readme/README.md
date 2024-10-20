@@ -33,7 +33,6 @@ Interesting topics on all subjects:
 *   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
 *   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
 *   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
-*   [Selvakumaran Krishnan @ Dribble](https://dribbble.com/selvaklnc) - Web developer.
 *   [Selvaklnc @ Metaculus](https://www.metaculus.com/accounts/profile/211668/) - Questions, tournaments, leaderboards and more.
 *   [Selvakumaran Krishnan @ Pinterest](https://in.pinterest.com/selvaklnc) - Insightful boards.
 *   [Selvakumaran @ HubPages](https://hubpages.com/@selvakumarank) profile.
@@ -81,6 +80,9 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+*   [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
+*   [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
+*   30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
 *   12 key [SEO metrics and ranking factors](https://developer.wikimint.com/2024/09/important-seo-metrics-websites.html) to boost your website SEO.
 *   [Online Business](https://ext-6630128.livejournal.com/495.html): A Path to Financial Freedom
 *   How wmWebStack Simplifies [Local Web Development](https://moneymakingstrategies1.wordpress.com/2024/09/18/how-wmwebstack-simplifies-local-web-development/)
