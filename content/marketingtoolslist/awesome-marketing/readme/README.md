@@ -2,7 +2,7 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 45 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / Overview ]
 
@@ -207,6 +207,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 *   [HubSpot](https://www.hubspot.com) - All-in-one CRM platform with robust email marketing and automation tools.
 *   [Klaviyo](https://www.klaviyo.com) - Email and SMS marketing automation platform tailored for eCommerce businesses.
 *   [SendinBlue](https://www.sendinblue.com) - Email marketing and automation software that includes SMS marketing and chat features.
+*   [Touchlead](https://touchlead.app) - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
 *   [Autopilot](https://autopilothq.com) - Visual marketing automation software for creating personalized customer journeys.
 *   [Drip](https://www.drip.com) - ECRM platform designed for building personalized email campaigns to engage customers.
 

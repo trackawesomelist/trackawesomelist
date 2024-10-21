@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Database
+
+*   [Trilogy (⭐700)](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. \[MIT]
+
 ## [Oct 19, 2024](/content/2024/10/19/README.md)
 
 ### Concurrency
@@ -394,7 +400,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Physics
 
-*   [Jolt Physics (⭐6.5k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
+*   [Jolt Physics (⭐6.6k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
 
 ### Videos
 
@@ -4452,7 +4458,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [lists (⭐9.9k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+*   [lists (⭐10k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [free-programming-books (⭐337k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
 ## [Sep 25, 2014](/content/2014/09/25/README.md)

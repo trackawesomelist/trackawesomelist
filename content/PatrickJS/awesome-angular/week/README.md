@@ -16,6 +16,12 @@
 
 *   [docker-ng-cli-karma (⭐58)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
+### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-dynamic-form (⭐2)](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
+*   [ngx-form (⭐14)](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
+*   [ngx-enhancy-forms (⭐4)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
+
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-videogular (⭐131)](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
@@ -176,7 +182,7 @@
 *   [ngx-three-globe (⭐0)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
 *   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.3k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 *   [stream-chat-angular (⭐51)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
-*   [gong (⭐12)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+*   [gong (⭐13)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 
 ### Server-Side Rendering / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -372,7 +378,7 @@
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [silicon-audio-wave (⭐2)](https://github.com/joldibaev/silicon-audio-wave) - Very simple audio wave system from Silicon.
-*   [ngx-plyr (⭐1)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐26k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
+*   [ngx-plyr (⭐1)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐27k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
 *   [byteark-player-angular (⭐1)](https://github.com/byteark/byteark-player-angular) - Player Container from [ByteArk](https://www.byteark.com/).
 *   [Vidstack (⭐2.2k)](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout\&provider=video).
 *   [dyte-io/ui-kit (⭐1)](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.

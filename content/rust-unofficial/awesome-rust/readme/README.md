@@ -344,7 +344,7 @@ See also [Games Made With Piston (⭐4.6k)](https://github.com/PistonDevelopers/
 *   [Thinkofname/rust-quake (⭐73)](https://github.com/Thinkofname/rust-quake) - Quake map renderer.
 *   [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - Single player typing test game written for the terminal
 *   [Veloren](https://gitlab.com/veloren/veloren) - An open world, open source multiplayer voxel RPG game currently in alpha development [![build badge](https://gitlab.com/veloren/veloren/badges/master/pipeline.svg)](https://gitlab.com/veloren/veloren/-/pipelines)
-*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+*   [zipxing/rust\_pixel (⭐142)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 *   [Zone of Control (⭐378)](https://github.com/ozkriff/zoc) - A turn-based hexagonal strategy game
 
 ### Graphics
@@ -412,8 +412,8 @@ See also [A comparison of operating systems written in Rust (⭐706)](https://gi
 
 ### Productivity
 
-*   [ast-grep (⭐7.3k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
-*   [Bartib (⭐673)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [ast-grep (⭐7.4k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [Bartib (⭐678)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 *   [espanso (⭐9.9k)](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev\&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 *   [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
 *   [Furtherance (⭐264)](https://github.com/unobserved-io/Furtherance) - Time tracking app built with GTK4
@@ -519,7 +519,7 @@ See also [A comparison of operating systems written in Rust (⭐706)](https://gi
 *   [watchexec (⭐5.3k)](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 *   [XAMPPRocky/tokei (⭐11k)](https://github.com/XAMPPRocky/tokei) - counts the lines of code
 *   [ynqa/jnv (⭐4.8k)](https://github.com/ynqa/jnv) - Interactive JSON filter using jq [![ci](https://github.com/ynqa/jnv/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/jnv/actions/workflows/ci.yml)
-*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
+*   [ynqa/logu (⭐78)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
 *   [ynqa/sig (⭐579)](https://github.com/ynqa/sig) - Interactive grep (for streaming) [![ci](https://github.com/ynqa/sig/actions/workflows/ci.yml/badge.svg)](https://github.com/ynqa/sig/actions/workflows/ci.yml)
 
 ### Task scheduling
@@ -544,7 +544,7 @@ See also [A comparison of operating systems written in Rust (⭐706)](https://gi
 
 *   [ashvardanian/stringzilla (⭐2.1k)](https://github.com/ashvardanian/StringZilla) - SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/stringzilla.svg)](https://crates.io/crates/stringzilla)
 *   [dominikwilkowski/cfonts (⭐1.6k)](https://github.com/dominikwilkowski/cfonts) \[[cfonts](https://crates.io/crates/cfonts)] - Sexy ANSI fonts for the console ![build badge](https://github.com/dominikwilkowski/cfonts/actions/workflows/testing.yml/badge.svg)
-*   [grex (⭐7.2k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+*   [grex (⭐7.3k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 *   [jqnatividad/qsv (⭐2.5k)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
 *   [Lisprez/so\_stupid\_search (⭐161)](https://github.com/Lisprez/so_stupid_search) - A simple and fast string search tool for human beings
 *   [Melody (⭐4.6k)](https://github.com/yoav-lavi/melody) - A language that compiles to regular expressions and aims to be more easily readable and maintainable [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
@@ -636,7 +636,7 @@ See also [A comparison of operating systems written in Rust (⭐706)](https://gi
 *   [ATAC (⭐1.9k)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 *   [bacon (⭐1.9k)](https://github.com/Canop/bacon) - background rust code checker, similar to cargo-watch
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐854)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐856)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [cloudflare/foundations (⭐1.3k)](https://github.com/cloudflare/foundations) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
 *   [comtrya (⭐490)](https://github.com/comtrya/comtrya) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg)](https://github.com/comtrya/comtrya/actions)
 *   [create-rust-app (⭐1.5k)](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
@@ -1779,6 +1779,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 *   [ardaku/whoami (⭐186)](https://github.com/ardaku/whoami) \[[whoami](https://crates.io/crates/whoami)] - crate to get the current user and environment. [![build badge](https://github.com/ardaku/whoami/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/ardaku/whoami/actions/workflows/ci.yml)
 *   [GuillaumeGomez/sysinfo (⭐2k)](https://github.com/GuillaumeGomez/sysinfo) \[[sysinfo](https://crates.io/crates/sysinfo)] - Cross-platform library to fetch system information [![build badge](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/GuillaumeGomez/sysinfo/actions/workflows/CI.yml)
+*   [navidys/procsys (⭐1)](https://github.com/navidys/procsys) \[[procsys](https://crates.io/crates/procsys)] - A library to retrieve system, kernel, and process metrics from the pseudo-filesystems /proc and /sys.
 *   [Phate6660/nixinfo (⭐46)](https://github.com/Phate6660/nixinfo) \[[nixinfo](https://crates.io/crates/nixinfo)] - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc.
 *   [sorairolake/sysexits-rs (⭐22)](https://github.com/sorairolake/sysexits-rs) \[[sysexits](https://crates.io/crates/sysexits)] - The system exit codes as defined by [`<sysexits.h>`](https://manpages.ubuntu.com/manpages/lunar/man3/sysexits.h.3head.html). [![CI](https://github.com/sorairolake/sysexits-rs/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/sysexits-rs/actions?query=workflow%3ACI)
 

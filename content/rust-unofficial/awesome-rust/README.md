@@ -14,6 +14,10 @@ A curated list of Rust code and resources.
     *   [redox-os/rusttype (⭐613)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
     *   [rustybuzz (⭐548)](https://github.com/harfbuzz/rustybuzz) - An incremental harfbuzz port
 
+### Libraries / System
+
+*   [navidys/procsys (⭐1)](https://github.com/navidys/procsys) \[[procsys](https://crates.io/crates/procsys)] - A library to retrieve system, kernel, and process metrics from the pseudo-filesystems /proc and /sys.
+
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### Libraries / Text search
@@ -46,11 +50,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Games
 
-*   [zipxing/rust\_pixel (⭐104)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
+*   [zipxing/rust\_pixel (⭐142)](https://github.com/zipxing/rust_pixel) \[[rust\_pixel](https://crates.io/crates/rust_pixel)] - A 2D pixel art game engine & rapid prototyping tools, supporting both text and graphical rendering modes.
 
 ### Applications / System tools
 
-*   [ynqa/logu (⭐76)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
+*   [ynqa/logu (⭐78)](https://github.com/ynqa/logu) - Extract patterns from (streaming) unstructured log messages [![ci](https://github.com/ynqa/logu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ynqa/logu/actions/workflows/ci.yml)
 
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 
@@ -673,7 +677,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [ast-grep (⭐7.3k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
+*   [ast-grep (⭐7.4k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 
 ### Libraries / Data structures
 
@@ -2104,7 +2108,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [Bartib (⭐673)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+*   [Bartib (⭐678)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
@@ -3249,7 +3253,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Text processing
 
-*   [grex (⭐7.2k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+*   [grex (⭐7.3k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 *   [replicadse/complate (⭐37)](https://github.com/replicadse/complate) - An in-terminal text templating tool designed for standardizing messages (like for GIT commits). [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/replicadse/complate/workflows/pipeline/badge.svg?branch=master)](https://github.com/replicadse/complate/actions)
 *   [vishaltelangre/ff (⭐331)](https://github.com/vishaltelangre/ff) - Find files (ff) by name!
 *   [xsv](https://crates.io/crates/xsv) - A fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
@@ -3273,7 +3277,7 @@ A curated list of Rust code and resources.
 ### Development tools / Web Servers
 
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐854)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐856)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐1.8k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [git-journal (⭐613)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
 *   [just (⭐21k)](https://github.com/casey/just) - A handy command runner for project-specific tasks

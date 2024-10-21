@@ -651,7 +651,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-three-globe (⭐0)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
 *   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.3k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 *   [stream-chat-angular (⭐51)](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
-*   [gong (⭐12)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+*   [gong (⭐13)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 *   [adyen-angular-online-payments (⭐11)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 *   [ngx-culqi (⭐8)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐10)](https://github.com/lperezp/culqi-angular).
 *   [ngx-tagify (⭐26)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify (⭐3.5k)](https://github.com/yaireo/tagify/).
@@ -1080,6 +1080,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-super-forms (⭐1)](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 *   [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 *   [ngx-smart-forms (⭐2)](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
+*   [ngx-dynamic-form (⭐2)](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
+*   [ngx-form (⭐14)](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
+*   [ngx-enhancy-forms (⭐4)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 
 ##### Form Controls
 
@@ -1240,7 +1243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 *   [angular-audio-context (⭐21)](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
 *   [silicon-audio-wave (⭐2)](https://github.com/joldibaev/silicon-audio-wave) - Very simple audio wave system from Silicon.
-*   [ngx-plyr (⭐1)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐26k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
+*   [ngx-plyr (⭐1)](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr (⭐27k)](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
 *   [byteark-player-angular (⭐1)](https://github.com/byteark/byteark-player-angular) - Player Container from [ByteArk](https://www.byteark.com/).
 *   [Vidstack (⭐2.2k)](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout\&provider=video).
 *   [dyte-io/ui-kit (⭐1)](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.

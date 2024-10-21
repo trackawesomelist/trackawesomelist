@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [Marker Data (⭐28)](https://github.com/TheAcharya/MarkerData) - The avant-garde Marker extraction application crafted for Final Cut Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/TheAcharya/MarkerData)
+
+### Utilities / Productivity
+
+*   [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
+
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
 ### Communication / Collaboration and Team Tools
@@ -537,10 +547,6 @@
 *   [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 
 ## [Sep 11, 2023](/content/2023/09/11/README.md)
-
-### Proxy and VPN Tools / Audio Record and Process
-
-*   [TigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 
 ### Utilities / Menu Bar Tools
 

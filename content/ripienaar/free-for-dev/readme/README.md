@@ -616,7 +616,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 ## Testing
 
 *   [Applitools.com](https://applitools.com/) — Smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
-*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes one concurrent session with 100 minutes of usage per month. No limit on app size.
+*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
 *   [Apptim](https://apptim.com) — A mobile testing tool that enables people without performance engineering skills to evaluate an app's performance and user experience (UX). A desktop version using your own device is 100% FREE, with unlimited tests on both iOS and Android.
 *   [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
 *   [BugBug](https://bugbug.io/) - Lightweight test automation tool for web applications. It is easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. You also get cloud monitoring and CI/CD integration for an additional monthly fee.
@@ -1104,7 +1104,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Langtrace](https://langtrace.ai) - enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.
 *   [Ultra AI](https://ultraai.app) - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.
 *   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐6k)](https://github.com/langfuse/langfuse)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1597,6 +1597,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Lapa Ninja](https://www.lapa.ninja/) - \[Landing page / UI KIts / Web screenshots] Lapa Ninja is a gallery featuring the best 6025 landing page examples, free books for designers and free UI kits from around the web.
 *   [LovelyLanding.net](https://www.lovelylanding.net/) - \[Landing Page Designs] Frequently updated landing page screenshots. Includes Desktop, Tablet, and Mobile screenshots.
 *   [Mobbin](https://mobbin.design/) - \[Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
+*   [Uiland Design](https://uiland.design/) - \[Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.
 *   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring the finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
 *   [Page Flows](https://pageflows.com/) - \[Mobile / web videos and screenshots] Videos of full flows across many mobile and web apps. Also includes screenshots. Highly searchable and indexed.
 *   [Screenlane](https://screenlane.com/) - \[Mobile screenshots] Get inspired and keep up with the latest web & mobile app UI design trends. Filterable by pattern and app.

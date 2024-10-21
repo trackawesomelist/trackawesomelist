@@ -790,6 +790,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [LosslessCut (⭐27k)](https://github.com/mifi/lossless-cut) - Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 *   [LyricsX (⭐4.7k)](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
 *   [MacYTDL (⭐503)](https://github.com/section83/MacYTDL) -  A macOS GUI front-end for the youtube-dl video downloader. [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
+*   [Marker Data (⭐28)](https://github.com/TheAcharya/MarkerData) - The avant-garde Marker extraction application crafted for Final Cut Pro. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
 *   [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://apps.apple.com/us/app/metadatics/id554883654?mt=12)
 *   [Mp3tag](https://mp3tag.app/) - A powerful and easy-to-use tool to edit metadata of audio files. [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 *   [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
@@ -947,7 +948,6 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 *   [SpechtLite (⭐2.9k)](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 *   [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9.
-*   [TigerVPN](https://www.tigervpn.com/vpn-for-mac) - VPN Client for Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 *   [tinc](https://www.tinc-vpn.org) - Secure mesh VPN software. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
 *   [Tunnelbear](https://www.tunnelbear.com) - Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.
 *   [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
@@ -1135,6 +1135,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
 *   [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 *   [Keyboard Cowboy (⭐749)](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
+*   [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
 
 ### Window Management
 

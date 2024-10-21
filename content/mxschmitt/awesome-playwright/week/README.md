@@ -6,6 +6,13 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ [Daily](/content/mxschmitt/awesome-playwright/README.md) / Weekly / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Integrations
+
+*   [@appetize/playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
+*   [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Reporters

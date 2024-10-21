@@ -2,9 +2,15 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 45 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Email Marketing / Email Automation
+
+*   [Touchlead](https://touchlead.app) - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
 
 ## [Oct 13, 2024](/content/2024/10/13/README.md)
 

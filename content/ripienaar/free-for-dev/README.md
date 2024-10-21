@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Design Inspiration
+
+*   [Uiland Design](https://uiland.design/) - \[Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.
+
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
 ### Issue Tracking and Project Management
@@ -20,7 +26,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐6k)](https://github.com/langfuse/langfuse)
 
 ## [Oct 07, 2024](/content/2024/10/07/README.md)
 
@@ -4206,7 +4212,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Testing
 
-*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes one concurrent session with 100 minutes of usage per month. No limit on app size.
+*   [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
 
 ### IDE and Code Editing
 
