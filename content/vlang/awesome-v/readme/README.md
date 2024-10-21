@@ -132,6 +132,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Operating systems/Kernels
 
 *   [Vinix (⭐1.9k)](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+*   [V-Unikernel (⭐14)](https://github.com/vlang/unikernel) - A unikernel is a computer program statically linked with the operating system code on which it depends.
 
 ### Package managers
 
@@ -366,6 +367,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 #### VS Code
 
 *   [vscode-vlang (⭐385)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+*   [v-analyzer (⭐109)](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
 
 #### Vim
 

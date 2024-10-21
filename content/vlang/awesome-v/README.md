@@ -6,6 +6,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Operating systems/Kernels
+
+*   [V-Unikernel (⭐14)](https://github.com/vlang/unikernel) - A unikernel is a computer program statically linked with the operating system code on which it depends.
+
+### Editor plugins / VS Code
+
+*   [v-analyzer (⭐109)](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
+
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
 ### Scientific computing

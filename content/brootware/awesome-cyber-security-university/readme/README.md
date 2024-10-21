@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.5K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.7K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -67,7 +67,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐1.5k)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐1.7k)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 
@@ -85,6 +85,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Principles of security](https://tryhackme.com/room/principlesofsecurity) - Principles of security.
 *   [Red Team Engagements](https://tryhackme.com/room/redteamengagements) - Intro to red team engagements.
 *   [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
+*   [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
 
 <!-- markdownlint-disable MD036 -->
 
@@ -111,6 +112,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 *   [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
 *   [Red Team Recon](https://tryhackme.com/room/redteamrecon) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+*   [Nmap Tutorials](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Learn and practice the basics of network scanning using Nmap.
 
 <!-- markdownlint-disable MD036 -->
 
@@ -383,7 +385,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors (⭐7.5k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the [all-contributors (⭐7.7k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 <!--lint disable double-link-->
 

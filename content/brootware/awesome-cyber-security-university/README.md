@@ -2,9 +2,19 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.5K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.7K · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Oct 21, 2024](/content/2024/10/21/README.md)
+
+### Introduction and Pre-Security / Level 1 - Intro
+
+*   [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+
+### Free Beginner Red Team Path / Level 2 - Tooling
+
+*   [Nmap Tutorials](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Learn and practice the basics of network scanning using Nmap.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 

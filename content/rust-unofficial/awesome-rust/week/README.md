@@ -6,6 +6,14 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Libraries / Graphics
+
+*   Fonts
+    *   [redox-os/rusttype (⭐613)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
+    *   [rustybuzz (⭐548)](https://github.com/harfbuzz/rustybuzz) - An incremental harfbuzz port
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Applications / Security tools
@@ -94,6 +102,7 @@ A curated list of Rust code and resources.
     *   [exercism.org](https://exercism.org/tracks/rust) - programming exercises that help you learn new concepts in Rust.
     *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
     *   [Idiomatic Rust (⭐6.5k)](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [LabEx Rust Skill Tree](https://labex.io/skilltrees/rust) - A structured Rust learning path with hands-on labs, designed for beginners to master Rust step by step.
     *   [Learn Rust by 500 lines code (⭐493)](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
     *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) - in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
     *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
@@ -813,7 +822,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐11k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐12k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
@@ -2322,7 +2331,7 @@ A curated list of Rust code and resources.
 *   TUI
     *   BearLibTerminal
         *   [cfyzium/bearlibterminal (⭐32)](https://github.com/nabijaczleweli/BearLibTerminal.rs) \[[bear-lib-terminal](https://crates.io/crates/bear-lib-terminal)] - [BearLibTerminal (⭐58)](https://github.com/tommyettinger/BearLibTerminal) bindings
-    *   [ccbrown/iocraft (⭐293)](https://github.com/ccbrown/iocraft) \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
+    *   [ccbrown/iocraft (⭐314)](https://github.com/ccbrown/iocraft) \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
     *   [gyscos/Cursive (⭐4.3k)](https://github.com/gyscos/Cursive) \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
     *   [ivanceras/titik (⭐121)](https://github.com/ivanceras/titik) - a crossplatform TUI widget library with the goal of providing interactive widgets
     *   ncurses
@@ -2371,12 +2380,6 @@ A curated list of Rust code and resources.
 
 *   [rust-reverse-geocoder (⭐122)](https://github.com/gx0r/rrgeo) - A fast, offline reverse geocoder, inspired by [thampiman/reverse-geocoder (⭐1.9k)](https://github.com/thampiman/reverse-geocoder)
 
-### Libraries / Graphics
-
-*   Font
-    *   [RazrFalcon/rustybuzz (⭐546)](https://github.com/RazrFalcon/rustybuzz) - An incremental harfbuzz port
-    *   [redox-os/rusttype (⭐613)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
-
 ### Libraries / GUI
 
 *   [fschutt/azul (⭐5.9k)](https://github.com/fschutt/azul) - A free, functional, IMGUI-oriented GUI framework for rapid development of desktop applications written in Rust, supported by the Mozilla WebRender rendering engine.
@@ -2392,7 +2395,7 @@ A curated list of Rust code and resources.
     *   [nats-io/nats.rs (⭐1k)](https://github.com/nats-io/nats.rs) - Client for NATS, the cloud native messaging system. [![Build Status](https://github.com/nats-io/nats.rs/workflows/Rust/badge.svg?branch=master)](https://github.com/nats-io/nats.rs/actions)
 *   P2P
     *   [libp2p/rust-libp2p (⭐4.5k)](https://github.com/libp2p/rust-libp2p) - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
-    *   [n0-computer/iroh (⭐2.4k)](https://github.com/n0-computer/iroh) \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)
+    *   [n0-computer/iroh (⭐2.5k)](https://github.com/n0-computer/iroh) \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)
 *   RPC
     *   [ENQT-GmbH/remoc (⭐173)](https://github.com/ENQT-GmbH/remoc) \[[remoc](https://crates.io/crates/remoc)] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport. [![build badge](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml)
     *   [smallnest/rpcx-rs (⭐127)](https://github.com/smallnest/rpcx-rs) - A RPC library for developing microservices in easy and simple way.

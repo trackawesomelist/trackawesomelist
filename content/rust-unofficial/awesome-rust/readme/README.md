@@ -476,7 +476,7 @@ See also [A comparison of operating systems written in Rust (⭐706)](https://gi
 *   [ddh (⭐449)](https://github.com/darakian/ddh) - Fast duplicate file finder
 *   [diskonaut (⭐2.4k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 *   [dust (⭐8.7k)](https://github.com/bootandy/dust) - A more intuitive version of du
-*   [eza-community/eza (⭐11k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐12k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
 *   [gitui (⭐18k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 *   [GQL (⭐3.2k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
@@ -1073,7 +1073,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   TUI
     *   BearLibTerminal
         *   [cfyzium/bearlibterminal (⭐32)](https://github.com/nabijaczleweli/BearLibTerminal.rs) \[[bear-lib-terminal](https://crates.io/crates/bear-lib-terminal)] - [BearLibTerminal (⭐58)](https://github.com/tommyettinger/BearLibTerminal) bindings
-    *   [ccbrown/iocraft (⭐293)](https://github.com/ccbrown/iocraft) \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
+    *   [ccbrown/iocraft (⭐314)](https://github.com/ccbrown/iocraft) \[[iocraft](https://crates.io/crates/iocraft)] - A crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. [![Build status](https://github.com/ccbrown/iocraft/actions/workflows/commit.yaml/badge.svg?branch=main)](https://github.com/ccbrown/iocraft/actions) [![docs.rs](https://img.shields.io/docsrs/iocraft)](https://docs.rs/iocraft/)
     *   [gyscos/Cursive (⭐4.3k)](https://github.com/gyscos/Cursive) \[[cursive](https://crates.io/crates/cursive)] - build rich TUI applications
     *   [ivanceras/titik (⭐121)](https://github.com/ivanceras/titik) - a crossplatform TUI widget library with the goal of providing interactive widgets
     *   ncurses
@@ -1518,9 +1518,9 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 \[[graphics](https://crates.io/keywords/graphics)]
 
-*   Font
-    *   [RazrFalcon/rustybuzz (⭐546)](https://github.com/RazrFalcon/rustybuzz) - An incremental harfbuzz port
+*   Fonts
     *   [redox-os/rusttype (⭐613)](https://github.com/redox-os/rusttype) - Alternative to libraries like FreeType
+    *   [rustybuzz (⭐548)](https://github.com/harfbuzz/rustybuzz) - An incremental harfbuzz port
 *   [gfx-rs/gfx (⭐5.4k)](https://github.com/gfx-rs/gfx) - A high-performance, bindless graphics API.
 *   [gfx-rs/wgpu (⭐12k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
@@ -1671,7 +1671,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [mattnenterprise/rust-nntp (⭐17)](https://github.com/mattnenterprise/rust-nntp) \[[nntp](https://crates.io/crates/nntp)] - an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) client
 *   P2P
     *   [libp2p/rust-libp2p (⭐4.5k)](https://github.com/libp2p/rust-libp2p) - Implementation of libp2p networking stack. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
-    *   [n0-computer/iroh (⭐2.4k)](https://github.com/n0-computer/iroh) \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)
+    *   [n0-computer/iroh (⭐2.5k)](https://github.com/n0-computer/iroh) \[[iroh](https://crates.io/crates/iroh)] - crate for building on direct connections between devices [![CI](https://github.com/n0-computer/iroh/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)
 *   POP3
     *   [mattnenterprise/rust-pop3 (⭐31)](https://github.com/mattnenterprise/rust-pop3) \[[pop3](https://crates.io/crates/pop3)] - A [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client
 *   QUIC
@@ -1957,6 +1957,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
     *   [exercism.org](https://exercism.org/tracks/rust) - programming exercises that help you learn new concepts in Rust.
     *   [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
     *   [Idiomatic Rust (⭐6.5k)](https://github.com/mre/idiomatic-rust) - A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+    *   [LabEx Rust Skill Tree](https://labex.io/skilltrees/rust) - A structured Rust learning path with hands-on labs, designed for beginners to master Rust step by step.
     *   [Learn Rust by 500 lines code (⭐493)](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code, build a Todo Cli Application from scratch.
     *   [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) - in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
     *   [Little Book of Rust Books](https://lborb.github.io/book/) - Curated list of rust books and how-tos.
