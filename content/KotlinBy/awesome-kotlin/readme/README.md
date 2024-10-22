@@ -147,61 +147,53 @@ Here is the awesome badge for your project:
 *   [element-hq/element-x-android (⭐1k)](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 *   [keymapperorg/KeyMapper (⭐1.1k)](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
 *   [etchdroid/etchdroid (⭐1.2k)](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
+*   [kyujin-cho/pixel-volte-patch (⭐1.4k)](https://github.com/kyujin-cho/pixel-volte-patch) - Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
 *   [amir1376/ab-download-manager (⭐1.4k)](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
-*   [FossifyOrg/Gallery (⭐1.6k)](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 *   [YenalyLiew/Han1meViewer (⭐1.6k)](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
-*   [Nain57/Smart-AutoClicker (⭐1.9k)](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
-*   [wikimedia/apps-android-wikipedia (⭐2.3k)](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
+*   [wikimedia/apps-android-wikipedia (⭐2.4k)](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 *   [Dr-TSNG/Hide-My-Applist (⭐3k)](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
 *   [T8RIN/ImageToolbox (⭐3.7k)](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 *   [KotatsuApp/Kotatsu (⭐4k)](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 *   [florisboard/florisboard (⭐6k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-*   [JetBrains/Exposed (⭐8.3k)](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 *   [ethereum-lists/chains (⭐8.7k)](https://github.com/ethereum-lists/chains) - provides metadata for chains
-*   [square/moshi (⭐9.7k)](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 *   [thunderbird/thunderbird-android (⭐10k)](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
+*   [MatsuriDayo/NekoBoxForAndroid (⭐11k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+*   [mamoe/mirai (⭐14k)](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 *   [android/nowinandroid (⭐17k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-*   [pppscn/SmsForwarder (⭐18k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 *   [2dust/v2rayNG (⭐35k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [JetBrains/kotlin (⭐49k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [IacobIonut01/Gallery (⭐1.3k)](https://github.com/IacobIonut01/Gallery) - Light-weight Media Gallery app for Android made with Jetpack Compose
-*   [rebelonion/Dantotsu (⭐1.7k)](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
+*   [stantanasi/streamflix (⭐570)](https://github.com/stantanasi/streamflix) - An Android TV and mobile app to stream movies and TV shows for free
+*   [nightscout/AndroidAPS (⭐704)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
+*   [10miaomiao/bilimiao2 (⭐1.7k)](https://github.com/10miaomiao/bilimiao2) - bilimiao 2.x
 *   [OxygenCobalt/Auxio (⭐2.1k)](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
 *   [google/ksp (⭐2.8k)](https://github.com/google/ksp) - Kotlin Symbol Processing API
 *   [osfans/trime (⭐3.1k)](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+*   [XayahSuSuSu/Android-DataBackup (⭐3.4k)](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
+*   [deniscerri/ytdlnis (⭐3.8k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 *   [z-huang/InnerTune (⭐4.4k)](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-*   [kotest/kotest (⭐4.4k)](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
-*   [androidx/androidx (⭐5.3k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-*   [hectorqin/reader (⭐8k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-*   [MatsuriDayo/NekoBoxForAndroid (⭐11k)](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-*   [ktorio/ktor (⭐13k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
-*   [mamoe/mirai (⭐14k)](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+*   [mobile-dev-inc/maestro (⭐5.8k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
+*   [bitwarden/android (⭐6.4k)](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
+*   [yairm210/Unciv (⭐8.4k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+*   [RikkaApps/Shizuku (⭐11k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+*   [JunkFood02/Seal (⭐11k)](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 *   [JetBrains/compose-multiplatform (⭐16k)](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-*   [gedoor/legado (⭐29k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-*   [bannedbook/fanqiang (⭐38k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-*   [square/okhttp (⭐46k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+*   [android/compose-samples (⭐20k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [mapbox/mapbox-maps-android (⭐471)](https://github.com/mapbox/mapbox-maps-android) - Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.
-*   [nightscout/AndroidAPS (⭐704)](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-*   [aws/aws-toolkit-jetbrains (⭐750)](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
-*   [getsentry/sentry-java (⭐1.2k)](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-*   [rnmapbox/maps (⭐2.2k)](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
-*   [home-assistant/android (⭐2.3k)](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
-*   [XayahSuSuSu/Android-DataBackup (⭐3.4k)](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-*   [deniscerri/ytdlnis (⭐3.8k)](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
-*   [kizitonwose/Calendar (⭐4.7k)](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
-*   [breezy-weather/breezy-weather (⭐5.5k)](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
-*   [mobile-dev-inc/maestro (⭐5.8k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
-*   [bitwarden/android (⭐6.4k)](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-*   [tiann/KernelSU (⭐10k)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+*   [FishHawk/auto-novel (⭐395)](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+*   [measure-sh/measure (⭐409)](https://github.com/measure-sh/measure) - Measure is an open source tool to monitor mobile apps.
+*   [ReVanced/revanced-patches (⭐2.3k)](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+*   [jellyfin/jellyfin-androidtv (⭐2.8k)](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
+*   [recloudstream/cloudstream (⭐6.7k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+*   [ankidroid/Anki-Android (⭐8.6k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+*   [pppscn/SmsForwarder (⭐18k)](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+*   [gkd-kit/gkd (⭐21k)](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 *   [signalapp/Signal-Android (⭐26k)](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-*   [android/architecture-samples (⭐44k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+*   [gedoor/legado (⭐29k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -731,27 +723,26 @@ Here is the awesome badge for your project:
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [Kotlin/dataframe (⭐825)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [Kotlin/kandy (⭐588)](https://github.com/Kotlin/kandy) - Kotlin plotting library
-*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [Kotlin/KotlinDL (⭐1.5k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
-*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [mipt-npm/kmath (⭐652)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
 *   [unipu-ict/ksdtoolkit (⭐3)](https://github.com/unipu-ict/ksdtoolkit) - Kotlin System Dynamics Toolkit - for system dynamics modelling and simulation with Kotlin.
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐184)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-*   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
-*   [breandan/kotlingrad (⭐522)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
-*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
-*   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
-*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
 *   [lamba92/KGraph (⭐19)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
-*   [Kotlin/multik (⭐644)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
-*   [breandan/kaliningraph (⭐116)](https://github.com/breandan/kaliningraph)
-*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
 *   [sigbla/sigbla-app (⭐21)](https://github.com/sigbla/sigbla-app) - Sigbla is a framework for working with data in tables, supporting various data types, reactive programming and events, user input, charts, and more
+*   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [sanity/pairAdjacentViolators (⭐49)](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
+*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
+*   [breandan/kaliningraph (⭐116)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐184)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
+*   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [breandan/kotlingrad (⭐522)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
+*   [Kotlin/kandy (⭐588)](https://github.com/Kotlin/kandy) - Kotlin plotting library
+*   [Kotlin/multik (⭐644)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-dimensional arrays
+*   [mipt-npm/kmath (⭐652)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [Kotlin/dataframe (⭐825)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [timefoldai/timefold-solver](https://timefold.ai) - AI solver to optimize scheduling of vehicle routes, employees, maintenance, jobs, etc.
+*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
+*   [Kotlin/KotlinDL (⭐1.5k)](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
 

@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 22, 2024](/content/2024/10/22/README.md)
+
+### Education and Career Development
+
+*   [LabEx](https://labex.io) - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.
+
+### Font
+
+*   [Fontsensei](https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean) font tags.
+
 ## [Oct 21, 2024](/content/2024/10/21/README.md)
 
 ### Design Inspiration

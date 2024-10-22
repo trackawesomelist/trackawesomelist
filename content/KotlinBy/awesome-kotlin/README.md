@@ -6,13 +6,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Oct 18, 2024](/content/2024/10/18/README.md)
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-## [Oct 15, 2024](/content/2024/10/15/README.md)
+## [Oct 22, 2024](/content/2024/10/22/README.md)
 
 ### Libraries/Frameworks / Logging
 
@@ -64,6 +58,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 *   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
 *   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [android-password-store/Android-Password-Store (⭐2.6k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
 *   [AnkitSuda/Rebound (⭐181)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ### Android / Extensions
@@ -716,7 +711,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [hanjoongcho/aaf-easydiary (⭐433)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
 *   [cuongpm/youtube-dl-android (⭐512)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
 *   [PatilShreyas/Foodium (⭐2.3k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
-*   [android-password-store/Android-Password-Store (⭐2.6k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
 
 ### Android / Extensions
 
@@ -951,17 +945,17 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Data Science
 
-*   [Kotlin/dataframe (⭐825)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
-*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
-*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
-*   [mipt-npm/kmath (⭐652)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
-*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐184)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
-*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
-*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid)
+*   [cdietze/euklid (⭐2)](https://github.com/cdietze/euklid) - A cross-platform geometry library in Kotlin
 *   [lamba92/KGraph (⭐19)](https://github.com/lamba92/KGraph) - A Kotlin multi-platform library for graph data structures
-*   [breandan/kaliningraph (⭐116)](https://github.com/breandan/kaliningraph)
 *   [grinisrit/noa-atra (⭐26)](https://github.com/grinisrit/noa-atra) - Analytics for Trading with NOA
+*   [holgerbrandl/kalasim](https://www.kalasim.org) - Discrete event simulator that enables complex, dynamic process models.
+*   [breandan/kaliningraph (⭐116)](https://github.com/breandan/kaliningraph) - 🕸️ Graphs, finite fields and discrete dynamical systems in Kotlin
+*   [MarcinMoskala/KotlinDiscreteMathToolkit (⭐184)](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
+*   [kyonifer/koma (⭐270)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+*   [JetBrains/lets-plot-kotlin (⭐434)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
+*   [mipt-npm/kmath (⭐652)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
+*   [Kotlin/dataframe (⭐825)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
+*   [Kotlin/kotlin-jupyter (⭐1.1k)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 
 ### Libraries/Frameworks / API Clients
 
@@ -2136,8 +2130,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Data Science
 
 *   [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
-*   [breandan/kotlingrad (⭐522)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 *   [kiegroup/optaplanner](https://www.optaplanner.org/compatibility/kotlin.html) - Constraint solving AI for planning and scheduling problems.
+*   [breandan/kotlingrad (⭐522)](https://github.com/breandan/kotlingrad) - Shape-Safe Differentiable Programming with Algebraic Data Types.
 
 ### Libraries/Frameworks / Command Line Interface
 

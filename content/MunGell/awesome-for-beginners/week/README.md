@@ -6,11 +6,23 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Go
+
+*   [Kanister (⭐755)](https://github.com/kanisterio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
-### Typescript
+### TypeScript
 
 *   [Oppia (⭐5.8k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+*   [Storybook JS (⭐84k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+*   [Vite (⭐68k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+*   [activist (⭐229)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+*   [Impler.io (⭐186)](https://github.com/implerhq/impler.io) *(label: good-first-issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
+*   [LinksHub (⭐759)](https://github.com/rupali-codes/LinksHub) *(label: good first issue)* <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
+*   [Manifest (⭐666)](https://github.com/mnfst/manifest) *(label: good first issue)* <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 
 ### C++
 
@@ -20,7 +32,6 @@ A list of awesome beginners-friendly projects.
 ### Go
 
 *   [Dragonfly (⭐2.2k)](https://github.com/dragonflyoss/Dragonfly2) *(label: good-first-issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
-*   [Kanister](https://github.com/kanisteroio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
 
 ### Java
 
@@ -34,15 +45,6 @@ A list of awesome beginners-friendly projects.
 *   [HMPL (⭐56)](https://github.com/hmpl-lang/hmpl) *(label: good-first-issue)* <br> Template language for displaying UI from server to client.
 *   [HueHive (⭐60)](https://github.com/croma-app/croma) *(label: good first issue)* <br> A open source react native app iOS and android for color palette management
 *   [Jasmine (⭐16k)](https://github.com/jasmine/jasmine) *(label: good-first-issue)* <br> Simple JavaScript testing framework for browsers and node.js.
-
-### TypeScript
-
-*   [Storybook JS (⭐84k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
-*   [Vite (⭐68k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-*   [activist (⭐229)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
-*   [Impler.io (⭐186)](https://github.com/implerhq/impler.io) *(label: good-first-issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
-*   [LinksHub (⭐759)](https://github.com/rupali-codes/LinksHub) *(label: good first issue)* <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
-*   [Manifest (⭐666)](https://github.com/mnfst/manifest) *(label: good first issue)* <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 
 ### Julia
 
@@ -111,7 +113,6 @@ A list of awesome beginners-friendly projects.
 
 *   [Cake (⭐3.9k)](https://github.com/cake-build/cake) *(label: Good-first-issue)* <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
 *   [grok.net (⭐289)](https://github.com/Marusyk/grok.net) *(label: good-first-issue)* <br> Cross platform .NET grok implementation
-*   [OpenRA (⭐15k)](https://github.com/OpenRA/OpenRA) *(label: Easy)* <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 *   [osu! (⭐15k)](https://github.com/ppy/osu) *(label: good-first-issue)* <br> Music game. Rhythm is just a click away!
 *   [Uno Platform (⭐8.9k)](https://github.com/unoplatform/uno) *(label: good-first-issue)* <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 
@@ -124,7 +125,6 @@ A list of awesome beginners-friendly projects.
 *   [Ancient Beast (⭐1.7k)](https://github.com/FreezingMoon/AncientBeast) *(label: easy)* <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 *   [AVA (⭐21k)](https://github.com/sindresorhus/ava) *(label: good-for-beginner)* <br> Futuristic test runner.
 *   [Babel (⭐43k)](https://github.com/babel/babel) *(label: good-first-issue)* <br> A compiler for writing next generation JavaScript.
-*   [Binari (⭐180)](https://github.com/BrandonArmand/Binari) *(label: up-for-grabs)* <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 *   [Botpress (⭐13k)](https://github.com/botpress/botpress) *(label: contributor-friendly)* <br> The only sane way to build great bots.
 *   [Brave Browser (⭐18k)](https://github.com/brave/brave-browser) *(label: good-first-issue)* <br> Desktop browser for macOS, Windows, and Linux.
 *   [Check It Out (⭐156)](https://github.com/jwu910/check-it-out) *(label: good-first-issue)* <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
@@ -149,7 +149,6 @@ A list of awesome beginners-friendly projects.
 *   [Leaflet (⭐41k)](https://github.com/Leaflet/Leaflet) *(label: good-first-issue)* <br> JavaScript library for mobile-friendly interactive maps.
 *   [Letra Extension (⭐365)](https://github.com/jayehernandez/letra-extension) *(label: good-first-issue)* <br> Passively learn a new language every time you open a new tab.
 *   [material-ui (⭐94k)](https://github.com/mui-org/material-ui) *(label: good-first-issue)* <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
-*   [md-page (⭐1.3k)](https://github.com/oscarmorrison/md-page) *(label: good-first-issue)* <br> Create a webpage with just markdown.
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) *(label: good-first-issue)* <br> Meteor is an ultra-simple environment for building modern web applications.
 *   [Mocha (⭐23k)](https://github.com/mochajs/mocha) *(label: good-first-issue)* <br> Javascript test framework for Node.js and the browser.
 *   [Moment.js (⭐48k)](https://github.com/moment/moment) *(label: Up-For-Grabs)* <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
@@ -205,10 +204,6 @@ A list of awesome beginners-friendly projects.
 
 *   [Alda (⭐5.6k)](https://github.com/alda-lang/alda) *(label: low-hanging-fruit)* <br> A music programming language for musicians. 🎶
 
-### ClojureScript
-
-*   [LightTable (⭐12k)](https://github.com/LightTable/LightTable) *(label: good-first-issue)* <br> The Next Generation code editor! One of the top funded projects on KickStarter.
-
 ### Dart
 
 *   [dart.dev (⭐966)](https://github.com/dart-lang/site-www) *(label: beginner)* <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
@@ -242,7 +237,6 @@ A list of awesome beginners-friendly projects.
 *   [elasticsearch (⭐70k)](https://github.com/elastic/elasticsearch) *(label: good-first-issue)* <br> Open Source, Distributed, RESTful Search Engine.
 *   [Images-to-PDF (⭐1.2k)](https://github.com/Swati4star/Images-to-PDF) *(label: good-first-issue)* <br> An android app to convert images to PDF file.
 *   [JabRef (⭐3.6k)](https://github.com/JabRef/jabref) *(label: good-first-issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
-*   [SirixDB (⭐1.1k)](https://github.com/sirixdb/sirix) *(label: good-first-issue)* <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
 *   [Strongbox (⭐610)](https://github.com/strongbox/strongbox) *(label: good-first-issue)* <br> Strongbox is an artifact repository manager written in Java.
 *   [TEAMMATES (⭐1.7k)](https://github.com/TEAMMATES/teammates) *(label: good-first-issue)* <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 *   [Trino (formerly Presto SQL) (⭐10k)](https://github.com/trinodb/trino) *(label: good-first-issue)* <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
@@ -259,7 +253,6 @@ A list of awesome beginners-friendly projects.
 
 *   [Atrium (⭐566)](https://github.com/robstoll/atrium) *(label: good-first-issue)* <br> Multiplatform assertion library for Kotlin
 *   [Hexagon (⭐578)](https://github.com/hexagonkt/hexagon) *(label: help-wanted)* <br> A microservices toolkit written in Kotlin
-*   [Kotlin Libraries Playground (⭐180)](https://github.com/LouisCAD/kotlin-libraries-playground) *(label: good-first-issue)* <br> A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
 *   [Non-Blocking SirixDB HTTP(S)-Server (⭐1.1k)](https://github.com/sirixdb/sirix) *(label: good-first-issue)* <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 
 ### LaTeX
@@ -308,7 +301,6 @@ A list of awesome beginners-friendly projects.
 *   [Jupyter notebook (⭐12k)](https://github.com/jupyter/notebook) *(label: good-first-issue)* <br> Jupyter interactive notebook.
 *   [Kinto (⭐4.3k)](https://github.com/Kinto/kinto) *(label: easy-pick)* <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 *   [Kinto.sh (⭐4.4k)](https://github.com/rbreaves/kinto) *(label: first-timers-only)* <br> Make Linux & Windows type like a mac.
-*   [Mailpile (⭐8.8k)](https://github.com/mailpile/Mailpile) *(label: Low-Hanging-Fruit)* <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 *   [matplotlib (⭐20k)](https://github.com/matplotlib/matplotlib) *(label: good-first-issue)* <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 *   [MindsDB (⭐27k)](https://github.com/mindsdb/mindsdb) *(label: good-first-issue)* <br> MindsDB is an open source AI layer for existing databases.
 *   [mitmproxy (⭐37k)](https://github.com/mitmproxy/mitmproxy) *(label: help-wanted)* <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
@@ -385,4 +377,4 @@ A list of awesome beginners-friendly projects.
 *   [tinyhttp (⭐2.7k)](https://github.com/talentlessguy/tinyhttp) *(label: good-first-issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 *   [TypeScript (⭐101k)](https://github.com/Microsoft/TypeScript) *(label: good-first-issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
 *   [typescript-eslint (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-*   [Visual Studio Code (⭐163k)](https://github.com/Microsoft/vscode) *(label: good first issue)* <br> A text editor for various coding entities
+*   [Visual Studio Code (⭐163k)](https://github.com/Microsoft/vscode) *(label: good-first-issue)* <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.

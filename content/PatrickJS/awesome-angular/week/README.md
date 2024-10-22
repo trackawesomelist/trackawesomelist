@@ -16,6 +16,18 @@
 
 *   [docker-ng-cli-karma (⭐58)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
+### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [olt-ngx-breadcrumbs (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
+*   [ngx-breadcrumpy (⭐6)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
+*   [ngx-crumbs (⭐7)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
+*   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
+*   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
+
+### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-fileupload (⭐20)](https://github.com/r-hannuschka/ngx-fileupload) - [ngx-file-upload/core (⭐20)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/core) only contains services and classes to enable file upload with Angular. [ngx-file-upload/ui (⭐20)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/ui) contains components and pipes to provide a UI.
+
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-dynamic-form (⭐2)](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
@@ -25,6 +37,10 @@
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-videogular (⭐131)](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
+
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-safe-subscribe (⭐3)](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
@@ -2602,6 +2618,10 @@
 
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
 
+### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [xng-breadcrumb (⭐240)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-calendar (⭐2.7k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
@@ -2700,7 +2720,6 @@
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-countdown (⭐192)](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
-*   [xng-breadcrumb (⭐240)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

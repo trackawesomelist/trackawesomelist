@@ -8,6 +8,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### Education and Career Development
+
+*   [LabEx](https://labex.io) - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.
+
+### Font
+
+*   [Fontsensei](https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean) font tags.
+
 ### Design Inspiration
 
 *   [Uiland Design](https://uiland.design/) - \[Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.
