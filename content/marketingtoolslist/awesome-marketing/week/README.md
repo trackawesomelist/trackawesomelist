@@ -8,6 +8,10 @@ A curated list of awesome marketing tools and resources
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### Content Marketing / Copywriting Tools
+
+*   [LogicBalls](https://logicballs.com/) - An AI-powered writing tool to create any type of content and supercharge your productivity
+
 ### Email Marketing / Email Automation
 
 *   [Touchlead](https://touchlead.app) - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.

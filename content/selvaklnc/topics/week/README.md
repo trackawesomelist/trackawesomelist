@@ -4,6 +4,20 @@
 
 [ [Daily](/content/selvaklnc/topics/README.md) / Weekly / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   Selvakumaran Krishnan @ [CDCP](https://nationaldppcsc.cdc.gov/s/profile/005SJ000008YSIDYA4)
+*   Selvakumaran Krishnan @ [Ilm Institute](https://ilm.iou.edu.gm/members/wikimint/)
+*   [selvakumaran Krishnan](https://connects.ctschicago.edu/forums/users/194221/) @ CTS Chicago Forum
+
+### Responses
+
+*   Office of [International Programs](http://international.lander.edu/asia-summer/april-27-2013)
+*   Guiding the [growth and development of over 24 brands](https://www.bu.edu/bhr/2024/09/24/nurturing-24-brands-allowing-them-to-evolve-mature-and-even-rocket-into-space/#comment-130011), helping them not only evolve and mature but also reach extraordinary heights, even beyond expectations.
+*   [Too many spider man](https://sites.northwestern.edu/situationcritical/2016/10/25/too-many-spider-men/comment-page-112/#comment-329717)
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### List of articles and posts

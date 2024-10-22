@@ -30,6 +30,9 @@ Interesting topics on all subjects:
 
 ## List of public profiles of Selvakumaran Krishnan
 
+*   Selvakumaran Krishnan @ [CDCP](https://nationaldppcsc.cdc.gov/s/profile/005SJ000008YSIDYA4)
+*   Selvakumaran Krishnan @ [Ilm Institute](https://ilm.iou.edu.gm/members/wikimint/)
+*   [selvakumaran Krishnan](https://connects.ctschicago.edu/forums/users/194221/) @ CTS Chicago Forum
 *   [Selvakumaran @ Adspot](https://www.adpost.com/u/selvakumaran301/)
 *   [Selvakumaran Krishnan @ Rhizome](https://conifer.rhizome.org/selvaklnc) - Creative collections.
 *   [Selvaklnc @ LongIsland](https://www.longisland.com/profile/selvaklnc) - Articles, events, companies.
@@ -250,6 +253,9 @@ Interesting topics on all subjects:
 
 ## Responses
 
+*   Office of [International Programs](http://international.lander.edu/asia-summer/april-27-2013)
+*   Guiding the [growth and development of over 24 brands](https://www.bu.edu/bhr/2024/09/24/nurturing-24-brands-allowing-them-to-evolve-mature-and-even-rocket-into-space/#comment-130011), helping them not only evolve and mature but also reach extraordinary heights, even beyond expectations.
+*   [Too many spider man](https://sites.northwestern.edu/situationcritical/2016/10/25/too-many-spider-men/comment-page-112/#comment-329717)
 *   [Profound and positive impact](https://blogs.uoregon.edu/myneighbor/2014/04/08/myneighbor/#comment-67) explore new opportunities.
 *   [Blog review #1](https://blogs.uoregon.edu/myneighbor/blog-review-1/#comment-66)
 *   [Eco-Culture Research](http://crpgsa.unm.edu/2008/12/eco-culture-research-gallery.html) Gallery Presentation.

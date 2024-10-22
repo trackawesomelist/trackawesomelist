@@ -6,6 +6,16 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Oct 22, 2024](/content/2024/10/22/README.md)
+
+### Community Extensions
+
+*   [Keycloak SCIM Federation Support](https://lab.libreho.st/libre.sh/scim/keycloak-scim)
+
+### Tools
+
+*   [kcwarden Config Auditor (⭐9)](https://github.com/iteratec/kcwarden)
+
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
 ### Community Extensions

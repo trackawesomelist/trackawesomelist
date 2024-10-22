@@ -183,6 +183,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 *   [Grammarly](https://www.grammarly.com) - Writing assistant that improves grammar, punctuation, clarity, and style.
 *   [Hemingway](http://www.hemingwayapp.com) - App that makes your writing concise and clear by highlighting complex sentences.
 *   [Writesonic](https://writesonic.com) - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
+*   [LogicBalls](https://logicballs.com/) - An AI-powered writing tool to create any type of content and supercharge your productivity
 
 ### Content Curation
 

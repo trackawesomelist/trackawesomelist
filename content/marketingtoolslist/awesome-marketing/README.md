@@ -6,6 +6,12 @@ A curated list of awesome marketing tools and resources
 
 [ Daily / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
 
+## [Oct 22, 2024](/content/2024/10/22/README.md)
+
+### Content Marketing / Copywriting Tools
+
+*   [LogicBalls](https://logicballs.com/) - An AI-powered writing tool to create any type of content and supercharge your productivity
+
 ## [Oct 21, 2024](/content/2024/10/21/README.md)
 
 ### Email Marketing / Email Automation

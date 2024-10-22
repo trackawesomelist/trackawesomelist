@@ -255,6 +255,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Terms Authenticator: Require Terms and Conditions on every login (⭐0)](https://github.com/slemke/keycloak-terms-authenticator)
 *   [Keycloak Adaptive Authentication Extension by @mabartos (⭐17)](https://github.com/mabartos/keycloak-adaptive-authn)
 *   [Keycloak GraphQL API by @blevine (⭐2)](https://github.com/blevine/keycloak-graphql)
+*   [Keycloak SCIM Federation Support](https://lab.libreho.st/libre.sh/scim/keycloak-scim)
 
 ## Integrations
 
@@ -334,6 +335,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [keycloak-scanner Python CLI (⭐50)](https://github.com/NeuronAddict/keycloak-scanner)
 *   [Keycloak RestAPI Postman Collection](https://www.postman.com/mverma99/workspace/my-workspace/collection/25610427-e8685d30-4671-45fe-812e-ca10dba1df28)
 *   [Keycloak Configurator (⭐10)](https://github.com/CycriLabs/keycloak-configurator)
+*   [kcwarden Config Auditor (⭐9)](https://github.com/iteratec/kcwarden)
 
 ## Deployment Examples
 
