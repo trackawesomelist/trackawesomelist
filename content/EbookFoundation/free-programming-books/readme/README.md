@@ -1290,10 +1290,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### React Native
 
-*   [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors
+*   [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
 *   [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 *   [React Native Express](http://www.reactnativeexpress.com)
-*   [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
+*   [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 *   [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 *   [The Ultimate Guide to React Native Optimization](https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook) (PDF) *(email requested, not required)*
 
@@ -1311,42 +1311,42 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Svelte
 
 *   [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz
-*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
+*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs (CC BY-SA)
 *   [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 *   [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 #### Vue.js
 
 *   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
-*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 *   [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 ### Jenkins
 
 *   [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
-*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
+*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF) (CC BY-NC-ND)
 *   [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
-*   [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
+*   [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### Julia
 
-*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
+*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks (CC BY-SA)
 *   [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
-*   [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso
+*   [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (CC BY-NC-SA)
 *   [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
-*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-*   [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) *(:card\_file\_box: archived)*
+*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (CC BY-SA)
+*   [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) *(:card\_file\_box: archived)* (CC BY-SA)
 *   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
-*   [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook)
+*   [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook) (CC BY-NC)
 
 ### Kotlin
 
-*   [Essential Kotlin](https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors
-*   [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
+*   [Essential Kotlin](https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
+*   [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 *   [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
-*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook) (CC BY-SA)
 *   [Learn Kotlin Programming](https://www.programiz.com/kotlin-programming) - Programiz
-*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### LaTeX / TeX
 
@@ -1354,8 +1354,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 *   [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
 *   [Begin Latex in minutes (⭐3.3k)](https://github.com/VoLuong/Begin-Latex-in-minutes)
-*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
-*   [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF)
+*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks (CC BY-SA)
+*   [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 *   [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 
 #### TeX
@@ -1835,6 +1835,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 *   [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz
 *   [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) *(:construction: in process)*
+*   [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
 *   [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 *   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 *   [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner

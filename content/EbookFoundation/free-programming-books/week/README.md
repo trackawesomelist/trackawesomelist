@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Lisp / Emacs Lisp
@@ -261,7 +267,7 @@
 ### Jenkins / Vue.js
 
 *   [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
-*   [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
+*   [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### SQL (implementation agnostic) / Play Scala
 
@@ -674,7 +680,7 @@
 
 ### JavaScript / Svelte
 
-*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
+*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs (CC BY-SA)
 
 ### Limbo / TeX
 
@@ -785,11 +791,11 @@
 
 ### JavaScript / React Native
 
-*   [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors
+*   [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
 
 ### Kotlin / Vue.js
 
-*   [Essential Kotlin](https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors
+*   [Essential Kotlin](https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
 
 ### MATLAB / PicoLisp
 
@@ -1056,9 +1062,9 @@
 
 ### Julia / Vue.js
 
-*   [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso
-*   [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) *(:card\_file\_box: archived)*
-*   [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook)
+*   [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (CC BY-NC-SA)
+*   [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) *(:card\_file\_box: archived)* (CC BY-SA)
+*   [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook) (CC BY-NC)
 
 ### LaTeX / TeX / TeX
 
@@ -1573,7 +1579,7 @@
 
 ### LaTeX / TeX / LaTeX
 
-*   [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF)
+*   [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 
 ### Linux / TeX
 
@@ -1766,7 +1772,7 @@
 
 ### Kotlin / Vue.js
 
-*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+*   [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook) (CC BY-SA)
 
 ### MongoDB / PicoLisp
 
@@ -1826,7 +1832,7 @@
 
 ### Kotlin / Vue.js
 
-*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### Language Agnostic / TeX
 
@@ -2373,11 +2379,11 @@
 
 ### JavaScript / React Native
 
-*   [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
+*   [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 
 ### Kotlin / Vue.js
 
-*   [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
+*   [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 
 ### Linux / TeX
 
@@ -2835,7 +2841,7 @@
 
 ### JavaScript / Vue.js
 
-*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### MATLAB / PicoLisp
 
@@ -3271,11 +3277,11 @@
 
 ### Julia / Vue.js
 
-*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
+*   [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks (CC BY-SA)
 
 ### LaTeX / TeX / LaTeX
 
-*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
+*   [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks (CC BY-SA)
 
 ### Linux / TeX
 
@@ -3922,7 +3928,7 @@
 
 ### Jenkins / Vue.js
 
-*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
+*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF) (CC BY-NC-ND)
 
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
 
@@ -4102,7 +4108,7 @@
 ### Julia / Vue.js
 
 *   [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
-*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
+*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (CC BY-SA)
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
 

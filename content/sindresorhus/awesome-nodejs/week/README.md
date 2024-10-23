@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Resources / Discovery
+
+*   [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Packages / Cross-platform integration
@@ -28,7 +34,7 @@
 
 ### Packages / Data validation
 
-*   [zod (⭐33k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐34k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
@@ -198,7 +204,7 @@
 *   [LoopBack (⭐5k)](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 *   [TypeGraphQL (⭐8k)](https://github.com/MichalLytek/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 *   [Tinyhttp (⭐2.7k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
-*   [Ts.ED (⭐2.8k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+*   [Ts.ED (⭐2.8k)](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 
 ### Packages / Documentation
 
@@ -420,7 +426,7 @@
     *   [Keyv (⭐2.6k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐187)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐74)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐555)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [Mongo Seeding (⭐554)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
     *   [@databases (⭐604)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
     *   [pg-mem (⭐2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
@@ -972,7 +978,7 @@
 
 ### Packages / Authorization
 
-*   [CASL (⭐5.9k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐6k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
@@ -1048,7 +1054,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐937)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐936)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [Aug 28 - Sep 03, 2017](/content/2017/35/README.md)
 
@@ -1340,10 +1346,6 @@
 *   [Nightwatch (⭐12k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 
 ## [Apr 25 - May 01, 2016](/content/2016/17/README.md)
-
-### Resources / Discovery
-
-*   [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
 
 ### Resources / Articles
 

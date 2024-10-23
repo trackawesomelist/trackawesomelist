@@ -153,7 +153,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. \[LGPL]
 *   [frugally-deep (⭐1.1k)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 *   [Genann (⭐2k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
-*   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
+*   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
 *   [PyTorch (⭐83k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 *   [flashlight (⭐5.3k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 *   [Recast/Detour (⭐6.5k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
@@ -204,7 +204,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Tonic (⭐524)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
 *   [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. \[BSD]
 *   [minimp3 (⭐1.6k)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
-*   [Verovio (⭐669)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐678)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 *   [Wav2Letter++ (⭐6.4k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
 
 ## Biology
@@ -571,7 +571,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Godot (⭐90k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 *   [Grit (⭐113)](https://github.com/grit-engine/grit-engine) - Community project to build a free game engine for implementing open world 3D games. \[MIT]
 *   [Halley (⭐3.6k)](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
-*   [JNGL (⭐261)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐263)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 *   [KlayGE (⭐2.1k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 *   [nCine (⭐1.1k)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 *   [o3de (⭐7.8k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
@@ -618,6 +618,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. \[Own based on LGPL]
 *   [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. \[zlib]
 *   [RmlUi (⭐2.8k)](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
+*   [Saucer (⭐253)](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. \[MIT]
 *   [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. \[Free/Commercial]
 *   [Slint (⭐17k)](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
 *   [TGUI (⭐821)](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
@@ -1070,7 +1071,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [ctypes.sh (⭐2.1k)](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. \[MIT]
 *   [Cython (⭐9.5k)](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
 *   [djinni](https://djinni.xlcpp.dev) - A tool for generating cross-language type declarations and interface bindings. \[Apache2]
-*   [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
 *   [JavaCpp (⭐4.5k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
 *   [libffi (⭐3.2k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
 *   [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. \[MIT]
@@ -1082,10 +1083,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PHP-CPP (⭐1.4k)](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
 *   [pocketpy (⭐1.6k)](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 *   [pybind11 (⭐16k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
+*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable JavaScript engine. \[MIT]
 *   [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. \[GPL]
 *   [sol2 (⭐4.2k)](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
-*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to JavaScript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 *   [txiki.js (⭐2.5k)](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime. \[MIT]
 *   [V7 (⭐1.4k)](https://github.com/cesanta/v7) - An embedded JavaScript engine. \[GPL2]
 *   [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. \[BSD]
@@ -1300,7 +1301,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
 *   [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
 *   [Wandbox](https://wandbox.org) - An online Clang/GCC compiler with Boost available.
-*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, GitHub(gist) integration and collaborative editing.
 *   [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
 ## Debugger
@@ -1323,7 +1324,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
 *   [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
 *   [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
-*   [CodeLite](http://codelite.org/) - Another cross-plaform, free C and C++ IDE. \[GPL2 with an exception for plugins]
+*   [CodeLite](http://codelite.org/) - Another cross-platform, free C and C++ IDE. \[GPL2 with an exception for plugins]
 *   [color\_coded (⭐870)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 *   [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 *   [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
@@ -1469,7 +1470,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - The C++ conference.
 *   [Quick game development with C++11/C++14 (⭐87)](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 *   [Presentation on Hana for C++Now 2015 (⭐10)](https://github.com/ldionne/hana-cppnow-2015)
-*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
+*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ YouTube Channel
 
 ## Videos
 

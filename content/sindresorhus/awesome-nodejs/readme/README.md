@@ -403,7 +403,7 @@
 *   [Tinyhttp (⭐2.7k)](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 *   [Marble.js (⭐2.1k)](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 *   [Lad (⭐2.3k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-*   [Ts.ED (⭐2.8k)](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+*   [Ts.ED (⭐2.8k)](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 *   [Hono (⭐19k)](https://github.com/honojs/hono) - Small and fast web framework.
 
 ### Documentation
@@ -551,7 +551,7 @@
 *   [ajv (⭐14k)](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 *   [Superstruct (⭐7k)](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 *   [yup (⭐23k)](https://github.com/jquense/yup) - Object schema validation.
-*   [zod (⭐33k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+*   [zod (⭐34k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Parsing
 
@@ -636,7 +636,7 @@
     *   [Keyv (⭐2.6k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐187)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
     *   [database-js (⭐74)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐555)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [Mongo Seeding (⭐554)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
     *   [@databases (⭐604)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
     *   [pg-mem (⭐2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
@@ -662,7 +662,7 @@
 *   [WebdriverIO (⭐9k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 *   [Jest (⭐44k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 *   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
-*   [abstruse (⭐937)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐936)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 *   [CodeceptJS (⭐4.1k)](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
 *   [Puppeteer (⭐89k)](https://github.com/puppeteer/puppeteer) - Headless Chrome.
 *   [Playwright (⭐66k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
@@ -698,7 +698,7 @@
 
 ### Authorization
 
-*   [CASL (⭐5.9k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐6k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 *   [node-casbin (⭐2.6k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ### Email
@@ -868,7 +868,7 @@
 
 *   [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 *   [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-*   [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
+*   [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
 
 ### Articles
 

@@ -18,7 +18,7 @@ A curated list of testing resources
 
 This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute (⭐1.8k)](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute (⭐1.9k)](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
 
 ## Contents
 
@@ -43,6 +43,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Make your life easier
 
+*   [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
 *   [GoodLooks (⭐35)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
 *   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
 *   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
@@ -66,9 +67,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
 *   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
 *   [DeepfakeHTTP (⭐511)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
-*   [Keploy (⭐4.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [Keploy (⭐5k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 *   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
-*   [Touca (⭐491)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
+*   [Touca (⭐492)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
 *   [test-each (⭐111)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 *   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 *   [RestQA (⭐85)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
@@ -129,6 +130,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Newsletters
 
+*   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## Suggested Awesome Lists
@@ -141,7 +143,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 
-*   [The Original (⭐328k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐330k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Learn to Code (⭐4.1k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 *   [Application Security (⭐6.3k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
@@ -180,7 +182,7 @@ See the [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/maste
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors (⭐1.8k)](https://github.com/TheJambo/awesome-testing/graphs/contributors)
+contributors (⭐1.9k)](https://github.com/TheJambo/awesome-testing/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/README.md/LICENSE) for details.
 

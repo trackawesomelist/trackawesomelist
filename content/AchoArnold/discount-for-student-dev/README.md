@@ -2,9 +2,15 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
+
+## [Oct 23, 2024](/content/2024/10/23/README.md)
+
+### SaaS
+
+*   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
 ## [Apr 13, 2024](/content/2024/04/13/README.md)
 

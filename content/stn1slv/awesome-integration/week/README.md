@@ -6,6 +6,46 @@ A curated list of awesome system integration software and resources.
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐824) (⭐822)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐206) (⭐204)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Spectral (⭐2.5k) (⭐2.5k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Zally (⭐904) (⭐902)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐403) (⭐402)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [OpenAPI Explorer (⭐309) (⭐307)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+
+### Projects / Data Mapping Solution
+
+*   [JSLT (⭐635) (⭐633)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / Integration Frameworks
+
+*   [Ballerina (⭐3.6k) (⭐3.6k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
+
+### Projects / Messaging
+
+*   [Eclipse Mosquitto (⭐9k) (⭐9k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+
+### Projects / Workflow engine
+
+*   [Bonita (⭐154) (⭐153)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+*   [Elsa Core (⭐6.3k) (⭐6.3k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
+*   [Flowable (⭐7.9k) (⭐7.9k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+
+### Resources / API Specification
+
+*   [AsyncAPI (⭐4.2k) (⭐4.2k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐676) (⭐672)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Projects / API Management
@@ -15,13 +55,10 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐822) (⭐822)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [Swagger Editor (⭐8.9k) (⭐8.9k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
-*   [Zally (⭐902) (⭐902)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐307) (⭐307)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 *   [SpectaQL (⭐1.1k) (⭐1.1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
 
 ### Projects / API Testing
@@ -45,7 +82,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Data Mapping Solution
 
 *   [AltasMap (⭐197) (⭐197)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐633) (⭐633)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ESB
 
@@ -57,7 +93,6 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐672) (⭐672)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐347) (⭐347)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ### Resources / Structure and Validation
@@ -65,10 +100,6 @@ A curated list of awesome system integration software and resources.
 *   [JSON Schema (⭐3.7k) (⭐3.7k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
-
-### Projects / API Design
-
-*   [OpenAPI Style Validator (⭐204) (⭐204)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Gateway
 
@@ -82,7 +113,7 @@ A curated list of awesome system integration software and resources.
     *   [Karate (⭐8.1k) (⭐8.1k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
     *   [REST Assured (⭐6.8k) (⭐6.8k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2.2k) (⭐2.2k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
+    *   [Schemathesis (⭐2.2k) (⭐2.3k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
     *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
 
 ### Projects / BRE
@@ -96,10 +127,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Messaging
 
 *   [Redpanda (⭐9.5k) (⭐9.5k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
-### Projects / Workflow engine
-
-*   [Bonita (⭐153) (⭐153)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 
 ### Resources / Data Formats
 
@@ -140,21 +167,9 @@ A curated list of awesome system integration software and resources.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
-### Projects / API Documentation
-
-*   [DapperDox (⭐402) (⭐402)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-
 ### Projects / Integration Frameworks
 
 *   [Apache Camel (⭐5.5k) (⭐5.5k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
-
-### Projects / Messaging
-
-*   [Eclipse Mosquitto (⭐8.9k) (⭐9k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
-
-### Projects / Workflow engine
-
-*   [Flowable (⭐7.8k) (⭐7.9k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
@@ -167,10 +182,6 @@ A curated list of awesome system integration software and resources.
 *   [Ocelot (⭐8.3k) (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 *   [Traefik (⭐50k) (⭐51k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 
-### Resources / API Specification
-
-*   [AsyncAPI (⭐4.1k) (⭐4.2k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
-
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
 ### Projects / API Gateway
@@ -180,10 +191,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / ETL
 
 *   [Pentaho Data Integration (⭐7.6k) (⭐7.7k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
-
-### Projects / Workflow engine
-
-*   [Elsa Core (⭐6.2k) (⭐6.3k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
@@ -214,7 +221,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [Protocol Buffers (⭐65k) (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
+*   [Protocol Buffers (⭐65k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
@@ -223,10 +230,6 @@ A curated list of awesome system integration software and resources.
 *   [OpenAPI Generator (⭐21k) (⭐22k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
-
-### Projects / API Design
-
-*   [Spectral (⭐2.4k) (⭐2.5k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / API Gateway
 
@@ -394,12 +397,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Conductor (⭐12k) (⭐13k)](https://github.com/Netflix/conductor) - A cloud-based orchestration engine designed to run and manage workflows in a microservices architecture.
-
-## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
-
-### Projects / Integration Frameworks
-
-*   [Ballerina (⭐3.5k) (⭐3.6k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 

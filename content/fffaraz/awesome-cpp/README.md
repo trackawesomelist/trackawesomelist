@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Oct 23, 2024](/content/2024/10/23/README.md)
+
+### GUI
+
+*   [Saucer (⭐253)](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. \[MIT]
+
 ## [Oct 21, 2024](/content/2024/10/21/README.md)
 
 ### Database
@@ -477,7 +483,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Scripting
 
-*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. \[MIT]
+*   [QuickJS](https://bellard.org/quickjs/) - a small and embeddable JavaScript engine. \[MIT]
 *   [v8pp (⭐902)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
 
 ### Serialization
@@ -502,7 +508,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [JNGL (⭐261)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+*   [JNGL (⭐263)](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 
 ### JSON
 
@@ -1579,7 +1585,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Online Compiler
 
-*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+*   [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, GitHub(gist) integration and collaborative editing.
 
 ### Weblogs
 
@@ -1809,7 +1815,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Talks
 
-*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
+*   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ YouTube Channel
 
 ## [Dec 14, 2019](/content/2019/12/14/README.md)
 
@@ -1913,7 +1919,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Audio
 
-*   [Verovio (⭐669)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐678)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [Aug 17, 2019](/content/2019/08/17/README.md)
 
@@ -2451,7 +2457,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Artificial Intelligence
 
-*   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more. [website](https://mxnet.apache.org)
+*   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
 
 ### JSON
 
@@ -2952,7 +2958,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
 *   [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
-*   [CodeLite](http://codelite.org/) - Another cross-plaform, free C and C++ IDE. \[GPL2 with an exception for plugins]
+*   [CodeLite](http://codelite.org/) - Another cross-platform, free C and C++ IDE. \[GPL2 with an exception for plugins]
 
 ### Books
 
@@ -3146,7 +3152,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [JavaCpp (⭐4.5k)](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. \[Apache2]
 *   [libffi (⭐3.2k)](https://github.com/libffi/libffi) - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
 *   [pybind11 (⭐16k)](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. \[BSD]
-*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
+*   [SWIG (⭐5.7k)](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to JavaScript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 
 ### Build Systems
 
@@ -3584,7 +3590,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Scripting
 
-*   [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.9k)](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Other Awesome Projects
 
