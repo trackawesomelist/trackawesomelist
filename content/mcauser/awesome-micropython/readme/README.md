@@ -153,6 +153,7 @@ Other places you can look for MicroPython Libraries:
 
 #### DNS
 
+*   [aiodns (⭐9)](https://github.com/vshymanskyy/aiodns) - A small, versatile DNS client that provides an async version of `getaddrinfo` and works with any connectivity.
 *   [ICantBelieveItsNotDNS (⭐19)](https://github.com/yschaeff/ICantBelieveItsNotDNS) - "I Can't Believe It's Not DNS!" (ICBIND) is an authoritative DNS server for the ESP8266 written in MicroPython.
 *   [MicroDNSSrv (⭐73)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 *   [tinydns (⭐32)](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
@@ -1195,6 +1196,7 @@ Other places you can look for MicroPython Libraries:
 *   [micropython-extmod-generator (⭐21)](https://github.com/prusnak/micropython-extmod-generator) - Generator for MicroPython external modules written in C.
 *   [micropython-package-template (⭐6)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 *   [micropython-usermod](https://micropython-usermod.readthedocs.io) - Online book about MicroPython external modules writen in C.
+*   [wasm2mpy (⭐118)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 
 ### Debugging
 
@@ -1217,6 +1219,7 @@ Other places you can look for MicroPython Libraries:
 *   [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 *   [Mu Editor](https://codewith.mu/) -  Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 *   [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.
+*   [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
 *   [Pyboard File Manager (⭐5)](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
 *   [uPIDE (⭐22)](https://github.com/harbaum/upide) - µPIDE is a simple IDE for MicroPython.
 

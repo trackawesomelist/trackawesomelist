@@ -1,12 +1,53 @@
 # Awesome List Updates on Oct 21 - Oct 27, 2024
 
-31 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+
+### Articles / Golang - Community
+
+*   [Orchestrating Firebase and AI: 8 Genkit Architecture Patterns](https://medium.com/@nozomi-koborinai/orchestrating-firebase-and-ai-8-genkit-architecture-patterns-12e44db40345) - A guide to 8 architecture patterns for integrating Firebase and AI using Genkit.
+*   [High-Precision Responses with Genkits Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693) - Learn how to integrate Google Search with Genkit.
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Communications / DNS
+
+*   [aiodns (⭐9)](https://github.com/vshymanskyy/aiodns) - A small, versatile DNS client that provides an async version of `getaddrinfo` and works with any connectivity.
+
+### Code Generation / SRAM
+
+*   [wasm2mpy (⭐118)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
+
+### IDEs / SRAM
+
+*   [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
+
+## [3. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+
+### Examples
+
+*   [GTruf/Driver-Drowsiness-Detector (⭐1)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
+
+## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [react-component-library-template (⭐0)](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
+
+### Templates / Svelte
+
+*   [vite-svelte-docker-template (⭐0)](https://github.com/tony-stark-eth/vite-svelte-docker-template) - `Docker` + `Svelte` + `Vitest`.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [@yuanjianming/unplugin-image-convert (⭐1)](https://github.com/yuan66-hub/unplugin-image-convert) - Image multi format conversion plugin based on sharp.js.
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
@@ -16,13 +57,13 @@
 
 *   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 
-## [2. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [6. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
 *   [npm-compare](https://npm-compare.com) - Easily search and compare packages.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -62,37 +103,37 @@
 
 *   [NDJSON (⭐676) (⭐672)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Discovery
 
 *   [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
 
-## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Regex (⭐235)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 
-## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### API / Samples
 
 *   [soul (⭐1.5k)](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
 
-## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
 *   [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
 
-## [9. Topics](/content/selvaklnc/topics/week/README.md)
+## [13. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
 
@@ -106,7 +147,7 @@
 *   Guiding the [growth and development of over 24 brands](https://www.bu.edu/bhr/2024/09/24/nurturing-24-brands-allowing-them-to-evolve-mature-and-even-rocket-into-space/#comment-130011), helping them not only evolve and mature but also reach extraordinary heights, even beyond expectations.
 *   [Too many spider man](https://sites.northwestern.edu/situationcritical/2016/10/25/too-many-spider-men/comment-page-112/#comment-329717)
 
-## [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Micro-orchestration** / **Azure AI Search**
 
@@ -123,13 +164,13 @@
 
 *   Agentic Design Frameworks focus on managing autonomous or semi-autonomous AI agents for complex tasks.
 
-## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [15. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
 *   [Auditing Local Explanations is Hard](https://arxiv.org/abs/2407.13281) - (NeurIPS) *Gives the (prohibitive) query complexity of auditing explanations.*
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -139,38 +180,42 @@
 
 *   [kcwarden Config Auditor (⭐9)](https://github.com/iteratec/kcwarden)
 
-## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Job Scheduler
 
 *   [go-taskflow (⭐35)](https://github.com/noneback/go-taskflow) - A taskflow-like Programmatic DAG Task Execution Framework with integrated visualizer and profiler.
 
-## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Discovery
 
 *   [npins (⭐199)](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Theory of Mind / AI Assisted Research
 
 *   [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a.html) - ***ICML'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333)]. Theory of mind (ToM) broadly refers to humans’ ability to represent the mental states of others, including their desires, beliefs, and intentions. This work proposes a Theory of Mind neural network --- a ToMnet --- which uses meta-learning to build such models of the agents it encounters. The ToMnet learns a strong prior model for agents’ future behaviour, and, using only a small number of behavioural observations, can bootstrap to richer predictions about agents’ characteristics and mental states.
 
-## [16. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
 *   [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer)
 
-## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Video and Audio Conferencing
 
 *   [Briefing (⭐1.4k)](https://github.com/holtwick/briefing/) - Secure direct video group chat. Only open technologies (such as WebRTC) are used, which work with all modern browsers.
 *   [Jitsi Meet (⭐23k)](https://github.com/jitsi/jitsi-meet) - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Web
+
+*   [hexagontk/hexagon](https://hexagontk.com) - A Microservices toolkit that takes care of HTTP, serialization and templates.
 
 ### Libraries/Frameworks / Testing
 
@@ -179,10 +224,6 @@
 ### Libraries/Frameworks / Misc
 
 *   [eriksencosta/money (⭐163)](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
-
-### Libraries/Frameworks / Data Science
-
-*   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
 ### Libraries/Frameworks / Logging
 
@@ -259,13 +300,13 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [19. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [23. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Go
 
 *   [Kanister (⭐755)](https://github.com/kanisterio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
 
-## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [24. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Builder / Other
 
@@ -275,7 +316,7 @@
 
 *   [GCP Artifact Registry :heavy\_dollar\_sign:](https://cloud.google.com/artifact-registry/docs) Fast, private Docker image storage on Google Cloud Platform.
 
-## [21. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
+## [25. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### Content Marketing / Copywriting Tools
 
@@ -285,24 +326,25 @@
 
 *   [Touchlead](https://touchlead.app) - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
 
-## [22. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [26. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [@appetize/playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
 *   [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
+*   [CrossDB (⭐168)](https://github.com/crossdb-org/crossdb) - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. \[MPL-2.0] [website](https://crossdb.org/)
 *   [Trilogy (⭐700)](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. \[MIT]
 
 ### GUI
 
 *   [Saucer (⭐253)](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. \[MIT]
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Boilerplates
 
@@ -344,7 +386,7 @@
 
 *   [SwiftTweaks (⭐1.4k)](https://github.com/bryanjclark/SwiftTweaks) - Tweak your iOS app without recompiling.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -356,6 +398,10 @@
 
 *   [Marker Data (⭐28)](https://github.com/TheAcharya/MarkerData) - The avant-garde Marker extraction application crafted for Final Cut Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/TheAcharya/MarkerData)
 
+### Download Management Tools / Audio Record and Process
+
+*   [Neat Download Manager](https://www.neatdownloadmanager.com/) - Neat Download Manager is a simple and lightweight GUI wrapped around a powerful and optimized Download-Engine. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Menu Bar Tools
 
 *   [SketchyBar (⭐6k)](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FelixKratz/SketchyBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -365,7 +411,7 @@
 *   [Selectric](https://selectric.io/) - Private personal search engine for your emails, documents and messages. Search across Gmail, Outlook, Drive, Dropbox, Teams, Slack and more applications right from your computer.
 *   [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Education and Career Development
 
@@ -379,7 +425,7 @@
 
 *   [Uiland Design](https://uiland.design/) - \[Mobile screenshots] Explore Mobile and Web UI Designs from Leading Companies in Africa and the world.
 
-## [27. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [31. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
 
@@ -389,7 +435,7 @@
 
 *   [Nmap Tutorials](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Learn and practice the basics of network scanning using Nmap.
 
-## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Operating systems/Kernels
 
@@ -399,7 +445,7 @@
 
 *   [v-analyzer (⭐109)](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Graphics
 
@@ -411,11 +457,15 @@
 
 *   [navidys/procsys (⭐1)](https://github.com/navidys/procsys) \[[procsys](https://crates.io/crates/procsys)] - A library to retrieve system, kernel, and process metrics from the pseudo-filesystems /proc and /sys.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@blue-cardinal/ngx-google-analytics (⭐1)](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guard rails against including the tag manager script in a dev environment.
+
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-http-retry (⭐1)](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -437,6 +487,10 @@
 *   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
 *   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
 
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-interpolation (⭐3)](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
+
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-fileupload (⭐20)](https://github.com/r-hannuschka/ngx-fileupload) - [ngx-file-upload/core (⭐20)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/core) only contains services and classes to enable file upload with Angular. [ngx-file-upload/ui (⭐20)](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/ui) contains components and pipes to provide a UI.
@@ -446,6 +500,10 @@
 *   [ngx-dynamic-form (⭐2)](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
 *   [ngx-form (⭐14)](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
 *   [ngx-enhancy-forms (⭐4)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-show-hide-password (⭐21)](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
 
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -459,7 +517,7 @@
 
 *   [ngx-safe-subscribe (⭐3)](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 
-## [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

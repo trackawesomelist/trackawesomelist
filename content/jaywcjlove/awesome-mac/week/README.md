@@ -18,6 +18,10 @@
 
 *   [Marker Data (⭐28)](https://github.com/TheAcharya/MarkerData) - The avant-garde Marker extraction application crafted for Final Cut Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/TheAcharya/MarkerData)
 
+### Download Management Tools / Audio Record and Process
+
+*   [Neat Download Manager](https://www.neatdownloadmanager.com/) - Neat Download Manager is a simple and lightweight GUI wrapped around a powerful and optimized Download-Engine. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Menu Bar Tools
 
 *   [SketchyBar (⭐6k)](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FelixKratz/SketchyBar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -105,7 +109,7 @@
 
 ### Utilities / Clipboard Tools
 
-*   [Yippy (⭐359)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Yippy (⭐361)](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
@@ -141,7 +145,7 @@
 
 ### Utilities / Window Management
 
-*   [Loop (⭐6.7k)](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MrKai77/Loop)
+*   [Loop (⭐6.9k)](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MrKai77/Loop)
 
 ### Third Party App Markets / Package Managers
 

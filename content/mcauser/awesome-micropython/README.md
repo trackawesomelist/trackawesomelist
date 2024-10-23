@@ -6,6 +6,20 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 [ Daily / [Weekly](/content/mcauser/awesome-micropython/week/README.md) / [Overview](/content/mcauser/awesome-micropython/readme/README.md) ]
 
+## [Oct 23, 2024](/content/2024/10/23/README.md)
+
+### Communications / DNS
+
+*   [aiodns (⭐9)](https://github.com/vshymanskyy/aiodns) - A small, versatile DNS client that provides an async version of `getaddrinfo` and works with any connectivity.
+
+### Code Generation / SRAM
+
+*   [wasm2mpy (⭐118)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
+
+### IDEs / SRAM
+
+*   [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
+
 ## [Oct 12, 2024](/content/2024/10/12/README.md)
 
 ### Audio
