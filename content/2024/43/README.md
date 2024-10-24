@@ -6,14 +6,20 @@
 
 
 
-## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### JavaScript / React
+
+*   [クイックスタート](https://ja.react.dev/learn) - Facebook Inc.
+
+## [2. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Orchestrating Firebase and AI: 8 Genkit Architecture Patterns](https://medium.com/@nozomi-koborinai/orchestrating-firebase-and-ai-8-genkit-architecture-patterns-12e44db40345) - A guide to 8 architecture patterns for integrating Firebase and AI using Genkit.
 *   [High-Precision Responses with Genkits Google Search Integration](https://medium.com/firebase-developers/high-precision-responses-with-genkits-google-search-integration-7f142f5c9693) - Learn how to integrate Google Search with Genkit.
 
-## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [3. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / DNS
 
@@ -27,13 +33,13 @@
 
 *   [ViperIDE](https://viper-ide.org) - An innovative MicroPython / CircuitPython IDE for Web and Mobile. No installation required.
 
-## [3. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [GTruf/Driver-Drowsiness-Detector (⭐1)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -47,7 +53,7 @@
 
 *   [@yuanjianming/unplugin-image-convert (⭐1)](https://github.com/yuan66-hub/unplugin-image-convert) - Image multi format conversion plugin based on sharp.js.
 
-## [5. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
@@ -57,13 +63,13 @@
 
 *   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 
-## [6. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [7. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
 *   [npm-compare](https://npm-compare.com) - Easily search and compare packages.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -103,40 +109,35 @@
 
 *   [NDJSON (⭐676) (⭐672)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Discovery
 
 *   [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
 
-## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Regex (⭐235)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 
-## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
-## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### API / Samples
 
 *   [soul (⭐1.5k)](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
-
-### Python / Constraint Logic Programming (extended Prolog)
-
-*   [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
-
 ## [13. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
 
+*   Selvakumaran @ [MMM UVAR Forum](https://forum.mmm.ucar.edu/members/selvaklnc.32903/#about)
 *   Selvakumaran Krishnan @ [CDCP](https://nationaldppcsc.cdc.gov/s/profile/005SJ000008YSIDYA4)
 *   Selvakumaran Krishnan @ [Ilm Institute](https://ilm.iou.edu.gm/members/wikimint/)
 *   [selvakumaran Krishnan](https://connects.ctschicago.edu/forums/users/194221/) @ CTS Chicago Forum
@@ -192,26 +193,7 @@
 
 *   [npins (⭐199)](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
 
-## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Theory of Mind / AI Assisted Research
-
-*   [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a.html) - ***ICML'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333)]. Theory of mind (ToM) broadly refers to humans’ ability to represent the mental states of others, including their desires, beliefs, and intentions. This work proposes a Theory of Mind neural network --- a ToMnet --- which uses meta-learning to build such models of the agents it encounters. The ToMnet learns a strong prior model for agents’ future behaviour, and, using only a small number of behavioural observations, can bootstrap to richer predictions about agents’ characteristics and mental states.
-
-## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
-
-### Youtube Series
-
-*   [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer)
-
-## [21. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Video and Audio Conferencing
-
-*   [Briefing (⭐1.4k)](https://github.com/holtwick/briefing/) - Secure direct video group chat. Only open technologies (such as WebRTC) are used, which work with all modern browsers.
-*   [Jitsi Meet (⭐23k)](https://github.com/jitsi/jitsi-meet) - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.
-
-## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -225,80 +207,24 @@
 
 *   [eriksencosta/money (⭐163)](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
 
-### Libraries/Frameworks / Logging
+## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+### Theory of Mind / AI Assisted Research
 
-### Libraries/Frameworks / Mail
+*   [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a.html) - ***ICML'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333)]. Theory of mind (ToM) broadly refers to humans’ ability to represent the mental states of others, including their desires, beliefs, and intentions. This work proposes a Theory of Mind neural network --- a ToMnet --- which uses meta-learning to build such models of the agents it encounters. The ToMnet learns a strong prior model for agents’ future behaviour, and, using only a small number of behavioural observations, can bootstrap to richer predictions about agents’ characteristics and mental states.
 
-*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+## [21. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
-### Projects / Web
+### Youtube Series
 
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+*   [The Math Sorcerer](https://www.youtube.com/@TheMathSorcerer)
 
-### Projects / Build tools
+## [22. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
-*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+### Video and Audio Conferencing
 
-### Projects / Misc
-
-*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-*   [chrislo27/RhythmHeavenRemixEditor (⭐434)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-
-### Projects / Desktop
-
-*   [yschimke/okurl (⭐123)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
-*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-
-### Projects / Android
-
-*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐183)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-*   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [android-password-store/Android-Password-Store (⭐2.6k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
-*   [AnkitSuda/Rebound (⭐181)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Kotlin JavaScript / JavaScript
-
-*   [pixijs/pixi-native (⭐87)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-*   [Foso/MpApt (⭐236)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐562)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+*   [Briefing (⭐1.4k)](https://github.com/holtwick/briefing/) - Secure direct video group chat. Only open technologies (such as WebRTC) are used, which work with all modern browsers.
+*   [Jitsi Meet (⭐23k)](https://github.com/jitsi/jitsi-meet) - More secure, more flexible, and completely free video conferencing. If you use the official instance, you will need to login. Self-hosting is recommended.
 
 ## [23. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
@@ -412,6 +338,10 @@
 *   [Atomic](https://indiegoodies.com/atomic) - A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.
 
 ## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
 
 ### Education and Career Development
 

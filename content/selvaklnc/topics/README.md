@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Oct 24, 2024](/content/2024/10/24/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   Selvakumaran @ [MMM UVAR Forum](https://forum.mmm.ucar.edu/members/selvaklnc.32903/#about)
+
 ## [Oct 22, 2024](/content/2024/10/22/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan

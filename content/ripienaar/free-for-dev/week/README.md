@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### APIs, Data, and ML
+
+*   [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
+
 ### Education and Career Development
 
 *   [LabEx](https://labex.io) - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.
