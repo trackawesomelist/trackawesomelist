@@ -6,13 +6,37 @@ A curated list of awesome Apache Spark packages and resources.
 
 [ [Daily](/content/awesome-spark/awesome-spark/README.md) / Weekly / [Overview](/content/awesome-spark/awesome-spark/readme/README.md) ]
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Packages / Language Bindings
+
+*   [spark-connect-csharp (⭐1)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
+
+### Packages / General Purpose Libraries
+
+*   [spark-daria (⭐751)](https://github.com/mrpowers-io/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+*   [quinn (⭐632)](https://github.com/mrpowers-io/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers-io/quinn.svg"> - A native PySpark implementation of spark-daria.
+
+### Packages / Storage
+
+*   [Apache Hudi (⭐5.4k)](https://github.com/apache/hudi) <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+*   [Apache Iceberg (⭐6.4k)](https://github.com/apache/iceberg) <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+
+### Packages / Data quality
+
+*   [python-deequ (⭐717)](https://github.com/awslabs/python-deequ) <img src="https://img.shields.io/github/last-commit/awslabs/python-deequ.svg"> - Python API for Deequ.
+
+### Packages / Testing
+
+*   [spark-fast-tests (⭐432)](https://github.com/mrpowers-io/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests.svg"> - A lightweight and fast testing framework.
+*   [chispa (⭐606)](https://github.com/MrPowers/chispa) <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
+
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
 ### Packages / Language Bindings
 
-*   [spark-connect-rs (⭐76)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
-*   [spark-connect-go (⭐145)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
-*   [spark-connect-rs (⭐1)](https://github.com/mdrakiburrahman/spark-connect-csharp) <img src="https://img.shields.io/github/last-commit/mdrakiburrahman/spark-connect-csharp.svg"> - C# bindings.
+*   [spark-connect-rs (⭐85)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
+*   [spark-connect-go (⭐155)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
@@ -28,13 +52,13 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Language Bindings
 
-*   [Kotlin for Apache Spark (⭐457)](https://github.com/Kotlin/kotlin-spark-api) <img src="https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api.svg"> - Kotlin API bindings and extensions.
+*   [Kotlin for Apache Spark (⭐459)](https://github.com/Kotlin/kotlin-spark-api) <img src="https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api.svg"> - Kotlin API bindings and extensions.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
 ### Packages / GIS
 
-*   [Apache Sedona (⭐1.9k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
+*   [Apache Sedona (⭐2k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
 
@@ -46,7 +70,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / General Purpose Libraries
 
-*   [Joblib Apache Spark Backend (⭐242)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
+*   [Joblib Apache Spark Backend (⭐241)](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
 
 ### Packages / Storage
 
@@ -68,7 +92,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Natural Language Processing
 
-*   [spark-nlp (⭐3.8k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
+*   [spark-nlp (⭐3.9k)](https://github.com/JohnSnowLabs/spark-nlp) <img src="https://img.shields.io/github/last-commit/JohnSnowLabs/spark-nlp.svg"> - Natural language processing library built on top of Apache Spark ML.
 
 ### Resources / Papers
 
@@ -82,11 +106,6 @@ A curated list of awesome Apache Spark packages and resources.
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Packages / General Purpose Libraries
-
-*   [spark-daria (⭐750)](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
-*   [quinn (⭐626)](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
-
 ### Resources / Books
 
 *   [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Introduction to Spark API with Spark 3.0 covered. Good source of knowledge about basic concepts.
@@ -95,13 +114,13 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Monitoring
 
-*   [Data Mechanics Delight (⭐341)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
+*   [Data Mechanics Delight (⭐342)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
 
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
 ### Packages / General Purpose Libraries
 
-*   [itachi (⭐53)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
+*   [itachi (⭐56)](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
 
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
 
@@ -119,12 +138,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Language Bindings
 
-*   [Mobius (⭐943)](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
 *   [.NET for Apache Spark (⭐2k)](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
-
-### Packages / Utilities
-
-*   [pyspark-stubs (⭐115)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -140,11 +154,11 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Middleware
 
-*   [Livy (⭐881)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
+*   [Livy (⭐883)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
 
-### Packages / Testing
+### Packages / Data quality
 
 *   [deequ (⭐3.3k)](https://github.com/awslabs/deequ) <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
@@ -164,7 +178,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / Language Bindings
 
-*   [sparklyr (⭐948)](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
+*   [sparklyr (⭐952)](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
 *   [sparkle (⭐447)](https://github.com/tweag/sparkle) <img src="https://img.shields.io/github/last-commit/tweag/sparkle.svg"> - Haskell on Apache Spark.
 
 ### Packages / Notebooks and IDEs
@@ -174,19 +188,19 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Packages / SQL Data Sources
 
-*   [Spark XML (⭐501)](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
+*   [Spark XML (⭐504)](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
 *   [Spark Cassandra Connector (⭐1.9k)](https://github.com/datastax/spark-cassandra-connector) <img src="https://img.shields.io/github/last-commit/datastax/spark-cassandra-connector.svg"> - Cassandra support including data source and API and support for arbitrary queries.
-*   [Mongo-Spark (⭐708)](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
+*   [Mongo-Spark (⭐710)](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
 
 ### Packages / Bioinformatics
 
-*   [ADAM (⭐997)](https://github.com/bigdatagenomics/adam) <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
-*   [Hail (⭐974)](https://github.com/hail-is/hail) <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
+*   [ADAM (⭐1k)](https://github.com/bigdatagenomics/adam) <img src="https://img.shields.io/github/last-commit/bigdatagenomics/adam.svg"> - Set of tools designed to analyse genomics data.
+*   [Hail (⭐976)](https://github.com/hail-is/hail) <img src="https://img.shields.io/github/last-commit/hail-is/hail.svg"> - Genetic analysis framework.
 
 ### Packages / Graph Processing
 
-*   [GraphFrames (⭐996)](https://github.com/graphframes/graphframes) <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
-*   [neo4j-spark-connector (⭐312)](https://github.com/neo4j-contrib/neo4j-spark-connector) <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
+*   [GraphFrames (⭐997)](https://github.com/graphframes/graphframes) <img src="https://img.shields.io/github/last-commit/graphframes/graphframes.svg"> - Data frame based graph API.
+*   [neo4j-spark-connector (⭐313)](https://github.com/neo4j-contrib/neo4j-spark-connector) <img src="https://img.shields.io/github/last-commit/neo4j-contrib/neo4j-spark-connector.svg"> - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
 
 ### Packages / Machine Learning Extension
 
@@ -194,19 +208,19 @@ A curated list of awesome Apache Spark packages and resources.
 *   [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \[status unknown] - linear algebra DSL and optimizer with R-like syntax.
 *   [JPMML-Spark (⭐94)](https://github.com/jpmml/jpmml-spark) <img src="https://img.shields.io/github/last-commit/jpmml/jpmml-spark.svg"> - PMML transformer library for Spark ML.
 *   [ModelDB](https://mitdbg.github.io/modeldb) <img src="https://img.shields.io/github/last-commit/mitdbg/modeldb.svg"> - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) <img src="https://img.shields.io/github/last-commit/scikit-learn/scikit-learn.svg">.
-*   [Sparkling Water (⭐961)](https://github.com/h2oai/sparkling-water) <img src="https://img.shields.io/github/last-commit/h2oai/sparkling-water.svg"> -  [H2O](http://www.h2o.ai/) interoperability layer.
-*   [BigDL (⭐6.5k)](https://github.com/intel-analytics/BigDL) <img src="https://img.shields.io/github/last-commit/intel-analytics/BigDL.svg"> - Distributed Deep Learning library.
+*   [Sparkling Water (⭐965)](https://github.com/h2oai/sparkling-water) <img src="https://img.shields.io/github/last-commit/h2oai/sparkling-water.svg"> -  [H2O](http://www.h2o.ai/) interoperability layer.
+*   [BigDL (⭐6.6k)](https://github.com/intel-analytics/BigDL) <img src="https://img.shields.io/github/last-commit/intel-analytics/BigDL.svg"> - Distributed Deep Learning library.
 *   [MLeap (⭐1.5k)](https://github.com/combust/mleap) <img src="https://img.shields.io/github/last-commit/combust/mleap.svg"> - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
 
 ### Packages / Middleware
 
 *   [spark-jobserver (⭐2.8k)](https://github.com/spark-jobserver/spark-jobserver) <img src="https://img.shields.io/github/last-commit/spark-jobserver/spark-jobserver.svg"> - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
-*   [Apache Toree (⭐738)](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
+*   [Apache Toree (⭐739)](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
 
 ### Packages / Utilities
 
 *   [sparkly (⭐60)](https://github.com/Tubular/sparkly) <img src="https://img.shields.io/github/last-commit/Tubular/sparkly.svg"> - Helpers & syntactic sugar for PySpark.
-*   [Flintrock (⭐637)](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
+*   [Flintrock (⭐638)](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 
 ### Packages / Streaming
 
@@ -219,11 +233,10 @@ A curated list of awesome Apache Spark packages and resources.
 ### Packages / Testing
 
 *   [spark-testing-base (⭐1.5k)](https://github.com/holdenk/spark-testing-base) <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
-*   [spark-fast-tests (⭐431)](https://github.com/MrPowers/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests.svg"> - A lightweight and fast testing framework.
 
 ### Packages / Workflow Management
 
-*   [Cromwell (⭐989)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐989)](https://github.com/broadinstitute/cromwell#spark-backend).
+*   [Cromwell (⭐993)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐993)](https://github.com/broadinstitute/cromwell#spark-backend).
 
 ## [Apr 10 - Apr 16, 2017](/content/2017/15/README.md)
 
@@ -276,7 +289,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 ### Resources / Docker Images
 
-*   [jupyter/docker-stacks/pyspark-notebook (⭐7.9k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+*   [jupyter/docker-stacks/pyspark-notebook (⭐8k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 *   [sequenceiq/docker-spark (⭐765)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
 ## [Jun 06 - Jun 12, 2016](/content/2016/23/README.md)
