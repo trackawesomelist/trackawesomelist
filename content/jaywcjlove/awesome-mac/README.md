@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 25, 2024](/content/2024/10/25/README.md)
+
+### Audio and Video Tools / File Sharing
+
+*   [buzz (⭐12k)](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/chidiwilliams/buzz)
+
+### Utilities / General Tools
+
+*   [CleanMyMac](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12)
+
+### Utilities / Productivity
+
+*   [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) - Search and discovery with AI.
+
+### Mac App Download Sites / Genuine Sites
+
+*   [Buy software, once](https://buyoncesoftware.com/) - The place to find all the software you can buy one time, and own for a lifetime.
+
 ## [Oct 23, 2024](/content/2024/10/23/README.md)
 
 ### Download Management Tools / Audio Record and Process
@@ -501,12 +519,6 @@
 ### Design and Product / Other Tools
 
 *   [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [Oct 16, 2023](/content/2023/10/16/README.md)
-
-### Utilities / General Tools
-
-*   [CleanMyMac X](https://macpaw.com/cleanmymac) - Delete megatons of junk, malware, and make your Mac faster & more organized [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/cleanmymac-x/id1339170533?mt=12)
 
 ## [Oct 12, 2023](/content/2023/10/12/README.md)
 

@@ -149,6 +149,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/) \[DISCOUNT] - Set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages. 50% discount for students.
 
+*   [UXPin](https://www.uxpin.com/pricing) \[FREE] - is an online tool for UI design, Prototyping, and UX design. comes with a Design UI with code-backed components.
+
 ## SaaS
 
 *   [Taskade - Team Productivity](https://www.taskade.com/) \[DISCOUNT] -  Students get 50% permanent discount on Taskade Pro subscriptions. Use the coupon code "students50" on checkout and start collaborating on Taskade with team task, notes and chat.

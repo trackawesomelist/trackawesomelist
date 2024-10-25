@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Oct 25, 2024](/content/2024/10/25/README.md)
+
+### Design and Photo Editing
+
+*   [UXPin](https://www.uxpin.com/pricing) \[FREE] - is an online tool for UI design, Prototyping, and UX design. comes with a Design UI with code-backed components.
+
 ## [Oct 23, 2024](/content/2024/10/23/README.md)
 
 ### SaaS

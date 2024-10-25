@@ -8,6 +8,10 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### Design and Photo Editing
+
+*   [UXPin](https://www.uxpin.com/pricing) \[FREE] - is an online tool for UI design, Prototyping, and UX design. comes with a Design UI with code-backed components.
+
 ### SaaS
 
 *   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
