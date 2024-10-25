@@ -12,6 +12,10 @@ A list of awesome beginners-friendly projects.
 
 *   [Kanister (⭐755)](https://github.com/kanisterio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
 
+### Python
+
+*   [Harmony (⭐7)](https://github.com/harmonydata/harmony) *(label: Good First Issue)* <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### TypeScript
@@ -331,7 +335,6 @@ A list of awesome beginners-friendly projects.
 *   [Hanami (⭐6.2k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.8k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
 *   [mapknitter (⭐267)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
-*   [Matestack (⭐545)](https://github.com/matestack/matestack-ui-core) *(label: good-first-issue)* <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
 *   [ohai (⭐681)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐931)](https://github.com/openSUSE/open-build-service) *(label: good-first-issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
 *   [osem (⭐875)](https://github.com/openSUSE/osem) *(label: good-first-issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences

@@ -290,6 +290,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 *   [Fabric (⭐15k)](https://github.com/fabric/fabric) *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
 *   [H2O Wave (⭐4k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [H2O Wave Apps (⭐146)](https://github.com/h2oai/wave-apps) *(label: hacktoberfest)* <br> Sample AI Apps built with H2O Wave.
+*   [Harmony (⭐7)](https://github.com/harmonydata/harmony) *(label: Good First Issue)* <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.
 *   [jarvis (⭐3k)](https://github.com/sukeesh/Jarvis) *(label: difficulty/newcomer)* <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 *   [JARVIS-on-Messenger (⭐1.3k)](https://github.com/swapagarwal/JARVIS-on-Messenger) *(label: Low-Hanging-Fruit)* <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks <http://m.me/J.A.R.V.I.S.on.Messenger>
 *   [Jupyter notebook (⭐12k)](https://github.com/jupyter/notebook) *(label: good-first-issue)* <br> Jupyter interactive notebook.
@@ -330,7 +331,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 *   [Hanami (⭐6.2k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.8k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
 *   [mapknitter (⭐267)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
-*   [Matestack (⭐545)](https://github.com/matestack/matestack-ui-core) *(label: good-first-issue)* <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
 *   [multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) *(label: good-first-issue)* <br> The open-source reverse ETL, data activation platform for modern data teams.
 *   [ohai (⭐681)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐931)](https://github.com/openSUSE/open-build-service) *(label: good-first-issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
