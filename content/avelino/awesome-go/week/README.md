@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [redka (⭐3.5k)](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite.
 
+### Images
+
+*   [go-qrcode (⭐547)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
+
 ### Job Scheduler
 
 *   [go-taskflow (⭐35)](https://github.com/noneback/go-taskflow) - A taskflow-like Programmatic DAG Task Execution Framework with integrated visualizer and profiler.
@@ -19,6 +23,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Utilities
 
 *   [go-events (⭐1)](https://github.com/deatil/go-events) - A go event and event'subscribe package, like wordpress hook functions.
+
+### Websites / Libraries for creating HTTP middlewares
+
+*   [Golang Nugget](https://mondaynugget.com/golang/) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
@@ -58,11 +66,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Error Handling
 
-*   [errors (⭐64)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
+*   [errors (⭐66)](https://github.com/naughtygopher/errors) - Drop-in replacement for builtin Go errors. This is a minimal error handling package with custom error types, user friendly messages, Unwrap & Is. With very easy to use and straightforward helper functions.
 
 ### Financial
 
-*   [currency (⭐61)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
+*   [currency (⭐62)](https://github.com/naughtygopher/currency) - High performant & accurate currency computation package.
 
 ### IoT (Internet of Things)
 
@@ -74,7 +82,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [goapp (⭐873)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
+*   [goapp (⭐888)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -4487,8 +4495,8 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [apicompat (⭐179)](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 *   [ChainJacking (⭐56)](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.
-*   [dupl (⭐344)](https://github.com/mibk/dupl) - Tool for code clone detection.
-*   [errcheck (⭐2.3k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
+*   [dupl (⭐346)](https://github.com/mibk/dupl) - Tool for code clone detection.
+*   [errcheck (⭐2.4k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐129)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐862)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
@@ -4502,10 +4510,10 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gostatus (⭐244)](https://github.com/shurcooL/gostatus) - Command line tool, shows the status of repositories that contain Go packages.
 *   [lint (⭐67)](https://github.com/surullabs/lint) - Run linters as part of go test.
 *   [php-parser (⭐942)](https://github.com/z7zmey/php-parser) - A Parser for PHP written in Go.
-*   [staticcheck (⭐6.1k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
+*   [staticcheck (⭐6.2k)](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 *   [tickgit (⭐324)](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-*   [todocheck (⭐425)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
-*   [unconvert (⭐377)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
+*   [todocheck (⭐426)](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+*   [unconvert (⭐378)](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 *   [validate (⭐61)](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
 ### Editor Plugins / Libraries for creating HTTP middlewares

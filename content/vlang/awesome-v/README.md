@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Oct 26, 2024](/content/2024/10/26/README.md)
+
+### Command-line
+
+*   [vin (⭐0)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+
 ## [Oct 21, 2024](/content/2024/10/21/README.md)
 
 ### Operating systems/Kernels

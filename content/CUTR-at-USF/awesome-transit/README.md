@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ Daily / [Weekly](/content/CUTR-at-USF/awesome-transit/week/README.md) / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Oct 26, 2024](/content/2024/10/26/README.md)
+
+### GTFS Converters / Ruby
+
+*   [Chouette (⭐16)](https://github.com/enroute-mobi/chouette-core) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
+
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
@@ -119,10 +125,6 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 ### Transit Map Creation
 
 *   [MetroDreamin'](https://metrodreamin.com/explore) - A modern, open source software that allows users to create, save, like, and share interactive transit maps with agents.
-
-### GTFS Converters / Ruby
-
-*   [Chouette](https://bitbucket.org/enroute-mobi/chouette-core/src/master/) - Converts French-Transmodel, SIRI, NETeX.
 
 ### GTFS Analysis Tools / Ruby
 

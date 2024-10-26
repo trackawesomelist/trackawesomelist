@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### Command-line
+
+*   [vin (⭐0)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+
 ### Operating systems/Kernels
 
 *   [V-Unikernel (⭐14)](https://github.com/vlang/unikernel) - A unikernel is a computer program statically linked with the operating system code on which it depends.

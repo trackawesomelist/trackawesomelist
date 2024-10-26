@@ -11,6 +11,7 @@ A list of awesome beginners-friendly projects.
 ### Go
 
 *   [Kanister (⭐755)](https://github.com/kanisterio/kanister) *(label: good-first-issue)* <br> A Data Protection Workflow Management Engine
+*   [utils (⭐2)](https://github.com/kashifkhan0771/utils) *(label: good-first-issue)* <br> Common Utilities library for Go
 
 ### Python
 

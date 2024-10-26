@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Oct 26, 2024](/content/2024/10/26/README.md)
+
+### Go
+
+*   [utils (⭐2)](https://github.com/kashifkhan0771/utils) *(label: good-first-issue)* <br> Common Utilities library for Go
+
 ## [Oct 25, 2024](/content/2024/10/25/README.md)
 
 ### Python

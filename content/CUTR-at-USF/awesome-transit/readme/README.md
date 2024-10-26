@@ -12,6 +12,16 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 ##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
+Open technology provides an opportunity for various stakeholders to collaborate efforts to improve public transit.
+
+Elements of open technology include:
+
+*   Open standards
+*   Open data
+*   Open source software (both as consumer-facing apps like OpenTripPlanner and developer tools like the GTFS Validator)
+
+This list is focused around the open technology ecosystem for public transportation. Included technologies may be open source themselves and/or rely on open standards and/or open data.
+
 Have something to add or change? Open a [pull request (⭐1.4k)](https://github.com/MobilityData/awesome-transit/pulls) or [issue (⭐1.4k)](https://github.com/MobilityData/awesome-transit/issues) at [MobilityData/awesome-transit (⭐1.4k)](https://github.com/MobilityData/awesome-transit).
 
 ***
@@ -392,7 +402,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 Converters from various static schedule formats to and from GTFS.
 
-*   [Chouette](https://bitbucket.org/enroute-mobi/chouette-core/src/master/) - Converts French-Transmodel, SIRI, NETeX.
+*   [Chouette (⭐16)](https://github.com/enroute-mobi/chouette-core) - Converts between French-Transmodel [NeTEX](https://transmodel-cen.eu/index.php/netex/) and GTFS.
 *   [extract-gtfs-pathways (⭐3)](https://github.com/derhuerst/extract-gtfs-pathways) – Command-line tool to extract pathways as GeoJSON from a GTFS dataset.
 *   [extract-gtfs-shapes (⭐5)](https://github.com/derhuerst/extract-gtfs-shapes) – Command-line tool to extract shapes as GeoJSON from a GTFS dataset.
 *   [GTFS-OSM-Sync (⭐91)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).

@@ -92,6 +92,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vqrcode (⭐23)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 *   [vspect (⭐2)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 *   [vzcc (⭐26)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+*   [vin (⭐0)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ### Editors
 
