@@ -2,9 +2,17 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.3K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Oct 26, 2024](/content/2024/10/26/README.md)
+
+### Chrome Extensions:
+
+- Website: [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+
+
 
 ## [Aug 17, 2024](/content/2024/08/17/README.md)
 
@@ -438,14 +446,6 @@ Awesome Web Development Resources.
 ### Icons:
 
 - Website: <https://tabler-icons.io>
-
-
-
-## [Feb 19, 2023](/content/2023/02/19/README.md)
-
-### Learning Platforms:
-
-- Website: <https://tutoriac.com/>
 
 
 
@@ -1348,9 +1348,6 @@ Awesome Web Development Resources.
 - Website: <https://uigradients.com>
 
 
-- Website: <https://www.colorion.co>
-
-
 - Website: <https://www.gradientos.app>
 
 
@@ -1486,9 +1483,6 @@ Awesome Web Development Resources.
 - Website: [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 
-- Website: [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)
-
-
 - Website: [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
 
 
@@ -1529,9 +1523,6 @@ Awesome Web Development Resources.
 
 
 - Website: <https://freehtml5.co>
-
-
-- Website: <https://www.zerotheme.com>
 
 
 - Website: <https://bootstrapmade.com>

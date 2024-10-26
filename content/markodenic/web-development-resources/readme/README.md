@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.3K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -88,7 +88,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                          |
 | ------------------------------------------------ |
-| <https://tutoriac.com/>                          |
 | <https://www.freecodecamp.org/>                  |
 | <https://www.lambdatest.com/learning-hub/>       |
 | <https://codecademy.com>                         |
@@ -419,7 +418,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://htmlcolorcodes.com>    |
 | <https://colorsinspo.com>       |
 | <https://uigradients.com>       |
-| <https://www.colorion.co>       |
 | <https://www.gradientos.app>    |
 | <https://www.eggradients.com>   |
 | <https://cssgradient.io>        |
@@ -507,7 +505,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
 | [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)                             |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
-| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)                                                 |
+| [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                         |
 | [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
@@ -540,7 +538,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://templatemo.com>        |
 | <https://uideck.com>            |
 | <https://freehtml5.co>          |
-| <https://www.zerotheme.com>     |
 | <https://bootstrapmade.com>     |
 | <https://graygrids.com>         |
 | <https://tailwindtemplates.co>  |

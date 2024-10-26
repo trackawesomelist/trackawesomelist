@@ -185,6 +185,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Northflank](https://northflank.com) \[FREE] - Build and deploy microservices, jobs and managed databases. Perfect for student and university projects and team collaboration. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database. Or 4 services via [Northflank Student Developer Pack](https://northflank.com/student-developer-pack).
 
+*   [Alibaba Cloud](https://www.alibabacloud.com/en/developer/students?_p_lc=1) \[FREE] - Enjoy free cloud servers, training courses, certifications, and exclusive campaigns and opportunities by verifying your student status. The offer is renewable as long as you are a student.
+
 ## Email
 
 *   [Send Grid](https://sendgrid.com/partner/github-education) \[CREDIT] - Student plan 15K free emails/month (normally limited to 200 free emails/day) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).

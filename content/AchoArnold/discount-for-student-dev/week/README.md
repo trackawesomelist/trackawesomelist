@@ -16,6 +16,10 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
+### PaaS
+
+*   [Alibaba Cloud](https://www.alibabacloud.com/en/developer/students?_p_lc=1) \[FREE] - Enjoy free cloud servers, training courses, certifications, and exclusive campaigns and opportunities by verifying your student status. The offer is renewable as long as you are a student.
+
 ### Data science
 
 *   [Neptune](https://neptune.ai/research) \[FREE] - Neptune is an experiment tracker for ML teams that struggle with debugging and reproducing experiments, sharing results, and messy model handovers free to use for Academic and research.
