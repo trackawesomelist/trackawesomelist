@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Oct 27, 2024](/content/2024/10/27/README.md)
+
+### Bookmarking
+
+*   [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
+
 ## [Oct 22, 2024](/content/2024/10/22/README.md)
 
 ### Video and Audio Conferencing
@@ -97,7 +103,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Redlib (⭐1.2k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+*   [Redlib (⭐1.3k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ## [Apr 06, 2024](/content/2024/04/06/README.md)
 

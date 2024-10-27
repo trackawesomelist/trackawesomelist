@@ -24,13 +24,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Frontend Masters](https://www.youtube.com/playlist?list=PLum3CyP95edxwLIHenKw0nMHlfvr76ZSU) - Marc Grabanski, Frontend Masters team (screencast)
 
-#### [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Golang / Diagnostics
-
-*   [Snikimonkd/cmp-go-pkgs (⭐13)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
-
-#### [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+#### [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ##### Tutorials
 
@@ -93,7 +87,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [eslint-plugin-svelte (⭐304)](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
-#### [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+#### [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ##### Strategy
 
@@ -103,7 +97,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Shattered Paradise (⭐60)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐15k)](https://github.com/OpenRA/OpenRA)
 *   [Romanov's Vengeance (⭐258)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐15k)](https://github.com/OpenRA/OpenRA)
 
-#### [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Public Data Resources / Equity and Environmental Justice
 
@@ -117,7 +111,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Community Resilience Estimates for Heat](https://www.census.gov/data/experimental-data-products/cre-heat.html) - An experimental dataset developed by the U.S. Census Bureau that measures social vulnerability and exposure to extreme heat at the household level.
 
-#### [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Projects / Build tools
 
@@ -182,13 +176,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### IPFS in browsers
 
 *   [Identify with Helia](https://helia-identify.on.fleek.co/)
 
-#### [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Domain and IP Research / Steam
 
@@ -207,6 +201,36 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Threat Intelligence / Steam
 
 *   [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
+
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Golang / Diagnostics
+
+*   [Snikimonkd/cmp-go-pkgs (⭐13)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
+
+##### Utility / Diagnostics
+
+*   [dzfrias/arena.nvim (⭐55)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
+
+#### [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Communication - Custom Communication Systems
+
+*   [GlobaLeaks](https://www.globaleaks.org/) - Whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. ([Demo](https://demo.globaleaks.org), [Source Code (⭐1.2k)](https://github.com/globaleaks/whistleblowing-software)) `AGPL-3.0` `Python/deb/Docker`
+
+##### Software / File Transfer & Synchronization
+
+*   [bewCloud](https://bewcloud.com) - A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos. ([Source Code (⭐206)](https://github.com/bewcloud/bewcloud), [Clients](https://github.com/bewcloud)) `AGPL-3.0` `Docker`
+
+##### Software / Polls and Events
+
+*   [OpnForm](https://opnform.com) - Beautiful open-source form builder. ([Demo](https://opnform.com/forms/create/guest), [Source Code (⭐2.1k)](https://github.com/JhumanJ/opnform)) `AGPL-3.0` `PHP/Nodejs/Docker`
+
+#### [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+##### Bookmarking
+
+*   [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
 
 ### [Oct 26, 2024](/content/2024/10/26/README.md)
 
@@ -412,8 +436,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 336K 📝 10&#x2F;27 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 330K 📝 10&#x2F;23 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 131K 📝 10&#x2F;26 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 198K 📝 10&#x2F;20 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 198K 📝 10&#x2F;27 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 131K 📝 10&#x2F;26 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 89K 📝 10&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 76K 📝 10&#x2F;25 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 68K 📝 10&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
@@ -427,16 +451,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 10&#x2F;27 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 16. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 25K 📝 10&#x2F;21 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 17. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 41K 📝 10&#x2F;16 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-18. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 15K 📝 10&#x2F;26 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-19. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 10&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-20. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 10&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-21. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;27 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-22. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 10&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-23. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-24. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-25. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-26. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.4K 📝 10&#x2F;25 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-27. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 10&#x2F;22 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+18. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 10&#x2F;27 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+19. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 15K 📝 10&#x2F;26 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+20. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 10&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+21. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 10&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+22. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;27 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+23. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 10&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+25. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+26. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+27. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.4K 📝 10&#x2F;25 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 28. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 20K 📝 10&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 29. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 7.7K 📝 10&#x2F;26 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 30. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 7.3K 📝 10&#x2F;26 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
@@ -976,7 +1000,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 995, 📝 01&#x2F;19 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 198K, 📝 10&#x2F;20 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 198K, 📝 10&#x2F;27 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1185,7 +1209,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md) - ([Source ⭐ 170, 📝 08&#x2F;26 ](https://github.com/Karneades/awesome-malware-persistence)) - A curated list of awesome malware persistence tools and resources. 
 - [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 22K, 📝 10&#x2F;25 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
 - [Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md) - ([Source ⭐ 23K, 📝 21&#x2F;04&#x2F;23 ](https://github.com/Igglybuff/awesome-piracy)) - A curated list of awesome warez and piracy links
-- [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K, 📝 10&#x2F;22 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K, 📝 10&#x2F;27 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [Awesome Security](/content/sbilly/awesome-security/README.md) - ([Source ⭐ 12K, 📝 05&#x2F;03 ](https://github.com/sbilly/awesome-security)) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md) - ([Source ⭐ 2.7K, 📝 02&#x2F;08 ](https://github.com/jaredthecoder/awesome-vehicle-security)) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md) - ([Source ⭐ 9K, 📝 20&#x2F;10&#x2F;05 ](https://github.com/qazbnm456/awesome-web-security)) - 🐶 A curated list of Web Security materials and resources.

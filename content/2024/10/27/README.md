@@ -1,12 +1,32 @@
 # Awesome List Updates on Oct 27, 2024
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Bookmarking
+
+*   [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [GlobaLeaks](https://www.globaleaks.org/) - Whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. ([Demo](https://demo.globaleaks.org), [Source Code (⭐1.2k)](https://github.com/globaleaks/whistleblowing-software)) `AGPL-3.0` `Python/deb/Docker`
+
+### Software / File Transfer & Synchronization
+
+*   [bewCloud](https://bewcloud.com) - A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos. ([Source Code (⭐206)](https://github.com/bewcloud/bewcloud), [Clients](https://github.com/bewcloud)) `AGPL-3.0` `Docker`
+
+### Software / Polls and Events
+
+*   [OpnForm](https://opnform.com) - Beautiful open-source form builder. ([Demo](https://opnform.com/forms/create/guest), [Source Code (⭐2.1k)](https://github.com/JhumanJ/opnform)) `AGPL-3.0` `PHP/Nodejs/Docker`
+
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / Steam
 
@@ -26,13 +46,13 @@
 
 *   [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 
-## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### IPFS in browsers
 
 *   [Identify with Helia](https://helia-identify.on.fleek.co/)
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Build tools
 
@@ -97,7 +117,7 @@
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -111,7 +131,7 @@
 
 *   [Community Resilience Estimates for Heat](https://www.census.gov/data/experimental-data-products/cre-heat.html) - An experimental dataset developed by the U.S. Census Bureau that measures social vulnerability and exposure to extreme heat at the household level.
 
-## [5. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [7. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Strategy
 
@@ -121,7 +141,7 @@
 *   [Shattered Paradise (⭐60)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐15k)](https://github.com/OpenRA/OpenRA)
 *   [Romanov's Vengeance (⭐258)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐15k)](https://github.com/OpenRA/OpenRA)
 
-## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
@@ -184,13 +204,17 @@
 
 *   [eslint-plugin-svelte (⭐304)](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Golang / Diagnostics
 
 *   [Snikimonkd/cmp-go-pkgs (⭐13)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
 
-## [8. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+### Utility / Diagnostics
+
+*   [dzfrias/arena.nvim (⭐55)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
+
+## [10. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
 ### Language Agnostic / React.js
 

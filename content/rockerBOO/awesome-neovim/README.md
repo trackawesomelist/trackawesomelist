@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [Snikimonkd/cmp-go-pkgs (⭐13)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
 
+### Utility / Diagnostics
+
+*   [dzfrias/arena.nvim (⭐55)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
+
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
 ### Marks / Diagnostics

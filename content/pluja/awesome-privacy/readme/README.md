@@ -309,6 +309,7 @@ Go to the [Text To Speech](#text-to-speech) section.
 *   [LinkDing (⭐6.4k)](https://github.com/sissbruecker/linkding)
 *   [Shiori (⭐9.3k)](https://github.com/go-shiori/shiori)
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
+*   [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
 
 ### Book and web annotations/highlights management
 
@@ -1438,7 +1439,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 ✅ **Privacy respecting Reddit clients:**
 
 *   [Libreddit (⭐5k)](https://github.com/libreddit/libreddit) - ~~Private Reddit front-end written in Rust~~ [No longer working - Read here (⭐5k)](https://github.com/libreddit/libreddit/issues/840)
-*   [Redlib (⭐1.2k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+*   [Redlib (⭐1.3k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ### Streaming Platforms (Twitch)
 

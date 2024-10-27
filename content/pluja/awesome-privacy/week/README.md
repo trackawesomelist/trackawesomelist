@@ -8,6 +8,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
+### Bookmarking
+
+*   [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers and devices.
+
 ### Video and Audio Conferencing
 
 *   [Briefing (⭐1.4k)](https://github.com/holtwick/briefing/) - Secure direct video group chat. Only open technologies (such as WebRTC) are used, which work with all modern browsers.
@@ -95,7 +99,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Reddit
 
-*   [Redlib (⭐1.2k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+*   [Redlib (⭐1.3k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 
