@@ -6,23 +6,80 @@
 
 [ [Daily](/content/TheComputerM/awesome-svelte/README.md) / Weekly / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
-## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Tutorials
+
+*   [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
+*   [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
+
+### State Libraries
+
+*   [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
+
+### UI Libraries
+
+*   [shadcn-svelte](https://www.shadcn-svelte.com/) - Beautifully designed components that you can copy and paste into your apps.
+*   [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
+*   [Sveltestrap (⭐138)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
+
+### Table
+
+*   [@vincjo/datatables (⭐439)](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte.
+
+### Icons
+
+*   [unplugin-icons (⭐4k)](https://github.com/unplugin/unplugin-icons) - Access thousands of icons as components on-demand universally.
+*   [steeze-ui/icons (⭐179)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
+*   [lucide-svelte (⭐11k)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
+*   [svelte-icons-pack (⭐61)](https://github.com/leshak/svelte-icons-pack) - Based on [https://github.com/react-icons/react-icons (⭐12k)](https://github.com/react-icons/react-icons).
+
+### Calendar
+
+*   [@schedule-x/svelte (⭐1.3k)](https://github.com/schedule-x/schedule-x) - A material design event calendar library.
+
+### Maps
+
+*   [svelte-maplibre (⭐331)](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library.
+
+### Miscellaneous / Checkbox
+
+*   [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
+*   [svelte-speedometer (⭐16)](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 
 ### Scaffold / Checkbox
 
-*   \[<https://saasstarter.work>] - A open source, fast, and free to host Svelte SaaS template
+*   [saasstarter (⭐1.3k)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
+*   [vite-svelte-docker-template (⭐0)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
+
+### Form / Checkbox
+
+*   [Formsnap](https://www.formsnap.dev/) - High level Svelte components for forms, built on top of Superforms and Zod.
+
+### Internationalisation / Checkbox
+
+*   [@i18n-pro/svelte (⭐9)](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
+
+### Frameworks / Checkbox
+
+*   [SvelteKit](https://svelte.dev/docs/kit/introduction) - The fastest way to build Svelte apps.
+*   [Elder.js (⭐2.1k)](https://github.com/elderjs/elderjs) - Opinionated static site generator and web framework for Svelte built with SEO in mind. *(pre-v5)*
+
+### Lint / Checkbox
+
+*   [eslint-plugin-svelte (⭐304)](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
 ### Maps
 
-*   [esri-svelte (⭐14)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte
+*   [esri-svelte (⭐15)](https://github.com/gavinr-maps/esri-svelte-example) - Web application that shows how to use the ArcGIS API for JavaScript with Svelte.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### UI Libraries
 
-*   [SVAR Core for Svelte (⭐29)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+*   [SVAR Core for Svelte (⭐48)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -34,31 +91,27 @@
 
 ### UI Libraries
 
-*   [Svelte UX (⭐729)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐794)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ### Charts / Checkbox
 
-*   [LayerChart (⭐542)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐627)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
-### Tutorials
-
-*   [Setup Authentication with AuthJS and Sveltekit 2.0](https://www.youtube.com/watch?v=ridRgYSJ0ds) - @bradcypert (YouTube)
-
 ### State Libraries
 
-*   [exome (⭐232)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐237)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐234)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐256)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ### Frameworks / Checkbox
 
-*   [svelte-document (⭐7)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+*   [svelte-document (⭐9)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
@@ -66,30 +119,23 @@
 
 *   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 
-## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
-
-### Form / Checkbox
-
-*   [Formsnap](https://www.formsnap.dev/docs/introduction) - High level Svelte components for forms, built on top of Superforms and Zod.
-
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
 ### UI Libraries
 
-*   [Melt UI (⭐3.3k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
-*   [Radix Svelte (⭐474)](https://github.com/radix-svelte/radix-svelte) - An unofficial community-led Svelte port of Radix UI Primitives
+*   [Melt UI (⭐3.4k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### WebGL / Checkbox
 
-*   [threlte](https://threlte.xyz) - Svelte wrapper for three.js
+*   [threlte](https://threlte.xyz) - Threlte is a renderer and component library for using Three.js in a declarative and state-driven way in Svelte apps.
 
 ## [Dec 04 - Dec 10, 2023](/content/2023/49/README.md)
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-stepper (⭐137)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
+*   [svelte-stepper (⭐145)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -99,7 +145,7 @@
 
 ### PWA / Checkbox
 
-*   [SvelteKit-Adapter-Versioned-Worker (⭐9)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
+*   [SvelteKit-Adapter-Versioned-Worker (⭐11)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ## [Sep 04 - Sep 10, 2023](/content/2023/36/README.md)
 
@@ -111,13 +157,13 @@
 
 ### Official Resources
 
-*   [Changelog (⭐78k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐79k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [Jul 10 - Jul 16, 2023](/content/2023/28/README.md)
 
 ### Notification
 
-*   [svelte-sonner (⭐642)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐685)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Internationalisation / Checkbox
 
@@ -133,21 +179,13 @@
 
 ### Calendar
 
-*   [date-picker-svelte (⭐308)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
+*   [date-picker-svelte (⭐310)](https://github.com/probablykasper/date-picker-svelte) - A date and time picker for Svelte with clean UX.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
 ### UI Libraries
 
 *   [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
-
-## [Mar 13 - Mar 19, 2023](/content/2023/11/README.md)
-
-### Tutorials
-
-*   [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
-*   [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
-*   [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
@@ -157,29 +195,24 @@
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
-### Tutorials
-
-*   [Typescript + Svelte Cheatsheet (⭐735)](https://github.com/ivanhofer/sveltekit-typescript-showcase) - An overview of all TypeScript related topics for Svelte and SvelteKit - @ivanhofer (Github).
-
 ### State Libraries
 
-*   [Svelte-Domain (⭐5)](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 *   [svelte-asyncable (⭐169)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
 
 ### Miscellaneous / Checkbox
 
-*   [svelte-splitpanes (⭐359)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels
+*   [svelte-splitpanes (⭐375)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ### Form / Checkbox
 
-*   [svelte-form-builder (⭐66)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐69)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Charts / Checkbox
 
-*   [Layer Cake (⭐1.3k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
+*   [Layer Cake (⭐1.4k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -193,14 +226,10 @@
 
 *   [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
 
-### UI Libraries
-
-*   [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
-
 ### Scaffold / Checkbox
 
-*   [create-vite (⭐67k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
-*   [create-svelte (⭐18k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
+*   [create-vite (⭐68k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+*   [create-svelte (⭐19k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 
 ### Routers / Checkbox
 
@@ -216,7 +245,7 @@
 
 ### Preprocessing
 
-*   [svelte-switch-case (⭐145)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-switch-case (⭐147)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Icons
 
@@ -226,13 +255,13 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐762)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐767)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
 ### Notification
 
-*   [svelte-french-toast (⭐842)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐870)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -244,33 +273,33 @@
 
 ### Form / Checkbox
 
-*   [svelte-formly (⭐253)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [svelte-formly (⭐253)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles. *(pre-v5)*
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
 ### Charts / Checkbox
 
-*   [svelte-frappe-charts (⭐307)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐308)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
 ### UI Libraries
 
-*   [AgnosticUI (⭐722)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐724)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
 ### Internationalisation / Checkbox
 
-*   [svelte-fluent (⭐95)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n (⭐1.2k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n (⭐484)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [svelte-fluent (⭐96)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐1.3k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐501)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
 ### Grid
 
-*   [svelte-flex (⭐76)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-flex (⭐77)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Miscellaneous / Checkbox
 
@@ -278,7 +307,7 @@
 
 ### Internationalisation / Checkbox
 
-*   [@tolgee/svelte (⭐223)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐228)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 
@@ -291,17 +320,13 @@
 ### Form / Checkbox
 
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
-*   [vest (⭐2.5k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
-### Tutorials
-
-*   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
-
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐794)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐816)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
@@ -321,12 +346,6 @@
 
 *   [svelte-web-fonts/google (⭐16)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
-## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
-
-### UI Libraries
-
-*   [Sveltestrap (⭐1.3k)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
-
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Mobile
@@ -338,79 +357,34 @@
 
 *   [svelte-grid-responsive (⭐55)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
 
-### Form / Checkbox
-
-*   [svelte-forms-lib (⭐603)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
-
 ### WebGL / Checkbox
 
-*   [svelthree (⭐478)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐484)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal / Checkbox
 
-*   [svelte-portal (⭐431)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐442)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐25)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Checkbox
 
-*   [svelte-router-spa (⭐517)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐522)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐675)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [tinro (⭐676)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.5k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-*   [svelte-client-router (⭐16)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+*   [svelte-client-router (⭐17)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 
 ### Frameworks / Checkbox
 
-*   [SvelteKit](https://kit.svelte.dev/) - The fastest way to build Svelte apps.
-*   [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 *   [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
-*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-
-### Docs / Checkbox
-
-*   [svelte-docster (⭐9)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
-
-## [May 24 - May 30, 2021](/content/2021/21/README.md)
-
-### Tutorials
-
-*   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
+*   [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL. *(pre-v5)*
 
 ## [May 10 - May 16, 2021](/content/2021/19/README.md)
 
-### Tutorials
-
-*   [Sapper Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ) - The Net Ninja (YouTube).
-*   [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan (YouTube).
-*   [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
-
 ### Table
 
-*   [svelte-generic-crud-table (⭐66)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐67)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
-
-### Lint / Checkbox
-
-*   [eslint-plugin-svelte (⭐0)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
-
-## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
-
-### UI Libraries
-
-*   [svelte-chota (⭐288)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
-
-## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
-
-### Tutorials
-
-*   [Svelte Stores](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK) - @lihautan (YouTube).
-*   [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan (YouTube).
-
-## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
-
-### Table
-
-*   [svelte-simple-datatables (⭐268)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
@@ -418,13 +392,9 @@
 
 *   [Svelte Mastery](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
 
-### Studies
-
-*   [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
-
 ### Preprocessing
 
-*   [svelte-preprocess (⭐1.7k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [svelte-preprocess (⭐1.8k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
 
@@ -432,86 +402,72 @@
 
 *   [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
-### Tutorials
-
-*   [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
-
 ## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
 
 ### Community
 
 *   [Reddit](https://www.reddit.com/r/sveltejs/)
 
-### Tutorials
-
-*   [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) - SpinSpire (YouTube).
-
 ### Studies
 
-*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale? (⭐173)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale? *(pre-v5)*
+*   [Will it Scale? (⭐174)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point. *(pre-v5)*
 
 ### UI Libraries
 
-*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
 
 ### Scaffold / Checkbox
 
-*   [component-template (⭐555)](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template (⭐221)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [svelte-pwa-template (⭐221)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
 ### Preprocessing
 
-*   [MDSveX (⭐2.3k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
+*   [MDSveX (⭐2.4k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
 *   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
 *   [modular-css (⭐288)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
 *   [svelte-preprocess-sass (⭐91)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
 
 ### UI Libraries
 
-*   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
 *   [Svelte Material UI (⭐3.3k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
+*   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
 
 ### Table
 
-*   [svelte-table (⭐517)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-table (⭐531)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 
 ### Notification
 
-*   [svelte-notifications (⭐309)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
+*   [svelte-notifications (⭐310)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
 
 ### Icons
 
-*   [svelte-fa (⭐399)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-*   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome (⭐494)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
-*   [svelte-icons (⭐291)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+*   [svelte-fa (⭐402)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 and 6 component.
+*   [svelte-awesome (⭐493)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-icons (⭐292)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 
 ### Calendar
 
-*   [svelte-fullcalendar (⭐198)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-fullcalendar (⭐197)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 
 ### Maps
 
 *   [svelte-googlemaps (⭐79)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox (⭐340)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
-*   [leaflet-svelte (⭐52)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
+*   [svelte-mapbox (⭐344)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [leaflet-svelte (⭐51)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 ### Form / Checkbox
 
-*   [svelte-checkbox (⭐78)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
-*   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+*   [svelte-checkbox (⭐78)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable). *(pre-v5)*
+*   [svelte-toggle (⭐22)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling. *(pre-v5)*
 
 ### Lint / Checkbox
 
-*   [prettier-plugin-svelte (⭐735)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [prettier-plugin-svelte (⭐740)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
-
-### Docs / Checkbox
-
-*   [sveltedoc-parser (⭐90)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
 
 ### Test / Checkbox
 
@@ -521,19 +477,14 @@
 
 *   [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) - Provides syntax highlighting and rich intellisense for your components.
 
-### Editors / Atom
-
-*   [ide-svelte](https://atom.io/packages/ide-svelte) - Provides syntax highlighting and rich intellisense for your components.
-*   [language-svelte](https://atom.io/packages/language-svelte) - Provides syntax highlighting for components, directives and other Svelte specific syntax in Atom.
-
 ### Editors / Sublime Text
 
 *   [Svelte](https://packagecontrol.io/packages/Svelte) - Syntax highlighting and support for Sublime Text.
 
 ### Editors / Vim
 
-*   [vim-svelte-plugin (⭐134)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte (⭐176)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte-plugin (⭐137)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐179)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 ### Editors / JetBrains
 
@@ -541,15 +492,9 @@
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
-### Tutorials
-
-*   [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - DigitalOcean.
-*   [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - Svelte School.
-*   [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja (YouTube).
-
 ### Test / Checkbox
 
-*   [@testing-library/svelte (⭐615)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [@testing-library/svelte (⭐618)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -557,7 +502,7 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐78k)](https://github.com/sveltejs/svelte)
+*   [GitHub Repo (⭐79k)](https://github.com/sveltejs/svelte)
 
 ### Community
 
@@ -578,8 +523,7 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess-markdown (⭐135)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
-*   [svelte-preprocess-postcss (⭐25)](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
+*   [svelte-preprocess-markdown (⭐137)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 
 ### UI Libraries
 
@@ -587,15 +531,11 @@
 
 ### Notification
 
-*   [svelte-favicon-badge (⭐102)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [svelte-favicon-badge (⭐101)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 
 ### Calendar
 
-*   [svelte-calendar (⭐536)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
-
-### Docs / Checkbox
-
-*   [svelte-docs (⭐167)](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
+*   [svelte-calendar (⭐542)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Test / Checkbox
 
@@ -604,7 +544,3 @@
 ### Editors / Visual Studio Code
 
 *   [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) - Svelte 3 Snippets for VS Code.
-
-### Editors / Vim
-
-*   [vim-svelte (⭐317)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
