@@ -6,19 +6,19 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ [Daily](/content/KotlinBy/awesome-kotlin/README.md) / Weekly / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
-## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
-### Libraries/Frameworks / Web
+### Libraries/Frameworks / Logging
 
-*   [hexagontk/hexagon](https://hexagontk.com) - A Microservices toolkit that takes care of HTTP, serialization and templates.
+*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
 
-### Libraries/Frameworks / Testing
+### Libraries/Frameworks / Mail
 
-*   [lupuuss/Mokkery (⭐183)](https://github.com/lupuuss/Mokkery) - The mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven.
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
 
-### Libraries/Frameworks / Misc
+### Projects / Web
 
-*   [eriksencosta/money (⭐163)](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
 
 ### Projects / Build tools
 
@@ -83,6 +83,20 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### Libraries/Frameworks / Web
+
+*   [hexagontk/hexagon](https://hexagontk.com) - A Microservices toolkit that takes care of HTTP, serialization and templates.
+
+### Libraries/Frameworks / Testing
+
+*   [lupuuss/Mokkery (⭐183)](https://github.com/lupuuss/Mokkery) - The mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven.
+
+### Libraries/Frameworks / Misc
+
+*   [eriksencosta/money (⭐163)](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy
+
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
 ### Links / Books
@@ -103,7 +117,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Compiler Plugins
 
-*   [Mr-Mappie/mappie (⭐19)](https://github.com/Mr-Mappie/mappie) - Kotlin compiler plugin generating type-safe and performant object mapping code.
+*   [Mr-Mappie/mappie (⭐21)](https://github.com/Mr-Mappie/mappie) - Kotlin compiler plugin generating type-safe and performant object mapping code.
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
@@ -257,8 +271,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / API Clients
 
-*   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
 *   [jillesvangurp/kt-search (⭐107)](https://github.com/jillesvangurp/kt-search) - Kotlin multiplatform library for Elasticsearch and Opensearch
+*   [formation-res/overpass-kotlin-client (⭐1)](https://github.com/formation-res/overpass-kotlin-client) - A simple client for overpass that uses ktor-client and kotlinx.serialization for parsing JSON responses.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
@@ -361,8 +375,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / API Clients
 
-*   [MoviebaseApp/trakt-api (⭐46)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
 *   [MoviebaseApp/tmdb-api (⭐206)](https://github.com/MoviebaseApp/tmdb-api) - Modern powerful TMDB API to fetch movies and TV shows for Kotlin Multiplatform.
+*   [MoviebaseApp/trakt-api (⭐46)](https://github.com/MoviebaseApp/trakt-api) - Modern powerful Trakt API to track, discover and share your movies & TV shows.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -462,28 +476,28 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Command Line Interface
 
-*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
-*   [dbaelz/Konclik (⭐45)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
-*   [kotlin-inquirer (⭐216)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
-*   [fork-handles/bunting4k (⭐221)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
-*   [xenomachina/kotlin-argparser (⭐482)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [varabyte/kotter (⭐570)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
-*   [ajalt/mordant (⭐983)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
 *   [ajalt/clikt (⭐2.5k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+*   [xenomachina/kotlin-argparser (⭐482)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [ajalt/mordant (⭐983)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
+*   [fork-handles/bunting4k (⭐221)](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
+*   [dbaelz/Konclik (⭐45)](https://github.com/dbaelz/Konclik)
+*   [varabyte/kotter (⭐570)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [kotlin-inquirer (⭐216)](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐75)](https://github.com/wendigo/chrome-reactive-kotlin)
 
 ### Libraries/Frameworks / I/O
 
-*   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
 *   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
+*   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 *   [cashapp/barber (⭐166)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
+*   [projectfluent/fluent-kotlin (⭐29)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -491,17 +505,17 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Web
 
-*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
-*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
-*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [sdeleuze/spring-boot-kotlin-demo (⭐616)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [IRus/kotlin-dev-proxy (⭐22)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 *   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-*   [ssouris/petclinic-spring5-reactive (⭐53)](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
 *   [eddywm/KTFLITE (⭐177)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
-*   [mixitconf/mixit (⭐539)](https://github.com/mixitconf/mixit) - MiXiT website
-*   [sdeleuze/spring-boot-kotlin-demo (⭐616)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
 *   [corda/corda (⭐4k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
+*   [mixitconf/mixit (⭐539)](https://github.com/mixitconf/mixit) - MiXiT website
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [ssouris/petclinic-spring5-reactive (⭐53)](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
 
 ### Projects / Build tools
 

@@ -10,6 +10,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### CLI
 
+*   [Ctrl+C (⭐20)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
 *   [tuibox (⭐128)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 
 ## [Oct 23, 2024](/content/2024/10/23/README.md)

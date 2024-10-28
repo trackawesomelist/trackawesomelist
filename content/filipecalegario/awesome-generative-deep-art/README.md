@@ -12,6 +12,14 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
 
+### Image Segmentation / Deforum
+
+*   [Melies](https://melies.co/): All-in-one AI filmmaking software
+
+### Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
+
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image

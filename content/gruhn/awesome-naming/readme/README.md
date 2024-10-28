@@ -118,7 +118,7 @@ This is a curated list for when naming things is done right.
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
 *   [horcrux (⭐4.6k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
-*   [Puppeteer (⭐88k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐89k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
@@ -133,6 +133,7 @@ This is a curated list for when naming things is done right.
 *   [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 *   [Brick](https://en.m.wikipedia.org/wiki/Brick_\(electronics\)) - When your device is so corrupted it virtually turns into a brick.
 *   [camelCase, snake\_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages) - Different case styles where the name illustrates its appearance.
+*   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 *   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point *float* instead of being fixed in place.
 *   [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.

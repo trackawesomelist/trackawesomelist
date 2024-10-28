@@ -30,29 +30,189 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-#### [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Attacks on LLMs / Multi-agents
-
-*   [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
-
-#### [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### CLI
-
-*   [tuibox (⭐128)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
-
-#### [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Bayesian Induction
 
 *   [Theory-based Bayesian models of inductive learning and reasoning](https://www.cell.com/AJHG/fulltext/S1364-6613\(06\)00134-3) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446)]. \[[Preprint](http://www.charleskemp.com/papers/TenenbaumGK06.pdf)]. Inductive inference allows humans to make powerful generalizations from sparse data when learning about word meanings, unobserved properties, causal relationships, and many other aspects of the world. Traditional accounts of induction emphasize either the power of statistical learning, or the importance of strong constraints from structured domain knowledge, intuitive theories or schemas. This paper argues that both components are necessary to explain the nature, use and acquisition of human knowledge, and the authors introduce a theory-based Bayesian framework for modeling inductive learning and reasoning as statistical inferences over structured knowledge representations.
 
-#### [6. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [4. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Articles / Golang - Community
 
 *   [How to Develop Firebase Genkit Functions](https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227) - A practical guide to efficient local testing of Genkit Functions with Firebase product integrations.
+
+#### [5. Colorful](/content/Siddharth11/Colorful/README.md)
+
+##### Color Palettes / Web App
+
+*   [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
+
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Attacks on LLMs / Multi-agents
+
+*   [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
+
+##### Image Segmentation / Deforum
+
+*   [Melies](https://melies.co/): All-in-one AI filmmaking software
+
+##### Speech-to-text (STT) and spoken content analysis / Deforum
+
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
+
+#### [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+
+##### Other
+
+*   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
+
+#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Libraries/Frameworks / Logging
+
+*   [Foso/Cabret-Log (⭐195)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
+
+##### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐66)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+##### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+##### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.7k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐57)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+##### Projects / Misc
+
+*   [kpspemu/kpspemu (⭐72)](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐434)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+
+##### Projects / Desktop
+
+*   [yschimke/okurl (⭐123)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+*   [hazae41/Kotlin-Compiler-GUI (⭐1)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+##### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+*   [JetBrains/kotlin-examples (⭐3.2k)](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
+
+##### Projects / Android
+
+*   [skydoves/githubfollows (⭐294)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
+
+##### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐183)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐154)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
+##### Android / Projects
+
+*   [hanjoongcho/aaf-easyphotomap (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+*   [mustafaberkaymutlu/uv-index (⭐67)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+*   [hanjoongcho/aaf-easypassword (⭐35)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [android-password-store/Android-Password-Store (⭐2.6k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
+*   [AnkitSuda/Rebound (⭐181)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+##### Android / Extensions
+
+*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
+
+##### Kotlin JavaScript / JavaScript
+
+*   [pixijs/pixi-native (⭐87)](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+*   [Foso/MpApt (⭐236)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
+
+##### Kotlin JavaScript / Build Tools
+
+*   [Kotlin/kotlin-frontend-plugin (⭐563)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
+
+##### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐316)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+##### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+#### [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### CLI
+
+*   [Ctrl+C (⭐20)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
+*   [tuibox (⭐128)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
+
+#### [10. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+
+##### Text / Writing assistants
+
+*   [Nexus AI](https://mynexusai.com/) - Nexus AI is a generative cutting-edge AI Platform for writing, coding, voiceovers, research, image creation and beyond.
+*   [Shy Editor](https://www.shyeditor.com) - A modern AI-assisted writing environment for all types of prose.
+
+##### Text / Productivity
+
+*   [AnkiDecks AI](https://anki-decks.com) - Create Flashcards 10x faster. Generate Anki Flashcards from any File or Text with AI.
+*   [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
+*   [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
+*   [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
+*   \[Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
+
+##### Text / Developer tools
+
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse)
+*   [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
+*   [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
+*   [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
+
+##### Image / Services
+
+*   [RepublicLabs.AI](https://republiclabs.ai/) - multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
+*   [Black Headshots](https://www.blackheadshots.com) - AI headshots generator for black professionals
+*   [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
+*   [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
+*   [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
+
+##### Audio / AI Voice Cloning
+
+*   [Zenmic.com](https://zenmic.com) -  An app to generate podcast eposode ( script + Audio ) using AI.
+
+##### Audio / Marketing AI Tools
+
+*   **[LogicBalls](https://logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
+*   **[Rupert AI](https://www.getrupert.com/)** - AI tools for designers and marketers
+*   **[PersonaForce](https://personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
+
+##### Audio / Phone Calls
+
+*   [Rosie](https://heyrosie.com/) - AI Phone Answering Service
+
+##### Audio / Speech
+
+*   [CustomPod.io](https://custompod.io) - Generate daily news podcasts only on the topics you care about.
+
+##### Other / Music
+
+*   [AI Wedding Toast](https://aiweddingtoast.com) - Generate a personalized wedding speech with AI
+*   [Socialsonic](https://socialsonic.com) - AI LinkedIn Coach: Personalized content, trends & scheduling.
+*   [Napkin](https://www.napkin.ai/) - Napkin turns your text into visuals so sharing your ideas is quick and effective.
+*   [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
+*   [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
+*   [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
+*   [Harbor (⭐458)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+
+##### Learn AI free / Machine Learning
+
+*   [How To Learn Artificial Intelligence (AI)?](https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
 
 ### [Oct 27, 2024](/content/2024/10/27/README.md)
 
@@ -332,14 +492,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 17. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 41K 📝 10&#x2F;16 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 18. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 10&#x2F;27 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 19. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 15K 📝 10&#x2F;26 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-20. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 10&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-21. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 10&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-22. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 10&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-23. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-24. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-25. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-26. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.4K 📝 10&#x2F;25 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-27. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;23 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+20. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K 📝 10&#x2F;28 ](https://github.com/Heapy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+21. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 10&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+22. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 10&#x2F;25 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+23. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 10&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 14K 📝 10&#x2F;23 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+25. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+26. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.5K 📝 10&#x2F;26 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+27. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.4K 📝 10&#x2F;25 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 28. [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 20K 📝 10&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 29. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 7.7K 📝 10&#x2F;26 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 30. [Web Development Resources](/content/markodenic/web-development-resources/README.md) - ([Source ⭐ 7.3K 📝 10&#x2F;26 ](https://github.com/markodenic/web-development-resources)) - Awesome Web Development Resources.
@@ -351,9 +511,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 36. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 10&#x2F;16 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 37. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.3K 📝 10&#x2F;27 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 38. [Awesome Npm](/content/sindresorhus/awesome-npm/README.md) - ([Source ⭐ 4.5K 📝 10&#x2F;23 ](https://github.com/sindresorhus/awesome-npm)) - Awesome npm resources and tips
-39. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;23 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
-40. [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K 📝 10&#x2F;26 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-41. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;28 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+39. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;28 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+40. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.1K 📝 10&#x2F;23 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+41. [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K 📝 10&#x2F;26 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 42. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 65K 📝 09&#x2F;23 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 43. [PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md) - ([Source ⭐ 5.9K 📝 10&#x2F;17 ](https://github.com/mmccaff/PlacesToPostYourStartup)) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 44. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -445,7 +605,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 101, 📝 10&#x2F;06 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1.2K, 📝 23&#x2F;02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
 - [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 3K, 📝 06&#x2F;10 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 1K, 📝 09&#x2F;18 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
+- [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 1.3K, 📝 10&#x2F;28 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
 - [Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md) - ([Source ⭐ 51, 📝 22&#x2F;01&#x2F;23 ](https://github.com/jyguyomarch/awesome-conversational-ai)) - A curated list of delightful Conversational AI resources.
 - [Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md) - ([Source ⭐ 5.8K, 📝 23&#x2F;06&#x2F;23 ](https://github.com/likedan/Awesome-CoreML-Models)) - Largest list of models for Core ML (for iOS 11+)
@@ -838,7 +998,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md) - ([Source ⭐ 3.3K, 📝 22&#x2F;03&#x2F;28 ](https://github.com/jdorfman/awesome-json-datasets)) - A curated list of awesome JSON datasets that don't require authentication.
 - [Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md) - ([Source ⭐ 3.9K, 📝 07&#x2F;07 ](https://github.com/markusschanta/awesome-jupyter)) - A curated list of awesome Jupyter projects, libraries and resources
 - [Awesome Katas](/content/gamontal/awesome-katas/README.md) - ([Source ⭐ 2.7K, 📝 08&#x2F;01 ](https://github.com/gamontal/awesome-katas)) - A curated list of code katas
-- [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;23 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+- [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;28 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;07 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
 - [Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md) - ([Source ⭐ 1.4K, 📝 07&#x2F;18 ](https://github.com/egeerardyn/awesome-LaTeX)) - Curated list of LaTeX awesomeness
 - [Awesome Ledger](/content/sfischer13/awesome-ledger/README.md) - ([Source ⭐ 126, 📝 18&#x2F;04&#x2F;25 ](https://github.com/sfischer13/awesome-ledger)) - :star: Useful resources for the Ledger command-line accounting system
@@ -852,7 +1012,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K, 📝 10&#x2F;19 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md) - ([Source ⭐ 6, 📝 05&#x2F;15 ](https://github.com/mga-mirth/awesome-mirth)) - List of Mirth talks, tools, examples & articles! Contributions welcome! 
 - [Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md) - ([Source ⭐ 1.8K, 📝 21&#x2F;11&#x2F;13 ](https://github.com/hobbyquaker/awesome-mqtt)) - A curated list of MQTT related stuff. :sparkles:
-- [Awesome Naming](/content/gruhn/awesome-naming/README.md) - ([Source ⭐ 1.3K, 📝 08&#x2F;19 ](https://github.com/gruhn/awesome-naming)) - A curated list for when naming things is done right.
+- [Awesome Naming](/content/gruhn/awesome-naming/README.md) - ([Source ⭐ 1.3K, 📝 10&#x2F;28 ](https://github.com/gruhn/awesome-naming)) - A curated list for when naming things is done right.
 - [Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md) - ([Source ⭐ 2.2K, 📝 23&#x2F;06&#x2F;16 ](https://github.com/aviaryan/awesome-no-login-web-apps)) - 🚀 Awesome (free) web apps that work without login
 - [Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md) - ([Source ⭐ 606, 📝 05&#x2F;15 ](https://github.com/zachflower/awesome-open-source-supporters)) - ⭐️ A curated list of companies that offer their services for free to Open Source projects
 - [Awesome Opengl](/content/eug/awesome-opengl/README.md) - ([Source ⭐ 1.9K, 📝 23&#x2F;08&#x2F;17 ](https://github.com/eug/awesome-opengl)) - A curated list of awesome OpenGL libraries, debuggers and resources.
@@ -909,7 +1069,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md) - ([Source ⭐ 612, 📝 03&#x2F;04 ](https://github.com/secretGeek/AwesomeCSV)) - 🕶️A curated list of awesome tools for dealing with CSV.
 - [Bots](/content/hackerkid/bots/README.md) - ([Source ⭐ 1.2K, 📝 23&#x2F;03&#x2F;27 ](https://github.com/hackerkid/bots)) -  :zap: Tools for building bots
 - [Citizen Science](/content/dylanrees/citizen-science/README.md) - ([Source ⭐ 202, 📝 23&#x2F;10&#x2F;10 ](https://github.com/dylanrees/citizen-science)) - 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
-- [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 05&#x2F;26 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
+- [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 10&#x2F;28 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K, 📝 10&#x2F;26 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
 - [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 89K, 📝 10&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev

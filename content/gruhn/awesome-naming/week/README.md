@@ -6,6 +6,12 @@ A curated list for when naming things is done right.
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Other
+
+*   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
+
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
@@ -127,7 +133,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐88k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐89k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 

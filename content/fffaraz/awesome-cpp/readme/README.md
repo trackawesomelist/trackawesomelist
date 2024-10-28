@@ -250,6 +250,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [CLI11 (⭐3.3k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
 *   [clipp (⭐1.2k)](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. \[MIT]
 *   [cpp-terminal (⭐514)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [Ctrl+C (⭐20)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
 *   [cxxopts (⭐4.2k)](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. \[MIT]
 *   [docopt.cpp (⭐1k)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 *   [FINAL CUT (⭐995)](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. \[LGPL]
