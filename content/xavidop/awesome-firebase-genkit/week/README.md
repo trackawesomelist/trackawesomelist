@@ -6,6 +6,12 @@
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / Weekly / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Articles / Golang - Community
+
+*   [How to Develop Firebase Genkit Functions](https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227) - A practical guide to efficient local testing of Genkit Functions with Firebase product integrations.
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Articles / Golang - Community

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 28, 2024](/content/2024/10/28/README.md)
+
+### Editing Support / Diagnostics
+
+*   [csessh/stopinser.nvim (⭐11)](https://github.com/csessh/stopinsert.nvim) - Automatically exit Insert mode after inactivity.
+
 ## [Oct 27, 2024](/content/2024/10/27/README.md)
 
 ### Golang / Diagnostics

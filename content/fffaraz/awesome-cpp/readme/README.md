@@ -269,6 +269,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. \[MIT]
 *   [termbox (⭐2k)](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. \[MIT]
 *   [TermOx (⭐666)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. \[MIT]
+*   [tuibox (⭐128)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 
 ## Compression
 
@@ -521,7 +522,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Nonius (⭐359)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 *   [Remotery (⭐3.1k)](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. \[Apache2]
 *   [snitch (⭐262)](https://github.com/cschreib/snitch) - Lightweight C++20 testing framework. \[Boost]
-*   [Touca (⭐492)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
+*   [Touca (⭐493)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 *   [UnitTest++ (⭐556)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 *   [Unity (⭐4k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 *   [utest.h (⭐839)](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. \[Unlicense]
@@ -1439,7 +1440,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Fantastic C or C++ related books.*
 
-*   [List of Free C or C++ Books (⭐59k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐60k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 *   [Free C Books (⭐337k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 *   [Free C++ Books (⭐337k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 *   [cppbestpractices (⭐8.1k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
@@ -1477,7 +1478,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Fantastic C or C++ related videos.*
 
-*   [List of C or C++ YouTube Videos (⭐59k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐60k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 *   [Awesome C Programming Tutorials in Hi Def \[HD\]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 *   [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
 *   [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
@@ -1557,7 +1558,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [AwesomePerfCpp (⭐2.4k)](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 *   [free-programming-books (⭐337k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 *   [Inqlude](http://inqlude.org/) - The Qt library archive.
-*   [papers-we-love (⭐87k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐88k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 *   [awesome-algorithms (⭐20k)](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 *   [awesome-hpp (⭐3.5k)](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 *   [awesome-talks (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
@@ -1575,8 +1576,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 # Contributing
 
-Please take a quick gander at the [contribution guidelines (⭐59k)](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
-Thanks to all [contributors (⭐59k)](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines (⭐60k)](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
+Thanks to all [contributors (⭐60k)](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
 

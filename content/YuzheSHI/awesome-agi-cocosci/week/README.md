@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Bayesian Modeling / Bayesian Induction
+
+*   [Theory-based Bayesian models of inductive learning and reasoning](https://www.cell.com/AJHG/fulltext/S1364-6613\(06\)00134-3) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446)]. \[[Preprint](http://www.charleskemp.com/papers/TenenbaumGK06.pdf)]. Inductive inference allows humans to make powerful generalizations from sparse data when learning about word meanings, unobserved properties, causal relationships, and many other aspects of the world. Traditional accounts of induction emphasize either the power of statistical learning, or the importance of strong constraints from structured domain knowledge, intuitive theories or schemas. This paper argues that both components are necessary to explain the nature, use and acquisition of human knowledge, and the authors introduce a theory-based Bayesian framework for modeling inductive learning and reasoning as statistical inferences over structured knowledge representations.
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
@@ -694,12 +700,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Commonsense / Intuitive Physics
 
 *   [Intuitive physics learning in a deep-learning model inspired by developmental psychology](https://www.nature.com/articles/s41562-022-01394-8) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13803979681049451699\&hl=en\&as_sdt=0,5)]. A machine-learning dataset designed to evaluate conceptual understanding of intuitive physics, adopting the violation-of-expectation (VoE) paradigm from developmental psychology; a deep-learning system that learns intuitive physics directly from visual data, inspired by studies of visual cognition in children.
-
-## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
-
-### Bayesian Modeling / Bayesian Induction
-
-*   [Theory-based Bayesian models of inductive learning and reasoning](http://www.charleskemp.com/papers/TenenbaumGK06.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
