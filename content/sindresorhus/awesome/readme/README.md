@@ -308,7 +308,7 @@
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.9k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐8k)](https://github.com/troxler/awesome-css-frameworks#readme)
 *   [React (⭐65k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐274)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
@@ -535,6 +535,7 @@
 *   [Game Engine Development (⭐922)](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 *   [GameMaker (⭐272)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 *   [Game Production (⭐102)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+*   [Babylon.js (⭐243)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ## Development Environment
 
@@ -750,6 +751,7 @@
 *   [Mental Health (⭐3.1k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 *   [Neuroscience (⭐1.3k)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 *   [Digital Humanities (⭐227)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+*   [Lucid Dreams (⭐37)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
 ## Events
 

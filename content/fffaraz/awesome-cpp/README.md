@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Image Processing
+
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐118)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
 ## [Oct 28, 2024](/content/2024/10/28/README.md)
 
 ### CLI

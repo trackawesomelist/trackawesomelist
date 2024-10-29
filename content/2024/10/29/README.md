@@ -1,12 +1,76 @@
 # Awesome List Updates on Oct 29, 2024
 
-12 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+
+### Articles / Golang - Community
+
+*   [Firebase Genkit for Go Developers: A Guide to Building LLM Applications](https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10) - A getting started guide for Go developers using Genkit.
+
+## [2. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+### **Vector Database Comparison** / **Embedding**
+
+*   [Fine-tuning Embeddings for Specific Domains](https://blog.gopenai.com/fine-tuning-embeddings-for-specific-domains-a-comprehensive-guide-5e4298b42185) \[1 Oct 2024]
+
+### **Microsoft Azure OpenAI relevant LLM Framework** / Agent Frameworks
+
+*   [OmniParser (⭐2.7k)](https://github.com/microsoft/OmniParser) (Sep 2024): A simple screen parsing tool towards pure vision based GUI agent.
+
+### **RLHF (Reinforcement Learning from Human Feedback) & SFT (Supervised Fine-Tuning)** / **Llama Finetuning**
+
+*   [A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More](https://arxiv.org/abs/2407.16216) \[23 Jul 2024]
+
+### **OpenAI's Roadmap and Products** / **OpenAI o1**
+
+*   [A Comparative Study on Reasoning Patterns of OpenAI's o1 Model](https://arxiv.org/abs/2410.13639): 6 types of o1 reasoning patterns (i.e., Systematic Analysis (SA), Method
+    Reuse (MR), Divide and Conquer (DC), Self-Refinement (SR), Context Identification (CI), and Emphasizing Constraints (EC)). `the most commonly used reasoning patterns in o1 are DC and SR` \[17 Oct 2024]
+
+### **Trustworthy, Safe and Secure LLM** / **GPT series release date**
+
+*   [Large Language Models Reflect the Ideology of their Creators](https://arxiv.org/abs/2410.18417): When prompted in Chinese, all LLMs favor pro-Chinese figures; Western LLMs similarly align more with Western values, even in English prompts. \[24 Oct 2024]
+
+### **Agentic Design Frameworks** / Agent Design Patterns
+
+*   [Cognitive Architectures for Language Agents](https://arxiv.org/abs/2309.02427): Cognitive Architectures for Language Agents (CoALA). Procedural (how to perform tasks), Semantic (long-term store of knowledge), Episodic Memory (recall specific past events) [ref](https://blog.langchain.dev/memory-for-agents/) \[5 Sep 2023]
+
+### **Agentic Design Frameworks** / Tool use: LLM to Master APIs
+
+*   [ToolShed](https://arxiv.org/abs/2410.14594): Toolshed Knowledge Bases & Advanced RAG-Tool Fusion, optimized for storing and retrieving tools in a vector database for large-scale agents. To address the limitations of primary methods, two approaches are: 1. tuning-based tool calling via LLM fine-tuning, and 2. retriever-based tool selection and planning. \[18 Oct 2024]
+*   [Anthropic Claude's computer use APIs](https://www.anthropic.com/news/developing-computer-use): [OpenInterpreter starts to support Computer Use API (⭐54k)](https://github.com/OpenInterpreter/open-interpreter/issues/1490) / [Agnet.exe (⭐2.6k)](https://github.com/corbt/agent.exe/): Electron app to use computer use APIs. \[Oct 2024]
+
+### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
+
+*   [napkin.ai](https://www.napkin.ai/): a text-to-visual graphics generator \[7 Aug 2024]
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Image Processing
+
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐118)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+### Modules / Utils
+
+*   [deno\_kv\_fs (⭐9)](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
+
+### Tools / XML
+
+*   [Deno Dig (⭐0)](https://github.com/theGEBIRGE/DenoDig) - A tool for extracting application code and npm packages from stand-alone Deno executables.
+
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+
+### Search
+
+*   🍰 [CakeDC/SearchFilter plugin (⭐0)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Native / Text-Based User Interfaces
 
@@ -21,13 +85,13 @@
 
 *   [Testcontainers (⭐8k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
 *   [Pretty printing tree data structures in Common Lisp](https://gist.github.com/WetHat/9682b8f70f0241c37cd5d732784d1577) (as a Jupyter notebook)
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CMS
 
@@ -37,19 +101,19 @@
 
 *   [fitting (⭐58)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Web Frameworks
 
 *   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zellij-org/zellij) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
@@ -59,7 +123,7 @@
 
 *   [sekwiatkowski/Komputation (⭐293)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
 
-## [7. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [12. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Global Connectivity Indexes
 
@@ -81,26 +145,34 @@
 
 *   [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
 *   [VLM Architectures (⭐377)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
-## [9. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+### Gaming
+
+*   [Babylon.js (⭐243)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+
+### Health and Social Science
+
+*   [Lucid Dreams (⭐37)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
+
+## [14. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Security
 
 *   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Malwarebytes](https://www.malwarebytes.com/student-discount) \[Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
 
-## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [InclusiveColors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -115,7 +187,7 @@
 
 *   [ngx-qrcode-generator (⭐1)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious (⭐1.5k)](https://github.com/neocotic/qrious) library.
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### Java / Bootstrap
 

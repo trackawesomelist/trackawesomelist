@@ -12,6 +12,14 @@
 
 *   [VLM Architectures (⭐377)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
+### Gaming
+
+*   [Babylon.js (⭐243)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+
+### Health and Social Science
+
+*   [Lucid Dreams (⭐37)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Miscellaneous
@@ -1209,7 +1217,7 @@
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
     *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
     *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐7.9k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Frameworks (⭐8k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

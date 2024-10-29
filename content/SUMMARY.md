@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
+  - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
@@ -39,6 +39,7 @@
   - [Web Development Resources](/content/content/markodenic/web-development-resources/README.md)
   - [Awesome Microservices](/content/content/mfornos/awesome-microservices/README.md)
   - [Awesome Data Engineering](/content/content/igorbarinov/awesome-data-engineering/README.md)
+  - [Awesome Deno](/content/content/denolib/awesome-deno/README.md)
   - [Awesome Math](/content/content/rossant/awesome-math/README.md)
   - [Awesome Quant](/content/content/wilsonfreitas/awesome-quant/README.md)
   - [Static Analysis](/content/content/analysis-tools-dev/static-analysis/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Nix](/content/content/nix-community/awesome-nix/README.md)
   - [Magictools](/content/content/ellisonleao/magictools/README.md)
   - [Awesome Cryptography](/content/content/sobolevn/awesome-cryptography/README.md)
-  - [ALL About RSS](/content/content/AboutRSS/ALL-about-RSS/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Back-End Development](back-end-development/README.md)
     - [Awesome Flask](/content/mjhea0/awesome-flask/README.md)

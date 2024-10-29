@@ -13,6 +13,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Ctrl+C (⭐20)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
 *   [tuibox (⭐128)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 
+### Image Processing
+
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐118)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Database
