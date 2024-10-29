@@ -489,7 +489,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-clerk (⭐19)](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 *   [ng-supabase (⭐23)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 *   [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
-*   [appwrite (⭐44k)](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
+*   [appwrite (⭐45k)](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
 
 #### Builders
 
@@ -530,7 +530,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-cli-ghpages (⭐952)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 *   [ngx-aws-deploy (⭐100)](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 *   [analog-publish-gh-pages (⭐3)](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
-*   [Genezio (⭐469)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
+*   [Genezio (⭐473)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 *   [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 *   [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered (⭐2)](https://github.com/zeropsio/recipe-analog-nodejs) and [static (⭐3)](https://github.com/zeropsio/recipe-analog-static), a breeze.
 
@@ -614,6 +614,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-signalify (⭐8)](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 *   [angular-odata (⭐50)](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 *   [ngx-http-retry (⭐1)](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
+*   [ng-memento (⭐1)](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 
 #### Integrations
 
@@ -635,7 +636,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angulardart-community (⭐5)](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
 *   [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
 *   [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
-*   [google-pay-button (⭐254)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
+*   [google-pay-button (⭐255)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 *   [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 *   [ngx-disqus (⭐113)](https://github.com/MurhafSousli/ngx-disqus) - Disqus for Angular.
 *   [ngx-papaparse (⭐90)](https://github.com/alberthaff/ngx-papaparse) - [Papa Parse](https://www.papaparse.com) wrapper.
@@ -651,7 +652,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 *   [angular-three (⭐201)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐102k)](https://github.com/mrdoob/three.js).
 *   [limitless-angular (⭐10)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
-*   [ngx-sentry (⭐3)](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK (⭐7.9k)](https://github.com/getsentry/sentry-javascript).
+*   [ngx-sentry (⭐3)](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK (⭐8k)](https://github.com/getsentry/sentry-javascript).
 *   [ngx-fabric-wrapper (⭐23)](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 *   [ngx-three-globe (⭐0)](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
 *   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.3k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
@@ -684,6 +685,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [intl-tel-input-ng (⭐18)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐7.6k)](https://github.com/jackocnr/intl-tel-input).
 *   [ng-intl (⭐8)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 *   [ngx-easy-i18n-js (⭐2)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
+*   [ngx-translate-routes (⭐3)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
+*   [ngx-translate-lint (⭐33)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
 
 #### Monorepos
 
@@ -753,7 +756,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [HTMLrev](https://htmlrev.com/free-angular-templates.html)
 *   [wails-template-angular-latest (⭐4)](https://github.com/mJehanno/wails-template-angular-latest) - A generated [wails](https://wails.io) template, currently supports Angular 17.
 *   [carbon-angular-starter (⭐77)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon.
-*   [front-angular (⭐3)](https://github.com/starter-kits-usmb/front-angular) - This starter kit use angular version 18.0.0 and includes the following features: scalable folder structure, linter and Prettier, routing and lazy loading, authentication service, light design system, toast and modal service, Jest test setup and Docker compose.
+*   [front-angular (⭐4)](https://github.com/starter-kits-usmb/front-angular) - This starter kit use angular version 18.0.0 and includes the following features: scalable folder structure, linter and Prettier, routing and lazy loading, authentication service, light design system, toast and modal service, Jest test setup and Docker compose.
 *   [tailkit-starter-kit-angular (⭐2)](https://github.com/pixelcave/tailkit-starter-kit-angular) - Angular Starter Kit for using [Tailkit UI](https://tailkit.com/) components out of the box in your project.
 *   [angular-tailwind (⭐330)](https://github.com/lannodev/angular-tailwind) - Angular & Tailwind CSS Admin Dashboard Starter Kit.
 *   [angular-starter-kit (⭐1)](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
@@ -850,9 +853,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 *   [tsparticles (⭐33)](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
 *   [ngx-confetti-explosion (⭐7)](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular.
-*   [angular-animations (⭐631)](https://github.com/filipows/angular-animations) - Easy, Reusable Animation Utility library for Angular.
-*   [ngx-lottie (⭐223)](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
-*   [angular-animations-explorer (⭐133)](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
+*   [angular-animations (⭐632)](https://github.com/filipows/angular-animations) - Easy, Reusable Animation Utility library for Angular.
+*   [ngx-lottie (⭐225)](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
+*   [angular-animations-explorer (⭐134)](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
 *   [ngx-notation-reveal (⭐13)](https://github.com/namitoyokota/ngx-notation-reveal) - Angular component to add rough notation animation when element is visible.
 *   [ngx-typed2 (⭐2)](https://github.com/shiv-source/ngx-typed2) - An Angular Typing Animation Library.
 *   [ngx-count-animation (⭐2)](https://github.com/hm21/ngx-count-animation) - A package that elegantly animates number changes, creating a visually engaging transition from one value to another, perfect for counting or displaying real-time data updates.
@@ -941,7 +944,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-gantt (⭐245)](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 *   [carbon-charts (⭐904)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 *   [dag (⭐154)](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
-*   [ngx-simple-charts (⭐5)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+*   [ngx-simple-charts (⭐6)](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 *   [ng-flowchart (⭐142)](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 *   [ngx-echarts (⭐1.1k)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts (⭐60k)](https://github.com/apache/incubator-echarts).
 *   [angular-fusioncharts (⭐55)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
@@ -958,9 +961,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Cookies
 
 *   [ngx-cookie-service (⭐546)](https://github.com/stevermeister/ngx-cookie-service) - Angular service for cookies. Originally based on the [ng2-cookies (⭐64)](https://github.com/BCJTI/ng2-cookies) library.
-*   [ngx-cookie-consent (⭐14)](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
-*   [ngx-cookieconsent (⭐163)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
-*   [cookieconsent (⭐3.9k)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+*   [ngx-cookie-consent (⭐15)](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
+*   [ngx-cookieconsent (⭐164)](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+*   [cookieconsent (⭐4k)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 
 #### Data Grids
 
@@ -973,7 +976,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ui-grid (⭐5.4k)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
 *   [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 *   [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
-*   [ngx-export-as (⭐67)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+*   [ngx-export-as (⭐68)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 *   [datagrid (⭐8)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 *   [angular-datatables (⭐1.6k)](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 *   [angular-slickgrid (⭐396)](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid (⭐6.8k)](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
@@ -1023,7 +1026,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-condition (⭐7)](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 *   [ngx-sticky-kit (⭐2)](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 *   [ngx-ellipsis (⭐96)](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
-*   [ngx-func-pipe (⭐3)](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
+*   [ngx-func-pipe (⭐2)](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
 *   [ngx-pipes-toolkit (⭐6)](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 *   [ngx-nullish (⭐2)](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 *   [ngx-interpolation (⭐3)](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
@@ -1032,8 +1035,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 *   [ng2-dragula (⭐1.9k)](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
 *   [ngx-drag-drop (⭐308)](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
-*   [ngx-dropzone (⭐32)](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
-*   [ng-dnd (⭐118)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
+*   [ngx-dropzone (⭐33)](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
+*   [ng-dnd (⭐119)](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 *   [ngx-file-drag-drop (⭐17)](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 *   [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 *   [moveable (⭐10k)](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
@@ -1044,18 +1047,18 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Editor Components
 
 *   [@ctrl/ngx-codemirror (⭐281)](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
-*   [acrodata/code-editor (⭐19)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
+*   [acrodata/code-editor (⭐21)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 *   [@instechnologies/ng-rooster (⭐12)](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
 *   [angular2-froala-wysiwyg (⭐731)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 *   [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
 *   [ngx-simple-text-editor (⭐7)](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 *   [ngx-quill (⭐1.8k)](https://github.com/KillerCodeMonkey/ngx-quill) - Angular (>=2) components for the Quill Rich Text Editor.
-*   [ngx-editor (⭐448)](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
+*   [ngx-editor (⭐450)](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
 *   [code-editor (⭐125)](https://github.com/ngstack/code-editor) - Code editor component for Angular applications.
 *   [ngx-wig (⭐229)](https://github.com/stevermeister/ngx-wig) - Angular(also Angular 17) WYSIWYG HTML Rich Text Editor.
 *   [ngx-monaco-editor (⭐3)](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
-*   [ngx-property-editor (⭐0)](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
-*   [ngx-tiptap (⭐121)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+*   [ngx-property-editor (⭐1)](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
+*   [ngx-tiptap (⭐123)](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 *   [tinymce-angular (⭐329)](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 *   [slate-angular (⭐177)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 *   [BlockNoteAngular (⭐2)](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote (⭐6.6k)](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
@@ -1086,7 +1089,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-mask (⭐1.2k)](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 *   [maskito (⭐1.4k)](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
 *   [ngx-formly (⭐2.8k)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-*   [formio (⭐637)](https://github.com/formio/angular) - JSON powered forms for Angular.
+*   [formio (⭐641)](https://github.com/formio/angular) - JSON powered forms for Angular.
 *   [ng-dynamic-forms (⭐1.3k)](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
 *   [fluent-form (⭐48)](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
 *   [reactive-forms (⭐610)](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
@@ -1164,17 +1167,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-tabler-icons (⭐24)](https://github.com/pierreavn/angular-tabler-icons) - This package allows you to use the [Tabler Icons](https://tabler.io/icons) in your Angular applications.
 *   [icon-lib-builder (⭐1)](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
 *   [svg-icons-builder (⭐20)](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
-*   [ngx-fast-svg (⭐55)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+*   [ngx-fast-svg (⭐57)](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
 *   [angular-techs-logos (⭐4)](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 *   [ngx-x-browser-svg-mask (⭐1)](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
 
 #### Images
 
 *   [ngx-img-fallback (⭐82)](https://github.com/VadimDez/ngx-img-fallback) - Load placeholder image on image error, Angular 5+.
-*   [ngx-image-zoom (⭐134)](https://github.com/wittlock/ngx-image-zoom) - Angular component for zoomable images.
+*   [ngx-image-zoom (⭐133)](https://github.com/wittlock/ngx-image-zoom) - Angular component for zoomable images.
 *   [ngx-image-hero (⭐1)](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
-*   [ngx-image-compress (⭐86)](https://github.com/dfa1234/ngx-image-compress) - Angular library for uploading and compressing images.
-*   [ngx-image-cropper (⭐780)](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
+*   [ngx-image-compress (⭐87)](https://github.com/dfa1234/ngx-image-compress) - Angular library for uploading and compressing images.
+*   [ngx-image-cropper (⭐785)](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 *   [ng-cloudimage-responsive (⭐16)](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size.
 *   [angular-cropperjs (⭐109)](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js (⭐13k)](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 *   [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
@@ -1232,7 +1235,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Loggers
 
 *   [lumberjack (⭐184)](https://github.com/ngworker/lumberjack) - Lumberjack is a versatile Angular logging library, specifically designed to be extended and customized. It provides a few simple log drivers out-of-the-box. It's easy to enable the built-in log drivers or create and use custom log drivers.
-*   [ngx-logger (⭐429)](https://github.com/dbfannin/ngx-logger) - NGX Logger is a simple logging module for Angular (6+). It allows "pretty print" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging.
+*   [ngx-logger (⭐428)](https://github.com/dbfannin/ngx-logger) - NGX Logger is a simple logging module for Angular (6+). It allows "pretty print" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging.
 *   [angular-logger (⭐0)](https://github.com/avernixtechnologies/angular-logger) - A logger built with Angular in mind.
 *   [ngx-action-logger (⭐0)](https://github.com/TALRACE/ngx-action-logger) - Logger for Angular applications, capable of both outputting data to the console or sending data to elastic.
 *   [@Xilerth/ngx-logger (⭐1)](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
@@ -1254,8 +1257,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 *   [ngx-markdown (⭐1.1k)](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 *   [ngx-remark (⭐8)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
-*   [ngx-markdown-editor (⭐173)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
-*   [angular-markdown-editor (⭐159)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
+*   [ngx-markdown-editor (⭐174)](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
+*   [angular-markdown-editor (⭐161)](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 *   [ngx-markdoc (⭐3)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 *   [ngx-md (⭐265)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
@@ -1285,9 +1288,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [rxweb (⭐403)](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
 *   [jsonforms (⭐2.2k)](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 *   [ngspot (⭐25)](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
-*   [ngx-grpc (⭐238)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
+*   [ngx-grpc (⭐239)](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
 *   [ts-cacheable (⭐340)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
-*   [ngxtension-platform (⭐597)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
+*   [ngxtension-platform (⭐607)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 *   [spartan (⭐1.4k)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
 *   [ngify (⭐98)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 *   [ng-vibe (⭐9)](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
@@ -1330,6 +1333,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-scanner (⭐640)](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
 *   [qrcode.angular (⭐1)](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 *   [ng-qrcode-svg (⭐2)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
+*   [ngx-qrcode-generator (⭐1)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious (⭐1.5k)](https://github.com/neocotic/qrious) library.
 
 #### Scroll
 
@@ -1419,7 +1423,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [antwerp-ui\_angular (⭐13)](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 *   [ng-clarity (⭐341)](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
 *   [ngx-semantic (⭐5)](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
-*   [ngx-float-ui (⭐23)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
+*   [ngx-float-ui (⭐24)](https://github.com/tonysamperi/ngx-float-ui) - Angular wrapper for the [Floating UI](https://floating-ui.com/) library.
 *   [orchestrator (⭐16)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
 *   [winonang (⭐4)](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 *   [carbon-components-angular (⭐532)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
@@ -1485,14 +1489,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web.
 *   [skyux (⭐30)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
 *   [ngx-ui-tour (⭐173)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour (⭐163)](https://github.com/benmarch/angular-ui-tour).
-*   [ngx-tour-wizard (⭐15)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+*   [ngx-tour-wizard (⭐16)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
 *   [bdc-walkthrough (⭐73)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 
 #### Viewers
 
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
-*   [ngx-extended-pdf-viewer (⭐477)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
-*   [ng2-pdfjs-viewer (⭐230)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
+*   [ngx-extended-pdf-viewer (⭐482)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
+*   [ng2-pdfjs-viewer (⭐231)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-json-viewer (⭐174)](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 *   [ngx-diff (⭐28)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
 *   [infinite-viewer (⭐296)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.

@@ -332,6 +332,7 @@ Thanks to all [contributors (⭐14k)](https://github.com/markets/awesome-ruby/gr
 *   [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 *   [ComfortableMexicanSofa (⭐2.7k)](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
 *   [Fae (⭐848)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [MaglevCMS](https://www.maglev.dev) - An open source page builder with an sleek UI.
 *   [LocomotiveCMS](https://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 *   [Publify (⭐1.8k)](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
@@ -448,7 +449,7 @@ Thanks to all [contributors (⭐14k)](https://github.com/markets/awesome-ruby/gr
 ## CRM
 
 *   [Fat Free CRM (⭐3.6k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
-*   [Hitobito (⭐376)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐377)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## Cryptocurrencies and Blockchains
 
@@ -604,6 +605,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [Apipie (⭐2.5k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 *   [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 *   [Documentation (⭐214)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
+*   [fitting (⭐58)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 *   [GitHub Changelog Generator (⭐7.4k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 *   [Gollum (⭐14k)](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 *   [grape-swagger (⭐1.1k)](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
@@ -1005,6 +1007,7 @@ Where to discover new Ruby libraries, projects and trends.
     *   [Unread (⭐729)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
 *   Sorting
     *   [ActsAsList (⭐2k)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [positioning (⭐213)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
     *   [ranked-model (⭐1.1k)](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 *   Tree
     *   [ActsAsTree (⭐587)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
@@ -1330,7 +1333,7 @@ Online tools, services and APIs to simplify development.
     *   [TestXml (⭐30)](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
     *   [WebMock (⭐4k)](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
 *   WebDrivers
-    *   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
     *   [Selenium WebDriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.

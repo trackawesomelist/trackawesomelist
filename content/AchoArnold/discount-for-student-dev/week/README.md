@@ -6,6 +6,13 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Security
+
+*   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
+*   [Malwarebytes](https://www.malwarebytes.com/student-discount) \[Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Design and Photo Editing
@@ -389,7 +396,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### Security
 
-*   [Shodan](https://www.shodan.io/) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Cryptolens](https://app.cryptolens.io/user/githubstudent) \[FREE] - License and sell your software securely.10 licenses and any number of end-users for free for students.
 *   [Termius](https://termius.com/education) \[FREE] - SSH client that works on desktop and mobile. Termius securely syncs data across all your devices. Free access to the Premium plan while you're a student.
 *   [Astra](https://www.getastra.com/github-student-developer-pack) \[FREE] - Security suite for your website - firewall, malware scanner & managed bug bounty platform.6 month access to website firewall & malware scanner.

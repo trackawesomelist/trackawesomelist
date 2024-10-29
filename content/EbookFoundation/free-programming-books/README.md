@@ -13,6 +13,33 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Java / Bootstrap
+
+*   [Learn Java for FTC (⭐125)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
+
+## [Oct 27, 2024](/content/2024/10/27/README.md)
+
+### COBOL / Non-X86
+
+*   [COBOL Programming Standards](https://www.tonymarston.net/cobol/cobolstandards.html) - A J Marston (HTML)
+*   [Visual COBOL: A Developer's Guide to Modern COBOL](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) - Paul Kelly (PDF)
+
+### Delphi / Pascal / Non-X86
+
+*   [Start Programming using Object Pascal](https://code.sd/startprog/StartProgUsingPascal.pdf) - Motaz Abdel Azeem (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [Enduring CSS](https://ecss.benfrain.com/preface.html) - Ben Frain (HTML)
+
+## [Oct 24, 2024](/content/2024/10/24/README.md)
+
+### JavaScript / React
+
+*   [Quick Start](https://react.dev/learn)
+
 ## [Oct 23, 2024](/content/2024/10/23/README.md)
 
 ### Python / Constraint Logic Programming (extended Prolog)
@@ -1799,7 +1826,7 @@
 
 ### C++ / Non-X86
 
-*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### Go / Phoenix
 
@@ -1808,7 +1835,7 @@
 
 ### HTML and CSS / Spock Framework
 
-*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB)
+*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB) (CC BY-NC-SA)
 
 ## [Oct 25, 2021](/content/2021/10/25/README.md)
 
@@ -2642,7 +2669,7 @@
 
 ### HTML and CSS / Spock Framework
 
-*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF)
+*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### iOS / Bootstrap
 
@@ -2789,7 +2816,7 @@
 ### C++ / Non-X86
 
 *   [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) - Alan Ezust, Paul Ezust (PDF)
-*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
+*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF) (CC BY)
 *   [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
 *   [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 
@@ -3997,7 +4024,6 @@
 *   [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 *   [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 *   [React Primer Draft (⭐3.6k)](https://github.com/mikechau/react-primer-draft)
-*   [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ### JavaScript / React Native
 

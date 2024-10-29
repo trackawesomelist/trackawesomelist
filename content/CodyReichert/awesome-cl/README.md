@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Tools
+
+*   [Pretty printing tree data structures in Common Lisp](https://gist.github.com/WetHat/9682b8f70f0241c37cd5d732784d1577) (as a Jupyter notebook)
+
 ## [Oct 18, 2024](/content/2024/10/18/README.md)
 
 ### Advanced
@@ -401,7 +407,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### C, C++
 
-*   NEW [endatabas (⭐272)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [endatabas (⭐272)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
@@ -2454,6 +2460,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Tools
 
 *   ⭐ [pgloader (⭐5.4k)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence](https://www.postgresql.org/about/licence/).
+    *   obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 ### C
 

@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Web Frameworks
+
+*   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
+
 ## [Oct 26, 2024](/content/2024/10/26/README.md)
 
 ### Images
@@ -68,11 +74,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Queues
 
-*   [hatchet (⭐4.1k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
+*   [hatchet (⭐4.2k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
 
 ### IoT (Internet of Things)
 
-*   [rulego (⭐798)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
+*   [rulego (⭐826)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
@@ -134,7 +140,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [cimgui-go (⭐336)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐343)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
 
 ### Messaging
 
@@ -561,7 +567,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Server Applications
 
 *   [gondola (⭐7)](https://github.com/bmf-san/gondola) - A YAML based golang reverse proxy.
-*   [pocketbase (⭐39k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+*   [pocketbase (⭐40k)](https://github.com/pocketbase/pocketbase) - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 
 ### Mock
 
@@ -1002,7 +1008,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Email
 
-*   [Maddy (⭐5k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
+*   [Maddy (⭐5.1k)](https://github.com/foxcpp/maddy) - All-in-one (SMTP, IMAP, DKIM, DMARC, MTA-STS, DANE) email server
 
 ### Error Handling
 
@@ -2285,7 +2291,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [Gokapi (⭐1.6k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
+*   [Gokapi (⭐1.7k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
 ## [May 18, 2022](/content/2022/05/18/README.md)
 
@@ -2474,7 +2480,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gdcache (⭐13)](https://github.com/ulovecode/gdcache) - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
 *   [go-mcache (⭐97)](https://github.com/OrlovEvgeny/go-mcache) - Fast in-memory key:value store/cache library. Pointer caches.
 *   [groupcache (⭐13k)](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-*   [remember-go (⭐139)](https://github.com/rocketlaunchr/remember-go) - A universal interface for caching slow database queries (backed by redis, memcached, ristretto, or in-memory).
 *   [timedmap (⭐71)](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
 *   [ttlcache (⭐936)](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics.
 *   [ttlcache (⭐9)](https://github.com/cheshir/ttlcache) - In-memory key value storage with TTL for each record.
@@ -4318,14 +4323,14 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dudeldu (⭐144)](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
 *   [Easegress (⭐5.8k)](https://github.com/megaease/easegress) - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 *   [Euterpe (⭐535)](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server with built-in web UI and REST API.
-*   [Fider (⭐2.9k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
+*   [Fider (⭐3k)](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 *   [Flagr (⭐2.4k)](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 *   [flipt (⭐3.7k)](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-*   [go-feature-flag (⭐1.3k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
+*   [go-feature-flag (⭐1.4k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 *   [go-proxy-cache (⭐128)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [jackal (⭐1.4k)](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 *   [lets-proxy2 (⭐96)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-*   [minio (⭐47k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
+*   [minio (⭐48k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐13)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 *   [nginx-prometheus (⭐41)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
@@ -4333,7 +4338,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [psql-streamer (⭐59)](https://github.com/blind-oracle/psql-streamer) - Stream database events from PostgreSQL to Kafka.
 *   [riemann-relay (⭐2)](https://github.com/blind-oracle/riemann-relay) - Relay to load-balance Riemann events and/or convert them to Carbon.
 *   [RoadRunner (⭐7.9k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
-*   [SFTPGo (⭐9.2k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+*   [SFTPGo (⭐9.3k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [simple-jwt-provider (⭐39)](https://github.com/leberKleber/simple-jwt-provider) - Simple and lightweight provider which exhibits JWTs, supports login, password-reset (via mail) and user management.
 *   [Trickster (⭐2k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 
@@ -4714,7 +4719,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [uAdmin (⭐337)](https://github.com/uadmin/uadmin) - Fully featured web framework for Golang, inspired by Django.
 *   [utron (⭐2.2k)](https://github.com/gernest/utron) - Lightweight MVC framework for Go(Golang).
 *   [vox (⭐84)](https://github.com/aisk/vox) - A golang web framework for humans, inspired by Koa heavily.
-*   [WebGo (⭐304)](https://github.com/bnkamalesh/webgo) - A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc).
 *   [YARF (⭐67)](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 
 ### Middlewares / Actual middlewares
@@ -4903,7 +4907,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [fac (⭐1.8k)](https://github.com/mkchoi212/fac) - Command-line user interface to fix git merge conflicts.
 *   [gaia (⭐5.2k)](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 *   [ghorg (⭐1.6k)](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket.
-*   [Gitea (⭐44k)](https://github.com/go-gitea/gitea) - Fork of Gogs, entirely community driven.
+*   [Gitea (⭐45k)](https://github.com/go-gitea/gitea) - Fork of Gogs, entirely community driven.
 *   [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator) - Migrate all your GitHub repositories, issues, milestones and labels to your Gitea instance.
 *   [go-furnace (⭐98)](https://github.com/go-furnace/go-furnace) - Hosting solution written in Go. Deploy your Application with ease on AWS, GCP or DigitalOcean.
 *   [go-selfupdate (⭐1.5k)](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update.
@@ -5172,7 +5176,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐505)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
-*   [Awesome Remote Job (⭐32k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+*   [Awesome Remote Job (⭐34k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐23)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.

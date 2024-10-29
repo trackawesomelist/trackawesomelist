@@ -468,6 +468,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [xcodes (⭐3.8k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/xcodes)
 *   [xxh (⭐5.3k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software][OSS Icon]](https://github.com/xxh/xxh) ![Freeware][Freeware Icon]
 *   [x-cmd (⭐813)](https://github.com/x-cmd/x-cmd) - x-cmd is a vast and interesting collection of tools guided by the Unix philosophy.[![Open-Source Software][OSS Icon]](https://github.com/x-cmd/x-cmd) ![Freeware][Freeware Icon]
+*   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software][OSS Icon]](https://github.com/zellij-org/zellij) ![Freeware][Freeware Icon]
 
 ### Frameworks For Hybrid Applications
 
@@ -712,7 +713,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [Rambox](http://rambox.pro/) - Messaging and emailing app that combines common web applications into one. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 *   [Element](https://element.io/) - Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
 *   [Presentify](https://presentify.compzets.com/) - A mac app to draw on your screen while on calls, highlight your cursor, and more. ![App Store][app-store Icon]
-*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. \[![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]\([https://github.com/mattermost/mattermost (⭐30k)](https://github.com/mattermost/mattermost))
+*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. \[![Open-Source Software][OSS Icon]] ![Freeware][Freeware Icon]\([https://github.com/mattermost/mattermost (⭐31k)](https://github.com/mattermost/mattermost))
 *   [Mastodon](https://mastodon.social/) - Your self-hosted, globally interconnected microblogging community [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 *   [Matrix](https://matrix.org/) - An open network for secure, decentralised communication! ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 *   [Misskey](https://misskey-hub.net/) - 🌎 A completely free and open interplanetary microblogging platform 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
@@ -1004,7 +1005,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 *   [MonitorControl (⭐28k)](https://github.com/MonitorControl/MonitorControl/) - Control your display's brightness & volume on your Mac as if it was a native Apple Display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MonitorControl/MonitorControl/)
 *   [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982)
 *   [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.
-*   [OnlySwitch (⭐3.9k)](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts[![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
+*   [OnlySwitch (⭐4k)](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts[![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 *   [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264)
 *   [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 *   [Reminders MenuBar (⭐2.5k)](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
@@ -1264,7 +1265,7 @@ Any comments, suggestions? [Let us know! (⭐76k)](https://github.com/jaywcjlove
 ## Remote Login Software
 
 *   [AnyDesk](https://anydesk.com) - Provides remote access across multiple machines.
-*   [Moonlight (⭐10k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
+*   [Moonlight (⭐11k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 *   [Parsec](https://parsec.app) - Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go.
 *   [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.
 *   [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to systems with different protocols. ![Freeware][Freeware Icon]

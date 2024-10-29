@@ -13,7 +13,30 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Java / Bootstrap
+
+*   [Learn Java for FTC (⭐125)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+
+### COBOL / Non-X86
+
+*   [COBOL Programming Standards](https://www.tonymarston.net/cobol/cobolstandards.html) - A J Marston (HTML)
+*   [Visual COBOL: A Developer's Guide to Modern COBOL](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) - Paul Kelly (PDF)
+
+### Delphi / Pascal / Non-X86
+
+*   [Start Programming using Object Pascal](https://code.sd/startprog/StartProgUsingPascal.pdf) - Motaz Abdel Azeem (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [Enduring CSS](https://ecss.benfrain.com/preface.html) - Ben Frain (HTML)
+
+### JavaScript / React
+
+*   [Quick Start](https://react.dev/learn)
 
 ### Python / Constraint Logic Programming (extended Prolog)
 
@@ -1531,7 +1554,7 @@
 
 ### C++ / Non-X86
 
-*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 ### Dart / Non-X86
 
@@ -1558,7 +1581,7 @@
 
 ### HTML and CSS / Spock Framework
 
-*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB)
+*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB) (CC BY-NC-SA)
 *   [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed
 *   [The CSS Handbook](https://flaviocopes.com/page/css-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 *   [The HTML Handbook](https://flaviocopes.com/page/html-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -2300,7 +2323,7 @@
 
 *   [C++ Notes for Professionals](https://goalkicker.com/CPlusPlusBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 *   [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) - Alan Ezust, Paul Ezust (PDF)
-*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
+*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF) (CC BY)
 *   [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
 *   [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 
@@ -2310,7 +2333,7 @@
 
 ### HTML and CSS / Spock Framework
 
-*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF)
+*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 *   [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
 *   [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
 *   [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
@@ -3533,7 +3556,6 @@
 *   [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 *   [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 *   [React Primer Draft (⭐3.6k)](https://github.com/mikechau/react-primer-draft)
-*   [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ### JavaScript / React Native
 

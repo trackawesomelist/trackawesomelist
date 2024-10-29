@@ -248,9 +248,9 @@
 *   [Elm (⭐3.6k)](https://github.com/sporto/awesome-elm#readme)
 *   [Erlang (⭐1.6k)](https://github.com/drobakowski/awesome-erlang#readme)
 *   [Julia (⭐1.4k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
-*   [Lua (⭐3.9k)](https://github.com/LewisJEllis/awesome-lua#readme)
+*   [Lua (⭐4k)](https://github.com/LewisJEllis/awesome-lua#readme)
 *   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
-*   [C/C++ (⭐59k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐60k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 *   [R (⭐6k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
     *   [Learning (⭐557)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 *   [D (⭐664)](https://github.com/dlang-community/awesome-d#readme)
@@ -449,7 +449,7 @@
     *   [Papers (⭐25k)](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
     *   [Education (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Open Source Society University (⭐171k)](https://github.com/ossu/computer-science#readme)
+*   [Open Source Society University (⭐172k)](https://github.com/ossu/computer-science#readme)
 *   [Functional Programming (⭐959)](https://github.com/lucasviola/awesome-functional-programming#readme)
 *   [Empirical Software Engineering (⭐417)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 *   [Static Analysis & Code Quality (⭐13k)](https://github.com/analysis-tools-dev/static-analysis#readme)
@@ -462,7 +462,7 @@
 ## Big Data
 
 *   [Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata#readme)
-*   [Public Datasets (⭐60k)](https://github.com/awesomedata/awesome-public-datasets#readme)
+*   [Public Datasets (⭐61k)](https://github.com/awesomedata/awesome-public-datasets#readme)
 *   [Hadoop (⭐1.1k)](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 *   [Data Engineering (⭐6.7k)](https://github.com/igorbarinov/awesome-data-engineering#readme)
 *   [Streaming (⭐2.7k)](https://github.com/manuzhang/awesome-streaming#readme)
@@ -473,7 +473,7 @@
 
 ## Theory
 
-*   [Papers We Love (⭐87k)](https://github.com/papers-we-love/papers-we-love#readme)
+*   [Papers We Love (⭐88k)](https://github.com/papers-we-love/papers-we-love#readme)
 *   [Talks (⭐6.1k)](https://github.com/JanVanRyswyck/awesome-talks#readme)
 *   [Algorithms (⭐20k)](https://github.com/tayllan/awesome-algorithms#readme)
     *   [Education (⭐824)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
@@ -486,6 +486,7 @@
 *   [Audit Algorithms (⭐92)](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 *   [AGI & CoCoSci (⭐286)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 *   [Complex Systems (⭐177)](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
+*   [VLM Architectures (⭐377)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
 ## Books
 
@@ -630,18 +631,18 @@
 
 *   [Application Security (⭐6.3k)](https://github.com/paragonie/awesome-appsec#readme)
 *   [Security (⭐12k)](https://github.com/sbilly/awesome-security#readme)
-*   [CTF (⭐9.7k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+*   [CTF (⭐9.8k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 *   [Cyber Security University (⭐1.7k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 *   [Malware Analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis#readme)
-*   [Android Security (⭐8.1k)](https://github.com/ashishb/android-security-awesome#readme)
+*   [Android Security (⭐8.2k)](https://github.com/ashishb/android-security-awesome#readme)
 *   [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking#readme)
 *   [Hacking Spots (⭐1.1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
-*   [Honeypots (⭐8.5k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+*   [Honeypots (⭐8.6k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 *   [Incident Response (⭐7.6k)](https://github.com/meirwah/awesome-incident-response#readme)
 *   [Vehicle Security and Car Hacking (⭐3.1k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 *   [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 *   [Lockpicking (⭐1.4k)](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-*   [Cybersecurity Blue Team (⭐4.3k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+*   [Cybersecurity Blue Team (⭐4.4k)](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 *   [Fuzzing (⭐838)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 *   [Embedded and IoT Security (⭐1.8k)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 *   [GDPR (⭐210)](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
@@ -685,7 +686,7 @@
 ## Business
 
 *   [Open Companies (⭐1k)](https://github.com/opencompany/awesome-open-company#readme)
-*   [Places to Post Your Startup (⭐5.9k)](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
+*   [Places to Post Your Startup (⭐6k)](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 *   [OKR Methodology (⭐1.6k)](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
 *   [Leading and Managing (⭐7.9k)](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 *   [Indie (⭐9.9k)](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
@@ -702,7 +703,7 @@
 
 *   [Slack (⭐839)](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
     *   [Communities (⭐322)](https://github.com/filipelinhares/awesome-slack#readme)
-*   [Remote Jobs (⭐32k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
+*   [Remote Jobs (⭐34k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
 *   [Productivity (⭐2.6k)](https://github.com/jyguyomarch/awesome-productivity#readme)
 *   [Niche Job Boards (⭐1.3k)](https://github.com/tramcar/awesome-job-boards#readme)
 *   [Programming Interviews (⭐71k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
@@ -765,7 +766,7 @@
 *   [TAP (⭐629)](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 *   [JMeter (⭐720)](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 *   [k6 (⭐588)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
-*   [Playwright (⭐894)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐914)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 *   [Quality Assurance Roadmap (⭐1.8k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 *   [Gatling (⭐71)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
@@ -778,7 +779,7 @@
 *   [CSV (⭐730)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 *   [Discounts for Student Developers (⭐2.9k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐255)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐328k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Awesome (⭐330k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [Analytics (⭐3.9k)](https://github.com/0xnr/awesome-analytics#readme)
 *   [REST (⭐3.6k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Continuous Integration and Continuous Delivery (⭐1.9k)](https://github.com/cicdops/awesome-ciandcd#readme)
@@ -791,7 +792,7 @@
 *   [GitHub Wiki (⭐263)](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 *   [Design and Development Guides (⭐2.2k)](https://github.com/NARKOZ/guides#readme)
 *   [Software Engineering Blogs (⭐31k)](https://github.com/kilimchoi/engineering-blogs#readme)
-*   [Self Hosted (⭐198k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Self Hosted (⭐200k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [FOSS Production Apps (⭐315)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Gulp (⭐617)](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 *   [AMA (⭐1.4k)](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
@@ -804,7 +805,7 @@
 *   [Research Tools (⭐2.1k)](https://github.com/emptymalei/awesome-research#readme)
 *   [Data Visualization (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Microservices (⭐13k)](https://github.com/mfornos/awesome-microservices#readme)
-*   [Unicode (⭐909)](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
+*   [Unicode (⭐908)](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
     *   [Code Points (⭐763)](https://github.com/Codepoints/awesome-codepoints#readme)
 *   [Beginner-Friendly Projects (⭐69k)](https://github.com/MunGell/awesome-for-beginners#readme)
 *   [Katas (⭐2.8k)](https://github.com/gamontal/awesome-katas#readme)
@@ -886,7 +887,7 @@
 *   [Scriptable (⭐1.2k)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 *   [WebXR (⭐217)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 *   [Computational Geometry (⭐67)](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
-*   [OpenStreetMap (⭐649)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
+*   [OpenStreetMap (⭐656)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 *   [Computational Biology (⭐68)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 *   [Read the Docs (⭐134)](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 *   [Quarto (⭐1.7k)](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.

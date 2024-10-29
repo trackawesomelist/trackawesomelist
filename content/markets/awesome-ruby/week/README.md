@@ -6,6 +6,16 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### CMS
+
+*   [MaglevCMS](https://www.maglev.dev) - An open source page builder with an sleek UI.
+
+### Documentation
+
+*   [fitting (⭐58)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Implementations/Compilers
@@ -227,7 +237,7 @@
 ### Testing
 
 *   WebDrivers
-    *   [Ferrum (⭐1.7k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
     *   [Selenium WebDriver (⭐31k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
@@ -601,7 +611,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐376)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐377)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
@@ -2435,6 +2445,7 @@
     *   [Unread (⭐729)](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
 *   Sorting
     *   [ActsAsList (⭐2k)](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+    *   [positioning (⭐213)](https://github.com/brendon/positioning) - Simple positioning for Active Record models. Supports multiple lists per model and relative positioning.
     *   [ranked-model (⭐1.1k)](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 *   Tree
     *   [ActsAsTree (⭐587)](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.

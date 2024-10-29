@@ -2,9 +2,31 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 114 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 126 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
+
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Global Connectivity Indexes
+
+*   [ITU ICT Development Index](https://www.itu.int/en/ITU-D/Statistics/Pages/IDI/default.aspx) - ([2024](https://www.itu.int/itu-d/reports/statistics/idi2024)) ([2023](https://www.itu.int/itu-d/reports/statistics/IDI2023/)) ([2017](http://www.itu.int/net4/ITU-D/idi/)) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
+
+### Periodic Global Connectivity Reports
+
+*   [Mobile Gender Gap Report](https://www.gsma.com/r/gender-gap/) from GSMA - ([2024](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/the-mobile-gender-gap-report-2024/)) ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
+*   Broadband Commission: The State of Broadband - ([2024](https://broadbandcommission.org/publication/state-of-broadband-2024/)) ([2023](https://broadbandcommission.org/publication/state-of-broadband-2023/)) ([2022](https://broadbandcommission.org/publication/state-of-broadband-2022/)) ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
+*   GSMA - State of Mobile Internet Connectivity ([2024](https://www.gsma.com/r/wp-content/uploads/2024/10/The-State-of-Mobile-Internet-Connectivity-Report-2024.pdf)) ([2023](https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
+
+### Regional Connectivity Reports and Data
+
+*   GSMA Mobile Economy - [Latin America](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/latam/) ([2024](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/06/The-Mobile-Economy-Latin-America-2024.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/11/GSMA_LATAM_ME2022_R_Web.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf))
+*   GSMA Mobile Economy - Asia Pacific ([2024](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/07/240724-Mobile-Economy-Asia-Pacific-2024-FINAL.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
+*   Ericsson Mobility Report - Sub-Saharan Africa - ([2024](https://www.ericsson.com/en/reports-and-papers/mobility-report/closer-look/sub-saharan-africa)) ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
+
+### Other sources
+
+*   [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 
 ## [Apr 25, 2024](/content/2024/04/25/README.md)
 
@@ -17,7 +39,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Global Connectivity Indexes
 
 *   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
-*   [Speedtest Global Index](https://www.speedtest.net/global-index) - (2022) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
+*   [Speedtest Global Index](https://www.speedtest.net/global-index) - (2024) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 *   cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 
 ### Connectivity Maps
@@ -67,12 +89,6 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 *   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
-## [Oct 11, 2023](/content/2023/10/11/README.md)
-
-### Periodic Global Connectivity Reports
-
-*   GSMA - State of Mobile Internet Connectivity ([2023](https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
-
 ## [Aug 31, 2023](/content/2023/08/31/README.md)
 
 ### Other sources
@@ -84,12 +100,8 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Connectivity Maps
 
-*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world.
+*   [Global CDN Infrastructure Map](https://opentelecomdata.org/cdns/) - Steve Song's open data map of Content Distribution Networks around the world (May 2024).
 *   [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
-
-### Periodic Global Connectivity Reports
-
-*   Mobile Gender Gap Report from GSMA - ([2023](https://www.gsma.com/r/wp-content/uploads/2023/07/The-Mobile-Gender-Gap-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 
 ### Regional Connectivity Reports and Data
 
@@ -99,7 +111,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Global Connectivity Indexes
 
-*   [Internet Poverty Index](https://internetpoverty.io/) 2023 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
+*   [Internet Poverty Index](https://internetpoverty.io/) 2024 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/)
 
 ## [May 05, 2023](/content/2023/05/05/README.md)
 
@@ -113,12 +125,6 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 *   [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) - Facts and Figures. ([2023](https://www.itu.int/dms_pub/itu-d/opb/ind/d-ind-ict_mdd-2023-1-pdf-e.pdf))  ([March 2023 - Focus on Least Developed Countries​](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))  ([2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
 
-## [Dec 11, 2022](/content/2022/12/11/README.md)
-
-### Regional Connectivity Reports and Data
-
-*   GSMA Mobile Economy - Latin America ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/11/GSMA_LATAM_ME2022_R_Web.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf))
-
 ## [Aug 12, 2022](/content/2022/08/12/README.md)
 
 ### Global Connectivity Indexes
@@ -129,7 +135,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Global Connectivity Indexes
 
-*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2022) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
+*   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2023) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 *   [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2022) Index sponsored by Meta measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 
 ### Connectivity Maps
@@ -139,9 +145,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Periodic Global Connectivity Reports
 
 *   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2024](https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf)) ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
-*   Broadband Commission: The State of Broadband - ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
-*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([2024](https://www.ericsson.com/4912e3/assets/local/reports-papers/mobility-report/documents/2024br/emr-business-review-2024.pdf)) ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
-*   [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - Latest data update: June 2023.
+*   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([Q2 2024](https://www.ericsson.com/4a4b71/assets/local/reports-papers/mobility-report/documents/2024/ericsson-mobility-report-q2-2024-update.pdf)) ([2024](https://www.ericsson.com/4912e3/assets/local/reports-papers/mobility-report/documents/2024br/emr-business-review-2024.pdf)) ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
 
 ## [Mar 17, 2022](/content/2022/03/17/README.md)
 
@@ -152,10 +156,8 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Regional Connectivity Reports and Data
 
-*   GSMA Mobile Economy - Asia Pacific ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 *   GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/)
 *   Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
-*   Ericsson Mobility Report - Sub-Saharan Africa - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
 
 ## [Apr 29, 2021](/content/2021/04/29/README.md)
 
@@ -210,9 +212,8 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 *   [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) - (2010) Interactive infographic tool showcasing the status of broadband deployment worldwide and the regulatory landscape for broadband.
 *   [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) - (2016) Internet Users by Country, interpolated from ITU, United Nations Population Division, Internet & Mobile Association of India (IAMAI), and World Bank data.
 *   [Internet World Stats](https://www.internetworldstats.com/) - Internet users compiled from Nielsen and ITU statistics.
-*   [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) - (2017) Composite index based on three pillars, ICT Access, ICT Use, and ICT Skills.
 *   [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
-*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
+*   [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2024).
 
 ### Connectivity Maps
 
@@ -238,11 +239,9 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Other sources
 
 *   [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
-*   [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) - Demographic information on Facebook usage.
 *   [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 *   [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
 *   [Global Mobile Suppliers Association](https://gsacom.com/) - Various reports on LTE and 5G adoption.
-*   [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL datasets offering unprecedented accuracy in population mapping.
 *   [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) - (May 2018) Trends that affect and drive internet uptake globally.
 *   [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) A Framework for Accelerating Internet Access and Adoption.
 *   [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.

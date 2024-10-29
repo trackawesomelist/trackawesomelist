@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Oct 29, 2024](/content/2024/10/29/README.md)
+
+### Developer Tools / Command Line Tools
+
+*   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zellij-org/zellij) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Oct 25, 2024](/content/2024/10/25/README.md)
 
 ### Audio and Video Tools / File Sharing
@@ -94,7 +100,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [OnlySwitch (⭐3.9k)](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jacklandrin/OnlySwitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [OnlySwitch (⭐4k)](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jacklandrin/OnlySwitch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
 
@@ -112,7 +118,7 @@
 
 ### Remote Login Software / System Related Tools
 
-*   [Moonlight (⭐10k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonlight-stream/moonlight-qt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Moonlight (⭐11k)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/moonlight-stream/moonlight-qt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Parsec](https://parsec.app) - Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go.
 *   [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - The Steam Link app allows you to play your Steam games across all your computers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Sunshine (⭐19k)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/LizardByte/Sunshine) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -614,7 +620,7 @@
 
 ### Communication / Collaboration and Team Tools
 
-*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")] ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")([https://github.com/mattermost/mattermost (⭐30k)](https://github.com/mattermost/mattermost))
+*   [Mattermost](https://mattermost.com/download/) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. \[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")] ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")([https://github.com/mattermost/mattermost (⭐31k)](https://github.com/mattermost/mattermost))
 
 ## [Jul 27, 2023](/content/2023/07/27/README.md)
 

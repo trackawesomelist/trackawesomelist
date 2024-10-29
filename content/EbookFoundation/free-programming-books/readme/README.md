@@ -527,11 +527,11 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Joint Strike Fighter, C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf) - Bjarne Stroustrup (PDF)
 *   [Learn C++ Programming Language](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) - Tutorials Point (PDF)
 *   [LearnCpp.com](https://www.learncpp.com) (HTML)
-*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 *   [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
 *   [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF) (CC BY-NC-ND)
 *   [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
-*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
+*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF) (CC BY)
 *   [Programming Fundamentals - A Modular Structured Approach using C++](https://archive.org/details/cnx-org-col10621/mode/1up) - Kenneth Leroy Busbee (PDF)
 *   [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 *   [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
@@ -580,11 +580,13 @@ Books on general-purpose programming that don't focus on a specific language are
 ### COBOL
 
 *   [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
+*   [COBOL Programming Standards](https://www.tonymarston.net/cobol/cobolstandards.html) - A J Marston (HTML)
 *   [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
 *   [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 *   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
 *   [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML)
 *   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+*   [Visual COBOL: A Developer's Guide to Modern COBOL](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) - Paul Kelly (PDF)
 
 ### CoffeeScript
 
@@ -654,6 +656,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
 *   [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
 *   [Modern Object Pascal Introduction for Programmers (⭐154)](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc (⭐154)](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
+*   [Start Programming using Object Pascal](https://code.sd/startprog/StartProgUsingPascal.pdf) - Motaz Abdel Azeem (PDF)
 
 ### DTrace
 
@@ -887,17 +890,18 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/) *(:card\_file\_box: archived)*
 *   [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 *   [CSS Animation 101 (⭐5k)](https://github.com/cssanimation/css-animation-101)
-*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF)
+*   [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 *   [CSS Optimization Basics (⭐50)](https://github.com/frontenddogma/css-optimization-basics) – Jens Oliver Meiert
 *   [CSS Transition vs CSS animation](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/) - Oluwatobi Sofela
 *   [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 *   [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
+*   [Enduring CSS](https://ecss.benfrain.com/preface.html) - Ben Frain (HTML)
 *   [Essential CSS](https://www.programming-books.io/essential/css/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Essential HTML](https://www.programming-books.io/essential/html/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [Essential HTML Canvas](https://www.programming-books.io/essential/htmlcanvas/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [GA Dash](https://dash.generalassemb.ly)
 *   [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB)
+*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB) (CC BY-NC-SA)
 *   [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) - Damian Wielgosik (PDF) *(:card\_file\_box: archived)*
 *   [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 *   [HTML Dog Tutorials](http://www.htmldog.com)
@@ -1006,6 +1010,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 *   [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
 *   [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
+*   [Learn Java for FTC (⭐125)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 *   [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 *   [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
 *   [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
@@ -1269,6 +1274,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 *   [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 *   [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+*   [Quick Start](https://react.dev/learn)
 *   [React-Bits (⭐17k)](https://github.com/vasanthk/react-bits)
 *   [React Book, your beginner guide to React (⭐1.3k)](https://github.com/softchris/react-book/) - Chris Noring
 *   [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
@@ -1277,7 +1283,6 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 *   [React Primer Draft (⭐3.6k)](https://github.com/mikechau/react-primer-draft)
 *   [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
-*   [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 *   React Tutorial by Josh Finnie
     *   [React Tutorial - Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/) - Josh Finnie
     *   [React Tutorial - Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/) - Josh Finnie
