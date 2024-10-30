@@ -6,6 +6,22 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 30, 2024](/content/2024/10/30/README.md)
+
+### Distributed Systems
+
+*   [NATS (⭐16k)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
+    performant communications system for digital systems, services, and devices.
+
+### Messaging
+
+*   [NATS Go Client (⭐5.5k)](https://github.com/nats-io/nats.go) - Go client for the NATS
+    messaging system.
+
+### Third-party APIs
+
+*   [go-gerrit (⭐94)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
 ### Web Frameworks
@@ -3382,7 +3398,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [liftbridge (⭐2.6k)](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams for NATS.
 *   [lura (⭐6.3k)](https://github.com/luraproject/lura) - Ultra performant API Gateway framework with middlewares.
 *   [micro (⭐12k)](https://github.com/micro/micro) - A distributed systems runtime for the cloud and beyond.
-*   [NATS (⭐16k)](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
 *   [outboxer (⭐157)](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 *   [pglock](https://cirello.io/pglock) - PostgreSQL-backed distributed locking implementation.
 *   [pjrpc](https://gitlab.com/pjrpc/pjrpc) - Golang JSON-RPC Server-Client with Protobuf spec.
@@ -3891,7 +3906,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [melody (⭐3.7k)](https://github.com/olahol/melody) - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
 *   [Mercure (⭐3.9k)](https://github.com/dunglas/mercure) - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
 *   [messagebus (⭐272)](https://github.com/vardius/message-bus) - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
-*   [NATS Go Client (⭐5.5k)](https://github.com/nats-io/nats) - Lightweight and high performance publish-subscribe and distributed queueing messaging system - this is the Go library.
 *   [nsq-event-bus (⭐79)](https://github.com/rafaeljesus/nsq-event-bus) - A tiny wrapper around NSQ topic and channel.
 *   [oplog (⭐111)](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 *   [pubsub (⭐427)](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.

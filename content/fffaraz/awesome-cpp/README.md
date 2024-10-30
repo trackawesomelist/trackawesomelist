@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Oct 30, 2024](/content/2024/10/30/README.md)
+
+### CLI
+
+*   [barkeep (⭐112)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
+
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
 ### Image Processing

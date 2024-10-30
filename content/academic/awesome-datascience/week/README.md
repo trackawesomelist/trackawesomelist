@@ -6,6 +6,16 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
+
+### Tutorials
+
+*   [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
+
+### Free Courses
+
+*   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
+
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### MOOC's
@@ -763,7 +773,7 @@
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [awesome-dataviz (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐60k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐61k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Awesome Data Science Ideas (⭐664)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐88)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
@@ -1138,7 +1148,7 @@
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐66k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐9.9k)](https://github.com/jnv/lists)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
 *   [awesome-python (⭐222k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6k)](https://github.com/qinwf/awesome-R)

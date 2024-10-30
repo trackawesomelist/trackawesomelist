@@ -85,12 +85,12 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Parsers :mag:
 
-*   [CSSOM (⭐751)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+*   [CSSOM (⭐752)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
 *   [CSSTree (⭐1.9k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
 *   [Gonzales PE (⭐330)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
 *   [Mensch (⭐113)](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 *   [ParserLib (⭐287)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
-*   [PostCSS (⭐28k)](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
+*   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 *   [Rework (⭐2.8k)](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
 *   [Stylecow (⭐163)](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
@@ -101,7 +101,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *Write CSS faster*
 
 *   [LESS (⭐17k)](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
-*   [PostCSS (⭐28k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+*   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 *   [Sass (⭐15k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
 *   [STYLIS (⭐1.7k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 *   [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
@@ -130,18 +130,18 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 *   [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 *   [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 *   [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-*   [Shorthand Framework (⭐255)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+*   [Shorthand Framework (⭐256)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 *   [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
 *   [Strawberry (⭐73)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 *   [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 *   [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
-*   [Tailwindcss (⭐82k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [Tailwindcss (⭐83k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [Tronic247 Material](https://material.pages.dev/) - A responsive framework based on CSS and some JS while following Material Design guidelines.
 *   [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 *   [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 *   [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 
-*[You can find more frameworks at "awesome-css-frameworks" (⭐7.9k)](https://github.com/troxler/awesome-css-frameworks)*
+*[You can find more frameworks at "awesome-css-frameworks" (⭐8k)](https://github.com/troxler/awesome-css-frameworks)*
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -153,9 +153,9 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Reset and Normalize
 
-*   [CSS Checker (⭐577)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+*   [CSS Checker (⭐578)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 *   [MiniReset.css (⭐2.8k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
-*   [Normalize-OpenType (⭐794)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+*   [Normalize-OpenType (⭐795)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 *   [Normalize (⭐52k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 *   [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS Tools: Reset CSS.
 *   [Reseter.css (⭐1.2k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
@@ -251,7 +251,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 *   [React-with-styles (⭐1.7k)](https://github.com/airbnb/react-with-styles)
 *   [Styled-jsx (⭐7.7k)](https://github.com/zeit/styled-jsx)
 *   [Styled-components (⭐40k)](https://github.com/styled-components/styled-components)
-*   [Stylin (⭐180)](https://github.com/sultan99/stylin)
+*   [Stylin (⭐181)](https://github.com/sultan99/stylin)
 
 Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/MicheleBertoli/css-in-js)
 
@@ -274,8 +274,8 @@ Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/Michele
 *   [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 *   [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
-*   [Live editor for CSS and LESS (⭐275)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-*   [RevengeCSS (⭐832)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+*   [Live editor for CSS and LESS (⭐276)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+*   [RevengeCSS (⭐834)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 *   [Single Div Project (⭐1.6k)](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 *   [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 *   [Xpath-to-selector (⭐11)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
@@ -386,6 +386,7 @@ Here is a [CSS in JS techniques comparison (⭐5.5k)](https://github.com/Michele
 *   [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 *   [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - Simple tutorial to learn CSS Grid from Mozilla.
 *   [CSS Grids videos tutorial](https://cssgrid.io/) - Free video course by Wes Bos to learn CSS Grids.
+*   [CSS Hands-on Tutorial](https://labex.io/tutorials/quick-start-with-css-free-tutorials-413795) - Free CSS hands-on tutorial by LabEx.
 *   [CSS Math Functions](https://stackdiary.com/css-math-functions/) - Using CSS Math for responsive design.
 *   [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 *   [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.

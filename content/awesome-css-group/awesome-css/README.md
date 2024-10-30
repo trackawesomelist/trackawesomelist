@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/awesome-css-group/awesome-css/week/README.md) / [Overview](/content/awesome-css-group/awesome-css/readme/README.md) ]
 
+## [Oct 30, 2024](/content/2024/10/30/README.md)
+
+### Tutorials :clapper: / 2015
+
+*   [CSS Hands-on Tutorial](https://labex.io/tutorials/quick-start-with-css-free-tutorials-413795) - Free CSS hands-on tutorial by LabEx.
+
 ## [Oct 14, 2024](/content/2024/10/14/README.md)
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
@@ -55,12 +61,12 @@
 
 *   [Inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 *   [Material-components-web (⭐17k)](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
-*   [Tailwindcss (⭐82k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+*   [Tailwindcss (⭐83k)](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 *   [Unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [Normalize-OpenType (⭐794)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+*   [Normalize-OpenType (⭐795)](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 *   [Normalize (⭐52k)](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 *   [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS Tools: Reset CSS.
 *   [Reseter.css (⭐1.2k)](https://github.com/krishdevdb/reseter.css) - A Futuristic CSS Reset/Normalizer. That Redifines Instead Of Preserving.
@@ -113,7 +119,7 @@
 *   [React-with-styles (⭐1.7k)](https://github.com/airbnb/react-with-styles)
 *   [Styled-jsx (⭐7.7k)](https://github.com/zeit/styled-jsx)
 *   [Styled-components (⭐40k)](https://github.com/styled-components/styled-components)
-*   [Stylin (⭐180)](https://github.com/sultan99/stylin)
+*   [Stylin (⭐181)](https://github.com/sultan99/stylin)
 
 ### CSS Polyfills / Editor's Draft :black_nib:
 
@@ -193,7 +199,7 @@
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
-*   [CSS Checker (⭐577)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+*   [CSS Checker (⭐578)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
 
 ## [Oct 14, 2021](/content/2021/10/14/README.md)
 
@@ -269,7 +275,7 @@
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
-*   [CSSOM (⭐751)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+*   [CSSOM (⭐752)](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
 *   [CSSTree (⭐1.9k)](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
 *   [Gonzales PE (⭐330)](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
 *   [ParserLib (⭐287)](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
@@ -278,7 +284,7 @@
 
 ### Preprocessors :pill: / Editor's Draft :black_nib:
 
-*   [PostCSS (⭐28k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+*   [PostCSS (⭐29k)](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 *   [LESS (⭐17k)](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 *   [Sass (⭐15k)](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
 *   [STYLIS (⭐1.7k)](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
@@ -298,7 +304,7 @@
 *   [Milligram](http://milligram.io) - A minimalist CSS framework.
 *   [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 *   [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-*   [Shorthand Framework (⭐255)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+*   [Shorthand Framework (⭐256)](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 *   [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
 *   [Strawberry (⭐73)](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 *   [Tachyons](http://tachyons.io/) - Functional CSS for humans.
@@ -356,8 +362,8 @@
 ### Miscellaneous / Editor's Draft :black_nib:
 
 *   [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-*   [Live editor for CSS and LESS (⭐275)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-*   [RevengeCSS (⭐832)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+*   [Live editor for CSS and LESS (⭐276)](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+*   [RevengeCSS (⭐834)](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 
 ### Podcasts :radio: / Editor's Draft :black_nib:
 

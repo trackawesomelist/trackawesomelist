@@ -90,6 +90,7 @@ Data Science is one of the hottest topics on the Computer and Internet farmland 
 | [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)         | *The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science.  The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms.* |
 | [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) | *Data scientists concentrate on making sense of data through exploratory analysis, statistics, and models. Software developers apply a separate set of knowledge with different tools. Although their focus may seem unrelated, data science teams can benefit from adopting software development best practices. Version control, automated testing, and other dev skills help create reproducible, production-ready code and tools.*                                                                                                                                                                               |
 | [Data Scientist Roadmap](https://www.scaler.com/blog/how-to-become-a-data-scientist/)                                                  | *Data science is an excellent career choice in today’s data-driven world where approx 328.77 million terabytes of data are generated daily. And this number is only increasing day by day, which in turn increases the demand for skilled data scientists who can utilize this data to drive business growth.*                                                                                                                                                                                                                                                                                                       |
+| [Navigating Your Path to Becoming a Data Scientist](https://www.appliedaicourse.com/blog/how-to-become-a-data-scientist/)              | \_Data science is one of the most in-demand careers today. With businesses increasingly relying on data to make decisions, the need for skilled data scientists has grown rapidly. Whether it’s tech companies, healthcare organizations, or even government institutions, data scientists play a crucial role in turning raw data into valuable insights. But how do you become a data scientist, especially if you’re just starting out? \_                                                                                                                                                                        |
 
 ## Where do I Start?
 
@@ -140,6 +141,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [Minimum Viable Study Plan for Machine Learning Interviews (⭐9.5k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 *   [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
+*   [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
 
 ### Free Courses
 
@@ -176,6 +178,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 *   [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 
 *   [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
+
+*   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 
 ### MOOC's
 
@@ -607,6 +611,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Apache Airflow (⭐37k)](https://github.com/apache/airflow)                                              | Platform to programmatically author, schedule, and monitor workflows                                                                                                                                                                                                                                                          |
 | [Prefect (⭐16k)](https://github.com/PrefectHQ/prefect)                                                  | Workflow management system for modern data stacks                                                                                                                                                                                                                                                                             |
 | [Kedro (⭐9.9k)](https://github.com/kedro-org/kedro)                                                     | Open-source Python framework for creating reproducible, maintainable data science code                                                                                                                                                                                                                                        |
+| [Hamilton (⭐1.8k)](https://github.com/dagworks-inc/hamilton)                                            | Lightweight library to author and manage reliable data transformations                                                                                                                                                                                                                                                        |
 | [SHAP (⭐23k)](https://github.com/slundberg/shap)                                                        | Game theoretic approach to explain the output of any machine learning model                                                                                                                                                                                                                                                   |
 | [LIME (⭐12k)](https://github.com/marcotcr/lime)                                                         | Explaining the predictions of any machine learning classifier                                                                                                                                                                                                                                                                 |
 | [flyte (⭐5.7k)](https://github.com/flyteorg/flyte)                                                      | Workflow automation platform for machine learning                                                                                                                                                                                                                                                                             |
@@ -1150,12 +1155,12 @@ Some data mining competition platforms
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐66k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐9.9k)](https://github.com/jnv/lists)
+*   [lists (⭐10k)](https://github.com/jnv/lists)
 *   [awesome-dataviz (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz)
 *   [awesome-python (⭐222k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐27k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6k)](https://github.com/qinwf/awesome-R)
-*   [awesome-datasets (⭐60k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [awesome-datasets (⭐61k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Awesome Data Science Ideas (⭐664)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
