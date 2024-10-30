@@ -6,6 +6,15 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Oct 30, 2024](/content/2024/10/30/README.md)
+
+### SaaS
+
+*   [Lucidchart](https://www.lucidchart.com/pages/usecase/education) \[FREE] - Create flowcharts & diagrams online with Lucidchart. You don't need to download anything. Students are eligible for a free Education account using school email.
+*   [Basecamp](https://basecamp.com/discounts) \[FREE] - Basecamp's the project management platform that helps small teams move faster and make more progress than they ever thought possible. Sign up using school email and follow the steps from the link above.
+*   [Miro](https://miro.com/education-whiteboard/) \[FREE] - Free digital whiteboard for online education. The offer is valid for two years.
+*   [Beautiful.ai](https://www.beautiful.ai/education) \[FREE] - Beautiful.ai helps you and your entire class create modern presentations with ease. We believe that design and education should be accessible to everyone, so we’re excited to offer students a free annual Pro subscription. Simply verify your .edu account and we’ll send you a confirmation email with your coupon code.
+
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
 ### Security

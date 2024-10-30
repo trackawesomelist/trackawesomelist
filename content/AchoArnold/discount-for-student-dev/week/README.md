@@ -8,6 +8,13 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
+### SaaS
+
+*   [Lucidchart](https://www.lucidchart.com/pages/usecase/education) \[FREE] - Create flowcharts & diagrams online with Lucidchart. You don't need to download anything. Students are eligible for a free Education account using school email.
+*   [Basecamp](https://basecamp.com/discounts) \[FREE] - Basecamp's the project management platform that helps small teams move faster and make more progress than they ever thought possible. Sign up using school email and follow the steps from the link above.
+*   [Miro](https://miro.com/education-whiteboard/) \[FREE] - Free digital whiteboard for online education. The offer is valid for two years.
+*   [Beautiful.ai](https://www.beautiful.ai/education) \[FREE] - Beautiful.ai helps you and your entire class create modern presentations with ease. We believe that design and education should be accessible to everyone, so we’re excited to offer students a free annual Pro subscription. Simply verify your .edu account and we’ll send you a confirmation email with your coupon code.
+
 ### Security
 
 *   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
