@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 31, 2024](/content/2024/10/31/README.md)
+
+### Parsers/Encoders/Decoders
+
+*   [vdf (⭐44)](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [fatcontext (⭐9)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
 ### Distributed Systems

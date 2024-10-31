@@ -2606,6 +2606,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [sdp (⭐113)](https://github.com/gortc/sdp) - SDP: Session Description Protocol \[[RFC 4566](https://tools.ietf.org/html/rfc4566)].
 *   [sh (⭐7.2k)](https://github.com/mvdan/sh) - Shell parser and formatter.
 *   [tokenizer (⭐95)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [vdf (⭐44)](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
 *   [when (⭐1.3k)](https://github.com/olebedev/when) - Natural EN and RU language date/time parser with pluggable rules.
 *   [xj2go (⭐34)](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
 
@@ -3211,6 +3212,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Chronos (⭐425)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
 *   [dupl (⭐346)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.4k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
+*   [fatcontext (⭐9)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐129)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐862)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.

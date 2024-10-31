@@ -16,6 +16,12 @@
 
 *   [OmniParser (⭐2.7k)](https://github.com/microsoft/OmniParser) (Sep 2024): A simple screen parsing tool towards pure vision based GUI agent.
 
+### **Azure Enterprise Services** / **Azure AI Search**
+
+*   Azure OpenAI Service Offerings
+    1.  Offering: Standard (Default), Batch (Low-cost, Huge workload), Provisioned (High performance)
+    2.  Offering Region types: Global (World wide), Data\_zones (Zone based), Regional (Region based)
+
 ### **Semantic Kernel** / **Azure AI Search**
 
 *   Agent Framework: A module for AI agents, and agentic patterns / Process Framework: A module for creating a structured sequence of activities or tasks. \[Oct 2024]
@@ -45,6 +51,11 @@
 ### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
 *   [napkin.ai](https://www.napkin.ai/): a text-to-visual graphics generator \[7 Aug 2024]
+*   AI Search engine:
+    1.  [Perplexity](http://perplexity.ai) \[Dec 2022]
+    2.  [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
+    3.  [felo.ai](https://felo.ai/search): Sparticle Inc. in Tokyo, Japan \[04 Sep 2024] | [Phind](https://www.phind.com/search): AI-Powered Search Engine for Developers \[July 2022]
+*   Airtable list: [Generative AI Index](https://airtable.com/appssJes9NF1i5xCn/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) | [AI Startups](https://airtable.com/appSpVXpylJxMZiWS/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -91,7 +102,7 @@
 
 ### **Evaluating Large Language Models** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
-*   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐378)](https://github.com/openai/mle-bench) \[9 Oct 2024]
+*   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐468)](https://github.com/openai/mle-bench) \[9 Oct 2024]
 *   [Korean SAT LLM Leaderboard (⭐31)](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard): Benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams \[Oct 2024]
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
@@ -105,10 +116,6 @@
 
 *   [Language Agent Tree Search Method (LATS) (⭐670)](https://github.com/lapisrocks/LanguageAgentTreeSearch): LATS leverages an external environment and an MCTS (Monte Carlo Tree Search)-based search \[6 Oct 2023]
 *   [The Different Ochestration Frameworks](https://newsletter.theaiedge.io/p/implementing-a-language-agent-tree):💡Orchestration frameworks for LLM applications: Micro-orchestration / Macro-orchestration / Agentic Design Frameworks / Optimizer frameworks \[11 Oct 2024]
-
-### **Section 10: General AI Tools and Extensions** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
-
-*   [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
 
 ### **Section 11: Datasets for LLM Training** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**
 
@@ -177,7 +184,7 @@
 
 ### **Micro-orchestration** / **Code Recipes**
 
-*   Semantic Kernel sample application:💡[Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐2)](https://github.com/jvargh/VCSM) \[Jul 2024] / [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐40)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
+*   Semantic Kernel sample application:💡[Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐4)](https://github.com/jvargh/VCSM) \[Jul 2024] / [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐40)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
 
 ### **LangChain Agent & Memory** / **Criticism to LangChain**
 
@@ -210,7 +217,7 @@
 
 ### **Section 9: Applications and Frameworks** / Korean
 
-*   [GenAI Agents (⭐3.6k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
+*   [GenAI Agents (⭐3.9k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
@@ -281,8 +288,8 @@
     *   [OpenAgents (⭐4k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
     *   [Burr (⭐1.2k)](https://github.com/dagworks-inc/burr): create an application as a state machine (graph/flowchart) for managing state, decisions, human feedback, and workflows. \[Jan 2024]
-    *   [OpenAI Swarm (⭐10k)](https://github.com/openai/swarm): An experimental and educational framework for lightweight multi-agent orchestration. \[11 Oct 2024]
-    *   [n8n (⭐47k)](https://github.com/n8n-io/n8n): A workflow automation tool for integrating various tools. [LangChain node](https://docs.n8n.io/advanced-ai/langchain/overview/) \[Jan 2019]
+    *   [OpenAI Swarm (⭐15k)](https://github.com/openai/swarm): An experimental and educational framework for lightweight multi-agent orchestration. \[11 Oct 2024]
+    *   [n8n (⭐48k)](https://github.com/n8n-io/n8n): A workflow automation tool for integrating various tools. [LangChain node](https://docs.n8n.io/advanced-ai/langchain/overview/) \[Jan 2019]
     *   [Agent-S (⭐297)](https://github.com/simular-ai/Agent-S): To build intelligent GUI agents that autonomously learn and perform complex tasks on your computer. \[Oct 2024]
     *   [Bee Agent Framework (⭐672)](https://github.com/i-am-bee/bee-agent-framework): The TypeScript framework for building scalable agentic applications. \[Oct 2024]
     *   Microsoft Agent Frameworks [x-ref](#microsoft-azure-openai-relevant-llm-framework)
@@ -2599,7 +2606,6 @@
 
 *   The leader: <http://openai.com>
 *   Open source: <http://huggingface.co/chat>
-*   Searching web: <http://perplexity.ai>
 *   allAIstartups: <https://www.allaistartups.com/ai-tools>
 
 ### **Section 11: Datasets for LLM Training** / **OSS Alternatives for OpenAI Code Interpreter (aka. Advanced Data Analytics)**

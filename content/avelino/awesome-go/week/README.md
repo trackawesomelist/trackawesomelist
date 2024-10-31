@@ -18,6 +18,10 @@ A curated list of awesome Go frameworks, libraries and software
 *   [NATS Go Client (⭐5.5k)](https://github.com/nats-io/nats.go) - Go client for the NATS
     messaging system.
 
+### Parsers/Encoders/Decoders
+
+*   [vdf (⭐44)](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
+
 ### Third-party APIs
 
 *   [go-gerrit (⭐94)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
@@ -25,6 +29,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Web Frameworks
 
 *   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
+
+### Code Analysis / Libraries for creating HTTP middlewares
+
+*   [fatcontext (⭐9)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 

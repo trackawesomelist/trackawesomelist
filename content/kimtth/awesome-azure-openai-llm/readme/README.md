@@ -10,6 +10,8 @@
 
 # Azure OpenAI + LLMs (Large Language Models)
 
+<img src="https://img.shields.io/badge/llm-azure_openai-blue?style=flat-square" alt="aoai-llm"> <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+
 This repository contains references to Azure OpenAI, Large Language Models (LLM), and related services and libraries. It follows a similar approach to the ‘Awesome-list’.
 
 🔹Brief each item on a few lines as possible. <br/>
@@ -558,6 +560,9 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 ### **Azure Enterprise Services**
 
+*   Azure OpenAI Service Offerings
+    1.  Offering: Standard (Default), Batch (Low-cost, Huge workload), Provisioned (High performance)
+    2.  Offering Region types: Global (World wide), Data\_zones (Zone based), Regional (Region based)
 *   Copilot (FKA. Bing Chat Enterprise) \[18 Jul 2023] [Privacy and Protection](https://learn.microsoft.com/en-us/bing-chat-enterprise/privacy-and-protections#protected-by-default)
     1.  Doesn't have plugin support
     2.  Only content provided in the chat by users is accessible to Bing Chat Enterprise.
@@ -587,7 +592,7 @@ This repository contains references to Azure OpenAI, Large Language Models (LLM)
 
 #### **Code Recipes**
 
-*   Semantic Kernel sample application:💡[Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐2)](https://github.com/jvargh/VCSM) \[Jul 2024] / [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐40)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
+*   Semantic Kernel sample application:💡[Chat Copilot (⭐2k)](https://github.com/microsoft/chat-copilot) \[Apr 2023] / [Virtual Customer Success Manager (VCSM) (⭐4)](https://github.com/jvargh/VCSM) \[Jul 2024] / [Project Micronaire](https://devblogs.microsoft.com/semantic-kernel/microsoft-hackathon-project-micronaire-using-semantic-kernel/): A Semantic Kernel RAG Evaluation Pipeline [git (⭐40)](https://github.com/microsoft/micronaire) \[3 Oct 2024]
 *   Semantic Kernel Recipes: A collection of C# notebooks [git (⭐164)](https://github.com/johnmaeda/SK-Recipes) \[Mar 2023]
 *   Deploy Semantic Kernel with Bot Framework [ref](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-semantic-kernel-with-bot-framework/ba-p/3928101) [git (⭐55)](https://github.com/Azure/semantic-kernel-bot-in-a-box) \[26 Oct 2023]
 *   Semantic Kernel-Powered OpenAI Plugin Development Lifecycle [ref](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/semantic-kernel-powered-openai-plugin-development-lifecycle/ba-p/3967751) \[30 Oct 2023]
@@ -1970,7 +1975,7 @@ class AgentType(str, Enum):
 *   [900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html):🏆What I learned from looking at 900 most popular open source AI tools [list](https://huyenchip.com/llama-police) \[Mar 2024]
 *   [Open100: Top 100 Open Source achievements.](https://www.benchcouncil.org/evaluation/opencs/annual.html)
 *   [Awesome LLM Apps (⭐3.9k)](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. \[Apr 2024]
-*   [GenAI Agents (⭐3.6k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
+*   [GenAI Agents (⭐3.9k)](https://github.com/NirDiamant/GenAI_Agents):🏆Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. \[Sep 2024]
 
 ### **Applications, Frameworks, and User Interface (UI/UX)**
 
@@ -2007,7 +2012,7 @@ class AgentType(str, Enum):
     *   [code2prompt (⭐2k)](https://github.com/mufeedvh/code2prompt/): a command-line tool (CLI) that converts your codebase into a single LLM prompt with a source tree \[Mar 2024]
     *   [vanna (⭐11k)](https://github.com/vanna-ai/vanna): Chat with your SQL database \[May 2023]
     *   [Mem0 (⭐22k)](https://github.com/mem0ai/mem0): A self-improving memory layer for personalized AI experiences. \[Jun 2023]
-    *   [PDF2Audio (⭐1k)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
+    *   [PDF2Audio (⭐1.1k)](https://github.com/lamm-mit/PDF2Audio): an open-source alternative to NotebookLM for podcast creation \[Sep 2024]
     *   [Llama Stack (⭐3.7k)](https://github.com/meta-llama/llama-stack): building blocks for Large Language Model (LLM) development \[Jun 2024]
     *   [o1-engineer (⭐2.7k)](https://github.com/Doriandarko/o1-engineer): a command-line tool designed to assist developers \[Sep 2024]
     *   [Auto\_Jobs\_Applier\_AIHawk (⭐20k)](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk): automates the jobs application \[Aug 2024]
@@ -2020,7 +2025,10 @@ class AgentType(str, Enum):
     *   [aider (⭐21k)](https://github.com/paul-gauthier/aider): AI pair programming in your terminal \[Jan 2023]
     *   [Zed (⭐0)](https://github.com/soitun/zed-ai): AI code editor from the creators of Atom and Tree-sitter \[Sep 2024]
     *   [OpenHands (⭐33k)](https://github.com/All-Hands-AI/OpenHands): OpenHands (formerly OpenDevin), a platform for software development agents \[Mar 2024]
-    *   Proprietary Software: AI Code Editor: [Replit Agent](https://replit.com/) \[09 Sep 2024] / [Cursor](https://www.cursor.com/) \[Mar 2023]
+    *   Proprietary Software:
+        *   AI Code Editor: [Replit Agent](https://replit.com/) \[09 Sep 2024] / [Cursor](https://www.cursor.com/) \[Mar 2023]
+        *   [Vercel AI](https://sdk.vercel.ai/) Vercel AI Playground
+        *   [Github Spark](https://githubnext.com/projects/github-spark): an AI-powered tool for creating and sharing micro apps (“sparks”) \[29 Oct 2024]
     *   [void (⭐7.7k)](https://github.com/voideditor/void) OSS Cursor alternative. a fork of vscode \[Oct 2024]
     *   RAG: [x-ref](#rag-solution-design--application)
 *   UI/UX
@@ -2044,7 +2052,8 @@ class AgentType(str, Enum):
     *   [Marker (⭐17k)](https://github.com/VikParuchuri/marker): converts PDF to markdown \[Oct 2023]
     *   [firecrawl (⭐18k)](https://github.com/mendableai/firecrawl): Scrap entire websites into LLM-ready markdown or structured data. \[Apr 2024]
     *   [Trafilatura (⭐3.6k)](https://github.com/adbar/trafilatura): Gather text from the web and convert raw HTML into structured, meaningful data. \[Apr 2019]
-    *   [Crawl4AI (⭐14k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper \[May 2024]
+    *   [Crawl4AI (⭐15k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper \[May 2024]
+    *   [Zerox OCR (⭐5.4k)](https://github.com/getomni-ai/zerox): Zero shot pdf OCR with gpt-4o-mini \[Jul 2024]
 *   Tools, Plugins, Development Tools, and Use Cases
     *   Streaming with Azure OpenAI [SSE (⭐59)](https://github.com/thivy/azure-openai-js-stream) \[May 2023]
     *   [Opencopilot](https://github.com/opencopilotdev/opencopilot): Build and embed open-source AI Copilots into your product with ease. \[Aug 2023]
@@ -2147,8 +2156,8 @@ class AgentType(str, Enum):
     *   [OpenAgents (⭐4k)](https://github.com/xlang-ai/OpenAgents): three distinct agents: Data Agent for data analysis, Plugins Agent for plugin integration, and Web Agent for autonomous web browsing. \[Aug 2023]
     *   [maestro (⭐4.1k)](https://github.com/Doriandarko/maestro): A Framework for Claude Opus, GPT and local LLMs to Orchestrate Subagents \[Mar 2024]
     *   [Burr (⭐1.2k)](https://github.com/dagworks-inc/burr): create an application as a state machine (graph/flowchart) for managing state, decisions, human feedback, and workflows. \[Jan 2024]
-    *   [OpenAI Swarm (⭐10k)](https://github.com/openai/swarm): An experimental and educational framework for lightweight multi-agent orchestration. \[11 Oct 2024]
-    *   [n8n (⭐47k)](https://github.com/n8n-io/n8n): A workflow automation tool for integrating various tools. [LangChain node](https://docs.n8n.io/advanced-ai/langchain/overview/) \[Jan 2019]
+    *   [OpenAI Swarm (⭐15k)](https://github.com/openai/swarm): An experimental and educational framework for lightweight multi-agent orchestration. \[11 Oct 2024]
+    *   [n8n (⭐48k)](https://github.com/n8n-io/n8n): A workflow automation tool for integrating various tools. [LangChain node](https://docs.n8n.io/advanced-ai/langchain/overview/) \[Jan 2019]
     *   [Agent-S (⭐297)](https://github.com/simular-ai/Agent-S): To build intelligent GUI agents that autonomously learn and perform complex tasks on your computer. \[Oct 2024]
     *   [Bee Agent Framework (⭐672)](https://github.com/i-am-bee/bee-agent-framework): The TypeScript framework for building scalable agentic applications. \[Oct 2024]
     *   Microsoft Agent Frameworks [x-ref](#microsoft-azure-openai-relevant-llm-framework)
@@ -2216,7 +2225,6 @@ class AgentType(str, Enum):
 *   The leader: <http://openai.com>
 *   The runner-up: <http://bard.google.com> -> <https://gemini.google.com>
 *   Open source: <http://huggingface.co/chat>
-*   Searching web: <http://perplexity.ai>
 *   Content writing: <http://jasper.ai/chat> / [cite](https://twitter.com/slow_developer/status/1671530676045094915)
 *   Oceans of AI - All AI Tools <https://play.google.com/store/apps/details?id=in.blueplanetapps.oceansofai&hl=en_US>
 *   Newsletters & Tool Databas: <https://www.therundown.ai/>
@@ -2231,9 +2239,13 @@ class AgentType(str, Enum):
 *   [Vercel AI](https://sdk.vercel.ai/) Vercel AI Playground / Vercel AI SDK [git (⭐9.8k)](https://github.com/vercel/ai) \[May 2023]
 *   [Quora Poe](https://poe.com/login) A chatbot service that gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots. \[Feb 2023]
 *   [Product Hunt > AI](https://www.producthunt.com/categories/ai)
-*   [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
 *   [websim.ai](https://websim.ai/): a web editor and simulator that can generate websites. \[1 Jul 2024]
 *   [napkin.ai](https://www.napkin.ai/): a text-to-visual graphics generator \[7 Aug 2024]
+*   AI Search engine:
+    1.  [Perplexity](http://perplexity.ai) \[Dec 2022]
+    2.  [GenSpark](https://www.genspark.ai/): AI agents engine perform research and generate custom pages called Sparkpages. \[18 Jun 2024]
+    3.  [felo.ai](https://felo.ai/search): Sparticle Inc. in Tokyo, Japan \[04 Sep 2024] | [Phind](https://www.phind.com/search): AI-Powered Search Engine for Developers \[July 2022]
+*   Airtable list: [Generative AI Index](https://airtable.com/appssJes9NF1i5xCn/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) | [AI Startups](https://airtable.com/appSpVXpylJxMZiWS/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
 
 ## **Section 11: Datasets for LLM Training**
 
@@ -2330,7 +2342,7 @@ databricks-dolly-15k: Instruction-Tuned [git](https://huggingface.co/datasets/da
 *   [Can Large Language Models Be an Alternative to Human Evaluations?](https://arxiv.org/abs/2305.01937) \[3 May 2023]
 *   [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-Judge)](https://eugeneyan.com/writing/llm-evaluators/): Key considerations and Use cases when using LLM-evaluators \[Aug 2024]
 *   [LightEval (⭐730)](https://github.com/huggingface/lighteval): a lightweight LLM evaluation suite that Hugging Face has been using internally \[Jan 2024]
-*   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐378)](https://github.com/openai/mle-bench) \[9 Oct 2024]
+*   [OpenAI MLE-bench](https://arxiv.org/abs/2410.07095): A benchmark for measuring the performance of AI agents on ML tasks using Kaggle. [git (⭐468)](https://github.com/openai/mle-bench) \[9 Oct 2024]
 *   [Korean SAT LLM Leaderboard (⭐31)](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard): Benchmarking 10 years of Korean CSAT (College Scholastic Ability Test) exams \[Oct 2024]
 
 ### **LLM Evalution Benchmarks**
