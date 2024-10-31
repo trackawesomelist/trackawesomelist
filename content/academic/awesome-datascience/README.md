@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 31, 2024](/content/2024/10/31/README.md)
+
+### Tutorials
+
+*   [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
+
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
 ### Tutorials

@@ -1,12 +1,40 @@
 # Awesome List Updates on Oct 28 - Nov 03, 2024
 
-31 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Email Search / Email Check / Steam
+
+*   [OSINTEye (⭐2)](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
+
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+
+### Display / LEDs
+
+*   [micropython-aw210xx (⭐0)](https://github.com/eosti/micropython-aw210xx) - Driver for Awinic's AW210xx line of 8-bit LED drivers.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [QuestSystem (⭐286)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+
+### Modules / Godot 4
+
+*   [Keyring (⭐2)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Integrations
+
+*   [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/NangoHQ/nango)
+
+## [5. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Code samples and snippets
 
@@ -37,23 +65,24 @@
 
 *   Check the [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developers/blob/main/README.md/./CONTRIBUTING.md).
 
-## [2. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [6. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Tutorials :clapper: / 2015
 
 *   [CSS Hands-on Tutorial](https://labex.io/tutorials/quick-start-with-css-free-tutorials-413795) - Free CSS hands-on tutorial by LabEx.
 
-## [3. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
 *   [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
+*   [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
 
 ### Free Courses
 
 *   [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -106,13 +135,13 @@
 *   [NDJSON (⭐678) (⭐672)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐346) (⭐347)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Clearnet & Anonymous Networking / Crypto
 
 *   [Split Monero Wallet](https://www.getmonero.org/resources/user-guides/cli_wallet_daemon_isolation_qubes_whonix.html) - With Qubes + Whonix you can have a Monero wallet that is without networking and running on a virtually isolated system from the Monero daemon which has all of its traffic forced over Tor.
 
-## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [10. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Dart
 
@@ -122,25 +151,25 @@
 
 *   [OpenCalc (⭐865)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Routers / Checkbox
 
 *   [svelte5-router (⭐3)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [DerScanner](https://derscanner.com/) :copyright: — Multi-language Static Application Security Testing (SAST) platform that detects critical vulnerabilities, including hardcoded secrets, weak cryptography, backdoors, SQL injections, insecure configurations, etc.
 
-## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Traditional Market / Crypto Currencies
 
 *   🌟🌟🌟 [OpenBB (⭐33k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
-## [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [14. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### **Vector Database Comparison** / **Embedding**
 
@@ -180,7 +209,7 @@
 
 *   [napkin.ai](https://www.napkin.ai/): a text-to-visual graphics generator \[7 Aug 2024]
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
@@ -190,13 +219,13 @@
 
 *   [Deno Dig (⭐0)](https://github.com/theGEBIRGE/DenoDig) - A tool for extracting application code and npm packages from stand-alone Deno executables.
 
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Search
 
 *   🍰 [CakeDC/SearchFilter plugin (⭐0)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 
-## [13. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Native / Text-Based User Interfaces
 
@@ -211,13 +240,13 @@
 
 *   [Testcontainers (⭐8k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
 *   [Pretty printing tree data structures in Common Lisp](https://gist.github.com/WetHat/9682b8f70f0241c37cd5d732784d1577) (as a Jupyter notebook)
 
-## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
@@ -227,7 +256,7 @@
 
 *   [fitting (⭐58)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Distributed Systems
 
@@ -247,13 +276,13 @@
 
 *   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zellij-org/zellij) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [18. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [22. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
@@ -275,7 +304,7 @@
 
 *   [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 
-## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
@@ -289,7 +318,7 @@
 
 *   [Lucid Dreams (⭐37)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [24. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
@@ -303,13 +332,13 @@
 *   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Malwarebytes](https://www.malwarebytes.com/student-discount) \[Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [InclusiveColors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 
-## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -344,13 +373,13 @@
 
 *   [rxjs-collection (⭐5)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
 
-## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [27. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Java / Bootstrap
 
 *   [Learn Java for FTC (⭐125)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 
-## [24. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [28. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Writing assistants
 
@@ -412,26 +441,26 @@
 
 *   [How To Learn Artificial Intelligence (AI)?](https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
 
-## [25. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [29. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
 
-## [26. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [30. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [How to Develop Firebase Genkit Functions](https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227) - A practical guide to efficient local testing of Genkit Functions with Firebase product integrations.
 *   [Firebase Genkit for Go Developers: A Guide to Building LLM Applications](https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10) - A getting started guide for Go developers using Genkit.
 
-## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
 *   [Theory-based Bayesian models of inductive learning and reasoning](https://www.cell.com/AJHG/fulltext/S1364-6613\(06\)00134-3) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446)]. \[[Preprint](http://www.charleskemp.com/papers/TenenbaumGK06.pdf)]. Inductive inference allows humans to make powerful generalizations from sparse data when learning about word meanings, unobserved properties, causal relationships, and many other aspects of the world. Traditional accounts of induction emphasize either the power of statistical learning, or the importance of strong constraints from structured domain knowledge, intuitive theories or schemas. This paper argues that both components are necessary to explain the nature, use and acquisition of human knowledge, and the authors introduce a theory-based Bayesian framework for modeling inductive learning and reasoning as statistical inferences over structured knowledge representations.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -443,7 +472,7 @@
 
 *   \[Jpegli]\[[https://github.com/google/jpegli (⭐118)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 
-## [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [33. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Attacks on LLMs / Multi-agents
 
@@ -457,17 +486,21 @@
 
 *   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Artifact Repos
 
 *   [RepoForge](https://repoforge.io) - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.
 
+### Generative AI
+
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐296)](https://github.com/pollinations/pollinations)
+
 ### IDE and Code Editing
 
 *   [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 

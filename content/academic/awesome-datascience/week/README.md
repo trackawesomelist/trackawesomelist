@@ -11,6 +11,7 @@
 ### Tutorials
 
 *   [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
+*   [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
 
 ### Free Courses
 

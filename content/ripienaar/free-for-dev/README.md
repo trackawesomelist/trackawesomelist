@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Oct 31, 2024](/content/2024/10/31/README.md)
+
+### Generative AI
+
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐296)](https://github.com/pollinations/pollinations)
+
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
 ### Artifact Repos

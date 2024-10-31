@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Oct 31, 2024](/content/2024/10/31/README.md)
+
+### Integrations
+
+*   [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/NangoHQ/nango)
+
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### Code Quality
@@ -16,7 +22,7 @@ A curated list of awesome developer-first tools products.
 
 ### Monitoring
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
 
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 

@@ -277,6 +277,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *Integration management systems or products that ease integration development.*
 
 *   [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+*   [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/COMPANY/REPO?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/NangoHQ/nango)
 *   [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/panoratech/panora)
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/revertinc/revert)
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL.
@@ -354,7 +355,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Helicone/helicone)
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 *   [KeenIO](https://keen.io/) - Event streaming platform.
-*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐5.8k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
 *   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 *   [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.

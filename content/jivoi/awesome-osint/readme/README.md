@@ -471,28 +471,53 @@ Thanks to our main contributors
 ## [↑](#-table-of-contents) Email Search / Email Check
 
 *   [Blackbird (⭐2.8k)](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
+
 *   [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
+
 *   [Email Address Validator](http://www.email-validator.net)  - Improve deliverability, reduce bounce rates, prevent fraud and minimize funnel leaks.
+
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+
 *   [Email Permutator](https://www.polished.app/email-permutator/) - a powerful tool designed to aid professionals in generating a range of potential email addresses for a specific contact.
+
 *   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+
 *   [Ghunt (⭐16k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+
 *   [Gitrecon (⭐22)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+
 *   [h8mail (⭐4.2k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+
 *   [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+
 *   [Holehe (⭐7.6k)](https://github.com/megadose/holehe) - allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+
 *   [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+
 *   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
+
 *   [MailTester](http://mailtester.com) - hunt for emails and improve your email deliverability
+
 *   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
+
+*   [OSINTEye (⭐2)](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
+
 *   [Peepmail](http://www.samy.pl/peepmail) - is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+
 *   [Pipl](https://pipl.com) - a provider of identity solutions.
+
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
+
 *   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
+
 *   [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
+
 *   [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
+
 *   [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
+
 *   [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
 ## [↑](#-table-of-contents) Phone Number Research
@@ -809,7 +834,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐85k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐86k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1082,7 +1107,7 @@ Thanks to our main contributors
 *   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐17k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐18k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetect](http://www.changedetect.com)
 *   [ChangeDetection](http://www.changedetection.com)
 *   [Deltafeed](http://bitreading.com/deltafeed)
