@@ -2,7 +2,7 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 3.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/agarrharr/awesome-macos-screensavers/README.md) / [Weekly](/content/agarrharr/awesome-macos-screensavers/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome (⭐301k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐333k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -126,6 +126,14 @@ Free
 > Displays the time (and animations) using 24 individual clocks
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+
+### Flip Clock Screensaver
+
+> A flip clock screensaver that can automatically dim the screen.
+
+Free
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
 
 ## Apple Inspired
 

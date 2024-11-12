@@ -17,7 +17,7 @@
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Foundation Homepage](https://raspberrypi.org), [Raspberry Pi Computer Homepage](https://www.raspberrypi.com)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto (⭐330k)](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto (⭐333k)](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
@@ -91,6 +91,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 *   [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt is described as a Linux distribution for embedded devices for network management.
 *   [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 *   [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
+*   [PiFi](https://pifi.org) - Turn Raspberry Pi into a High-Speed VPN Router in Seconds ⚡️ (Supports Raspberry Pi 4 and 5).
 *   [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 *   [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 *   [RasComm RaspberryPi MorseCode Translator (⭐7)](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
@@ -324,7 +325,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 *   [Compile Swift for Raspberry Pi by Visual Studio Code](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-visual-studio-code-3f303e32d34e) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Visual Studio Code.
 *   [Compile Swift for Raspberry Pi by Xcode](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-xcode-406ac26b63ec) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - Quick guide to help setup Swift environment on Raspbian stretch (lite).
-*   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
+*   [SwiftyGPIO (⭐1.4k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 *   [Swish (⭐272)](https://github.com/thomaspaulmann/Swish) - Build Swift Projects on a remote machine within Xcode.
 
 ## Community

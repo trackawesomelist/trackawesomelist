@@ -2,15 +2,21 @@
 
 :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tobiasbueschel/awesome-pokemon/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) · ⭐ 503 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tobiasbueschel/awesome-pokemon/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) · ⭐ 599 · 🏷️ Miscellaneous
 
 [ [Daily](/content/tobiasbueschel/awesome-pokemon/README.md) / Weekly / [Overview](/content/tobiasbueschel/awesome-pokemon/readme/README.md) ]
+
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Development Projects / Miscellaneous
+
+*   [PokemonRedExperiments (⭐7k)](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokémon Red with Reinforcement Learning.
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 
 ### Development Projects / Apps
 
-*   [Who's That Pokémon? (⭐0)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
+*   [Who's That Pokémon? (⭐3)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -28,19 +34,19 @@
 
 ### Development Projects / APIs
 
-*   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+*   [TCGdex (⭐157)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
 ### Development Projects / Miscellaneous
 
-*   [PokéPalettes (⭐1)](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
+*   [PokéPalettes](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Development Projects / APIs
 
-*   [pokemon-API (⭐20)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
+*   [pokemon-API (⭐24)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -52,25 +58,25 @@
 
 ### Development Projects / Apps
 
-*   [Pokedex (⭐6.1k)](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+*   [Pokedex (⭐7.8k)](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
 ### Development Projects / APIs
 
-*   [graphql-pokemon (⭐491)](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
+*   [graphql-pokemon (⭐503)](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
 ### Development Projects / Miscellaneous
 
-*   [pokesprite (⭐719)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
+*   [pokesprite (⭐993)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 
 ### Development Projects / APIs
 
-*   [Kotlin-Pokedex (⭐1.3k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
+*   [Kotlin-Pokedex (⭐1.5k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -82,19 +88,19 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokemon-cli (⭐46)](https://github.com/sindresorhus/pokemon-cli) - CLI to get Pokémon names.
+*   [pokemon-cli (⭐48)](https://github.com/sindresorhus/pokemon-cli) - CLI to get Pokémon names.
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 
 ### Development Projects / Miscellaneous
 
-*   [slack-emoji-pokemon (⭐364)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
+*   [slack-emoji-pokemon (⭐380)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
 
 ## [Dec 10 - Dec 16, 2018](/content/2018/50/README.md)
 
 ### Development Projects / Apps
 
-*   [pokecry (⭐5)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
+*   [pokecry (⭐10)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
@@ -106,7 +112,7 @@
 
 ### Development Projects / APIs
 
-*   [PokeTypes (⭐6)](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
+*   [PokeTypes (⭐8)](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 
@@ -118,41 +124,41 @@
 
 ### Development Projects / Miscellaneous
 
-*   [Pokemon-Terminal (⭐4k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
+*   [Pokemon-Terminal (⭐4.2k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
 ## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
 
 ### Development Projects / Miscellaneous
 
-*   [pokemongo-game-master (⭐39)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
+*   [pokemongo-game-master (⭐38)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
 ### Development Projects / Apps
 
-*   [Shuffle-Move (⭐92)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
+*   [Shuffle-Move (⭐97)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 
 ### Development Projects / Bots
 
-*   [Pokemon Go Bot (⭐15)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
-*   [PokeBot (⭐16)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
+*   [Pokemon Go Bot (⭐23)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
+*   [PokeBot (⭐17)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 
 ## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
 
 ### Development Projects / Bots
 
-*   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
-*   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
+*   [PokemonGo-Bot (⭐3.9k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
+*   [Bot Builder for PokemonGoBot (⭐18)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
 ## [Aug 15 - Aug 21, 2016](/content/2016/33/README.md)
 
 ### Development Projects / APIs
 
-*   [PokemonGO-Pokedex (⭐119)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
+*   [PokemonGO-Pokedex (⭐126)](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 
 ### Development Projects / Bots
 
-*   [PokeBuddy (⭐451)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
+*   [PokeBuddy (⭐447)](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 ### Development Projects / Miscellaneous
 
@@ -160,7 +166,7 @@
 
 ### Resources & Others / Maps
 
-*   [iPokeGo (⭐640)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
+*   [iPokeGo (⭐642)](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
 ### Resources & Others / Wiki
 
@@ -182,34 +188,34 @@
 
 ### Development Projects / APIs
 
-*   [PokeAPI (⭐3.1k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
+*   [PokeAPI (⭐4.3k)](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (<http://pokeapi.co/>).
 *   [pgoapi (⭐1.4k)](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
-*   [Pokemon-GO-node-api (⭐884)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
-*   [Pokemon-Go-Rocket-API (⭐376)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
-*   [Pokemon GO Java API (⭐1.1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
-*   [Pokemon Name API (⭐445)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
+*   [Pokemon-GO-node-api (⭐875)](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
+*   [Pokemon-Go-Rocket-API (⭐368)](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
+*   [Pokemon GO Java API (⭐1k)](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
+*   [Pokemon Name API (⭐490)](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 
 ### Development Projects / Apps
 
-*   [iPokeMon (⭐432)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
-*   [pokemon-online (⭐278)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
+*   [iPokeMon (⭐430)](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
+*   [pokemon-online (⭐290)](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 
 ### Development Projects / Bots
 
-*   [slack-pokemon (⭐342)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
-*   [PokeSlack (⭐40)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
-*   [TwitchPlaysPokemon (⭐109)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
-*   [Poketrainer (⭐123)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
-*   [PokemonGoBot (⭐568)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
+*   [slack-pokemon (⭐341)](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
+*   [PokeSlack (⭐38)](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
+*   [TwitchPlaysPokemon (⭐110)](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
+*   [Poketrainer (⭐120)](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
+*   [PokemonGoBot (⭐557)](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 
 ### Development Projects / Miscellaneous
 
-*   [alfred-pokedex (⭐25)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
+*   [alfred-pokedex (⭐23)](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 *   [Pokemon-Go-Controller (⭐2.5k)](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
-*   [pokemon-go-mitm-node (⭐478)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
-*   [PokeMMO (⭐699)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
-*   [pogo-optimizer (⭐507)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
-*   [PoGoTools (⭐4)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
+*   [pokemon-go-mitm-node (⭐487)](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
+*   [PokeMMO (⭐730)](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
+*   [pogo-optimizer (⭐502)](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
+*   [PoGoTools (⭐5)](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
 *   [slack-pokemon-emoji (⭐21)](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 
 ### Resources & Others / Communities
@@ -222,9 +228,9 @@
 
 ### Resources & Others / Maps
 
-*   [PokemonGo-Map (⭐7.6k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
+*   [PokemonGo-Map (⭐7.5k)](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
 *   [PokemonGo-DesktopMap (⭐1.8k)](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
-*   [pokelocater (⭐132)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
+*   [pokelocater (⭐130)](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 *   [Pokemap (⭐1k)](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 *   [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 
@@ -246,11 +252,11 @@
 
 ### Development Projects / Apps
 
-*   [Pokemon-Showdown (⭐3.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
+*   [Pokemon-Showdown (⭐4.8k)](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 
 ### Resources & Others / Wiki
 
-*   [Pokedex (⭐1.3k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
+*   [Pokedex (⭐1.4k)](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
 *   [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 *   [Pokémon GO Wiki](https://pkmngowiki.com/)
 *   [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -259,7 +265,7 @@
 
 ### Development Projects / Miscellaneous
 
-*   [pokecrystal (⭐1.7k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+*   [pokecrystal (⭐2.1k)](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 *   [x-pokemon (⭐89)](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-*   [pokered (⭐3.2k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-*   [pokemon-reverse-engineering-tools (⭐293)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+*   [pokered (⭐4k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+*   [pokemon-reverse-engineering-tools (⭐327)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.

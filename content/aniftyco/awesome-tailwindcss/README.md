@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Tools
+
+*   🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
+
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
 ### Tools
@@ -54,17 +60,11 @@
 
 *   🧩 [Indie UI](https://ui.indie-starter.dev) - Rich styled UI components.
 
-## [Jul 06, 2024](/content/2024/07/06/README.md)
-
-### Tools
-
-*   🎨🔧 [Design GUI](https://designgui.io) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
-
 ## [Jul 04, 2024](/content/2024/07/04/README.md)
 
 ### Starters & Themes
 
-*   🚀 [Angular-Tailwind (⭐330)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
+*   🚀 [Angular-Tailwind (⭐343)](https://github.com/lannodev/angular-tailwind) - Dashboard starter kit using Angular and Tailwind CSS.
 *   🚀 [Vue-Resume (⭐22)](https://github.com/lannodev/vue-resume) - Developer resume template with Tailwind CSS and Vue.
 
 ## [May 06, 2024](/content/2024/05/06/README.md)
@@ -677,7 +677,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Shopify Theme Lab (⭐743)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
+*   🚀 [Shopify Theme Lab (⭐750)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
 ## [Dec 06, 2020](/content/2020/12/06/README.md)
 

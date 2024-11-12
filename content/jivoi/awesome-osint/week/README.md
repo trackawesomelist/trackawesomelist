@@ -6,6 +6,16 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Phone Number Research / Steam
+
+*   [InMobPrefix (⭐3)](https://github.com/hstsethi/in-mob-prefix) - Dataset, charts, models about mobile phone numbers prefixes in India along with their respective state, operator.
+
+### DNS / Steam
+
+*   [Amass (⭐12k)](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
+
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
 ### Email Search / Email Check / Steam
@@ -40,7 +50,7 @@
 
 ### Social Media Tools / Steam
 
-*   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐4)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
+*   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐5)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
 
 ### Email Search / Email Check / Steam
 
@@ -63,7 +73,7 @@
 
 ### Other Tools / Steam
 
-*   [DNSservices (⭐19)](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
+*   [DNSservices (⭐22)](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 *   [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
@@ -123,8 +133,8 @@
 
 ### Other Tools / Steam
 
-*   [LinkScope Client (⭐273)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
-*   [pygreynoise (⭐150)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+*   [LinkScope Client (⭐279)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+*   [pygreynoise (⭐151)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 *   [SpiderFoot (⭐13k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
@@ -151,7 +161,7 @@
 
 ### Email Search / Email Check / Steam
 
-*   [Gitrecon (⭐22)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐21)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ### Domain and IP Research / Steam
 
@@ -159,7 +169,7 @@
 
 ### Image Search / Steam
 
-*   [GeoSpyer (⭐194)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐197)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ### Image Analysis / Steam
 
@@ -172,7 +182,7 @@
 
 ### Other Tools / Steam
 
-*   [Discoshell (⭐76)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+*   [Discoshell (⭐77)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [OSINT-Tool](https://www.osint-tool.com/) - A browser extension that gives you access to a suite of OSINT utilities (Dehashed, Epieos, Domaintools, Exif data, Reverse image search, etc) directly on any webpage you visit.
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
@@ -199,19 +209,19 @@
 
 ### Related Awesome Lists / Steam
 
-*   [awesome-anti-forensic (⭐755)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
+*   [awesome-anti-forensic (⭐774)](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
 *   [awesome-ctf (⭐9.8k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
 *   [awesome-forensics (⭐4k)](https://github.com/Cugu/awesome-forensics) by @cugu
 *   [awesome-hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
 *   [awesome-honeypots (⭐8.6k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐7.6k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.4k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-incident-response (⭐7.7k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 *   [awesome-malware-analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 *   [awesome-pentest (⭐22k)](https://github.com/enaqx/awesome-pentest) by @enaqx
-*   [awesome-privacy (⭐6.8k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
+*   [awesome-privacy (⭐6.9k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
 *   [awesome-sec-talks (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
 *   [awesome-security (⭐12k)](https://github.com/sbilly/awesome-security) by @sbilly
-*   [awesome-threat-intelligence (⭐8k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
+*   [awesome-threat-intelligence (⭐8.1k)](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 *   [infosec reference (⭐5.6k)](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
 *   [personal-security-checklist (⭐17k)](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 *   [SecLists (⭐58k)](https://github.com/danielmiessler/SecLists) by @danielmiessler
@@ -221,7 +231,7 @@
 
 ### Geospatial Research and Mapping Tools / Steam
 
-*   [SatIntel (⭐675)](https://github.com/ANG13T/SatIntel)
+*   [SatIntel (⭐682)](https://github.com/ANG13T/SatIntel)
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -253,7 +263,7 @@
 
 ### Language Tools / Steam
 
-*   see the [Awesome Translations list (⭐144)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐147)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Steam
 
@@ -273,19 +283,19 @@
 
 ### Other Tools / Steam
 
-*   [SpiderSuite (⭐597)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
+*   [SpiderSuite (⭐601)](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
 ### Username Check / Steam
 
-*   [NexFil (⭐2.2k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
-*   [Seekr (⭐555)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
+*   [NexFil (⭐2.3k)](https://github.com/thewhiteh4t/nexfil) - checks username from almost all social network sites.
+*   [Seekr (⭐563)](https://github.com/seekr-osint/seekr) A multi-purpose all in one toolkit for gathering and managing OSINT-Data with a neat web-interface. Can be used for note taking and username checking.
 
 ### Video Search and Other Video Tools / Steam
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
-*   [Tubuep (⭐416)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+*   [Tubuep (⭐418)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
 *   [yt-dlp (⭐86k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
@@ -326,7 +336,7 @@
 
 ### Infographics and Data Visualization / Steam
 
-*   [Perspective (⭐8.4k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+*   [Perspective (⭐8.5k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ### Other Tools / Steam
 
@@ -442,7 +452,7 @@
 
 ### Image Analysis / Steam
 
-*   [ExifLooter (⭐425)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐427)](https://github.com/aydinnyunus/exiflooter)
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
@@ -466,7 +476,7 @@
 
 ### Other Tools / Steam
 
-*   [CrowdSec (⭐8.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -509,7 +519,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐9.7k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐9.8k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -569,17 +579,17 @@
 
 ### Other Tools / Steam
 
-*   [Sub3 Suite (⭐522)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐525)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐251)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐253)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ### Web History and Website Capture / Steam
 
-*   [waybackpy (⭐471)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐478)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -603,7 +613,7 @@
 
 ### Other Tools / Steam
 
-*   [DuckDuckGo URL scraper (⭐24)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐23)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -643,7 +653,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐549)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
+*   [Sterra (⭐560)](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyse followers | following with their details
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -744,7 +754,7 @@
 
 *   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-*   [Oblivion (⭐507)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐511)](https://github.com/loseys/Oblivion)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 *   [WATools](https://watools.io/)
 
@@ -799,7 +809,7 @@
 ### Video Search and Other Video Tools / Steam
 
 *   [Insecam](http://insecam.org/) - Live cameras directory
-*   [Video Stabilization Methods (⭐375)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐383)](https://github.com/yaochih/awesome-video-stabilization)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 
@@ -1028,7 +1038,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐2k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
+*   [Toutatis (⭐2.1k)](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
@@ -1085,7 +1095,7 @@
 
 ### Other Tools / Steam
 
-*   [Belati (⭐529)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐533)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 *   [Pown Recon (⭐421)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
@@ -1140,7 +1150,7 @@
 ### Other Tools / Steam
 
 *   [Photon (⭐11k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Zen (⭐554)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
+*   [Zen (⭐555)](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -1152,7 +1162,7 @@
 
 ### Other Tools / Steam
 
-*   [Orbit (⭐526)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐531)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [Jun 25 - Jul 01, 2018](/content/2018/26/README.md)
 
@@ -1177,12 +1187,6 @@
 ### Privacy and Encryption Tools / Steam
 
 *   [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
-
-## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
-
-### DNS / Steam
-
-*   [Amass](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
@@ -1292,7 +1296,7 @@
 *   [Intrigue Core (⭐1.4k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐635)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐636)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
@@ -1943,7 +1947,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
 *   [Tiki-toki](http://www.tiki-toki.com)
-*   [Timeflow (⭐449)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐448)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
 *   [Timetoast](http://www.timetoast.com)

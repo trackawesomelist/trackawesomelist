@@ -6,6 +6,16 @@ A curated list of awesome mathematics resources
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Foundations of Mathematics / Transition To Pure Rigour Math
+
+*   📝 [Book of Proof](https://richardhammack.github.io/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
+
+### Geometry and Topology / Differential Geometry
+
+*   📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
+
 ## [Oct 22, 2024](/content/2024/10/22/README.md)
 
 ### Youtube Series
@@ -170,7 +180,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐677)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐701)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -217,7 +227,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐337k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐338k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -288,12 +298,6 @@ A curated list of awesome mathematics resources
 
 *   [Evan Chen](https://web.evanchen.cc/coursework.html) - MIT. 2012 \~ 2018. Covers Combinatorics, Number Theory, Honors Algebra, Set Theory, Real Analysis, Graph Theory, and more.
 *   [Dexter Chua](https://dec41.user.srcf.net/notes/) - Harvard. 2013 \~ 2018. Covers Analysis, Probability, Linear Algebra, Complex Analysis, Numerical Analysis, Statistics, Optimization, Algebraic Topology, Quantum Field Theory, and more.
-
-## [Jan 04, 2021](/content/2021/01/04/README.md)
-
-### Foundations of Mathematics / Transition To Pure Rigour Math
-
-*   📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
@@ -959,7 +963,6 @@ A curated list of awesome mathematics resources
 ### Geometry and Topology / Differential Geometry
 
 *   📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-*   📝 [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
 *   📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 *   📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 *   📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)

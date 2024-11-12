@@ -6,11 +6,17 @@ A curated list of awesome SNMP libraries, tools, and other resources.
 
 [ [Daily](/content/eozer/awesome-snmp/README.md) / Weekly / [Overview](/content/eozer/awesome-snmp/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Libraries / C#
+
+*   [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
+
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
 ### Libraries / C#
 
-*   [C# SNMP Library (⭐356)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples. \[#SNMP Pro]\(<https://pro.sharpsnmp.com]> is a commercial extension that adds enterprise MIB support.
+*   [C# SNMP Library (⭐356)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
 
 ### Libraries / Python
 

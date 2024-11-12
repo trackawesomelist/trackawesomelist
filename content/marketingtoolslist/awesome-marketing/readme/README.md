@@ -2,7 +2,7 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 44 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / Overview ]
 
@@ -415,6 +415,8 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 
 ## Blogs
 
+*   [The Marketing Blog](https://blog.marketingtoolslist.com) - A blog on Marketing Tools reviews
+*   [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
 *   **HubSpot Blog** - Offers information on inbound marketing, sales, and customer service strategies. [Visit Blog](https://blog.hubspot.com/)
 *   **Neil Patel's Blog** - Covers a range of digital marketing topics with actionable tips and guides. [Visit Blog](https://neilpatel.com/blog/)
 
@@ -425,7 +427,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 
 ## Online Resources and Courses
 
-*   **[SEO Roadmap (⭐97)](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
+*   **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 *   **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 *   **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 

@@ -2,9 +2,16 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 38 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 44 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Blogs / Digital Asset Management (DAM)
+
+*   [The Marketing Blog](https://blog.marketingtoolslist.com) - A blog on Marketing Tools reviews
+*   [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
 
 ## [Oct 22, 2024](/content/2024/10/22/README.md)
 
@@ -22,7 +29,7 @@ A curated list of awesome marketing tools and resources
 
 ### Online Resources and Courses / Digital Asset Management (DAM)
 
-*   **[SEO Roadmap (⭐97)](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
+*   **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 

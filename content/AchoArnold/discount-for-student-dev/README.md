@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Version Control
+
+*   [Tower](https://www.git-tower.com/students/windows) \[FREE] -  Tower for Students provides free access to Tower "Pro" as a student. If you're enrolled as a student, you can use Tower "Pro" for free! Apply with your school email address.
+
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
 ### SaaS
@@ -325,12 +331,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)\[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [Dec 14, 2020](/content/2020/12/14/README.md)
-
-### Web Hosting
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
-
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
 ### SaaS
@@ -359,7 +359,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### Version Control
 
-*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
 *   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 *   [Sentry](https://sentry.io/for/education/) \[FREE] - Open-source error tracking that helps developers monitor and fix crashes in real time. Also included via [Github Student Developer Pack](https://education.github.com/pack).
 *   [Working Copy](https://workingcopy.app/education/) \[FREE] - Powerful Git client for iOS that clones, edits, commits, pushes. All Pro features for free while you are a student via [Github Student Developer Pack](https://education.github.com/pack).

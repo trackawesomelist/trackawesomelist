@@ -2,9 +2,15 @@
 
 A curated list of awesome network analysis resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 3.5K · 🏷️ Networking
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/briatte/awesome-network-analysis/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) · ⭐ 3.6K · 🏷️ Networking
 
 [ Daily / [Weekly](/content/briatte/awesome-network-analysis/week/README.md) / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
+
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Software / R
+
+*   [ig.degree.betweenness (⭐30)](https://github.com/benyamindsmith/ig.degree.betweenness/) - an igraph implementation of the [Smith-Pittman](https://arxiv.org/abs/2411.01394) community detection algorithm (2024).
 
 ## [Sep 26, 2024](/content/2024/09/26/README.md)
 
@@ -65,7 +71,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / R
 
-*   [edgebundle (⭐124)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
+*   [edgebundle (⭐125)](https://github.com/schochastics/edgebundle) - Edge bundling algorithms, useful to e.g. draw networks of transport maps.
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
@@ -95,11 +101,11 @@ A curated list of awesome network analysis resources.
 
 ### Software / Java
 
-*   [GraphStore (⭐70)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
+*   [GraphStore (⭐71)](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
 
 ### Software / JavaScript
 
-*   [Gephi Lite (⭐189)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
+*   [Gephi Lite (⭐203)](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
 
 ### Software / Syntaxes
 
@@ -124,7 +130,7 @@ A curated list of awesome network analysis resources.
 ### Books / General Overviews
 
 *   *[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)*, by Laurent Beauguitte, in French (2023). [Readable online](https://beauguitte.github.io/analyse-de-reseau-en-shs/).
-*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐356)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+*   *[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)*, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub (⭐365)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 *   *[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)*, by David Easley and Jon Kleinberg - Full pre-publication draft ([review](http://bactra.org/reviews/networks-crowds-markets.html); 2010).
 *   *[The SAGE Handbook of Social Network Analysis](https://methods.sagepub.com/book/the-sage-handbook-of-social-network-analysis)*, edited by John Scott and Peter J. Carrington (2011).
 *   *[Social and Economic Networks](https://press.princeton.edu/books/paperback/9780691148205/social-and-economic-networks)*, by Matthew O. Jackson (2008).
@@ -145,7 +151,7 @@ A curated list of awesome network analysis resources.
 
 ### Datasets / Topic-specific
 
-*   [Hetionet: an integrative network of disease (⭐258)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+*   [Hetionet: an integrative network of disease (⭐265)](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 *   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 *   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 *   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
@@ -274,7 +280,7 @@ A curated list of awesome network analysis resources.
 
 *   [Cytoscape.js](https://js.cytoscape.org/) - Network analysis and visualization library.
 *   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
-*   [Popoto.js (⭐506)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+*   [Popoto.js (⭐516)](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
 *   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
 *   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
 
@@ -285,10 +291,10 @@ A curated list of awesome network analysis resources.
 ### Software / Python
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
-*   [cdlib (⭐366)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+*   [cdlib (⭐376)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 *   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     *   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
-    *   [nxviz (⭐451)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+    *   [nxviz (⭐456)](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 *   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 *   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 *   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
@@ -394,7 +400,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [graspologic (⭐776)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
+*   [graspologic (⭐815)](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks.
     *   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
 
 ## [Jun 06, 2020](/content/2020/06/06/README.md)
@@ -407,7 +413,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [littleballoffur (⭐700)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐702)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
@@ -435,7 +441,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [karateclub (⭐2.1k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
+*   [karateclub (⭐2.2k)](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
 
@@ -482,7 +488,7 @@ A curated list of awesome network analysis resources.
 
 ### Varia / Tutorials
 
-*   [Awesome graph classification (⭐4.7k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+*   [Awesome graph classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 
 ## [Jun 15, 2019](/content/2019/06/15/README.md)
 
@@ -637,7 +643,7 @@ A curated list of awesome network analysis resources.
 *   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks. Also a JavaScript library.
     *   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - Illustrated through an archaeological and geographical case study (2013).
 *   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
-    *   [IGraph/M (⭐89)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
+    *   [IGraph/M (⭐91)](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 *   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     *   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 *   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
@@ -664,10 +670,10 @@ A curated list of awesome network analysis resources.
     *   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 *   [Graphs.jl (⭐205)](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
     *   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
-    *   [MetaGraphs (⭐58)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
+    *   [MetaGraphs (⭐59)](https://github.com/JuliaGraphs/MetaGraphs.jl) - Graph data structures with multiple heterogeneous metadata for Graphs.jl.
 *   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
     *   [GraphVisualize.jl (⭐5)](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl (⭐247)](https://github.com/JuliaGL/GLVisualize.jl).
-    *   [LightGraphs.jl (⭐670)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+    *   [LightGraphs.jl (⭐672)](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
     *   [LightGraphsExtras.jl (⭐21)](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
     *   [NetworkLayout.jl (⭐96)](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
     *   [Networks.jl (⭐3)](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
@@ -700,7 +706,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [dash-cytoscape (⭐599)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+*   [dash-cytoscape (⭐605)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 
 ## [Dec 28, 2018](/content/2018/12/28/README.md)
 
@@ -1094,7 +1100,7 @@ A curated list of awesome network analysis resources.
 *   [EcologicalNetwork.jl (⭐68)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
 *   [MatrixNetworks.jl (⭐109)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐156)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [PhyloNetworks.jl (⭐158)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
 
 ## [Dec 31, 2016](/content/2016/12/31/README.md)
 
@@ -1166,7 +1172,7 @@ A curated list of awesome network analysis resources.
 
 ### Software / Python
 
-*   [PyGraphistry (⭐2.1k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
+*   [PyGraphistry (⭐2.2k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
 ## [Sep 09, 2016](/content/2016/09/09/README.md)
 
@@ -1280,7 +1286,7 @@ A curated list of awesome network analysis resources.
 *   [Bill Cosponsorship Networks in European Parliaments (⭐17)](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 *   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 *   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
-*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐13)](https://github.com/mangal-wg/rmangal)).
+*   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](https://doi.org/10.1101/002634), [Python package (⭐2)](https://github.com/mangal-wg/pymangal), [R package (⭐14)](https://github.com/mangal-wg/rmangal)).
 *   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 *   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 
@@ -1618,7 +1624,7 @@ A curated list of awesome network analysis resources.
 
 ### Books / Software-specific
 
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐293)](https://github.com/kolaczyk/sand); 2014).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐294)](https://github.com/kolaczyk/sand); 2014).
 
 ### Datasets / Topic-specific
 
@@ -1800,15 +1806,15 @@ A curated list of awesome network analysis resources.
 
 ### Software / JavaScript
 
-*   [jLouvain (⭐150)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+*   [jLouvain (⭐151)](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 
 ### Software / Python
 
 *   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
-*   [linkpred (⭐140)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+*   [linkpred (⭐141)](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 *   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### Software / R
 
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐543)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐545)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.

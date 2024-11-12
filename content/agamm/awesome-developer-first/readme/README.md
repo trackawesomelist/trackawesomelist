@@ -115,6 +115,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [Abstra](http://abstra.io/) - Python-based workflow engine for custom business processes. [![Abstra](https://img.shields.io/github/stars/abstra-app/abstra-lib?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/abstra-app/abstra-lib)
 *   [Lil'bots](https://www.lilbots.io/) - Create and deploy automation scripts in JavaScript or Python and deploy them to the cloud instantly, with free built-in APIs like OpenAI, Anthropic, and more.
 *   [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. [![n8n](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/n8n-io/n8n)
+*   [Potpie](https://potpie.ai) - Open source AI agents for your codebase in minutes. Use pre-built agents for Q\&A, testing, debugging and system design or create your own purpose-built agents. [![potpie](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/potpie-ai/potpie)
 *   [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. [![trigger.dev](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/triggerdotdev/trigger.dev)
 
 ## Backend-as-a-Service
@@ -231,7 +232,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 *   [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 *   [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ## Feature Flags
@@ -355,7 +356,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Helicone/helicone)
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 *   [KeenIO](https://keen.io/) - Event streaming platform.
-*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6.4k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
 *   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 *   [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.

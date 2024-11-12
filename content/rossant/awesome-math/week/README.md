@@ -6,6 +6,16 @@ A curated list of awesome mathematics resources
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Foundations of Mathematics / Transition To Pure Rigour Math
+
+*   📝 [Book of Proof](https://richardhammack.github.io/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
+
+### Geometry and Topology / Differential Geometry
+
+*   📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Youtube Series
@@ -168,7 +178,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐677)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐701)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -215,7 +225,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐337k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐338k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -274,10 +284,6 @@ A curated list of awesome mathematics resources
 *   📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
-
-### Foundations of Mathematics / Transition To Pure Rigour Math
-
-*   📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
 
 ### Mathematical Physics / Stochastic processes
 
@@ -934,7 +940,6 @@ A curated list of awesome mathematics resources
 ### Geometry and Topology / Differential Geometry
 
 *   📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-*   📝 [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
 *   📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 *   📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 *   📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)

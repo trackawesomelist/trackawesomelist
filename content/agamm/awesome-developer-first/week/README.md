@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Automation
+
+*   [Potpie](https://potpie.ai) - Open source AI agents for your codebase in minutes. Use pre-built agents for Q\&A, testing, debugging and system design or create your own purpose-built agents. [![potpie](https://img.shields.io/github/stars/potpie-ai/potpie?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/potpie-ai/potpie)
+
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
 ### Integrations
@@ -22,7 +28,7 @@ A curated list of awesome developer-first tools products.
 
 ### Monitoring
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6.4k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -676,7 +682,7 @@ A curated list of awesome developer-first tools products.
 
 ### Environment & Secret Management
 
-*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+*   [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs with secret management.
 
 ### Media
 

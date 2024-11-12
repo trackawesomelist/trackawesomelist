@@ -2,9 +2,21 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 3.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/agarrharr/awesome-macos-screensavers/week/README.md) / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
+
+## [Nov 12, 2024](/content/2024/11/12/README.md)
+
+### Apple Inspired
+
+### Flip Clock Screensaver
+
+> A flip clock screensaver that can automatically dim the screen.
+
+Free
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
 
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
@@ -20,7 +32,7 @@ Free (Open Source)
 
 ## [Jan 12, 2022](/content/2022/01/12/README.md)
 
-### Apple Inspired
+### Clocks
 
 ### MultiClock
 

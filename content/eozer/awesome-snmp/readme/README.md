@@ -57,7 +57,8 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### C\#
 
-*   [C# SNMP Library (⭐356)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples. \[#SNMP Pro]\(<https://pro.sharpsnmp.com]> is a commercial extension that adds enterprise MIB support.
+*   [C# SNMP Library (⭐356)](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
+*   [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
 *   [SnmpSharpNet (⭐80)](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Erlang

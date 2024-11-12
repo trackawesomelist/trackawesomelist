@@ -11,7 +11,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list (⭐89k)](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list (⭐90k)](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -95,7 +95,7 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 ## Version Control
 
-*   [Tower](https://www.git-tower.com/students/github) \[DISCOUNT] -  The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows. Free license for Tower Pro while you're a student.
+*   [Tower](https://www.git-tower.com/students/windows) \[FREE] -  Tower for Students provides free access to Tower "Pro" as a student. If you're enrolled as a student, you can use Tower "Pro" for free! Apply with your school email address.
 
 *   [GitKraken](https://www.gitkraken.com/github-student-developer-pack) \[FREE] - Pro version of the GitKraken Client. Sign into the desktop version after getting your [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -122,8 +122,6 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Digital Ocean](https://www.digitalocean.com) \[CREDIT] - Digital Ocean provides $200 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
 
 *   [RoseHosting](https://www.rosehosting.com) \[DISCOUNT] - RoseHosting offers education specific hosting as well as general shared and dedicated hosting.
-
-*   [Bip](https://bip.sh/students) \[DISCOUNT] - Static web hosting. Bip provides a 30% recurring discount per domain on your student account [on all plans](https://bip.sh/pricing).
 
 *   [Education Host](https://education.github.com/pack) \[FREE] - 50% web hosting for the first year for students. Available via [Github Student Developer Pack](https://education.github.com/pack).
 
