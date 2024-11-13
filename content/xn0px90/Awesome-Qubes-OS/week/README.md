@@ -28,6 +28,7 @@ A curated list of awesome qubes os links
 
 *   [Manually Verifying Hashes of Installed Files](https://forum.qubes-os.org/t/manually-verifying-hashes-of-installed-files/23833) -  This guide explains how to manually verifying hashes of installed files.
 *   [Pentesting: Parrot](https://qubes.3isec.org/Templates_4.2/) - Parrot Security is a Debian-based OS with over 600 tools for hacking, pentesting and software development. It is free, open source, secure, portable and customizable for various environments and devices
+*   [Prestium OS](https://forum.qubes-os.org/t/prestium-os-setup/22545) - Prestium OS is a Tails OS-like live linux distro.
 *   [Android VM options](https://forum.qubes-os.org/t/android-vm-options-and-blissos-installation-in-a-raw-vm-i-e-no-qubes-integration-collecting-all-realted-information/27582) -  There are multiple “android on PC” type distributions that one could try in a VM. Here are the 3!
 *   [Waydroid template](https://forum.qubes-os.org/t/waydroid-template/23356) - This guide is for setting up minimal Waydroid template.
 *   [Ubuntu 2022.4 minimal](https://qubes.3isec.org/Templates_4.2/) - Ubuntu 22.04 (Jammy Jellyfish) Releasesis an open-source software platform that runs everywhere from the PC to the server and the cloud.
@@ -48,9 +49,12 @@ A curated list of awesome qubes os links
 *   [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
 *   [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
 *   [Qubes Shutdown Idle Script (⭐4)](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness\_monitor), shuts it down.
+*   [qubes-ssh-agent (⭐3)](https://github.com/unman/qubes-ssh-agent) - This is an alternative approach to the existing qubes split-ssh.
 
 ### Customization
 
+*   [Playback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
+*   [qubes-salt-video-playback](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - Qubes SaltStack configuration of Videos Playback VM
 *   [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
 *   [Tiling XFCE ](https://forum.qubes-os.org/t/tiling-xfce-windows-with-shortcut-keys/22840) - Titled windows in XFCE with shortcut keys.
 *   [Dark Theme](https://forum.qubes-os.org/t/dark-theme-in-dom0/18997) -  The following text describes how to change the default light theme to a dark theme.
@@ -77,7 +81,7 @@ A curated list of awesome qubes os links
 
 ### Clearnet & Anonymous Networking / VLESS
 
-*   [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems. It is needed when wireguard is blocked.
+*   [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems.
 
 ### Clearnet & Anonymous Networking / Tor
 
@@ -114,6 +118,13 @@ A curated list of awesome qubes os links
 *   [ Opensnitch Nodes](https://forum.qubes-os.org/t/an-opensnitch-nodes-implementation-to-filter-outbound-traffic-from-multiple-qubes/29369) -A node is a daemon running on a machine. You can install the daemon on multiple machines, and manage them from the server
 *   [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
 *   [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
+*   [Salt Beginner's Guide](https://forum.qubes-os.org/t/qubes-salt-beginners-guide/20126) - Guide for beginners who enjoy an hands-on introduction with examples.
+*   [qubes-mgmt-salt-dom0-qvm (⭐13)](https://github.com/QubesOS/qubes-mgmt-salt-dom0-qvm#readme) - Salt can manage many Qubes settings via the qvm state module.
+*   [Virtual Machine Formulae](https://www.qubes-os.org/doc/salt/#virtual-machine-formulae) - Salt allows administrators to easily configure their systems. In this guide we will show how it is set up and how you can modify it for your own purpose.
+*   [Configuration Management](https://docs.gonzalobulnes.com/configuration_management.html) - A collection of guides about creating Salt formulas in Qubes OS and distributing them as RPM packages to take advantage of the secure updates mechanism for dom0.
+*   [Offcial Salt Documentation](https://docs.saltproject.io/en/latest/contents.html) - Salt is an event-driven automation tool and framework to deploy, configure, and manage complex IT systems.
+*   [Official Salt User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - Salt user guide
+*   [qusal (⭐20)](https://github.com/ben-grande/qusal) - Salt Formulas for Qubes OS.
 *   [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
 *   [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
 *   [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
@@ -145,15 +156,20 @@ A curated list of awesome qubes os links
 
 *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
+### Optics and Extra Info / Extra Info
+
+*   [Backups in Qubes](https://forum.qubes-os.org/t/backups-in-qubes-video/23234) - Learn how and why to back up your data on Qubes OS.
+
 ### Training and Materials / Extra Info
 
 *   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
     \[The Guardian]
 *   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
+*   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
 
 ### Social media / Extra Info
 
-*   [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum
+*   [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum room.
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
@@ -245,7 +261,6 @@ A curated list of awesome qubes os links
 ### Customization
 
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
-*   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [Wayland agent (⭐16)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 
 ### Troubleshooting
@@ -406,15 +421,15 @@ A curated list of awesome qubes os links
 *   [MemProcFS (⭐3.1k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
     *   [MemProcFS-Plugins (⭐55)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 
-### Qubes OS Legends / Extra Info
-
-*   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-
 ### Training and Materials / Extra Info
 
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
+
+### Qubes OS Legends / Extra Info
+
+*   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -486,16 +501,10 @@ A curated list of awesome qubes os links
 
 *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
 
-### Qubes OS Legends / Extra Info
-
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
-*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
-    *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-    *   [Unman Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
-
 ### Training and Materials / Extra Info
 
 *   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+    -[Qubes for Journalists (⭐18)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
 *   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
 *   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
@@ -509,6 +518,15 @@ A curated list of awesome qubes os links
 *   `#xen`      channel on irc.oftc.net via traditional IRC clients.
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
+
+### Qubes OS Legends / Extra Info
+
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+*   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
+    *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
+    *   [Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Notes (⭐37)](https://github.com/unman/notes) - a good reference
+    *   [Shaker (⭐18)](https://github.com/unman/shaker) - Shaker!
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -640,6 +658,14 @@ A curated list of awesome qubes os links
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
 
+### Companies using Qubes OS / Extra Info
+
+*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
+
+### Social media / Extra Info
+
+*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
+
 ### Qubes OS Legends / Extra Info
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
@@ -650,14 +676,6 @@ A curated list of awesome qubes os links
         Part Two
     *   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf) - Xen 0wning Trilogy Part Three
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
-
-### Companies using Qubes OS / Extra Info
-
-*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
-
-### Social media / Extra Info
-
-*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
 
 ### Releases / Extra Info
 

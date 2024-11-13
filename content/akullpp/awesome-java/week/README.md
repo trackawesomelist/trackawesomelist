@@ -6,6 +6,24 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 [ [Daily](/content/akullpp/awesome-java/README.md) / Weekly / [Overview](/content/akullpp/awesome-java/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Architecture
+
+*   [jMolecules (⭐1.2k)](https://github.com/xmolecules/jmolecules) - Annotations and interfaces to express design and architecture concepts in code.
+
+### Build
+
+*   [Buck2 (⭐3.6k)](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
+
+### Dependency Injection / Text-Based User Interfaces
+
+*   [HK2](https://eclipse-ee4j.github.io/glassfish-hk2/) - Lightweight and dynamic dependency injection framework.
+
+### Logging / Text-Based User Interfaces
+
+*   [Flogger](https://google.github.io/flogger/) - Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
+
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
 ### Native / Text-Based User Interfaces
@@ -147,7 +165,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Code Analysis / Text-Based User Interfaces
 
-*   [RefactorFirst (⭐445)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
+*   [RefactorFirst (⭐457)](https://github.com/jimbethancourt/RefactorFirst) - Identifies and prioritizes God Classes and Highly Coupled classes.
 
 ### Code Generators / Text-Based User Interfaces
 
@@ -356,7 +374,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Database / Text-Based User Interfaces
 
 *   [QueryStream (⭐17)](https://github.com/querystream/querystream) - Build JPA Criteria queries using a Stream-like API.
-*   [QuestDB (⭐14k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+*   [QuestDB (⭐15k)](https://github.com/questdb/questdb) - High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 *   [Spring Data JPA MongoDB Expressions (⭐95)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 *   [Trino](https://trino.io) - Distributed SQL query engine for big data.
 
@@ -444,7 +462,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐7.9k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -495,7 +513,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Financial / Text-Based User Interfaces
 
-*   [ta4j (⭐2k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
+*   [ta4j (⭐2.1k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Security / Other
 
@@ -509,7 +527,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Security / Other
 
-*   [Password4j (⭐353)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
+*   [Password4j (⭐355)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
 
@@ -760,7 +778,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Testing / Asynchronous
 
-*   [Karate (⭐8.1k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
+*   [Karate (⭐8.3k)](https://github.com/intuit/karate) - DSL that combines API test-automation, mocks and performance-testing making testing REST/HTTP services easy.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
@@ -840,7 +858,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Dependency Injection / Text-Based User Interfaces
 
 *   [Dagger](https://dagger.dev/) - Compile-time injection framework without reflection.
-*   [HK2](https://javaee.github.io/hk2/) - Lightweight and dynamic dependency injection framework.
 
 ### Development / Text-Based User Interfaces
 
@@ -854,7 +871,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Hazelcast (⭐6.1k)](https://github.com/hazelcast/hazelcast) - Highly scalable in-memory datagrid with a free open-source version.
 *   [Quasar](http://docs.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 *   [ScaleCube Services (⭐611)](https://github.com/scalecube/scalecube-services) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
-*   [Zuul (⭐13k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+*   [Zuul (⭐14k)](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Distributed Transactions / Text-Based User Interfaces
 
@@ -959,7 +976,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Microservice / Text-Based User Interfaces
 
-*   [Apollo](https://spotify.github.io/apollo/) - Libraries for writing composable microservices.
 *   [Armeria (⭐4.8k)](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 *   [consul-api (⭐417)](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 *   [Eureka (⭐12k)](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
@@ -990,7 +1006,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Networking / Text-Based User Interfaces
 
-*   [Dubbo (⭐40k)](https://github.com/apache/dubbo) - High-performance RPC framework.
+*   [Dubbo (⭐41k)](https://github.com/apache/dubbo) - High-performance RPC framework.
 *   [Grizzly](https://javaee.github.io/grizzly/) - NIO framework. Used as a network layer in Glassfish.
 *   [Drift (⭐243)](https://github.com/airlift/drift) - Easy-to-use, annotation-based library for creating Thrift clients and serializable types.
 
@@ -1080,7 +1096,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Platform / Other
 
 *   [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
-*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐314)](https://github.com/networknt/light-oauth2/).
+*   [Light-4J (⭐3.6k)](https://github.com/networknt/light-4j/) - Fast, lightweight and productive microservices framework with built-in [security (⭐315)](https://github.com/networknt/light-oauth2/).
 *   [Orienteer (⭐243)](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 *   [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
@@ -1120,7 +1136,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Testing / Asynchronous
 
 *   [Awaitility (⭐3.8k)](https://github.com/awaitility/awaitility) - DSL for synchronizing asynchronous operations.
-*   [REST Assured (⭐6.8k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
+*   [REST Assured (⭐6.9k)](https://github.com/rest-assured/rest-assured) - DSL for easy testing of REST/HTTP services.
 
 ### Testing / BDD
 
@@ -1273,7 +1289,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Introspection / Text-Based User Interfaces
 
-*   [ClassGraph (⭐2.7k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
+*   [ClassGraph (⭐2.8k)](https://github.com/classgraph/classgraph) - ClassGraph (formerly FastClasspathScanner) is an uber-fast, ultra-lightweight, parallelized classpath scanner and module scanner for Java, Scala, Kotlin and other JVM languages.
 *   [ReflectASM (⭐1.5k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.7k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
@@ -1530,7 +1546,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
 *   [OpenJ9 (⭐3.3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
@@ -1598,6 +1613,10 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
+### Architecture
+
+*   [ArchUnit (⭐3.2k)](https://github.com/TNG/ArchUnit) - Test library for specifying and asserting architecture rules.
+
 ### Bean Mapping
 
 *   [MapStruct (⭐7.1k)](https://github.com/mapstruct/mapstruct) - Code generator that simplifies mappings between different bean types, based on a convention-over-configuration approach.
@@ -1607,7 +1626,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Build
 
 *   [Apache Maven](https://maven.apache.org) - Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
-*   [Buck (⭐8.6k)](https://github.com/facebook/buck) - Encourages the creation of small, reusable modules consisting of code and resources.
 *   [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 ### Bytecode Manipulation
@@ -1618,11 +1636,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 *   [Caffeine (⭐16k)](https://github.com/ben-manes/caffeine) - High-performance, near-optimal caching library.
 *   [Ehcache](http://www.ehcache.org) - Distributed general-purpose cache.
-
-### Cluster Management / Text-Based User Interfaces
-
-*   [Apache Aurora](https://aurora.apache.org) - Mesos framework for long-running services and cron jobs.
-*   [Singularity](http://getsingularity.com) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
 ### Code Analysis / Text-Based User Interfaces
 
@@ -1705,7 +1718,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Apache ZooKeeper](https://zookeeper.apache.org) - Coordination service with distributed configuration, synchronization, and naming registry for large distributed systems.
 *   [Failsafe (⭐4.2k)](https://github.com/jhalterman/failsafe) - Simple failure handling with retries and circuit breakers.
 *   [JGroups](http://www.jgroups.org) - Toolkit for reliable messaging and cluster creation.
-*   [resilience4j (⭐9.7k)](https://github.com/resilience4j/resilience4j) - Functional fault tolerance library.
+*   [resilience4j (⭐9.8k)](https://github.com/resilience4j/resilience4j) - Functional fault tolerance library.
 
 ### Distributed Transactions / Text-Based User Interfaces
 
@@ -1894,7 +1907,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Science / Other
 
-*   [Erdos (⭐126)](https://github.com/Erdos-Graph-Framework/Erdos) - Modular, light and easy graph framework for theoretic algorithms.
+*   [Erdos (⭐127)](https://github.com/Erdos-Graph-Framework/Erdos) - Modular, light and easy graph framework for theoretic algorithms.
 *   [GraphStream](http://graphstream-project.org) - Library for modeling and analyzing dynamic graphs.
 *   [JGraphT (⭐2.6k)](https://github.com/jgrapht/jgrapht) - Graph library that provides mathematical graph-theory objects and algorithms.
 *   [JGraphX (⭐669)](https://github.com/jgraph/jgraphx) - Library for visualizing (mainly Swing) and interacting with node-edge graphs.
@@ -1954,7 +1967,6 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Testing / Frameworks
 
-*   [ArchUnit (⭐3.2k)](https://github.com/TNG/ArchUnit) - Test library for specifying and asserting architecture rules.
 *   [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
 *   [Arquillian](http://arquillian.org) - Integration and functional testing platform for Java EE containers.
 *   [Citrus](https://citrusframework.org) - Integration testing framework that focuses on both client- and server-side messaging.

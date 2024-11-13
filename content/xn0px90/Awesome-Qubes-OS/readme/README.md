@@ -47,10 +47,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
         *   [Xen Exploitation](#xen-exploitation)
         *   [Web articles](#web-articles)
     *   [Optics and Extra Info](#optics-and-extra-info)
-    *   [Qubes OS Legends](#qubes-os-legends)
     *   [Training and Materials](#training-and-materials)
     *   [Companies using Qubes OS](#companies-using-qubes-os)
     *   [Social media](#social-media)
+    *   [Qubes OS Legends](#qubes-os-legends)
     *   [Contributing](#contributing)
     *   [Releases](#releases)
     *   [Adventure Further](#adventure-further)
@@ -146,6 +146,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
 *   [Qvm-Create-Windows-Qube (⭐346)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Prestium OS](https://forum.qubes-os.org/t/prestium-os-setup/22545) - Prestium OS is a Tails OS-like live linux distro.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/) - Describes template implementation.
@@ -200,6 +201,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
 *   [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
 *   [Qubes Shutdown Idle Script (⭐4)](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness\_monitor), shuts it down.
+*   [qubes-ssh-agent (⭐3)](https://github.com/unman/qubes-ssh-agent) - This is an alternative approach to the existing qubes split-ssh.
 
 ## Customization
 
@@ -214,7 +216,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Suckless dwm (⭐12)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
 *   [Qubes-Scripts (⭐11)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
-*   [PLayback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
+*   [Playback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
+*   [qubes-salt-video-playback](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - Qubes SaltStack configuration of Videos Playback VM
 *   [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
 *   [Wayland agent (⭐16)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 *   [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
@@ -273,7 +276,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ### VLESS
 
-*   [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems. It is needed when wireguard is blocked.
+*   [VLESS obfuscation VPN](https://forum.qubes-os.org/t/vless-obfuscation-vpn/20438) - The protocol mimics a long-running https session of Chrome and is hard to detect by DPI systems.
 
 ### Tor
 
@@ -346,6 +349,13 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [ Opensnitch Nodes](https://forum.qubes-os.org/t/an-opensnitch-nodes-implementation-to-filter-outbound-traffic-from-multiple-qubes/29369) -A node is a daemon running on a machine. You can install the daemon on multiple machines, and manage them from the server
 *   [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
 *   [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
+*   [Salt Beginner's Guide](https://forum.qubes-os.org/t/qubes-salt-beginners-guide/20126) - Guide for beginners who enjoy an hands-on introduction with examples.
+*   [qubes-mgmt-salt-dom0-qvm (⭐13)](https://github.com/QubesOS/qubes-mgmt-salt-dom0-qvm#readme) - Salt can manage many Qubes settings via the qvm state module.
+*   [Virtual Machine Formulae](https://www.qubes-os.org/doc/salt/#virtual-machine-formulae) - Salt allows administrators to easily configure their systems. In this guide we will show how it is set up and how you can modify it for your own purpose.
+*   [Configuration Management](https://docs.gonzalobulnes.com/configuration_management.html) - A collection of guides about creating Salt formulas in Qubes OS and distributing them as RPM packages to take advantage of the secure updates mechanism for dom0.
+*   [Offcial Salt Documentation](https://docs.saltproject.io/en/latest/contents.html) - Salt is an event-driven automation tool and framework to deploy, configure, and manage complex IT systems.
+*   [Official Salt User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - Salt user guide
+*   [qusal (⭐20)](https://github.com/ben-grande/qusal) - Salt Formulas for Qubes OS.
 *   [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
 *   [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
 *   [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
@@ -433,6 +443,48 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
 *   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
 *   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
+*   [Backups in Qubes](https://forum.qubes-os.org/t/backups-in-qubes-video/23234) - Learn how and why to back up your data on Qubes OS.
+
+## Training and Materials
+
+*   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+    -[Qubes for Journalists (⭐18)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
+*   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
+*   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
+*   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
+*   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
+    *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
+    *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
+*   [The Book of Secret Knowledge (⭐148k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
+    \[The Guardian]
+*   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
+*   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
+
+## Companies using Qubes OS
+
+*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
+
+## Social media
+
+The Qubes OS Project has a presence on the following social media platforms:
+
+*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
+*   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
+*   [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum room.
+*   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
+*   [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
+*   [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
+*   [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
+*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
+*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
+*   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
+*   [Reddit hacking\_qubes\_os](https://www.reddit.com/r/hacking_qubes_os) - Reddit room dedicated to hacking Qubes OS
+*   [Reddit hack\_with\_qubes\_os](https://www.reddit.com/r/hack_with_qubes_os) - Reddit room dedicated to hacking with Qubes OS
+*   [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account
+*   `#xen`      channel on irc.oftc.net via traditional IRC clients.
+*   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
+*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
 ## Qubes OS Legends
 
@@ -447,48 +499,11 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
     *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-    *   [Unman Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Notes (⭐37)](https://github.com/unman/notes) - a good reference
+    *   [Shaker (⭐18)](https://github.com/unman/shaker) - Shaker!
 *   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
 *   [ClaraCrazy (⭐39)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
-
-## Training and Materials
-
-*   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
-*   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
-*   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
-*   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
-*   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
-    *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
-    *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
-*   [The Book of Secret Knowledge (⭐148k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-*   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
-    \[The Guardian]
-*   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
-
-## Companies using Qubes OS
-
-*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
-
-## Social media
-
-The Qubes OS Project has a presence on the following social media platforms:
-
-*   [ClubHouse](https://www.clubhouse.com/house/qubes-os) - Qubes OS Clubhouse Room
-*   [Discord](https://discord.gg/YMUbTt7ZRG) - Qubes OS discord invite link
-*   [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum
-*   [Facebook](https://www.facebook.com/QubesOS/) - Qubes OS facebook page
-*   [Forum](https://forum.qubes-os.org/) - Qubes OS Discorse Forum
-*   [LinkedIn](https://www.linkedin.com/company/qubes-os/) - Qubes OS linkedin account
-*   [Mastodon](https://mastodon.social/@QubesOS) - Qubes OS Mastodon channel
-*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org) - Qubes OS Discord General Room Bridge
-*   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org) - General Qubes OS matrix room
-*   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/) - General Qubes OS Reddit room.
-*   [Reddit hacking\_qubes\_os](https://www.reddit.com/r/hacking_qubes_os) - Reddit room dedicated to hacking Qubes OS
-*   [Reddit hack\_with\_qubes\_os](https://www.reddit.com/r/hack_with_qubes_os) - Reddit room dedicated to hacking with Qubes OS
-*   [Twitter](https://twitter.com/QubesOS) - Qubes OS Twitter account
-*   `#xen`      channel on irc.oftc.net via traditional IRC clients.
-*   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
-*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
 ## Releases
 

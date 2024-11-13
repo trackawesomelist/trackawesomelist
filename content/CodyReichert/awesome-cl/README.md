@@ -6,6 +6,17 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Nov 13, 2024](/content/2024/11/13/README.md)
+
+### HTTP Servers / Clack plugins
+
+*   [clack-cors](https://40ants.com/clack-cors/) - A Clack middleware to set CORS related HTTP headers. — Unlicense.
+*   [clack-promotheus](https://40ants.com/clack-prometheus/) - Clack middleware to serve stats in Prometheus format. Unlicense.
+
+### HTML generators and templates / Isomorphic web frameworks
+
+*   [hsx (⭐20)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Mobile
@@ -511,6 +522,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Others / Third-party APIs
 
 *   [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT](https://opensource.org/licenses/MIT).
+    *   includes example bots such as a calculator, payment with invoices, an actor-based bot…
+    *   automatic API spec parser
     *   [cl-telegram-bot-auto-api (⭐7)](https://github.com/aartaka/cl-telegram-bot-auto-api) - Alternative Telegram Bot API bindings, auto-generated from Telegram website. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [Apr 12, 2023](/content/2023/04/12/README.md)
@@ -898,6 +911,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [SBCL-GOODIES (⭐34)](https://github.com/sionescu/sbcl-goodies) - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT](https://opensource.org/licenses/MIT).
     *   [Nightly Windows builds of SBCL (⭐1)](https://github.com/olnw/sbcl-builds) -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds (⭐9)](https://github.com/roswell/sbcl_bin/releases/).
     *   [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
+    *   \[WIP, 2021] [Static Executables with SBCL](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html).
 
 ### Changing the syntax
 
@@ -1638,7 +1652,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [flute (⭐64)](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
 *   [lsx (⭐79)](https://github.com/fukamachi/lsx/) and [markup (⭐70)](https://github.com/moderninterpreters/markup) - Two JSX-like templating engines, where HTML tags are Common Lisp code. `markup` comes with an Emacs package.
 
 ### Utils / Third-party APIs
