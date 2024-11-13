@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Nov 13, 2024](/content/2024/11/13/README.md)
+
+### Resources / Blog posts
+
+*   [The Polars vs pandas Difference Nobody is Talking About](https://labs.quansight.org/blog/dataframe-group-by?utm_campaign=Polars\&utm_medium=Social\&utm_source=Medium\&utm_content=Labs\&utm_term=Blog) - A blog post that talks about non-elementary group-by aggregations with Polars by [@marcogorelli](https://github.com/marcogorelli).
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Resources / Blog posts

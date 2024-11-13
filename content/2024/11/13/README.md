@@ -1,12 +1,48 @@
 # Awesome List Updates on Nov 13, 2024
 
-5 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [The Polars vs pandas Difference Nobody is Talking About](https://labs.quansight.org/blog/dataframe-group-by?utm_campaign=Polars\&utm_medium=Social\&utm_source=Medium\&utm_content=Labs\&utm_term=Blog) - A blog post that talks about non-elementary group-by aggregations with Polars by [@marcogorelli](https://github.com/marcogorelli).
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Abduction / Applications in AI
+
+*   [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121) - ***Journal of Logic Computation***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518)]. This paper is a survey and critical overview of recent work on the extension of logic programming to perform abductive reasoning (abductive logic programming). The authors outline the general framework of abduction and its applications to knowledge assimilation and default reasoning; and they introduce an argumentation-theoretic approach to the use of abduction as an interpretation for negation as failure.
+
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Autonomous LLM Agents / Multi-agents
+
+*   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
+
+## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+
+### Featured On
+
+*   [Kubernetes from scratch](https://medium.com/@ghumare64/kubernetes-from-scratch-part-1-4b40cb6c1aba) by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
+
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.
+
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Software Architecture
+
+*   [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
+
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Architecture
 
@@ -24,7 +60,7 @@
 
 *   [Flogger](https://google.github.io/flogger/) - Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Clack plugins
 
@@ -35,7 +71,7 @@
 
 *   [hsx (⭐20)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -100,7 +136,7 @@
 
 *   [OpenAPI (ex.Swagger) (⭐29k) (⭐29k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
 
-## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Templates
 
@@ -133,7 +169,7 @@
 
 *   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
 
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### C / Syntax highlighting packages
 

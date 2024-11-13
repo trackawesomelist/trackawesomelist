@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 13, 2024](/content/2024/11/13/README.md)
+
+### Autonomous LLM Agents / Multi-agents
+
+*   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Autonomous LLM Agents / Multi-agents

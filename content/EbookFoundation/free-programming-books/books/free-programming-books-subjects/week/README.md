@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
+
+### Software Architecture
+
+*   [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
+
 ## [Nov 04 - Nov 10, 2024](/content/2024/45/README.md)
 
 ### Artificial Intelligence

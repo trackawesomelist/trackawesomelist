@@ -10,6 +10,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Autonomous LLM Agents / Multi-agents
 
+*   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 *   [Multi-Agent Research Outline](https://thinkwee.top/multiagent_ebook/index.html): an interactive eBook that compiles an extensive collection of research papers on large language model (LLM)-based multi-agent systems
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
