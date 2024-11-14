@@ -12,6 +12,14 @@
 
 *   [ngx-clarity (⭐18)](https://github.com/jadengis/ngx-clarity) - A useful Angular library that automatically injects the script tag required to use [Microsoft Clarity](https://clarity.microsoft.com/).
 
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-devkit-builders (⭐2)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
+
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-suspense-of (⭐6)](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
+
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-pendo (⭐16)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
@@ -21,6 +29,8 @@
 
 *   [translate (⭐23)](https://github.com/ngstack/translate) - Translation library for Angular and Ionic applications.
 *   [ngx-merge-json-translations (⭐1)](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
+*   [ngx-i18n-extract-regex-cli (⭐2)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
+*   [ngx-translate-version (⭐3)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -31,6 +41,10 @@
 *   [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
 *   [ngtx (⭐9)](https://github.com/Centigrade/ngtx) - `ngtx` stands for "A**ng**ular **T**esting E**x**tensions" and is a small set of functions aiming to make your life easier when testing Angular components.
 *   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.
+
+### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-update-app (⭐3)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -43,6 +57,15 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-draw-flow (⭐9)](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes. It allows you to create both simple diagrams and complex editors for building customised charts and graphs.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-nullable (⭐2)](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
+*   [ngx-if-platform (⭐5)](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+*   [ngx-cut (⭐5)](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
+*   [ngx-app-version (⭐3)](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
+*   [ngx-repeat (⭐3)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
+*   [ngx-fixed-footer (⭐3)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

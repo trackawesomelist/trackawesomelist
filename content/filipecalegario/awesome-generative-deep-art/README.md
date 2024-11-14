@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 14, 2024](/content/2024/11/14/README.md)
+
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Machines of Loving Grace - How AI Could Transform the World for the Better by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
+
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
 ### Autonomous LLM Agents / Multi-agents

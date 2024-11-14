@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [Machines of Loving Grace - How AI Could Transform the World for the Better by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
+
 ### Autonomous LLM Agents / Multi-agents
 
 *   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights

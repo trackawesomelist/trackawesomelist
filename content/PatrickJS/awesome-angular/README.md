@@ -6,6 +6,34 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Nov 14, 2024](/content/2024/11/14/README.md)
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-devkit-builders (⭐2)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
+
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-suspense-of (⭐6)](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
+
+### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-i18n-extract-regex-cli (⭐2)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
+*   [ngx-translate-version (⭐3)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
+
+### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-update-app (⭐3)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-nullable (⭐2)](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
+*   [ngx-if-platform (⭐5)](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+*   [ngx-cut (⭐5)](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
+*   [ngx-app-version (⭐3)](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
+*   [ngx-repeat (⭐3)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
+*   [ngx-fixed-footer (⭐3)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
+
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
