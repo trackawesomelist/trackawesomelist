@@ -2,9 +2,40 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 28K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 35K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Nov 14, 2024](/content/2024/11/14/README.md)
+
+### Job boards
+
+*   [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
+*   [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
+*   [thatmlopsguy/remote-pt (⭐1)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+*   [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+
+### Interviewing
+
+*   [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
+
+### Companies with "remote DNA"
+
+*   [Bilsteingroup](https://bilsteingroup.com/en/career/) - Automotive spare parts. Python, Java, Postgres. Teams accross Europe. HQ in Germany.
+*   [Cadasta](https://cadasta.org/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
+*   [TestGrid](https://www.testgrid.io/) - TestGrid is a leading provider of end-to-end automation cloud and on-premise testing solutions. With a focus on simplifying the testing process, TestGrid's innovative AI-powered technology allows organizations to streamline their end to end testing process. Hiring developers, sales & marketing folks worldwide.
+*   [Neon Postgres Database](https://neon.tech/careers) - Neon is a distributed fully remote team building open-source, cloud-native Postgres and Neon is an open-source alternative to AWS Aurora or Google's Cloud SQL for Postgres.
+*   [Pinterest](https://www.pinterestcareers.com/jobs/#results) - Pinterest does hire people to work remote jobs. So, they're "remote-ish"
+*   [SearchApi](https://www.searchapi.io/) - Real-time API to access structured search results of Google, Bing, Baidu, Amazon, Youtube, and other search engines. Ruby, Rails, Hotwire, TailwindCSS, PostgreSQL, Redis, Sidekiq, Terraform.
+*   [Shiphero](https://shiphero.breezy.hr/?\&remote=remote#positions) - ShipHero builds a fully featured Warehouse Management System. 100% remote.
+
+### Tools / Project Management
+
+*   [gantt-online](https://www.gantt-online.com/) - Gantt Chart Project Management Tool.
+
+### Others / Others
+
+*   [Websoft9 (⭐2.2k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
 
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
@@ -41,12 +72,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Customer.io](https://customer.io/careers/) - Customer engagement platform. 100% remote and globally distributed team. Go, MySQL, Typescript, Ember, React, etc
 *   [Truelogic](https://www.truelogic.io/careers) - Outsourcing company focused on Latin America talent for US companies
 
-## [Jun 10, 2023](/content/2023/06/10/README.md)
-
-### Job boards
-
-*   [Dev Employ](https://devemploy.com) Hand-picked developer jobs
-
 ## [Apr 17, 2023](/content/2023/04/17/README.md)
 
 ### Companies with "remote DNA"
@@ -61,7 +86,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [LGBTQ Remotely](https://lgbtqremotely.com/) – Democratizing remote job opportunities for the LGBTQ+ community.
 *   [Remote Backend Jobs](https://remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
 *   [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
 *   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
@@ -244,7 +268,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [SoftwareMill](https://softwaremill.com/join-us/)
 *   [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 *   [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
-*   [Sourcegraph (⭐131)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+*   [Sourcegraph (⭐132)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 *   [StackExchange](https://stackoverflow.com/company/work-here)
 *   [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
 *   [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
@@ -274,7 +298,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
 *   [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
 *   [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
-*   [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
 *   [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
 *   [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
 *   [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
@@ -301,7 +324,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
 *   [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
 *   [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-*   [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
 *   [Working Nomads](https://www.workingnomads.co/jobs)
@@ -517,7 +539,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
 *   [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
 *   [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
-*   [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
 *   [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
 *   [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
 *   [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
@@ -633,7 +654,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 *   [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
-*   [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
 *   [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
 *   [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
 *   [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
@@ -649,7 +669,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐1.9k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐2.2k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -791,7 +811,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐901)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Apr 30, 2019](/content/2019/04/30/README.md)
 
@@ -839,7 +859,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐6.9k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐7.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -966,12 +986,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
 
-## [Jul 23, 2018](/content/2018/07/23/README.md)
-
-### Job boards
-
-*   [Find Bacon](https://findbacon.com) - Design and Dev jobs
-
 ## [Jul 12, 2018](/content/2018/07/12/README.md)
 
 ### Job boards
@@ -983,12 +997,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [HackerX](https://www.hackerx.org/jobs/)
-
-## [Jun 14, 2018](/content/2018/06/14/README.md)
-
-### Job boards
-
-*   [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
 
 ## [May 23, 2018](/content/2018/05/23/README.md)
 
@@ -1143,7 +1151,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [remote-jobs (⭐28k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐30k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 
 ## [Sep 15, 2017](/content/2017/09/15/README.md)
 
@@ -1211,13 +1219,13 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐863)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐900)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13, 2017](/content/2017/03/13/README.md)
 
 ### Others / Others
 
-*   [Remote Working (⭐9.7k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐10k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [Feb 14, 2017](/content/2017/02/14/README.md)
 
@@ -1242,17 +1250,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
 *   [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
 *   [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
 
-### Housing
-
-*   [Roam](https://www.roam.co/) - Global network of coliving spaces
-
 ### Interviewing
 
-*   [awesome-interviews (⭐68k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐71k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 
 ### Podcasts
 
@@ -1361,12 +1364,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Companies with "remote DNA"
 
 *   [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
-
-## [Oct 27, 2016](/content/2016/10/27/README.md)
-
-### Companies with "remote DNA"
-
-*   [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
 
 ## [Oct 26, 2016](/content/2016/10/26/README.md)
 

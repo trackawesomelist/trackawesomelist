@@ -13,12 +13,26 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   Celebrate and learn about what you can do with .NET 9 at the biggest .NET virtual event.
 *   More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor\&utm_medium=github).
 
+### CMS
+
+*   [FluentCMS (⭐199)](https://github.com/fluentcms/FluentCMS) - ![GitHub stars](https://img.shields.io/github/stars/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fluentcms/FluentCMS?style=flat-square\&cacheSeconds=86400) FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS) [FluentCMS](https://fluentcms.com/).
+*   [ZauberCMS (⭐59)](https://github.com/YodasMyDad/ZauberCMS) - ![stars](https://img.shields.io/github/stars/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YodasMyDad/ZauberCMS?style=flat-square\&cacheSeconds=86400) Fully featured, highly customisable and plugin based Blazor CMS, heavily inspired by Umbraco.
+
+### Others
+
+*   [Pointing Party (⭐4)](https://github.com/martijn/PointingParty) - ![last commit](https://img.shields.io/github/last-commit/martijn/PointingParty?style=flat-square\&cacheSeconds=86400) A tool for distributed agile story point estimation ceremonies, using Blazor WebAssembly and SignalR. [Demo](https://pointingparty.com).
+
 ### Component bundles
 
 *   [BootstrapBlazor (⭐2.6k)](https://github.com/dotnetcore/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Bootstrap and Blazor ([Docs as Demo](https://www.blazor.zone/)).
 
+### Real-World applications / Others
+
+*   [FairPlayCombined (⭐26)](https://github.com/pticostaricags/FairPlayCombined) - ![GitHub stars](https://img.shields.io/github/stars/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pticostaricags/FairPlayCombined?style=flat-square\&cacheSeconds=86400) The FairPlay platform is a set of pre-built customizable solutions created with Blazor.
+
 ### Videos / Others
 
+*   [What's New for ASP.NET Core & Blazor in .NET 9](https://www.youtube.com/watch?v=2xXc1hNwp0o) - November 14, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-40%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Find out about all the new features coming to ASP.NET Core & Blazor for web developers in .NET 9.
 *   [ASP.NET Community Standup - Making DevToys 2.0 cross-platform with Blazor Hybrid](https://www.youtube.com/watch?v=8yM4jDooWcM) - October 29, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Learn about how the developers of DevToys leveraged a custom flavor of Blazor Hybrid to make DevToys 2.0 cross-platform.
 *   [What's Next for ASP.NET Core & Blazor](https://www.youtube.com/watch?v=o0CWssf8TFw) - August 22, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-75%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Find out about all the new features coming to ASP.NET Core & Blazor for web developers in .NET 9.
 *   [Build interactive AI-powered web apps with Blazor and .NET](https://www.youtube.com/watch?v=z7V-_JVF_Zo) - August 21, 2024![duration](https://img.shields.io/badge/Duration:%20-36%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Learn how you can quickly and easily build interactive AI-powered web apps with Blazor and .NET using a variety of ready-made AI components from the .NET ecosystem.
@@ -1638,7 +1652,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Machine Learning
 
 *   [Scalable sentiment analysis (⭐4.5k)](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/end-to-end-apps/ScalableSentimentAnalysisBlazorWebApp) - ![stars](https://img.shields.io/github/stars/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/dotnet/machinelearning-samples?style=flat-square\&cacheSeconds=86400) A sample ables to make sentiment analysis prediction/detection of what the user is writing in a very UI interactive app (Blazor based) in the client side and running an ML.NET model (Sentiment analysis based on binary-classification) in the server side.
-*   [optimizer.ml (⭐57)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐9.8k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
+*   [optimizer.ml (⭐57)](https://github.com/jameschch/LeanParameterOptimization) - ![stars](https://img.shields.io/github/stars/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/jameschch/LeanParameterOptimization?style=flat-square\&cacheSeconds=86400) A "server-less" general purpose optimization suite for algorithm parameters. Also provides offline optimization of [Quantconnect Lean (⭐9.9k)](https://github.com/QuantConnect/Lean) trading algorithms. [Demo (https://optimizer.ml)](https://optimizer.ml).
 *   [Baseball Machine Learning Workbench (⭐48)](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![stars](https://img.shields.io/github/stars/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square\&cacheSeconds=86400) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
 *   [BlazorML5 (⭐54)](https://github.com/sps014/BlazorML5) - ![last-commit](https://img.shields.io/github/last-commit/sps014/BlazorML5?style=flat-square\&cacheSeconds=86400) ML5 Machine Learning for Blazor with JSInterop mechanism.
 
