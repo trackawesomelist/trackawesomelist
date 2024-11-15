@@ -136,6 +136,7 @@ See [Vivraan/godot-lang-support (⭐324)](https://github.com/Vivraan/godot-lang-
 *   [GATT - Godot Autotile Texture Templater (⭐31)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
 *   [Godello (⭐799)](https://github.com/alfredbaudisch/Godello) - A Trello-like kanban board application made with Godot. A proof of concept for complex non-game applications with Godot, as well real-time online interactions between multiple users. Includes backend code.
 *   [Material Maker (⭐3.5k)](https://github.com/RodZill4/material-maker) - Create PBR materials procedurally (similar to Substance Designer).
+*   [SimulaVR (⭐3k)](https://github.com/SimulaVR/Simula) - A VR window manager for Linux, built on top of Godot engine.
 *   [vpuppr (⭐744)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ## Templates
@@ -221,9 +222,10 @@ See [Vivraan/godot-lang-support (⭐324)](https://github.com/Vivraan/godot-lang-
 *   [Maaack's Scene Loader (⭐25)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 *   [Orchestrator (⭐984)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 *   [PixelPen (⭐99)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
-*   [QuestSystem (⭐286)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+*   [Quest Manager (⭐8)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
+*   [QuestSystem (⭐288)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 *   [Scene Manager (⭐353)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
-*   [Shaker (⭐252)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐260)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 *   [SignalVisualizer (⭐394)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 *   [Simplified Flight Simulation library (⭐190)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 *   [SmartShape2D (⭐1.4k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool. *(Godot 3 and 4)*
@@ -340,7 +342,7 @@ See [Vivraan/godot-lang-support (⭐324)](https://github.com/Vivraan/godot-lang-
 *   [godot-jolt (⭐2.2k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐6.7k)](https://github.com/jrouwe/JoltPhysics).
 *   [godot-luaAPI (⭐392)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
 *   [godot-rapier-2d (⭐408)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4k)](https://github.com/dimforge/rapier) physics server for Godot.
-*   [Keyring (⭐2)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [Keyring (⭐4)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 *   [Texture Packer (⭐62)](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime. *(Godot 3 and 4)*
 *   [Voxelman (⭐97)](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability. *(Godot 3 and 4)*
 

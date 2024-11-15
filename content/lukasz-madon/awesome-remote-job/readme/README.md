@@ -282,14 +282,15 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Newsletters
 
 1.  [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
-2.  [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
-3.  [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
-4.  [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
-5.  [Remote Internships](https://smash.vc/startup-newsletter/)
-6.  [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
-7.  [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
-8.  [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
-9.  [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
+2.  [European Remote](https://europeanremote.com/alerts) - Selected opportunities for European tech folks, every week in your inbox
+3.  [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
+4.  [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
+5.  [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
+6.  [Remote Internships](https://smash.vc/startup-newsletter/)
+7.  [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
+8.  [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
+9.  [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
+10. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
 
 ## Podcasts
 
@@ -316,7 +317,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 12. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
 13. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
 14. [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
-15. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
+15. [Articulate](https://www.articulate.com/about/careers) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
 16. [AT\&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
 17. [Aurora Solar](https://aurorasolar.com/careers/) - solar permitting.
 18. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.

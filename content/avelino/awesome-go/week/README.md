@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [pocache (⭐206)](https://github.com/naughtygopher/pocache) - Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy.
 
+### Template Engines
+
+*   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
+
 ### Validation
 
 *   [Zog (⭐177)](https://github.com/Oudwins/zog) - A [Zod (⭐34k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
@@ -34,7 +38,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Messaging
 
-*   [NATS Go Client (⭐5.5k)](https://github.com/nats-io/nats.go) - Go client for the NATS
+*   [NATS Go Client (⭐5.6k)](https://github.com/nats-io/nats.go) - Go client for the NATS
     messaging system.
 
 ### Parsers/Encoders/Decoders
@@ -47,7 +51,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Web Frameworks
 
-*   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
+*   [WebGo (⭐303)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
@@ -121,7 +125,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### IoT (Internet of Things)
 
-*   [rulego (⭐826)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
+*   [rulego (⭐853)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 
 ### Package Management
 
@@ -157,11 +161,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [cimgui-go (⭐343)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐350)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
 
 ### Messaging
 
-*   [hypermatch (⭐20)](https://github.com/SchwarzIT/hypermatch) - A very fast and efficient Go library for matching events to a large set of rules
+*   [hypermatch (⭐22)](https://github.com/SchwarzIT/hypermatch) - A very fast and efficient Go library for matching events to a large set of rules
 
 ### Science and Data Analysis
 
@@ -4077,7 +4081,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [ego (⭐581)](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 *   [extemplate (⭐58)](https://github.com/dannyvankooten/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 *   [fasttemplate (⭐841)](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
-*   [gospin (⭐59)](https://github.com/m1/gospin) - Article spinning and spintax/spinning syntax engine, useful for A/B, testing pieces of text/articles and creating more natural conversations.
 *   [goview (⭐425)](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
 *   [jet (⭐1.3k)](https://github.com/CloudyKit/jet) - Jet template engine.
 *   [liquid (⭐287)](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
@@ -4899,7 +4902,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 *   [Awesome Golang Workshops (⭐511)](https://github.com/amit-davidson/awesome-golang-workshops) - A curated list of awesome golang workshops.
-*   [Awesome Remote Job (⭐34k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+*   [Awesome Remote Job (⭐35k)](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 *   [awesome-go-extra (⭐23)](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.

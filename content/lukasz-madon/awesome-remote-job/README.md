@@ -6,6 +6,16 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Nov 15, 2024](/content/2024/11/15/README.md)
+
+### Newsletters
+
+*   [European Remote](https://europeanremote.com/alerts) - Selected opportunities for European tech folks, every week in your inbox
+
+### Companies with "remote DNA"
+
+*   [Articulate](https://www.articulate.com/about/careers) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
+
 ## [Nov 14, 2024](/content/2024/11/14/README.md)
 
 ### Job boards
@@ -1263,7 +1273,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Companies with "remote DNA"
 
-*   [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
 *   [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
 *   [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
 *   [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.

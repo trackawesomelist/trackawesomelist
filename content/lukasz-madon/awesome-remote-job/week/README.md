@@ -19,8 +19,13 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
 
+### Newsletters
+
+*   [European Remote](https://europeanremote.com/alerts) - Selected opportunities for European tech folks, every week in your inbox
+
 ### Companies with "remote DNA"
 
+*   [Articulate](https://www.articulate.com/about/careers) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
 *   [Bilsteingroup](https://bilsteingroup.com/en/career/) - Automotive spare parts. Python, Java, Postgres. Teams accross Europe. HQ in Germany.
 *   [Cadasta](https://cadasta.org/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
 *   [TestGrid](https://www.testgrid.io/) - TestGrid is a leading provider of end-to-end automation cloud and on-premise testing solutions. With a focus on simplifying the testing process, TestGrid's innovative AI-powered technology allows organizations to streamline their end to end testing process. Hiring developers, sales & marketing folks worldwide.
@@ -1228,7 +1233,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Companies with "remote DNA"
 
-*   [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
 *   [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
 *   [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
 *   [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.

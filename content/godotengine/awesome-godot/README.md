@@ -6,6 +6,16 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Nov 15, 2024](/content/2024/11/15/README.md)
+
+### Projects / Godot 3
+
+*   [SimulaVR (⭐3k)](https://github.com/SimulaVR/Simula) - A VR window manager for Linux, built on top of Godot engine.
+
+### Plugins and scripts / Godot 4
+
+*   [Quest Manager (⭐8)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Plugins and scripts / Godot 4
@@ -16,17 +26,17 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [QuestSystem (⭐286)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+*   [QuestSystem (⭐288)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 
 ### Modules / Godot 4
 
-*   [Keyring (⭐2)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [Keyring (⭐4)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 
 ## [Oct 06, 2024](/content/2024/10/06/README.md)
 
 ### Plugins and scripts / Godot 4
 
-*   [Shaker (⭐252)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐260)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
 ## [Oct 05, 2024](/content/2024/10/05/README.md)
 
