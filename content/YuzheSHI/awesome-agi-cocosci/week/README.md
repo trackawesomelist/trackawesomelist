@@ -30,6 +30,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [What's the Game, then? Opportunities and Challenges for Runtime Behavior Generation](https://dl.acm.org/doi/abs/10.1145/3654777.3676358) - ***UIST'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. Procedural content generation (PCG), the process of algorithmically creating game components instead of manually, has been a common tool of game development for decades. Recent advances in large language models (LLMs) enable the generation of game behaviors based on player input at runtime. Such code generation brings with it the possibility of entirely new gameplay interactions that may be difficult to integrate with typical game development workflows. This work explores these implications through GROMIT, a novel LLM-based runtime behavior generation system for Unity. When triggered by a player action, GROMIT generates a relevant behavior which is compiled without developer intervention and incorporated into the game.
 
+### Meta-Level Considerations / Rationality
+
+*   [Understanding Human Intelligence through Human Limitations](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30215-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. \[[Preprint](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf)]. Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. The author argues that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. The author claims that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution.
+
 ### Theory of Mind / AI Assisted Research
 
 *   [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
@@ -983,7 +987,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Meta-Level Considerations / Rationality
 
 *   [The Adaptive Nature of Human Categorization Behavior](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/89AdaptiveNature.pdf) - ***Psychological Review***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=7349048316173616836\&hl=en\&as_sdt=0,5)]. The original paper that relates cognitive resource limitation with Bayesian rational analysis, in the case of categorization behavior.
-*   [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 ### Inductive Logic & Program Synthesis / Commonsense Knowledgebase
 
@@ -2068,7 +2071,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Abduction / Applications in AI
 
-*   [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212\&hl=en\&as_sdt=0,5)].
+*   [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212)]. The goal of this paper is to serve as a survey for the problem of abductive inference (or belief revision) in Bayesian networks. Thus, the problem is introduced in its two variants: total abduction (or MPE) and partial abduction (or MAP) . Also, the problem is formulated in its general case, that is, looking for the K best explanations. Then, a (non exhaustive) review of exact and approximate algorithms for dealing with both abductive inference problems is carried out. Finally, the authors collect the main complexity results appeared in the literature for both problems (MPE and MAP).
 *   [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483\&hl=en\&as_sdt=0,5)].
 *   [An Approach to Abductive Reasoning in Equational Logic](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6624/6619) - ***IJCAI'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=686895264429811190\&hl=en\&as_sdt=0,5)].
 *   [Abduction-Based Explanations for Machine Learning Models](https://ojs.aaai.org//index.php/AAAI/article/view/3964) - ***AAAI'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7355960657107994022\&hl=en\&as_sdt=0,5)].

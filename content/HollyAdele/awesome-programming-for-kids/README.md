@@ -2,9 +2,15 @@
 
 A curated list of resources for teaching kids programming. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 1K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 1.1K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/HollyAdele/awesome-programming-for-kids/week/README.md) / [Overview](/content/HollyAdele/awesome-programming-for-kids/readme/README.md) ]
+
+## [Nov 15, 2024](/content/2024/11/15/README.md)
+
+### Upper Elementary
+
+*   [CodeKidz](https://codekidz.ai/) - Learn through AI tutor and gamified content, including python, javascript, c/c++, game development, machine learning, generative ai, and more.
 
 ## [Apr 17, 2024](/content/2024/04/17/README.md)
 
@@ -33,7 +39,7 @@ A curated list of resources for teaching kids programming.
 
 ### Lower Elementary
 
-*   [Python Turtle (⭐395)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+*   [Python Turtle (⭐406)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
 ## [Mar 28, 2021](/content/2021/03/28/README.md)
 
