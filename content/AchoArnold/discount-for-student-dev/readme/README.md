@@ -179,6 +179,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Beautiful.ai](https://www.beautiful.ai/education) \[FREE] - Beautiful.ai helps you and your entire class create modern presentations with ease. We believe that design and education should be accessible to everyone, so we’re excited to offer students a free annual Pro subscription. Simply verify your .edu account and we’ll send you a confirmation email with your coupon code.
 
+*   [Webflow](https://webflow.com/classroom/student-application) \[FREE] - Enjoy a free annual CMS site plan. Apply using a student ID. Follow the link to know more.
+
 ## PaaS
 
 *   [Amazon Web Services](https://www.awseducate.com/application) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.

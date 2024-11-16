@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
 
+### Utilities
+
+*   [go-tripper (⭐10)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
+
 ### Validation
 
 *   [Zog (⭐177)](https://github.com/Oudwins/zog) - A [Zod (⭐34k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
@@ -55,7 +59,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [fatcontext (⭐9)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐10)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -73,7 +77,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
-*   [go-taskflow (⭐90)](https://github.com/noneback/go-taskflow) - A taskflow-like Programmatic DAG Task Execution Framework with integrated visualizer and profiler.
+*   [go-taskflow (⭐90)](https://github.com/noneback/go-taskflow) - A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler.
 
 ### Websites / Libraries for creating HTTP middlewares
 
