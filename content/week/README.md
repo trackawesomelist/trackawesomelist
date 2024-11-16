@@ -259,13 +259,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games) - Steam user interactions.
 *   [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) - Sales data from games.
 
-#### [15. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
-
-##### Open Source / Casual
-
-*   [Sober Driver (⭐6)](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
-
-#### [16. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+#### [15. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ##### Free fonts / Fonts
 
@@ -276,14 +270,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Iconic Fonts (⭐44)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
-#### [17. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+#### [16. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ##### General
 
 *   [Iconify Deign (⭐4.6k)](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 *   [React Icons (⭐12k)](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
 
-#### [18. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+#### [17. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ##### Apple Inspired
 
@@ -295,7 +289,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
 
-#### [19. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [18. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Servers / React
 
@@ -305,25 +299,25 @@ Free
 
 *   [gqlhash (⭐5)](https://github.com/romshark/gqlhash) - Lightning fast query hasher that ignores formatting diffs and comments and supports multiple hashing functions. <a name="databases" />
 
-#### [20. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+#### [19. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ##### Pug
 
 *   [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) *(label: difficulty::easy)* <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
-#### [21. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+#### [20. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ##### Development Projects / Miscellaneous
 
 *   [PokemonRedExperiments (⭐7k)](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokémon Red with Reinforcement Learning.
 
-#### [22. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+#### [21. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ##### Software Engineering
 
 *   [Facts about State Machines](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Facts-about-State-Machines/README.md) - State machines are often misunderstood and under-applied.
 
-#### [23. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+#### [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ##### Tools & Software / Acquisition
 
@@ -345,31 +339,31 @@ Free
 
 *   [Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at [https://github.com/webrecorder/browsertrix (⭐200)](https://github.com/webrecorder/browsertrix).
 
-#### [24. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+#### [23. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ##### Software / R
 
 *   [ig.degree.betweenness (⭐30)](https://github.com/benyamindsmith/ig.degree.betweenness/) - an igraph implementation of the [Smith-Pittman](https://arxiv.org/abs/2411.01394) community detection algorithm (2024).
 
-#### [25. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+#### [24. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ##### Libraries / C#
 
 *   [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
 
-#### [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Apps
 
 *   [hyprspace (⭐49)](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
 
-#### [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### OS Images
 
 *   [PiFi](https://pifi.org) - Turn Raspberry Pi into a High-Speed VPN Router in Seconds ⚡️ (Supports Raspberry Pi 4 and 5).
 
-#### [28. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [27. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Third party Guides
 
@@ -411,13 +405,13 @@ Free
 
 *   [iTextField ⌨️ (⭐107)](https://github.com/blsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
-#### [29. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [28. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / Task Queues
 
 *   [django-tasks (⭐344)](https://github.com/realOrangeOne/django-tasks) -  A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 
-#### [30. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [29. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Audio
 
@@ -572,7 +566,7 @@ Free
 
 *   [micropython-ulogger (⭐35)](https://github.com/majoson-chen/micropython-ulogger) - Lightweight log module customized for MicroPython.
 
-#### [31. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [30. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Database
 
@@ -586,14 +580,14 @@ Free
 
 *   [avcpp (⭐456)](https://github.com/h4tr3d/avcpp) - Modern C++ wrapper around FFmpeg. \[MIT]
 
-#### [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+#### [31. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ##### Program analysis
 
 *   [Owi (⭐135)](https://github.com/OCamlPro/owi) - Owi is a toolchain for working with WebAssembly (Wasm) in OCaml, featuring a powerful, parallel symbolic execution engine for Wasm. It also provides frontends for compiling and analyzing C and Rust programs.
 *   [Smt.ml (⭐26)](https://github.com/formalsec/smtml) - Smt.ml is a frontend OCaml library that interfaces with multiple SMT solvers, enabling seamless integration of solvers like Z3, cvc5, Colibri2, Bitwuzla, and Alt-Ergo within OCaml programs.
 
-#### [33. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+#### [32. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ##### :books: Literature / Documentation
 
@@ -694,7 +688,7 @@ Free
 *   [REMINDer (⭐2)](https://github.com/packing-box/reminder) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
 *   [SecML Malware (⭐206)](https://github.com/pralab/secml_malware) - Create adversarial attacks against machine learning Windows malware detectors.
 
-#### [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [33. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### CI / Tutorials & Demo
 
@@ -719,7 +713,7 @@ Free
 
 *   [JMeterPlugins Google Group](https://groups.google.com/g/jmeter-plugins)
 
-#### [35. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [34. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Phone Number Research / Steam
 
@@ -729,7 +723,7 @@ Free
 
 *   [Amass (⭐12k)](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
-#### [36. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [35. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Foundations of Mathematics / Transition To Pure Rigour Math
 
@@ -739,26 +733,26 @@ Free
 
 *   📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
 
-#### [37. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [36. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Features
 
 *   [CanI.TF - Feature parity between Terraform and OpenTofu](https://cani.tf/)
 
-#### [38. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+#### [37. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
 ##### Blogs / Digital Asset Management (DAM)
 
 *   [The Marketing Blog](https://blog.marketingtoolslist.com) - A blog on Marketing Tools reviews
 *   [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
 
-#### [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+#### [38. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ##### C / Syntax highlighting packages
 
 *   [Just another simple tutorial](http://web.archive.org/web/20230327070526/http://pastebin.com/gzT47MPJ)
 
-#### [40. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [39. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -857,7 +851,7 @@ Free
 *   [NDJSON (⭐683) (⭐683)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐347) (⭐347)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [41. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [40. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Mobile
 
@@ -872,7 +866,7 @@ Free
 
 *   [hsx (⭐20)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
 
-#### [42. Awesome Java](/content/akullpp/awesome-java/README.md)
+#### [41. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ##### Architecture
 
@@ -890,19 +884,19 @@ Free
 
 *   [Flogger](https://google.github.io/flogger/) - Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
 
-#### [43. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+#### [42. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ##### Software Architecture
 
 *   [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
 
-#### [44. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+#### [43. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ##### Featured On
 
 *   [Kubernetes from scratch](https://medium.com/@ghumare64/kubernetes-from-scratch-part-1-4b40cb6c1aba) by [Rohit Ghumare](https://www.linkedin.com/in/rohit-ghumare/)
 
-#### [45. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [44. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Blog posts
 
@@ -911,7 +905,7 @@ Free
 *   [Pandas vs Polars: Performance Benchmarks for Common Data Operations](https://www.statology.org/pandas-vs-polars-performance-benchmarks-for-common-data-operations/) - A blog post that compares performance on common data operations between Polars and Pandas by [Vinod Chugani](https://www.linkedin.com/in/vc1401/?originalSubdomain=th).
 *   [The Polars vs pandas Difference Nobody is Talking About](https://labs.quansight.org/blog/dataframe-group-by?utm_campaign=Polars\&utm_medium=Social\&utm_source=Medium\&utm_content=Labs\&utm_term=Blog) - A blog post that talks about non-elementary group-by aggregations with Polars by [@marcogorelli](https://github.com/marcogorelli).
 
-#### [46. Citizen Science](/content/dylanrees/citizen-science/README.md)
+#### [45. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ##### Software / Modeling and Computation
 
@@ -921,7 +915,7 @@ Free
 
 *   [Taskade](https://www.taskade.com) - Collaborative outliner, notes, and task manager.
 
-#### [47. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+#### [46. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ##### Qubes OS Websites
 
@@ -1084,7 +1078,7 @@ Free
 
 *   [Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/d/Qubes) - Dark Net QubesOS .onion forum room.
 
-#### [48. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [47. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -1095,13 +1089,13 @@ Free
 *   [microsoft/TinyTroupe (⭐1.1k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 *   [Multi-Agent Research Outline](https://thinkwee.top/multiagent_ebook/index.html): an interactive eBook that compiles an extensive collection of research papers on large language model (LLM)-based multi-agent systems
 
-#### [49. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [48. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Entertainment / Games
 
 *   [Pokete (⭐2.9k)](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 
-#### [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### .NET Conf 2024 (November 12-14, 2024).
 
@@ -1137,7 +1131,7 @@ Free
 *   [Building Blazor Applications: A Developer's Guide](https://www.amazon.com/Building-Blazor-Applications-Developers-Guide/dp/B0DDBG4S3Q/ref=sims_dp_d_dex_ai_speed_loc_mtl_v5_t1_d_sccl_1_2/136-3795973-8719321?pd_rd_w=coqfA\&content-id=amzn1.sym.da3a5e11-8f5f-413b-a68b-31ceac43c758\&pf_rd_p=da3a5e11-8f5f-413b-a68b-31ceac43c758\&pf_rd_r=9Q8447GTE9QT4WTPH5Z6\&pd_rd_wg=IAqx1\&pd_rd_r=ff570237-8604-4432-b4cd-a726ce880b23\&pd_rd_i=B0DDBG4S3Q\&psc=1) - Building Blazor Applications: A Developer's Guide (Published August 14, 2024).
 *   [Mastering Blazor UI: Advanced Custom Components and Design Strategies](https://www.amazon.com/Mastering-Blazor-UI-Components-Strategies/dp/B0DG2RJD1R/ref=sr_1_1?crid=SK6RU9T2BOGD\&dib=eyJ2IjoiMSJ9.s5wnoFiu-YggQzMUNkXdPUUkrmyKJs-ffmHU1vbgjlJYGeFcYE04oohzd7hcoj9zCTyfe-R07XyKNQvyU5t7Mw.NRJ3TXh3AQZpXwXQmV5IoCPC9y1T-ybHWaoO9G9DvFY\&dib_tag=se\&keywords=blazor+gallivan\&qid=1728060552\&s=books\&sprefix=blazor+gallivan%2Cstripbooks%2C127\&sr=1-1) - Mastering Blazor UI: Advanced Custom Components and Design Strategies (Published September 3, 2024).
 
-#### [51. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [50. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -1156,7 +1150,7 @@ Free
 *   [green-lambda (⭐0)](https://github.com/Ishidawg/minimal-green-lambda) - Minimalist Lambda theme. Includes `git` decorations.
 *   [pentest-report (⭐6)](https://github.com/sikumy/ohmy-pentest-report) - Designed for pentesters, offering a clean and efficient prompt to streamline daily tasks during audits and penetration testing. The theme includes decorators for real-time display of the date, time, IP address, current directory, and the result of the last executed command.
 
-#### [52. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [51. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Projects / Godot 3
 
@@ -1167,19 +1161,19 @@ Free
 *   [Quest Manager (⭐8)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 *   [Talo (⭐18)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
 
-#### [53. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+#### [52. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ##### Assets / Advanced
 
 *   [Jsfxr](https://chr15m.itch.io/jsfxr) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 
-#### [54. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [53. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Regional Connectivity Reports and Data
 
 *   [Open Signal - The state of mobile network experience in Africa](https://www.opensignal.com/2024/11/11/the-state-of-mobile-network-experience-in-africa) - (November 2024) A look at download speeds and network quality in 27 African countries.
 
-#### [55. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [54. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Blockchain
 
@@ -1211,7 +1205,7 @@ Free
 
 *   [A Brief History of Rust. Part 1](https://medium.com/rustaceans/make-it-mandatory-a-brief-history-of-rust-part-1-805459c60c6b) - From a developer's pursuit of software stability to a project that nearly destabilized its creator. [Part 2](https://medium.com/rustaceans/make-it-mandatory-a-brief-history-of-rust-part-2-981d61451aa5). [Part 3](https://medium.com/rustaceans/make-it-mandatory-a-brief-history-of-rust-part-2-b8c0f7a7e781?sk=c0e7fe5fde11a62edc23f284f125aa18).
 
-#### [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+#### [55. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ##### Job boards
 
@@ -1247,7 +1241,7 @@ Free
 
 *   [Websoft9 (⭐2.2k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
 
-#### [57. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [56. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### Table of contents
 
@@ -1310,45 +1304,13 @@ Free
     *   `git`: GitHub link
     *   `x-ref`: Cross reference
 
-#### [58. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+#### [57. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ##### Upper Elementary
 
 *   [CodeKidz](https://codekidz.ai/) - Learn through AI tutor and gamified content, including python, javascript, c/c++, game development, machine learning, generative ai, and more.
 
-#### [59. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Abduction / Applications in AI
-
-*   [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121) - ***Journal of Logic Computation***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518)]. This paper is a survey and critical overview of recent work on the extension of logic programming to perform abductive reasoning (abductive logic programming). The authors outline the general framework of abduction and its applications to knowledge assimilation and default reasoning; and they introduce an argumentation-theoretic approach to the use of abduction as an interpretation for negation as failure.
-*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://dl.acm.org/doi/abs/10.5555/2283696.2283887) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198)]. \[[Preprint](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf)]. This work introduces Bayesian Abductive Logic Programs (BALP), a probabilistic logic that adapts Bayesian Logic Programs (BLPs) for abductive reasoning. Like BLPs, BALPs also combine first-order logic and Bayes nets. However, unlike BLPs, which use deduction to construct Bayes nets, BALPs employ logical abduction. As a result, BALPs are more suited for problems like plan/activity recognition that require abductive reasoning.
-
-##### Bayesian Modeling / Bayesian Induction
-
-*   [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541) - ***Nature***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744)]. Probabilistic modelling provides a framework for understanding what learning is, and has therefore emerged as one of the principal theoretical and practical approaches for designing machines that learn from data acquired through experience. The probabilistic framework, which describes how to represent and manipulate uncertainty about models and predictions, has a central role in scientific data analysis, machine learning, robotics, cognitive science and artificial intelligence. This Review provides an introduction to this framework, and discusses some of the state-of-the-art advances in the field, namely, probabilistic programming, Bayesian optimization, data compression and automatic model discovery.
-*   [Generalization, similarity, and Bayesian inference](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/generalization-similarity-and-bayesian-inference/595CAA321C9C56270C624057021DE77A) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf)]. Shepard has argued that a universal law should govern generalization across different domains of perception and cognition, as well as across organisms from different species or even different planets. Starting with some basic assumptions about natural kinds, he derived an exponential decay function as the form of the universal generalization gradient, which accords strikingly well with a wide range of empirical data. However, his original formulation applied only to the ideal case of generalization from a single encountered stimulus to a single novel stimulus, and for stimuli that can be represented as points in a continuous metric psychological space. The authors recast Shepard's theory in a more general Bayesian framework and show how this naturally extends his approach to the more realistic situation of generalizing from multiple consequential stimuli with arbitrary representational structure. This framework also subsumes a version of Tversky's set-theoretic model of similarity, which is conventionally thought of as the primary alternative to Shepard's continuous metric space model of similarity and generalization.
-
-##### Communications / Language Compositionality
-
-*   [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w) - ***Nature***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=13724799649075764503)]. This perspective brings recent evidence from neuroscience and allied disciplines to argue that in modern humans, language is a tool for communication, contrary to a prominent view that we use language for thinking. The authors begins by introducing the brain network that supports linguistic ability in humans. They then review evidence for a double dissociation between language and thought, and discuss several properties of language that suggest that it is optimized for communication. This perspective concludes that although the emergence of language has unquestionably transformed human culture, language does not appear to be a prerequisite for complex thought, including symbolic thought. Instead, language is a powerful tool for the transmission of cultural knowledge; it plausibly co-evolved with humans' thinking and reasoning capacities, and only reflects, rather than gives rise to, the signature sophistication of human cognition.
-
-##### Domain Specific Language / Declarative DSL Applications
-
-*   [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) - 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=8704845413716059914)]. \[[Project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)]. This paper introduces the Scene Language, a visual scene representation that concisely and precisely describes the structure, semantics, and identity of visual scenes. It represents a scene with three key components: a program that specifies the hierarchical and relational structure of entities in the scene, words in natural language that summarize the semantic class of each entity, and embeddings that capture the visual identity of each entity. This representation can be inferred from pre-trained language models via a training-free inference technique, given text or image inputs.
-
-##### Methodologies for Experiments / Virtual Reality
-
-*   [What's the Game, then? Opportunities and Challenges for Runtime Behavior Generation](https://dl.acm.org/doi/abs/10.1145/3654777.3676358) - ***UIST'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. Procedural content generation (PCG), the process of algorithmically creating game components instead of manually, has been a common tool of game development for decades. Recent advances in large language models (LLMs) enable the generation of game behaviors based on player input at runtime. Such code generation brings with it the possibility of entirely new gameplay interactions that may be difficult to integrate with typical game development workflows. This work explores these implications through GROMIT, a novel LLM-based runtime behavior generation system for Unity. When triggered by a player action, GROMIT generates a relevant behavior which is compiled without developer intervention and incorporated into the game.
-
-##### Meta-Level Considerations / Rationality
-
-*   [Understanding Human Intelligence through Human Limitations](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30215-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. \[[Preprint](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf)]. Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. The author argues that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. The author claims that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution.
-
-##### Theory of Mind / AI Assisted Research
-
-*   [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
-
-#### [60. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [58. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -1358,7 +1320,7 @@ Free
 
 *   [mdsf (⭐22)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
-#### [61. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [59. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1463,14 +1425,14 @@ Free
 
 *   [ionic-component-snippets (⭐2)](https://github.com/LennonReid/ionic-component-snippets) - This repository showcases demos and libraries that aren't officially supported by Ionic yet, but can be useful for developers and their apps.
 
-#### [62. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+#### [60. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ##### Tools
 
 *   🎨🌍🔧 [palettolithic](https://palettolithic.com) - Generates harmonious color palettes based on one color.
 *   🎨🔧 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 
-#### [63. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+#### [61. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ##### Version Control
 
@@ -1480,7 +1442,7 @@ Free
 
 *   [Webflow](https://webflow.com/classroom/student-application) \[FREE] - Enjoy a free annual CMS site plan. Apply using a student ID. Follow the link to know more.
 
-#### [64. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [62. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -1501,7 +1463,7 @@ Free
 *   [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
 *   [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
 
-#### [65. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [63. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Automation
 
@@ -1550,7 +1512,7 @@ Free
 
 *   [Beaver Habit Tracker (⭐152)](https://github.com/daya0576/beaverhabits) - Habit tracking app to save your precious moments in your fleeting life. ([Demo](https://beaverhabits.com/demo)) `BSD-3-Clause` `Docker`
 
-#### [66. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [64. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Writing
 
@@ -1584,7 +1546,7 @@ Free
 
 *   [Open Alternative](https://openalternative.co/) - Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 
-#### [67. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [65. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Caches
 
@@ -1611,11 +1573,53 @@ Free
 
 *   [OpenZiti (⭐2.8k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐100)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐36)](https://github.com/openziti-test-kitchen/zssh)
 
-#### [68. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+#### [66. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ##### Youtube Playlists
 
 *   [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
+
+#### [67. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+##### Open Source / Casual
+
+*   [Sober Driver (⭐6)](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
+
+##### App Releases / Educational
+
+*   Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
+#### [68. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Abduction / Applications in AI
+
+*   [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121) - ***Journal of Logic Computation***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518)]. This paper is a survey and critical overview of recent work on the extension of logic programming to perform abductive reasoning (abductive logic programming). The authors outline the general framework of abduction and its applications to knowledge assimilation and default reasoning; and they introduce an argumentation-theoretic approach to the use of abduction as an interpretation for negation as failure.
+*   [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://dl.acm.org/doi/abs/10.5555/2283696.2283887) - ***IJCAI'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198)]. \[[Preprint](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf)]. This work introduces Bayesian Abductive Logic Programs (BALP), a probabilistic logic that adapts Bayesian Logic Programs (BLPs) for abductive reasoning. Like BLPs, BALPs also combine first-order logic and Bayes nets. However, unlike BLPs, which use deduction to construct Bayes nets, BALPs employ logical abduction. As a result, BALPs are more suited for problems like plan/activity recognition that require abductive reasoning.
+
+##### Bayesian Modeling / Bayesian Induction
+
+*   [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541) - ***Nature***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744)]. Probabilistic modelling provides a framework for understanding what learning is, and has therefore emerged as one of the principal theoretical and practical approaches for designing machines that learn from data acquired through experience. The probabilistic framework, which describes how to represent and manipulate uncertainty about models and predictions, has a central role in scientific data analysis, machine learning, robotics, cognitive science and artificial intelligence. This Review provides an introduction to this framework, and discusses some of the state-of-the-art advances in the field, namely, probabilistic programming, Bayesian optimization, data compression and automatic model discovery.
+*   [Generalization, similarity, and Bayesian inference](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/generalization-similarity-and-bayesian-inference/595CAA321C9C56270C624057021DE77A) - ***Behavioral and Brain Sciences***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf)]. Shepard has argued that a universal law should govern generalization across different domains of perception and cognition, as well as across organisms from different species or even different planets. Starting with some basic assumptions about natural kinds, he derived an exponential decay function as the form of the universal generalization gradient, which accords strikingly well with a wide range of empirical data. However, his original formulation applied only to the ideal case of generalization from a single encountered stimulus to a single novel stimulus, and for stimuli that can be represented as points in a continuous metric psychological space. The authors recast Shepard's theory in a more general Bayesian framework and show how this naturally extends his approach to the more realistic situation of generalizing from multiple consequential stimuli with arbitrary representational structure. This framework also subsumes a version of Tversky's set-theoretic model of similarity, which is conventionally thought of as the primary alternative to Shepard's continuous metric space model of similarity and generalization.
+
+##### Communications / Language Compositionality
+
+*   [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w) - ***Nature***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=13724799649075764503)]. This perspective brings recent evidence from neuroscience and allied disciplines to argue that in modern humans, language is a tool for communication, contrary to a prominent view that we use language for thinking. The authors begins by introducing the brain network that supports linguistic ability in humans. They then review evidence for a double dissociation between language and thought, and discuss several properties of language that suggest that it is optimized for communication. This perspective concludes that although the emergence of language has unquestionably transformed human culture, language does not appear to be a prerequisite for complex thought, including symbolic thought. Instead, language is a powerful tool for the transmission of cultural knowledge; it plausibly co-evolved with humans' thinking and reasoning capacities, and only reflects, rather than gives rise to, the signature sophistication of human cognition.
+
+##### Domain Specific Language / Declarative DSL Applications
+
+*   [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) - 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=8704845413716059914)]. \[[Project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)]. This paper introduces the Scene Language, a visual scene representation that concisely and precisely describes the structure, semantics, and identity of visual scenes. It represents a scene with three key components: a program that specifies the hierarchical and relational structure of entities in the scene, words in natural language that summarize the semantic class of each entity, and embeddings that capture the visual identity of each entity. This representation can be inferred from pre-trained language models via a training-free inference technique, given text or image inputs.
+
+##### Methodologies for Experiments / Virtual Reality
+
+*   [What's the Game, then? Opportunities and Challenges for Runtime Behavior Generation](https://dl.acm.org/doi/abs/10.1145/3654777.3676358) - ***UIST'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. Procedural content generation (PCG), the process of algorithmically creating game components instead of manually, has been a common tool of game development for decades. Recent advances in large language models (LLMs) enable the generation of game behaviors based on player input at runtime. Such code generation brings with it the possibility of entirely new gameplay interactions that may be difficult to integrate with typical game development workflows. This work explores these implications through GROMIT, a novel LLM-based runtime behavior generation system for Unity. When triggered by a player action, GROMIT generates a relevant behavior which is compiled without developer intervention and incorporated into the game.
+
+##### Meta-Level Considerations / Rationality
+
+*   [Understanding Human Intelligence through Human Limitations](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30215-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. \[[Preprint](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf)]. Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. The author argues that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. The author claims that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution.
+
+##### Theory of Mind / AI Assisted Research
+
+*   [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
 
 ---
 
@@ -1992,7 +1996,7 @@ Free
 - [Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md) - ([Source ⭐ 71, 📝 10&#x2F;20 ](https://github.com/ConstructCommunity/awesome-construct)) - A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 - [Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md) - ([Source ⭐ 2.7K, 📝 07&#x2F;26 ](https://github.com/mhxion/awesome-discord-communities)) - A curated list of awesome Discord communities for programmers
 - [Awesome Esports](/content/Strift/awesome-esports/README.md) - ([Source ⭐ 45, 📝 23&#x2F;09&#x2F;23 ](https://github.com/Strift/awesome-esports)) - A curated list of open-source projects related to esports.
-- [Awesome Flame](/content/flame-engine/awesome-flame/README.md) - ([Source ⭐ 1.1K, 📝 11&#x2F;12 ](https://github.com/flame-engine/awesome-flame)) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
+- [Awesome Flame](/content/flame-engine/awesome-flame/README.md) - ([Source ⭐ 1.1K, 📝 11&#x2F;16 ](https://github.com/flame-engine/awesome-flame)) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 - [Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md) - ([Source ⭐ 797, 📝 06&#x2F;27 ](https://github.com/stevinz/awesome-game-engine-dev)) - Awesome list of resources for Game Engine Development.
 - [Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md) - ([Source ⭐ 799, 📝 10&#x2F;27 ](https://github.com/radek-sprta/awesome-game-remakes)) - Actively maintained open-source game remakes.
 - [Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md) - ([Source ⭐ 1.8K, 📝 06&#x2F;19 ](https://github.com/michelpereira/awesome-games-of-coding)) - A curated list of games that can teach you how to learn a programming language.

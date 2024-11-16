@@ -80,6 +80,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
 
+#### [10. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+##### App Releases / Educational
+
+*   Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
 ### [Nov 15, 2024](/content/2024/11/15/README.md)
 
 
@@ -142,17 +148,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CodeKidz](https://codekidz.ai/) - Learn through AI tutor and gamified content, including python, javascript, c/c++, game development, machine learning, generative ai, and more.
 
-#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Meta-Level Considerations / Rationality
-
-*   [Understanding Human Intelligence through Human Limitations](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30215-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. \[[Preprint](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf)]. Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. The author argues that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. The author claims that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution.
-
-#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Template Engines
 
 *   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
+
+#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Meta-Level Considerations / Rationality
+
+*   [Understanding Human Intelligence through Human Limitations](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30215-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6469796133334580403)]. \[[Preprint](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf)]. Recent progress in artificial intelligence provides the opportunity to ask the question of what is unique about human intelligence, but with a new comparison class. The author argues that we can understand human intelligence, and the ways in which it may differ from artificial intelligence, by considering the characteristics of the kind of computational problems that human minds have to solve. The author claims that these problems acquire their structure from three fundamental limitations that apply to human beings: limited time, limited computation, and limited communication. From these limitations we can derive many of the properties we associate with human intelligence, such as rapid learning, the ability to break down problems into parts, and the capacity for cumulative cultural evolution.
 
 ### [Nov 14, 2024](/content/2024/11/14/README.md)
 
@@ -656,7 +662,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md) - ([Source ⭐ 71, 📝 10&#x2F;20 ](https://github.com/ConstructCommunity/awesome-construct)) - A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 - [Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md) - ([Source ⭐ 2.7K, 📝 07&#x2F;26 ](https://github.com/mhxion/awesome-discord-communities)) - A curated list of awesome Discord communities for programmers
 - [Awesome Esports](/content/Strift/awesome-esports/README.md) - ([Source ⭐ 45, 📝 23&#x2F;09&#x2F;23 ](https://github.com/Strift/awesome-esports)) - A curated list of open-source projects related to esports.
-- [Awesome Flame](/content/flame-engine/awesome-flame/README.md) - ([Source ⭐ 1.1K, 📝 11&#x2F;12 ](https://github.com/flame-engine/awesome-flame)) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
+- [Awesome Flame](/content/flame-engine/awesome-flame/README.md) - ([Source ⭐ 1.1K, 📝 11&#x2F;16 ](https://github.com/flame-engine/awesome-flame)) - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 - [Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md) - ([Source ⭐ 797, 📝 06&#x2F;27 ](https://github.com/stevinz/awesome-game-engine-dev)) - Awesome list of resources for Game Engine Development.
 - [Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md) - ([Source ⭐ 799, 📝 10&#x2F;27 ](https://github.com/radek-sprta/awesome-game-remakes)) - Actively maintained open-source game remakes.
 - [Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md) - ([Source ⭐ 1.8K, 📝 06&#x2F;19 ](https://github.com/michelpereira/awesome-games-of-coding)) - A curated list of games that can teach you how to learn a programming language.

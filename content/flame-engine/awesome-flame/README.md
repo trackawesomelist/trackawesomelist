@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Nov 16, 2024](/content/2024/11/16/README.md)
+
+### App Releases / Educational
+
+*   Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Open Source / Casual

@@ -218,6 +218,8 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Mathonaut](https://mathonaut.skyost.eu/) - [Android](https://play.google.com/store/apps/details?id=fr.skyost.mathonaut), [iOS](https://apps.apple.com/app/id1673790210) - A platform game in which you play around math. By [Skyost](https://skyost.eu)
 
+*   Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
 #### Metroidvania
 
 <!--lint ignore double-link-->

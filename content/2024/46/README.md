@@ -1222,6 +1222,10 @@ Free
 
 *   [Sober Driver (⭐6)](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
 
+### App Releases / Educational
+
+*   Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
 ## [51. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
