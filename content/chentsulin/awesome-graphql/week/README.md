@@ -16,11 +16,16 @@ Awesome list of GraphQL
 
 *   [gqlhash (⭐5)](https://github.com/romshark/gqlhash) - Lightning fast query hasher that ignores formatting diffs and comments and supports multiple hashing functions. <a name="databases" />
 
+### Blogs - Security / React
+
+*   [Escape - The GraphQL Security Blog](https://escape.tech/blog) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+*   [9 GraphQL Security Best Practices](https://escape.tech/blog/9-graphql-security-best-practices/)
+
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Type / React
 
-*   [gqloom (⭐7)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.1k)](https://github.com/fabian-hiller/valibot), [Zod (⭐34k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
+*   [gqloom (⭐7)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.2k)](https://github.com/fabian-hiller/valibot), [Zod (⭐34k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -211,12 +216,6 @@ Awesome list of GraphQL
 
 *   [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
 
-## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
-
-### Blogs - Security / React
-
-*   [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
-
 ## [Mar 20 - Mar 26, 2023](/content/2023/12/README.md)
 
 ### Miscellaneous / React
@@ -396,10 +395,6 @@ Awesome list of GraphQL
 *   [Escape - The GraphQL Security Scanner](https://graphql.security/) - One-click security scan of your GraphQL endpoints. Free, no login required.
 *   [Escape Graphinder - GraphQL Subdomain Enumeration (⭐187)](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 
-### Blogs - Security / React
-
-*   [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
-
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### Elixir Examples / React
@@ -451,10 +446,6 @@ Awesome list of GraphQL
 ### Tools - Miscellaneous / React
 
 *   [Typetta (⭐108)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
-
-### Blogs - Security / React
-
-*   [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
@@ -973,7 +964,6 @@ Awesome list of GraphQL
 *   [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
 *   [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
 *   [The Road to GraphQL](https://www.roadtographql.com/)
-*   [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 *   [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
 *   [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
 *   [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
