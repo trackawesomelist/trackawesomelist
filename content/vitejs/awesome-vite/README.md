@@ -6,6 +6,18 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 18, 2024](/content/2024/11/18/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-create-production-server-plugin (⭐0)](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
+*   [genaicode/vite-plugin (⭐13)](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [@yuanjianming/unplugin-compress-svga (⭐1)](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
+*   [@yuanjianming/unplugin-font-spider (⭐1)](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Templates / Vanilla
@@ -577,7 +589,7 @@
 
 ### Templates / Vue 3
 
-*   [vue-file-upload (⭐31)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
+*   [vue-file-upload (⭐32)](https://github.com/canopas/vue-file-upload) - A file management system built with `Vue3` and `TypeScript` that allows for single and multiple file uploading with a preview feature.
 
 ## [Nov 08, 2023](/content/2023/11/08/README.md)
 
@@ -944,7 +956,7 @@
 
 ### Vue / Transformers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐34)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-preview (⭐35)](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
@@ -1114,7 +1126,7 @@
 
 ### Templates / Electron
 
-*   [Vutron (⭐252)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+*   [Vutron (⭐257)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 ### Framework-agnostic Plugins / Testing
 
@@ -1266,7 +1278,7 @@
 
 ### Templates / Vue 2
 
-*   [vitify-admin (⭐146)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
+*   [vitify-admin (⭐149)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -1419,7 +1431,7 @@
 *   [electron-vite-vue (⭐4.3k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
 *   [electron-vite-react (⭐1.9k)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
 *   [electron-vite-boilerplate (⭐206)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
-*   [electron-vite-template (⭐409)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [electron-vite-template (⭐414)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 *   [fast-vite-electron (⭐188)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 *   [fast-vite-nestjs-electron (⭐307)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 *   [vite-plugin-electron-quick-start (⭐184)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
@@ -1557,7 +1569,7 @@
 
 ### Vue / Helpers
 
-*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐691)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-inspector (⭐694)](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
 ## [Mar 18, 2022](/content/2022/03/18/README.md)
 
@@ -1707,7 +1719,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@vitejs/plugin-legacy (⭐68k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+*   [@vitejs/plugin-legacy (⭐69k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 
 ## [Nov 26, 2021](/content/2021/11/26/README.md)
 
@@ -1869,7 +1881,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐68k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐69k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ## [Jul 06, 2021](/content/2021/07/06/README.md)
 
@@ -2008,7 +2020,7 @@
 ### Vue / Loaders
 
 *   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-md (⭐606)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐588)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-svg-loader (⭐596)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 ### Vue / SSG
 
@@ -2121,7 +2133,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐68k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐69k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 
@@ -2137,7 +2149,7 @@
 
 ### Official Resources
 
-*   [GitHub Repo (⭐68k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐69k)](https://github.com/vitejs/vite)
 
 ## [Aug 21, 2020](/content/2020/08/21/README.md)
 

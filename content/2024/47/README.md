@@ -1,30 +1,54 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2024
 
-7 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
+
+## [2. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Companies Using Vue.js / Documentaries
+
+*   [Companies Using Vue/Nuxt (⭐0)](https://github.com/cloydlau/companies-using-vue)
+
+## [3. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-create-production-server-plugin (⭐0)](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
+*   [genaicode/vite-plugin (⭐13)](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [@yuanjianming/unplugin-compress-svga (⭐1)](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
+*   [@yuanjianming/unplugin-font-spider (⭐1)](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
 *   [json.cpp (⭐495)](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
 
-## [2. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Rust
 
 *   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
 
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Modus (⭐181)](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly.
 
-## [4. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### PaaS
 
@@ -44,19 +68,19 @@
 *   [Association of Computing Machinery with Digital Library](https://www.acm.org/membership/membership-options) \[DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
 *   [Scrimba](https://scrimba.com/github-education) \[FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@daelmaak/ngx-gallery (⭐16)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [felipec (⭐0)](https://github.com/felipec/zsh-prompt-felipec) - Minimalist theme with decorators for current directory, `git` status, exit code of last command, and root status.
 
-## [7. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

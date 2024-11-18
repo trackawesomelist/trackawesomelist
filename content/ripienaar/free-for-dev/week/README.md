@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### APIs, Data, and ML
+
+*   [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### APIs, Data, and ML
