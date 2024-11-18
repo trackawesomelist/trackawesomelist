@@ -951,6 +951,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-stories (⭐17)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 *   [carousel-library (⭐10)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 *   [ngx-simple-gallery (⭐1)](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
+*   [@daelmaak/ngx-gallery (⭐16)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 
 #### Charts
 

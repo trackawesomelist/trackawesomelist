@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Rust
+
+*   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### JavaScript

@@ -360,6 +360,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 *   [Sniffnet (⭐19k)](https://github.com/GyulyVGC/sniffnet) *(label: good first issue)* <br> Application to comfortably monitor network traffic.
 *   [TiKV (⭐15k)](https://github.com/tikv/tikv) *(label: difficulty/easy)* <br> A distributed transactional key-value database
 *   [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name\[]=beginner) *(label: n/a)* <br> Veloren is a multiplayer voxel RPG written in Rust.
+*   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
 
 ## Scala
 
