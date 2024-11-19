@@ -6,6 +6,12 @@ A curated list of awesome qubes os links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Qubes OS Server / Unikernel-like
+
+*   [borg-offsite-backup (⭐3)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
+
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
 ### Templates
@@ -120,7 +126,6 @@ A curated list of awesome qubes os links
 *   [QubesOS to be remotely manageable thru tor](https://www.whonix.org/wiki/Dev/Qubes_Remote_Support) - QubesOS to be remotely manageable from on-demand, ephemeral, hidden onion service to dom0/AdminVM.
 *   [Qubes-Whonix development notes](https://www.whonix.org/wiki/Dev/Qubes) - Whonix development notes.
 *   [Tips on Remaining Anonymous](https://www.whonix.org/wiki/DoNot#Use_Clearnet_and_Tor_at_the_Same_Time) - The wiki page provides guidelines and good habits for online privacy and security, with a focus on distinguishing between anonymity and pseudonymity.
-*
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -181,7 +186,6 @@ A curated list of awesome qubes os links
 ### Training and Materials / Extra Info
 
 *   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
-    \[The Guardian]
 *   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
 
 ### Social media / Extra Info

@@ -287,7 +287,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [QubesOS to be remotely manageable thru tor](https://www.whonix.org/wiki/Dev/Qubes_Remote_Support) - QubesOS to be remotely manageable from on-demand, ephemeral, hidden onion service to dom0/AdminVM.
 *   [Qubes-Whonix development notes](https://www.whonix.org/wiki/Dev/Qubes) - Whonix development notes.
 *   [Tips on Remaining Anonymous](https://www.whonix.org/wiki/DoNot#Use_Clearnet_and_Tor_at_the_Same_Time) - The wiki page provides guidelines and good habits for online privacy and security, with a focus on distinguishing between anonymity and pseudonymity.
-*
 
 ### Anonymity
 
@@ -366,6 +365,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Web VNC](https://forum.qubes-os.org/t/remote-qubes-user-testing-running-qubes-in-the-browser/13817) - Running Qubes in the Browser
 *   [VNC (⭐8)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 *   [Software RAID (mdadm) Qubes Installation Procedure](https://forum.qubes-os.org/t/software-raid-mdadm-qubes-installation-procedure-wip/27886) - CLI & Software Raid installation procedure.
+*   [borg-offsite-backup (⭐3)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
 
 ## Exploitation Tools
 
@@ -457,7 +457,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
 *   [The Book of Secret Knowledge (⭐148k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 *   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
-    \[The Guardian]
 *   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
 *   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
 

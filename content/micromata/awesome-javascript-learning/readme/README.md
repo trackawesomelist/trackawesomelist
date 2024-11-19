@@ -2,7 +2,7 @@
 
 A tiny list limited to the best JavaScript Learning Resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 5.2K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 5.4K · 🏷️ Learn
 
 [ [Daily](/content/micromata/awesome-javascript-learning/README.md) / [Weekly](/content/micromata/awesome-javascript-learning/week/README.md) / Overview ]
 
@@ -67,7 +67,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 ## Free eBooks
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐180k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 *   [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 *   [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
@@ -106,7 +106,7 @@ Thin books which you can get through in a few days.
 
 ## Interactive learning
 
-*   [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
+*   [Udacity Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--cd2073) - They also offer more advanced courses.
 *   [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 *   [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
 *   [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
@@ -120,7 +120,7 @@ Thin books which you can get through in a few days.
 *   [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 *   [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
 *   [Practical ES6 (⭐3.1k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
-*   [30 seconds of code (⭐120k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
+*   [30 seconds of code (⭐122k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 *   [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
 ## DOM related
@@ -140,5 +140,5 @@ Thin books which you can get through in a few days.
 
 ## Related
 
-[Awesome CSS Learning (⭐3.4k)](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
+[Awesome CSS Learning (⭐3.5k)](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
 

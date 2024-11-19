@@ -6,6 +6,12 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 [ [Daily](/content/stevesong/awesome-connectivity-info/README.md) / Weekly / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Periodic Global Connectivity Reports
+
+*   [DataReportal](https://datareportal.com/) - Global and national reports on data usage collected via third parties, produced by market analysis firm Kepios.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Regional Connectivity Reports and Data

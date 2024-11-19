@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://adventurelog.app), [Source Code (⭐581)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
+
+### Software / Time Tracking
+
+*   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.2k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
+
 ## [Nov 16, 2024](/content/2024/11/16/README.md)
 
 ### Software / Communication - Custom Communication Systems
@@ -2205,7 +2215,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code (⭐5.7k)](https://github.com/exadel-inc/CompreFace)) `Apache-2.0` `Docker/Java/Nodejs`
 *   [µTask (⭐1.2k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go/Docker`
 
 ### Software / Communication - IRC
@@ -3000,7 +3009,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Discourse](https://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code (⭐42k)](https://github.com/discourse/discourse)) `GPL-2.0` `Docker`
 *   [Flarum](https://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code (⭐15k)](https://github.com/flarum/flarum)) `MIT` `PHP`
 *   [MyBB](https://mybb.com/) - Free, extensible forum software package. ([Source Code (⭐1.1k)](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
-*   [Orange Forum](https://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Source Code (⭐439)](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
 *   [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated platform alternate to Instagram. ([Source Code (⭐5.7k)](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Servers

@@ -2,15 +2,42 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 125 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 126 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
-## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Tools / Ironsworn
+
+*   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions?affiliate_id=844973) - Questions to help build NPC relationships
 
 ### Resources / Ironsworn
 
-*   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001) - Modular supplement with locations, characters, and encounters for Starforged
+*   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
+*   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
+*   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
+*   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Adventure starters for Ironsworn
+*   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles?affiliate_id=844973) - Supplemental oracles for Starforged
+*   [Starswoosh](https://www.drivethrurpg.com/en/product/443900/Starswoosh-An-Ironsworn-Starforged-Quick-Reference-For-Your-eReader?affiliate_id=844973) - Starforged quick reference for e-readers
+*   [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit?affiliate_id=844973) - Compact move, oracle, worksheets and character sheets for Ironsworn
+*   [Traveler's Starforged](https://www.drivethrurpg.com/en/product/495130/traveler-s-starforged-diy-edition?affiliate_id=844973) - Compact move and oracle reference for Starforged
+
+### Hacks and homebrew / Ironsworn
+
+*   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn?affiliate_id=844973) - High magic for Ironsworn
+*   [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD?affiliate_id=844973) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
+*   [Deck of Many Fortunes](https://www.drivethrurpg.com/product/382532?affiliate_id=844973) - Tarot deck offering blessings and malisons for Ironsworn and Starforged
+*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna?affiliate_id=844973) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
+*   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood?affiliate_id=844973) - Supplement in which in which you play vampires struggling through the epochs of time
+*   [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs?affiliate_id=844973) - Japanese, South American and Norse setting card packs
+*   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign?affiliate_id=844973) - Settlement mechanics for Ironsworn
+*   [The Orphans of Ragnarökr](https://www.drivethrurpg.com/product/361512?affiliate_id=844973) - A post-apocalyptic/Ragnarok Viking setting
+*   [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn?affiliate_id=844973) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
+*   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718?affiliate_id=844973) - Generators for wonders you might discover while voyaging through space
+*   [Summer Camp Mystery](https://www.drivethrurpg.com/product/404832/Summer-Camp-Mystery?affiliate_id=844973) - Family summercamp investigation with simplified rules
+
+## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
@@ -21,7 +48,6 @@ An awesome list of awesome Ironsworn projects
 ### Resources / Ironsworn
 
 *   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
-*   [Traveler's Starforged](https://www.drivethrurpg.com/en/product/495130/traveler-s-starforged-diy-edition) - Compact move and oracle reference for Starforged
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
@@ -53,7 +79,6 @@ An awesome list of awesome Ironsworn projects
 ### Resources / Ironsworn
 
 *   [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
-*   [Starswoosh](https://www.drivethrurpg.com/en/product/443900/Starswoosh-An-Ironsworn-Starforged-Quick-Reference-For-Your-eReader) - Starforged quick reference for e-readers
 
 ## [Apr 15 - Apr 21, 2024](/content/2024/16/README.md)
 
@@ -130,15 +155,8 @@ An awesome list of awesome Ironsworn projects
 *   [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 *   [Ironcrunch](https://www.patreon.com/posts/ironcrunch-35463893) - A crunchy Ironsworn supplement
 *   [Ironmons](https://docs.google.com/document/d/1MPLxI_RdVdhqvvvAbjXAt1PnKJ11CMZg4V6NTT7BNx0/) - An Ironsworn Pokemon hack
-*   [Ironsworn Flavor Packs](https://www.drivethrurpg.com/product/374949/Ironsmith-Flavor-Packs) - Japanese, South American and Norse setting card packs
 *   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY/) - A City of Mist / Ironsworn hybrid hack
 *   [Under Contract](https://docs.google.com/document/d/1K1Cr1F1MABw8h-Hm-YL7DH4V9VLmq2Ezn9PEcOsuw-o/) - A cyberpunk hack for Ironsworn
-
-## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
-
-### Resources / Ironsworn
-
-*   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles) - Supplemental oracles for Starforged
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
@@ -165,10 +183,6 @@ An awesome list of awesome Ironsworn projects
 *   [Vaults & Vows](https://ludicpen.itch.io/vaults-and-vows) - Classic fantasy roleplaying supplement
 
 ## [May 08 - May 14, 2023](/content/2023/19/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718) - Generators for wonders you might discover while voyaging through space
 
 ### Game jams / Ironsworn
 
@@ -222,21 +236,11 @@ An awesome list of awesome Ironsworn projects
 
 *   [Ironsworn and Starforged for Foundry VTT (⭐70)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 
-### Hacks and homebrew / Ironsworn
-
-*   [Ironsworn: Reign](https://www.drivethrurpg.com/product/419256/Ironsworn-Reign) - Settlement mechanics for Ironsworn
-
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [SnowForged](https://mmcv.itch.io/ironsworn-snowforged) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
-
-## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -250,13 +254,6 @@ An awesome list of awesome Ironsworn projects
 ### Hacks and homebrew / Ironsworn
 
 *   [Starforged Oracles for Fantasy Settings](https://www.patreon.com/posts/starforged-for-73094405) - Numerous oracles for fantasy settings in Starforged
-
-## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
-*   [Summer Camp Mystery](https://www.drivethrurpg.com/product/404832/Summer-Camp-Mystery) - Family summercamp investigation with simplified rules
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -282,18 +279,6 @@ An awesome list of awesome Ironsworn projects
 ### Hacks and homebrew / Ironsworn
 
 *   [Ringsworn](https://www.dropbox.com/s/72tq31pxzqc7bx0/Ringsworn.pdf?dl=0) - Ironsworn rules grafted onto The One Ring dice mechanics
-
-## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [Deck of Many Fortunes](https://www.drivethrurpg.com/product/382532) - Tarot deck offering blessings and malisons for Ironsworn and Starforged
-
-## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
-
-### Tools / Ironsworn
-
-*   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
@@ -353,17 +338,10 @@ An awesome list of awesome Ironsworn projects
 *   [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
 *   [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
 
-## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
-
-### Hacks and homebrew / Ironsworn
-
-*   [The Orphans of Ragnarökr](https://www.drivethrurpg.com/product/361512) - A post-apocalyptic/Ragnarok Viking setting
-
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
 *   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
@@ -411,21 +389,15 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
 *   [DataForged (⭐189)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
 *   [DataSworn (⭐124)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
-*   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
-*   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
-*   [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
 
 ### Hacks and homebrew / Ironsworn
 
-*   [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
 *   [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
 *   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
-*   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
 *   [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
 *   [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
 

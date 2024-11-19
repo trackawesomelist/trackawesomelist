@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Asynchronous Event Loop
+
+*   [uv-cpp (⭐781)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. \[MIT]
+
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
 ### JSON

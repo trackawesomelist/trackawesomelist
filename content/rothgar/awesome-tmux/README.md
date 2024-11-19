@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Plugins
+
+*   [tmux-command-palette (⭐1)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Plugins

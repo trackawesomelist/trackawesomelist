@@ -2,9 +2,15 @@
 
 A tiny list limited to the best JavaScript Learning Resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 5.2K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 5.4K · 🏷️ Learn
 
 [ [Daily](/content/micromata/awesome-javascript-learning/README.md) / Weekly / [Overview](/content/micromata/awesome-javascript-learning/readme/README.md) ]
+
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Interactive learning / Single Topics
+
+*   [Udacity Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--cd2073) - They also offer more advanced courses.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -77,7 +83,7 @@ A tiny list limited to the best JavaScript Learning Resources
 ### Free eBooks / Single Topics
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series) (⭐178k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐180k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 
 ### Books / Single Topics
 
@@ -144,7 +150,7 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### ES6 and above / Single Topics
 
-*   [30 seconds of code (⭐120k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
+*   [30 seconds of code (⭐122k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
@@ -239,5 +245,4 @@ A tiny list limited to the best JavaScript Learning Resources
 
 ### Interactive learning / Single Topics
 
-*   [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 *   [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
