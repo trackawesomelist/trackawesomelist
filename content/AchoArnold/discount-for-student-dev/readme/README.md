@@ -354,6 +354,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Scrimba](https://scrimba.com/github-education) \[FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 
+*   [LabEx](https://labex.io/) \[DISCOUNT] - LabEx is a platform for students and professionals to learn Linux, DevOps, and Cybersecurity through interactive labs. It features a diverse selection of labs and challenges. Enjoy a 50% discount on the Pro plan. Visit the [Pricing page](https://labex.io/pricing) for details.
+
 ## Data science
 
 *   [Deepnote](https://deepnote.com/education) \[FREE] - The best way to collaborate with others on data science projects. Education plan allows you to create an unlimited amount of Deepnote teams and work with any number of collaborators.

@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Learning Resources
+
+*   [LabEx](https://labex.io/) \[DISCOUNT] - LabEx is a platform for students and professionals to learn Linux, DevOps, and Cybersecurity through interactive labs. It features a diverse selection of labs and challenges. Enjoy a 50% discount on the Pro plan. Visit the [Pricing page](https://labex.io/pricing) for details.
+
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
 ### PaaS

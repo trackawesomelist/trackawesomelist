@@ -6,6 +6,20 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 19, 2024](/content/2024/11/19/README.md)
+
+### Utilities
+
+*   [bed (⭐1.3k)](https://github.com/itchyny/bed) - A Vim-like binary editor written in Go.
+
+### Video
+
+*   [mp4ff (⭐466)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
+
+### Web Frameworks
+
+*   [goravel (⭐2.8k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
+
 ## [Nov 16, 2024](/content/2024/11/16/README.md)
 
 ### Utilities
@@ -4721,8 +4735,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mpd (⭐23)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐2.1k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐697)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
-*   [gst (⭐170)](https://github.com/ziutek/gst) - Go bindings for GStreamer.
-*   [libgosubs (⭐26)](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 *   [libvlc-go (⭐434)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [m3u8 (⭐1.2k)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 *   [v4l (⭐80)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.

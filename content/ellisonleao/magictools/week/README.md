@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / Weekly / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Graphics / Modeling
+
+*   :free [Canvascript (⭐22)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Graphics / Vector/Image Editor
