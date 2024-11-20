@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 244 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 274 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Nov 20, 2024](/content/2024/11/20/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [How to integrate a GitHub wiki into the main project](https://stackoverflow.com/questions/6941688/how-to-integrate-a-github-wiki-into-the-main-project)
 
 ## [Sep 15, 2024](/content/2024/09/15/README.md)
 
@@ -40,7 +46,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5.1k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.2k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -52,13 +58,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐338)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐344)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐196)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐198)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
@@ -124,7 +130,7 @@
 
 ### Examples
 
-*   [apple/foundationdb (⭐14k)](https://github.com/apple/foundationdb/wiki)
+*   [apple/foundationdb (⭐15k)](https://github.com/apple/foundationdb/wiki)
 
 ## [Nov 19, 2022](/content/2022/11/19/README.md)
 
@@ -142,7 +148,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐827)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐833)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
@@ -181,7 +187,7 @@
 
 ### Examples
 
-*   [facebook/react-native (⭐118k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐119k)](https://github.com/facebook/react-native/wiki)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 

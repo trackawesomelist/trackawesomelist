@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 20, 2024](/content/2024/11/20/README.md)
+
+### Miscellaneous
+
+*   [reproc (⭐555)](https://github.com/DaanDeMeyer/reproc) - A cross-platform (C99/C++11) process library. \[MIT]
+
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 
 ### Asynchronous Event Loop
