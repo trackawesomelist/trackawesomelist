@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 21, 2024](/content/2024/11/21/README.md)
+
+### APIs, Data, and ML
+
+*   [GoCardless](https://gocardless.com/) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
+
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
 ### APIs, Data, and ML
@@ -1314,10 +1320,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
 
-### IaaS
-
-*   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage and web Hosting to Decentralised Compute for Apps and developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain and projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
-
 ## [Aug 03, 2023](/content/2023/08/03/README.md)
 
 ### CI and CD
@@ -2416,10 +2418,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [windmill.dev](https://windmill.dev/) - Windmill is an open-source developer platform to quickly build production-grade multi-step automation and internal apps from minimal Python and Typescript scripts. As a free user, you can create and be a member of at most three non-premium workspaces.
 
 ## [Jul 31, 2022](/content/2022/07/31/README.md)
-
-### APIs, Data, and ML
-
-*   [Nordigen](https://nordigen.com) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
 
 ### Design and UI
 

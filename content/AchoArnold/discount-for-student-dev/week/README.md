@@ -20,6 +20,11 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [Typeform](https://www.typeform.com/help/a/non-profit-ngo-and-student-discounts-at-typeform-360039728951/) \[DISCOUNT] - Interactive forms, surveys & quizzes to engage and grow your audience with professional discount plan.
 *   [Simple Analytics](https://dashboard.simpleanalytics.com/students) \[FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
+*   [Zyte](https://www.zyte.com/scrapy-cloud-student-backpack/) \[FREE] - Scrapy Cloud is a battle-tested cloud platform for running web crawlers (aka. spiders). As a student, you can start scraping the web in minutes and deploy code to Scrapy Cloud via your command line or directly with GitHub for free. Spiders will crawl forever, plus your data will be cached for 120 days.
+
+### Game Development Tools
+
+*   [Unity3D](https://unity.com/products/unity-student) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 ### Learning Resources
 
@@ -147,10 +152,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [CodeScene](https://education.github.com/pack) \[FREE] - A powerful visualization tool that uses Predictive Analytics to identify social patterns in your code, detect delivery risks and manage technical debt.A free Student account to analyze private GitHub repositories.
 *   [DailyBot](https://education.github.com/pack) \[FREE] - Automate daily stand-ups, follow-ups, retrospectives, surveys and feedback for your team.DailyBot Business plan free for 1 year.
-
-### Game Development Tools
-
-*   [Unity3D](https://education.github.com/pack) \[FREE] -Accomplish your creative goals using the world’s leading real-time development platform, used to create half of the world’s games.Unity Student Plan free while you are a student.
 
 ### Infrastructure Monitoring
 

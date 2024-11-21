@@ -10,6 +10,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
+*   [GoCardless](https://gocardless.com/) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
 *   [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
@@ -1075,10 +1076,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
 
-### IaaS
-
-*   [Spheron](https://spheron.network/) — From Decentralised Cloud Storage and web Hosting to Decentralised Compute for Apps and developers under one platform, the Free plan provides 5GB Storage, 100GB Bandwidth, Unlimited Domain and projects, $5 worth of Compute resources (Worth $50 w\.r.t AWS).
-
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
 ### CI and CD
@@ -1952,10 +1949,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [windmill.dev](https://windmill.dev/) - Windmill is an open-source developer platform to quickly build production-grade multi-step automation and internal apps from minimal Python and Typescript scripts. As a free user, you can create and be a member of at most three non-premium workspaces.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
-
-### APIs, Data, and ML
-
-*   [Nordigen](https://nordigen.com) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
 
 ### Testing
 

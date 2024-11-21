@@ -12,6 +12,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [bRAGAI/bRAG-langchain (⭐617)](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
 
+### Autonomous LLM Agents / Multi-agents
+
+*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109)
+
 ### Jobs in Generative AI / Deforum
 
 *   [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)

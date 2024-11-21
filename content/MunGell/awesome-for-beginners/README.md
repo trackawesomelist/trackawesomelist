@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Nov 21, 2024](/content/2024/11/21/README.md)
+
+### Python
+
+*   [FastAPI (⭐78k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
 ### Rust
@@ -199,7 +205,6 @@ A list of awesome beginners-friendly projects.
 *   [json-editor (⭐4.5k)](https://github.com/json-editor/json-editor) *(label: good first issue)* <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 *   [Kinto.js (⭐318)](https://github.com/Kinto/kinto.js) *(label: easy-pick)* <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 *   [Leaflet (⭐41k)](https://github.com/Leaflet/Leaflet) *(label: good first issue)* <br> JavaScript library for mobile-friendly interactive maps.
-*   [Letra Extension (⭐365)](https://github.com/jayehernandez/letra-extension) *(label: good first issue)* <br> Passively learn a new language every time you open a new tab.
 *   [material-ui (⭐94k)](https://github.com/mui-org/material-ui) *(label: good first issue)* <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) *(label: good first issue)* <br> Meteor is an ultra-simple environment for building modern web applications.
 *   [Mocha (⭐23k)](https://github.com/mochajs/mocha) *(label: good first issue)* <br> Javascript test framework for Node.js and the browser.

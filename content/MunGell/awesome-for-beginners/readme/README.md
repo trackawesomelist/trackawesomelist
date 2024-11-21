@@ -183,7 +183,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 *   [json-editor (⭐4.5k)](https://github.com/json-editor/json-editor) *(label: good first issue)* <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 *   [Kinto.js (⭐318)](https://github.com/Kinto/kinto.js) *(label: easy-pick)* <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 *   [Leaflet (⭐41k)](https://github.com/Leaflet/Leaflet) *(label: good first issue)* <br> JavaScript library for mobile-friendly interactive maps.
-*   [Letra Extension (⭐365)](https://github.com/jayehernandez/letra-extension) *(label: good first issue)* <br> Passively learn a new language every time you open a new tab.
 *   [material-ui (⭐94k)](https://github.com/mui-org/material-ui) *(label: good first issue)* <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 *   [Mattermost (⭐31k)](https://github.com/mattermost/mattermost-server/issues?utf8=✓\&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") *(label: n/a)* <br> Open source Slack-alternative in Golang and React
 *   [Meteor (⭐44k)](https://github.com/meteor/meteor) *(label: good first issue)* <br> Meteor is an ultra-simple environment for building modern web applications.
@@ -298,6 +297,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 *   [django cookiecutter (⭐12k)](https://github.com/pydanny/cookiecutter-django) *(label: hacktoberfest)* <br> An implementation of Python for backend web development.
 *   [Embedchain (⭐23k)](https://github.com/embedchain/embedchain/) *(label: good first issue)* <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 *   [Fabric (⭐15k)](https://github.com/fabric/fabric) *(label: Low-hanging-fruit)* <br> Pythonic remote execution and deployment.
+*   [FastAPI (⭐78k)](https://github.com/tiangolo/fastapi) *(label: good first issue)* <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
 *   [H2O Wave (⭐4k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [H2O Wave Apps (⭐148)](https://github.com/h2oai/wave-apps) *(label: hacktoberfest)* <br> Sample AI Apps built with H2O Wave.
 *   [Harmony (⭐8)](https://github.com/harmonydata/harmony) *(label: Good First Issue)* <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!
