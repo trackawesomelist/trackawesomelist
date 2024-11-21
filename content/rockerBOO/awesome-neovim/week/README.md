@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [chrisgrieser/nvim-justice (⭐7)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 
+### GitHub / Diagnostics
+
+*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### (requires Neovim 0.5)
@@ -1708,10 +1712,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme Creation / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.hues (⭐5.3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
-
-### GitHub / Diagnostics
-
-*   [topaxi/gh-actions.nvim (⭐120)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
 
 ## [May 01 - May 07, 2023](/content/2023/18/README.md)
 

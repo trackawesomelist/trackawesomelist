@@ -1177,7 +1177,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [pwntester/octo.nvim (⭐2.4k)](https://github.com/pwntester/octo.nvim) - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 *   [pwntester/codeql.nvim (⭐97)](https://github.com/pwntester/codeql.nvim) - Neovim plugin to help writing and testing CodeQL queries.
 *   [ldelossa/gh.nvim (⭐550)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
-*   [topaxi/gh-actions.nvim (⭐120)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
+*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [rawnly/gist.nvim (⭐181)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 *   [2KAbhishek/octohub.nvim (⭐62)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 

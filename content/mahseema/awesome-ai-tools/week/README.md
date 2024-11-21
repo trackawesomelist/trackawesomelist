@@ -2,9 +2,15 @@
 
 A curated list of Artificial Intelligence Top Tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 1.3K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mahseema/awesome-ai-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) · ⭐ 1.4K · 🏷️ Computer Science
 
 [ [Daily](/content/mahseema/awesome-ai-tools/README.md) / Weekly / [Overview](/content/mahseema/awesome-ai-tools/readme/README.md) ]
+
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Editor's Choice
+
+*   [There's an AI](https://theresanai.com) - List of best AI Tools
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
@@ -23,7 +29,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Text / Developer tools
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6.4k)](https://github.com/langfuse/langfuse)
 *   [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 *   [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
 *   [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
@@ -62,7 +68,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 *   [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 *   [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
-*   [Harbor (⭐458)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+*   [Harbor (⭐539)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 
 ### Learn AI free / Machine Learning
 
@@ -83,7 +89,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Code / Developer tools
 
-*   [WhoDB (⭐836)](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+*   [WhoDB (⭐1.9k)](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 
 ### Audio / Marketing AI Tools
 
@@ -102,13 +108,13 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Marketing (⭐39)](https://github.com/marketingtoolslist/awesome-marketing)
+*   [Awesome Marketing (⭐46)](https://github.com/marketingtoolslist/awesome-marketing)
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
 ### Code / Developer tools
 
-*   [AI Kernel Explorer (⭐11)](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+*   [AI Kernel Explorer (⭐13)](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 
 ### Audio / AI Voice Cloning
 
@@ -136,14 +142,9 @@ A curated list of Artificial Intelligence Top Tools
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
-### Related Awesome Lists / Deep Learning
-
-*   [Altern](https://altern.ai) - Find Best AI Tools
-*   [Awesome AI Models (⭐33)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
-
 ### Text / Search engines
 
-*   [MemFree (⭐749)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+*   [MemFree (⭐1k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 
 ### Text / Writing assistants
 
@@ -166,7 +167,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Code / Developer tools
 
-*   [MutahunterAI (⭐238)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
+*   [MutahunterAI (⭐244)](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 
 ### Image / Services
 
@@ -189,6 +190,11 @@ A curated list of Artificial Intelligence Top Tools
 ### Learn AI free / Machine Learning
 
 *   [AI and Machine Learning Roadmaps](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
+
+### Related Awesome Lists / Deep Learning
+
+*   [Altern](https://altern.ai) - Find Best AI Tools
+*   [Awesome AI Models (⭐35)](https://github.com/dariubs/awesome-ai-models) - A curated list of top AI models and LLMs
 
 ## [Jul 15 - Jul 21, 2024](/content/2024/29/README.md)
 
@@ -244,7 +250,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐268)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐277)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -341,7 +347,7 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome AI Books (⭐72)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
+*   [Awesome AI Books (⭐75)](https://github.com/mahseema/aibooks) - Curated List of Top AI and ML Books
 *   [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
@@ -446,11 +452,11 @@ A curated list of Artificial Intelligence Top Tools
 
 ### Other / Music
 
-*   [Petals (⭐9.2k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
+*   [Petals (⭐9.3k)](https://github.com/bigscience-workshop/petals) - BitTorrent style platform for running AI models in a distributed way.
 
 ### Learning resources / Music
 
-*   [OpenAI Cookbook (⭐59k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+*   [OpenAI Cookbook (⭐60k)](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 *   [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
@@ -510,7 +516,7 @@ A curated list of Artificial Intelligence Top Tools
 ### Text / Local search engines
 
 *   [privateGPT (⭐54k)](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
-*   [quivr (⭐36k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+*   [quivr (⭐37k)](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Text / Writing assistants
 
@@ -579,7 +585,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 *   [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 *   [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-*   [gpt4all (⭐70k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+*   [gpt4all (⭐71k)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
 *   [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 *   [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 *   [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
@@ -596,11 +602,11 @@ A curated list of Artificial Intelligence Top Tools
 *   [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 *   [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 *   [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-*   [PR-Agent (⭐5.8k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+*   [PR-Agent (⭐6.1k)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 *   [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 *   [TurboPilot (⭐3.8k)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
-*   [GPT-Code UI (⭐3.5k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
-*   [MetaGPT (⭐44k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [GPT-Code UI (⭐3.6k)](https://github.com/ricklamers/gpt-code-ui) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
+*   [MetaGPT (⭐45k)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
 ### Image / Models
 
@@ -657,7 +663,7 @@ A curated list of Artificial Intelligence Top Tools
 *   [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
 *   [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 *   [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
-*   [Hugging Face Diffusion Models Course (⭐3.6k)](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+*   [Hugging Face Diffusion Models Course (⭐3.7k)](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ### Video / Stable Diffusion resources
 

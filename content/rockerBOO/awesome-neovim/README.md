@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 21, 2024](/content/2024/11/21/README.md)
+
+### GitHub / Diagnostics
+
+*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 
 ### Web Development / Diagnostics
@@ -2133,10 +2139,6 @@ Collections of awesome neovim plugins.
 ### Colorscheme Creation / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.hues (⭐5.3k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
-
-### GitHub / Diagnostics
-
-*   [topaxi/gh-actions.nvim (⭐120)](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
 
 ## [May 05, 2023](/content/2023/05/05/README.md)
 

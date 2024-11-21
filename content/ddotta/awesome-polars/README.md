@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Nov 21, 2024](/content/2024/11/21/README.md)
+
+### Libraries/Packages/Scripts / Python
+
+*   [cerburus (⭐1)](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
+
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
 ### Resources / Blog posts

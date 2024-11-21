@@ -6,6 +6,16 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Nov 21, 2024](/content/2024/11/21/README.md)
+
+### Tools / Graphics utilities
+
+*   [GB-convert (⭐0)](https://github.com/gb-archive/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
+
+### ASM / Syntax highlighting packages
+
+*   [exeman (⭐0)](https://github.com/gb-archive/exeman)
+
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
 ### C / Syntax highlighting packages
@@ -299,7 +309,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Tools / Development tools
 
 *   [gbdk-lib-extension (⭐12)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
-*   [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 *   [mgbdis (⭐252)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
 *   [romusage (⭐47)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
@@ -755,7 +764,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐898)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐902)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -810,7 +819,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [GBTiles (⭐15)](https://github.com/bashaus/gbtiles) - Converts .GBR files created with Harry Mulder's Tile Designer (GBTD) and .GBM files created with Harry Mulder's Map Builder (GBMB) to different formats for use with the Game Boy and GBDK.
 *   [bmp2cgb (⭐26)](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
 *   [png2gb (⭐21)](https://github.com/LuckyLights/png2gb) - CLI tool to convert image file to game boy .c array.
-*   [GB-convert](https://github.com/exezin/gb-convert) - Game Boy tile conversion and map editor tool (converts to assembly).
 *   [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 
 ## [Jul 17, 2018](/content/2018/07/17/README.md)
@@ -846,7 +854,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Sushi (⭐5)](https://github.com/JustSid/Sushi)
 *   [Flappy-boy-asm (⭐91)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐15)](https://github.com/tbsp/Adjustris)
-*   [exeman](https://github.com/exezin/exeman/)
 *   [Aevilia (⭐56)](https://github.com/ISSOtm/Aevilia-GB)
 *   [GBSlides (⭐29)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 *   [Pokered-gbc (⭐142)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
