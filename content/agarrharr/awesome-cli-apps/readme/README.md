@@ -126,7 +126,7 @@ Inspired by the [awesome (⭐333k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.1k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐4.8k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐86k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐90k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -284,6 +284,7 @@ Inspired by the [awesome (⭐333k)](https://github.com/sindresorhus/awesome) lis
 *   [Watson (⭐2.5k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐330)](https://github.com/larose/utt) - Simple time tracking tool.
 *   [Bartib (⭐685)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [arttime (⭐961)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
 

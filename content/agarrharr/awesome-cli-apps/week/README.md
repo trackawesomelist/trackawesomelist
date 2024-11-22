@@ -6,6 +6,12 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Productivity / Time Tracking
+
+*   [arttime (⭐961)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Entertainment / Games
@@ -135,7 +141,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐86k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐90k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Productivity / Note Taking and Lists
 

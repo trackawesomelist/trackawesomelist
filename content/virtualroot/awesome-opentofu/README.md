@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Nov 22, 2024](/content/2024/11/22/README.md)
+
+### Tools / Platforms
+
+*   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
+
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Features
@@ -41,7 +47,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [pug (⭐460)](https://github.com/leg100/pug) - A terminal user interface for power users.
+*   [pug (⭐476)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -108,13 +114,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Tools / Registry
 
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
-*   [terralist (⭐323)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [terralist (⭐329)](https://github.com/terralist/terralist) - Private registry for providers and modules.
 *   [citizen (⭐625)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 *   [petra (⭐42)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-*   [tapir (⭐204)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
+*   [tapir (⭐206)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
 *   [terraform-registry (⭐90)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 *   [terrareg (⭐274)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
-*   [terustry (⭐64)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+*   [terustry (⭐65)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
@@ -139,7 +145,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [Atmos (⭐773)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+*   [Atmos (⭐804)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
 
 ### Tools / Providers
 
@@ -174,11 +180,11 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Registry
 
-*   [boring-registry (⭐173)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+*   [boring-registry (⭐179)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
-*   [terratag (⭐944)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [terratag (⭐946)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 
 ### Learning / Helpers
 
@@ -206,13 +212,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Environment managers
 
-*   [tenv (⭐712)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tenv (⭐741)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
 ### Tools / Environment managers
 
-*   [tofuenv (⭐167)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [tofuenv (⭐170)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ## [Dec 20, 2023](/content/2023/12/20/README.md)
 

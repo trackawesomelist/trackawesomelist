@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ [Daily](/content/virtualroot/awesome-opentofu/README.md) / Weekly / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
+
+### Tools / Platforms
+
+*   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Features
@@ -41,7 +47,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [pug (⭐460)](https://github.com/leg100/pug) - A terminal user interface for power users.
+*   [pug (⭐476)](https://github.com/leg100/pug) - A terminal user interface for power users.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -117,13 +123,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [hermitcrab (⭐24)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 *   [terrac (⭐30)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
 *   [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
-*   [terralist (⭐323)](https://github.com/terralist/terralist) - Private registry for providers and modules.
+*   [terralist (⭐329)](https://github.com/terralist/terralist) - Private registry for providers and modules.
 *   [citizen (⭐625)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 *   [petra (⭐42)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-*   [tapir (⭐204)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
+*   [tapir (⭐206)](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
 *   [terraform-registry (⭐90)](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 *   [terrareg (⭐274)](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
-*   [terustry (⭐64)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+*   [terustry (⭐65)](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
 
 ## [Feb 19 - Feb 25, 2024](/content/2024/8/README.md)
 
@@ -133,7 +139,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Wrappers
 
-*   [Atmos (⭐773)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
+*   [Atmos (⭐804)](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
 *   [Terramate (⭐3.3k)](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 *   [easy\_infra (⭐68)](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 *   [tfam (⭐22)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
@@ -159,11 +165,11 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Registry
 
-*   [boring-registry (⭐173)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+*   [boring-registry (⭐179)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
 
 ### Tools / Helpers
 
-*   [terratag (⭐944)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [terratag (⭐946)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 
 ### Learning / Helpers
 
@@ -191,13 +197,13 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 ### Tools / Environment managers
 
-*   [tenv (⭐712)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
+*   [tenv (⭐741)](https://github.com/tofuutils/tenv) - Terraform and OpenTofu version manager written in Go.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Tools / Environment managers
 
-*   [tofuenv (⭐167)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
+*   [tofuenv (⭐170)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv.
 
 ## [Dec 18 - Dec 24, 2023](/content/2023/51/README.md)
 

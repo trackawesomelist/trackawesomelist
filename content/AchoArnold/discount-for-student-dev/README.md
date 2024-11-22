@@ -6,6 +6,29 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Nov 22, 2024](/content/2024/11/22/README.md)
+
+### SaaS
+
+*   [Appwrite](https://appwrite.io/education) \[FREE] - Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.  Free access to Appwrite Pro (worth $15/month) throughout your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack).
+*   [StreamYard](https://streamyard.com/github-students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
+*   [Bump.sh](https://bump.sh/students) \[FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
+*   [Doppler](https://doppler.com/lp/secretsops-for-students) \[FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
+
+### Programming Help
+
+*   [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) \[FREE] - Free access to Copilot Individual while you're a student. To enable Copilot, go to your account settings and select Copilot under Code, planning, and Automation to sign up for free. Or click on the link below to claim the offer.
+
+### Visual Analytics
+
+*   [New Relic](https://newrelic.com/social-impact/students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
+
+### Learning Resources
+
+*   [GitHub Foundations Certification](https://examregistration.github.com/certification/GHF) \[FREE] - Waived fee on your first GitHub Foundations Certifications exam (worth $99).
+*   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
+*   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
+
 ## [Nov 21, 2024](/content/2024/11/21/README.md)
 
 ### Visual Analytics

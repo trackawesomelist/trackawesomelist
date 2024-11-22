@@ -8,6 +8,13 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
+### SaaS
+
+*   [Appwrite](https://appwrite.io/education) \[FREE] - Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.  Free access to Appwrite Pro (worth $15/month) throughout your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack).
+*   [StreamYard](https://streamyard.com/github-students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
+*   [Bump.sh](https://bump.sh/students) \[FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
+*   [Doppler](https://doppler.com/lp/secretsops-for-students) \[FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
+
 ### PaaS
 
 *   [Northflank](https://northflank.com/student-developer-pack) \[FREE] - Build and deploy microservices, jobs and managed databases. Perfect for student and university projects and team collaboration. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database. Or 4 services via [Northflank Student Developer Pack](https://northflank.com/student-developer-pack).
@@ -16,11 +23,16 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 *   [MongoDB](https://www.mongodb.com/students) \[FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
 
+### Programming Help
+
+*   [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) \[FREE] - Free access to Copilot Individual while you're a student. To enable Copilot, go to your account settings and select Copilot under Code, planning, and Automation to sign up for free. Or click on the link below to claim the offer.
+
 ### Visual Analytics
 
 *   [Typeform](https://www.typeform.com/help/a/non-profit-ngo-and-student-discounts-at-typeform-360039728951/) \[DISCOUNT] - Interactive forms, surveys & quizzes to engage and grow your audience with professional discount plan.
 *   [Simple Analytics](https://dashboard.simpleanalytics.com/students) \[FREE] - Privacy-friendly analytics with a simple interface and API.Starter plan free for one year, including 100k page views per month.
 *   [Zyte](https://www.zyte.com/scrapy-cloud-student-backpack/) \[FREE] - Scrapy Cloud is a battle-tested cloud platform for running web crawlers (aka. spiders). As a student, you can start scraping the web in minutes and deploy code to Scrapy Cloud via your command line or directly with GitHub for free. Spiders will crawl forever, plus your data will be cached for 120 days.
+*   [New Relic](https://newrelic.com/social-impact/students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
 
 ### Game Development Tools
 
@@ -31,6 +43,9 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 *   [Association of Computing Machinery with Digital Library](https://www.acm.org/membership/membership-options) \[DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
 *   [Scrimba](https://scrimba.com/github-education) \[FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 *   [LabEx](https://labex.io/) \[DISCOUNT] - LabEx is a platform for students and professionals to learn Linux, DevOps, and Cybersecurity through interactive labs. It features a diverse selection of labs and challenges. Enjoy a 50% discount on the Pro plan. Visit the [Pricing page](https://labex.io/pricing) for details.
+*   [GitHub Foundations Certification](https://examregistration.github.com/certification/GHF) \[FREE] - Waived fee on your first GitHub Foundations Certifications exam (worth $99).
+*   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
+*   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 

@@ -169,6 +169,14 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 
 *   [Webflow](https://webflow.com/classroom/student-application) \[FREE] - Enjoy a free annual CMS site plan. Apply using a student ID. Follow the link to know more.
 
+*   [Appwrite](https://appwrite.io/education) \[FREE] - Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.  Free access to Appwrite Pro (worth $15/month) throughout your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack).
+
+*   [StreamYard](https://streamyard.com/github-students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
+
+*   [Bump.sh](https://bump.sh/students) \[FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
+
+*   [Doppler](https://doppler.com/lp/secretsops-for-students) \[FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
+
 ## PaaS
 
 *   [Amazon Web Services](https://www.awseducate.com/application) \[FREE] - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
@@ -224,6 +232,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Covalence](https://education.github.com/pack)\[FREE] - Join an exclusive developer community and learn Full Stack web-development with no long-term commitments.One free month of Covalence's Atomic Plan and two 1-on-1 mentoring sessions via [Github Student Developer Pack](https://education.github.com/pack).
 
 *   [Transloadit](https://transloadit.com/github-students/) \[FREE] - A versatile uploading & encoding API to automate any file conversion. The Startup plan for free, including 10GB of encoding credit.
+
+*   [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) \[FREE] - Free access to Copilot Individual while you're a student. To enable Copilot, go to your account settings and select Copilot under Code, planning, and Automation to sign up for free. Or click on the link below to claim the offer.
 
 ## Domain Name Registers
 
@@ -286,6 +296,8 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [AnyChart](https://www.anychart.com/buy/non-commercial-license/) \[FREE] - A flexible JavaScript library for creating interactive charts, maps, and dashboards for visual analytics. Provides students with a free license for use in their education or other non-commercial projects.
 
 *   [Zyte](https://www.zyte.com/scrapy-cloud-student-backpack/) \[FREE] - Scrapy Cloud is a battle-tested cloud platform for running web crawlers (aka. spiders). As a student, you can start scraping the web in minutes and deploy code to Scrapy Cloud via your command line or directly with GitHub for free. Spiders will crawl forever, plus your data will be cached for 120 days.
+
+*   [New Relic](https://newrelic.com/social-impact/students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
 
 ## Game Development Tools
 
@@ -357,6 +369,12 @@ If you're not inclined to make PRs you can tweet me at [@acho\_arnold](https://t
 *   [Scrimba](https://scrimba.com/github-education) \[FREE] - Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses available via [Github Student Developer Pack](https://education.github.com/pack).
 
 *   [LabEx](https://labex.io/) \[DISCOUNT] - LabEx is a platform for students and professionals to learn Linux, DevOps, and Cybersecurity through interactive labs. It features a diverse selection of labs and challenges. Enjoy a 50% discount on the Pro plan. Visit the [Pricing page](https://labex.io/pricing) for details.
+
+*   [GitHub Foundations Certification](https://examregistration.github.com/certification/GHF) \[FREE] - Waived fee on your first GitHub Foundations Certifications exam (worth $99).
+
+*   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
+
+*   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
 
 ## Data science
 
