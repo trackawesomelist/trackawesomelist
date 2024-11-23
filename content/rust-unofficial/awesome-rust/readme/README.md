@@ -158,6 +158,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
 *   [Rauthy (⭐350)](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 *   [Rio (⭐4k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+*   [Rust Iot Platform (⭐75)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 *   [rx (⭐3.1k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 *   [Ryot (⭐2k)](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
 *   [Servo (⭐28k)](https://github.com/servo/servo) - A prototype web browser engine

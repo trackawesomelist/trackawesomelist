@@ -6,6 +6,34 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Nov 23, 2024](/content/2024/11/23/README.md)
+
+### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [a11y-accessibility-first (⭐1)](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [bolt](https://bolt.new/) -  Dev sandbox with AI from StackBlitz.
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-package-starter (⭐2)](https://github.com/uzenith360/ngx-package-starter) - An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo.
+*   [@EmilGramDK/angular-template (⭐1)](https://github.com/EmilGramDK/angular-template) - Angular with auth and PrimeNG.
+*   [rx-clarity-template (⭐4)](https://github.com/wghglory/rx-clarity-template) - clarity angular template using angular 17, standalone app.
+*   [ngx-jwt-auth (⭐1)](https://github.com/panesardev/ngx-jwt-auth) - Angular JWT Authentication Starter Template.
+*   [ngx-starter (⭐1)](https://github.com/panesardev/ngx-starter) - Angular SSR Project Starter Template.
+*   [@cristobalgvera/angular-template (⭐1)](https://github.com/cristobalgvera/angular-template) - Project to easily start an Angular project using Server Side Rendering, Angular Material, and Tailwind CSS. It also includes development tools to easy your workflow.
+*   [angular-boilerplate (⭐1)](https://github.com/hofiorg/angular-boilerplate) - A boilerplate for modern web apps using Angular 18 with Bootstrap, Angular Material, and NgRx for responsive, stateful UIs. Back-end is powered by Spring Boot with a RESTful JSON API. Features include modular architecture and advanced table handling with ngx-datatable.
+*   [electron-typescript-angular (⭐1)](https://github.com/supersu-man/electron-typescript-angular) - Really simple Electron + Typescript + Angular boilerplate.
+*   [nx-starter (⭐4)](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
+*   [ng-starter-template (⭐1)](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
+*   [angular-material-tailwind-playwright-starter (⭐1)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
+
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-iban-validator (⭐3)](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
+
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

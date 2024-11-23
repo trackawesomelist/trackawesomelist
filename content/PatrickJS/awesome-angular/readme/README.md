@@ -428,6 +428,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
 *   [astral-accessibility (⭐21)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 *   [angular-vlibras (⭐2)](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
+*   [a11y-accessibility-first (⭐1)](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
 
 #### AI
 
@@ -542,6 +543,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Developer tools
 
 *   [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
+*   [bolt](https://bolt.new/) -  Dev sandbox with AI from StackBlitz.
 *   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 *   [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.
 *   [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
@@ -786,6 +788,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [sanity-template-angular-clean (⭐9)](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 *   [angular-templates (⭐13)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 *   [LightNap (⭐61)](https://github.com/SharpLogic/LightNap) - LightNap (lightweight .NET Core/Angular/PrimeNG) is a full stack starter kit designed to provide a boost to Single Page Applications (SPA). It includes built-in support for ASP.NET Core Identity, JWT token management, and administrative features for managing identity, offering a solid foundation to be extended for any application scenario.
+*   [ngx-package-starter (⭐2)](https://github.com/uzenith360/ngx-package-starter) - An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo.
+*   [@EmilGramDK/angular-template (⭐1)](https://github.com/EmilGramDK/angular-template) - Angular with auth and PrimeNG.
+*   [rx-clarity-template (⭐4)](https://github.com/wghglory/rx-clarity-template) - clarity angular template using angular 17, standalone app.
+*   [ngx-jwt-auth (⭐1)](https://github.com/panesardev/ngx-jwt-auth) - Angular JWT Authentication Starter Template.
+*   [ngx-starter (⭐1)](https://github.com/panesardev/ngx-starter) - Angular SSR Project Starter Template.
+*   [@cristobalgvera/angular-template (⭐1)](https://github.com/cristobalgvera/angular-template) - Project to easily start an Angular project using Server Side Rendering, Angular Material, and Tailwind CSS. It also includes development tools to easy your workflow.
+*   [angular-boilerplate (⭐1)](https://github.com/hofiorg/angular-boilerplate) - A boilerplate for modern web apps using Angular 18 with Bootstrap, Angular Material, and NgRx for responsive, stateful UIs. Back-end is powered by Spring Boot with a RESTful JSON API. Features include modular architecture and advanced table handling with ngx-datatable.
+*   [electron-typescript-angular (⭐1)](https://github.com/supersu-man/electron-typescript-angular) - Really simple Electron + Typescript + Angular boilerplate.
+*   [nx-starter (⭐4)](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
+*   [ng-starter-template (⭐1)](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
+*   [angular-material-tailwind-playwright-starter (⭐1)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
 
 ##### Paid
 
@@ -1184,6 +1197,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     to simplify usage and allow quick customization.
 *   [ngx-error-msg (⭐1)](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
 *   [ngx-form-errors (⭐11)](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
+*   [ngx-iban-validator (⭐3)](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
 
 #### Icons
 

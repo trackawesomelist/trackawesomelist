@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 23, 2024](/content/2024/11/23/README.md)
+
+### Messaging and Streaming
+
+*   [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
+
 ## [Nov 21, 2024](/content/2024/11/21/README.md)
 
 ### APIs, Data, and ML
@@ -1772,7 +1778,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Authentication, Authorization, and User Management
 
-*   [Auth0](https://auth0.com/) — Hosted SSO. Up to 7000 active users and two social identity providers.
+*   [Auth0](https://auth0.com/) — Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.
 *   [Okta](https://developer.okta.com/signup/) — User management, authentication and authorization. Free for up to 100 monthly active users.
 
 ## [Feb 25, 2023](/content/2023/02/25/README.md)

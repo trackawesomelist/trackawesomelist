@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
+### Applications
+
+*   [Rust Iot Platform (⭐75)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
+
 ### Libraries / Scripting
 
 *   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust

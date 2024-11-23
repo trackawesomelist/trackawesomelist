@@ -13,6 +13,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [GoCardless](https://gocardless.com/) — Free open banking data API. PSD2. Connect 2300+ banks with your app/software in EU+UK.
 *   [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
 
+### Messaging and Streaming
+
+*   [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### APIs, Data, and ML
@@ -1442,7 +1446,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Authentication, Authorization, and User Management
 
-*   [Auth0](https://auth0.com/) — Hosted SSO. Up to 7000 active users and two social identity providers.
+*   [Auth0](https://auth0.com/) — Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.
 *   [Okta](https://developer.okta.com/signup/) — User management, authentication and authorization. Free for up to 100 monthly active users.
 
 ### Messaging and Streaming

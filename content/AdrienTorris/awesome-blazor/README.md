@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 23, 2024](/content/2024/11/23/README.md)
+
+### Videos / Others
+
+*   [Why I'm Worried About Blazor and its Future](https://www.youtube.com/watch?v=s34SR24pgfE) - November 20, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Why I'm Worried About Blazor and its Future, by Nick Chapsas.
+
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 
 ### Videos / Others
