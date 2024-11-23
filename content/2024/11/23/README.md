@@ -1,24 +1,36 @@
 # Awesome List Updates on Nov 23, 2024
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [RoughVolatilityWorkshop (⭐14)](https://github.com/jgatheral/RoughVolatilityWorkshop) - 2024 QuantMind's Rough Volatility Workshop lectures.
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / Cognitive Foundations
+
+*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### License / WIP
 
 *   [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) aka [LICENSE-CC0](https://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md/LICENSE-CC0)
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [Rust Iot Platform (⭐75)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 
-## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [5. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### General
 
@@ -39,25 +51,25 @@
 *   [SBEMU (⭐625)](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
 *   [VSB (⭐64)](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
-## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [PlexRipper/PlexRipper (⭐283)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Messaging and Streaming
 
 *   [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [Why I'm Worried About Blazor and its Future](https://www.youtube.com/watch?v=s34SR24pgfE) - November 20, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Why I'm Worried About Blazor and its Future, by Nick Chapsas.
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

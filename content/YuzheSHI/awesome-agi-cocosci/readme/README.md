@@ -16,7 +16,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 An **awesome & curated** list for **Artificial General Intelligence**, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences as majority, alone with probability and statistics, formal logic, cognitive and developmental psychology, computational philosophy, cognitive neuroscience, and computational sociology. We are promoting high-level machine intelligence by getting inspirations from the way that human learns and thinks, while obtaining a deeper understanding of human cognition simultaneously. We believe that this kind of reciprocative research is a potential way towards our big picture: building human-level intelligent systems with capabilities such as abstracting, explaining, learning, planning, and making decisions. And such intelligence may generally help people improve scientific research, engineering, and the arts, which are the hallmarks of human intelligence.
 
-***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and tutorials, to papers and books around diverse topics in mutiple perspectives. Both junior and senior researchers, whether learning, working on, or working around AGI and CoCoSci, meet their interest here.
+***Awesome AGI & CoCoSci*** is an all-in-one collection, consisting of recources from basic courses and tutorials, to papers and books around diverse topics in mutiple perspectives. Both junior and senior researchers, whether learning, working on, or working around AGI and CoCoSci, meet their interest here. <span style="color:#DB4437">color red</span>
 
 ## Contributing
 
@@ -58,6 +58,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
         *   [Declarative DSL Applications](#declarative-dsl-applications)
         *   [Logic DSL Applications](#logic-dsl-applications)
         *   [DSL Program Synthesis](#dsl-program-synthesis)
+        *   [Cognitive Foundations](#cognitive-foundations)
     *   [Problem Solving](#problem-solving)
         *   [Human-Level Problem Solving](#human-level-problem-solving)
         *   [Planning](#planning)
@@ -781,6 +782,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 \*[Back to Top](#c)
 
 #### Cognitive Foundations
+
+*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
 
 \*[Back to Top](#c)
 
@@ -2059,8 +2062,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 *   [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer) - ***Child Development***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 *   [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914\&hl=en\&as_sdt=0,5)].
-
-*   [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743\&hl=en\&as_sdt=2005\&sciodt=0,5\&as_ylo=2017)].
 
 *   [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 

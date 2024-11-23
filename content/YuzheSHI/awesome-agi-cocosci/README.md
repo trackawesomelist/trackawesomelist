@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 23, 2024](/content/2024/11/23/README.md)
+
+### Domain Specific Language / Cognitive Foundations
+
+*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
+
 ## [Nov 20, 2024](/content/2024/11/20/README.md)
 
 ### Abduction / Applications in AI
@@ -2795,7 +2801,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Exploratory play, rational action, and efficient search](https://psyarxiv.com/9yra2/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17529638197045429028\&hl=en\&as_sdt=0,5)].
 *   [Children selectively endorse speculative conjectures](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13647?saml_referrer) - ***Child Development***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5672344544260882286\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Learning higher-order generalizations through free play: Evidence from 2- and 3-year-old children](https://psycnet.apa.org/buy/2017-12497-003) - ***Developmental Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4386474921214936914\&hl=en\&as_sdt=0,5)].
-*   [The Child as Hacker](https://www.sciencedirect.com/science/article/abs/pii/S1364661320301741) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743\&hl=en\&as_sdt=2005\&sciodt=0,5\&as_ylo=2017)].
 *   [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***Philosophical Transactions of the Royal Society B: Biological Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 *   [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907\&hl=en\&as_sdt=0,5\&as_ylo=2020)].
 *   [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649\&hl=en\&as_sdt=0,5)].

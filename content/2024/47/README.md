@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2024
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Reproducing Works, Training & Books / Data Visualization
+
+*   [RoughVolatilityWorkshop (⭐14)](https://github.com/jgatheral/RoughVolatilityWorkshop) - 2024 QuantMind's Rough Volatility Workshop lectures.
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### License / WIP
 
 *   [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) aka [LICENSE-CC0](https://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md/LICENSE-CC0)
 
-## [2. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [3. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### General
 
@@ -33,61 +39,61 @@
 *   [SBEMU (⭐625)](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
 *   [VSB (⭐64)](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
-## [3. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [PlexRipper/PlexRipper (⭐283)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 
-## [4. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [5. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Why Elm?
 
 *   [Elm: A frontend story that a backend dev can love](https://niteo.co/blog/elm-a-frontend-story-that-a-backend-dev-can-love/) - A story how Elm fits a backend developer's brain like no other
 
-## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Security
 
 *   [Annual Security Reports (⭐336)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 
-## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Platforms
 
 *   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
-## [7. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [Mage (⭐10)](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Formula Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Productivity / Time Tracking
 
 *   [arttime (⭐961)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
-## [10. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [11. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [There's an AI](https://theresanai.com) - List of best AI Tools
 
-## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [12. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Python
 
 *   [cerburus (⭐1)](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / Graphics
 
@@ -98,7 +104,7 @@
 *   [MicroPython Cookbook](https://www.packtpub.com/en-us/product/micropython-cookbook-9781838641955) - By Marwan Alsabbagh. ISBN 9781838649951.
 *   [MicroPython Projects](https://www.packtpub.com/en-us/product/micropython-projects-9781789952537) - By Jacob Beningo. ISBN 9781789958034.
 
-## [13. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [14. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Audio
 
@@ -112,7 +118,7 @@
 
 *   [ChatdollKit (⭐785)](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
 
-## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [15. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Graphics utilities
 
@@ -122,19 +128,19 @@
 
 *   [exeman (⭐0)](https://github.com/gb-archive/exeman)
 
-## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak Trusted Device Support by @wouterh-dev (⭐27)](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
 
-## [16. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Book and web annotations/highlights management
 
 *   [Blasta](https://git.xmpp-it.net/sch/Blasta) - A collaborative bookmarks manager for organizing online content.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -157,7 +163,7 @@
 
 *   [RClick (⭐95)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wflixu/RClick) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [18. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [19. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Developer Tools / Databases
 
@@ -189,19 +195,23 @@
 
 *   [OBS Studio](https://obsproject.com/) - Video recording and live streaming software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/opensource.svg)](https://github.com/obsproject/obs-studio)
 
-## [19. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [20. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Useful Stack Overflow questions & answers
 
 *   [How to integrate a GitHub wiki into the main project](https://stackoverflow.com/questions/6941688/how-to-integrate-a-github-wiki-into-the-main-project)
 
-## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Applications in AI
 
 *   [Abduction in Logic Programming](https://link.springer.com/chapter/10.1007/3-540-45628-7_16) - ***Computational Logic***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237)]. \[[Preprint](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf)]. Abduction in Logic Programming started in the late 80s, early 90s, in an attempt to extend logic programming into a framework suitable for a variety of problems in Artificial Intelligence and other areas of Computer Science. This paper aims to chart out the main developments of the field over the last ten years and to take a critical view of these developments from several perspectives: logical, epistemological, computational and suitability to application. The paper attempts to expose some of the challenges and prospects for the further development of the field.
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+### Domain Specific Language / Cognitive Foundations
+
+*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
+
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -257,7 +267,7 @@
 
 *   [JSON Schema (⭐3.8k) (⭐3.8k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
@@ -271,7 +281,7 @@
 
 *   [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)
 
-## [23. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [24. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### Table of contents
 
@@ -284,7 +294,7 @@
     *   `x-ref`: Cross reference
     *   📺: youtube or video
 
-## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
@@ -302,7 +312,7 @@
 
 *   [goravel (⭐2.8k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -312,13 +322,13 @@
 
 *   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
-## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Modeling
 
 *   :free [Canvascript (⭐22)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -327,7 +337,7 @@
 *   [Using Blazor to manage data in SQL server and Microsoft Fabric](https://www.youtube.com/watch?v=Tn7rQbpLfmU) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Many business applications need to allow their users to view and update data in SQL server and data warehouses such as Microsoft Fabric. Learn how to create custom applications using Microsoft Blazor and free open-source controls such as Blazor Data Sheet to rapidly implement solutions to your users. Learn how to implement row level security to control access to the data in a granular way. Finally learn how to use PowerBI embedded to provide advanced data analytics.
 *   [Exploring the New Fluent UI Blazor Library: Next-Gen Web Components and Architectural Innovations](https://www.youtube.com/watch?v=w8BKS1a8MnU) - November 15, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-40%30min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) In-depth session on the upcoming new major version of the Fluent UI Blazor library, which introduces cutting-edge Web Components and significant architectural changes. This session will cover: Overview of New Features: Discover the enhancements in the new Fluent UI Blazor library, including updated Web Components, Architectural Changes:  Learn about the major architectural shifts that improve performance, scalability, and maintainability, Migration Guide: Yes, there will be a lot of breaking changes! But we will guide you with practical tips and best practices for migrating your existing projects to the new version.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Web Development / Diagnostics
 
@@ -341,31 +351,31 @@
 
 *   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 
-## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management
 
 *   [Pie (⭐382)](https://github.com/php/pie) - The official PHP installer for extensions.
 
-## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [31. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Popup
 
 *   [MijickPopups (⭐1.3k)](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI.
 
-## [31. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [32. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   [DataReportal](https://datareportal.com/) - Global and national reports on data usage collected via third parties, produced by market analysis firm Kepios.
 
-## [32. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [33. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Qubes OS Server / Unikernel-like
 
 *   [borg-offsite-backup (⭐3)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -375,13 +385,13 @@
 
 *   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.2k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
 
-## [34. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [35. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Interactive learning / Single Topics
 
 *   [Udacity Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--cd2073) - They also offer more advanced courses.
 
-## [35. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [36. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -412,25 +422,25 @@
 *   [Space Sightings Expanded](https://www.drivethrurpg.com/product/426718?affiliate_id=844973) - Generators for wonders you might discover while voyaging through space
 *   [Summer Camp Mystery](https://www.drivethrurpg.com/product/404832/Summer-Camp-Mystery?affiliate_id=844973) - Family summercamp investigation with simplified rules
 
-## [36. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [37. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-command-palette (⭐1)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
 
-## [37. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [38. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Project Management / Delivery
 
 *   [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/) - “Shipping is a social construct within a company. Concretely, that means that a project is shipped when the important people at your company believe it is shipped.” That is the dark side of delivery, in which you optimize for visibility by upper-management for the next performance evaluation cycle.
 
-## [38. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [39. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [RisingWave (⭐7k)](https://github.com/risingwavelabs/risingwave) \[Rust] - A PostgreSQL-compatible streaming database that is designed to build event-driven applications, real-time ETL pipelines, continuous analytics services, and feature stores for AI applications. It excels in extracting fresh and consistent insights from real-time event streams, database CDC, and time series data within sub-seconds. It unifies streaming and batch processing, enabling users to ingest, join, and analyze both live and historical data at a cloud scale.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -441,13 +451,13 @@
 
 *   [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Companies Using Vue.js / Documentaries
 
 *   [Companies Using Vue/Nuxt (⭐0)](https://github.com/cloydlau/companies-using-vue)
 
-## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -459,7 +469,7 @@
 *   [@yuanjianming/unplugin-compress-svga (⭐1)](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
 *   [@yuanjianming/unplugin-font-spider (⭐1)](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -473,7 +483,7 @@
 
 *   [reproc (⭐555)](https://github.com/DaanDeMeyer/reproc) - A cross-platform (C99/C++11) process library. \[MIT]
 
-## [43. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [44. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Python
 
@@ -483,13 +493,13 @@
 
 *   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
 
-## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [45. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Modus (⭐181)](https://github.com/hypermodeinc/modus) - An open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly.
 
-## [45. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [46. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
@@ -530,7 +540,7 @@
 *   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
 *   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
 
-## [46. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [47. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -605,7 +615,7 @@
 
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -615,7 +625,7 @@
 
 *   [felipec (⭐0)](https://github.com/felipec/zsh-prompt-felipec) - Minimalist theme with decorators for current directory, `git` status, exit code of last command, and root status.
 
-## [48. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [49. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
