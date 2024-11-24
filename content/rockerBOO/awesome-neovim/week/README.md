@@ -8,17 +8,38 @@ Collections of awesome neovim plugins.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
+### (requires Neovim 0.5)
+
+*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+
 ### Web Development / Diagnostics
 
 *   [lima1909/resty.nvim (⭐34)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
+
+### Terminal Integration / Diagnostics
+
+*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Code Runner / Diagnostics
 
 *   [chrisgrieser/nvim-justice (⭐7)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 
+### Neovim Lua Development / Diagnostics
+
+*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+
 ### GitHub / Diagnostics
 
 *   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+
+### Competitive Programming / Diagnostics
+
+*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+
+### Boilerplate / Diagnostics
+
+*   [2KAbhishek/template.nvim (⭐9)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -106,11 +127,6 @@ Collections of awesome neovim plugins.
 ### Neovim Lua Development / Diagnostics
 
 *   [niuiic/omega.nvim (⭐3)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
-*   [2KAbhishek/utils.nvim (⭐7)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
-
-### GitHub / Diagnostics
-
-*   [2KAbhishek/octohub.nvim (⭐62)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Session / Diagnostics
 
@@ -119,10 +135,6 @@ Collections of awesome neovim plugins.
 ### Tmux / Diagnostics
 
 *   [EvWilson/slimux.nvim (⭐21)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
-
-### Boilerplate / Diagnostics
-
-*   [2KAbhishek/template.nvim (⭐6)](https://github.com/2kabhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -216,7 +228,7 @@ Collections of awesome neovim plugins.
 
 ### Keybinding / Diagnostics
 
-*   [debugloop/layers.nvim (⭐41)](https://github.com/debugloop/layers.nvim) -  Craft temporary keymap overlays and layered modes with ease.
+*   [debugloop/layers.nvim (⭐41)](https://github.com/debugloop/layers.nvim) - Craft temporary keymap overlays and layered modes with ease.
 
 ### Scrolling / Diagnostics
 
@@ -379,7 +391,7 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/lazydev.nvim (⭐721)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐721)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
 
 ### Tmux / Diagnostics
 

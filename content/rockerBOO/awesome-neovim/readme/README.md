@@ -117,6 +117,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
+*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 *   [neovim/nvim-lspconfig (⭐11k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
 *   [nvim-lua/lsp-status.nvim (⭐632)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
 *   [RishabhRD/nvim-lsputils (⭐456)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
@@ -968,27 +969,50 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Terminal Integration
 
+*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+
 *   [LoricAndre/OneTerm.nvim (⭐56)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
+
 *   [nikvdp/neomux (⭐354)](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
+
 *   [willothy/flatten.nvim (⭐503)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
+
 *   [willothy/wezterm.nvim (⭐199)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
+
 *   [akinsho/toggleterm.nvim (⭐4.4k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
+
 *   [norcalli/nvim-terminal.lua (⭐208)](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
+
 *   [numToStr/FTerm.nvim (⭐748)](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in Lua.
+
 *   [pianocomposer321/consolation.nvim (⭐34)](https://github.com/pianocomposer321/consolation.nvim) - A general-purpose terminal wrapper and management plugin, written in Lua.
+
 *   [jghauser/kitty-runner.nvim (⭐101)](https://github.com/jghauser/kitty-runner.nvim) - Poor man's REPL. Easily send buffer lines and commands to a kitty terminal.
+
 *   [jlesquembre/nterm.nvim (⭐57)](https://github.com/jlesquembre/nterm.nvim) - Interact with the terminal, with notifications.
+
 *   [s1n7ax/nvim-terminal (⭐117)](https://github.com/s1n7ax/nvim-terminal) - A simple & easy to use multi-terminal plugin.
+
 *   [m00qek/baleia.nvim (⭐138)](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
+
 *   [samjwill/nvim-unception (⭐223)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
+
 *   [kassio/neoterm (⭐1.3k)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
+
 *   [nyngwang/NeoTerm.lua (⭐69)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+
 *   [idanarye/nvim-channelot (⭐6)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+
 *   [chomosuke/term-edit.nvim (⭐188)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
+
 *   [mikesmithgh/kitty-scrollback.nvim (⭐478)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+
 *   [niuiic/terminal.nvim (⭐22)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
+
 *   [NeViRAIDE/nekifoch.nvim (⭐16)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
+
 *   [2KAbhishek/termim.nvim (⭐70)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+
 *   [samharju/yeet.nvim (⭐96)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 <!--lint disable double-link -->
@@ -1090,7 +1114,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Neovim Lua Development
 
-*   [folke/lazydev.nvim (⭐721)](https://github.com/folke/lazydev.nvim) -  Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐721)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
 *   [nvim-neorocks/luarocks-tag-release (⭐48)](https://github.com/nvim-neorocks/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 *   [svermeulen/vimpeccable (⭐353)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
 *   [rafcamlet/nvim-luapad (⭐563)](https://github.com/rafcamlet/nvim-luapad) - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
@@ -1112,7 +1136,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [CWood-sdf/banana.nvim (⭐144)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 *   [OXY2DEV/helpview.nvim (⭐207)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 *   [niuiic/omega.nvim (⭐3)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
-*   [2KAbhishek/utils.nvim (⭐7)](https://github.com/2kabhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐13)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
 
 <!--lint disable double-link -->
@@ -1179,7 +1203,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ldelossa/gh.nvim (⭐550)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 *   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [rawnly/gist.nvim (⭐181)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
-*   [2KAbhishek/octohub.nvim (⭐62)](https://github.com/2kabhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 <!--lint disable double-link -->
 
@@ -1245,7 +1269,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Wansmer/langmapper.nvim (⭐148)](https://github.com/Wansmer/langmapper.nvim) - Auto translating your mappings for non-English input methods.
 *   [tris203/hawtkeys.nvim (⭐221)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 *   [mawkler/demicolon.nvim (⭐76)](https://github.com/mawkler/demicolon.nvim) - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects (⭐2.2k)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
-*   [debugloop/layers.nvim (⭐41)](https://github.com/debugloop/layers.nvim) -  Craft temporary keymap overlays and layered modes with ease.
+*   [debugloop/layers.nvim (⭐41)](https://github.com/debugloop/layers.nvim) - Craft temporary keymap overlays and layered modes with ease.
 
 <!--lint disable double-link -->
 
@@ -1512,6 +1536,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [p00f/cphelper.nvim (⭐134)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐438)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 *   [kawre/leetcode.nvim (⭐1.1k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
 <!--lint disable double-link -->
 
@@ -1591,7 +1616,7 @@ These tools are used externally to Neovim to enhance the experience.
 *   [gennaro-tedesco/boilit (⭐77)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 *   [m00qek/plugin-template.nvim (⭐119)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐286)](https://github.com/ellisonleao/nvim-plugin-template) - Another Neovim plugin template, using GitHub's template feature.
-*   [2KAbhishek/template.nvim (⭐6)](https://github.com/2kabhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
+*   [2KAbhishek/template.nvim (⭐9)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
 ### OS-specific
 

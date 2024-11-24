@@ -274,21 +274,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   `x-ref`: Cross reference
     *   📺: youtube or video
 
-#### [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Web Development / Diagnostics
-
-*   [lima1909/resty.nvim (⭐34)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
-
-##### Code Runner / Diagnostics
-
-*   [chrisgrieser/nvim-justice (⭐7)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
-
-##### GitHub / Diagnostics
-
-*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
-
-#### [23. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+#### [22. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ##### Tools / Graphics utilities
 
@@ -298,7 +284,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [exeman (⭐0)](https://github.com/gb-archive/exeman)
 
-#### [24. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
@@ -312,7 +298,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Latest Jobs and News in AI at trending startups and big companies | AIJobster](https://aijobster.work/)
 
-#### [25. Awesome Acg](/content/soruly/awesome-acg/README.md)
+#### [24. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ##### Audio
 
@@ -326,7 +312,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ChatdollKit (⭐785)](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
 
-#### [26. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [25. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Display / Graphics
 
@@ -337,25 +323,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [MicroPython Cookbook](https://www.packtpub.com/en-us/product/micropython-cookbook-9781838641955) - By Marwan Alsabbagh. ISBN 9781838649951.
 *   [MicroPython Projects](https://www.packtpub.com/en-us/product/micropython-projects-9781789952537) - By Jacob Beningo. ISBN 9781789958034.
 
-#### [27. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [26. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Python
 
 *   [cerburus (⭐1)](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
 
-#### [28. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+#### [27. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ##### Editor's Choice
 
 *   [There's an AI](https://theresanai.com) - List of best AI Tools
 
-#### [29. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+#### [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ##### Productivity / Time Tracking
 
 *   [arttime (⭐961)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
-#### [30. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+#### [29. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ##### SaaS
 
@@ -396,19 +382,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Codedex](https://www.codedex.io/github-students) \[FREE] - Verified students receive 6 months of Codédex Club, a premium membership for free.
 *   [AlgoExpert](https://www.algoexpert.io/github-students) \[FREE] - Free access to 20 coding interview questions on AlgoExpert, as well as a 10% discount on all AlgoExpert products.
 
-#### [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+#### [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ##### Math / Other
 
 *   [Formula Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
-#### [32. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+#### [31. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ##### Tools
 
 *   [Mage (⭐10)](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
 
-#### [33. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [32. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Design and Product / Screencapturing Software
 
@@ -431,13 +417,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [RClick (⭐95)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wflixu/RClick) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [34. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [33. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Tools / Platforms
 
 *   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
-#### [35. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [34. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Authentication and OAuth
 
@@ -455,13 +441,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [goravel (⭐2.8k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
 
-#### [36. Awesome Elm](/content/sporto/awesome-elm/README.md)
+#### [35. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ##### Articles / Why Elm?
 
 *   [Elm: A frontend story that a backend dev can love](https://niteo.co/blog/elm-a-frontend-story-that-a-backend-dev-can-love/) - A story how Elm fits a backend developer's brain like no other
 
-#### [37. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Videos / Others
 
@@ -470,7 +456,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Using Blazor to manage data in SQL server and Microsoft Fabric](https://www.youtube.com/watch?v=Tn7rQbpLfmU) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Many business applications need to allow their users to view and update data in SQL server and data warehouses such as Microsoft Fabric. Learn how to create custom applications using Microsoft Blazor and free open-source controls such as Blazor Data Sheet to rapidly implement solutions to your users. Learn how to implement row level security to control access to the data in a granular way. Finally learn how to use PowerBI embedded to provide advanced data analytics.
 *   [Exploring the New Fluent UI Blazor Library: Next-Gen Web Components and Architectural Innovations](https://www.youtube.com/watch?v=w8BKS1a8MnU) - November 15, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-40%30min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) In-depth session on the upcoming new major version of the Fluent UI Blazor library, which introduces cutting-edge Web Components and significant architectural changes. This session will cover: Overview of New Features: Discover the enhancements in the new Fluent UI Blazor library, including updated Web Components, Architectural Changes:  Learn about the major architectural shifts that improve performance, scalability, and maintainability, Migration Guide: Yes, there will be a lot of breaking changes! But we will guide you with practical tips and best practices for migrating your existing projects to the new version.
 
-#### [38. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [37. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -481,25 +467,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
 
-#### [39. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+#### [38. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ##### Examples
 
 *   [PlexRipper/PlexRipper (⭐283)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 
-#### [40. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+#### [39. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ##### Qubes OS Server / Unikernel-like
 
 *   [borg-offsite-backup (⭐3)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
 
-#### [41. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [40. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Periodic Global Connectivity Reports
 
 *   [DataReportal](https://datareportal.com/) - Global and national reports on data usage collected via third parties, produced by market analysis firm Kepios.
 
-#### [42. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+#### [41. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ##### General
 
@@ -520,7 +506,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [SBEMU (⭐625)](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
 *   [VSB (⭐64)](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
-#### [43. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [42. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -530,29 +516,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
-#### [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [43. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### License / WIP
 
 *   [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/legalcode) aka [LICENSE-CC0](https://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md/LICENSE-CC0)
 
-#### [45. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Abduction / Applications in AI
-
-*   [Abduction in Logic Programming](https://link.springer.com/chapter/10.1007/3-540-45628-7_16) - ***Computational Logic***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237)]. \[[Preprint](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf)]. Abduction in Logic Programming started in the late 80s, early 90s, in an attempt to extend logic programming into a framework suitable for a variety of problems in Artificial Intelligence and other areas of Computer Science. This paper aims to chart out the main developments of the field over the last ten years and to take a critical view of these developments from several perspectives: logical, epistemological, computational and suitability to application. The paper attempts to expose some of the challenges and prospects for the further development of the field.
-
-##### Domain Specific Language / Cognitive Foundations
-
-*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
-
-#### [46. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [44. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Reproducing Works, Training & Books / Data Visualization
 
 *   [RoughVolatilityWorkshop (⭐14)](https://github.com/jgatheral/RoughVolatilityWorkshop) - 2024 QuantMind's Rough Volatility Workshop lectures.
 
-#### [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -563,7 +539,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [felipec (⭐0)](https://github.com/felipec/zsh-prompt-felipec) - Minimalist theme with decorators for current directory, `git` status, exit code of last command, and root status.
 
-#### [48. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [46. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -642,7 +618,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 
-#### [49. Awesome List](/content/sindresorhus/awesome/README.md)
+#### [47. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ##### Platforms
 
@@ -656,6 +632,61 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Security
 
 *   [Annual Security Reports (⭐336)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
+
+#### [48. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+
+##### External Services
+
+*   [monkeytype-box (⭐0)](https://github.com/artemnovichkov/monkeytype-box) - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
+
+#### [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+
+##### Web Development / Diagnostics
+
+*   [lima1909/resty.nvim (⭐34)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
+
+##### Terminal Integration / Diagnostics
+
+*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+
+##### Code Runner / Diagnostics
+
+*   [chrisgrieser/nvim-justice (⭐7)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
+
+##### Neovim Lua Development / Diagnostics
+
+*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+
+##### GitHub / Diagnostics
+
+*   [topaxi/pipeline.nvim (⭐121)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+
+##### Competitive Programming / Diagnostics
+
+*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+
+##### Boilerplate / Diagnostics
+
+*   [2KAbhishek/template.nvim (⭐9)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
+
+#### [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Abduction / Applications in AI
+
+*   [Abduction in Logic Programming](https://link.springer.com/chapter/10.1007/3-540-45628-7_16) - ***Computational Logic***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237)]. \[[Preprint](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf)]. Abduction in Logic Programming started in the late 80s, early 90s, in an attempt to extend logic programming into a framework suitable for a variety of problems in Artificial Intelligence and other areas of Computer Science. This paper aims to chart out the main developments of the field over the last ten years and to take a critical view of these developments from several perspectives: logical, epistemological, computational and suitability to application. The paper attempts to expose some of the challenges and prospects for the further development of the field.
+
+##### Concepts / Human Concept Representation
+
+*   [Why concepts are (probably) vectors](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00171-2) - ***Trends in Cognitive Sciences***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=4315363807034184312)]. For decades, cognitive scientists have debated what kind of representation might characterize human concepts. Whatever the format of the representation, it must allow for the computation of varied properties, including similarities, features, categories, definitions, and relations. It must also support the development of theories, ad hoc categories, and knowledge of procedures. Here, the authors discuss why vector-based representations provide a compelling account that can meet all these needs while being plausibly encoded into neural architectures. This view has become especially promising with recent advances in both large language models and vector symbolic architectures. These innovations show how vectors can handle many properties traditionally thought to be out of reach for neural models, including compositionality, definitions, structures, and symbolic computational processes.
+
+##### Domain Specific Language / Cognitive Foundations
+
+*   [The Child as Hacker](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30174-1) - ***Trends in Cognitive Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13128656954836679743)]. The scope of human learning and development poses a radical challenge for cognitive science. The authors propose that developmental theories can address this challenge by adopting perspectives from computer science. Many of our best models treat learning as analogous to computer programming because symbolic programs provide the most compelling account of sophisticated mental representations. The authors specifically propose that children’s learning is analogous to a particular style of programming called hacking, making code better along many dimensions through an open-ended set of goals and activities. By contrast to existing theories, which depend primarily on local search and simple metrics, this view highlights the many features of good mental representations and the multiple complementary processes children use to create them.
 
 ---
 
@@ -677,11 +708,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 12. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 66K 📝 11&#x2F;12 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 13. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 11&#x2F;19 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 14. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 18K 📝 11&#x2F;23 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-15. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 11&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-16. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 11&#x2F;24 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-17. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 35K 📝 11&#x2F;15 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-18. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 42K 📝 11&#x2F;13 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-19. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 11&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+15. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 11&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+16. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 11&#x2F;23 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+17. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 15K 📝 11&#x2F;24 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+18. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 35K 📝 11&#x2F;15 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+19. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 42K 📝 11&#x2F;13 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 20. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 15K 📝 11&#x2F;22 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
 21. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 13K 📝 11&#x2F;22 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 22. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 13K 📝 11&#x2F;21 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -712,7 +743,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 47. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 8.8K 📝 11&#x2F;12 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 48. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 59K 📝 10&#x2F;23 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 49. [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K 📝 11&#x2F;22 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-50. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.5K 📝 11&#x2F;21 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+50. [Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md) - ([Source ⭐ 1.9K 📝 11&#x2F;24 ](https://github.com/matchai/awesome-pinned-gists)) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 
 ## All Tracked List
 
@@ -898,7 +929,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 9.2K, 📝 11&#x2F;12 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
 - [Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md) - ([Source ⭐ 919, 📝 01&#x2F;27 ](https://github.com/CompSciLauren/awesome-git-hooks)) - :anchor: A curated list of awesome git hooks
 - [Awesome Github](/content/phillipadsmith/awesome-github/README.md) - ([Source ⭐ 726, 📝 21&#x2F;04&#x2F;25 ](https://github.com/phillipadsmith/awesome-github)) - A curated list of GitHub's awesomeness
-- [Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md) - ([Source ⭐ 1.9K, 📝 09&#x2F;22 ](https://github.com/matchai/awesome-pinned-gists)) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+- [Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md) - ([Source ⭐ 1.9K, 📝 11&#x2F;24 ](https://github.com/matchai/awesome-pinned-gists)) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md) - ([Source ⭐ 3.6K, 📝 22&#x2F;05&#x2F;28 ](https://github.com/janikvonrotz/awesome-powershell)) - A curated list of delightful PowerShell modules and resources
 - [Awesome Qgis](/content/totpero/awesome-qgis/README.md) - ([Source ⭐ 10, 📝 70&#x2F;01&#x2F;01 ](https://github.com/totpero/awesome-qgis)) - An awesome list that curates the best QGis frameworks, libraries, tools, plugins, tutorials, articles,resources and more.
 - [Awesome Shell](/content/alebcay/awesome-shell/README.md) - ([Source ⭐ 30K, 📝 02&#x2F;20 ](https://github.com/alebcay/awesome-shell)) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -918,7 +949,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K, 📝 11&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K, 📝 11&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -1457,7 +1488,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 285, 📝 11&#x2F;23 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 285, 📝 11&#x2F;24 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 92, 📝 10&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

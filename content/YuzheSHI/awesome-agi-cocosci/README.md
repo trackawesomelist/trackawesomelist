@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 24, 2024](/content/2024/11/24/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Why concepts are (probably) vectors](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00171-2) - ***Trends in Cognitive Sciences***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=4315363807034184312)]. For decades, cognitive scientists have debated what kind of representation might characterize human concepts. Whatever the format of the representation, it must allow for the computation of varied properties, including similarities, features, categories, definitions, and relations. It must also support the development of theories, ad hoc categories, and knowledge of procedures. Here, the authors discuss why vector-based representations provide a compelling account that can meet all these needs while being plausibly encoded into neural architectures. This view has become especially promising with recent advances in both large language models and vector symbolic architectures. These innovations show how vectors can handle many properties traditionally thought to be out of reach for neural models, including compositionality, definitions, structures, and symbolic computational processes.
+
 ## [Nov 23, 2024](/content/2024/11/23/README.md)
 
 ### Domain Specific Language / Cognitive Foundations
