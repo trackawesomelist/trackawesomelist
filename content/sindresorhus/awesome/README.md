@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Nov 24, 2024](/content/2024/11/24/README.md)
+
+### Platforms
+
+*   [Windows (⭐352)](https://github.com/0pandadev/awesome-windows#readme) - Consumer desktop operating system.
+    *   [PowerToys Run Plugins (⭐259)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
+
+### Back-End Development
+
+*   [Reflex (⭐32)](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### Security
@@ -1576,8 +1587,6 @@
 *   [JVM (⭐2.1k)](https://github.com/deephacks/awesome-jvm#readme)
 *   [Salesforce (⭐733)](https://github.com/mailtoharshit/awesome-salesforce#readme)
 *   [Amazon Web Services (⭐13k)](https://github.com/donnemartin/awesome-aws#readme)
-*   [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-    *   [PowerToys Run Plugins (⭐259)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
 *   [IPFS (⭐4.3k)](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 *   [Heroku (⭐304)](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 *   [Raspberry Pi (⭐14k)](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
