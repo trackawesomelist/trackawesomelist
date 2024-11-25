@@ -2,27 +2,32 @@
 
 A curated list of Workflow Automation Software and Tools
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 279 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/awesome-workflow-automation/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) · ⭐ 278 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/dariubs/awesome-workflow-automation/week/README.md) / [Overview](/content/dariubs/awesome-workflow-automation/readme/README.md) ]
+
+## [Nov 25, 2024](/content/2024/11/25/README.md)
+
+### Tools
+
+*   **[Windmill](https://www.windmill.dev/0)** - Turn scripts into auto-generated UIs, APIs, and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 
 ## [Oct 17, 2024](/content/2024/10/17/README.md)
 
 ### Tools
 
-*   **\[Windmill]\(<https://www.windmill.dev/0>** - Turn scripts into auto-generated UIs, APIs and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 *   **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
 ## [Aug 26, 2024](/content/2024/08/26/README.md)
 
 ### Tools
 
+*   **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
+*   **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
 *   **[Pipedream](https://pipedream.com/)** - *[Review](https://productivity.directory/pipedream)*: Integrates APIs and data for powerful automation.
+*   **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
 *   **[Tray.io](https://tray.io/)** - *[Review](https://productivity.directory/tray-io)*: Provides a visual platform for connecting and automating business processes.
 *   **[Workato](https://www.workato.com/)** - *[Review](https://productivity.directory/workato)*: Focuses on enterprise automation with AI and machine learning capabilities.
-*   **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
-*   **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
-*   **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
 
 ### Books
 
@@ -53,19 +58,19 @@ A curated list of Workflow Automation Software and Tools
 
 ### Tools
 
-*   **[Zapier](https://zapier.com/)** - *[Review](https://productivity.directory/zapier)*: Simplifies workflow automation by connecting your apps and services.
-*   **[IFTTT](https://ifttt.com/)** - *[Review](https://productivity.directory/ifttt)*: Enables integration and innovation across different platforms.
-*   **[Microsoft Power Automate](https://flow.microsoft.com/)** - *[Review](https://productivity.directory/microsoft-power-automate)*: Focuses on streamlining repetitive tasks and paperless processes.
-*   **[Make (formerly Integromat)](https://www.make.com/)** - *[Review](https://productivity.directory/make)*: Provides a platform for creative and efficient workflow automation.
+*   **[ActivePieces](https://www.activepieces.com/)** - *[Review](https://productivity.directory/activepieces)*: An open-source tool for all-in-one automation.
+*   **[Airtable](https://airtable.com/)** - *[Review](https://productivity.directory/airtable)*: Facilitates building custom apps to meet workflow needs.
+*   **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
 *   **[ClickUp](https://clickup.com/)** - *[Review](https://productivity.directory/clickup)*: Serves as an all-in-one, customizable workspace.
+*   **[Huginn (⭐44k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
+*   **[IFTTT](https://ifttt.com/)** - *[Review](https://productivity.directory/ifttt)*: Enables integration and innovation across different platforms.
+*   **[Lucidchart](https://www.lucidchart.com/)** - *[Review](https://productivity.directory/lucidchart)*: Offers diagramming for better workflow visualization.
+*   **[Make (formerly Integromat)](https://www.make.com/)** - *[Review](https://productivity.directory/make)*: Provides a platform for creative and efficient workflow automation.
+*   **[Microsoft Power Automate](https://flow.microsoft.com/)** - *[Review](https://productivity.directory/microsoft-power-automate)*: Focuses on streamlining repetitive tasks and paperless processes.
+*   **[n8n](https://n8n.io/)** - *[Review](https://productivity.directory/n8n)*: Specializes in technical workflow automation.
 *   **[Smartsheet](https://www.smartsheet.com/)** - *[Review](https://productivity.directory/smartsheet)*: Offers dynamic work management using a flexible platform.
 *   **[Wrike](https://www.wrike.com/)** - *[Review](https://productivity.directory/wrike)*: Provides robust project management capabilities.
-*   **[Airtable](https://airtable.com/)** - *[Review](https://productivity.directory/airtable)*: Facilitates building custom apps to meet workflow needs.
-*   **[Lucidchart](https://www.lucidchart.com/)** - *[Review](https://productivity.directory/lucidchart)*: Offers diagramming for better workflow visualization.
-*   **[ActivePieces](https://www.activepieces.com/)** - *[Review](https://productivity.directory/activepieces)*: An open-source tool for all-in-one automation.
-*   **[n8n](https://n8n.io/)** - *[Review](https://productivity.directory/n8n)*: Specializes in technical workflow automation.
-*   **[Automatisch](https://automatisch.io/)** - *[Review](https://productivity.directory/automatisch)*: An open-source business automation tool, similar to Zapier.
-*   **[Huginn (⭐43k)](https://github.com/huginn/huginn)** - *[Review](https://productivity.directory/huginn)*: Allows the creation of agents that perform automated tasks online.
+*   **[Zapier](https://zapier.com/)** - *[Review](https://productivity.directory/zapier)*: Simplifies workflow automation by connecting your apps and services.
 
 ## [Mar 13, 2024](/content/2024/03/13/README.md)
 

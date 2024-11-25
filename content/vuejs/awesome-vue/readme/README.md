@@ -1401,6 +1401,7 @@
 *   [Vue Component Development Kit (⭐86)](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
 *   [element-pro-components (⭐274)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 *   [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
+*   [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 
 #### Admin Template
 

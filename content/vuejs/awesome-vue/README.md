@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 25, 2024](/content/2024/11/25/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
+
 ## [Nov 18, 2024](/content/2024/11/18/README.md)
 
 ### Companies Using Vue.js / Documentaries
