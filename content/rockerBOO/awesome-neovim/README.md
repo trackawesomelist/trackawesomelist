@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 25, 2024](/content/2024/11/25/README.md)
+
+### Marks / Diagnostics
+
+*   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 
 ### (requires Neovim 0.5)
