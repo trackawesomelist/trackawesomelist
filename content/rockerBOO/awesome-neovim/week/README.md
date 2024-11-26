@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
+### GitHub / Diagnostics
+
+*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### (requires Neovim 0.5)

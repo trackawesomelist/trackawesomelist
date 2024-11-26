@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
+
+### Monitoring
+
+*   [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
+
+### Email
+
+*   [mailchannels.com](https://www.mailchannels.com) - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### APIs, Data, and ML

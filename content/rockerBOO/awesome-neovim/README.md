@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 26, 2024](/content/2024/11/26/README.md)
+
+### GitHub / Diagnostics
+
+*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+
 ## [Nov 25, 2024](/content/2024/11/25/README.md)
 
 ### Marks / Diagnostics

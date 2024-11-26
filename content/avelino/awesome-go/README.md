@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 26, 2024](/content/2024/11/26/README.md)
+
+### Strings
+
+*   [strcase (⭐5)](https://github.com/charlievieth/strcase) - Case-insensitive implementation of the standard library's strings/bytes packages.
+
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### Authentication and OAuth
