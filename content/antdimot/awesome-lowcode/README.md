@@ -2,9 +2,21 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 363 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 448 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Nov 26, 2024](/content/2024/11/26/README.md)
+
+### Visual programming
+
+*   [WeWeb](https://www.weweb.io/) - A no-code frontend builder that connects to any backend to build scaable and secure web applications 10x faster.
+*   [Tabbled](https://tabbled.org) - Self-hosted low-code platform for business applications like CRM, ERP, WMS, etc.
+
+### Misc
+
+*   [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
+*   [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -43,7 +55,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐28k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐34k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -323,7 +335,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [ToolJet (⭐28k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐33k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [Dec 02, 2021](/content/2021/12/02/README.md)
 

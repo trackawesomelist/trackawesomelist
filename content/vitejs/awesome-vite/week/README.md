@@ -6,6 +6,25 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
+
+### Templates / React
+
+*   [react-admin-dashboard (⭐2)](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
+
+### Tauri / Electron
+
+*   [HuLa (⭐579)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-vanilla (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development model.
+*   [vite-plugin-year (⭐1)](https://github.com/8hobbies/vite-plugin-year) -  Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-replace-lodash (⭐1)](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Framework-agnostic Plugins / Integrations
@@ -216,7 +235,7 @@
 
 ## [May 27 - Jun 02, 2024](/content/2024/22/README.md)
 
-### Templates / Neutralino
+### Tauri / Neutralino
 
 *   [vite-react-neutralino-template (⭐2)](https://github.com/Bonnev/vite-react-neutralino-template) - Neutralino + Vite + React template.
 
@@ -320,7 +339,7 @@
 *   [ReTail (⭐10)](https://github.com/nikolailehbrink/retail) - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
 *   [vite-react-redux-saga-typescript (⭐4)](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `TypeScript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`.
 
-### Templates / GitHub
+### Tauri / GitHub
 
 *   [github-action-template (⭐13)](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
 
@@ -538,7 +557,7 @@
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
-### Templates / Others
+### Tauri / Others
 
 *   [vite-vue3-chrome-extension-v3 (⭐492)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
@@ -1222,7 +1241,7 @@
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 
-### Templates / Elm
+### Tauri / Elm
 
 *   [elm\_vite\_tailwind\_template (⭐39)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
@@ -1318,7 +1337,7 @@
 *   [vite-rtk-query (⭐133)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
 *   [React-PWA (⭐583)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
 
-### Templates / Others
+### Tauri / Others
 
 *   [chrome-ext-template-preact-windi-vite (⭐80)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
 
@@ -1399,7 +1418,7 @@
 
 *   [SvelteKit (⭐19k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
-### Templates / Others
+### Tauri / Others
 
 *   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
 *   [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
@@ -1511,7 +1530,7 @@
 *   [vitejs-template-react-rescript (⭐127)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 *   [vite-react-ts-tailwind-firebase-starter (⭐280)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 
-### Templates / Elm
+### Tauri / Elm
 
 *   [vite-elm-template (⭐130)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
