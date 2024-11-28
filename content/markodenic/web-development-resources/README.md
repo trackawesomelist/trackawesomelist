@@ -6,6 +6,16 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Nov 28, 2024](/content/2024/11/28/README.md)
+
+### UI Components:
+
+- Website: [FlyonUI](https://flyonui.com/)
+
+  Description: The Easiest Components Library For Tailwind CSS.
+
+
+
 ## [Oct 26, 2024](/content/2024/10/26/README.md)
 
 ### Chrome Extensions:
@@ -425,14 +435,6 @@ Awesome Web Development Resources.
 
 
 
-## [Apr 30, 2023](/content/2023/04/30/README.md)
-
-### Coding Challenge Platforms:
-
-- Website: <https://lab.reaal.me/jsrobot/>
-
-
-
 ## [Mar 13, 2023](/content/2023/03/13/README.md)
 
 ### Photos:
@@ -619,12 +621,6 @@ Awesome Web Development Resources.
 ### Learning Platforms:
 
 - Website: <https://www.scaler.com/topics/>
-
-
-
-### Color Palettes:
-
-- Website: <https://branition.com/colors>
 
 
 

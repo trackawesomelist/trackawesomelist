@@ -153,7 +153,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://edabit.com>                 |
 | <https://www.jschallenger.com>       |
 | <https://www.codingninjas.com>       |
-| <https://lab.reaal.me/jsrobot/>      |
 | <https://divize.io/challenges>       |
 
 [⬆ back to top](#table-of-contents)
@@ -422,7 +421,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | <https://www.eggradients.com>   |
 | <https://cssgradient.io>        |
 | <https://www.0to255.com>        |
-| <https://branition.com/colors>  |
 | <https://materialui.co/colors/> |
 
 [⬆ back to top](#table-of-contents)
@@ -620,6 +618,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Flowbite](https://flowbite.com/)        | Open-source UI component library based on Tailwind CSS featuring dark mode and interactive elements |
 | [TailGrids](https://tailgrids.com/)      | 300+ Free and Premium Tailwind CSS UI Components and Sections                                       |
+| [FlyonUI](https://flyonui.com/)          | The Easiest Components Library For Tailwind CSS.                                                    |
 | [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps                                  |
 | [uiverse](https://uiverse.io)            | Open-Source UI elements made with CSS & HTML where anyone can contribute.                           |
 | [shadcn/ui](https://ui.shadcn.com/)      | Open-Source UI components for React projects, that you can easily copy and paste into your apps.    |
