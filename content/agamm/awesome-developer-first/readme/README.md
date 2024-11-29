@@ -356,7 +356,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [Helicone AI](https://www.helicone.ai/) - LLM observabilty and monitoring for your LLM apps in production. [![Helicone AI](https://img.shields.io/github/stars/helicone/helicone?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Helicone/helicone)
 *   [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/highlight/highlight)
 *   [KeenIO](https://keen.io/) - Event streaming platform.
-*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6.4k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐6.8k)](https://github.com/langfuse/langfuse) [![Langfuse](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/langfuse/langfuse)
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
 *   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [![Comet](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/comet-ml/opik)
 *   [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
@@ -418,6 +418,7 @@ For the latest additions [click here (⭐1.1k)](https://github.com/agamm/awesome
 *   [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
 *   [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
+*   [WebScrapingHQ](https://www.webscrapinghq.com/) - Webscraping API and fully managed service.
 *   [ZenRows](https://www.zenrows.com/) - Web scraping API with built-in proxies and rotating IPs to avoid detection.
 
 ## Search

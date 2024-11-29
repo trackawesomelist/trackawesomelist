@@ -1,30 +1,56 @@
 # Awesome List Updates on Nov 25 - Dec 01, 2024
 
-36 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### Table of contents
+
+*   **Symbols** 🔑:
+    *   `ref`: external URL
+    *   `doc`: archived doc
+    *   `cite`: the source of comments
+    *   `cnt`: number of citations
+    *   `git`: GitHub link
+    *   `x-ref`: Cross reference
+    *   📺: youtube or video
+
+## [2. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+
+### Crates / Component Libraries
+
+*   [Rust Radix (⭐14)](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
+*   [Rust shadcn/ui (⭐48)](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
+
+## [3. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+
+### Scraping
+
+*   [WebScrapingHQ](https://www.webscrapinghq.com/) - Webscraping API and fully managed service.
+
+## [4. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### C#
 
 *   [Spectre.Console (⭐9.5k)](https://github.com/spectreconsole/spectre.console) *(label: good first issue)* <br> A .NET library that makes it easier to create beautiful console applications.
 
-## [2. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Event-Driven Architecture (⭐349)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 
-## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Other Lists / Advanced
 
 *   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games.
 
-## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
@@ -43,13 +69,13 @@
 
 *   [lover (⭐11)](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
 
-## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [Node.js (⭐7)](https://github.com/haikyuu/inertia-node-adapter)
 
-## [6. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [9. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4
 
@@ -61,7 +87,7 @@
 *   [System Bar Color Changer (⭐16)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
 *   [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
-## [7. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [10. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### UI Components:
 
@@ -71,7 +97,7 @@
 
 
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -312,13 +338,13 @@
 *   [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
 *   [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Cognitive Foundations
 
 *   [Symbolic metaprogram search improves learning efficiency and explains rule learning in humans](https://www.nature.com/articles/s41467-024-50966-x) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=7670274141609367282)]. Symbolic models based on program learning successfully explain rule-learning in many domains, but performance degrades quickly as program complexity increases. It remains unclear how to scale symbolic rule-learning methods to model human performance in challenging domains. This work shows that symbolic search over the space of metaprograms—programs that revise programs—dramatically improves learning efficiency. On a behavioral benchmark of 100 algorithmically rich rules, this approach fits human learning more accurately than alternative models while also using orders of magnitude less search. The computation required to match median human performance is consistent with conservative estimates of human thinking time. The results suggest that metaprogram-like representations may help human learners to efficiently acquire rules.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -336,13 +362,17 @@
 
 *   [cchexcode/wavefront\_rs (⭐4)](https://github.com/cchexcode/wavefront_rs) - A parser for the Wavefront OBJ format. [![crates.io](https://img.shields.io/crates/v/wavefront_rs.svg)](https://crates.io/crates/wavefront_rs) [![crates.io](https://img.shields.io/crates/d/wavefront_rs?label=crates.io%20downloads)](https://crates.io/crates/wavefront_rs) [![build badge](https://github.com/cchexcode/wavefront_rs/workflows/pipeline/badge.svg?branch=master)](https://github.com/cchexcode/wavefront_rs/actions)
 
-## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Blog posts
 
 *   [Translating Pandas to Polars](https://towardsdev.com/translating-pandas-to-polars-a7446c82bcca) - A blog post that  that proposes 20 code translations from Pandas to Polars by [@Rohit-Salunke](https://github.com/Rohit-Salunke).
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+### Resources / Talks and videos
+
+*   [Understanding Polars Expressions when you're used to Pandas](https://www.youtube.com/watch?v=8Ex93IG37VI) ⏳ 31 min - A video that explains how to write your own Polars Plugin by [@marcogorelli](https://github.com/marcogorelli).
+
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -364,7 +394,7 @@
 
 *   [Gitea](https://gitea.com) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ([Demo](https://demo.gitea.com), [Source Code (⭐45k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -413,7 +443,7 @@
 
 *   [YAML (⭐348) (⭐347)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tutorials
 
@@ -425,19 +455,19 @@
 *   [AlgoDepo (⭐6)](https://github.com/dspytdao/AlgoDepo) - Single Deposit App Algorand.
 *   [AlgoDeposit (⭐5)](https://github.com/dspytdao/AlgoDeposit) - AMM Pool App Algorand.
 
-## [15. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfocus (⭐10)](https://github.com/nwiizo/tfocus) - tfocus is a super interactive tool for selecting and executing Terraform plan/apply on specific resources. Think of it as an "emergency tool" - not for everyday use.
 
-## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
 *   [AnnotateRb (⭐195)](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 
-## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Strings
 
@@ -448,7 +478,11 @@
 *   [Clace (⭐484)](https://github.com/claceio/clace) - Clace makes internal tool deployment and management easy by implementing an app server for containerized webapps.
 *   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user how to execute its session (local or in containers).
 
-## [18. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+### Websites / Libraries for creating HTTP middlewares
+
+*   [Golang Nugget](https://golangnugget.com) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
+
+## [21. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / BTF
 
@@ -464,7 +498,7 @@
 *   [Unit Testing eBPF Programs](https://ebpfchirp.substack.com/p/unit-testing-ebpf-programs) - Learn how you can unit test your eBPF programs using libbpf.
 *   [Accelerating Local Socket Communication using eBPF](https://cloudchirp.substack.com/p/optimizing-local-socket-communication) - Learn how eBPF can speed-up local socket communication up to 30%.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -478,14 +512,14 @@
 
 *   [mailchannels.com](https://www.mailchannels.com) - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.
 
-## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [23. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Tutorials
 
 *   [Data Analytics Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
 *   [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
-## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Username Check / Steam
 
@@ -499,13 +533,13 @@
 
 *   [Atlas](https://atlas.co)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
 *   [live\_vue (⭐246)](https://github.com/Valian/live_vue) - End-to-end reactivity for Phoenix LiveView and Vue.
 
-## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Configuration
 
@@ -515,7 +549,7 @@
 
 *   [GenHTTP (⭐196)](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
 
-## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [27. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
@@ -527,13 +561,13 @@
 *   [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
 *   [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 
-## [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
 *   [Responsible enterprise decisions with knowledge-enriched generative AI | Deloitte Netherlands](https://www.deloitte.com/nl/en/services/risk-advisory/perspectives/responsible-enterprise-decisions-knowledge-enriched-ai.html)
 
-## [26. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -552,13 +586,13 @@
 
 *   [vite-plugin-replace-lodash (⭐1)](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
 
-## [27. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
+## [30. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/week/README.md)
 
 ### Tools
 
 *   **[Windmill](https://www.windmill.dev/0)** - Turn scripts into auto-generated UIs, APIs, and cron jobs. Compose them as workflows or data pipelines. Build complex, data-intensive apps with ease.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -572,26 +606,26 @@
 
 *   [fast\_float (⭐1.6k)](https://github.com/fastfloat/fast_float) - Fast, Exact C++ from\_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. \[Apache2/BSL-1.0/MIT]
 
-## [29. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [32. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Related Projects / Themes
 
 *   [Ant Design X (⭐315)](https://github.com/ant-design/x) - A React UI library @ant-design/x that Crafting AI-driven interfaces with React, seamlessly integrating smart chat components and API services at your fingertips.
 *   [Ant Design Web3 (⭐890)](https://github.com/ant-design/ant-design-web3) - Efficient react components for building dapps easier | Connect crypto wallets and more Web3 UI components | Web3 icons | Supports Ethereum, Solana, Bitcoin, TON, Sui and others.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 
-## [31. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [klubok (⭐1)](https://github.com/darky/klubok) - Pipes with easy mocking, intended for huge amount of unit tests. +TS
 
-## [32. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [35. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
@@ -601,13 +635,13 @@
 
 *   [Dev Toolbox](https://flathub.org/apps/me.iepure.devtoolbox) - Toolbox for developers providing converters, formatters, Regex/Cron testers, hash generators and more.
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
 *   [Haystack Editor (⭐871)](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/haystackeditor/haystack-editor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -662,7 +696,7 @@
 
 *   [SmartNgRX (⭐8)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Marks / Diagnostics
 
@@ -672,11 +706,19 @@
 
 *   [TaDaa/vimade (⭐546)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 
+### Neovim Lua Development / Diagnostics
+
+*   [gregorias/coop.nvim (⭐50)](https://github.com/gregorias/coop.nvim) - Structured concurrency with Lua coroutines.
+
 ### GitHub / Diagnostics
 
 *   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### Formatting / Diagnostics
+
+*   [paul-louyot/toggle-quotes.nvim (⭐2)](https://github.com/paul-louyot/toggle-quotes.nvim) - Toggle between quotes.
+
+## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

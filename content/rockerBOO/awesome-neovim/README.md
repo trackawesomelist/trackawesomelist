@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 29, 2024](/content/2024/11/29/README.md)
+
+### Neovim Lua Development / Diagnostics
+
+*   [gregorias/coop.nvim (⭐50)](https://github.com/gregorias/coop.nvim) - Structured concurrency with Lua coroutines.
+
+### Formatting / Diagnostics
+
+*   [paul-louyot/toggle-quotes.nvim (⭐2)](https://github.com/paul-louyot/toggle-quotes.nvim) - Toggle between quotes.
+
 ## [Nov 27, 2024](/content/2024/11/27/README.md)
 
 ### Color / Diagnostics
@@ -212,7 +222,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim.
+*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 
 ## [Sep 06, 2024](/content/2024/09/06/README.md)
 

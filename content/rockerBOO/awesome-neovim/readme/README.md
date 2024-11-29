@@ -709,7 +709,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [linrongbin16/colorbox.nvim (⭐38)](https://github.com/linrongbin16/colorbox.nvim) - Load all the ultra colorschemes into your Neovim player!
 *   [CWood-sdf/pineapple (⭐53)](https://github.com/CWood-sdf/pineapple) - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 *   [BrunoCiccarino/gardenal (⭐5)](https://github.com/BrunoCiccarino/gardenal) - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
-*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim.
+*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 
 <!--lint disable double-link -->
 
@@ -1135,6 +1135,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [anuvyklack/animation.nvim (⭐44)](https://github.com/anuvyklack/animation.nvim) - Create animations.
 *   [nfrid/treesitter-utils (⭐8)](https://github.com/nfrid/treesitter-utils) - Some useful Tree-sitter methods.
 *   [nvim-lusc (⭐13)](https://github.com/svermeulen/nvim-lusc) - Adds support for Structured Async/Concurrency in Lua.
+*   [gregorias/coop.nvim (⭐50)](https://github.com/gregorias/coop.nvim) - Structured concurrency with Lua coroutines.
 *   [CWood-sdf/banana.nvim (⭐144)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 *   [OXY2DEV/helpview.nvim (⭐207)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 *   [niuiic/omega.nvim (⭐3)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
@@ -1423,6 +1424,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [elentok/format-on-save.nvim (⭐159)](https://github.com/elentok/format-on-save.nvim) - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 *   [stevearc/conform.nvim (⭐3.2k)](https://github.com/stevearc/conform.nvim) - A lightweight formatting engine that plays nice with LSP.
 *   [nvimdev/guard.nvim (⭐454)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [paul-louyot/toggle-quotes.nvim (⭐2)](https://github.com/paul-louyot/toggle-quotes.nvim) - Toggle between quotes.
 
 ### Indent
 

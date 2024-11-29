@@ -16,9 +16,17 @@ Collections of awesome neovim plugins.
 
 *   [TaDaa/vimade (⭐546)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 
+### Neovim Lua Development / Diagnostics
+
+*   [gregorias/coop.nvim (⭐50)](https://github.com/gregorias/coop.nvim) - Structured concurrency with Lua coroutines.
+
 ### GitHub / Diagnostics
 
 *   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+
+### Formatting / Diagnostics
+
+*   [paul-louyot/toggle-quotes.nvim (⭐2)](https://github.com/paul-louyot/toggle-quotes.nvim) - Toggle between quotes.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -173,7 +181,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim.
+*   [LmanTW/themify.nvim (⭐26)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 
 ### Utility / Diagnostics
 
