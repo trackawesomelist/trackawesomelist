@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome/README.md) / Weekly / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
+
+### Miscellaneous
+
+*   [Event-Driven Architecture (⭐349)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Platforms
@@ -130,7 +136,7 @@
 
 ### Decentralized Systems
 
-*   [Mastodon (⭐28)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Mastodon (⭐29)](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -365,7 +371,7 @@
 
 ### Miscellaneous
 
-*   [OpenStreetMap (⭐665)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
+*   [OpenStreetMap (⭐671)](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 *   [Computational Biology (⭐73)](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
@@ -411,7 +417,7 @@
 
 ### Testing
 
-*   [k6 (⭐591)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐595)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
@@ -464,7 +470,7 @@
 
 ### Platforms
 
-*   [Integration (⭐366)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+*   [Integration (⭐369)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -498,7 +504,7 @@
 
 ### Business
 
-*   [Billing (⭐932)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+*   [Billing (⭐939)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ### Work
 
@@ -516,7 +522,7 @@
 
 ### Computer Science
 
-*   [Theoretical Computer Science (⭐701)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+*   [Theoretical Computer Science (⭐716)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ### Decentralized Systems
 
@@ -536,7 +542,7 @@
 
 ### Miscellaneous
 
-*   [Urban & Regional Planning (⭐268)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+*   [Urban & Regional Planning (⭐271)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -606,7 +612,7 @@
 
 *   [Userscripts (⭐1.9k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 *   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐147)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐149)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 
@@ -712,7 +718,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐123)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐125)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -810,7 +816,7 @@
 
 ### Programming Languages
 
-*   [Python (⭐224k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐226k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.6k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐641)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -843,7 +849,7 @@
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.9k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐203k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Self Hosted (⭐205k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 *   [Homematic (⭐192)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
@@ -872,7 +878,7 @@
 
 ### Miscellaneous
 
-*   [Web Archiving (⭐2k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+*   [Web Archiving (⭐2.1k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
 ## [Mar 23 - Mar 29, 2020](/content/2020/12/README.md)
 
@@ -1078,7 +1084,7 @@
 ### Front-End Development
 
 *   [Angular (⭐9.5k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-*   [Blazor (⭐8.8k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [Blazor (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Back-End Development
 
@@ -1112,11 +1118,11 @@
 
 ### Gaming
 
-*   [Game Datasets (⭐742)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐750)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ### Security
 
-*   [Fuzzing (⭐843)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐847)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
 
@@ -1443,7 +1449,7 @@
     *   [Pest (⭐74)](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 *   [Haskell (⭐3.1k)](https://github.com/krispo/awesome-haskell#readme)
 *   [PureScript (⭐466)](https://github.com/passy/awesome-purescript#readme)
-*   [Go (⭐133k)](https://github.com/avelino/awesome-go#readme)
+*   [Go (⭐134k)](https://github.com/avelino/awesome-go#readme)
 *   [Ruby (⭐14k)](https://github.com/markets/awesome-ruby#readme)
 *   [Clojure (⭐2.7k)](https://github.com/razum2um/awesome-clojure#readme)
 *   [ClojureScript (⭐1k)](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -1519,7 +1525,7 @@
 
 ### Back-End Development
 
-*   [Docker (⭐30k)](https://github.com/veggiemonk/awesome-docker#readme)
+*   [Docker (⭐31k)](https://github.com/veggiemonk/awesome-docker#readme)
 *   [Play1 Framework (⭐42)](https://github.com/PerfectCarl/awesome-play1#readme)
 *   [CakePHP (⭐910)](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
 *   [Symfony (⭐1.5k)](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
@@ -1546,7 +1552,7 @@
     *   [Papers (⭐26k)](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
     *   [Education (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Open Source Society University (⭐172k)](https://github.com/ossu/computer-science#readme)
+*   [Open Source Society University (⭐173k)](https://github.com/ossu/computer-science#readme)
 *   [Functional Programming (⭐963)](https://github.com/lucasviola/awesome-functional-programming#readme)
 *   [Information Retrieval (⭐1.1k)](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 
@@ -1567,14 +1573,14 @@
 *   [Artificial Intelligence (⭐11k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Search Engine Optimization (⭐2.4k)](https://github.com/marcobiedermann/search-engine-optimization#readme)
 *   [Competitive Programming (⭐13k)](https://github.com/lnishan/awesome-competitive-programming#readme)
-*   [Math (⭐8.8k)](https://github.com/rossant/awesome-math#readme)
+*   [Math (⭐8.9k)](https://github.com/rossant/awesome-math#readme)
 *   [Recursion Schemes (⭐1.2k)](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ### Books
 
-*   [Free Programming Books (⭐338k)](https://github.com/EbookFoundation/free-programming-books#readme)
+*   [Free Programming Books (⭐340k)](https://github.com/EbookFoundation/free-programming-books#readme)
 *   [Go Books (⭐17k)](https://github.com/dariubs/GoBooks#readme)
-*   [R Books (⭐242)](https://github.com/RomanTsegelskyi/rbooks#readme)
+*   [R Books (⭐243)](https://github.com/RomanTsegelskyi/rbooks#readme)
 *   [Mind Expanding Books (⭐12k)](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 *   [Book Authoring (⭐362)](https://github.com/TalAter/awesome-book-authoring#readme)
 *   [Elixir Books (⭐1.4k)](https://github.com/sger/ElixirBooks#readme)
@@ -1603,7 +1609,7 @@
 *   [Dotfiles (⭐9.2k)](https://github.com/webpro/awesome-dotfiles#readme)
 *   [Shell (⭐33k)](https://github.com/alebcay/awesome-shell#readme)
 *   [Command-Line Apps (⭐15k)](https://github.com/agarrharr/awesome-cli-apps#readme)
-*   [ZSH Plugins (⭐15k)](https://github.com/unixorn/awesome-zsh-plugins#readme)
+*   [ZSH Plugins (⭐16k)](https://github.com/unixorn/awesome-zsh-plugins#readme)
 *   [Git Cheat Sheet & Git Flow (⭐6.9k)](https://github.com/arslanbilal/git-cheat-sheet#readme)
 *   [Git Tips (⭐21k)](https://github.com/git-tips/tips#readme)
 *   [Git Add-ons (⭐2k)](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
@@ -1658,12 +1664,12 @@
 ### Security
 
 *   [Application Security (⭐6.3k)](https://github.com/paragonie/awesome-appsec#readme)
-*   [Security (⭐12k)](https://github.com/sbilly/awesome-security#readme)
-*   [CTF (⭐9.8k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+*   [Security (⭐13k)](https://github.com/sbilly/awesome-security#readme)
+*   [CTF (⭐9.9k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 *   [Malware Analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis#readme)
 *   [Android Security (⭐8.2k)](https://github.com/ashishb/android-security-awesome#readme)
 *   [Hacking (⭐13k)](https://github.com/carpedm20/awesome-hacking#readme)
-*   [Honeypots (⭐8.6k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+*   [Honeypots (⭐8.7k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 *   [Incident Response (⭐7.7k)](https://github.com/meirwah/awesome-incident-response#readme)
 *   [Vehicle Security and Car Hacking (⭐3.2k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 *   [Web Security (⭐11k)](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
@@ -1715,8 +1721,8 @@
     *   [Datasets (⭐3.3k)](https://github.com/jdorfman/awesome-json-datasets#readme)
 *   [Discounts for Student Developers (⭐2.9k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐256)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐333k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
-*   [REST (⭐3.6k)](https://github.com/marmelab/awesome-rest#readme)
+*   [Awesome (⭐335k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [REST (⭐3.7k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Services Engineering (⭐3.6k)](https://github.com/mmcgrana/services-engineering#readme)
 *   [Free for Developers (⭐90k)](https://github.com/ripienaar/free-for-dev#readme)
 *   [Answers (⭐766)](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
@@ -1738,7 +1744,7 @@
     *   [Code Points (⭐763)](https://github.com/Codepoints/awesome-codepoints#readme)
 *   [Beginner-Friendly Projects (⭐69k)](https://github.com/MunGell/awesome-for-beginners#readme)
 *   [Katas (⭐2.8k)](https://github.com/gamontal/awesome-katas#readme)
-*   [Tools for Activism (⭐969)](https://github.com/drewrwilson/toolsforactivism#readme)
+*   [Tools for Activism (⭐972)](https://github.com/drewrwilson/toolsforactivism#readme)
 *   [Citizen Science (⭐248)](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
 *   [MQTT (⭐2.2k)](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
 *   [For Girls (⭐575)](https://github.com/cristianoliveira/awesome4girls#readme)

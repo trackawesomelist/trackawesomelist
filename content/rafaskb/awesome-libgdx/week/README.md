@@ -6,6 +6,12 @@
 
 [ [Daily](/content/rafaskb/awesome-libgdx/README.md) / Weekly / [Overview](/content/rafaskb/awesome-libgdx/readme/README.md) ]
 
+## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
+
+### Other Lists / Advanced
+
+*   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Assets / Advanced

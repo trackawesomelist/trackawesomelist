@@ -16,7 +16,7 @@
 >
 > [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
 >
-> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto (⭐333k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make *awesome* games, conforming to the [Awesome Manifesto (⭐335k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
 > Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -189,6 +189,7 @@
 *   [Kotlin (⭐11k)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
 *   [Magic Tools (⭐14k)](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 *   [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
+*   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games.
 
 ***
 
