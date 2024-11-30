@@ -676,6 +676,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-pendo (⭐16)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 *   [ngx-surreal (⭐1)](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 *   [ngx-filesize (⭐29)](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
+*   [ngx-intercom-messenger (⭐1)](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
 
 #### Internationalization
 
@@ -740,6 +741,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-ssr-code-remover (⭐2)](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 *   [treaty (⭐11)](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 *   [analog-stuff (⭐3)](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
+*   [ngx-trpc (⭐5)](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
 
 #### Site Templates
 
