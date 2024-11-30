@@ -442,12 +442,12 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [go-flags (⭐2.6k)](https://github.com/jessevdk/go-flags) - go command line option parser.
 *   [go-getoptions (⭐56)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 *   [gocmd (⭐65)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
+*   [hashicorp/cli (⭐14)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 *   [hiboot cli (⭐180)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
-*   [job (⭐145)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+*   [job (⭐147)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 *   [kingpin (⭐3.5k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 *   [liner (⭐1.1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 *   [mcli (⭐33)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
-*   [mitchellh/cli (⭐1.7k)](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 *   [mkideal/cli (⭐732)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 *   [mow.cli (⭐872)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 *   [ops (⭐1.3k)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
@@ -659,7 +659,7 @@ additional ordered map implementations.
 *   [deque (⭐185)](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
 *   [deque (⭐598)](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
 *   [goconcurrentqueue (⭐396)](https://github.com/enriquebris/goconcurrentqueue) - Concurrent FIFO queue.
-*   [hatchet (⭐4.2k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
+*   [hatchet (⭐4.3k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
 *   [memlog (⭐122)](https://github.com/embano1/memlog) - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 *   [queue (⭐275)](https://github.com/adrianbrad/queue) - Multiple thread-safe, generic queue implementations for Go.
 
@@ -1380,7 +1380,7 @@ additional ordered map implementations.
 *Toolkits*
 
 *   [app (⭐8k)](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
-*   [cimgui-go (⭐350)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐351)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
 *   [Cogent Core (⭐1.8k)](https://github.com/cogentcore/core) - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
 *   [DarwinKit (⭐5k)](https://github.com/progrium/darwinkit) - Build native macOS applications using Go.
 *   [energy (⭐385)](https://github.com/energye/energy) - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
@@ -1495,7 +1495,7 @@ additional ordered map implementations.
 *   [iot (⭐66)](https://github.com/vaelen/iot/) - IoT is a simple framework for implementing a Google IoT Core device.
 *   [mainflux (⭐43)](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
 *   [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
-*   [rulego (⭐853)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
+*   [rulego (⭐891)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 *   [sensorbee (⭐231)](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
 *   [shifu (⭐1.3k)](https://github.com/Edgenesis/shifu) - Kubernetes native IoT development framework.
 *   [smart-home (⭐86)](https://github.com/e154/smart-home) - Software package for IoT automation.
@@ -2676,7 +2676,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-atlassian (⭐132)](https://github.com/ctreminiom/go-atlassian) - Go library for accessing the [Atlassian Cloud](https://www.atlassian.com/enterprise/cloud) services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
 *   [go-aws-news (⭐17)](https://github.com/circa10a/go-aws-news) - Go application and library to fetch what's new from AWS.
 *   [go-chronos (⭐8)](https://github.com/axelspringer/go-chronos) - Go library for interacting with the [Chronos](https://mesos.github.io/chronos/) Job Scheduler
-*   [go-gerrit (⭐94)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐96)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 *   [go-hacknews (⭐17)](https://github.com/PaulRosset/go-hacknews) - Tiny Go client for HackerNews API.
 *   [go-here (⭐13)](https://github.com/abdullahselek/go-here) - Go client library around the HERE location based APIs.
 *   [go-hibp (⭐6)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
@@ -3173,7 +3173,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [Cosign (⭐4.5k)](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
 *   [in-toto (⭐133)](https://github.com/in-toto/in-toto-golang) - Go implementation of the in-toto (provides a framework to protect the integrity of the software supply chain) python reference implementation.
-*   [OpenZiti (⭐2.8k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐100)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐36)](https://github.com/openziti-test-kitchen/zssh)
+*   [OpenZiti (⭐2.9k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐100)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐36)](https://github.com/openziti-test-kitchen/zssh)
 *   [Spiffe-Vault (⭐85)](https://github.com/philips-labs/spiffe-vault) - Utilizes Spiffe JWT authentication with Hashicorp Vault for secretless authentication.
 *   [Spire (⭐1.8k)](https://github.com/spiffe/spire) - SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms.
 

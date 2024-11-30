@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 30, 2024](/content/2024/11/30/README.md)
+
+### Bayesian Modeling / Bayesian Induction
+
+*   [Bayesian modeling of human concept learning](https://proceedings.neurips.cc/paper_files/paper/1998/hash/d010396ca8abf6ead8cacc2c2f2f26c7-Abstract.html) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=3772493362518191863)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf)]. This work considers the problem of learning concepts from small numbers of positive examples, a feat which humans perform routinely but which computers are rarely capable of. Bridging machine learning and cognitive science perspectives, this work presents both theoretical analysis and an empirical study with human subjects for the simple task oflearning concepts corresponding to axis-aligned rectangles in a multidimensional feature space. Existing learning models, when applied to this task, cannot explain how subjects generalize from only a few examples of the concept. The author proposes a principled Bayesian model based on the assumption that the examples are a random sample from the concept to be learned. The model gives precise fits to human behavior on this simple task and provides qualitati ve insights into more complex, realistic cases of concept learning.
+
 ## [Nov 28, 2024](/content/2024/11/28/README.md)
 
 ### Domain Specific Language / Cognitive Foundations
@@ -1745,7 +1751,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Bayesian Induction
 
 *   [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) - ***Plato Stanford***. A computational philosophy account on the nature of uncertainty modeling in Bayesian Epistemology.
-*   [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794\&hl=en\&as_sdt=0,5\&as_vis=1)]. Original paper on Bayesian generalization.
 *   [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=5476233692839102256)]. \[[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245)]. Fei Xu's review on Bayesian word learning.
 *   [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
 

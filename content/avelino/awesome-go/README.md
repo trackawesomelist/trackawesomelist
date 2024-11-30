@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 30, 2024](/content/2024/11/30/README.md)
+
+### Standard CLI
+
+*   [hashicorp/cli (⭐14)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
+
 ## [Nov 29, 2024](/content/2024/11/29/README.md)
 
 ### Websites / Libraries for creating HTTP middlewares
@@ -74,7 +80,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Zero Trust / Libraries for creating HTTP middlewares
 
-*   [OpenZiti (⭐2.8k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐100)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐36)](https://github.com/openziti-test-kitchen/zssh)
+*   [OpenZiti (⭐2.9k)](https://github.com/openziti/ziti) - A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang (⭐100)](https://github.com/openziti/sdk-golang) allowing you to embed zero trust principles directly into your applications. The [OpenZiti Test Kitchen](https://github.com/openziti-test-kitchen) has numerous examples to draw inspiration from including a [zero trust ssh client - zssh (⭐36)](https://github.com/openziti-test-kitchen/zssh)
 
 ## [Oct 31, 2024](/content/2024/10/31/README.md)
 
@@ -100,7 +106,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [go-gerrit (⭐94)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐96)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 
 ## [Oct 29, 2024](/content/2024/10/29/README.md)
 
@@ -166,11 +172,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Queues
 
-*   [hatchet (⭐4.2k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
+*   [hatchet (⭐4.3k)](https://github.com/hatchet-dev/hatchet) - Distributed, Fault-tolerant task queue.
 
 ### IoT (Internet of Things)
 
-*   [rulego (⭐853)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
+*   [rulego (⭐891)](https://github.com/rulego/rulego) - RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
@@ -232,7 +238,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### GUI
 
-*   [cimgui-go (⭐350)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
+*   [cimgui-go (⭐351)](https://github.com/AllenDang/cimgui-go) - Auto generated Go wrapper for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) via [cimgui (⭐1.5k)](https://github.com/cimgui/cimgui).
 
 ### Messaging
 
@@ -3183,10 +3189,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-flags (⭐2.6k)](https://github.com/jessevdk/go-flags) - go command line option parser.
 *   [gocmd (⭐65)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐180)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
-*   [job (⭐145)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+*   [job (⭐147)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 *   [kingpin (⭐3.5k)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 *   [liner (⭐1.1k)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
-*   [mitchellh/cli (⭐1.7k)](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 *   [mow.cli (⭐872)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 *   [ops (⭐1.3k)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
 *   [pflag (⭐2.4k)](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.

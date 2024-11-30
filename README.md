@@ -87,6 +87,39 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [`panic-rtt-target`](https://crates.io/crates/panic-rtt-target): Logs panic messages over RTT. Uses `rtt-target`. [![crates.io](https://img.shields.io/crates/v/panic-rtt-target.svg)](https://crates.io/crates/panic-rtt-target)
 *   [`panic-semihosting`](https://github.com/rust-embedded/panic-semihosting): Prints the panic message via semihosting to an attached debugger (Cortex-M only)
 
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Running LLMs Locally / Prompt Engineering for Text-to-image
+
+*   [llama.cpp guide](https://steelph0enix.github.io/posts/llama-cpp-guide/): Running LLMs locally, on any hardware, from scratch
+
+##### Text-related Generative Tools / Multi-agents
+
+*   [TextCraft (⭐52)](https://github.com/suncloudsmoon/TextCraft) Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
+
+##### Related Awesome Lists / Deforum
+
+*   [mahseema/awesome-ai-tools (⭐1.4k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
+
+#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Standard CLI
+
+*   [hashicorp/cli (⭐14)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Bayesian Modeling / Bayesian Induction
+
+*   [Bayesian modeling of human concept learning](https://proceedings.neurips.cc/paper_files/paper/1998/hash/d010396ca8abf6ead8cacc2c2f2f26c7-Abstract.html) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=3772493362518191863)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf)]. This work considers the problem of learning concepts from small numbers of positive examples, a feat which humans perform routinely but which computers are rarely capable of. Bridging machine learning and cognitive science perspectives, this work presents both theoretical analysis and an empirical study with human subjects for the simple task oflearning concepts corresponding to axis-aligned rectangles in a multidimensional feature space. Existing learning models, when applied to this task, cannot explain how subjects generalize from only a few examples of the concept. The author proposes a principled Bayesian model based on the assumption that the examples are a random sample from the concept to be learned. The model gives precise fits to human behavior on this simple task and provides qualitati ve insights into more complex, realistic cases of concept learning.
+
+#### [9. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+##### Media / Helpers
+
+*   [CNCF - OpenTofu Day Europe 2024](https://www.youtube.com/playlist?list=PLnVotLM2Qsyiw_6Pd_9WxRRLdrUAs3c1c)
+*   [CNCF - OpenTofu Day North America 2024](https://www.youtube.com/playlist?list=PLnVotLM2QsyhhCO5TgEUsAip601j3NUlm)
+
 ### [Nov 29, 2024](/content/2024/11/29/README.md)
 
 
@@ -157,19 +190,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Rust Radix (⭐14)](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
 *   [Rust shadcn/ui (⭐48)](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
 
-#### [9. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Websites / Libraries for creating HTTP middlewares
-
-*   [Golang Nugget](https://golangnugget.com) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
-
-#### [10. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Resources / Talks and videos
 
 *   [Understanding Polars Expressions when you're used to Pandas](https://www.youtube.com/watch?v=8Ex93IG37VI) ⏳ 31 min - A video that explains how to write your own Polars Plugin by [@marcogorelli](https://github.com/marcogorelli).
 
-#### [11. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [10. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### Table of contents
 
@@ -182,7 +209,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   `x-ref`: Cross reference
     *   📺: youtube or video
 
-#### [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -199,6 +226,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-whats-new (⭐3)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
+
+#### [12. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Websites / Libraries for creating HTTP middlewares
+
+*   [Golang Nugget](https://golangnugget.com) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 
 ### [Nov 28, 2024](/content/2024/11/28/README.md)
 
@@ -497,17 +530,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
 
-#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Cognitive Foundations
-
-*   [Symbolic metaprogram search improves learning efficiency and explains rule learning in humans](https://www.nature.com/articles/s41467-024-50966-x) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=7670274141609367282)]. Symbolic models based on program learning successfully explain rule-learning in many domains, but performance degrades quickly as program complexity increases. It remains unclear how to scale symbolic rule-learning methods to model human performance in challenging domains. This work shows that symbolic search over the space of metaprograms—programs that revise programs—dramatically improves learning efficiency. On a behavioral benchmark of 100 algorithmically rich rules, this approach fits human learning more accurately than alternative models while also using orders of magnitude less search. The computation required to match median human performance is consistent with conservative estimates of human thinking time. The results suggest that metaprogram-like representations may help human learners to efficiently acquire rules.
-
-#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@semantic-icons/heroicons](https://www.npmjs.com/package/@semantic-icons/heroicons) - [Semantic icons (⭐0)](https://github.com/khalilou88/semantic-icons) helps developers to use [Heroicons](https://heroicons.com/) icons inside Angular projects.
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Cognitive Foundations
+
+*   [Symbolic metaprogram search improves learning efficiency and explains rule learning in humans](https://www.nature.com/articles/s41467-024-50966-x) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=7670274141609367282)]. Symbolic models based on program learning successfully explain rule-learning in many domains, but performance degrades quickly as program complexity increases. It remains unclear how to scale symbolic rule-learning methods to model human performance in challenging domains. This work shows that symbolic search over the space of metaprograms—programs that revise programs—dramatically improves learning efficiency. On a behavioral benchmark of 100 algorithmically rich rules, this approach fits human learning more accurately than alternative models while also using orders of magnitude less search. The computation required to match median human performance is consistent with conservative estimates of human thinking time. The results suggest that metaprogram-like representations may help human learners to efficiently acquire rules.
 
 ---
 
@@ -517,7 +550,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 334K 📝 11&#x2F;29 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 203K 📝 11&#x2F;27 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 11&#x2F;29 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 11&#x2F;30 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 90K 📝 11&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 70K 📝 11&#x2F;29 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 60K 📝 11&#x2F;28 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -563,8 +596,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 46. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.3K 📝 11&#x2F;26 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
 47. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 3.3K 📝 11&#x2F;29 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 48. [Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md) - ([Source ⭐ 15K 📝 11&#x2F;13 ](https://github.com/ramitsurana/awesome-kubernetes)) - A curated list for awesome kubernetes sources :ship::tada:
-49. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 7.8K 📝 11&#x2F;19 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
-50. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 14K 📝 11&#x2F;12 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+49. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.6K 📝 11&#x2F;30 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+50. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 7.8K 📝 11&#x2F;19 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 
 ## All Tracked List
 
@@ -735,7 +768,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### DevOps
 
 - [Awesome Kustomize](/content/aabouzaid/awesome-kustomize/README.md) - ([Source ⭐ 91, 📝 23&#x2F;09&#x2F;11 ](https://github.com/aabouzaid/awesome-kustomize)) - A curated and collaborative list of awesome Kustomize resources
-- [Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md) - ([Source ⭐ 91, 📝 11&#x2F;22 ](https://github.com/virtualroot/awesome-opentofu)) - A curated list of OpenTofu tools, resources, and related projects.
+- [Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md) - ([Source ⭐ 94, 📝 11&#x2F;30 ](https://github.com/virtualroot/awesome-opentofu)) - A curated list of OpenTofu tools, resources, and related projects.
 
 ### Development Environment
 
@@ -1022,7 +1055,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 93, 📝 23&#x2F;07&#x2F;23 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.3K, 📝 23&#x2F;07&#x2F;14 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 22&#x2F;09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.5K, 📝 11&#x2F;26 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.6K, 📝 11&#x2F;30 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of Generative AI tools, works, models, and references
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 2.2K, 📝 07&#x2F;12 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.9K, 📝 10&#x2F;04 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md) - ([Source ⭐ 274, 📝 11&#x2F;20 ](https://github.com/MyHoneyBadger/awesome-github-wiki)) - :neckbeard: Awesome list GitHub Wikis
@@ -1222,7 +1255,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 11&#x2F;25 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 11&#x2F;29 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 11&#x2F;30 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
@@ -1309,7 +1342,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 292, 📝 11&#x2F;28 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 292, 📝 11&#x2F;30 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;25 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 92, 📝 10&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
