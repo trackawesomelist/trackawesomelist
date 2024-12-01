@@ -11,6 +11,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Bayesian Induction
 
 *   [Bayesian modeling of human concept learning](https://proceedings.neurips.cc/paper_files/paper/1998/hash/d010396ca8abf6ead8cacc2c2f2f26c7-Abstract.html) - ***NeurIPS'98***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=3772493362518191863)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf)]. This work considers the problem of learning concepts from small numbers of positive examples, a feat which humans perform routinely but which computers are rarely capable of. Bridging machine learning and cognitive science perspectives, this work presents both theoretical analysis and an empirical study with human subjects for the simple task oflearning concepts corresponding to axis-aligned rectangles in a multidimensional feature space. Existing learning models, when applied to this task, cannot explain how subjects generalize from only a few examples of the concept. The author proposes a principled Bayesian model based on the assumption that the examples are a random sample from the concept to be learned. The model gives precise fits to human behavior on this simple task and provides qualitati ve insights into more complex, realistic cases of concept learning.
+*   [Rules and Similarity in Concept Learning](https://proceedings.neurips.cc/paper/1999/hash/86d7c8a08b4aaa1bc7c599473f5dddda-Abstract.html) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf)]. This paper argues that two apparently distinct modes of generalizing concepts - abstracting rules and computing similarity to exemplars - should both be seen as special cases of a more general Bayesian learning framework. Bayes explains the specific workings of these two modes - which rules are abstracted, how similarity is measured - as well as why generalization should appear rule- or similarity-based in different situations. This analysis also suggests why the rules/similarity distinction, even if not computationally fundamental, may still be useful at the algorithmic level as part of a principled approximation to fully Bayesian learning.
 
 ### Domain Specific Language / Cognitive Foundations
 
@@ -819,10 +820,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
-
-### Bayesian Modeling / Bayesian Induction
-
-*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
 
 ### Concepts / Human Concept Representation
 

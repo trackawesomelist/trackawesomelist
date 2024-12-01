@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 01, 2024](/content/2024/12/01/README.md)
+
+### Bayesian Modeling / Bayesian Induction
+
+*   [Rules and Similarity in Concept Learning](https://proceedings.neurips.cc/paper/1999/hash/86d7c8a08b4aaa1bc7c599473f5dddda-Abstract.html) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417)]. \[[Preprint](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf)]. This paper argues that two apparently distinct modes of generalizing concepts - abstracting rules and computing similarity to exemplars - should both be seen as special cases of a more general Bayesian learning framework. Bayes explains the specific workings of these two modes - which rules are abstracted, how similarity is measured - as well as why generalization should appear rule- or similarity-based in different situations. This analysis also suggests why the rules/similarity distinction, even if not computationally fundamental, may still be useful at the algorithmic level as part of a principled approximation to fully Bayesian learning.
+
 ## [Nov 30, 2024](/content/2024/11/30/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
@@ -1056,10 +1062,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
-
-### Bayesian Modeling / Bayesian Induction
-
-*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
 
 ### Concepts / Human Concept Representation
 

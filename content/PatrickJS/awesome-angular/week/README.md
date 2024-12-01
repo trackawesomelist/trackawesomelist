@@ -65,6 +65,11 @@
 
 *   [ngx-scanner-qrcode (⭐56)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
+
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [SmartNgRX (⭐8)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
@@ -294,7 +299,7 @@
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-perfect-scrollbar (⭐3)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar (⭐522)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
+*   [ngx-perfect-scrollbar (⭐3)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar (⭐523)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -382,7 +387,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-tagify (⭐26)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify (⭐3.5k)](https://github.com/yaireo/tagify/).
+*   [ngx-tagify (⭐26)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify (⭐3.6k)](https://github.com/yaireo/tagify/).
 *   [ngx-xapi (⭐4)](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -952,7 +957,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stripe (⭐220)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-stripe (⭐221)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 *   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1158,7 +1163,7 @@
 
 ### Community
 
-*   [ngx.tools (⭐73)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+*   [ngx.tools (⭐74)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
 *   [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

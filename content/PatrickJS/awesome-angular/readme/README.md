@@ -155,7 +155,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular hub (⭐50)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 *   [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 *   [angular-memes (⭐35)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
-*   [ngx.tools (⭐73)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+*   [ngx.tools (⭐74)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
 *   [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 
 ##### Newsletters
@@ -657,7 +657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-three (⭐68)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 *   [ngx-facebook-messenger (⭐3)](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 *   [angular-sdk-plugin (⭐1)](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
-*   [ngx-stripe (⭐220)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-stripe (⭐221)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 *   [ngx-socket-io (⭐261)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 *   [angular-three (⭐213)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐103k)](https://github.com/mrdoob/three.js).
 *   [limitless-angular (⭐12)](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
@@ -669,7 +669,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [gong (⭐14)](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
 *   [adyen-angular-online-payments (⭐12)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 *   [ngx-culqi (⭐9)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐11)](https://github.com/lperezp/culqi-angular).
-*   [ngx-tagify (⭐26)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify (⭐3.5k)](https://github.com/yaireo/tagify/).
+*   [ngx-tagify (⭐26)](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify (⭐3.6k)](https://github.com/yaireo/tagify/).
 *   [ngx-xapi (⭐4)](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 *   [ngx-notion-cms (⭐4)](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
 *   [angular-rsocket (⭐2)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
@@ -1431,7 +1431,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-tracing-beam (⭐2)](https://github.com/omnedia/ngx-tracing-beam) - A simple component library to add an animated tracing beam to your vertical scrolling.
 *   [ngx-marquee (⭐1)](https://github.com/omnedia/ngx-marquee) - A simple component library to create an infinite scrolling marquee with your content.
 *   [@omnedia/ngx-scrollbar (⭐0)](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
-*   [ngx-perfect-scrollbar (⭐3)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar (⭐522)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
+*   [ngx-perfect-scrollbar (⭐3)](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar (⭐523)](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 
 #### State Management
 
@@ -1631,6 +1631,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-copypaste (⭐27)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 *   [ngx-morse (⭐7)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
+*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ***
 
