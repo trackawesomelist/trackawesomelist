@@ -934,6 +934,7 @@ additional ordered map implementations.
 *   [go-elasticsearch (⭐63)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 *   [goes (⭐31)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 *   [skizze (⭐89)](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
+*   [zoekt (⭐751)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 **[⬆ back to top](#contents)**
 
@@ -1253,7 +1254,7 @@ additional ordered map implementations.
 *   [nano (⭐2.9k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.6k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.4k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-*   [Pixel (⭐4.5k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐251)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 *   [prototype (⭐88)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 *   [raylib-go (⭐1.6k)](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 *   [termloop (⭐1.4k)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -2314,6 +2315,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [optimus-go (⭐363)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐289)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐51)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
+*   [qrand (⭐15)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 *   [secret (⭐28)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 *   [secureio (⭐34)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
@@ -2648,9 +2650,9 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *Libraries for accessing third party APIs.*
 
 *   [airtable (⭐77)](https://github.com/mehanizm/airtable) - Go client library for the [Airtable API](https://airtable.com/api).
-*   [amazon-product-advertising-api (⭐57)](https://github.com/ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
 *   [anaconda (⭐1.1k)](https://github.com/ChimeraCoder/anaconda) - Go client library for the Twitter 1.1 API.
 *   [appstore-sdk-go (⭐5)](https://github.com/Kachit/appstore-sdk-go) - Unofficial Golang SDK for AppStore Connect API.
+*   [aws-encryption-sdk-go (⭐20)](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
 *   [aws-sdk-go (⭐2.7k)](https://github.com/aws/aws-sdk-go-v2) - The official AWS SDK for the Go programming language.
 *   [bqwriter (⭐16)](https://github.com/OTA-Insight/bqwriter) - High Level Go Library to write data into [Google BigQuery](https://cloud.google.com/bigquery) at a high throughout.
 *   [brewerydb (⭐19)](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
@@ -2828,7 +2830,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-rate (⭐398)](https://github.com/beefsack/go-rate) - Timed rate limiter for Go.
 *   [go-sitemap-generator (⭐220)](https://github.com/ikeikeikeike/go-sitemap-generator) - XML Sitemap generator written in Go.
 *   [go-trigger (⭐246)](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
-*   [go-tripper (⭐10)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
+*   [go-tripper (⭐12)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
 *   [go-type (⭐19)](https://github.com/mikekonan/go-types) - Library providing Go types for store/validation and transfer of ISO-4217, ISO-3166, and other types.
 *   [goback (⭐49)](https://github.com/carlescere/goback) - Go simple exponential backoff package.
 *   [goctx (⭐9)](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
@@ -3188,7 +3190,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Chronos (⭐429)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
 *   [dupl (⭐346)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.4k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
-*   [fatcontext (⭐10)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐12)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐129)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐881)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.

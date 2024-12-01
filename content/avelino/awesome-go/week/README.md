@@ -12,14 +12,30 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [hashicorp/cli (⭐14)](https://github.com/hashicorp/cli) - Go library for implementing command-line interfaces.
 
+### Search and Analytic Databases
+
+*   [zoekt (⭐751)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+
+### Game Development
+
+*   [Pixel (⭐251)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
+
 ### Strings
 
 *   [strcase (⭐5)](https://github.com/charlievieth/strcase) - Case-insensitive implementation of the standard library's strings/bytes packages.
+
+### Security
+
+*   [qrand (⭐15)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 
 ### Server Applications
 
 *   [Clace (⭐484)](https://github.com/claceio/clace) - Clace makes internal tool deployment and management easy by implementing an app server for containerized webapps.
 *   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user how to execute its session (local or in containers).
+
+### Third-party APIs
+
+*   [aws-encryption-sdk-go (⭐20)](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -55,7 +71,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [go-tripper (⭐10)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
+*   [go-tripper (⭐12)](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
 
 ### Validation
 
@@ -96,7 +112,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [fatcontext (⭐10)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐12)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -3291,7 +3307,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [nano (⭐2.9k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.6k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.4k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-*   [Pixel (⭐4.5k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
 *   [prototype (⭐88)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 *   [raylib-go (⭐1.6k)](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 *   [termloop (⭐1.4k)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -4142,7 +4157,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Third-party APIs
 
 *   [airtable (⭐77)](https://github.com/mehanizm/airtable) - Go client library for the [Airtable API](https://airtable.com/api).
-*   [amazon-product-advertising-api (⭐57)](https://github.com/ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
 *   [anaconda (⭐1.1k)](https://github.com/ChimeraCoder/anaconda) - Go client library for the Twitter 1.1 API.
 *   [appstore-sdk-go (⭐5)](https://github.com/Kachit/appstore-sdk-go) - Unofficial Golang SDK for AppStore Connect API.
 *   [bqwriter (⭐16)](https://github.com/OTA-Insight/bqwriter) - High Level Go Library to write data into [Google BigQuery](https://cloud.google.com/bigquery) at a high throughout.
