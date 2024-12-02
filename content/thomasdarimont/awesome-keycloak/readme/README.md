@@ -257,6 +257,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak GraphQL API by @blevine (⭐8)](https://github.com/blevine/keycloak-graphql)
 *   [Keycloak SCIM Federation Support](https://lab.libreho.st/libre.sh/scim/keycloak-scim)
 *   [Keycloak Trusted Device Support by @wouterh-dev (⭐27)](https://github.com/wouterh-dev/keycloak-spi-trusted-device)
+*   [Keycloak MFA Plugins by @netzbegruenung (⭐95)](https://github.com/netzbegruenung/keycloak-mfa-plugins)
+*   [Keycloak OpenFGA Event Publisher by @embesozzi (⭐26)](https://github.com/embesozzi/keycloak-openfga-event-publisher)
+*   [JavaScript LDAP\_ID ScriptMapper by @netzbegruenung (⭐0)](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id)
 
 ## Integrations
 
@@ -370,7 +373,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Keycloak Last Login Date Event Listener (⭐27)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 *   [Keycloak Project Example (Customizations, Extensions, Configuration) (⭐345)](https://github.com/thomasdarimont/keycloak-project-example)
 *   [Example of adding API Key authentication to Keycloak (⭐115)](https://github.com/zak905/keycloak-api-key-demo)
-*   [Example for using Keycloak Authorization with ASP.NET Core (⭐478)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
+*   [Example for using Keycloak Authorization with ASP.NET Core (⭐491)](https://github.com/NikiforovAll/keycloak-authorization-services-dotnet)
 *   [FAPI demo from DevConf.cz Mini: Secure digital transformation via keycloak's FAPI (⭐3)](https://github.com/mposolda/fapi-demo/tree/main)
 *   [Keycloak enviornment with WebAuthn Support for Stepup Auth with MFA Biometrics and Passkeys (by embesozzi) (⭐39)](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics)
 *   [How to: Keycloak - ASP.NET Core - Angular (⭐45)](https://github.com/fschick/Keycloak.ASPNet.Angular)

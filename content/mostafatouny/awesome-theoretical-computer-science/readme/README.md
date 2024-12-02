@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 701 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 723 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -53,7 +53,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
         *   [Lecture Notes](#programming_language_theory_functional_programming_lecture_notes)
 *   [Algorithms](#algorithms)
     *   [General](#algorithms_general)
-        *   [Lecture Notes](#algorithms_general_lecture_notes) | [Books](#algorithms_general_books)
+        *   [Lecture Videos](#algorithms_general_lecture_videos) | [Lecture Notes](#algorithms_general_lecture_notes) | [Books](#algorithms_general_books)
     *   [Lower Bounds](#algorithms_lower_bounds)
         *   [Lecture Videos Playlists](#algorithms_lower_bounds_lecture_videos_playlists) | [Books](#algorithms_lower_bounds_books)
     *   [Randomization & Probability](#algorithms_randomization__probability)
@@ -239,7 +239,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books<a name=programming_language_theory_basics_books></a>
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐916)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐923)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 
 ## Introductory<a name=programming_language_theory_introductory></a>
 
@@ -280,9 +280,14 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## General<a name=algorithms_general></a>
 
+### Lecture Videos<a name=algorithms_general_lecture_videos></a>
+
+*   [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. — added by Erik himself!
+*   [Demaine/Devadas/Lynch. Design and Analysis of algorithms. MIT](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - A second course on algorithms and data structures. — added by Erik himself!
+*   [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
+
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
 
-*   [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
 *   [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 
 ### Books<a name=algorithms_general_books></a>
@@ -657,9 +662,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Lists<a name=related_lists></a>
 
 *   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms).
-*   [Mathematics (⭐8.8k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Mathematics (⭐8.9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
 *   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.2k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
 *   [Cryptography (⭐5.9k)](https://github.com/sobolevn/awesome-cryptography).
 *   [Quantum Computing (⭐2.6k)](https://github.com/desireevl/awesome-quantum-computing).
-*   [Math (⭐4.5k)](https://github.com/ossu/math) and [CS (⭐172k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Math (⭐4.5k)](https://github.com/ossu/math) and [CS (⭐173k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
