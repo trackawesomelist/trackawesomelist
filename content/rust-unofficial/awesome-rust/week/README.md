@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Applications / Text processing
+
+*   [dathere/qsv (⭐2.5k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
 ### Applications / Database
@@ -56,7 +62,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Reverse engineering
 
-*   [binarly-io/idalib (⭐71)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
+*   [binarly-io/idalib (⭐83)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 
 ### Registries / Web programming
 
@@ -1016,7 +1022,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐301)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐303)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Data visualization
 
@@ -1059,10 +1065,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [mdBook (⭐18k)](https://github.com/rust-lang/mdBook) - A command line utility to create books from markdown files [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
-
-### Applications / Text processing
-
-*   [jqnatividad/qsv (⭐2.5k)](https://github.com/jqnatividad/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/jqnatividad/qsv/actions/workflows/rust-macos.yml)
 
 ## [Jun 12 - Jun 18, 2023](/content/2023/24/README.md)
 
@@ -1502,7 +1504,7 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [RisingWaveLabs/RisingWave (⭐7k)](https://github.com/RisingWaveLabs/risingwave) - the next-generation streaming database in the cloud [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
-*   [SurrealDB (⭐27k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
+*   [SurrealDB (⭐28k)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, document-graph database [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 
 ### Applications / System tools
 
@@ -1520,7 +1522,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐6k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
+*   [rustfmt (⭐6.1k)](https://github.com/rust-lang/rustfmt) - Rust code formatter maintained by the Rust team and included in cargo
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -2097,7 +2099,7 @@ A curated list of Rust code and resources.
     *   [RocksDB](https://rocksdb.org/)
         *   [rust-rocksdb/rust-rocksdb (⭐1.9k)](https://github.com/rust-rocksdb/rust-rocksdb) - RocksDB bindings [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
     *   [SurrealDB](https://surrealdb.com/)
-        *   [surrealdb/surrealdb (⭐27k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
+        *   [surrealdb/surrealdb (⭐28k)](https://github.com/surrealdb/surrealdb) - SurrealDB embedded document-graph database
     *   [UnQLite (⭐2.1k)](https://github.com/symisc/unqlite)
         *   [zitsen/unqlite.rs (⭐111)](https://github.com/zitsen/unqlite.rs) - UnQLite bindings
     *   [ZooKeeper](https://zookeeper.apache.org/)
@@ -2108,7 +2110,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐6.9k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
+*   [cantino/mcfly (⭐7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 *   [dalance/procs (⭐5.2k)](https://github.com/dalance/procs) - A modern replacement for 'ps' [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 
 ### Applications / Web
@@ -2373,7 +2375,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [nickgerace/gfold (⭐308)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
+*   [nickgerace/gfold (⭐310)](https://github.com/nickgerace/gfold) \[[gfold](https://crates.io/crates/gfold)] - CLI tool to help keep track of multiple Git repositories [![build](https://img.shields.io/github/workflow/status/nickgerace/gfold/merge/main)](https://github.com/nickgerace/gfold/actions?query=workflow%3Amerge+branch%3Amain)
 
 ### Applications / Text editors
 
@@ -3423,7 +3425,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.6k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [crates.nvim (⭐868)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
+    *   [crates.nvim (⭐876)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐3.9k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐633)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
 
@@ -3554,7 +3556,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alacritty (⭐56k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐57k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 
 ### Applications / Emulators
 
@@ -3706,7 +3708,7 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
-*   [Servo (⭐28k)](https://github.com/servo/servo) - A prototype web browser engine
+*   [Servo (⭐29k)](https://github.com/servo/servo) - A prototype web browser engine
 
 ### Applications / Utilities
 
@@ -3808,7 +3810,7 @@ A curated list of Rust code and resources.
     *   [cargo-rdme (⭐132)](https://github.com/orium/cargo-rdme) \[[cargo-rdme](https://crates.io/crates/cargo-rdme)] - Cargo subcommand to create your README from your crate’s documentation. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
     *   [cargo-release](https://crates.io/crates/cargo-release) - tool for releasing git-managed cargo project, build, tag, publish, doc and push [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
     *   [cargo-script](https://crates.io/crates/cargo-script) - lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem
-    *   [cargo-udeps (⭐1.7k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
+    *   [cargo-udeps (⭐1.8k)](https://github.com/est31/cargo-udeps) \[[cargo-udeps](https://crates.io/crates/cargo-udeps)] - find unused dependencies
     *   [cargo-update](https://crates.io/crates/cargo-update) - cargo subcommand for checking and applying updates to installed executables
     *   [cargo-watch](https://crates.io/crates/cargo-watch) - utility for cargo to compile projects when sources change
     *   [dtolnay/cargo-expand (⭐2.7k)](https://github.com/dtolnay/cargo-expand) - Expand macros in your source code

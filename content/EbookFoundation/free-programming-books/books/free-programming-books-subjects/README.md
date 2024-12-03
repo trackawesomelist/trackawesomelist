@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Dec 03, 2024](/content/2024/12/03/README.md)
+
+### Professional Development
+
+*   [Succeed In Software: A Comprehensive Guide To Software Career Excellence (⭐1)](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
+
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
 ### Programming Paradigms

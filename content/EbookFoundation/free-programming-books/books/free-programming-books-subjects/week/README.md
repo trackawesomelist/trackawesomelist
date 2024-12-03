@@ -8,6 +8,10 @@
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
+### Professional Development
+
+*   [Succeed In Software: A Comprehensive Guide To Software Career Excellence (⭐1)](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
+
 ### Programming Paradigms
 
 *   [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)

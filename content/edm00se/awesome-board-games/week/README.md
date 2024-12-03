@@ -2,15 +2,311 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 292 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 311 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / Weekly / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
 
-## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Family
+
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-of-brimstone-swamps-of-death)
+
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome.
+>
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+>
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
+
+![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc\(\)/pic2037826.jpg)
+
+| Players | Min. Age |      Time |
+| ------: | -------: | --------: |
+|   1 - 4 |       12 | 90 - 180m |
+### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea)
+
+> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
+>
+> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
+
+![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc\(\)/pic5988903.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       10 |  20m |
+### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/thats-pretty-clever)
+
+> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
+
+![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc\(\)/pic4410877.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 – 4 |        8 |  30m |
+### [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)
+
+> On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.
+>
+> Lost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?
+
+![Lost Ruins of Arnak game image](https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc\(\)/pic5674958.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 30-120 |
+### [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_\(board_game\))
+
+> ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
+
+![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-60m |
+### [Pandemic](https://en.wikipedia.org/wiki/Pandemic_\(board_game\))
+
+> Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
+
+![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  45m |
+### [Forbidden Desert](https://en.wikipedia.org/wiki/Forbidden_Desert)
+
+> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
+
+![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       10 |  45m |
+### [Elder Sign](https://en.wikipedia.org/wiki/Elder_Sign_\(card_game\))
+
+> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
+
+![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 8 |       13 |  90m |
+### [Welcome To](https://boardgamegeek.com/boardgame/233867/welcome-to)
+
+> As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
+>
+> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
+
+![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc\(\)/pic3761012.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+| 1 – 100 |       10 |  25m |
+### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-and-dragons-castle-ravenloft-board-game)
+
+> The master of Ravenloft is having guests for dinner – and you are invited!\
+> Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
+> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
+
+![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       13 |  60m |
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-the-game-the-abandoned-cabin)
+
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 6 |       12 | 60-120m |
+### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal)
+
+> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
+>
+> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
+
+![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc\(\)/pic6940449.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 6 |       10 | 30-60m |
+### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/the-quest-for-el-dorado)
+
+> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
+
+![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc\(\)/pic7648372.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 | 30-60m |
+### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg)
+
+> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
+>
+> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
+>
+> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
+
+![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc\(\)/pic6137509.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  45m |
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-of-fortune)
+
+> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
+>
+> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
+>
+> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
+>
+> The game has 2 22"x34" maps, 300 counters.
+>
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+>
+> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
+>
+> Losses can be applied to the HQ of a formation, not only directly to units.
+>
+> Low counter density, high maneuver. Medium-high complexity.
+
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|    1 -2 |       12 | 360m |
+### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-to-the-moon)
+
+> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
+>
+> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
+>
+> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
+
+![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc\(\)/pic6204967.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 6 |       10 | 25-30m |
+### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/the-witcher-old-world)
+
+> The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
+> In this competitive board game, 2-5 players embark on quests, make moral choices, fight monsters, and sometimes brawl with other witchers to defend their school's honor. Players construct unique decks with attacks, dodges, and witcher magic called "signs" to achieve powerful combos. Earn money, obtain items, and train skills through quests, battles or even dice poker.
+
+![The Witcher: Old World](https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep/img/rxCXKwIjRmHKwONcIo5Ja7iTiKc=/fit-in/246x300/filters:strip_icc\(\)/pic5974859.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    1 -5 |       14 | 90-150m |
+### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/the-isle-of-cats)
+
+> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
+>
+> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
+>
+> *   Explore the island (by drafting cards)
+> *   Rescue cats
+> *   Find treasures
+> *   Befriend Oshax
+
+![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc\(\)/pic4781085.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |        8 | 60-90m |
 
 ### Strategy
 
-### [Gorgasali: Battle Royale](hhttps://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale)
+### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/the-book-of-pop-up-board-games)
+
+> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
+
+![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+### [7 Wonders](https://en.wikipedia.org/wiki/7_Wonders_\(board_game\))
+
+> You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
+
+![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc\(\)/pic860217.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 7 |       10 |  45m |
+### [The Gallerist](https://boardgamegeek.com/boardgame/125153/the-gallerist)
+
+> This age of art and capitalism has created a need for a new occupation - The Gallerist.
+> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
+> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
+> Maximize your money and thus win the game by:
+
+![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc\(\)/pic2503200.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       13 | 60–150 Min |
+### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-a-marvel-deck-building-game)
+
+<!-- nothing on wikipedia currently -->
+
+> ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
+
+![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       10 |  45m |
+### [Mansions of Madness, 2nd ed](https://en.wikipedia.org/wiki/Mansions_of_Madness)
+
+> A fully cooperative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Explore the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers as you investigate four scenarios of fear and mystery. Collect weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death.
+
+![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
+
+| Players | Min. Age |     Time |
+| ------: | -------: | -------: |
+|   1 - 5 |       14 | 120-180m |
+### [Exploding Kittens](https://www.explodingkittens.com/)
+
+> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
+
+![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc\(\)/pic2691976.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        7 |  15m |
+### [Commonspoly](https://commonspoly.cc)
+
+> Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
+
+![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   4 - 8 |        7 | 30-90m |
+### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolkin-the-mayan-calendar)
+
+> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
+> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up.
+
+![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc\(\)/pic4604439.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|     2–4 |       13 | 90 Min |
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-of-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |       14 |  60m |
+### [Gorgasali: Battle Royale](https://boardgamegeek.com/boardgame/289351/gorgasali-battle-royale)
 
 > Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
 
@@ -19,6 +315,359 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |    2-10 |       10 | 40-180m |
+### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-of-the-west-kingdom)
+
+> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
+> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
+
+![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc\(\)/pic4462987.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       12 | 90–120 Min |
+### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-the-sun)
+
+> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
+> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
+> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
+
+![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc\(\)/pic5617866.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     2–4 |      14+ | 60–120 Min |
+### [The Estates](https://boardgamegeek.com/boardgame/249381/the-estates)
+
+> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
+
+![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc\(\)/pic4071903.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine)
+
+> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
+> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
+> The team completes a mission only if every single player is successful in fulfilling their tasks.
+
+![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc\(\)/pic5687013.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|     2–5 |      10+ | 20 Min |
+### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-of-caledonia)
+
+> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
+> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
+> The game ends after five rounds. Each round consists of the three phases:
+
+![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc\(\)/pic3511783.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       12 | 30–120 Min |
+### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-the-ages-a-new-story-of-civilization)
+
+> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
+
+![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc\(\)/pic2663291.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       14 | 120m |
+### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy)
+
+> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
+
+![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc\(\)/pic1176894.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 30-90m |
+### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-for-the-galaxy)
+
+> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
+
+![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc\(\)/pic5235277.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 6 |       14 | 60-200m |
+### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-of-arle)
+
+> Welcome to Arle
+> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
+> Work the Land
+> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
+
+![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc\(\)/pic2225968.png)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–2 |      13+ | 60–120 Min |
+### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-of-fire)
+
+> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
+
+![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc\(\)/pic406760.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|       1 |       12 | 60-300m |
+
+<!--lint ignore no-heading-punctuation-->
+### [The Forever War](https://boardgamegeek.com/boardgame/5043/the-forever-war)
+
+> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
+
+![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc\(\)/pic5722429.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  60m |
+### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-of-the-north-sea)
+
+> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
+
+![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  80m |
+### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/the-old-kings-crown)
+
+> The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.
+>
+> As leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.
+>
+> Royalty, rebels or ruses. What crown will you wear?
+>
+> In The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. When a player is able to reach a set number of influence, dependent on player count, and is able to retain it until the end of a round, they win the game.
+
+![The Old King's Crown game image](https://cf.geekdo-images.com/hQG2-XQoEhXCITIORvx24A__itemrep/img/nxjDR_nK5kmSdApd5YJDeoPoQnc=/fit-in/246x300/filters:strip_icc\(\)/pic7508098.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 60-90m |
+
+### Party
+
+### [Mysterium](https://en.wikipedia.org/wiki/Mysterium_\(board_game\))
+
+> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
+
+![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 7 |       10 |  42m |
+### [Munchkin](https://munchkin.game/)
+
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+
+![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   3 - 6 |       10 | 60-120m |
+### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/thats-a-question)
+
+> A great game to play with people you think you know. You take the role of squirrels asking each other questions as they climb up a mountain. Players assemble questions from tiles in their hands, asking each other things like "Would you rather live in a world without pizza or fruit?" or "Would you rather write the Great American Novel or never have to sleep again?" It's a good time for everyone, and the game has this nice, innocent charm to it. Even the manual is fun to read.
+
+![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       15 |  30m |
+### [Catan](https://www.catan.com/catan)
+
+> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
+
+![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc\(\)/pic2419375.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 4 |       10 | 45-90m |
+### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/the-lord-of-the-rings-journeys-in-middle-earth)
+
+> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
+>
+> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
+
+![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc\(\)/pic4530974.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 5 |       14 | 60-120m |
+### [On Mars](https://boardgamegeek.com/boardgame/184267/on-mars)
+
+> Following the success of unmanned rover missions, the United Nations established the Department of Operations and Mars Exploration (D.O.M.E.). The first settlers arrived on Mars in the year 2037 and in the decades after establishment Mars Base Camp, private exploration companies began work on the creation of a self-sustaining colony. As chief astronaut for one of these enterprises, you want to be a pioneer in the development of the biggest, most advanced colony on Mars by achieving both D.O.M.E. mission goals as well as your company’s private agenda.
+> In the beginning, you will be dependent on supplies from Earth and will have to travel often between the Mars Space Station and the planet's surface. As the colony expands over time, you will shift your activities to construct mines, power generators, water extractors, greenhouses, oxygen factories, and shelters. Your goal is to develop a self-sustaining colony independent of any terrestrial organization. This will require understanding the importance of water, air, power, and food — the necessities for survival.
+
+![On Mars game image](https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__itemrep/img/xTjuZwi_7iS6FpZIISWTk7SAZ5o=/fit-in/246x300/filters:strip_icc\(\)/pic4357658.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–4 |       14 | 90–150 Min |
+### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash-up)
+
+> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
+
+![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  45m |
+### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-the-gap)
+
+> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
+
+![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        6 |  20m |
+### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-and-pirates)
+
+> Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
+
+![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc\(\)/pic2420310.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |      12+ | 90-120m |
+### [Caverna: The Cave Farmers](https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers)
+
+> Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.
+> It's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.
+
+![Caverna: The Cave Farmers game image](https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc\(\)/pic1790789.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|     1–7 |       12 | 30–210 Min |
+### [Battleship](https://board-games.fandom.com/wiki/Battleship)
+
+> In this two-person game of strategy, players secretly arrange their ships on a lettered and numbered 10x10 grid and then try to locate and destroy their opponent’s fleet. There are two grids for each player. One grid is used for placing your own vessels and tracking hits made against you, while the second grid is for marking the hits targeted at your opponent. Take turns firing shots by calling out one of the grid’s plot points. If a hit doesn’t strike a ship, it’s considered a miss and pegged with white pieces. If a hit makes contact with a ship, then that strike gets pegged with red. The number of hits each kind of vessel can sustain before it sinks is varied. After some initial exploratory firing, you will likely start to figure out the location of your opponent’s ships and begin to deal the fatal blows. It’s a battle on the high seas!
+
+![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc\(\)/pic1293566.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|       2 |       8+ | 30m around |
+### [Magic: The Gathering](https://boardgamegeek.com/boardgame/463/magic-the-gathering)
+
+> In the Magic game, you play the role of a planeswalker—a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. This is the grandfather of the collectible card game (or CCG) genre. Cards are categorized as common, uncommon, rare, and mythic rare. Players collect cards and build decks out of their collection. Players build a deck of cards and duel against an opponent's deck. Players are wizards attempting to reduce their opponent's life total to zero. The first player to reduce his opponent's life to zero (or meet another set win condition) wins the game. An important part of the game is deck construction, which is done prior to the actual game by selecting what cards are included in a particular deck. There are over 25,000 different cards from which to build your deck! Cards can be lands, which usually generate mana of various colors, or spells, which require a certain amount of mana to be used. Some cards (creatures, artifacts, and enchantments) stay on the board and continue to affect the game, while others have a one-time effect. Players randomly draw spells to see what they get and can play each turn. Although this limits your choices, there is a lot of strategy in how you play those spells. A robust list of game mechanics, including intricate rules for reactive card play called "the stack," provide for rich tactics and tough choices each turn. Though traditionally a two-player duel, there are several casual and tournament formats to Magic that allow more players to play.
+
+![MTG image](https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__itemrep/img/kBqgXHgOkEqyADW3Fk9c8KcCJRk=/fit-in/246x300/filters:strip_icc\(\)/pic163749.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       13 |  20m |
+### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-and-wagers)
+
+> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams.
+
+![Wits & Wagers image](https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep/img/HoSHsIveJn0jvXHUeM5x3-iGf44=/fit-in/246x300/filters:strip_icc\(\)/pic2558555.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 7 |       10 |  25m |
+### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-on-the-clocktower)
+
+> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character.
+
+![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc\(\)/pic7009391.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    5-20 |       15 | 30-120m |
+### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-the-board-game)
+
+> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
+
+![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-60m |
+### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-of-tokyo)
+
+> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
+
+![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |        8 |  30m |
+### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-the-city-of-silver)
+
+> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
+
+![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |       13 | 60-120m |
+### [The White Castle](https://boardgamegeek.com/boardgame/371942/the-white-castle)
+
+> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
+
+![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 4 |       12 |  80m |
+### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes-the-djinns-of-naqala)
+
+> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
+
+![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc\(\)/pic2055255.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       13 | 40–80m |
+### [Lords of Vegas](https://boardgamegeek.com/boardgame/20437/lords-of-vegas)
+
+> You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on "The Strip," the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!.The game board is broken into 6 different areas, each consisting of a number of empty 'lots'. Players build lots by paying money and placing a die of the value matching the one shown on the lot's space onto the lot, along with a casino tile of one of 7 colors. Adjoining lots of the same color are considered a single casino. The casino's boss is the player whose die value is higher than any other in the casino. On each players turn, players turn over a new card representing a new lot they get. The card also is one of the casino colors. Any built casinos of the matching color will score both money and points. Money is earned for each lot in the casino, where each lot may be owned by a different player. Points go only to the casino's owner. Players can expand their casinos; try to take over casinos owned by other players; make deals to trade lots, casinos and money; or gamble in opponents' casinos to make more money. Ultimately, though, only points matter, and that means making yourself boss of the biggest casinos.
+
+![Lords Of Vegas](https://cf.geekdo-images.com/-uYn413Wy8Vzm9wkuOajWg__itemrep/img/cxNjgjWpiQ3ATxJ6rShTlMYYzpk=/fit-in/246x300/filters:strip_icc\(\)/pic774410.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-of-glory)
+
+> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
+
+![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc\(\)/pic4490515.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       14 | 480m |
+### [The Gilded Realms](https://boardgamegeek.com/boardgame/397099/the-gilded-realms)
+
+> The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
+
+![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc\(\)/pic7666055.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |      14+ | 90-180m |
+### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/the-last-bottle-of-rum)
+
+> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
+
+> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
+
+> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
+
+![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |      10+ | 45-60m |
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -88,15 +737,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 
 ### Party
 
-### [The Gilded Realms](https://boardgamegeek.com/boardgame/397099/gilded-realms)
-
-> The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
-
-![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc\(\)/pic7666055.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |      14+ | 90-180m |
 ### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
 
 > With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
@@ -112,19 +752,6 @@ A curated list of awesome and exceptional board games. Please contribute!
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  3 - 10 |       8+ |  30m |
-### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
-
-> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
-
-> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
-
-> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
-
-![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc\(\)/pic5715210.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |      10+ | 45-60m |
 ### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
 
 > What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
@@ -168,22 +795,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
-### Family
-
-### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
-
-> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome.
->
-> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
->
-> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
-
-![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc\(\)/pic2037826.jpg)
-
-| Players | Min. Age |      Time |
-| ------: | -------: | --------: |
-|   1 - 4 |       12 | 90 - 180m |
-
 ### Strategy
 
 ### [Caylus](https://boardgamegeek.com/boardgame/18602/caylus)
@@ -206,53 +817,9 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        6 |  30m |
-### [Raiders of the North Sea](https://boardgamegeek.com/boardgame/170042/raiders-north-sea)
-
-> Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. To do so, players need to assemble a crew, collect provisions, and journey north to plunder gold, iron and livestock. Glory can be found in battle, even at the hands of the Valkyrie, so gather your warriors because it's raiding season.
-
-![Raiders of the North Sea](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/a5243a9a-90ca-4955-87ba-807679b2b68b)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  80m |
-### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/old-kings-crown)
-
-> The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.
->
-> As leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.
->
-> Royalty, rebels or ruses. What crown will you wear?
->
-> In The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. When a player is able to reach a set number of influence, dependent on player count, and is able to retain it until the end of a round, they win the game.
-
-![The Old King's Crown game image](https://cf.geekdo-images.com/hQG2-XQoEhXCITIORvx24A__itemrep/img/nxjDR_nK5kmSdApd5YJDeoPoQnc=/fit-in/246x300/filters:strip_icc\(\)/pic7508098.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 | 60-90m |
 
 ### Party
 
-### [The Lord of the Rings: Journeys in Middle-Earth](https://boardgamegeek.com/boardgame/269385/lord-rings-journeys-middle-earth)
-
-> Embark on your own adventures in J.R.R. Tolkien's iconic world with The Lord of the Rings: Journeys in Middle-Earth, a fully co-operative, app-supported board game for one to five players! You'll battle villainous foes, make courageous choices, and strike a blow against the evil that threatens the land — all as part of a thrilling campaign that leads you across the storied hills and dales of Middle-Earth.
->
-> Each individual game of Journeys in Middle-Earth is a single adventure in a larger campaign. You'll explore the vast and dynamic landscapes of Middle-earth, using your skills to survive the challenges that you encounter on these perilous quests. As you and your fellow heroes explore the wilderness and battle the dark forces arrayed against you, the game's companion app guides you to reveal the looming forests, quiet clearings, and ancient halls of Middle-Earth, while also controlling the enemies you encounter. Whether you're venturing into the wild on your own or with close companions by your side, you can write your own legend in the history of Middle-Earth.
-
-![The Lord of the Rings: Journeys in Middle-Earth game image](https://cf.geekdo-images.com/1XA2-niwTBa0HEB7hOz3Dw__itemrep/img/_ITP3pPZx-TQoUYwXoBOLvUboSw=/fit-in/246x300/filters:strip_icc\(\)/pic4530974.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 5 |       14 | 60-120m |
-### [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
-
-> In the fabled Sultanate of Naqala, the old sultan's passing has left control of the realm in contention, as strangers aim to fulfill the oracles' prophecy by shrewdly maneuvering the Five Tribes—Assassins, Elders, Builders, Merchants, and Viziers—across villages, markets, oases, and sacred places. Designed by Bruno Cathala, Five Tribes is a captivating twist on worker placement games, with meeples already in place at the start. As you invoke Djinns and make calculated moves, you must strategically consider when and where to displace the tribes to secure your influence over this legendary city-state, all while weighing different pathways to victory and outmaneuvering your rivals.
-
-![Five Tribes](https://cf.geekdo-images.com/dmo-WD6HZHVUPrbVHunaTw__itemrep/img/4RfYsuXBO2FrnJynkXV5zTj7PU4=/fit-in/246x300/filters:strip_icc\(\)/pic2055255.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       13 | 40–80m |
 ### [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror)
 
 > The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.
@@ -271,15 +838,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |  Time |
 | ------: | -------: | ----: |
 |   2 - 4 |        7 | 5-15m |
-### [Lords of Vegas](https://boardgamegeek.com/boardgame/20437/lords-vegas)
-
-> You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on "The Strip," the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!.The game board is broken into 6 different areas, each consisting of a number of empty 'lots'. Players build lots by paying money and placing a die of the value matching the one shown on the lot's space onto the lot, along with a casino tile of one of 7 colors. Adjoining lots of the same color are considered a single casino. The casino's boss is the player whose die value is higher than any other in the casino. On each players turn, players turn over a new card representing a new lot they get. The card also is one of the casino colors. Any built casinos of the matching color will score both money and points. Money is earned for each lot in the casino, where each lot may be owned by a different player. Points go only to the casino's owner. Players can expand their casinos; try to take over casinos owned by other players; make deals to trade lots, casinos and money; or gamble in opponents' casinos to make more money. Ultimately, though, only points matter, and that means making yourself boss of the biggest casinos.
-
-![Lords Of Vegas](https://cf.geekdo-images.com/-uYn413Wy8Vzm9wkuOajWg__itemrep/img/cxNjgjWpiQ3ATxJ6rShTlMYYzpk=/fit-in/246x300/filters:strip_icc\(\)/pic774410.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 60-90m |
 ### [Diplomacy](https://boardgamegeek.com/boardgame/483/diplomacy)
 
 > This classic game of pure negotiation has taken many forms over the years. The first The Avalon Hill Game Co version has perhaps the widest release, but Avalon Hill re-released the game in 1999, complete with a colorful new map and metal pieces. In 2008, Avalon Hill released a 50th anniversary edition with a new map and cardboard pieces representing the armies and navies.In the game, players represent one of the seven "Great Powers of Europe" (Great Britain, France, Austria-Hungary, Germany, Italy, Russia or Turkey) in the years prior to World War I. Play begins in the Spring of 1901, and players make both Spring and Autumn moves each year. There are only two kinds of military units: armies and fleets. On any given turn, each of your military units has limited options: they can move into an adjoining territory, support an allied unit in an attack on an adjoining territory, support an allied unit in defending an adjoining territory, or hold their position. Players instruct each of their units by writing a set of "orders." The outcome of each turn is determined by the rules of the game. There are no dice rolls or other elements of chance. With its incredibly simplistic movement mechanics fused to a significant negotiation element, this system is highly respected by many gamers.
@@ -355,15 +913,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 45-60m |
-### [Paths of Glory](https://boardgamegeek.com/boardgame/91/paths-glory)
-
-> Paths of Glory: The First World War, designed by six-time Charles S. Roberts awards winner, Ted Raicer, allows players to step into the shoes of the monarchs and marshals who triumphed and bungled from 1914 to 1918. As the Central Powers you must use the advantage of interior lines and the fighting skill of the Imperial German Army to win your rightful 'place in the sun.' As the Entente Powers (Allies) you must bring your greater numbers to bear to put an end to German militarism and ensure this is the war 'to end all wars.' Both players will find their generalship and strategic abilities put to the test as Paths of Glory's innovative game systems let you recreate all the dramatic events of World War I.
-
-![Paths of Glory](https://cf.geekdo-images.com/Ip4TygnwFxuR57Vky9ZeZA__itemrep/img/D1X3z1gSLJg1IltMfhTpfhZ_dPA=/fit-in/246x300/filters:strip_icc\(\)/pic4490515.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       14 | 480m |
 ### [Calico](https://boardgamegeek.com/boardgame/283155/calico)
 
 > Calico is a puzzly tile-laying game of quilts and cats. In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats! Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.
@@ -412,55 +961,8 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
-### Family
-
-### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
-
-> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
->
-> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
->
-> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
->
-> The game has 2 22"x34" maps, 300 counters.
->
-> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
->
-> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
->
-> Losses can be applied to the HQ of a formation, not only directly to units.
->
-> Low counter density, high maneuver. Medium-high complexity.
-
-<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|    1 -2 |       12 | 360m |
-
 ### Strategy
 
-### [The Book of Pop-Up Board Games](https://boardgamegeek.com/boardgame/22626/book-pop-board-games)
-
-> There are four pop-up board games in this book. The games are, Space Escape, Pirate Treasure, Mummy Chase, & Save the Princess. Each game has a storage pocket to store the stand-up people. There is also a fold out spinner, that you use to move.
-
-![The Book of Pop-Up Board Games (1996)](https://github.com/kishanrajput23/awesome-board-games/assets/70385488/27a63c2f-e87d-4457-b944-f0f1b2ef8f53)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
-### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
-
-> This age of art and capitalism has created a need for a new occupation - The Gallerist.
-> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
-> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
-> Maximize your money and thus win the game by:
-
-![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc\(\)/pic2503200.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       13 | 60–150 Min |
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
 > Lotería (Spanish word meaning "lottery") is a traditional game of chance, similar to bingo, but using images on a deck of cards instead of numbered ping pong balls. Every image has a name and an assigned number, but the number is usually ignored. Each player has at least one tabla, a board with a randomly created 4 x 4 grid of pictures with their corresponding name and number. Players choose a tabla (Spanish word for "board") to play with, from a variety of previously created tablas, each with a different selection of images.
@@ -470,26 +972,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        8 |  20m |
-### [Tzolk'in: The Mayan Calendar](https://boardgamegeek.com/boardgame/126163/tzolk-mayan-calendar)
-
-> Tzolkin: The Mayan Calendar presents a new game mechanism: dynamic worker placement. Players representing different Mayan tribes place their workers on giant connected gears, and as the gears rotate they take the workers to different action spots.
-> During a turn, players can either (a) place one or more workers on the lowest visible spot of the gears or (b) pick up one or more workers. When placing workers, they must pay corn, which is used as a currency in the game. When they pick up a worker, they perform certain actions depending on the position of the worker. Actions located "later" on the gears are more valuable, so it's wise to let the time work for you – but players cannot skip their turn; if they have all their workers on the gears, they have to pick some up.
-
-![Tzolk'in: The Mayan Calendar game image](https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__itemrep/img/8M-vck69HAdoJdStBZ8q91-7hRs=/fit-in/246x300/filters:strip_icc\(\)/pic4604439.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–4 |       13 | 90 Min |
-### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
-
-> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
-> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
-
-![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc\(\)/pic4462987.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 90–120 Min |
 ### [Concordia Venus](https://boardgamegeek.com/boardgame/256916/concordia-venus)
 
 > Concordia Venus is a standalone reimplementation of Concordia with some added features.
@@ -512,39 +994,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |      Time |
 | ------: | -------: | --------: |
 |     1–4 |      14+ | 30–90 Min |
-### [Beyond the Sun](https://boardgamegeek.com/boardgame/317985/beyond-sun)
-
-> Beyond the Sun is a space civilization game in which players collectively decide the technological progress of humankind at the dawn of the Spacefaring Era, while competing against each other to be the leading faction in economic development, science, and galactic influence.
-> The game is played over a variable number of rounds until a number of game-end achievements are collectively claimed by the players. The winner is the faction with the most victory points, which are obtained by researching technologies, improving their economy, controlling and colonizing systems, and completing various achievements and events throughout the game.
-> On a turn, a player moves their action pawn to an empty action space, then takes that action. They then conduct their production phase, either producing ore, growing their population, or trading one of those resources for another. Finally, they can claim up to one achievement, if possible.
-
-![Beyond the Sun game image](https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__itemrep/img/kSw_dxGnXuq6trYpz7ob53-u2uU=/fit-in/246x300/filters:strip_icc\(\)/pic5617866.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     2–4 |      14+ | 60–120 Min |
-### [The Crew: The Quest for Planet Nine](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine)
-
-> In the co-operative trick-taking game The Crew: The Quest for Planet Nine, the players set out as astronauts on an uncertain space adventure. What are the rumors regarding the unknown planet about? The eventful journey through space extends over 50 exciting missions. But this game can only be defeated by meeting common individual tasks of each player. In order to meet the varied challenges communication is essential in the team. But this is more difficult than expected in space.
-> With each mission the game becomes more difficult. After each mission the game can be paused and continued later. During each mission it is not the number of tricks but the right tricks at the right time that count.
-> The team completes a mission only if every single player is successful in fulfilling their tasks.
-
-![The Crew: The Quest for Planet Nine game image](https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__itemrep/img/etVRTXdF6IDsnGKQe77FRFP4H7M=/fit-in/246x300/filters:strip_icc\(\)/pic5687013.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|     2–5 |      10+ | 20 Min |
-### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
-
-> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
-> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
-> The game ends after five rounds. Each round consists of the three phases:
-
-![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc\(\)/pic3511783.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       12 | 30–120 Min |
 ### [Mechs vs. Minions](https://boardgamegeek.com/boardgame/209010/mechs-vs-minions)
 
 > Mechs vs. Minions is a cooperative tabletop campaign for 2-4 players. Set in the world of Runeterra, players take on the roles of four intrepid Yordles: Corki, Tristana, Heimerdinger, and Ziggs, who must join forces and pilot their newly-crafted mechs against an army of marauding minions. With modular boards, programmatic command lines, and a story-driven campaign, each mission will be unique, putting your teamwork, programming, and piloting skills to the test.
@@ -555,18 +1004,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     2–4 |      14+ | 60–120 Min |
-### [Fields of Arle](https://boardgamegeek.com/boardgame/159675/fields-arle)
-
-> Welcome to Arle
-> In Fields of Arle, created by Uwe Rosenberg, one to two players live as farmers in the small and peaceful town of Arle in East Frisia. The flax grown in the land surrounding the village makes it a profitable place to work and live. Fields of Arle takes players through four and a half years of this era of prosperity, with different opportunities available as the seasons change. Farm the land to capitalize on the demand for flax, or find other ways to make the most of the small town’s prosperity.
-> Work the Land
-> Whether you delve into flax farming or leverage other areas of expertise, always make sure that you have the land to build up your village. Construct dikes to keep the waters at bay and expand your fields. Dry out bogs to harvest peat and then clear the land for cultivation. Create more fields for your livestock, buildings, or future crops; after that, you can decide whether to house animals or cultivate a forest for timber. Perhaps you’d like to take up some flax farming for yourself, or diversify and try out a little bit of everything.
-
-![Fields of Arle game image](https://cf.geekdo-images.com/0w8go6cfvlpgJKydHUkDtA__itemrep/img/d8By7I7jEh7VAduRxBrISS2qfnA=/fit-in/246x300/filters:strip_icc\(\)/pic2225968.png)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–2 |      13+ | 60–120 Min |
 ### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
 
 > In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
@@ -587,15 +1024,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     2–4 |      12+ | 60–120 Min |
-### [The Forever War](https://boardgamegeek.com/boardgame/5043/forever-war)
-
-> The Forever War is a science fiction board game, based on the novel "Forever War" by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield. Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.
-
-![The Forever War](https://cf.geekdo-images.com/Dy8ocrTp51HxcARd6Rha1A__itemrep/img/zpLHyvIy06wU44yNwx5LM6UVwDA=/fit-in/246x300/filters:strip_icc\(\)/pic5722429.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  60m |
 ### [Contigo](https://boardgamegeek.com/boardgame/2545/contigo)
 
 > This game in the 3M Bookshelf Series is a cross between Mancala (a.k.a. Warri, Oh-Wah-Ree, Kalah) and more traditional Checkers-like games. It is played by four players according to the original rules, but can be adapted to be played by just two (the three-player game would be unbalanced).The 6x6 board is surrounded by Mancala-like pits, where pebbles are moved. The number of pebbles in a row/column/diagonal's pits controls how the pawns on the board move.Two sets of rules are supplied: the Alignment game, where you are trying to be the first to align four of your pawns in any six-space row --either horizontally, vertically or diagonally-- without opposing pawns between them, and the more advanced Capture game, where you're trying to capture your opponents' key pawns (kings, really).
@@ -644,15 +1072,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   2 - 6 |       12 | 180-360m |
-### [Space Marine: The Board Game](https://boardgamegeek.com/boardgame/395847/space-marine-board-game)
-
-> In the grim darkness of the 41st Millennium, Humanity is spread thin, fighting a losing battle against enemies all across the galaxy.Space Marine: The Board Game is a thrilling survival game, pitting the noble Lieutenant Titus of the Ultramarines against endless swarms of all-consuming alien horrors!The box is packed with 23 push-fit miniatures, dice, a ruler, a game board, and a 40-page rulebook packed with backstory and missions.You and a friend will take control of either the lone Space Marine, or more than 20 ravenous Tyranids that want to eat him alive.It’s fast-paced action, as Titus fights valiantly to defeat his enemies with superhuman strength and brutal weapons.Can he hold them back, or will the Tyranids overwhelm him in the end?Space Marine: The Board Game represents the perfect foot in the door for anyone who’s completely new to the Warhammer hobby.It’s easy to set up – every model is push-fit – and can be played in around 30 minutes. So if you have friends or family who want to give the worlds of Warhammer a go, this is a brilliant place to start.
-
-![Space Marine: The Board Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kxMoBJRFMOhti-sS_IXqVau-oWahn1XkwQ\&usqp=CAU)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|       2 |       12 | 30-60m |
 ### [Moon](https://boardgamegeek.com/boardgame/358386/moon)
 
 > Moon depicts an almost plausible rush to construct lunar bases that are attractive places to live and work for the people of Earth. The most prestigious base will become the new lunar capital!
@@ -691,33 +1110,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |        8 | 20-40m |
-### [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-
-> In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone! Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.
-
-![King of Tokyo](https://www.boardgamesindia.com/image/cache/catalog/product/bgg_1589-320x320w.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 6 |        8 |  30m |
-### [Kutná Hora: The City of Silver](https://boardgamegeek.com/boardgame/385610/kutna-hora-city-silver)
-
-> Kutná Hora: The City of Silver is a historical city-building Eurogame for 2-4 players that features a real-life supply and demand experience in which every action you take has an impact on the game's dynamic economic systems.In each round, players take turns selecting actions from a hand of double-sided cards to engage strategic plans like mining, purchasing plots of land on which to build, gaining permits, raising buildings for their affiliated guilds, gaining profit from their production, and of course working towards the construction of Saint Barbara's Cathedral.The asymmetrical nature of each player's available guilds makes for highly interactive rounds in which each decision impacts the economy and other players in interesting ways as they expand their mines and build infrastructure across a shared board.Mine ore and smelt it into a fortune of silver for expanding this beautiful historic city, but take care to balance your personal goal advancement with the need to further the city's growth. Everything is connected, and sometimes the path to personal victory relies on the prosperity of the many.
-
-![Kutná Hora: The City of Silver](https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__itemrep/img/wZoUA-HbhYKYxbu_8GfXScu7WME=/fit-in/246x300/filters:strip_icc\(\)/pic7464921.png)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |       13 | 60-120m |
-### [The White Castle](https://boardgamegeek.com/boardgame/371942/white-castle)
-
-> The White Castle is a Euro type game with mechanics of resource management, worker placement and dice placement to carry out actions. During the game, over three rounds, players will send members of their clan to tend the gardens, defend the castle or progress up the social ladder of the nobility. At the end of the match, these will award players victory points in a variety of ways.The central panel shows Himeji Castle in all its splendor, divided into several zones. The largest is inside the castle, with the Room of the Thousand Carpets, where the courtiers must ascend socially until they reach the circle closest to the Daimio to enjoy his favor. There is also the pond and the gardens, patiently tended by the gardeners where everyone can relax and contemplate its beauty without restriction. Another important area is the wall and the outside of the castle, where the warriors patrol and stand guard. Finally, we find the area of the three bridges, where the three types of dice that can be used to carry out actions are accumulated, and the personal domain of each player, where they will keep track of their resources and where they will have the reserve of workers.With accessible rules and a very careful setting, The White Castle is a very versatile title that will fit in with different gaming groups. As is tradition with Llama Dice titles, its sleek and simple design belies a great deal of strategic depth within the grasp of players.
-
-![The White Castle](https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__itemrep/img/4VpX36FMypCo-iRbA_dkP9lhi-8=/fit-in/246x300/filters:strip_icc\(\)/pic7754663.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 4 |       12 |  80m |
 ### [Nucleum](https://boardgamegeek.com/boardgame/396790/nucleum)
 
 > Nucleum is a heavy euro board game in which players take role of industrialists trying to succeed during the economic and technological boom of 19th-century Saxony, fueled by the invention and spread of the Nucleum (a nuclear reactor).Players earn victory points by developing their networks, building and powering urban buildings, securing contracts, and meeting milestones (randomized endgame goals). Each player also gets unique asymmetric technologies, giving them special powers when unlocked. Gameplay is continuous; players take turns one after another with no rounds or phases.
@@ -894,26 +1286,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Family
 
-### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
-
-> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
->
-> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
-
-![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc\(\)/pic5988903.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  20m |
-### [That's Pretty Clever](https://boardgamegeek.com/boardgame/244522/s-pretty-clever)
-
-> Choose your dice cleverly in Ganz schön clever (German for "That's Pretty Clever") to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.
-
-![That's Pretty Clever! game image](https://cf.geekdo-images.com/3-unuy5JW1cC8C6EUBNiOA__itemrep/img/6BcSS0mLm9nJBIXTcz0HQ5SKJmI=/fit-in/246x300/filters:strip_icc\(\)/pic4410877.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 – 4 |        8 |  30m |
 ### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
 
 > Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
@@ -941,17 +1313,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 – 4 |       13 | 45–90m |
-### [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak)
-
-> On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.
->
-> Lost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?
-
-![Lost Ruins of Arnak game image](https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc\(\)/pic5674958.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |       12 | 30-120 |
 ### [Istanbul](https://boardgamegeek.com/boardgame/148949/istanbul)
 
 > There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.
@@ -990,17 +1351,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  30m |
-### [Welcome To](https://boardgamegeek.com/boardgame/233867/welcome)
-
-> As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.
->
-> Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in !
-
-![Welcome To... game image](https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__itemrep/img/QKJwfdV3Qrv9w2TX_ML5T3z5G9E=/fit-in/246x300/filters:strip_icc\(\)/pic3761012.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-| 1 – 100 |       10 |  25m |
 ### [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)
 
 > Cascadia is a puzzly tile-laying and token-drafting game featuring the habitats and wildlife of the Pacific Northwest.
@@ -1012,39 +1362,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
-### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-metal)
-
-> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
->
-> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
-
-![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc\(\)/pic6940449.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 30-60m |
-### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/quest-el-dorado)
-
-> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
-
-![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc\(\)/pic7648372.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       10 | 30-60m |
-### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
-
-> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
->
-> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
->
-> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
-
-![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc\(\)/pic6137509.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       10 |  45m |
 ### [SCOUT](https://boardgamegeek.com/boardgame/291453/scout)
 
 > SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.
@@ -1115,19 +1432,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 | 1 - 100 |       10 | 30-45m |
-### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon)
-
-> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
->
-> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
->
-> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
-
-![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc\(\)/pic6204967.png)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 6 |       10 | 25-30m |
 ### [Wingspan Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)
 
 > In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.
@@ -1139,22 +1443,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   1 - 2 |       10 | 40-70m |
-### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/isle-cats)
-
-> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
->
-> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
->
-> *   Explore the island (by drafting cards)
-> *   Rescue cats
-> *   Find treasures
-> *   Befriend Oshax
-
-![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc\(\)/pic4781085.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   1 - 4 |        8 | 60-90m |
 
 ### Strategy
 
@@ -1278,15 +1566,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       12 | 75-150m |
-### [Through the Ages: A New Story of Civilization](https://boardgamegeek.com/boardgame/182028/through-ages-new-story-civilization)
-
-> Through the Ages: A New Story of Civilization is a strategic board game that combines elements of card drafting, civilization building, and resource management. In this digital implementation, players guide their civilizations through the ages, from antiquity to the modern era, focusing on advancements in technology, the construction of wonders, and the development of a strong military. Weaker aspects of a player's civilization can be exploited by opponents, making military strength a vital component. Victory is achieved by accumulating the most culture by the end of the modern age. With its deep gameplay and historical context, Through the Ages offers a challenging and immersive strategy experience for players aiming to build the most prosperous civilization.
-
-![Through the Ages: A New Story of Civilization image](https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__itemrep/img/TF5TpehpgE7XvNSRzSSWjnYCbLc=/fit-in/246x300/filters:strip_icc\(\)/pic2663291.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       14 | 120m |
 ### [Kanban EV](https://boardgamegeek.com/boardgame/284378/kanban-ev)
 
 > Electric vehicles (EVs) have become more common since 2014 and are the future of the automobile industry. They are superior vehicles due to them being more efficient, easier to maintain, cleaner, and cheaper to run. They are computerized machines that use AI to improve safety and in the near future will provide autonomous driving. They receive software upgrades during their lifetime and are constantly improving, unlike their traditional combustion-engine counterparts, which start to become obsolete as soon as you start using them.
@@ -1297,15 +1576,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     1–4 |       14 | 60–180 Min |
-### [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy)
-
-> The Castles of Burgundy is an immersive board game set in the Burgundy region of High Medieval France. Players assume the roles of aristocrats seeking to expand their princedoms by building settlements, constructing formidable castles, engaging in river trade, exploiting silver mines, and harnessing the knowledge of travelers. The core gameplay revolves around selecting settlement tiles from the game board and placing them onto a personal player board, with each tile having a unique function. These tiles must be placed in regions that match their type. The game unfolds in five phases, each comprising five rounds. Players roll dice at the start of each round, with one player determining the availability of goods tiles. On their turns, players can perform two of four possible actions: taking settlement tiles from the game board, placing tiles on their player board, delivering goods, or obtaining worker tokens to adjust dice rolls. Bonus points are awarded for various accomplishments, and the game concludes after the fifth phase. Victory points are tallied, and the player with the most points emerges as the winner. With both basic and advanced rules, The Castles of Burgundy offers a deep and engaging gameplay experience, and it is part of the Alea big box series.
-
-![The Castles of Burgundy image](https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__itemrep/img/GLJxEMRq5M4T9BZGcZ6xtDzj5OQ=/fit-in/246x300/filters:strip_icc\(\)/pic1176894.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 4 |       12 | 30-90m |
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
 
 > Brass: Lancashire, formerly known as Brass, is an engaging economic strategy game that immerses players in the competitive world of cotton entrepreneurs during the industrial revolution in Lancashire. The objective is to develop, construct, and expand your industrial network to meet the high demand for iron, coal, and cotton. The game unfolds in two phases, the canal phase, and the rail phase, with victory points (VPs) being the ultimate goal. Players take turns, with each round offering two actions to choose from a set list, which includes building industries, constructing canals or rails, developing industries, selling cotton, or taking a loan. The turn order depends on the amount of money spent, creating strategic opportunities for those who go later in the order. After the canal phase, a scoring round occurs, followed by the rail phase with expanded building possibilities. After another scoring round, the game concludes, and the winner is determined. The game's unique card system dictates where industries can be built while allowing flexible use for other actions, encouraging strategic card management. Resources are shared, adding depth to competition, as players often rely on each other's production. This 2018 edition by Roxley Games features new artwork and rules enhancements, making it a captivating and improved experience for players aiming to build the most prosperous industrial empire in Lancashire.
@@ -1315,15 +1585,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
-### [Eclipse: Second Dawn Galaxy](https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy)
-
-> A game of Eclipse places you in control of a vast interstellar civilization, competing for success with its rivals. You explore new star systems, research technologies, and build spaceships with which to wage war. There are many potential paths to victory, so you need to plan your strategy according to the strengths and weaknesses of your species, while paying attention to the other civilizations' endeavors.
-
-![Eclipse: Second Dawn Galaxy image](https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__itemrep/img/1flTGokf8uwox72PWvkNq3kOhMM=/fit-in/246x300/filters:strip_icc\(\)/pic5235277.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 6 |       14 | 60-200m |
 ### [Mage Knight Board Game](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game)
 
 > The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction! In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own. In cooperative scenarios, the players win or lose as a group. Solo rules are also included.
@@ -1362,17 +1623,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        9 |  30m |
-### [Field of Fire](https://boardgamegeek.com/boardgame/22877/fields-fire)
-
-> Fields of Fire is a solitaire tactical wargame published by GMT Games, designed to simulate historical campaigns from World War II to the present day. The game revolves around a card-based system, employing two decks—the terrain deck and action decks. Players are tasked with constructing maps for various missions within a historical campaign, employing turn-based strategic actions to achieve their objectives. A single game comprises several missions, each lasting approximately 3 to 5 hours. Fields of Fire has received recognition for its excellence, including Games Magazine's award for Best New Historical Simulation Game in their 2010 Games 100 issue. It offers a deep and immersive strategic experience for players interested in historical warfare simulations.
-
-![Field of Fires](https://cf.geekdo-images.com/I6mylmwz8JSzMTL_1QJVeQ__itemrep/img/qRkrmdPBOZjxKXk5qzx6OEeU7PA=/fit-in/246x300/filters:strip_icc\(\)/pic406760.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|       1 |       12 | 60-300m |
-
-<!--lint ignore no-heading-punctuation-->
 ### [Ambush!](https://boardgamegeek.com/boardgame/1608/ambush)
 
 > Ambush! is a strategy board game developed by Avalon Hill, known for its innovative approach to single-player gameplay in the wargaming genre. Released in 1983, it broke away from the traditional requirement of two players by allowing a solo player to engage in man-to-man combat scenarios. What made Ambush! unique was its use of tables, charts, and a "paragraph book" to control the opponent's actions, eliminating the need for an opposing player. This approach kept the enemy hidden until they became visible through gameplay, enhancing the element of surprise and realism. While it allowed for multiple players to participate by controlling different squads or soldiers, the complexity of scenario creation often required players to purchase expansion modules. Ambush! is a strategy game that offers an engaging and challenging experience for players seeking tactical warfare simulations.
@@ -1412,16 +1662,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Party
 
-### [On Mars](https://boardgamegeek.com/boardgame/184267/mars)
-
-> Following the success of unmanned rover missions, the United Nations established the Department of Operations and Mars Exploration (D.O.M.E.). The first settlers arrived on Mars in the year 2037 and in the decades after establishment Mars Base Camp, private exploration companies began work on the creation of a self-sustaining colony. As chief astronaut for one of these enterprises, you want to be a pioneer in the development of the biggest, most advanced colony on Mars by achieving both D.O.M.E. mission goals as well as your company’s private agenda.
-> In the beginning, you will be dependent on supplies from Earth and will have to travel often between the Mars Space Station and the planet's surface. As the colony expands over time, you will shift your activities to construct mines, power generators, water extractors, greenhouses, oxygen factories, and shelters. Your goal is to develop a self-sustaining colony independent of any terrestrial organization. This will require understanding the importance of water, air, power, and food — the necessities for survival.
-
-![On Mars game image](https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__itemrep/img/xTjuZwi_7iS6FpZIISWTk7SAZ5o=/fit-in/246x300/filters:strip_icc\(\)/pic4357658.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–4 |       14 | 90–150 Min |
 ### [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate)
 
 > Food Chain Magnate is a heavy strategy game about building a fast food chain. The focus is on building your company using a card-driven (human) resource management system. Players compete on a variable city map through purchasing, marketing and sales, and on a job market for key staff members. The game can be played by 2-5 serious gamers in 2-4 hours.
@@ -1452,16 +1692,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |      Time |
 | ------: | -------: | --------: |
 |     1–6 |       13 | 45–90 Min |
-### [Caverna: The Cave Farmers](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers)
-
-> Following along the same lines as its predecessor (Agricola), Caverna: The Cave Farmers is a worker-placement game at heart, with a focus on farming. In the game, you are the bearded leader of a small dwarf family that lives in a little cave in the mountains. You begin the game with a farmer and his spouse, and each member of the farming family represents an action that the player can take each turn. Together, you cultivate the forest in front of your cave and dig deeper into the mountain. You furnish the caves as dwellings for your offspring as well as working spaces for small enterprises.
-> It's up to you how much ore you want to mine. You will need it to forge weapons that allow you to go on expeditions to gain bonus items and actions. While digging through the mountain, you may come across water sources and find ore and ruby mines that help you increase your wealth. Right in front of your cave, you can increase your wealth even further with agriculture: You can cut down the forest to sow fields and fence in pastures to hold your animals. You can also expand your family while running your ever-growing farm. In the end, the player with the most efficiently developed home board wins.
-
-![Caverna: The Cave Farmers game image](https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__itemrep/img/8tBInJIElBaiYVJ-gngzWmrSrsw=/fit-in/246x300/filters:strip_icc\(\)/pic1790789.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|     1–7 |       12 | 30–210 Min |
 ### [Maracaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
 
 > Maracaibo, a strategy game for 1-4 players by Alexander Pfister, is set in the Caribbean during the 17th century. The players try to increase their influence in three nations in four rounds with a play time of 40 minutes per player.
@@ -1483,15 +1713,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |       Time |
 | ------: | -------: | ---------: |
 |     1–4 |       12 | 60–120 Min |
-### [Wits & Wagers](https://boardgamegeek.com/boardgame/20100/wits-wagers)
-
-> Not a trivia buff? It doesn't matter! In Wits & Wagers, each player writes a guess to a question such as “In what year did the bikini swimsuit makes its first appearance?” or “How many feet wide is an NFL football field?” and places it face-up on the betting mat. Think you know the answer? Bet on your guess. Think you know who the experts are? Bet on their guess. The closest answer — without going over — pays out according to the odds on the betting mat. Strike it big and you'll be cheering like you just hit the jackpot! Wits & Wagers is a trivia game that lets you bet on anyone's answer. So you can win by making educated guesses, by playing the odds, or by knowing the interests of your friends. It can be taught in 2 minutes, played in 25 minutes, and accommodates up to 20 people in teams.
-
-![Wits & Wagers image](https://cf.geekdo-images.com/TxojLHTFHfBOBAk9MQSyLg__itemrep/img/HoSHsIveJn0jvXHUeM5x3-iGf44=/fit-in/246x300/filters:strip_icc\(\)/pic2558555.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  25m |
 ### [Just One](https://boardgamegeek.com/boardgame/254640/just-one)
 
 > Just One is a cooperative party game in which you play together to discover as many mystery words as possible. Find the best clue to help your teammate. Be unique, as all identical clues will be cancelled! A complete game is played over 13 cards. The goal is to get a score as close to 13 as possible. In case of a right answer, the players score 1 point. In case of wrong answer, they lose the current card as well as the top card of the deck. Thus losing 2 points. In case of lack of answer, the players only lose the current card, and therefore only 1 point. You have the choice – make the difference!
@@ -1501,15 +1722,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |     Time |
 | ------: | -------: | -------: |
 |   3 - 7 |        8 | 20 - 60m |
-### [Blood on the Clocktower](https://boardgamegeek.com/boardgame/240980/blood-clocktower)
-
-> Blood on the Clocktower is a bluffing game enjoyed by 5 to 20 players on opposing teams of Good and Evil, overseen by a Storyteller player who conducts the action and makes crucial decisions. The goal of the game is to successfully deduce and execute the demons before they outnumber the townfolk. During a 'day' phase players socialize openly and whisper privately to trade knowledge or spread lies, culminating in a player's execution if a majority suspects them of being Evil. Of a 'night' time, players close their eyes and are woken one at a time by the Storyteller to gather information, spread mischief, or kill. The Storyteller uses the game's intricate playing pieces to guide each game, leaving others free to play without a table or board. Players stay in the thick of the action to the very end even if their characters are killed, haunting Ravenswood Bluff as ghosts trying to win from beyond the grave. If you arrive late to a game, you can enter after it's started as a powerful Traveller character with unusual talents and questionable allegiances. Each character comes with their own special ability and no two players in a game are ever the same character.
-
-![Blood on the clocktower img](https://cf.geekdo-images.com/HINb2nkFn5IiZxAlzQIs4g__itemrep/img/ji9nruIqJkNi8omWgNRZKmrZjwA=/fit-in/246x300/filters:strip_icc\(\)/pic7009391.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    5-20 |       15 | 30-120m |
 ### [Snake Oil](https://boardgamegeek.com/boardgame/113289/snake-oil)
 
 > In the Old West, the wily snake oil salesman had a special talent, getting the most skeptical customers to buy the most dubious products. Now it's your turn! Invent your own zany two-word products – Rumor Mirror! Burp Balloon! – and sell them to all types of wacky customers. If the round's customer buys your product, you win the round! To set up Snake Oil, each player takes six purple word cards. The customer for the round draws a customer card and announces it. Inventors quickly combine two purple word cards from their hand to form a crazy new product to sell to that customer. When ready, each inventor quickly pitches his or her product directly to the customer. The customer can end any pitch that goes longer than thirty seconds. The customer decides which product to buy and gives the inventor of that product the round's customer card as the prize. Inventors discard all used word cards and take two new word cards each. The player to the left of the customer becomes the next round's customer. Play repeats until each player has been the customer once. Whoever collects the most customer cards wins the game.
@@ -1573,33 +1785,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |  4 - 16 |       17 | 30-60m |
-
-## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
-
-### Family
-
-### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
-
-> The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
-> In this competitive board game, 2-5 players embark on quests, make moral choices, fight monsters, and sometimes brawl with other witchers to defend their school's honor. Players construct unique decks with attacks, dodges, and witcher magic called "signs" to achieve powerful combos. Earn money, obtain items, and train skills through quests, battles or even dice poker.
-
-![The Witcher: Old World](https://cf.geekdo-images.com/tQVVSXcmYLvAoI28cp-2Tg__itemrep/img/rxCXKwIjRmHKwONcIo5Ja7iTiKc=/fit-in/246x300/filters:strip_icc\(\)/pic5974859.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    1 -5 |       14 | 90-150m |
-
-### Party
-
-### [Magic: The Gathering](https://boardgamegeek.com/boardgame/463/magic-gathering)
-
-> In the Magic game, you play the role of a planeswalker—a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. This is the grandfather of the collectible card game (or CCG) genre. Cards are categorized as common, uncommon, rare, and mythic rare. Players collect cards and build decks out of their collection. Players build a deck of cards and duel against an opponent's deck. Players are wizards attempting to reduce their opponent's life total to zero. The first player to reduce his opponent's life to zero (or meet another set win condition) wins the game. An important part of the game is deck construction, which is done prior to the actual game by selecting what cards are included in a particular deck. There are over 25,000 different cards from which to build your deck! Cards can be lands, which usually generate mana of various colors, or spells, which require a certain amount of mana to be used. Some cards (creatures, artifacts, and enchantments) stay on the board and continue to affect the game, while others have a one-time effect. Players randomly draw spells to see what they get and can play each turn. Although this limits your choices, there is a lot of strategy in how you play those spells. A robust list of game mechanics, including intricate rules for reactive card play called "the stack," provide for rich tactics and tough choices each turn. Though traditionally a two-player duel, there are several casual and tournament formats to Magic that allow more players to play.
-
-![MTG image](https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__itemrep/img/kBqgXHgOkEqyADW3Fk9c8KcCJRk=/fit-in/246x300/filters:strip_icc\(\)/pic163749.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|       2 |       13 |  20m |
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -1779,20 +1964,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 6 |        5 | 20-30m |
 
-## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
-
-### Party
-
-### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
-
-> In this two-person game of strategy, players secretly arrange their ships on a lettered and numbered 10x10 grid and then try to locate and destroy their opponent’s fleet. There are two grids for each player. One grid is used for placing your own vessels and tracking hits made against you, while the second grid is for marking the hits targeted at your opponent. Take turns firing shots by calling out one of the grid’s plot points. If a hit doesn’t strike a ship, it’s considered a miss and pegged with white pieces. If a hit makes contact with a ship, then that strike gets pegged with red. The number of hits each kind of vessel can sustain before it sinks is varied. After some initial exploratory firing, you will likely start to figure out the location of your opponent’s ships and begin to deal the fatal blows. It’s a battle on the high seas!
-
-![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc\(\)/pic1293566.jpg)
-
-| Players | Min. Age |       Time |
-| ------: | -------: | ---------: |
-|       2 |       8+ | 30m around |
-
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 
 ### Family
@@ -1913,15 +2084,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Strategy
 
-### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
-
-> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
-
-![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc\(\)/pic4071903.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |       10 | 40-60m |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
 
 > In this puzzle solving challenge of deduction, logic and intuition, players go head to head to see who can be the first to guess their opponent's secret square. Every action turn brings you closer to finding the hidden, ancient symbol. But watch out; your opponent may be closer to solving your secret square than you think! The Telepathy board game is an outstanding logic building tool, ideal for educators and puzzle solvers alike. If you like Sudoku, Mastermind, or Battleship, this game is for you.
@@ -2119,18 +2281,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |       10 | 60-90m |
 
-### Party
-
-### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
-
-> Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
-
-![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc\(\)/pic2420310.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 4 |      12+ | 90-120m |
-
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### Strategy
@@ -2208,18 +2358,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | ---: |
 |       2 |        8 |  30m |
 
-### Party
-
-### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
-
-> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
-
-![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 8 |        6 |  20m |
-
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
 ### Party
@@ -2296,33 +2434,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Family
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_\(board_game\))
-
-> Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
-
-![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |        8 |  45m |
-### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
-
-> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
-
-![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |       10 |  45m |
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_\(card_game\))
-
-> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
-
-![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 8 |       13 |  90m |
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 > Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
@@ -2352,26 +2463,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 6 |        8 | 10-20m |
-### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
-
-> The master of Ravenloft is having guests for dinner – and you are invited!\
-> Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
-> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
-
-![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       13 |  60m |
-### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
-
-> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
-
-![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   1 - 6 |       12 | 60-120m |
 ### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
@@ -2402,15 +2493,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_\(board_game\))
-
-> You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
-
-![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc\(\)/pic860217.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 7 |       10 |  45m |
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
 > The great 7 Wonders concepts adapted especially for two players. The feel is very '7 Wonders' with a few refinements which many will with made it to the main game such as the reworked military and science victories as well as new commerce dynamics. Playing a game always leaves me wanting to play again.
@@ -2429,17 +2511,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |       2 |       13 |  75m |
-### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
-
-<!-- nothing on wikipedia currently -->
-
-> ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
-
-![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   1 - 5 |       10 |  45m |
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
 > A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
@@ -2449,15 +2520,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
-### [Exploding Kittens](https://explodingkittens.com/)
-
-> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
-
-![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc\(\)/pic2691976.png)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 5 |        7 |  15m |
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
 > Chess is a board game played between two opponents on opposite sides of a board containing 64 squares of alternating colors (white and black). Each player has 16 pieces: 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns. The goal of the game is to checkmate your opponent's king. The game is played by millions of people worldwide.
@@ -2476,15 +2538,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   3 - 6 |        8 | 10-60m |
-### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
-
-> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
-
-![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 5 |       14 |  60m |
 ### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
 
 > Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
@@ -2506,15 +2559,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        7 |  10m |
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_\(board_game\))
-
-> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
-
-![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 7 |       10 |  42m |
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
 > This is a small and quite simple party game designed to make you sing beside the fireplace, or anywhere. Two teams compete using predetermined words. As soon as a player sings part of a song which contains the current word, the other team must find another song containing the word. As soon as a team fails, the other one wins the card.
@@ -2551,15 +2595,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        3 | 30-60m |
-### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
-
-> A great game to play with people you think you know. You take the role of squirrels asking each other questions as they climb up a mountain. Players assemble questions from tiles in their hands, asking each other things like "Would you rather live in a world without pizza or fruit?" or "Would you rather write the Great American Novel or never have to sleep again?" It's a good time for everyone, and the game has this nice, innocent charm to it. Even the manual is fun to read.
-
-![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   3 - 6 |       15 |  30m |
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
 > One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
@@ -2578,15 +2613,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |       12 | 45-60m |
-### [Catan](https://www.catan.com/game/catan)
-
-> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
-
-![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc\(\)/pic2419375.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   3 - 4 |       10 | 45-90m |
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
 > In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
@@ -2669,15 +2695,6 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |  5 - 10 |       13 |  45m |
-### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
-
-> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
-
-![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
-
-| Players | Min. Age | Time |
-| ------: | -------: | ---: |
-|   2 - 4 |       12 |  45m |
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
 > Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
@@ -2716,20 +2733,6 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
-
-## [Jul 08 - Jul 14, 2019](/content/2019/27/README.md)
-
-### Strategy
-
-### [Commonspoly](https://commonspoly.cc/)
-
-> Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
-
-![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   4 - 8 |        7 | 30-90m |
 
 ## [Oct 22 - Oct 28, 2018](/content/2018/43/README.md)
 
@@ -2802,43 +2805,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-90m |
 
-### Party
-
-### [Munchkin](http://www.worldofmunchkin.com/game/)
-
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
-
-![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   3 - 6 |       10 | 60-120m |
-
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
-
-### Family
-
-### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_\(board_game\))
-
-> ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
-
-![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
-
-| Players | Min. Age |   Time |
-| ------: | -------: | -----: |
-|   2 - 5 |        8 | 30-60m |
-
-### Strategy
-
-### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
-
-> A fully cooperative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Explore the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers as you investigate four scenarios of fear and mystery. Collect weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death.
-
-![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
-
-| Players | Min. Age |     Time |
-| ------: | -------: | -------: |
-|   1 - 5 |       14 | 120-180m |
 
 ### Party
 

@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 03, 2024](/content/2024/12/03/README.md)
+
+### Domain Specific Language / DSL Program Synthesis
+
+*   [PhotoScout: Synthesis-Powered Multi-Modal Image Search](https://dl.acm.org/doi/full/10.1145/3613904.3642319) - ***ACM SIGCHI'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=6522231014055730719)]. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With the tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images.
+
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
