@@ -6,6 +6,12 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ Daily / [Weekly](/content/AchoArnold/discount-for-student-dev/week/README.md) / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Dec 03, 2024](/content/2024/12/03/README.md)
+
+### SaaS
+
+*   [TailoredCV.ai](https://tailoredcv.ai/) \[DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
+
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### SaaS

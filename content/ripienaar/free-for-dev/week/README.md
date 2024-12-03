@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
+### APIs, Data, and ML
+
+*   [WeatherXu](https://weatherxu.com/) — Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.
+
 ### Search
 
 *   [Orama Cloud](https://orama.com/pricing) — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics

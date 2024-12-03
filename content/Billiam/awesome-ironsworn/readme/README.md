@@ -81,6 +81,7 @@ made by you on those sites when using these links*
 *   [DataSworn (⭐124)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://itch.io/c/4524662/iron-atlas) - Explore the Ironlands with hand-drawn maps and oracles for weather, flora, & fauna
+*   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets

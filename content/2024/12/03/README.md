@@ -1,18 +1,58 @@
 # Awesome List Updates on Dec 03, 2024
 
-5 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Physics
+
+*   [QuarkPhysics (⭐195)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [WeatherXu](https://weatherxu.com/) — Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.
+
+## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+
+### SaaS
+
+*   [TailoredCV.ai](https://tailoredcv.ai/) \[DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
+
+## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Resources / Ironsworn
+
+*   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
+
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+
+### Development Environment
+
+*   [DDEV](https://ddev.readthedocs.io/en/stable/) - Docker based local env.
+
+### CakePHP Websites
+
+*   [CakeDC](https://www.cakedc.com/articles) - Articles around CakePHP.
+*   [josediazgonzalez.com](https://josediazgonzalez.com/) - A mainly CakePHP related core dev blog.
+*   [mark-story.com](https://mark-story.com) - CakePHP lead dev blog.
+
+### CakePHP Tutorials
+
+*   [Official Content Management Tutorial](https://book.cakephp.org/5/en/tutorials-and-examples/cms/installation.html)
+
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [PhotoScout: Synthesis-Powered Multi-Modal Image Search](https://dl.acm.org/doi/full/10.1145/3613904.3642319) - ***ACM SIGCHI'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=6522231014055730719)]. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With the tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images.
 
-## [2. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [7. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques / Linux
 
@@ -22,13 +62,13 @@
 
 *   [Diamorphine (⭐1.9k)](https://github.com/m0nad/Diamorphine) -  A loadable kernel module (LKM) rootkit for Linux Kernels (x86/x86\_64 and ARM64).
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Text processing
 
 *   [dathere/qsv (⭐2.5k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
 
-## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -691,7 +731,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |      10+ | 45-60m |
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Professional Development
 

@@ -246,7 +246,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Argh! (⭐1.3k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 *   [argparse (⭐2.7k)](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. \[MIT]
 *   [args (⭐1.4k)](https://github.com/taywee/args) - A simple header-only C++ argument parser library. \[MIT]
-*   [barkeep (⭐138)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
+*   [barkeep (⭐141)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
 *   [Boost.Program\_options (⭐110)](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. \[Boost] [website](https://boost.org/libs/program_options)
 *   [cli (⭐1.2k)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 *   [CLI11 (⭐3.4k)](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
@@ -681,7 +681,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 *   [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. \[Apache2 from ITK 4.0]
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐126)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐133)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 *   [Leptonica (⭐1.8k)](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
 *   [libavif (⭐1.6k)](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. \[BSD-2-Clause]
 *   [libfacedetection (⭐12k)](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
@@ -752,7 +752,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Jsmn (⭐3.7k)](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. \[MIT]
 *   [json (⭐43k)](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
 *   [JSON++ (⭐539)](https://github.com/hjiang/jsonxx) - A JSON parser in C++. \[MIT]
-*   [json.cpp (⭐495)](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
+*   [json.cpp (⭐646)](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
 *   [json.h (⭐716)](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 *   [json-build (⭐38)](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation JSON serializer. \[MIT]
 *   [json-c (⭐3k)](https://github.com/json-c/json-c) - A JSON implementation in C. \[MIT]
@@ -1011,6 +1011,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [PlayRho (⭐133)](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  \[Zlib]
 *   [Project Chrono (⭐2.3k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 *   [Quantum++ (⭐542)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
+*   [QuarkPhysics (⭐195)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
 *   [Simbody (⭐2.3k)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
 *   [SOFA (⭐934)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 
@@ -1253,7 +1254,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [mio (⭐1.7k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 *   [MPH (⭐178)](https://github.com/qlibs/mph) - C++20 \[Minimal] Static Perfect Hash library. \[MIT]
 *   [PEGTL (⭐1.9k)](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. \[MIT]
-*   [Pipes (⭐803)](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++. \[MIT]
+*   [Pipes (⭐806)](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++. \[MIT]
 *   [pprint (⭐912)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 *   [pspsdk (⭐881)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 *   [QtVerbalExpressions (⭐64)](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. \[MIT]

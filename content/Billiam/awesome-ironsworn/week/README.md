@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Resources / Ironsworn
+
+*   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Tools / Ironsworn
