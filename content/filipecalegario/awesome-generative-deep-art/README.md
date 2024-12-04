@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 04, 2024](/content/2024/12/04/README.md)
+
+### Large Language Models (LLMs)
+
+*   [QuivrHQ/MegaParse (⭐1k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   [pydantic/pydantic-ai (⭐1.1k)](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
+
 ## [Nov 30, 2024](/content/2024/11/30/README.md)
 
 ### Running LLMs Locally / Prompt Engineering for Text-to-image

@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ Daily / [Weekly](/content/MunGell/awesome-for-beginners/week/README.md) / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Dec 04, 2024](/content/2024/12/04/README.md)
+
+### Rust
+
+*   [TensorZero (⭐793)](https://github.com/tensorzero/tensorzero) *(label: good-first-issue)* <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+
 ## [Nov 29, 2024](/content/2024/11/29/README.md)
 
 ### C#
@@ -28,7 +34,7 @@ A list of awesome beginners-friendly projects.
 
 ### JavaScript
 
-*   [HMPL (⭐8)](https://github.com/hmpl-language/hmpl) *(label: good first issue)* <br> Server-oriented customizable templating for JavaScript.
+*   [HMPL (⭐16)](https://github.com/hmpl-language/hmpl) *(label: good first issue)* <br> Server-oriented customizable templating for JavaScript.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -40,11 +46,11 @@ A list of awesome beginners-friendly projects.
 
 ### Dart
 
-*   [OpenFoodFacts (⭐851)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+*   [OpenFoodFacts (⭐867)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ### Kotlin
 
-*   [OpenCalc (⭐871)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
+*   [OpenCalc (⭐878)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
 
 ## [Oct 26, 2024](/content/2024/10/26/README.md)
 
@@ -111,7 +117,7 @@ A list of awesome beginners-friendly projects.
 
 ### PHP
 
-*   [FreshRSS (⭐9.9k)](https://github.com/FreshRSS/FreshRSS) *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
+*   [FreshRSS (⭐10k)](https://github.com/FreshRSS/FreshRSS) *(label: good first issue)* <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
 
 ### Ruby
 
@@ -331,7 +337,7 @@ A list of awesome beginners-friendly projects.
 *   [Laravel Newsletters (⭐1.6k)](https://github.com/spatie/laravel-newsletter) *(label: good first issue)* <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 *   [Matomo (⭐20k)](https://github.com/matomo-org/matomo) *(label: help-wanted)* <br> Matomo is the leading Free/Libre open analytics platform.
 *   [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) *(label: n/a)* <br> The free and open-source wiki software package that powers Wikipedia.
-*   [NextCloud Server (⭐27k)](https://github.com/nextcloud/server) *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
+*   [NextCloud Server (⭐28k)](https://github.com/nextcloud/server) *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
 *   [OrgManager (⭐199)](https://github.com/orgmanager/orgmanager) *(label: beginners-only)* <br> Supercharge your GitHub organizations!
 *   [PHP Censor (⭐679)](https://github.com/php-censor/php-censor) *(label: good-for-beginner)* <br> Open source self-hosted continuous integration server for PHP projects.
 *   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) *(label: newbie)* <br> Admin interface for MySQL written in PHP.
@@ -377,13 +383,12 @@ A list of awesome beginners-friendly projects.
 *   [bolt (⭐501)](https://github.com/puppetlabs/bolt) *(label: Beginner-Friendly)* <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 *   [chatwoot (⭐21k)](https://github.com/chatwoot/chatwoot) *(label: good first issue)* <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 *   [chef (⭐7.6k)](https://github.com/chef/chef) *(label: Type:-Jump-In)* <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
-*   [Faker (⭐11k)](https://github.com/faker-ruby/faker) *(label: good first issue)* <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 *   [Hanami (⭐6.2k)](https://github.com/hanami/hanami) *(label: easy)* <br> A modern framework for Ruby.
 *   [JRuby (⭐3.8k)](https://github.com/jruby/jruby) *(label: beginner)* <br> An implementation of Ruby on the Java Virtual Machine.
 *   [mapknitter (⭐267)](https://github.com/publiclab/mapknitter) *(label: first-timers-only)* <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 *   [ohai (⭐679)](https://github.com/chef/ohai) *(label: Type:-Jump-In)* <br> Ohai profiles your system and emits JSON
 *   [open-build-service (⭐940)](https://github.com/openSUSE/open-build-service) *(label: good first issue-:1st\_place\_medal:)* <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
-*   [osem (⭐878)](https://github.com/openSUSE/osem) *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
+*   [osem (⭐881)](https://github.com/openSUSE/osem) *(label: good first issue)* <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
 *   [PublicLab.org (⭐961)](https://github.com/publiclab/plots2) *(label: first-timers-only)* <br> An open source publishing platform for environmental projects. Check out new contributors welcome page.
 *   [Ruby on Rails (⭐56k)](https://github.com/rails/rails) *(label: good first issue)* <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 *   [Sinatra (⭐12k)](https://github.com/sinatra/sinatra) *(label: good first issue)* <br> Classy web-development dressed in a DSL.
@@ -397,7 +402,7 @@ A list of awesome beginners-friendly projects.
 *   [nushell (⭐33k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
 *   [Rust-Clippy (⭐11k)](https://github.com/rust-lang/rust-clippy) *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
 *   [Rustfmt (⭐6.1k)](https://github.com/rust-lang-nursery/rustfmt) *(label: good first issue)* <br> A tool for formatting Rust code according to style guidelines.
-*   [Servo (⭐28k)](https://github.com/servo/servo) *(label: E-easy)* <br> A browser engine designed for applications including embedded use.
+*   [Servo (⭐29k)](https://github.com/servo/servo) *(label: E-easy)* <br> A browser engine designed for applications including embedded use.
 *   [TiKV (⭐15k)](https://github.com/tikv/tikv) *(label: difficulty/easy)* <br> A distributed transactional key-value database
 *   [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name\[]=beginner) *(label: n/a)* <br> Veloren is a multiplayer voxel RPG written in Rust.
 

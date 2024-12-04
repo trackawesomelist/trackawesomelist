@@ -6,15 +6,26 @@
 
 [ [Daily](/content/rafaskb/awesome-libgdx/README.md) / Weekly / [Overview](/content/rafaskb/awesome-libgdx/readme/README.md) ]
 
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Resources / Others
+
+*   [libGDX Plugin (⭐147)](https://github.com/BlueBoxWare/LibGDXPlugin) - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
+
+### Tutorials / General Learning Material
+
+*   [Book of Shaders (⭐6.1k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+*   [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
 *   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
-### Assets / Advanced
+### Assets / General Learning Material
 
 *   [Jsfxr](https://chr15m.itch.io/jsfxr) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 
@@ -28,7 +39,7 @@
 
 ### Resources / Editors
 
-*   [Mundus (⭐160)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
+*   [Mundus (⭐162)](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 
 ### Resources / Setup and Deployment
 
@@ -36,7 +47,7 @@
 
 ### Resources / User Interface
 
-*   [TextraTypist (⭐94)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+*   [TextraTypist (⭐96)](https://github.com/tommyettinger/textratypist) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
 
 ### Resources / Visual Effects
 
@@ -50,28 +61,28 @@
 
 ### Resources / Visual Effects
 
-*   [HackLights (⭐25)](https://github.com/aliasifk/HackLights) - Lightweight framebuffer based lighting engine for libGDX.
+*   [HackLights (⭐24)](https://github.com/aliasifk/HackLights) - Lightweight framebuffer based lighting engine for libGDX.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Resources / Audio
 
-*   [TuningFork (⭐30)](https://github.com/Hangman/TuningFork) - Advanced 3D audio features for libGDX desktop users.
+*   [TuningFork (⭐31)](https://github.com/Hangman/TuningFork) - Advanced 3D audio features for libGDX desktop users.
 *   [gdx-miniaudio (⭐50)](https://github.com/rednblackgames/gdx-miniaudio) - Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.
-*   [gdx-sfx (⭐19)](https://github.com/spookygames/gdx-sfx) - Some goodies for better sound effects in libGDX.
+*   [gdx-sfx (⭐20)](https://github.com/spookygames/gdx-sfx) - Some goodies for better sound effects in libGDX.
 *   [gdx-pd (⭐27)](https://github.com/mgsx-dev/gdx-pd) - Pure Data extension for libGDX.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### Resources / Visual Effects
 
-*   [gdx-graph (⭐45)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+*   [gdx-graph (⭐46)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
 ### Tutorials / Getting Started
 
-*   [Scene2D.UI From the Ground Up (⭐430)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+*   [Scene2D.UI From the Ground Up (⭐435)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Tutorials / Advanced
 
@@ -97,7 +108,7 @@
 
 ### Resources / Controllers
 
-*   [gdx-controllers (⭐71)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
+*   [gdx-controllers (⭐72)](https://github.com/libgdx/gdx-controllers) - Adds support to gamepads and joysticks.
 
 ### Resources / Others
 
@@ -107,7 +118,7 @@
 
 ### Resources / Setup and Deployment
 
-*   [gdx-liftoff (⭐545)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+*   [gdx-liftoff (⭐543)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
@@ -119,7 +130,7 @@
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐376)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐379)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Tutorials / Getting Started
@@ -130,7 +141,7 @@
 
 ### Resources / Visual Effects
 
-*   [libgdx-screenmanager (⭐104)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
+*   [libgdx-screenmanager (⭐102)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -146,7 +157,7 @@
 
 ### Resources / Visual Effects
 
-*   [gdx-gltf (⭐213)](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
+*   [gdx-gltf (⭐214)](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
@@ -163,7 +174,7 @@
 
 ### Resources / User Interface
 
-*   [PieMenu (⭐79)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
+*   [PieMenu (⭐80)](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -179,29 +190,29 @@
 
 ### Resources / User Interface
 
-*   [Skin Composer (⭐430)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+*   [Skin Composer (⭐435)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
 *   [TenPatch (⭐48)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
 *   [TypingLabel (⭐152)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
-*   [VisUI (⭐727)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+*   [VisUI (⭐733)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 
 ### Resources / Others
 
-*   [Texture Packer GUI (⭐613)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+*   [Texture Packer GUI (⭐618)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
 ### Tutorials / Getting Started
 
 *   [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
-*   [Deploying with JPackage (⭐430)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+*   [Deploying with JPackage (⭐435)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
 
 ### Tutorials / Advanced
 
 *   [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 
-### Community / Advanced
+### Community / General Learning Material
 
 *   [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
 *   [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 
@@ -227,7 +238,7 @@
 *   [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
 *   [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
 
-### Assets / Advanced
+### Assets / General Learning Material
 
 *   [Kenney Assets](https://kenney.nl/) - High quality assets for your game, from 2D and 3D art to sound effects.
 *   [OpenGameArt.org](https://opengameart.org/) - Repository offering a variety of open content assets.
@@ -246,7 +257,7 @@
 
 ### Resources / Services
 
-*   [steamworks4j (⭐482)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+*   [steamworks4j (⭐483)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 ### Resources / User Interface
 
@@ -255,20 +266,20 @@
 
 ### Resources / Visual Effects
 
-*   [Box2DLights (⭐255)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-*   [Particle Park (⭐68)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
+*   [Box2DLights (⭐256)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+*   [Particle Park (⭐69)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 
 ### Resources / Others
 
 *   [gdxGifRecorder (⭐37)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
-*   [noise4j (⭐100)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+*   [noise4j (⭐102)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
 ## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
 
 ### Resources / Entity Component System (ECS)
 
-*   [Artemis-odb (⭐779)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
-*   [Ashley (⭐874)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+*   [Artemis-odb (⭐783)](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+*   [Ashley (⭐875)](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
 ### Resources / Services
 
@@ -276,25 +287,25 @@
 *   [gdx-fireapp (⭐63)](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 *   [gdx-firebase (⭐35)](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
 *   [gdx-gamesvcs (⭐113)](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
-*   [gdx-pay (⭐225)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
+*   [gdx-pay (⭐224)](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 
 ### Resources / User Interface
 
-*   [gdx-skins (⭐504)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
+*   [gdx-skins (⭐505)](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
 *   [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 
 ### Tutorials / Getting Started
 
 *   [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
-*   [Progress Bar Design (⭐430)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
+*   [Progress Bar Design (⭐435)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 
-### Community / Advanced
+### Community / General Learning Material
 
 *   [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
 
-### Other Lists / Advanced
+### Other Lists / General Learning Material
 
-*   [Game Networking (⭐7.4k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
+*   [Game Networking (⭐7.5k)](https://github.com/MFatihMAR/Awesome-Game-Networking) - A Curated List of Game Network Programming Resources.
 *   [Game Talks (⭐1.1k)](https://github.com/hzoo/awesome-gametalks) - A curated list of gaming talks (development, design, etc).
 *   [Java (⭐42k)](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 *   [Kotlin (⭐11k)](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
