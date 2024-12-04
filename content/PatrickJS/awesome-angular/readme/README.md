@@ -102,6 +102,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [Mixed utilities](#mixed-utilities)
     *   [Modals](#modals)
     *   [Notifications](#notifications)
+    *   [Printing](#printing)
     *   [QR Codes](#qr-codes)
     *   [Scroll](#scroll)
     *   [State Management](#state-management)
@@ -1406,6 +1407,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-toastr-message (⭐3)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 *   [ngx-french-toast (⭐4)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 
+#### Printing
+
+*   [ngx-print (⭐168)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
+*   [ngx-printer-demo (⭐31)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
+
 #### QR Codes
 
 *   [ng-qrcode (⭐56)](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
@@ -1488,7 +1495,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ##### Unspecified
 
 *   [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
-*   [Syncfusion](https://www.syncfusion.com/angular-components) - The Complete Angular Components Library.
+*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐3)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 *   [ej2-angular-ui-components (⭐275)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
 *   [Nebular (⭐8.1k)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
 *   [NG ZORRO MOBILE (⭐800)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
@@ -1635,7 +1642,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-morse (⭐7)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 *   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
-*   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ***
 

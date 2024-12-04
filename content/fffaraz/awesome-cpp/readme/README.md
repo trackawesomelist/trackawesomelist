@@ -176,7 +176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libuv (⭐24k)](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. \[BSD]
 *   [promise-cpp (⭐679)](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. \[Anti-996]
 *   [uvw (⭐1.9k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
-*   [uv-cpp (⭐781)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. \[MIT]
+*   [uv-cpp (⭐782)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. \[MIT]
 
 ## Audio
 
@@ -1048,6 +1048,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [SLRE (⭐535)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 *   [sregex (⭐617)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 *   [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. \[BSD]
+*   [Vectorscan (⭐514)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
 
 ## Robotics
 

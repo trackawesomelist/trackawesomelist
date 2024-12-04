@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
+### Domain Specific Language / Logic DSL Applications
+
+*   [Answer Set Programming](https://link.springer.com/chapter/10.1007/3-540-46767-x_28) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675)]. \[[Preprint](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation. In ASP solutions to a problem are represented by answer sets (known also as stable models), and not by answer substitutions produced in response to a query, as in conventional logic programming.
+
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Top-Down Synthesis for Library Learning](https://dl.acm.org/doi/abs/10.1145/3571234) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12324277007659029766)]. This paper introduces corpus-guided top-down synthesis as a mechanism for synthesizing library functions that capture common functionality from a corpus of programs in a domain specific language (DSL). The algorithm builds abstractions directly from initial DSL primitives, using syntactic pattern matching of intermediate abstractions to intelligently prune the search space and guide the algorithm towards abstractions that maximally capture shared structures in the corpus.
@@ -1287,7 +1291,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Domain Specific Language / Logic DSL Applications
 
 *   [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation.
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
 *   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 *   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.

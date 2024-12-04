@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Standard CLI
+
+*   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
 ### Standard CLI
@@ -53,11 +59,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Video
 
-*   [mp4ff (⭐466)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
+*   [mp4ff (⭐476)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 
 ### Web Frameworks
 
-*   [goravel (⭐2.8k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
+*   [goravel (⭐3k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 

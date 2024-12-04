@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Dec 04, 2024](/content/2024/12/04/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-validator (⭐8)](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
+
 ## [Nov 29, 2024](/content/2024/11/29/README.md)
 
 ### Resources / Talks and videos

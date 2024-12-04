@@ -70,7 +70,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Inactive - Developer Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-dev)
 *   [Mailing List Search](http://www.keycloak.org/search)
 *   [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
-*   [GitHub Discussions (⭐23k)](https://github.com/keycloak/keycloak/discussions)
+*   [GitHub Discussions (⭐24k)](https://github.com/keycloak/keycloak/discussions)
 *   [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
 *   [Keycloak OAuth SIG (⭐77)](https://github.com/keycloak/kc-sig-fapi)
 *   [Keycloak SRE SIG (⭐24)](https://github.com/keycloak/keycloak-sre-sig)
@@ -292,6 +292,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Vault Keycloak Plugin (⭐12)](https://github.com/Serviceware/vault-plugin-secrets-keycloak)
 *   [mantelo (Python Admin Client) (⭐19)](https://github.com/derlin/mantelo)
 *   [Keyloak Integration for the German E-Health ID (GesundheitsID) (⭐16)](https://github.com/oviva-ag/ehealthid-relying-party)
+*   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
 
 ## Quick demo Videos
 
@@ -348,7 +349,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Example Projects
 
 *   [Examples from Keycloak Book: Keycloak - Identity and Access Management for Modern Applications (⭐249)](https://github.com/PacktPublishing/Keycloak-Identity-and-Access-Management-for-Modern-Applications)
-*   [Official Examples (⭐23k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Official Examples (⭐24k)](https://github.com/keycloak/keycloak/tree/master/examples)
 *   [Keycloak Quickstarts (⭐2k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)

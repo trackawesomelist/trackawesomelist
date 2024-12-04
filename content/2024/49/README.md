@@ -1,12 +1,65 @@
 # Awesome List Updates on Dec 02 - Dec 08, 2024
 
-27 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-validator (⭐8)](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Standard CLI
+
+*   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
+
+## [3. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+
+### Community / Mesh tools
+
+*   [Gabriel Peyré on Bluesky](https://bsky.app/profile/gabrielpeyre.bsky.social) - One post a day on computational mathematics.
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Resources / Community
+
+*   [X (Twitter)](https://x.com/vuejs)
+
+### Projects Using Vue.js / Open Source
+
+*   [Savycart (⭐51)](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+
+### Components & Libraries / Frameworks
+
+*   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
+
+### Components & Libraries / UI Components
+
+*   [vue-crud-x (⭐459)](https://github.com/ais-one/cookbook) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
+*   [@egjs/vue-flicking (⭐2.8k)](https://github.com/naver/egjs-flicking/blob/master/packages/vue3-flicking/README.md) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
+*   [vue-use-sound (⭐501)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
+
+### Components & Libraries / UI Utilities
+
+*   [Unhead (⭐643)](https://github.com/unjs/unhead)
+*   [Official: Vue Teleport](https://vuejs.org/guide/built-ins/teleport)
+
+### Components & Libraries / Dev Tools
+
+*   [devtools (⭐1.8k)](https://github.com/vuejs/devtools) - Chrome devtools extension for debugging Vue.js applications.
+*   [jest-serializer-vue-tjw (⭐3)](https://github.com/tjw-lint/vue3-snapshot-serializer) - Improved formatting of Jest Snapshots
+*   [Vue Language Tools (Volar) (⭐5.9k)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
+
+### Components & Libraries / Scaffold
+
+*   [Create Vue (⭐3.8k)](https://github.com/vuejs/create-vue)
+
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -34,13 +87,13 @@
 
 *   [OpenL Tablets (⭐158) (⭐157)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [kryptokrona/kryptokrona-kotlin-sdk (⭐51)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -50,13 +103,13 @@
 
 *   [pydantic/pydantic-ai (⭐1.1k)](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
 
-## [4. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Rust
 
 *   [TensorZero (⭐793)](https://github.com/tensorzero/tensorzero) *(label: good-first-issue)* <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 
-## [5. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [9. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Others
 
@@ -67,25 +120,29 @@
 *   [Book of Shaders (⭐6.1k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 *   [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 
 *   [QuarkPhysics (⭐195)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
 
-## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+### Regular Expression
+
+*   [Vectorscan (⭐514)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
+
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [TailoredCV.ai](https://tailoredcv.ai/) \[DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Ironsworn
 
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
@@ -101,7 +158,7 @@
 
 *   [Official Content Management Tutorial](https://book.cakephp.org/5/en/tutorials-and-examples/cms/installation.html)
 
-## [10. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [14. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Linux
 
@@ -111,7 +168,7 @@
 
 *   [Diamorphine (⭐1.9k)](https://github.com/m0nad/Diamorphine) -  A loadable kernel module (LKM) rootkit for Linux Kernels (x86/x86\_64 and ARM64).
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -121,7 +178,7 @@
 
 *   [0xlane/pe-sign (⭐30)](https://github.com/0xlane/pe-sign) [\[pe-sign\]](https://crates.io/crates/pe-sign) - A cross-platform rust no-std library for verifying and extracting signature information from PE files. [![crates.io](https://img.shields.io/crates/v/pe-sign)](https://crates.io/crates/pe-sign) [![build](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml/badge.svg)](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml)
 
-## [12. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [16. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -784,7 +841,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |      10+ | 45-60m |
 
-## [13. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### Table of contents
 
@@ -837,7 +894,7 @@
 *   **Section 11** 🧰: [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#general-ai-tools-and-extensions)
     *   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
 
-## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -845,7 +902,7 @@
 *   [IPFS Share (⭐151)](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 *   [TeaTime (⭐435)](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -877,33 +934,37 @@
 
 *   [MagicQuit](https://magicquit.com/) - Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BigBerny/magicquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [20. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Communication
 
 *   [Intercom Manager (⭐4)](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend (⭐2)](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
 *   [DYI intercom (⭐44)](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [daltongd/yanklock.nvim (⭐7)](https://github.com/daltongd/yanklock.nvim) - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
 
-## [18. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [22. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Orchestrating Firebase and AI: Genkit architecture example](https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing) - Presented in a lightning talk at GDG DevFest Tokyo 2024.
 
-## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Logic DSL Applications
+
+*   [Answer Set Programming](https://link.springer.com/chapter/10.1007/3-540-46767-x_28) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675)]. \[[Preprint](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation. In ASP solutions to a problem are represented by answer sets (known also as stable models), and not by answer substitutions produced in response to a query, as in conventional logic programming.
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Top-Down Synthesis for Library Learning](https://dl.acm.org/doi/abs/10.1145/3571234) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12324277007659029766)]. This paper introduces corpus-guided top-down synthesis as a mechanism for synthesizing library functions that capture common functionality from a corpus of programs in a domain specific language (DSL). The algorithm builds abstractions directly from initial DSL primitives, using syntactic pattern matching of intermediate abstractions to intelligently prune the search space and guide the algorithm towards abstractions that maximally capture shared structures in the corpus.
 *   [PhotoScout: Synthesis-Powered Multi-Modal Image Search](https://dl.acm.org/doi/full/10.1145/3613904.3642319) - ***ACM SIGCHI'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=6522231014055730719)]. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With the tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images.
 
-## [20. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -911,13 +972,17 @@
 *   [Keycloak OpenFGA Event Publisher by @embesozzi (⭐26)](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 *   [JavaScript LDAP\_ID ScriptMapper by @netzbegruenung (⭐0)](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id)
 
-## [21. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+### Integrations
+
+*   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+
+## [25. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Dubbing / Web
 
 *   [jordimas/open-dubbing (⭐69)](https://github.com/jordimas/open-dubbing) - Open dubbing is an AI dubbing system uses machine learning models to automatically translate and synchronize audio dialogue into different languages.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -927,7 +992,7 @@
 
 *   [Orama Cloud](https://orama.com/pricing) — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics
 
-## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [27. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Plotter Control
 
@@ -941,7 +1006,7 @@
 *   [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
 *   [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -951,24 +1016,29 @@
 
 *   [log4ngx (⭐1)](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 
+### Printing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-print (⭐168)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+*   [ngx-printer-demo (⭐31)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
+
 ### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-state-machine (⭐2)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 
-## [25. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [29. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Videos / Monograph
 
 *   [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. — added by Erik himself!
 *   [Demaine/Devadas/Lynch. Design and Analysis of algorithms. MIT](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - A second course on algorithms and data structures. — added by Erik himself!
 
-## [26. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [30. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Keywords AI](https://www.keywordsai.co/) - The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.
 
-## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [31. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Professional Development
 

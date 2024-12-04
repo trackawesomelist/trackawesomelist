@@ -430,6 +430,7 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [command-chain (⭐62)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
 *   [commandeer (⭐174)](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 *   [complete (⭐929)](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
+*   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
 *   [Dnote (⭐2.8k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5.7k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐114)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
@@ -3014,7 +3015,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gortsplib (⭐702)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
 *   [libvlc-go (⭐436)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [m3u8 (⭐1.2k)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
-*   [mp4ff (⭐466)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
+*   [mp4ff (⭐476)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 *   [v4l (⭐80)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
 **[⬆ back to top](#contents)**
@@ -3040,7 +3041,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoFrame (⭐12k)](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 *   [golamb (⭐7)](https://github.com/twharmon/golamb) - Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 *   [Gone (⭐131)](https://github.com/gone-io/gone) - A lightweight dependency injection and web framework inspired by Spring.
-*   [goravel (⭐2.8k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
+*   [goravel (⭐3k)](https://github.com/goravel/goravel) - A Laravel-inspired web framework with ORM, authentication, queue, task scheduling, and more built-in features.
 *   [Goyave (⭐1.6k)](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
 *   [Hertz (⭐5.4k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 *   [hiboot (⭐180)](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.

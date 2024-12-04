@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [QuarkPhysics (⭐195)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
 
+### Regular Expression
+
+*   [Vectorscan (⭐514)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
 ### Math
@@ -30,7 +34,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Asynchronous Event Loop
 
-*   [uv-cpp (⭐781)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. \[MIT]
+*   [uv-cpp (⭐782)](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. \[MIT]
 
 ### JSON
 

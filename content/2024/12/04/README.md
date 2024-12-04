@@ -1,18 +1,96 @@
 # Awesome List Updates on Dec 04, 2024
 
-7 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-validator (⭐8)](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Domain Specific Language / Logic DSL Applications
+
+*   [Answer Set Programming](https://link.springer.com/chapter/10.1007/3-540-46767-x_28) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675)]. \[[Preprint](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation. In ASP solutions to a problem are represented by answer sets (known also as stable models), and not by answer substitutions produced in response to a query, as in conventional logic programming.
+
+## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+### Integrations
+
+*   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Regular Expression
+
+*   [Vectorscan (⭐514)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
+
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Standard CLI
+
+*   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
+
+## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+
+### Community / Mesh tools
+
+*   [Gabriel Peyré on Bluesky](https://bsky.app/profile/gabrielpeyre.bsky.social) - One post a day on computational mathematics.
+
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Resources / Community
+
+*   [X (Twitter)](https://x.com/vuejs)
+
+### Projects Using Vue.js / Open Source
+
+*   [Savycart (⭐51)](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+
+### Components & Libraries / Frameworks
+
+*   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
+
+### Components & Libraries / UI Components
+
+*   [vue-crud-x (⭐459)](https://github.com/ais-one/cookbook) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
+*   [@egjs/vue-flicking (⭐2.8k)](https://github.com/naver/egjs-flicking/blob/master/packages/vue3-flicking/README.md) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
+*   [vue-use-sound (⭐501)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
+
+### Components & Libraries / UI Utilities
+
+*   [Unhead (⭐643)](https://github.com/unjs/unhead)
+*   [Official: Vue Teleport](https://vuejs.org/guide/built-ins/teleport)
+
+### Components & Libraries / Dev Tools
+
+*   [devtools (⭐1.8k)](https://github.com/vuejs/devtools) - Chrome devtools extension for debugging Vue.js applications.
+*   [jest-serializer-vue-tjw (⭐3)](https://github.com/tjw-lint/vue3-snapshot-serializer) - Improved formatting of Jest Snapshots
+*   [Vue Language Tools (Volar) (⭐5.9k)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
+
+### Components & Libraries / Scaffold
+
+*   [Create Vue (⭐3.8k)](https://github.com/vuejs/create-vue)
+
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Printing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-print (⭐168)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+*   [ngx-printer-demo (⭐31)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
+
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Parsing
 
 *   [0xlane/pe-sign (⭐30)](https://github.com/0xlane/pe-sign) [\[pe-sign\]](https://crates.io/crates/pe-sign) - A cross-platform rust no-std library for verifying and extracting signature information from PE files. [![crates.io](https://img.shields.io/crates/v/pe-sign)](https://crates.io/crates/pe-sign) [![build](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml/badge.svg)](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml)
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -40,7 +118,7 @@
 
 *   [OpenL Tablets (⭐158) (⭐157)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
@@ -54,13 +132,13 @@
 
 *   [MagicQuit](https://magicquit.com/) - Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BigBerny/magicquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [kryptokrona/kryptokrona-kotlin-sdk (⭐51)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
-## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -70,13 +148,13 @@
 
 *   [pydantic/pydantic-ai (⭐1.1k)](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
 
-## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [14. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Rust
 
 *   [TensorZero (⭐793)](https://github.com/tensorzero/tensorzero) *(label: good-first-issue)* <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 
-## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Others
 

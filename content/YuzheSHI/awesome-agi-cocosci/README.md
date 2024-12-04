@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 04, 2024](/content/2024/12/04/README.md)
+
+### Domain Specific Language / Logic DSL Applications
+
+*   [Answer Set Programming](https://link.springer.com/chapter/10.1007/3-540-46767-x_28) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675)]. \[[Preprint](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation. In ASP solutions to a problem are represented by answer sets (known also as stable models), and not by answer substitutions produced in response to a query, as in conventional logic programming.
+
 ## [Dec 03, 2024](/content/2024/12/03/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
@@ -1465,7 +1471,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Domain Specific Language / Logic DSL Applications
 
 *   [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
-*   [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675\&hl=en\&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation.
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645\&hl=en\&as_sdt=0,5)].
 *   [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345\&hl=en\&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 *   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.

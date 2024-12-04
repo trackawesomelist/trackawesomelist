@@ -14,6 +14,10 @@ A curated list of resources for learning about http://www.keycloak.org
 *   [Keycloak OpenFGA Event Publisher by @embesozzi (⭐26)](https://github.com/embesozzi/keycloak-openfga-event-publisher)
 *   [JavaScript LDAP\_ID ScriptMapper by @netzbegruenung (⭐0)](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id)
 
+### Integrations
+
+*   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Community Extensions
@@ -103,7 +107,7 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Community, SIGs, Discussion Forums and Mailing Lists
 
 *   [Inactive - Keycloak Developer Chat](https://keycloak.zulipchat.com)
-*   [GitHub Discussions (⭐23k)](https://github.com/keycloak/keycloak/discussions)
+*   [GitHub Discussions (⭐24k)](https://github.com/keycloak/keycloak/discussions)
 *   [CNCF Slack](https://slack.cncf.io/), [#keycloak](https://cloud-native.slack.com/archives/C056HC17KK9), [#keycloak-dev](https://cloud-native.slack.com/archives/C056XU905S6)
 
 ### Articles
@@ -1070,7 +1074,7 @@ A curated list of resources for learning about http://www.keycloak.org
 
 ### Example Projects
 
-*   [Official Examples (⭐23k)](https://github.com/keycloak/keycloak/tree/master/examples)
+*   [Official Examples (⭐24k)](https://github.com/keycloak/keycloak/tree/master/examples)
 *   [Keycloak Quickstarts (⭐2k)](https://github.com/keycloak/keycloak-quickstarts)
 *   [Drupal 7.0 with Keycloak](https://gist.github.com/thomasdarimont/17fa146c4fb5440d7fc2ee6322ec392d)
 *   [Securing Realm Resources With Custom Roles (⭐14)](https://github.com/dteleguin/custom-admin-roles)
