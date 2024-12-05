@@ -6,6 +6,16 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
+## [Dec 05, 2024](/content/2024/12/05/README.md)
+
+### Projects / API Documentation
+
+*   [Zudoku (⭐106) (⭐106)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐687) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
 ### Projects / API Management
@@ -94,7 +104,7 @@ A curated list of awesome system integration software and resources.
     *   [Imposter (⭐374) (⭐374)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
     *   [Microcks (⭐1.4k) (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
     *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐95) (⭐93)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
+    *   [Mockbin (⭐95) (⭐95)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
     *   [Mockoon (⭐6.6k) (⭐6.6k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
     *   [MockServer (⭐4.6k) (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
@@ -113,10 +123,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Elsa Core (⭐6.5k) (⭐6.6k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 *   [Temporal (⭐12k) (⭐12k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐686) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
 ### Resources / Structure and Validation
 
@@ -311,6 +317,7 @@ A curated list of awesome system integration software and resources.
     *   [curl (⭐36k) (⭐36k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
     *   [curlie (⭐2.8k) (⭐2.9k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
     *   [HTTPie (⭐34k) (⭐34k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
+    *   [Hoppscotch (⭐65k) (⭐66k)](https://github.com/hoppscotch/hoppscotch) - A fast, open-source API development tool available as a web app.
     *   [Insomnia (⭐35k) (⭐35k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
     *   [posting (⭐6.2k) (⭐6.2k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.

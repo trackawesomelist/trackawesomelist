@@ -490,7 +490,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [QuivrHQ/MegaParse (⭐1k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 *   [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
 *   [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development (⭐136)](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
-*   [unclecode/crawl4ai: Crawl4AI (⭐16k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
+*   [unclecode/crawl4ai: Crawl4AI (⭐18k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scrapper
 *   [microsoft/LMOps (⭐3.7k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐26k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -680,7 +680,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ### Retrieval-Augmented Generation (RAG)
 
-*   [bRAGAI/bRAG-langchain (⭐617)](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
+*   [bRAGAI/bRAG-langchain (⭐783)](https://github.com/bRAGAI/bRAG-langchain): Everything you need to know to build your own RAG application
 *   [ragapp/ragapp (⭐3.9k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 *   [LlamaParse](https://www.llamaindex.ai/blog/launching-the-first-genai-native-document-parsing-platform): GenAI-native document parsing platform by LlamaIndex
 *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
@@ -711,9 +711,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 ### Autonomous LLM Agents
 
 *   [pydantic/pydantic-ai (⭐1.1k)](https://github.com/pydantic/pydantic-ai): Agent Framework / shim to use Pydantic with LLMs
-*   [NirDiamant/GenAI\_Agents (⭐4.2k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+*   [NirDiamant/GenAI\_Agents (⭐4.6k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 *   [Hexabot (⭐514)](https://github.com/hexastack/hexabot) Open-Source AI Chatbot / Agent builder with support for LLMs as well as social media channels integration.
-*   [NirDiamant/GenAI\_Agents (⭐4.2k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+*   [NirDiamant/GenAI\_Agents (⭐4.6k)](https://github.com/NirDiamant/GenAI_Agents): tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 *   [TailorTask](https://www.tailortask.ai) - Automate any boring task, without code and without having to learn a new tool
 *   [\[2406.04784\] SelfGoal: Your Language Agents Already Know How to Achieve High-level Goals](https://arxiv.org/abs/2406.04784)
 *   [\[2406.04692\] Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692)
@@ -754,10 +754,12 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 #### Multi-agents
 
+*   [\[2411.00114\] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)
+*   [joonspk-research/generative\_agents (⭐18k)](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
 *   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐89)](https://github.com/joonspk-research/genagents)
 *   [microsoft/TinyTroupe (⭐4.6k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 *   [Multi-Agent Research Outline](https://thinkwee.top/multiagent_ebook/index.html): an interactive eBook that compiles an extensive collection of research papers on large language model (LLM)-based multi-agent systems
-*   [openai/swarm (⭐16k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+*   [openai/swarm (⭐17k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [\[2307.05300\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)
 *   [\[2308.07201\] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201)
 *   [OpenBMB/ChatDev (⭐26k)](https://github.com/OpenBMB/ChatDev): create customized software using natural language idea (through llm-powered multi-agent collaboration)
@@ -1229,6 +1231,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Code and Programming
 
+*   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+*   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+*   [Cursor](https://www.cursor.com/): The AI Code Editor
 *   [batchai (⭐30)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 *   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.

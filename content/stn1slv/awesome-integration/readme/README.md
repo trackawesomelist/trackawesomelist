@@ -118,6 +118,7 @@ System integration is the process of linking together different IT systems (com
 *   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform built for teams, with versioning, testing automation, and integration with popular API tools.
 *   [Swagger UI (⭐26k) (⭐27k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
 *   [SpectaQL (⭐1.1k) (⭐1.1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
+*   [Zudoku (⭐106) (⭐106)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
 
 <!--lint disable-->
 
@@ -157,6 +158,7 @@ System integration is the process of linking together different IT systems (com
     *   [curl (⭐36k) (⭐36k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
     *   [curlie (⭐2.8k) (⭐2.9k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
     *   [HTTPie (⭐34k) (⭐34k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
+    *   [Hoppscotch (⭐65k) (⭐66k)](https://github.com/hoppscotch/hoppscotch) - A fast, open-source API development tool available as a web app.
     *   [Insomnia (⭐35k) (⭐35k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
     *   [posting (⭐6.2k) (⭐6.2k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
@@ -172,7 +174,7 @@ System integration is the process of linking together different IT systems (com
     *   [Imposter (⭐374) (⭐374)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
     *   [Microcks (⭐1.4k) (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
     *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐95) (⭐93)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
+    *   [Mockbin (⭐95) (⭐95)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
     *   [Mockoon (⭐6.6k) (⭐6.6k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
     *   [MockServer (⭐4.6k) (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
@@ -988,7 +990,7 @@ System integration is the process of linking together different IT systems (com
 *   [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-*   [NDJSON (⭐686) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [NDJSON (⭐687) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐65k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 *   [YAML (⭐349) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.

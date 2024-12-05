@@ -10,6 +10,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Logic DSL Applications
 
+*   [What is Answer Set Programming?](https://link.springer.com/content/pdf/10.1007/978-3-030-24658-7.pdf) - ***Springer***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=3691841207891991771)]. \[[Tutorial on AAAI](https://dl.acm.org/doi/abs/10.5555/1620270.1620340)]. Answer set programming (ASP) is a form of declarative programming oriented towards difficult search problems. As an outgrowth of research on the use of nonmonotonic reasoning in knowledge representation, it is particularly useful in knowledge-intensive applications. ASP programs consist of rules that look like Prolog rules, but the computational mechanisms used in ASP are different: they are based on the ideas that have led to the creation of fast satisfiability solvers for propositional logic.
 *   [Answer Set Programming](https://link.springer.com/chapter/10.1007/3-540-46767-x_28) - ***ICLPNR'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675)]. \[[Preprint](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation. In ASP solutions to a problem are represented by answer sets (known also as stable models), and not by answer substitutions produced in response to a query, as in conventional logic programming.
 
 ### Domain Specific Language / DSL Program Synthesis
@@ -192,7 +193,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Logic DSL Applications
 
-*   [What is Answer Set Programming?](https://cdn.aaai.org/AAAI/2008/AAAI08-270.pdf) - ***AAAI'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=3691841207891991771)]. Lifschitz's tutorial on Answer Set Programming.
 *   [A Logic Programming Language for Computational Nucleic Acid Devices](https://pubs.acs.org/doi/10.1021/acssynbio.8b00229) - ***ACS Synthetic Biology***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3336951672389047784)]. This paper presents a logic programming language that allows a broad range of computational nucleic acid systems to be designed and analyzed. The language extends standard logic programming with a novel equational theory to express nucleic acid molecular motifs. It automatically identifies matching motifs present in the full system, in order to apply a specified transformation expressed as a logical rule.
 
 ### Methodologies for Experiments / Virtual Reality

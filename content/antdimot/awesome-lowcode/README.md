@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Dec 05, 2024](/content/2024/12/05/README.md)
+
+### Marketing
+
+*   [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
+
 ## [Nov 26, 2024](/content/2024/11/26/README.md)
 
 ### Visual programming
@@ -55,7 +61,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐34k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐35k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 

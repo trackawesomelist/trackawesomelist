@@ -6,6 +6,13 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Dec 05, 2024](/content/2024/12/05/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [baddcafe (⭐1)](https://github.com/dimgatz98/Baddcafe_zsh_theme) - Provides dynamic system information. Includes decorators for `git` status, cpu usage, memory usage, battery level, local and global IP addresses, current time, current directory and the exit status of the last command run.
+*   [moonbloom (⭐0)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
+
 ## [Dec 01, 2024](/content/2024/12/01/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -621,7 +628,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [bahman (⭐1)](https://github.com/bahmanworld/bahman-zsh-theme) - Requires Nerd Font. Has `git` status decorator.
-*   [tho (⭐0)](https://github.com/codingtho/tho-zsh-theme) - Includes decorators for `git` status & current directory.
 
 ## [Mar 18, 2024](/content/2024/03/18/README.md)
 
@@ -2118,7 +2124,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [mcfly (⭐6.9k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐7k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 
 ## [Aug 23, 2022](/content/2022/08/23/README.md)
 
@@ -3274,7 +3280,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [abbr-path (⭐12)](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
 *   [abbrev-alias (⭐119)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
 *   [actiona (⭐3)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐527)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
-*   [alacritty (⭐11)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐56k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
+*   [alacritty (⭐11)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐57k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alias-tips (⭐786)](https://github.com/djui/alias-tips) - An [oh-my-zsh](https://ohmyz.sh/) plugin to help remembering those aliases you defined once.
 *   [allergen (⭐3)](https://github.com/stanislas/allergen) - A collection of custom ZSH plugins to use with Antigen.
 *   [almostontop (⭐92)](https://github.com/Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by the [alwaysontop (⭐201)](https://github.com/swirepe/alwaysontop) plugin for `bash`.
@@ -4145,7 +4151,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [hornix (⭐1)](https://github.com/fusion809/zsh-theme) - Displays time & date, OS (including distro if on Linux), directory and whether running as root.
 *   [horse-sh (⭐0)](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
 *   [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
-*   [hug (⭐3)](https://github.com/xxninjabunnyxx/hug-zsh) - When you're working and need a hug. Includes `git` status.
 *   [humbled (⭐1)](https://github.com/saravanabalagi/zsh-theme-humbled) - A clean and humble theme with left-aligned `condaenv`, `virtualenv` and `git` status. Requires [condaenv (⭐1)](https://github.com/saravanabalagi/zsh-plugin-condaenv) plugin.
 *   [hyper (⭐42)](https://github.com/willmendesneto/hyper-oh-my-zsh) - Designed to work with the hyper terminal theme, includes `git` status decorations.
 *   [hyperzsh (⭐530)](https://github.com/tylerreckart/hyperzsh) - Gives you a comprehensive overview of the branch you're working on and the status of your repository without cluttering your terminal.

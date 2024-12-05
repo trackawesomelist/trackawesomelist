@@ -275,7 +275,7 @@ The PMS framework also allows you to use the same framework in different shells.
 
 **Pumice** is a lightweight plugin manager for ZSH.
 
-### [ryzshrc (⭐1)](https://github.com/ryzshrc/ryzshrc)
+### [ryzshrc (⭐2)](https://github.com/ryzshrc/ryzshrc)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ryzshrc/ryzshrc)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ryzshrc/ryzshrc)
@@ -772,7 +772,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
 *   [ai-commands (⭐27)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 *   [airpods-battery (⭐5)](https://github.com/louis-thevenet/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
-*   [alacritty (⭐11)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐56k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
+*   [alacritty (⭐11)](https://github.com/casonadams/alacritty-shell) - Control [alacritty (⭐57k)](https://github.com/alacritty/alacritty/wiki/Color-schemes) color schemes.
 *   [alehouse (⭐16)](https://github.com/sticklerm3/alehouse) - Contains short aliases for [brew](https://brew.sh) commands, inspired by `betterbrew`.
 *   [alias-finder (⭐16)](https://github.com/akash329d/zsh-alias-finder) - Displays an alias when you use a command you have aliased previously. Helpful for remembering aliases you have defined in the past. Written as a pure ZSH script for speed.
 *   [alias-maker (⭐7)](https://github.com/MefitHp/alias-maker) - Allows you to easily create and manage aliases from the command line.
@@ -1841,7 +1841,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐76)](https://github.com/lets-cli/lets) cli task runner.
 *   [ls-go (⭐0)](https://github.com/MohamedElashri/ls-go-zsh) - Adds some useful aliases for [ls-go (⭐218)](https://github.com/acarl005/ls-go).
 *   [mac (⭐186)](https://github.com/scriptingosx/mac-zsh-completions) - Completions files for macOS specific commands and third party tools.
-*   [mcfly (⭐6.9k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
+*   [mcfly (⭐7k)](https://github.com/cantino/mcfly) - Replaces your default ctrl-r shell history search with an intelligent search engine that takes into account your working directory and the context of recently executed commands. McFly's suggestions are prioritized in real time with a small neural network.
 *   [mill (⭐2)](https://github.com/carlosedp/mill-zsh-completions) - Tab completions for Scala's [Mill](http://mill-build.com/) build tool.
 *   [miniconda (⭐1)](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 *   [misc-completions (⭐0)](https://github.com/syohex/zsh-misc-completions) - Adds completions for more unix and perl commands.
@@ -2008,6 +2008,7 @@ If you're using [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen), you c
 *   [avoleo (⭐0)](https://github.com/flameleo11/avoleo-zsh-theme) - Features a date and time prompt for each command, as well as a command number in history. In addition, it uses special symbols '⠾' and '⡶' to display `git` information if applicable in the current path. It also supports custom colors based on the Gnome-Terminal default color palette.
 *   [aws (⭐1)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
 *   [backbone (⭐2)](https://github.com/42LM/backbone-zsh-prompt) - A bare minimum single file prompt, fast as a roadrunner MEEP! MEEP. Includes `git` status and current directory decorations.
+*   [baddcafe (⭐1)](https://github.com/dimgatz98/Baddcafe_zsh_theme) - Provides dynamic system information. Includes decorators for `git` status, cpu usage, memory usage, battery level, local and global IP addresses, current time, current directory and the exit status of the last command run.
 *   [bahman (⭐1)](https://github.com/bahmanworld/bahman-zsh-theme) - Requires Nerd Font. Has `git` status decorator.
 *   [banana (⭐6)](https://github.com/sorcererxw/banana-zsh-theme) - Includes `git` status decorations and current directory.
 *   [bandit (⭐3)](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
@@ -2325,7 +2326,6 @@ If you're using [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen), you c
 *   [horse-sh (⭐0)](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
 *   [htb (⭐1)](https://github.com/ibyf0r3ns1cs/zsh-htb-theme) - Inspired by the pwnbox on a HackTheBox machine. Includes decorators for user\@host, IP address and the current directory.
 *   [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
-*   [hug (⭐3)](https://github.com/xxninjabunnyxx/hug-zsh) - When you're working and need a hug. Includes `git` status.
 *   [humbled (⭐1)](https://github.com/saravanabalagi/zsh-theme-humbled) - A clean and humble theme with left-aligned `condaenv`, `virtualenv` and `git` status. Requires [condaenv (⭐1)](https://github.com/saravanabalagi/zsh-plugin-condaenv) plugin.
 *   [hydrogen (⭐0)](https://github.com/xylous/hydrogen) - A simple multiline ZSH theme. It shows username, hostname, current directory and `git` status decorations.
 *   [hyper (⭐42)](https://github.com/willmendesneto/hyper-oh-my-zsh) - Designed to work with the hyper terminal theme, includes `git` status decorations.
@@ -2508,6 +2508,7 @@ If you're using [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen), you c
 *   [molokai-powerline (⭐10)](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
 *   [momoyo (⭐1)](https://github.com/momoyo-droid/momoyo-zsh-theme) - Reminiscent of powerline. Includes decorations for `git` status, username, and working directory.
 *   [monsi (⭐0)](https://github.com/rafa-wine/monsi_oh-my-zsh_theme) - Includes `git` status, last command exit status and current directory decorators.
+*   [moonbloom (⭐0)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
 *   [moon-lite (⭐0)](https://github.com/anotherlusitano/moon-light) - Minimalist. Includes decorators for `git` status, current directory and the exit status of the last command run.
 *   [moonline (⭐16)](https://github.com/kagamilove0707/moonline.zsh) - Minimal but easily extensible prompt.
 *   [moux (⭐0)](https://github.com/gagbo/moux) - Works well with a dark terminal background, includes `git` decorations in `RPROMPT`.
@@ -2847,7 +2848,6 @@ If you're using [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen), you c
 *   [thetraveler (⭐2)](https://github.com/bassopenguin/thetraveler) - Inspired by theunraveler, uses symbols to display `git` status.
 *   [thm (⭐3)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 *   [thnikk (⭐1)](https://github.com/thnikk/zsh-theme-thnikk) - A minimal version of the [spaceship (⭐20k)](https://github.com/denysdovhan/spaceship-prompt) theme.
-*   [tho (⭐0)](https://github.com/codingtho/tho-zsh-theme) - Includes decorators for `git` status & current directory.
 *   [thygod (⭐0)](https://github.com/Thy-GoD/thy-god-zsh-theme) - Based off [gnzh (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) and [bira (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes a `git` status decorator and changes prompt to a red cross when a command fails.
 *   [thyme (chenhao-ye) (⭐22)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.8k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 *   [thyme (kawamurakazushi) (⭐1)](https://github.com/kawamurakazushi/thyme) - Simple theme with `git` status decorations.

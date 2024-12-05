@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 05, 2024](/content/2024/12/05/README.md)
+
+### Domain Specific Language / Logic DSL Applications
+
+*   [What is Answer Set Programming?](https://link.springer.com/content/pdf/10.1007/978-3-030-24658-7.pdf) - ***Springer***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=3691841207891991771)]. \[[Tutorial on AAAI](https://dl.acm.org/doi/abs/10.5555/1620270.1620340)]. Answer set programming (ASP) is a form of declarative programming oriented towards difficult search problems. As an outgrowth of research on the use of nonmonotonic reasoning in knowledge representation, it is particularly useful in knowledge-intensive applications. ASP programs consist of rules that look like Prolog rules, but the computational mechanisms used in ASP are different: they are based on the ideas that have led to the creation of fast satisfiability solvers for propositional logic.
+
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
@@ -249,7 +255,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Logic DSL Applications
 
-*   [What is Answer Set Programming?](https://cdn.aaai.org/AAAI/2008/AAAI08-270.pdf) - ***AAAI'08***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=3691841207891991771)]. Lifschitz's tutorial on Answer Set Programming.
 *   [A Logic Programming Language for Computational Nucleic Acid Devices](https://pubs.acs.org/doi/10.1021/acssynbio.8b00229) - ***ACS Synthetic Biology***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=3336951672389047784)]. This paper presents a logic programming language that allows a broad range of computational nucleic acid systems to be designed and analyzed. The language extends standard logic programming with a novel equational theory to express nucleic acid molecular motifs. It automatically identifies matching motifs present in the full system, in order to apply a specified transformation expressed as a logical rule.
 
 ### Methodologies for Experiments / Virtual Reality
