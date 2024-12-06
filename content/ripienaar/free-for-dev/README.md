@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 06, 2024](/content/2024/12/06/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Screen Sharing via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.
+
 ## [Dec 03, 2024](/content/2024/12/03/README.md)
 
 ### APIs, Data, and ML
