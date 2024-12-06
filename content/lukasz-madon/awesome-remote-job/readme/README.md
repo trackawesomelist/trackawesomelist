@@ -78,46 +78,45 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 27. [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
 28. [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other)
 29. [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely)
-30. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
-31. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
-32. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
-33. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
-34. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
-35. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/awe2ycs/managing-a-geographically-dispersed-team)
-36. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://buffer.com/resources/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
-37. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
-38. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business/)
-39. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
-40. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
-41. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
-42. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
-43. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
-44. [Six Strategies for Managing Telecommuters](https://www.cio.com/article/280749/leadership-management-six-strategies-for-managing-telecommuters.html)
-45. [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
-46. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company)
-47. [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
-48. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
-49. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://blog.groovehq.com/being-a-remote-team)
-50. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
-51. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
-52. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
-53. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
-54. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
-55. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
-56. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/growing-a-business/who-needs-an-office-how-to-go-100-percent-remote/242708)
-57. [Why I work remotely (hint: it has nothing to do with productivity)](https://signalvnoise.com/svn3/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
-58. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/300381/telecommuting-why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
-59. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
-60. [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
-61. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/)
-62. [Working Remotely: A Complete Guide to Turn You Into a Pro](https://www.paymoapp.com/blog/working-remotely/)
-63. [Working Remotely for Extroverts](https://stephyiu.com/2014/12/13/working-remotely-for-extroverts/)
-64. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
-65. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
-66. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
-67. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
-68. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
-69. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
+30. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
+31. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
+32. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
+33. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
+34. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/awe2ycs/managing-a-geographically-dispersed-team)
+35. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://buffer.com/resources/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
+36. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd)
+37. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business/)
+38. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
+39. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
+40. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
+41. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
+42. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
+43. [Six Strategies for Managing Telecommuters](https://www.cio.com/article/280749/leadership-management-six-strategies-for-managing-telecommuters.html)
+44. [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
+45. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company)
+46. [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
+47. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
+48. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://blog.groovehq.com/being-a-remote-team)
+49. [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
+50. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
+51. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
+52. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
+53. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
+54. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
+55. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/growing-a-business/who-needs-an-office-how-to-go-100-percent-remote/242708)
+56. [Why I work remotely (hint: it has nothing to do with productivity)](https://signalvnoise.com/svn3/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
+57. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](https://www.cio.com/article/300381/telecommuting-why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
+58. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
+59. [Why Small Businesses Are Building Remote Workforces](https://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
+60. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/01/why-we-still-believe-in-working-remotely/)
+61. [Working Remotely: A Complete Guide to Turn You Into a Pro](https://www.paymoapp.com/blog/working-remotely/)
+62. [Working Remotely for Extroverts](https://stephyiu.com/2014/12/13/working-remotely-for-extroverts/)
+63. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
+64. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
+65. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
+66. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
+67. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
+68. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
 ## Videos
 
@@ -177,7 +176,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 31. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
 32. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
 33. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-34. [remote-es/remotes (⭐2.2k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+34. [remote-es/remotes (⭐2.3k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 35. [thatmlopsguy/remote-pt (⭐1)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
 36. [remote-jobs (⭐30k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 37. [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
@@ -360,7 +359,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 70. [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/) - Search engine.
 71. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
 72. [Elastic](https://www.elastic.co/) - Open source search & analytics
-73. [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
+73. [Eloquentix](https://www.eloquentix.com/) - All remote company across 3 continents and 9 timezones.
 74. [Envato](https://www.envato.com/about/careers/) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
 75. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
 76. [Etsy](https://careers.etsy.com) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
@@ -370,7 +369,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 80. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
 81. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
 82. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
-83. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
+83. [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
 84. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
 85. [TestGrid](https://testgrid.io/) - TestGrid is a leading provider of end-to-end automation cloud and on-premise testing solutions. With a focus on simplifying the testing process, TestGrid's innovative AI-powered technology allows organizations to streamline their end to end testing process. Hiring developers, sales & marketing folks worldwide.
 86. [HeadSpin](https://www.headspin.io/) - world’s first Digital Experience AI Platform that combines cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance & quality of experience analytics for mobile, web, audio, and video.
@@ -428,7 +427,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 138.    [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
 139.    [Merico](https://www.devinsight.ai/) - Code deep analysis engine.
 140.    [Mixmax](https://www.mixmax.com/) - Email with superpowers.
-141.    [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
+141.    [Modern Tribe](https://tri.be/careers/) - A digital agency with a modern twist. All freelancers. All experts.
 142.    [MODLR](https://modlr.co/au/home) - MODLR is business modelling and collaborative planning tool for connected financial planning process
 143.    [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
 144.    [Mode Analytic](https://www.thoughtspot.com/careers) - BI.
@@ -475,7 +474,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 185.    [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
 186.    [Shiphero](https://shiphero.breezy.hr/?\&remote=remote#positions) - ShipHero builds a fully featured Warehouse Management System. 100% remote.
 187.    [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-188.    [Signal](https://signal.org/workworkwork/) - These people make the fantastic [Signal app](https://signal.org/). US Only.
+188.    [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
 189.    [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 190.    [SoftwareMill](https://softwaremill.com/join-us/)
 191.    [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
@@ -513,7 +512,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 223.    [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
 224.    [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
 225.    [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-226.    [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+226.    [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
 227.    [Wheel](https://www.wheel.com/careers) - healthcare startup.
 228.    [Wikimedia](https://wikimediafoundation.org/about/jobs/)
 229.    [You Need a Budget](https://www.ynab.com/careers) - Bank syncing and goals and debt management.
@@ -559,7 +558,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 4.  [Gather](https://www.gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 5.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 6.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-7.  [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+7.  [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 8.  [Mumble](https://www.mumble.info/documentation/) Mumble is an open source voice chat software
 9.  [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
 10. [PukkaTeam](https://pukkateam.com/) - Real team presence through regular automated selfies and one-click video calling
@@ -610,7 +609,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
 
-1.  [awesome-digital-nomads (⭐900)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+1.  [awesome-digital-nomads (⭐908)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 2.  [Established Remote (⭐7.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 3.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 4.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.

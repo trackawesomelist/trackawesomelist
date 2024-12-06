@@ -1,18 +1,32 @@
 # Awesome List Updates on Dec 02 - Dec 08, 2024
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Articles & Posts
+
+*   [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd)
+*   [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
+
+### Companies with "remote DNA"
+
+*   [Eloquentix](https://www.eloquentix.com/) - All remote company across 3 continents and 9 timezones.
+*   [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
+*   [Modern Tribe](https://tri.be/careers/) - A digital agency with a modern twist. All freelancers. All experts.
+*   [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+
+## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
 *   [friTap (⭐292)](https://github.com/fkie-cad/friTap) - Intercept SSL/TLS connections with frida; Allows TLS key extraction and decryption of TLS payload as PCAP in real time.
 
-## [2. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [3. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Lean
 
@@ -22,38 +36,42 @@
 
 *   [NixOS-WSL (⭐1.9k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 
-## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Marketing
 
 *   [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [awsp (⭐0)](https://github.com/suonto/awsp-zsh-plugin) - AWS profile management for ZSH. Inspired by oh-my-zsh's [aws (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/aws/aws.plugin.zsh) plugin.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [baddcafe (⭐1)](https://github.com/dimgatz98/Baddcafe_zsh_theme) - Provides dynamic system information. Includes decorators for `git` status, cpu usage, memory usage, battery level, local and global IP addresses, current time, current directory and the exit status of the last command run.
 *   [moonbloom (⭐0)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [6. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-validator (⭐8)](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
 
-## [6. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
 *   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
 
-## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Community / Mesh tools
 
 *   [Gabriel Peyré on Bluesky](https://bsky.app/profile/gabrielpeyre.bsky.social) - One post a day on computational mathematics.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -66,6 +84,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [flowbite-vue (⭐786)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ### Components & Libraries / UI Components
 
@@ -88,7 +107,7 @@
 
 *   [Create Vue (⭐3.8k)](https://github.com/vuejs/create-vue)
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -124,13 +143,13 @@
 
 *   [NDJSON (⭐687) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [kryptokrona/kryptokrona-kotlin-sdk (⭐51)](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -151,13 +170,13 @@
 *   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 *   [Cursor](https://www.cursor.com/): The AI Code Editor
 
-## [12. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [13. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Rust
 
 *   [TensorZero (⭐793)](https://github.com/tensorzero/tensorzero) *(label: good-first-issue)* <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 
-## [13. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [14. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Others
 
@@ -168,7 +187,7 @@
 *   [Book of Shaders (⭐6.1k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 *   [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 
@@ -178,19 +197,19 @@
 
 *   [Vectorscan (⭐514)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
 
-## [15. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [16. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [TailoredCV.ai](https://tailoredcv.ai/) \[DISCOUNT] - Tailor your CVs to match job requirements with AI-powered assistance. Students get a 20% discount on TailoredCV subscriptions using the coupon code `STUDENTS20` at checkout. Start showcasing your skills and experiences effectively today!
 
-## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [17. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Resources / Ironsworn
 
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
@@ -206,7 +225,7 @@
 
 *   [Official Content Management Tutorial](https://book.cakephp.org/5/en/tutorials-and-examples/cms/installation.html)
 
-## [18. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [19. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Linux
 
@@ -216,7 +235,7 @@
 
 *   [Diamorphine (⭐1.9k)](https://github.com/m0nad/Diamorphine) -  A loadable kernel module (LKM) rootkit for Linux Kernels (x86/x86\_64 and ARM64).
 
-## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -226,7 +245,7 @@
 
 *   [0xlane/pe-sign (⭐30)](https://github.com/0xlane/pe-sign) [\[pe-sign\]](https://crates.io/crates/pe-sign) - A cross-platform rust no-std library for verifying and extracting signature information from PE files. [![crates.io](https://img.shields.io/crates/v/pe-sign)](https://crates.io/crates/pe-sign) [![build](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml/badge.svg)](https://github.com/0xlane/pe-sign/actions/workflows/rust.yml)
 
-## [20. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [21. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -889,7 +908,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |      10+ | 45-60m |
 
-## [21. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [22. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### Table of contents
 
@@ -931,7 +950,7 @@
     *   [LLM Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities)
 *   **Section 9** 🌍: [LLM Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-landscape)
     *   [LLM Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023)
-    *   [Open-Source LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#open-source-large-language-models)
+    *   [LLM Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection)
     *   [Domain-Specific LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#llm-for-domain-specific): e.g., Software development
     *   [Multimodal LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#mllm-multimodal-large-language-model)
     *   [Generative AI Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#generative-ai-landscape)
@@ -942,7 +961,7 @@
 *   **Section 11** 🧰: [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#general-ai-tools-and-extensions)
     *   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
 
-## [22. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [23. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -950,7 +969,7 @@
 *   [IPFS Share (⭐151)](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 *   [TeaTime (⭐435)](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -965,6 +984,10 @@
 
 *   [Adobe XD](http://www.adobe.com/products/experience-design.html) - Tool for designing and prototyping websites and mobile apps.
 
+### Audio and Video Tools / File Sharing
+
+*   [Popcorn Time](https://popcorn-time.site/) - Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/popcorn-official/popcorn-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Clipboard Tools
 
 *   [PasteBar (⭐1.1k)](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/PasteBar/PasteBarApp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -973,6 +996,7 @@
 
 *   [rem (⭐2.3k)](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jasonjmcghee/rem) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Rewind](https://www.rewind.ai/) - Rewind is an application designed for macOS that records and indexes all user activities on the Mac, including screen content and audio. Users can rewind and search past activities, essentially adding a "rewind button" to the Mac.
+*   [Upscayl (⭐32k)](https://github.com/upscayl/upscayl) - Free and open-source AI image upscaling tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/upscayl/upscayl) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
@@ -982,26 +1006,26 @@
 
 *   [MagicQuit](https://magicquit.com/) - Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/BigBerny/magicquit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [25. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Communication
 
 *   [Intercom Manager (⭐4)](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend (⭐2)](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
 *   [DYI intercom (⭐44)](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
 
-## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [daltongd/yanklock.nvim (⭐7)](https://github.com/daltongd/yanklock.nvim) - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
 
-## [26. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [27. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Orchestrating Firebase and AI: Genkit architecture example](https://docs.google.com/presentation/d/10F2hjzJhdInSuhDQ8G_B2raGz79mzTRIcWU_59Zh5Y8/edit?usp=sharing) - Presented in a lightning talk at GDG DevFest Tokyo 2024.
 
-## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
 
@@ -1013,7 +1037,7 @@
 *   [Top-Down Synthesis for Library Learning](https://dl.acm.org/doi/abs/10.1145/3571234) - ***POPL'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=12324277007659029766)]. This paper introduces corpus-guided top-down synthesis as a mechanism for synthesizing library functions that capture common functionality from a corpus of programs in a domain specific language (DSL). The algorithm builds abstractions directly from initial DSL primitives, using syntactic pattern matching of intermediate abstractions to intelligently prune the search space and guide the algorithm towards abstractions that maximally capture shared structures in the corpus.
 *   [PhotoScout: Synthesis-Powered Multi-Modal Image Search](https://dl.acm.org/doi/full/10.1145/3613904.3642319) - ***ACM SIGCHI'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=6522231014055730719)]. This paper explores a new multi-modal image search approach that allows users to conveniently specify and perform semantic image search tasks. With the tool, PhotoScout, the user interactively provides natural language descriptions, positive and negative examples, and object tags to specify their search tasks. Under the hood, PhotoScout is powered by a program synthesis engine that generates visual queries in a domain-specific language and executes the synthesized program to retrieve the desired images.
 
-## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -1025,13 +1049,13 @@
 
 *   [Keycloak AuthServices .NET](https://nikiforovall.github.io/keycloak-authorization-services-dotnet/)
 
-## [29. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Dubbing / Web
 
 *   [jordimas/open-dubbing (⭐69)](https://github.com/jordimas/open-dubbing) - Open dubbing is an AI dubbing system uses machine learning models to automatically translate and synchronize audio dialogue into different languages.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1041,7 +1065,7 @@
 
 *   [Orama Cloud](https://orama.com/pricing) — Free 3 indexes, 100K docs/index, unlimited full-text/vector/hybrid searches, 60 days analytics
 
-## [31. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [32. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Plotter Control
 
@@ -1055,11 +1079,19 @@
 *   [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
 *   [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 
-## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-katex (⭐3)](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX (⭐18k)](https://github.com/KaTeX/KaTeX).
+
+### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-animated-counter (⭐6)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
+
+### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [frxjs-Ngx-Timeline (⭐35)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1074,20 +1106,24 @@
 
 *   [ngx-state-machine (⭐2)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 
-## [33. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
+
+## [34. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Videos / Monograph
 
 *   [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. — added by Erik himself!
 *   [Demaine/Devadas/Lynch. Design and Analysis of algorithms. MIT](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - A second course on algorithms and data structures. — added by Erik himself!
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [35. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Monitoring
 
 *   [Keywords AI](https://www.keywordsai.co/) - The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.
 
-## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Professional Development
 

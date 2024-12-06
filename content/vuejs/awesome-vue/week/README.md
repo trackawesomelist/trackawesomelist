@@ -19,6 +19,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [flowbite-vue (⭐786)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ### Components & Libraries / UI Components
 

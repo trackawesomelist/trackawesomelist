@@ -910,6 +910,7 @@
 *   [Stellar UI (⭐38)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [Shadcn UI (⭐5.4k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐76k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐3.8k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and [Tailwind CSS (⭐84k)](https://github.com/tailwindlabs/tailwindcss)).
+*   [flowbite-vue (⭐786)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 #### Mobile
 

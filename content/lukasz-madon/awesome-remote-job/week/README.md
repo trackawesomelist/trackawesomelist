@@ -6,6 +6,20 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / Weekly / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
+
+### Articles & Posts
+
+*   [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd)
+*   [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
+
+### Companies with "remote DNA"
+
+*   [Eloquentix](https://www.eloquentix.com/) - All remote company across 3 continents and 9 timezones.
+*   [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
+*   [Modern Tribe](https://tri.be/careers/) - A digital agency with a modern twist. All freelancers. All experts.
+*   [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
 ### Articles & Posts
@@ -187,7 +201,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Sangoma](https://sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
 *   [ServiceNow](https://www.jobvite.com/support/job-seeker-support/?invalid=1) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
 *   [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-*   [Signal](https://signal.org/workworkwork/) - These people make the fantastic [Signal app](https://signal.org/). US Only.
+*   [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
 *   [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
 *   [StackExchange](https://stackoverflow.co/company/work-here/)
 *   [SuperOrbital](https://superorbital.io/) - Kubernetes engineering and training.
@@ -382,7 +396,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
 *   [MailerLite](https://www.mailerlite.com/) - Email marketing tool with a remote-first team that's scattered all over the world. Twice a year, they go on workation to places like Bali, Panama and Miami.
 *   [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
-*   [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
 *   [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
 *   [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
 *   [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
@@ -423,7 +436,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
 *   [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
 *   [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-*   [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
 *   [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
@@ -594,7 +606,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
 *   [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
 *   [DNSimple](https://dnsimple.com/) - Small 100% remote and globally distributed team working to make domain management an afterthought.
-*   [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
 
 ### Q&A
 
@@ -655,10 +666,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
 
-### Companies with "remote DNA"
-
-*   [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
-
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
 ### Job boards
@@ -693,7 +700,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐2.2k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐2.3k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -789,7 +796,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 
@@ -835,9 +842,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Articles & Posts
 
 *   [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
-*   [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
 *   [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
-*   [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
 *   [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
 *   [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
 *   [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
@@ -995,10 +1000,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
-### Articles & Posts
-
-*   [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
-
 ### Companies with "remote DNA"
 
 *   [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
@@ -1022,7 +1023,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐900)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐908)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 

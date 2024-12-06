@@ -676,7 +676,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-rsocket (⭐2)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 *   [ngx-pendo (⭐16)](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 *   [ngx-surreal (⭐1)](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
-*   [ngx-filesize (⭐29)](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
+*   [ngx-filesize (⭐30)](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 *   [ngx-intercom-messenger (⭐1)](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
 *   [ngx-katex (⭐3)](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX (⭐18k)](https://github.com/KaTeX/KaTeX).
 
@@ -923,6 +923,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-starry-sky (⭐0)](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 *   [ngx-connection-beam (⭐4)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 *   [ngx-countUp (⭐138)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+*   [ngx-animated-counter (⭐6)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 
 #### Breadcrumbs
 
@@ -1046,6 +1047,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [dhutaryan/ngx-mat-timepicker (⭐76)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 *   [ngx-timeline (⭐0)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 *   [ngx-prayertimes-api (⭐2)](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
+*   [frxjs-Ngx-Timeline (⭐35)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 #### DOM
 
@@ -1534,6 +1536,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 *   [po-angular (⭐919)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 *   [pastanaga-angular (⭐10)](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
+*   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 
 ##### Material Based
 
@@ -1567,7 +1570,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [David UI Angular (⭐70)](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 *   [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 *   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐4.9k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-*   [ngxtw (⭐1)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+*   [ngxtw (⭐3)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 *   [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 *   [Rectangle UI (⭐3)](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 *   [Mamba UI (⭐1.1k)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.

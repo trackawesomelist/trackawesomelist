@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Dec 06, 2024](/content/2024/12/06/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [flowbite-vue (⭐786)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
 ### Resources / Community
