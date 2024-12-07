@@ -314,6 +314,8 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
     *   [dust (⭐232)](https://github.com/kelpsyberry/dust) - A Nintendo DS emulator
 *   PlayStation 4
     *   [Obliteration (⭐646)](https://github.com/obhq/obliteration) - Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
+*   Shockwave Player
+    *   [DirPlayer (⭐53)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
 *   ZX Spectrum
     *   [rustzx/rustzx (⭐205)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
@@ -1101,7 +1103,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [dropbox/rust-brotli (⭐820)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
     *   [ende76/brotli-rs (⭐62)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
 *   bzip2
-    *   [alexcrichton/bzip2-rs (⭐98)](https://github.com/alexcrichton/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
+    *   [trifectatechfoundation/bzip2-rs (⭐98)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 *   gzip
     *   [zopfli (⭐38)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 *   gzp
@@ -1777,7 +1779,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [PistonDevelopers/dyon (⭐1.8k)](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 *   [rhaiscript/rhai (⭐3.9k)](https://github.com/rhaiscript/rhai) - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
 *   [rune-rs/rune (⭐1.8k)](https://github.com/rune-rs/rune) - An embeddable dynamic programming language
-*   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
+*   [trynova/nova (⭐959)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ### Simulation
 

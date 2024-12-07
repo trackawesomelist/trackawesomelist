@@ -6,6 +6,18 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 07, 2024](/content/2024/12/07/README.md)
+
+### Applications / Emulators
+
+*   Shockwave Player
+    *   [DirPlayer (⭐53)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
+
+### Libraries / Compression
+
+*   bzip2
+    *   [trifectatechfoundation/bzip2-rs (⭐98)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
+
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
 ### Libraries / Parsing
@@ -46,7 +58,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Scripting
 
-*   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
+*   [trynova/nova (⭐959)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ## [Nov 15, 2024](/content/2024/11/15/README.md)
 
@@ -3444,8 +3456,6 @@ A curated list of Rust code and resources.
 
 ### Libraries / Compression
 
-*   bzip2
-    *   [alexcrichton/bzip2-rs (⭐98)](https://github.com/alexcrichton/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 *   miniz
     *   [rust-lang/flate2-rs (⭐929)](https://github.com/rust-lang/flate2-rs) - [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
 *   tar

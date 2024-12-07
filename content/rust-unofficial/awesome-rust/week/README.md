@@ -8,9 +8,19 @@ A curated list of Rust code and resources.
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
+### Applications / Emulators
+
+*   Shockwave Player
+    *   [DirPlayer (⭐53)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
+
 ### Applications / Text processing
 
 *   [dathere/qsv (⭐2.5k)](https://github.com/dathere/qsv) \[[qsv](https://crates.io/crates/qsv)] - A high performance CSV data-wrangling toolkit. Forked from xsv, with 34+ additional commands & more. [![Linux build status](https://github.com/dathere/qsv/actions/workflows/rust.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust.yml) [![Windows build status](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-windows.yml) [![macOS build status](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml/badge.svg)](https://github.com/dathere/qsv/actions/workflows/rust-macos.yml)
+
+### Libraries / Compression
+
+*   bzip2
+    *   [trifectatechfoundation/bzip2-rs (⭐98)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 
 ### Libraries / Parsing
 
@@ -42,7 +52,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Scripting
 
-*   [trynova/nova (⭐745)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
+*   [trynova/nova (⭐959)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -3122,8 +3132,6 @@ A curated list of Rust code and resources.
 
 ### Libraries / Compression
 
-*   bzip2
-    *   [alexcrichton/bzip2-rs (⭐98)](https://github.com/alexcrichton/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 *   miniz
     *   [rust-lang/flate2-rs (⭐929)](https://github.com/rust-lang/flate2-rs) - [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
 *   tar
