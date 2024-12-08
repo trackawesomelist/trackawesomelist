@@ -262,7 +262,7 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [cookiestxt (⭐17)](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
 *   [go-guardian (⭐562)](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 *   [go-jose (⭐338)](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
-*   [goiabada (⭐134)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
+*   [goiabada (⭐136)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 *   [gologin (⭐1.8k)](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
 *   [gorbac (⭐1.6k)](https://github.com/mikespook/gorbac) - provides a lightweight role-based access control (RBAC) implementation in Golang.
 *   [gosession (⭐252)](https://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
@@ -304,7 +304,7 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [gosemble (⭐12)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 *   [gossamer (⭐433)](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
 *   [kubo (⭐16k)](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
-*   [lnd (⭐7.7k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
+*   [lnd (⭐7.7k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lightning Network node.
 *   [solana-go (⭐948)](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 *   [tendermint (⭐5.7k)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
@@ -1203,7 +1203,6 @@ additional ordered map implementations.
 *Libraries for working with forms.*
 
 *   [bind (⭐31)](https://github.com/robfig/bind) - Bind form data to any Go values.
-*   [binding (⭐794)](https://github.com/mholt/binding) - Binds form and JSON data from net/http Request to struct.
 *   [checker (⭐10)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
 *   [conform (⭐323)](https://github.com/leebenson/conform) - Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags.
 *   [form (⭐778)](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
@@ -1675,7 +1674,6 @@ additional ordered map implementations.
 *   [hugot (⭐293)](https://github.com/knights-analytics/hugot) - Huggingface transformer pipelines for golang with onnxruntime.
 *   [libsvm (⭐73)](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.
 *   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
-*   [neat (⭐72)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
 *   [neural-go (⭐70)](https://github.com/schuyler/neural-go) - Multilayer perceptron network implemented in Go, with training via backpropagation.
 *   [ocrserver (⭐704)](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker and Heroku.
 *   [onnx-go (⭐722)](https://github.com/owulveryck/onnx-go) - Go Interface to Open Neural Network Exchange (ONNX).
@@ -1823,6 +1821,7 @@ additional ordered map implementations.
 *   [golang-templates/seed (⭐483)](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 *   [goxygen (⭐3.5k)](https://github.com/shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 *   [insidieux/inizio (⭐18)](https://github.com/insidieux/inizio) - Golang project layout generator with plugins.
+*   [kickstart.go (⭐72)](https://github.com/raeperd/kickstart.go) - Minimalistic single-file Go HTTP server template without third-party dependencies.
 *   [modern-go-application (⭐1.9k)](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
 *   [nunu (⭐2k)](https://github.com/go-nunu/nunu) - Nunu is a scaffolding tool for building Go applications.
 *   [pagoda (⭐2.2k)](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit built in Go.
@@ -1865,7 +1864,6 @@ additional ordered map implementations.
 *   [common (⭐4)](https://github.com/kubeservice-stack/common) - A library for server framework.
 *   [conv (⭐384)](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 *   [datacounter (⭐49)](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
-*   [faker (⭐10)](https://github.com/neotoolkit/faker) - Fake data generator.
 *   [faker (⭐92)](https://github.com/pioz/faker) - Random fake data and struct generator for Go.
 *   [ffmt (⭐306)](https://github.com/go-ffmt/ffmt) - Beautify data display for Humans.
 *   [gatus (⭐6.6k)](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
@@ -2156,7 +2154,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *   [glide (⭐8.1k)](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
 *   [godep (⭐5.5k)](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
-*   [gom (⭐1.4k)](https://github.com/mattn/gom) - Go Manager - bundle for go.
 *   [goop (⭐777)](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
 *   [gop (⭐49)](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH.
 *   [gopm (⭐2.5k)](https://github.com/gpmgo/gopm) - Go Package Manager.
@@ -2838,7 +2835,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [godaemon (⭐492)](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 *   [godropbox (⭐4.2k)](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
 *   [gofn (⭐51)](https://github.com/tiendc/gofn) - High performance utility functions written using Generics for Go 1.18+.
-*   [gohper (⭐254)](https://github.com/cosiner/gohper) - Various tools/modules help for development.
 *   [golarm (⭐52)](https://github.com/msempere/golarm) - Fire alarms with system events.
 *   [golog (⭐61)](https://github.com/mlimaloureiro/golog) - Easy and lightweight CLI tool to time track your tasks.
 *   [gopencils (⭐451)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
@@ -2960,6 +2956,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [uuid (⭐18)](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 *   [uuid (⭐1.6k)](https://github.com/gofrs/uuid) - Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid.
 *   [uuid (⭐5.4k)](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+*   [uuidcheck (⭐2)](https://github.com/ashwingopalsamy/uuidcheck) - A tiny, dependency-free Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into UTC timestamps.
 *   [wuid (⭐533)](https://github.com/edwingeng/wuid) - An extremely fast globally unique number generator.
 *   [xid (⭐4k)](https://github.com/rs/xid) - Xid is a globally unique id generator library, ready to be safely used directly in your server code.
 
@@ -3236,7 +3233,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - This extension adds benchmark profiling support for the Go language to VS Code.
 *   [GoSublime (⭐3.4k)](https://github.com/DisposaBoy/GoSublime) - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
 *   [gounit-vim (⭐24)](https://github.com/hexdigest/gounit-vim) - Vim plugin for generating Go tests based on the function's or method's signature.
-*   [theia-go-extension (⭐15)](https://github.com/theia-ide/theia-go-extension) - Go language support for the Theia IDE.
 *   [vim-compiler-go (⭐89)](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
 *   [vim-go (⭐16k)](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 *   [vscode-go (⭐3.9k)](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
@@ -3540,7 +3536,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 *   [An Introduction to Programming in Go](http://www.golang-book.com/)
-*   [Build a blockchain from scratch in Go with gRPC (⭐255)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐279)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 *   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 *   [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 *   [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
@@ -3700,7 +3696,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Golang Nugget](https://golangnugget.com) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 *   [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
 *   [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
-*   [golang-graphics (⭐142)](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.
 *   [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
 *   [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 *   [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).

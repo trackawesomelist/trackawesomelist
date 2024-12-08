@@ -12,6 +12,14 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [console (⭐75)](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
 
+### Project Layout
+
+*   [kickstart.go (⭐72)](https://github.com/raeperd/kickstart.go) - Minimalistic single-file Go HTTP server template without third-party dependencies.
+
+### UUID
+
+*   [uuidcheck (⭐2)](https://github.com/ashwingopalsamy/uuidcheck) - A tiny, dependency-free Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into UTC timestamps.
+
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
 ### Standard CLI
@@ -51,7 +59,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Authentication and OAuth
 
-*   [goiabada (⭐134)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
+*   [goiabada (⭐136)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 
 ### Utilities
 
@@ -154,7 +162,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐255)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐279)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
@@ -348,7 +356,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Blockchain
 
-*   [lnd (⭐7.7k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
+*   [lnd (⭐7.7k)](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lightning Network node.
 
 ### Standard CLI
 
@@ -3282,7 +3290,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Forms
 
 *   [bind (⭐31)](https://github.com/robfig/bind) - Bind form data to any Go values.
-*   [binding (⭐794)](https://github.com/mholt/binding) - Binds form and JSON data from net/http Request to struct.
 *   [conform (⭐323)](https://github.com/leebenson/conform) - Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags.
 *   [form (⭐778)](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
 *   [formam (⭐192)](https://github.com/monoculum/formam) - decode form's values into a struct.
@@ -3616,7 +3623,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gosseract (⭐2.7k)](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 *   [libsvm (⭐73)](https://github.com/datastream/libsvm) - libsvm golang version derived work based on LIBSVM 3.14.
 *   [m2cgen (⭐2.8k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
-*   [neat (⭐72)](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
 *   [neural-go (⭐70)](https://github.com/schuyler/neural-go) - Multilayer perceptron network implemented in Go, with training via backpropagation.
 *   [ocrserver (⭐704)](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker and Heroku.
 *   [onnx-go (⭐722)](https://github.com/owulveryck/onnx-go) - Go Interface to Open Neural Network Exchange (ONNX).
@@ -3744,7 +3750,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [captcha (⭐156)](https://github.com/steambap/captcha) - Package captcha provides an easy to use, unopinionated API for captcha generation.
 *   [conv (⭐384)](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 *   [datacounter (⭐49)](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
-*   [faker (⭐10)](https://github.com/neotoolkit/faker) - Fake data generator.
 *   [faker (⭐92)](https://github.com/pioz/faker) - Random fake data and struct generator for Go.
 *   [ffmt (⭐306)](https://github.com/go-ffmt/ffmt) - Beautify data display for Humans.
 *   [gatus (⭐6.6k)](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
@@ -3939,7 +3944,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [vgo](https://go.googlesource.com/vgo/) - Versioned Go.
 *   [glide (⭐8.1k)](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
 *   [godep (⭐5.5k)](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
-*   [gom (⭐1.4k)](https://github.com/mattn/gom) - Go Manager - bundle for go.
 *   [goop (⭐777)](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
 *   [gop (⭐49)](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH.
 *   [gopm (⭐2.5k)](https://github.com/gpmgo/gopm) - Go Package Manager.
@@ -4308,7 +4312,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [goctx (⭐9)](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 *   [godaemon (⭐492)](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 *   [godropbox (⭐4.2k)](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
-*   [gohper (⭐254)](https://github.com/cosiner/gohper) - Various tools/modules help for development.
 *   [golarm (⭐52)](https://github.com/msempere/golarm) - Fire alarms with system events.
 *   [golog (⭐61)](https://github.com/mlimaloureiro/golog) - Easy and lightweight CLI tool to time track your tasks.
 *   [gopencils (⭐451)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
@@ -4590,7 +4593,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - This extension adds benchmark profiling support for the Go language to VS Code.
 *   [GoSublime (⭐3.4k)](https://github.com/DisposaBoy/GoSublime) - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
 *   [gounit-vim (⭐24)](https://github.com/hexdigest/gounit-vim) - Vim plugin for generating Go tests based on the function's or method's signature.
-*   [theia-go-extension (⭐15)](https://github.com/theia-ide/theia-go-extension) - Go language support for the Theia IDE.
 *   [vim-compiler-go (⭐89)](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
 *   [vim-go (⭐16k)](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 *   [vscode-go (⭐3.9k)](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
@@ -4935,7 +4937,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocryforhelp (⭐41)](https://github.com/ninedraft/gocryforhelp) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
 *   [Golang News](https://golangnews.com) - Links and news about Go programming.
 *   [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
-*   [golang-graphics (⭐142)](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.
 *   [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go mailing list.
 *   [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.
 *   [Gopher Community Chat](https://invite.slack.golangbridge.org) - Join Our New Slack Community For Gophers ([Understand how it came](https://blog.gopheracademy.com/gophers-slack-community/)).

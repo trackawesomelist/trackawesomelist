@@ -2,9 +2,28 @@
 
 :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lnishan/awesome-competitive-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) · ⭐ 12K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lnishan/awesome-competitive-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) · ⭐ 13K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/lnishan/awesome-competitive-programming/week/README.md) / [Overview](/content/lnishan/awesome-competitive-programming/readme/README.md) ]
+
+## [Dec 08, 2024](/content/2024/12/08/README.md)
+
+### Books / Books for Algorithms
+
+- ☆: 
+
+  Name: [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures), by Marcello La Rocca
+
+  Description: This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms.
+
+
+- ☆: 
+
+  Name: [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures), by Marcello La Rocca
+
+  Description: Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners, and you won’t need anything more than high school math to get started. Each data structure you encounter comes with its own complete Python implementation so you can start experimenting with what you learn right away.
+
+
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -100,7 +119,7 @@
 
 - ☆: ★☆☆
 
-  Name: [Materials (English) (⭐1.4k)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming YouTube Channel](https://www.youtube.com/user/nobody123497)
+  Name: [Materials (English) (⭐1.5k)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming YouTube Channel](https://www.youtube.com/user/nobody123497)
 
   Description: Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim.
 
@@ -198,18 +217,6 @@
 
 
 
-## [Aug 28, 2019](/content/2019/08/28/README.md)
-
-### Books / Books for Algorithms
-
-- ☆: 
-
-  Name: [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action), by Marcello La Rocca
-
-  Description: This book provides a different approach to algorithms, balancing theory with a more practical angle, with a section per-chapter focusing on how to apply algorithms to real-world use cases that can be found in your daily work, or in competitive programming; it also presents a blend of classic, advanced, and new algorithms.
-
-
-
 ## [Jul 25, 2019](/content/2019/07/25/README.md)
 
 ### Community / Youtube and Livestreams
@@ -246,7 +253,7 @@
 
 - ☆: ★★★
 
-  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐84)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐988)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
+  Name: General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091-chelper) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide (⭐86)](https://github.com/slycelote/caide) (Visual Studio, CodeLite, standalone command line app) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) [online-judge-tools (⭐1k)](https://github.com/kmyk/online-judge-tools) (Stand alone CLI tool, It is actively maintained.)
 
   Description: Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth.
 
@@ -280,7 +287,7 @@
 
 - ☆: ★★★
 
-  Name: [Mini-Editorials (⭐376)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
+  Name: [Mini-Editorials (⭐397)](https://github.com/mostafa-saad/MyCompetitiveProgramming), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) trainees
 
   Description: Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems
 
@@ -641,19 +648,19 @@
 
   Name: [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256)
 
-  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.8k)](https://github.com/indy256/codelibrary).
+  Description: CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository (⭐1.9k)](https://github.com/indy256/codelibrary).
 
 
 - ☆: ★★★
 
-  Name: [spaghetti-source/algorithm (⭐781)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
+  Name: [spaghetti-source/algorithm (⭐782)](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara)
 
   Description: High-quality implementations of many hard algorithms and data structures.
 
 
 - ☆: ★★★
 
-  Name: [kth-competitive-programming/kactl (⭐2.6k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
+  Name: [kth-competitive-programming/kactl (⭐2.8k)](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al.
 
   Description: A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen.
 
@@ -667,21 +674,21 @@
 
 - ☆: ★★☆
 
-  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐420)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
+  Name: [ngthanhtrung23/ACM\_Notebook\_new (⭐428)](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I\_love\_Hoang\_Yen, flashmt, nguyenhungtam) from National University of Singapore
 
   Description: RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.
 
 
 - ☆: ★★☆
 
-  Name: [bobogei81123/bcw\_codebook (⭐111)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
+  Name: [bobogei81123/bcw\_codebook (⭐110)](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University
 
   Description: bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.
 
 
 - ☆: ★☆☆
 
-  Name: [foreverbell/acm-icpc-cheat-sheet (⭐168)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
+  Name: [foreverbell/acm-icpc-cheat-sheet (⭐165)](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell)
 
   Description: A notebook with some advanced data structures and algorithms including some from the China informatics scene.
 
@@ -882,7 +889,7 @@
 
 - ☆: ★★☆
 
-  Name: Codeforces Parsers: ... [Codeforces Parser (⭐133)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐47)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐17)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐3)](https://github.com/ikatanic/cfparser) (cli)
+  Name: Codeforces Parsers: ... [Codeforces Parser (⭐137)](https://github.com/johnathan79717/codeforces-parser) ... [GoCF (⭐47)](https://github.com/sukeesh/GoCF) ... [cfparser (⭐17)](https://github.com/gnull/cfparser) (emacs) [cfparser (⭐4)](https://github.com/ikatanic/cfparser) (cli)
 
   Description: These tools parse Codeforces contest problems and help run sample tests.
 
@@ -1079,7 +1086,7 @@
 
 - Name: Free Programming Books
 
-  Link: [vhf/free-programming-books (⭐327k)](https://github.com/EbookFoundation/free-programming-books)
+  Link: [vhf/free-programming-books (⭐340k)](https://github.com/EbookFoundation/free-programming-books)
 
 
 - Name: Community-curated C++ Resources
@@ -1231,38 +1238,38 @@
 
 - Name: Algorithms
 
-  Link: [tayllan/awesome-algorithms (⭐19k)](https://github.com/tayllan/awesome-algorithms)
+  Link: [tayllan/awesome-algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms)
 
 
 - Name: Algorithm Visualization
 
-  Link: [enjalot/algovis (⭐1.6k)](https://github.com/enjalot/algovis)
+  Link: [enjalot/algovis (⭐1.7k)](https://github.com/enjalot/algovis)
 
 
 - Name: Math
 
-  Link: [rossant/awesome-math (⭐8.4k)](https://github.com/rossant/awesome-math)
+  Link: [rossant/awesome-math (⭐8.9k)](https://github.com/rossant/awesome-math)
 
 
 - Name: C++
 
-  Link: [fffaraz/awesome-cpp (⭐57k)](https://github.com/fffaraz/awesome-cpp)
+  Link: [fffaraz/awesome-cpp (⭐60k)](https://github.com/fffaraz/awesome-cpp)
 
 
 - Name: Java
 
-  Link: [akullpp/awesome-java (⭐41k)](https://github.com/akullpp/awesome-java)
+  Link: [akullpp/awesome-java (⭐42k)](https://github.com/akullpp/awesome-java)
 
 
 - Name: Courses
 
-  Link: [prakhar1989/awesome-courses (⭐55k)](https://github.com/prakhar1989/awesome-courses)
+  Link: [prakhar1989/awesome-courses (⭐58k)](https://github.com/prakhar1989/awesome-courses)
 
 
 
 ### Other Awesome Resources / Interview Questions
 
-- Name: [Awesome Interviews (⭐69k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- Name: [Awesome Interviews (⭐72k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
   Description: A curated list of awesome interview questions
 
@@ -1416,7 +1423,7 @@
 
 - ☆: ★★★
 
-  Name: [prakhar1989/awesome-courses#algorithms (⭐55k)](https://github.com/prakhar1989/awesome-courses#algorithms)
+  Name: [prakhar1989/awesome-courses#algorithms (⭐58k)](https://github.com/prakhar1989/awesome-courses#algorithms)
 
   Description: A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.).
 
@@ -1536,7 +1543,7 @@
 
 - ☆: ★★☆
 
-  Name: [Coder's Calendar (⭐340)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
+  Name: [Coder's Calendar (⭐337)](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/)
 
   Description: 
 
