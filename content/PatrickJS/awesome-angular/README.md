@@ -6,6 +6,26 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Dec 09, 2024](/content/2024/12/09/README.md)
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Official Website](https://ngrx.io/)
+*   [GitHub Repo (⭐8.1k)](https://github.com/ngrx/platform) - Reactive State for Angular.
+
+### NGXS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Official Website](https://www.ngxs.io/)
+*   [GitHub Repo (⭐3.5k)](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
+*   [emitter (⭐110)](https://github.com/ngxs-labs/emitter) - New pattern that provides the opportunity to feel free from actions.
+*   [select-snapshot (⭐42)](https://github.com/ngxs-labs/select-snapshot) - Flexibile decorator that allows to get a snapshot of the state.
+*   [actions-executing (⭐27)](https://github.com/ngxs-labs/actions-executing) - This plugin allows you to easily know if an action is being executed and control UI elements or control flow of your code to execute.
+*   [ngxs-synchronizers (⭐7)](https://github.com/lVlyke/ngxs-synchronizers) - Simplifies synchronizing your NGXS-based application state with external data sources.
+*   [ngxs-message-plugin (⭐3)](https://github.com/Andreas-Hjortland/ngxs-message-plugin) - An NGXS plugin which allows you to share state between different browser contexts.
+*   [firestore-plugin (⭐20)](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.
+*   [ngxs-reset-plugin (⭐108)](https://github.com/ng-turkey/ngxs-reset-plugin) - Reset plugin for NGXS: Effortlessly clears, resets, or overwrites NGXS states respecting the state tree.
+*   [ngxs-state-mixins (⭐1)](https://github.com/zampage/ngxs-state-mixins) - Concept of how to implement state mixins in NGXS.
+
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -47,7 +67,7 @@
 
 *   [log4ngx (⭐1)](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-state-machine (⭐2)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 
@@ -141,7 +161,7 @@
 
 ### UX Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-onboarding (⭐53)](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
+*   [ngx-onboarding (⭐52)](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
 
 ## [Nov 23, 2024](/content/2024/11/23/README.md)
 
@@ -165,7 +185,7 @@
 *   [electron-typescript-angular (⭐1)](https://github.com/supersu-man/electron-typescript-angular) - Really simple Electron + Typescript + Angular boilerplate.
 *   [nx-starter (⭐4)](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
 *   [ng-starter-template (⭐1)](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
-*   [angular-material-tailwind-playwright-starter (⭐1)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
+*   [angular-material-tailwind-playwright-starter (⭐2)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -210,7 +230,7 @@
 *   [ngx-gaia-gis (⭐1)](https://github.com/Olympus-Analytics/ngx-gaia-gis) - An Angular service that simplifies map creation and interaction using the powerful [OpenLayers](https://openlayers.org/) library.
 *   [ngx-google-maps-places (⭐2)](https://github.com/lekhmanrus/ngx-google-maps-places) - Wrapper for new Google Maps Places API, making it easier to integrate Google Places functionality into Angular applications.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-crud (⭐20)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
 *   [ngx-simple-state-manager (⭐1)](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
@@ -353,7 +373,7 @@
 
 *   [up-window-angular (⭐4)](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng (⭐5)](https://github.com/bitfiber/ng) - An Angular-specific extension of [@bitfiber/rx (⭐3)](https://github.com/bitfiber/rx) built on top of RxJS, designed to manage reactive state, asynchronous workflows, and events in Angular applications. It provides a structured approach to handling complex data flows using emitters, states, groups, and stores, allowing seamless integration of various reactive sources like emitters, states, and observables.
 
@@ -1022,7 +1042,7 @@
 
 *   [ngx-custom-material-file-input (⭐7)](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-redux (⭐72)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 
@@ -1058,6 +1078,10 @@
 
 *   [fast-facts/ng-update (⭐4)](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [po-angular (⭐919)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
@@ -1065,10 +1089,6 @@
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐297)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
-
-### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngrx-entity-relationship (⭐43)](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 
 ## [Sep 02, 2024](/content/2024/09/02/README.md)
 
@@ -1236,7 +1256,7 @@
 
 *   [slate-angular (⭐177)](https://github.com/worktile/slate-angular) - Angular view layer for [Slate (⭐30k)](https://github.com/ianstormtaylor/slate).
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 
@@ -1640,7 +1660,7 @@
 
 *   [angular-ru-sdk (⭐72)](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tansu (⭐87)](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 
@@ -1849,7 +1869,7 @@
 
 *   [ngx-three (⭐68)](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-sherlock (⭐6)](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock (⭐39)](https://github.com/politie/sherlock) distributed reactive state management library.
 
@@ -1886,7 +1906,7 @@
 
 ## [Jun 13, 2024](/content/2024/06/13/README.md)
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [signalstory (⭐43)](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 
@@ -2333,7 +2353,7 @@
 *   [ngxtension-platform (⭐626)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 *   [spartan (⭐1.5k)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-collection (⭐31)](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
 *   [xstate (⭐27k)](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
@@ -2704,6 +2724,14 @@
 *   [ngx-loader-indicator (⭐52)](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
 *   [ngx-skeleton-loader (⭐583)](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
+*   [ngrx-wieder (⭐128)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
+*   [ngrx-immer (⭐120)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+*   [ngrx-rtk-query (⭐62)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
+*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
+
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ej2-angular-ui-components (⭐275)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
@@ -2721,14 +2749,6 @@
 ### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-bootstrap (⭐5.5k)](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
-
-### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngrx-store-storagesync (⭐41)](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
-*   [ngrx-wieder (⭐128)](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
-*   [ngrx-immer (⭐120)](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
-*   [ngrx-rtk-query (⭐62)](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
-*   [ngrx-action-bundles (⭐14)](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
 
 ## [May 02, 2024](/content/2024/05/02/README.md)
 
@@ -2816,16 +2836,16 @@
 *   [ngx-formcontrol-errors (⭐1)](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 *   [error-tailor (⭐486)](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
 
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [rx-computed (⭐246)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
-*   [microwave (⭐246)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngrx-toolkit (⭐175)](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
 *   [ngrx-traits (⭐75)](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
 *   [ngrx-addons (⭐4)](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rx-computed (⭐246)](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
+*   [microwave (⭐246)](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2989,7 +3009,7 @@
 *   [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 *   [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-signal-state (⭐61)](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 *   [mini-rx-store (⭐170)](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
@@ -3149,6 +3169,12 @@
 
 *   [ngx-infinite-scroll (⭐1.2k)](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
 
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngrx-course (⭐386)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
+*   [ngrx-store-localstorage (⭐616)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
+*   [angular-ngrx-nx-realworld-example-app (⭐913)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐3)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
@@ -3171,13 +3197,6 @@
 *   [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 *   [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 *   [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
-
-### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngrx](https://ngrx.io/) - Reactive State for Angular.
-*   [ngrx-course (⭐386)](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
-*   [ngrx-store-localstorage (⭐616)](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
-*   [angular-ngrx-nx-realworld-example-app (⭐913)](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
@@ -3266,12 +3285,10 @@
 
 *   [rx-angular (⭐1.9k)](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngxs (⭐3.5k)](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
-*   [ngrx (⭐8.1k)](https://github.com/ngrx/platform) - Reactive State for Angular.
-*   [query (⭐43k)](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 *   [elf (⭐1.6k)](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
+*   [query (⭐43k)](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 *   [state-adapt (⭐295)](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -3314,7 +3331,7 @@
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [exome (⭐239)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
@@ -3380,7 +3397,7 @@
 *   [ng-let (⭐52)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 *   [ng-for-track-by-property (⭐30)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-simple-state (⭐40)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
@@ -3533,7 +3550,7 @@
 *   [angular-fullpage (⭐177)](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
 *   [ngx-scrolltop (⭐30)](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 **No dependencies. Pure Angular!** (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 
-### State Management / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [universal-model-angular (⭐8)](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
 

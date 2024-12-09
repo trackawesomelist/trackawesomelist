@@ -487,6 +487,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Large Language Models (LLMs)
 
+*   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [QuivrHQ/MegaParse (⭐1k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 *   [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
 *   [youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development (⭐136)](https://github.com/youssefHosni/Hands-On-LangChain-for-LLM-Applications-Development): Practical LangChain tutorials for LLM applications development
@@ -756,7 +757,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 *   [\[2411.00114\] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)
 *   [joonspk-research/generative\_agents (⭐18k)](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
-*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐89)](https://github.com/joonspk-research/genagents)
+*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐207)](https://github.com/joonspk-research/genagents)
 *   [microsoft/TinyTroupe (⭐4.6k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 *   [Multi-Agent Research Outline](https://thinkwee.top/multiagent_ebook/index.html): an interactive eBook that compiles an extensive collection of research papers on large language model (LLM)-based multi-agent systems
 *   [openai/swarm (⭐17k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -1347,7 +1348,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Related Awesome Lists
 
-*   [mahseema/awesome-ai-tools (⭐1.4k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
+*   [mahseema/awesome-ai-tools (⭐1.5k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 *   [Hannibal046/Awesome-LLM: Awesome-LLM (⭐19k)](https://github.com/Hannibal046/Awesome-LLM): a curated list of Large Language Model
 *   [AlexChalakov/awesome-generative-ai-companies (⭐99)](https://github.com/AlexChalakov/awesome-generative-ai-companies): a curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount
 *   [kyrolabs/awesome-langchain (⭐7.7k)](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and project with the awesome LangChain framework

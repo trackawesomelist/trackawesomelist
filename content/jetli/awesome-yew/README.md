@@ -6,12 +6,17 @@
 
 [ Daily / [Weekly](/content/jetli/awesome-yew/week/README.md) / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 
-## [Nov 29, 2024](/content/2024/11/29/README.md)
+## [Dec 09, 2024](/content/2024/12/09/README.md)
 
 ### Crates / Component Libraries
 
-*   [Rust Radix (⭐14)](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
-*   [Rust shadcn/ui (⭐48)](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
+*   [Rust Lucide](https://lucide.rustforweb.org) - Yew port of Lucide, a beautiful & consistent icon toolkit made by the community.
+*   [Rust Radix](https://radix.rustforweb.org) - Yew port of Radix, a library of components, icons, colors, and templates for building high-quality, accessible UI.
+*   [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) - Yew port of shadcn/ui, a library of beautifully designed components that you can copy and paste into your apps.
+
+### Crates / Utils
+
+*   [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
@@ -36,12 +41,12 @@
     Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 *   [chipbox (⭐88)](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
 *   [Taxy (⭐88)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
-*   [Proxelar (⭐409)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+*   [Proxelar (⭐412)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
 *   [diff.rs (⭐106)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 
 ### Alternatives / Frameworks
 
-*   [Leptos (⭐16k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+*   [Leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## [May 09, 2024](/content/2024/05/09/README.md)
 
@@ -181,7 +186,7 @@
 
 ### Tooling / Frameworks
 
-*   [Tauri (⭐85k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+*   [Tauri (⭐86k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
@@ -401,7 +406,7 @@
 
 ### Projects
 
-*   [Realworld example (⭐865)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐85k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐865)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐86k)](https://github.com/tauri-apps/tauri).
 
 ### Crates / Utils
 
@@ -737,7 +742,7 @@
 
 ### Crates / Wasm
 
-*   [wasm-bindgen (⭐7.8k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.9k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 
 ### Tooling / Frameworks
 

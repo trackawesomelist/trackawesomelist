@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
+
+### Large Language Models (LLMs)
+
+*   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Large Language Models (LLMs)
@@ -43,7 +49,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Related Awesome Lists / Deforum
 
-*   [mahseema/awesome-ai-tools (⭐1.4k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
+*   [mahseema/awesome-ai-tools (⭐1.5k)](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -53,7 +59,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐89)](https://github.com/joonspk-research/genagents)
+*   [Generative Agent Simulations of 1,000 People | arxiv](https://arxiv.org/abs/2411.10109) [\[GitHub: joonspk-research/genagents\] (⭐207)](https://github.com/joonspk-research/genagents)
 
 ### Jobs in Generative AI / Deforum
 

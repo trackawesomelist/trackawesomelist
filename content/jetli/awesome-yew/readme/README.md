@@ -49,7 +49,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 ## Projects
 
-*   [Realworld example (⭐865)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐85k)](https://github.com/tauri-apps/tauri).
+*   [Realworld example (⭐865)](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri (⭐86k)](https://github.com/tauri-apps/tauri).
 *   [webapp.rs (⭐2.2k)](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
 *   [Rust-Full-Stack (⭐1.5k)](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
 *   [Bucket Questions (⭐5)](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
@@ -131,7 +131,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
     Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 *   [chipbox (⭐88)](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
 *   [Taxy (⭐88)](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
-*   [Proxelar (⭐409)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+*   [Proxelar (⭐412)](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
 *   [diff.rs (⭐106)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 *   [konnektoren.help (⭐0)](https://github.com/Konnektoren/konnektoren-web-game) - An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. [Web App](https://konnektoren.help)
 
@@ -169,8 +169,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [yew-bootstrap (⭐38)](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 *   [Zu (⭐6)](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 *   [yew-nav-link (⭐1)](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
-*   [Rust Radix (⭐14)](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
-*   [Rust shadcn/ui (⭐48)](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
+*   [Rust Lucide](https://lucide.rustforweb.org) - Yew port of Lucide, a beautiful & consistent icon toolkit made by the community.
+*   [Rust Radix](https://radix.rustforweb.org) - Yew port of Radix, a library of components, icons, colors, and templates for building high-quality, accessible UI.
+*   [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) - Yew port of shadcn/ui, a library of beautifully designed components that you can copy and paste into your apps.
 
 ### Components
 
@@ -207,10 +208,11 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [yew-nested-router (⭐8)](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 *   [turf (⭐63)](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 *   [browser-panic-hook (⭐7)](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
+*   [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
 ### Wasm
 
-*   [wasm-bindgen (⭐7.8k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+*   [wasm-bindgen (⭐7.9k)](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
 *   [stdweb (⭐3.4k)](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 *   [tauri-sys (⭐96)](https://github.com/JonasKruckenberg/tauri-sys) - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
@@ -228,7 +230,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [trunk-action (⭐32)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 *   [wabt (⭐6.9k)](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
 *   [binaryen (⭐7.5k)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
-*   [Tauri (⭐85k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+*   [Tauri (⭐86k)](https://github.com/tauri-apps/tauri) - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
 *   [yew-fmt (⭐21)](https://github.com/schvv31n/yew-fmt) - A configurable extension to `rustfmt` for formatting Yew HTML.
 
 ## Articles
@@ -272,7 +274,7 @@ Yew team love to share ideas with other projects and believe we can all help eac
 *   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 *   [Dioxus (⭐22k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 *   [Sycamore (⭐2.9k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
-*   [Leptos (⭐16k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+*   [Leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## Related lists
 
