@@ -152,7 +152,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [ecto\_materialized\_path (⭐63)](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 *   [ecto\_state\_machine (⭐97)](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 *   [elistrix (⭐18)](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
-*   [emel (⭐104)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
+*   [emel (⭐105)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in elixir.
 *   [erlang-algorithms (⭐158)](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
 *   [exconstructor (⭐286)](https://github.com/appcues/exconstructor) - An Elixir library for generating struct constructors that handle external data with ease.
 *   [exfsm (⭐11)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
@@ -228,7 +228,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [ExShop (⭐220)](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 *   [Hydra (⭐66)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 *   [Igthorn (⭐101)](https://github.com/cinderella-man/igthorn) - Cryptocurrecy trading platform / trading bot with admin panel.
-*   [Lynx (⭐271)](https://github.com/clivern/lynx) - A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
+*   [Lynx (⭐299)](https://github.com/clivern/lynx) - A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
 *   [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated.
 *   [medex (⭐6)](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 *   [medusa\_server (⭐8)](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
@@ -242,11 +242,11 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [RemoteRetro (⭐577)](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
 *   [Sprint Poker (⭐176)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 *   [Startup Job (⭐99)](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
-*   [Tai (⭐466)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
+*   [Tai (⭐470)](https://github.com/fremantle-capital/tai) - A composable, real time, cryptocurrency market data and trade execution toolkit.
 *   [tty2048 (⭐155)](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 *   [uai\_shot (⭐62)](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser.
 *   [utils (⭐7)](https://github.com/q60/utils) - Website with handy day-to-day utils: to do list, URL shortener, code bin and pie chart. Written in Elixir using Phoenix Framework.
-*   [workbench (⭐115)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
+*   [workbench (⭐117)](https://github.com/fremantle-industries/workbench) - From Idea to Execution - Manage your trading operation across a globally distributed cluster.
 
 ## Artificial Intelligence
 
@@ -262,7 +262,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [Noizu-OpenAi (⭐5)](https://github.com/noizu-labs/elixir-openai) - An Elixir Api for the OpenAI Library. ([Docs](https://hexdocs.pm/noizu_labs_open_ai/api-reference.html)).
 *   [Nx (⭐2.7k)](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir.
 *   [Runhyve](https://runhyve.app) - Runhyve is complete virtual machines manager for bhyve on FreeBSD. It's written in Elixir and uses Phoenix framework.
-*   [simple\_bayes (⭐392)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐391)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 *   [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - A lightweight library for neural networks.
 *   [Weaviate (⭐2)](https://github.com/noizu-labs-ml/elixir-weaviate) - Weaviate client and macros for declaring records. ([Docs](https://hexdocs.pm/noizu_weaviate/api-reference.html)).
 
@@ -1253,7 +1253,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [download (⭐33)](https://github.com/asiniy/download) - Download files from the internet easily.
 *   [eio (⭐14)](https://github.com/falood/eio) - Elixir server of engine.io.
 *   [ExPcap (⭐31)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-*   [Firezone (⭐6.8k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐6.9k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 *   [hades (⭐27)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 *   [mac (⭐7)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
@@ -1924,6 +1924,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [optimal (⭐48)](https://github.com/albert-io/optimal) - A schema based keyword list option validator.
 *   [shape (⭐6)](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 *   [skooma (⭐142)](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
+*   [to\_atom\_in (⭐0)](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set.
 *   [uk\_postcode (⭐10)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 *   [vex (⭐597)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 *   [voorhees (⭐42)](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.

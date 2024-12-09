@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Dec 09, 2024](/content/2024/12/09/README.md)
+
+### Articles / Golang - Community
+
+*   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Firebase Genkit, and Google's Imagen 3.
+
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
 ### Articles / Golang - Community
