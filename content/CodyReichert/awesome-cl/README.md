@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### Others / Third-party APIs
+
+*   [numericals (⭐50)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
+    *   documentation: <https://digikar99.github.io/numericals/>
+*   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
+
 ## [Dec 09, 2024](/content/2024/12/09/README.md)
 
 ### Community

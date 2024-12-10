@@ -1,18 +1,48 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2024
 
-13 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Text processing
+
+*   [vxml (⭐1)](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
+
+## [2. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### CSS Games:
+
+- Website: [Anchoreum](https://anchoreum.com/)
+
+  Description: A game for learning CSS anchor positioning.
+
+
+
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
+
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [SonarQube Cloud](https://sonarcloud.io) :copyright: — SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
+*   [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
+*   [SonarQube Server](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Build.
+
+## [5. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Firebase Genkit, and Google's Imagen 3.
 
-## [2. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -22,14 +52,14 @@
 
 *   [Android Malware Genome Project](http://www.malgenomeproject.org/) - contains 1260 malware samples categorized into 49 different malware families, free for research purposes.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [AEM10900](https://crates.io/crates/aem10900) - I2C - Energy Harvester - [github (⭐0)](https://github.com/trembel/aem10900) - [![crates.io](https://img.shields.io/crates/v/aem10900.svg)](https://crates.io/crates/aem10900)
 *   [FH101RF](https://crates.io/crates/fh101rf) - SPI - Wake-Up Radio - [github (⭐1)](https://github.com/trembel/fh101rf) - [![crates.io](https://img.shields.io/crates/v/fh101rf.svg)](https://crates.io/crates/fh101rf)
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -40,19 +70,33 @@
 *   [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable desktop.
 *   \[WIP] [clog-moldable-inspector](https://codeberg.org/khinsen/clog-moldable-inspector) - A moldable Common Lisp object inspector based on CLOG. The inspector is thus shown in a Web browser.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+### Others / Third-party APIs
+
+*   [numericals (⭐50)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
+    *   documentation: <https://digikar99.github.io/numericals/>
+*   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
+
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
 *   [to\_atom\_in (⭐0)](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
-## [7. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+### Applications / Message Queue
+
+*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+
+### Applications / Web
+
+*   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
+
+## [11. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Enel](https://dsyui.enelx.com/)
 
@@ -110,13 +154,13 @@
 
 
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-page-html (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Community
 
@@ -126,7 +170,7 @@
 
 *   [Wardley Maps for Obsidian.md (⭐3)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
-## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [14. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin Themes
 
@@ -141,13 +185,20 @@
 
 *   [htpy](https://htpy.dev/) - htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language.
 
-## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Critical Views about Generative AI
+
+*   [Collection of "The Most Thoughtful Writing about Generative AI" by Eryk Salvaggio](https://bsky.app/profile/eryk.bsky.social/post/3lccavgstkk2s)
+*   [AI Snake Oil: Separating Hype from Reality | TechPolicy.Press](https://www.techpolicy.press/ai-snake-oil-separating-hype-from-reality/)
+*   [Deconstructing the AI Myth: Fallacies and Harms of Algorithmification](https://www.researchgate.net/publication/382802495_Deconstructing_the_AI_Myth_Fallacies_and_Harms_of_Algorithmification)
+*   [Challenging The Myths of Generative AI | TechPolicy.Press](https://www.techpolicy.press/challenging-the-myths-of-generative-ai/)
 
 ### Large Language Models (LLMs)
 
 *   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [16. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
@@ -159,7 +210,21 @@
 
 *   [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
-## [13. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Seasonal
+
+*   [Angular Christmas Calendar](https://angularchristmascalendar.com/)
+*   [Angular Love Advent Calendar](https://advent.angular.love/event)
+*   [Advent of TypeScript](https://www.adventofts.com/)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
+
+### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -178,6 +243,10 @@
 *   [firestore-plugin (⭐20)](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.
 *   [ngxs-reset-plugin (⭐108)](https://github.com/ng-turkey/ngxs-reset-plugin) - Reset plugin for NGXS: Effortlessly clears, resets, or overwrites NGXS states respecting the state tree.
 *   [ngxs-state-mixins (⭐1)](https://github.com/zampage/ngxs-state-mixins) - Concept of how to implement state mixins in NGXS.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ng-state/store (⭐14)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.
 
 ---
 

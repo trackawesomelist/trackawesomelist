@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### Applications / Message Queue
+
+*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+
+### Applications / Web
+
+*   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
+
 ## [Dec 09, 2024](/content/2024/12/09/README.md)
 
 ### Applications / Database
@@ -1649,12 +1659,6 @@ A curated list of Rust code and resources.
 
 *   Mastodon
     *   [Rustodon (⭐874)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
-
-## [Nov 07, 2022](/content/2022/11/07/README.md)
-
-### Applications / Web
-
-*   [libreddit (⭐5k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 

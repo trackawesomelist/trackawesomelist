@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
+
 ## [Dec 08, 2024](/content/2024/12/08/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -26,10 +32,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [moonbloom (⭐0)](https://github.com/moonbloom-theme/zsh) - Adapts to the color scheme of your terminal emulator. Includes decorators for current directory and `git` status.
 
 ## [Dec 01, 2024](/content/2024/12/01/README.md)
-
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [deoplete-zsh (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -59,7 +61,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐68)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
+*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐73)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 
 ## [Nov 20, 2024](/content/2024/11/20/README.md)
 
@@ -1374,7 +1376,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
+*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐367)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 
 ## [May 04, 2023](/content/2023/05/04/README.md)
 

@@ -6,6 +6,26 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### Seasonal
+
+*   [Angular Christmas Calendar](https://angularchristmascalendar.com/)
+*   [Angular Love Advent Calendar](https://advent.angular.love/event)
+*   [Advent of TypeScript](https://www.adventofts.com/)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
+
+### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ng-state/store (⭐14)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.
+
 ## [Dec 09, 2024](/content/2024/12/09/README.md)
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -155,7 +175,7 @@
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-scanner-qrcode (⭐56)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
+*   [ngx-scanner-qrcode (⭐57)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 

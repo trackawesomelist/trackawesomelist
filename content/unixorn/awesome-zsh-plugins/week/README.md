@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -29,7 +35,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [deoplete-zsh (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
 *   [uv (⭐0)](https://github.com/lipov3cz3k/zsh-uv) - Tab completion for [uv (⭐28k)](https://github.com/astral-sh/uv).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -40,7 +45,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐68)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
+*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐73)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 *   [some-peco (⭐1)](https://github.com/MoeBensu/zsh-some-peco/) - Enhances your command-line experience with [peco (⭐7.7k)](https://github.com/peco/peco) i.e. providing quick directory navigation and history search.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -1005,7 +1010,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
 *   [ssh-quickconnect (⭐1)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
-*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
+*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐367)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 

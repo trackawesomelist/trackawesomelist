@@ -12,6 +12,14 @@ A curated list of Rust code and resources.
 
 *   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
+### Applications / Message Queue
+
+*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+
+### Applications / Web
+
+*   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Applications / Emulators
@@ -1457,12 +1465,6 @@ A curated list of Rust code and resources.
 
 *   Mastodon
     *   [Rustodon (⭐874)](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
-
-## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
-
-### Applications / Web
-
-*   [libreddit (⭐5k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 

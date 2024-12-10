@@ -17,6 +17,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [mold-desktop](https://codeberg.org/mmontone/mold-desktop) - a programmable desktop.
 *   \[WIP] [clog-moldable-inspector](https://codeberg.org/khinsen/clog-moldable-inspector) - A moldable Common Lisp object inspector based on CLOG. The inspector is thus shown in a Web browser.
 
+### Others / Third-party APIs
+
+*   [numericals (⭐50)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI \[still experimental]. MIT.
+    *   documentation: <https://digikar99.github.io/numericals/>
+*   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
+
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Mobile

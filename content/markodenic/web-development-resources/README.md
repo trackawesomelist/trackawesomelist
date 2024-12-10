@@ -6,6 +6,16 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### CSS Games:
+
+- Website: [Anchoreum](https://anchoreum.com/)
+
+  Description: A game for learning CSS anchor positioning.
+
+
+
 ## [Nov 28, 2024](/content/2024/11/28/README.md)
 
 ### UI Components:

@@ -310,6 +310,8 @@ An easy solution for managing your shell environments. Works with both `bash` an
 
 ### [TheFly (⭐2)](https://github.com/joknarf/thefly)
 
+!GitHub last commit]\(<https://img.shields.io/github/last-commit/joknarf/thefly>) ![GitHub Repo stars](https://img.shields.io/github/stars/joknarf/thefly)
+
 `bash`/`zsh`/`ksh` plugin manager and env teleporter
 
 Makes your shell env and plugins available everywhere (hosts/users)!
@@ -768,7 +770,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [abbrev-alias (⭐119)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
 *   [actiona (⭐3)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐527)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
 *   [activate-py-environment (⭐26)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
-*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐68)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
+*   [adguard-helper (⭐0)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI (⭐73)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 *   [adonisjs (⭐0)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
 *   [ai-commands (⭐27)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 *   [airpods-battery (⭐5)](https://github.com/louis-thevenet/zsh-airpods-battery/) - Looks for AirPods via Bluetooth and puts their battery charge state into `$RPROMPT`.
@@ -1673,7 +1675,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [zflai (⭐3)](https://github.com/zdharma-continuum/zflai) - A fast logging framework for ZSH.
 *   [zfzf (⭐25)](https://github.com/b0o/zfzf) - A fzf-powered file picker for ZSH which allows you to quickly navigate the directory hierarchy.
 *   [zgen-compinit-tweak (⭐3)](https://github.com/seletskiy/zsh-zgen-compinit-tweak) - Make `compinit` run only once after all loading is done by [zgen (⭐1.5k)](https://github.com/tarjoilija/zgen).
-*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - Zgenom extension for creating plugins inline.
+*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐367)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 *   [zhooks (⭐55)](https://github.com/agkozak/zhooks) - Displays the contents of any ZSH hook arrays and the code of any hook functions that have been defined. Useful for debugging.
 *   [zi-rbenv (⭐5)](https://github.com/z-shell/zi-rbenv) - Fast `rbenv` loads if you're using [zi (⭐750)](https://github.com/z-shell/zi/).
 *   [zimfw-extras (⭐0)](https://github.com/PatTheMav/zimfw-extras) - Custom extras for [zimfw (⭐3.9k)](https://github.com/zimfw/zimfw), packaged into a zimfw plugin.
@@ -1777,7 +1779,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [dbic (⭐0)](https://github.com/lejeunerenard/dbic-migration-env) - Automatically sets up Environment variables for DBIx::Class::Migration's script and Dancer.
 *   [ddc (⭐23)](https://github.com/Shougo/ddc-zsh) - Adds tab completions for [ddc (⭐676)](https://github.com/Shougo/ddc.vim).
 *   [deno (⭐0)](https://github.com/marcelohmdias/zsh-deno) - Tab completions for [deno](https://deno.com/).
-*   [deoplete-zsh (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
+*   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
 *   [docker (chr-fritz) (⭐14)](https://github.com/chr-fritz/docker-completion.zshplugin) - Loads `docker` ZSH tab completions directly from **Docker for Mac**.
 *   [docker (felixr) (⭐257)](https://github.com/felixr/docker-zsh-completion) - Add tab completions for `docker`.
 *   [docker (greymd) (⭐65)](https://github.com/greymd/docker-zsh-completion) - Add tab completions for `docker` and `docker-compose`.
@@ -1924,8 +1926,6 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [zpacman (⭐0)](https://github.com/Yttehs-HDX/zsh-zpacman/) - Add tab completions for [zpacman](https://github.com/Yttehs-HDX/zpacman.git).
 
 ## Themes
-
-If you're using [Antigen (⭐8.1k)](https://github.com/zsh-users/antigen), you can test these themes in a running ZSH with `antigen theme githubuser/repo`. If you're using [zgenom (⭐367)](https://github.com/jandamm/zgenom), add them to your `init.zsh` with `zgenom load githubuser/reponame`.
 
 *   [021011 (⭐91)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 *   [0i0 (⭐15)](https://github.com/0i0/0i0.zsh-theme) - Optimized for dark terminal windows, uses nerdfont `git` status decorations.
@@ -3015,7 +3015,7 @@ Zgen is not being actively maintained. I recommend that you switch to the [Zgeno
 
 ### [Zgenom (⭐367)](https://github.com/jandamm/zgenom)
 
-Most of these plugins can be installed by adding `zgenom load githubuser/reponame` to your .zshrc file in the same function you're doing your other `zgenom load` calls in.
+Most of these plugins can be installed by adding `zgenom load githubuser/reponame` to your `.zshrc` file in the same function you're doing your other `zgenom load` calls in.
 
 Zgenom will automatically clone the plugin repositories for you when you do a `zgenom save`.
 
