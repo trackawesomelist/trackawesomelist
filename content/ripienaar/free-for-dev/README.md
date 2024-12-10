@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
+
+### Monitoring
+
+*   [incidenthub.cloud](https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
+
 ## [Dec 08, 2024](/content/2024/12/08/README.md)
 
 ### Email
@@ -360,12 +370,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Generative AI
 
 *   [Ultra AI](https://ultraai.app) - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.
-
-## [Aug 16, 2024](/content/2024/08/16/README.md)
-
-### APIs, Data, and ML
-
-*   [Zuplo](https://zuplo.com) - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.
 
 ## [Aug 15, 2024](/content/2024/08/15/README.md)
 
@@ -1162,7 +1166,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Zuplo](https://zuplo.com/) - Add API Key authentication, rate limiting, and developer documentation to any API in minutes. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
+*   [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 250 API keys, 100K monthly requests, and 1GB egress.
 
 ## [Sep 25, 2023](/content/2023/09/25/README.md)
 
@@ -5777,12 +5781,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 1,000 calls per month.
-
-## [Dec 05, 2019](/content/2019/12/05/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
 
 ## [Dec 03, 2019](/content/2019/12/03/README.md)
 

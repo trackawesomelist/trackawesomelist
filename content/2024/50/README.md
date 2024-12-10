@@ -1,18 +1,44 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2024
 
-17 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
+
+### Monitoring
+
+*   [incidenthub.cloud](https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
+
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Templates
+
+*   [Clean Architecture with Blazor Server (⭐874)](https://github.com/neozhu/CleanArchitectureWithBlazorServer) ![stars](https://img.shields.io/github/stars/neozhu/CleanArchitectureWithBlazorServer?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/neozhu/CleanArchitectureWithBlazorServer?style=flat-square) - Another template with MudBlazor and CleanArchitecture approach.
+
+### 2D/3D Rendering engines / Others
+
+*   [BlazorGravatar (⭐1)](https://github.com/PSCourtney/BlazorGravatar) - ![stars](https://img.shields.io/github/stars/PSCourtney/BlazorGravatar?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PSCourtney/BlazorGravatar?style=flat-square\&cacheSeconds=86400) A Blazor component for integrating Gravatar, Blazor WASM, Server and SSR.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### AI / Diagnostics
+
+*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+
+## [4. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Text processing
 
 *   [vxml (⭐1)](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
 
-## [2. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [5. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### CSS Games:
 
@@ -22,13 +48,13 @@
 
 
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -36,13 +62,13 @@
 *   [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 *   [SonarQube Server](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Build.
 
-## [5. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [8. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Firebase Genkit, and Google's Imagen 3.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [9. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -52,14 +78,14 @@
 
 *   [Android Malware Genome Project](http://www.malgenomeproject.org/) - contains 1260 malware samples categorized into 49 different malware families, free for research purposes.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [AEM10900](https://crates.io/crates/aem10900) - I2C - Energy Harvester - [github (⭐0)](https://github.com/trembel/aem10900) - [![crates.io](https://img.shields.io/crates/v/aem10900.svg)](https://crates.io/crates/aem10900)
 *   [FH101RF](https://crates.io/crates/fh101rf) - SPI - Wake-Up Radio - [github (⭐1)](https://github.com/trembel/fh101rf) - [![crates.io](https://img.shields.io/crates/v/fh101rf.svg)](https://crates.io/crates/fh101rf)
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -76,13 +102,13 @@
     *   documentation: <https://digikar99.github.io/numericals/>
 *   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
 *   [to\_atom\_in (⭐0)](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -96,7 +122,7 @@
 
 *   [Redlib (⭐1.4k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in [Libreddit (⭐5k)](https://github.com/libreddit/libreddit)
 
-## [11. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [14. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Enel](https://dsyui.enelx.com/)
 
@@ -154,13 +180,13 @@
 
 
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-page-html (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 
-## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Community
 
@@ -170,7 +196,7 @@
 
 *   [Wardley Maps for Obsidian.md (⭐3)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
-## [14. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin Themes
 
@@ -185,7 +211,7 @@
 
 *   [htpy](https://htpy.dev/) - htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language.
 
-## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -198,7 +224,7 @@
 
 *   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [19. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
@@ -210,7 +236,7 @@
 
 *   [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
-## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Seasonal
 

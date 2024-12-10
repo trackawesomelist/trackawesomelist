@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
+
+### AI / Diagnostics
+
+*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Completion / Diagnostics
@@ -28,7 +34,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐14)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ### Color / Diagnostics
 
@@ -50,7 +56,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐37)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
 ### Web Development / Diagnostics
 
@@ -58,7 +64,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐35)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Code Runner / Diagnostics
 
@@ -71,11 +77,11 @@ Collections of awesome neovim plugins.
 ### GitHub / Diagnostics
 
 *   [topaxi/pipeline.nvim (⭐138)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
-*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐66)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics
 
-*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+*   [2KAbhishek/exercism.nvim (⭐17)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
 ### Boilerplate / Diagnostics
 

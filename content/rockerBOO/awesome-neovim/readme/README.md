@@ -117,7 +117,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐37)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 *   [neovim/nvim-lspconfig (⭐11k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
 *   [nvim-lua/lsp-status.nvim (⭐632)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
 *   [RishabhRD/nvim-lsputils (⭐457)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
@@ -239,6 +239,7 @@ Collections of awesome neovim plugins.
 *   [Kurama622/llm.nvim (⭐54)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 *   [3v0k4/exit.nvim (⭐8)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 *   [k2589/LLuMinate.nvim (⭐12)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
+*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 <!--lint disable double-link -->
 
@@ -418,7 +419,7 @@ Collections of awesome neovim plugins.
 *   [tristone13th/lspmark.nvim (⭐54)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 *   [EvWilson/spelunk.nvim (⭐66)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 *   [2KAbhishek/markit.nvim (⭐12)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
-*   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐14)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 <!--lint disable double-link -->
 
@@ -972,7 +973,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Terminal Integration
 
-*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐35)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 *   [LoricAndre/OneTerm.nvim (⭐56)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
 
@@ -1208,7 +1209,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ldelossa/gh.nvim (⭐555)](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 *   [topaxi/pipeline.nvim (⭐138)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [rawnly/gist.nvim (⭐187)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
-*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐66)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 *   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
 <!--lint disable double-link -->
@@ -1545,7 +1546,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [p00f/cphelper.nvim (⭐135)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐442)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 *   [kawre/leetcode.nvim (⭐1.1k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
-*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+*   [2KAbhishek/exercism.nvim (⭐17)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
 <!--lint disable double-link -->
 

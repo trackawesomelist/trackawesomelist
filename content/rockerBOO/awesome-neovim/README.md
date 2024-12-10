@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 10, 2024](/content/2024/12/10/README.md)
+
+### AI / Diagnostics
+
+*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
 ### Completion / Diagnostics
@@ -52,17 +58,17 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐2)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐14)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐20)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐37)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
 ### Terminal Integration / Diagnostics
 
-*   [Dan7h3x/neaterm.nvim (⭐26)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐35)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -70,11 +76,11 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [2KAbhishek/octohub.nvim (⭐64)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐66)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics
 
-*   [2KAbhishek/exercism.nvim (⭐5)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+*   [2KAbhishek/exercism.nvim (⭐17)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 
 ### Boilerplate / Diagnostics
 
