@@ -1,24 +1,56 @@
 # Awesome List Updates on Dec 11, 2024
 
-8 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+
+### Examples
+
+*   [gitroomhq/postiz-app (⭐14k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
+
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@guiexpert/angular-table (⭐1)](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
+
+### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@TanStack/form (⭐3.9k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
+
+### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+
+## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### Connectors
+
+*   [ballerinax/mysql (⭐113)](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
+
+## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-h3 (⭐9)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [When and How to Develop Domain-Specific Languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027)]. \[[Preprint](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf)]. Domain-specific languages (DSLs) are languages tailored to a specific application domain. They offer substantial gains in expressiveness and ease of use compared with general-purpose programming languages in their domain of application. DSL development is hard, requiring both domain knowledge and language development expertise. Few people have both. Not surprisingly, the decision to develop a DSL is often postponed indefinitely, if considered at all, and most DSLs never get beyond the application library stage. Although many articles have been written on the development of particular DSLs, there is very limited literature on DSL development methodologies and many questions remain regarding when and how to develop a DSL. To aid the DSL developer, this survey paper identifies patterns in the decision, analysis, design, and implementation phases of DSL development. These patterns improve and extend earlier work on DSL design patterns.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -31,13 +63,13 @@
     *   "It is, in general, the most complete implementation of the Transducer pattern."
     *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Date and time
 
 *   [burntSushi/jiff (⭐1.8k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -83,20 +115,20 @@
 *   [NDJSON (⭐688) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐352) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Data formats / Mesh tools
 
 *   [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
     (C/Fortran, BSD, [GitHub (⭐637)](https://github.com/HDFGroup/hdf5))
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [NobodyWho (⭐29)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
-## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 

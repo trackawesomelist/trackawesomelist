@@ -18,6 +18,18 @@
 
 *   [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@guiexpert/angular-table (⭐1)](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
+
+### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@TanStack/form (⭐3.9k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
+
+### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
@@ -115,7 +127,7 @@
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-drag-resize (⭐7)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
+*   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

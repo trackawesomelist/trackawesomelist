@@ -266,6 +266,7 @@ Collections of awesome neovim plugins.
 *   [iabdelkareem/csharp.nvim (⭐228)](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 *   [jim-at-jibba/micropython.nvim (⭐43)](https://github.com/jim-at-jibba/micropython.nvim) - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 *   [neolooong/whichpy.nvim (⭐17)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
+*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
 ### Golang
 
@@ -1210,7 +1211,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [topaxi/pipeline.nvim (⭐138)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [rawnly/gist.nvim (⭐187)](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 *   [2KAbhishek/octohub.nvim (⭐66)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
-*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+*   [claydugo/browsher.nvim (⭐6)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
 <!--lint disable double-link -->
 

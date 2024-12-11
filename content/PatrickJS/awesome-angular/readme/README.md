@@ -1041,6 +1041,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid (⭐90)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 *   [ngx-panemu-table (⭐8)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 *   [ngx-grid (⭐4)](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
+*   [@guiexpert/angular-table (⭐1)](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
 
 #### Dates
 
@@ -1112,7 +1113,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-drag-drop-layout (⭐3)](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
 *   [ngx-swapy (⭐6)](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy (⭐6.7k)](https://github.com/TahaSh/swapy).
 *   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
-*   [ngx-drag-resize (⭐7)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
+*   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 
 #### Editor Components
 
@@ -1177,6 +1178,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-enhancy-forms (⭐4)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 *   [ngx-forms-core (⭐1)](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
 *   [ngx-focus-entities (⭐2)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel (⭐11)](https://github.com/klee-contrib/topmodel).
+*   [@TanStack/form (⭐3.9k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
 
 ##### Form Controls
 
@@ -1268,6 +1270,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
 *   [ngx-img-cropper (⭐192)](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
+*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 
 #### Keyboard Mouse
 

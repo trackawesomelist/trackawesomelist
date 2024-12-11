@@ -6,17 +6,23 @@ A curated list of awesome READMEs
 
 [ [Daily](/content/matiassingers/awesome-readme/README.md) / Weekly / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
+
+### Examples
+
+*   [gitroomhq/postiz-app (⭐14k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
+
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Examples
 
-*   [PlexRipper/PlexRipper (⭐283)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
+*   [PlexRipper/PlexRipper (⭐291)](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Examples
 
-*   [GTruf/Driver-Drowsiness-Detector (⭐1)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
+*   [GTruf/Driver-Drowsiness-Detector (⭐2)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
 
 ## [Sep 02 - Sep 08, 2024](/content/2024/36/README.md)
 
@@ -32,28 +38,28 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [Abblix/Oidc.Server (⭐39)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
+*   [Abblix/Oidc.Server (⭐40)](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
 ### Examples
 
 *   [eylon-44/Buzz-OS (⭐9)](https://github.com/eylon-44/Buzz-OS#readme) - Project logo. Colorful emojis. GIFs for project demo, examples, and instructions. Fast and simple copy-paste instructions for installation and usage. Pretty table of contents. A quick overview of project's main features.
-*   [lobehub/lobe-chat (⭐45k)](https://github.com/lobehub/lobe-chat#readme) - Modern badge design. Clear feature introductions accompanied by visual design graphics. Ecosystem introduction. Descriptions of project characteristics and development methods. Contributors section.
+*   [lobehub/lobe-chat (⭐49k)](https://github.com/lobehub/lobe-chat#readme) - Modern badge design. Clear feature introductions accompanied by visual design graphics. Ecosystem introduction. Descriptions of project characteristics and development methods. Contributors section.
 *   [lobehub/sd-webui-lobe-theme (⭐2.5k)](https://github.com/lobehub/sd-webui-lobe-theme#readme) - Feature list and demo. I18n support. Navigation with Header and TOC. Clear instructions.
 
 ### Architecture Examples
 
 *   [esbuild (⭐38k)](https://github.com/evanw/esbuild/blob/main/docs/architecture.md) - Great use of graphics for visualisations and project structure. Includes a list of important principles for the project.
-*   [Flutter Engine (⭐166k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
+*   [Flutter Engine (⭐167k)](https://github.com/flutter/flutter/blob/master/docs/about/The-Engine-architecture.md) - Good use of high level diagrams to show the stack and its parts. Describes the main processes. Describes platform invariants.
 *   [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
-*   [Linux cryptography (⭐183k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
-*   [Neovim (⭐83k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
+*   [Linux cryptography (⭐184k)](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
+*   [Neovim (⭐84k)](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
 *   [Oh My Zsh (⭐174k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 *   [Redis (⭐67k)](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 *   [rust-analyser (⭐99k)](https://github.com/rust-lang/rust/blob/master/src/tools/rust-analyzer/docs/dev/architecture.md) - Good diagrams, describes entry points and source organisation, discusses architecture considerations.
-*   [Tauri (⭐85k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
-*   [VS Code (⭐164k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
+*   [Tauri (⭐86k)](https://github.com/tauri-apps/tauri/blob/dev/ARCHITECTURE.md) - Well made source code map, discusses architecture considerations, calls out important dependencies.
+*   [VS Code (⭐165k)](https://github.com/microsoft/vscode/wiki/Source-Code-Organization) - Good use of high-level diagrams. Describes source organisation.
 
 ### Articles
 
@@ -71,27 +77,27 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [serpro69/kotlin-faker (⭐470)](https://github.com/serpro69/kotlin-faker#readme) - Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.
+*   [serpro69/kotlin-faker (⭐474)](https://github.com/serpro69/kotlin-faker#readme) - Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
 ### Examples
 
-*   [hywax/mafl (⭐364)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
-*   [Owloops/updo (⭐219)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
+*   [hywax/mafl (⭐374)](https://github.com/hywax/mafl#readme) - Project logo. Clear description of what the project does. TOC for easy navigation. Usage code samples.
+*   [Owloops/updo (⭐224)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Examples
 
-*   [IgorAntun/node-chat (⭐763)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+*   [IgorAntun/node-chat (⭐764)](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
 ### Examples
 
 *   [AntonioFalcaoJr/EventualShop (⭐369)](https://github.com/AntonioFalcaoJr/EventualShop#readme) - The project has a logo and well-defined sections such as: information about the project, the architectural solution, along with reference links such as articles, videos, and documentation. It explains how to run the project in different environments (development and production). It has documented load tests, it also describes which technologies are used, and it has diagrams for the archetype.
-*   [skydio/revup (⭐318)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
+*   [skydio/revup (⭐320)](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
@@ -103,7 +109,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [antoinezanardi/werewolves-assistant-api-next (⭐40)](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
+*   [antoinezanardi/werewolves-assistant-api-next](https://github.com/antoinezanardi/werewolves-assistant-api-next#readme) - Project logo. Badges. Concise description. TOC for easy navigation. Simple install instructions and various sections. Clean project with code coverage, CI, and many other features.
 
 ## [Apr 03 - Apr 09, 2023](/content/2023/14/README.md)
 
@@ -115,8 +121,8 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [ivanperez-keera/Yampa (⭐449)](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
-*   [Slackadays/Clipboard (⭐4.8k)](https://github.com/Slackadays/Clipboard#readme) - Project logo. Build and test/coverage badges. Transition from plain description to people-oriented description. Animated GIF showing usage. Custom banners for clearly laid out sections. Custom text assets for headers. Immediate call to action with Quick Start section. Consistent and easy to read command names and signatures. Three immediate options for getting help provided. Easter eggs provided for the detail-oriented.
+*   [ivanperez-keera/Yampa (⭐452)](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
+*   [Slackadays/Clipboard (⭐4.9k)](https://github.com/Slackadays/Clipboard#readme) - Project logo. Build and test/coverage badges. Transition from plain description to people-oriented description. Animated GIF showing usage. Custom banners for clearly laid out sections. Custom text assets for headers. Immediate call to action with Quick Start section. Consistent and easy to read command names and signatures. Three immediate options for getting help provided. Easter eggs provided for the detail-oriented.
 
 ## [Jan 30 - Feb 05, 2023](/content/2023/5/README.md)
 
@@ -128,7 +134,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [dbt-labs/dbt-core (⭐9.9k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
+*   [dbt-labs/dbt-core (⭐10k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
 *   [refinedev/refine (⭐29k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
@@ -147,7 +153,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [NASA/ogma (⭐336)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
+*   [NASA/ogma (⭐339)](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 
@@ -194,7 +200,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [zenml-io/zenml (⭐4.1k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
+*   [zenml-io/zenml (⭐4.2k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -207,7 +213,7 @@ A curated list of awesome READMEs
 ### Examples
 
 *   [alichtman/shallow-backup (⭐1.2k)](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [aregtech/areg-sdk (⭐280)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
+*   [aregtech/areg-sdk (⭐283)](https://github.com/aregtech/areg-sdk#readme) - Logo. Multiple info and statistics badges. List of contributors and stargazers with pictures. TOC and "Back to top" links for easy navigation. Headlines with graphics. Topic hide/show menu. Project description and philosophy. Clone and integration instructions. Quick build with multiple tools. Tools configuration instructions. Reference to examples and Demo projects. Reference to use cases. References to guidance and Wiki pages. Links with badges to contact. Links with badges to share the project on social networks.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -237,7 +243,7 @@ A curated list of awesome READMEs
 
 ### Tools
 
-*   [Amazing GitHub Template (⭐548)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+*   [Amazing GitHub Template (⭐550)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE\_OF\_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -260,9 +266,9 @@ A curated list of awesome READMEs
 *   [easybase/easybase-react (⭐74)](https://github.com/easybase/easybase-react#readme) - Project banner and logo. Badges. Expandable walkthrough sections. Concise description and purpose. TOC for easy navigation. GIFs for installation demo. Multiple informative visuals.
 *   [gofiber/fiber (⭐34k)](https://github.com/gofiber/fiber#readme) - Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
 *   [iterative/dvc (⭐14k)](https://github.com/iterative/dvc#readme) - ReStructuredText format example, PyPi compatible. Logo, custom website-like menu. Smooth how-it-works animation. Badges. Nice contribution section with the hall-of-fame.
-*   [ma-shamshiri/Human-Activity-Recognition (⭐98)](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors’ section. Easy navigation.
-*   [ma-shamshiri/Pacman-Game (⭐85)](https://github.com/ma-shamshiri/Pacman-Game#readme) - Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.
-*   [ma-shamshiri/Spam-Detector (⭐34)](https://github.com/ma-shamshiri/Spam-Detector#readme) - Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.
+*   [ma-shamshiri/Human-Activity-Recognition (⭐101)](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors’ section. Easy navigation.
+*   [ma-shamshiri/Pacman-Game (⭐86)](https://github.com/ma-shamshiri/Pacman-Game#readme) - Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.
+*   [ma-shamshiri/Spam-Detector (⭐35)](https://github.com/ma-shamshiri/Spam-Detector#readme) - Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.
 *   [PostHog/posthog (⭐22k)](https://github.com/PostHog/posthog#readme) - Custom-made section icons, demo GIF, deploy button, profile images for contributors, concise, clear structure, project logo.
 *   [Rebilly/redoc (⭐24k)](https://github.com/Redocly/redoc#readme) - Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.
 *   [release-it/release-it (⭐8.1k)](https://github.com/release-it/release-it#readme) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
@@ -280,7 +286,7 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [MananTank/radioactive-state (⭐312)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
+*   [MananTank/radioactive-state (⭐313)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
@@ -299,16 +305,16 @@ A curated list of awesome READMEs
 
 ### Examples
 
-*   [React Parallax Tilt (⭐982)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+*   [React Parallax Tilt (⭐985)](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
 ## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
 
 ### Examples
 
 *   [ai/size-limit (⭐6.6k)](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-*   [aimeos/aimeos-typo3 (⭐386)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [aimeos/aimeos-typo3 (⭐443)](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 *   [alichtman/stronghold (⭐1.1k)](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-*   [amitmerchant1990/electron-markdownify (⭐983)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+*   [amitmerchant1990/electron-markdownify (⭐988)](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 *   [anfederico/Clairvoyant (⭐2.4k)](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 *   [Armync/Arminc-AutoExec (⭐285)](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description, and compliance with the recommended community standards.
 *   [athityakumar/colorls (⭐4.9k)](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
@@ -317,12 +323,12 @@ A curated list of awesome READMEs
 *   [Day8/re-frame (⭐5.4k)](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 *   [github-changelog-generator/github-changelog-generator (⭐7.4k)](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 *   [gitpoint/git-point (⭐4.7k)](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
-*   [Hexworks/Zircon (⭐754)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-*   [iharsh234/WebApp (⭐93)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
+*   [Hexworks/Zircon (⭐755)](https://github.com/Hexworks/zircon#readme) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+*   [iharsh234/WebApp (⭐95)](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 *   [karan/joe (⭐2.9k)](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-*   [Martinsos/edlib (⭐514)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+*   [Martinsos/edlib (⭐517)](https://github.com/Martinsos/edlib#readme) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 *   [nhn/tui.editor (⭐17k)](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-*   [NSRare/NSGIF (⭐925)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+*   [NSRare/NSGIF (⭐926)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 *   [php-censor/php-censor (⭐679)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.
 *   [React on lambda (⭐264)](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
 *   [rstacruz/hicat (⭐406)](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
@@ -340,7 +346,7 @@ A curated list of awesome READMEs
 ### Tools
 
 *   [Hall-of-fame (⭐947)](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-*   [README best practices (⭐881)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
+*   [README best practices (⭐882)](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 *   [readme-md-generator (⭐11k)](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 *   [Standard Readme (⭐6.1k)](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 *   [Zalando's README Template (⭐801)](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.

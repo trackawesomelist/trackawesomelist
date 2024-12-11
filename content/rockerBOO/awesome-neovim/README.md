@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 11, 2024](/content/2024/12/11/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
 
 ### AI / Diagnostics
@@ -52,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+*   [claydugo/browsher.nvim (⭐6)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
 ## [Nov 25, 2024](/content/2024/11/25/README.md)
 

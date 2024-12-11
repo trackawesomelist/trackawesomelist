@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
+### Programming Languages Support / Diagnostics
+
+*   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Completion / Diagnostics
@@ -46,7 +50,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [claydugo/browsher.nvim (⭐2)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+*   [claydugo/browsher.nvim (⭐6)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 
 ### Formatting / Diagnostics
 
