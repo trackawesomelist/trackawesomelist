@@ -6,6 +6,13 @@
 
 [ [Daily](/content/nschloe/awesome-scientific-computing/README.md) / Weekly / [Overview](/content/nschloe/awesome-scientific-computing/readme/README.md) ]
 
+## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
+
+### Data formats / Mesh tools
+
+*   [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
+    (C/Fortran, BSD, [GitHub (⭐637)](https://github.com/HDFGroup/hdf5))
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Community / Mesh tools
@@ -168,8 +175,6 @@
     (C/C++/Fortran/Java/Python, [custom open-source
     license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
     [GitHub (⭐520)](https://github.com/Unidata/netcdf-c/))
-*   [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
-    (C/Fortran, BSD, [GitHub (⭐637)](https://github.com/HDFGroup/hdf5))
 *   [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 *   [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.

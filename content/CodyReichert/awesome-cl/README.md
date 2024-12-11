@@ -6,6 +6,19 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Dec 11, 2024](/content/2024/12/11/README.md)
+
+### Tools
+
+*   [rope (⭐5)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
+
+### Iteration
+
+*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐110)](https://github.com/fosskers/cl-transducers))
+    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
+    *   "It is, in general, the most complete implementation of the Transducer pattern."
+    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
+
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
 
 ### Others / Third-party APIs
@@ -398,13 +411,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [neo4cl](https://codeberg.org/Equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
     *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
-
-### Iteration
-
-*   [cl-transducers](https://git.sr.ht/~fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
-    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
-    *   "It is, in general, the most complete implementation of the Transducer pattern."
-    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 
 ## [Oct 29, 2023](/content/2023/10/29/README.md)
 
@@ -2841,7 +2847,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   ⭐ [uiop](https://common-lisp.net/project/asdf/uiop.html) and its `pathname` package
     (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
     and as thus is shipped in many implementations. [MIT](https://opensource.org/licenses/MIT).
-*   [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat](https://directory.fsf.org/wiki/License:Expat).
+*   [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems, including Windows (directory iteration and deletion, file permissions, file-type identification, etc) [Expat](https://directory.fsf.org/wiki/License:Expat).
+    *   note: Osicat isn't a pure Lisp library, it relies on compiling C code and this might make your deployment harder.
 
 ## [Jan 03, 2018](/content/2018/01/03/README.md)
 

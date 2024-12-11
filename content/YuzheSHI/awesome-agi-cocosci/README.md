@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 11, 2024](/content/2024/12/11/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [When and How to Develop Domain-Specific Languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027)]. \[[Preprint](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf)]. Domain-specific languages (DSLs) are languages tailored to a specific application domain. They offer substantial gains in expressiveness and ease of use compared with general-purpose programming languages in their domain of application. DSL development is hard, requiring both domain knowledge and language development expertise. Few people have both. Not surprisingly, the decision to develop a DSL is often postponed indefinitely, if considered at all, and most DSLs never get beyond the application library stage. Although many articles have been written on the development of particular DSLs, there is very limited literature on DSL development methodologies and many questions remain regarding when and how to develop a DSL. To aid the DSL developer, this survey paper identifies patterns in the decision, analysis, design, and implementation phases of DSL development. These patterns improve and extend earlier work on DSL design patterns.
+
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
@@ -482,7 +488,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
+*   [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. This paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
 
 ## [Mar 08, 2024](/content/2024/03/08/README.md)
 
@@ -953,12 +959,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Commonsense / AI Commonsense Reasoning
 
 *   [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=3844178012869500706\&hl=en\&as_sdt=0,5)]. \[[Project](https://swiftsage.github.io/)].
-
-## [Jun 16, 2023](/content/2023/06/16/README.md)
-
-### Domain Specific Language / Design Theory
-
-*   [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027)]. A review on DSL development methodologies that identify patterns in the decision, analysis, design, and implementation phases of DSL development.
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -1483,7 +1483,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
 *   [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645)]. \[[Preprint](https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=e58359b3dae3141fd2c85ee3f00c566411134929)]. This is a discussion of some of the achievements and challenges related to representing actions and the design of planners from the perspective of logic programming. The authors talk about recent work on action languages and translating them into logic programming, on representing possible histories of an action domain by answer sets, on efficient implementations of the answer set semantics and their use for generating plans, and on causal logic and its relation to planning algorithms. Recent progress in these areas may lead to the creation of planners which are based on the ideas of logic programming and combine the use of expressive action description languages with efficient computational procedures.
-*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=6634684154722677465)]. Benjamin Kuipers' comprehensive book on qualitative reasoning.
+*   [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***MIT Press***, 1994. \[[All Versions](https://scholar.google.com/scholar?\&cluster=6634684154722677465)]. This book presents, within a conceptually unified theoretical framework, a body of methods that have been developed over the past fifteen years for building and simulating qualitative models of physical systems - bathtubs, tea kettles, automobiles, the physiology of the body, chemical processing plants, control systems, electrical systems - where knowledge of that system is incomplete. The primary tool for this work is the author's QSIM algorithm, which is discussed in detail. Qualitative models are better able than traditional models to express states of incomplete knowledge about continuous mechanisms. Qualitative simulation guarantees to find all possible behaviors consistent with the knowledge in the model. This expressive power and coverage is important in problem solving for diagnosis, design, monitoring, explanation, and other applications of artificial intelligence.
 
 ### Problem Solving / Human-Level Problem Solving
 
@@ -2377,7 +2377,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Logic DSL Applications
 
-*   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9033452473914228535)].
+*   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=9033452473914228535)]. Shortcomings of qualitative simulation and of quantitative simulation motivate combining them to do simulations exhibiting strengths of both. The resulting class of techniques is called semiquantitative simulation. One approach to semi-quantitative simulation is to use numeric intervals to represent incomplete quantitative information. This research demonstrates semi-quantitative simulation using intervals in an implemented semi-quantitative simulator called Q3. Q3 progressively refines a qualitative simulation, providing increasingly specific quantitative predictions which can converge to a numerical simulation in the limit while retaining important correctness guarantees from qualitative and interval simulation techniques.
 
 ## [Feb 15, 2022](/content/2022/02/15/README.md)
 
