@@ -1,48 +1,79 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2024
 
-30 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### Table of contents
+
+*   **Section 7** 🧠: [Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering) | [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning)
+    *   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering)
+    *   [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning): PEFT (e.g., LoRA), RLHF, SFT
+    *   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
+    *   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
+    *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
+*   **Legend** 🔑:
+    *   `ref`: external URL
+    *   `doc`: archived doc
+    *   `cite`: the source of comments
+    *   `cnt`: number of citations
+    *   `git`: GitHub link
+    *   `x-ref`: Cross reference
+    *   📺: youtube or video
+
+## [2. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+
+### Subtitles
+
+*   [Fansubbing Guide (⭐151)](https://github.com/Irrational-Encoding-Wizardry/guide.encode.moe) - A guide for fansubbing. \[English]
+
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+
+### Backend / Redux / ELM / Dependency Injection
+
+*   [Nitric (⭐1.3k)](https://github.com/nitrictech/nitric) <!--stargazers:nitrictech/nitric--> - Open source framework with pluggable deployment by [Nitric](https://nitric.io/).
+
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Web / Messaging
 
 *   [by-nir/aws-lambda-zig (⭐3)](https://github.com/by-nir/aws-lambda-zig) - Super-fast AWS Lambda runtime for Zig.
 
-## [2. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Blockchain API and Web services
 
 *   [kibō.money](https://kibo.money) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 
-## [3. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [gitroomhq/postiz-app (⭐14k)](https://github.com/gitroomhq/postiz-app#readme) - Clear description. Project Logo. Motion graphic video, explanatory gifs.
 
-## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [ballerinax/mysql (⭐113)](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-h3 (⭐9)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [When and How to Develop Domain-Specific Languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027)]. \[[Preprint](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf)]. Domain-specific languages (DSLs) are languages tailored to a specific application domain. They offer substantial gains in expressiveness and ease of use compared with general-purpose programming languages in their domain of application. DSL development is hard, requiring both domain knowledge and language development expertise. Few people have both. Not surprisingly, the decision to develop a DSL is often postponed indefinitely, if considered at all, and most DSLs never get beyond the application library stage. Although many articles have been written on the development of particular DSLs, there is very limited literature on DSL development methodologies and many questions remain regarding when and how to develop a DSL. To aid the DSL developer, this survey paper identifies patterns in the decision, analysis, design, and implementation phases of DSL development. These patterns improve and extend earlier work on DSL design patterns.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -88,26 +119,26 @@
 *   [NDJSON (⭐688) (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐352) (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [11. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Data formats / Mesh tools
 
 *   [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
     (C/Fortran, BSD, [GitHub (⭐637)](https://github.com/HDFGroup/hdf5))
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [NobodyWho (⭐29)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
-## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Dwellers Under the High Grave](https://mendercap.itch.io/dwellers-under-the-high-grave) - A setting drawing inspiration from the history, folklore and landscapes of Ukraine
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -117,7 +148,7 @@
 
 *   [incidenthub.cloud](https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -127,7 +158,7 @@
 
 *   [BlazorGravatar (⭐1)](https://github.com/PSCourtney/BlazorGravatar) - ![stars](https://img.shields.io/github/stars/PSCourtney/BlazorGravatar?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PSCourtney/BlazorGravatar?style=flat-square\&cacheSeconds=86400) A Blazor component for integrating Gravatar, Blazor WASM, Server and SSR.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -137,13 +168,22 @@
 
 *   [nvim-java/nvim-java (⭐945)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
-## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
+### Motion / Diagnostics
+
+*   [DanilaMihailov/beacon.nvim (⭐386)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+*   [Aaronik/Treewalker.nvim (⭐2)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
+
+### Game / Diagnostics
+
+*   [csessh/aoc.vim (⭐3)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
+
+## [17. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Text processing
 
 *   [vxml (⭐1)](https://github.com/i582/vxml) - Pure V library for parsing XML to a DOM.
 
-## [15. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [18. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### CSS Games:
 
@@ -153,13 +193,13 @@
 
 
 
-## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [deoplete (⭐50)](https://github.com/zchee/deoplete-zsh) - ZSH completion for [deoplete.nvim (⭐5.9k)](https://github.com/Shougo/deoplete.nvim)
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [20. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -167,13 +207,13 @@
 *   [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 *   [SonarQube Server](https://sonarqube.org) — SonarQube empowers development teams with a code quality and security solution that deeply integrates into your enterprise environment; enabling you to deploy clean code consistently and reliably. SonarQube provides a free and open source Community Build.
 
-## [18. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [21. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Firebase Genkit, and Google's Imagen 3.
 
-## [19. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -183,14 +223,14 @@
 
 *   [Android Malware Genome Project](http://www.malgenomeproject.org/) - contains 1260 malware samples categorized into 49 different malware families, free for research purposes.
 
-## [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [AEM10900](https://crates.io/crates/aem10900) - I2C - Energy Harvester - [github (⭐0)](https://github.com/trembel/aem10900) - [![crates.io](https://img.shields.io/crates/v/aem10900.svg)](https://crates.io/crates/aem10900)
 *   [FH101RF](https://crates.io/crates/fh101rf) - SPI - Wake-Up Radio - [github (⭐1)](https://github.com/trembel/fh101rf) - [![crates.io](https://img.shields.io/crates/v/fh101rf.svg)](https://crates.io/crates/fh101rf)
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -218,13 +258,13 @@
     *   documentation: <https://digikar99.github.io/numericals/>
 *   [dense-arrays (⭐24)](https://github.com/digikar99/dense-arrays) -  Numpy like array object for common lisp. MIT.
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Validations
 
 *   [to\_atom\_in (⭐0)](https://github.com/JohnJocoo/to_atom_in) - Utility to safely convert string an atom in set.
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -246,7 +286,7 @@
 
 *   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
 
-## [24. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [27. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Enel](https://dsyui.enelx.com/)
 
@@ -304,13 +344,13 @@
 
 
 
-## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-page-html (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 
-## [26. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [29. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Community
 
@@ -320,7 +360,7 @@
 
 *   [Wardley Maps for Obsidian.md (⭐3)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
-## [27. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [30. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin Themes
 
@@ -335,7 +375,7 @@
 
 *   [htpy](https://htpy.dev/) - htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language.
 
-## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [31. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -348,7 +388,7 @@
 
 *   [mendableai/firecrawl (⭐19k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
-## [29. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [32. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
@@ -360,7 +400,7 @@
 
 *   [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Seasonal
 

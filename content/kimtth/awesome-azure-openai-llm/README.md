@@ -6,6 +6,25 @@ a curated list of 🔎Azure OpenAI, 🦙Large Language Models, and 🌌 referenc
 
 [ Daily / [Weekly](/content/kimtth/awesome-azure-openai-llm/week/README.md) / [Overview](/content/kimtth/awesome-azure-openai-llm/readme/README.md) ]
 
+## [Dec 12, 2024](/content/2024/12/12/README.md)
+
+### Table of contents
+
+*   **Section 7** 🧠: [Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering) | [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning)
+    *   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering)
+    *   [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning): PEFT (e.g., LoRA), RLHF, SFT
+    *   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
+    *   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
+    *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
+*   **Legend** 🔑:
+    *   `ref`: external URL
+    *   `doc`: archived doc
+    *   `cite`: the source of comments
+    *   `cnt`: number of citations
+    *   `git`: GitHub link
+    *   `x-ref`: Cross reference
+    *   📺: youtube or video
+
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
 ### Table of contents
@@ -34,21 +53,15 @@ a curated list of 🔎Azure OpenAI, 🦙Large Language Models, and 🌌 referenc
     *   [LangChain Features](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-feature-matrix--cheetsheet): Macro & Micro-orchestration
     *   [LangChain Agent & Criticism](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-chain-type-chains--summarizer)
     *   [LangChain vs Competitors](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-vs-competitors)
-*   **Section 7** 🧠: [Prompting & Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#prompt-engineering-finetuning-and-visual-prompts)
-    *   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#prompt-engineering)
-    *   [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#finetuning): PEFT (e.g., LoRA), RLHF, SFT
-    *   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#quantization-techniques)
-    *   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#other-techniques-and-llm-patterns): e.g., MoE
-    *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt_ft.md/#visual-prompting--visual-grounding)
 *   **Section 8** 🏄‍♂️: [Challenges & Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-challenges-and-solutions)
-    *   [AGI Discussion](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion)
+    *   [AGI Discussion & Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion-and-social-impact)
     *   [OpenAI Products & Roadmap](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#openais-roadmap-and-products)
     *   [Context Constraints](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#context-constraints): e.g., RoPE
     *   [Trust & Safety](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#trustworthy-safe-and-secure-llm)
     *   [LLM Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities)
 *   **Section 9** 🌍: [LLM Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-landscape)
     *   [LLM Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023)
-    *   [Open-Source LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#open-source-large-language-models)
+    *   [LLM Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection)
     *   [Domain-Specific LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#llm-for-domain-specific): e.g., Software development
     *   [Multimodal LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#mllm-multimodal-large-language-model)
     *   [Generative AI Landscape](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#generative-ai-landscape)
@@ -59,19 +72,6 @@ a curated list of 🔎Azure OpenAI, 🦙Large Language Models, and 🌌 referenc
 *   **Section 11** 🧰: [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#general-ai-tools-and-extensions)
     *   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
 
-## [Nov 29, 2024](/content/2024/11/29/README.md)
-
-### Table of contents
-
-*   **Symbols** 🔑:
-    *   `ref`: external URL
-    *   `doc`: archived doc
-    *   `cite`: the source of comments
-    *   `cnt`: number of citations
-    *   `git`: GitHub link
-    *   `x-ref`: Cross reference
-    *   📺: youtube or video
-
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Table of contents
@@ -80,5 +80,3 @@ a curated list of 🔎Azure OpenAI, 🦙Large Language Models, and 🌌 referenc
     *   [LLM Training Datasets](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/dataset.md/#datasets-for-llm-training)
 *   **Section 13** 📝: [Evaluations](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#section-12-evaluating-large-language-models--llmops)
     *   [LLM Evaluation & LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#evaluating-large-language-models--llmops)
-*   **Contributors** 👀:
-    *   [Contributors](#contributors)
