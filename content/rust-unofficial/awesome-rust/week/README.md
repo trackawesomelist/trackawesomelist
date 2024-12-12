@@ -24,6 +24,10 @@ A curated list of Rust code and resources.
 
 *   [burntSushi/jiff (⭐1.8k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 
+### Libraries / Scripting
+
+*   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Applications / Emulators

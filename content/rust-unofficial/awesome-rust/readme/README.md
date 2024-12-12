@@ -1773,6 +1773,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [3body-lang (⭐181)](https://github.com/rustq/3body-lang) - The Three Body Language
 *   [clarkmcc/cel-rust (⭐382)](https://github.com/clarkmcc/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 *   [duckscript](https://crates.io/crates/duckscript) - [Simple, extendable and embeddable scripting language. (⭐525)](https://github.com/sagiegurari/duckscript) [![build badge](https://github.com/sagiegurari/duckscript/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/duckscript/actions)
+*   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
 *   [fleabitdev/gamelisp (⭐395)](https://github.com/fleabitdev/glsp) - A Lisp-like scripting language for game development
 *   [gluon-lang/gluon (⭐3.2k)](https://github.com/gluon-lang/gluon) - A small, statically-typed, functional programming language
 *   [kcl (⭐1.7k)](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.

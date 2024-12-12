@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 12, 2024](/content/2024/12/12/README.md)
+
+### Libraries / Scripting
+
+*   [facebook/starlark-rust (⭐729)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
+
 ## [Dec 11, 2024](/content/2024/12/11/README.md)
 
 ### Libraries / Date and time
