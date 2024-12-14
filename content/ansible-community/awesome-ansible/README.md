@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Dec 14, 2024](/content/2024/12/14/README.md)
+
+### Tools
+
+*   [ansibledb (⭐20)](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
+
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### Community
@@ -19,13 +25,13 @@ Awesome Ansible List
 
 ### Tools
 
-*   [aar-doc - Automated Ansible Role Documentation (⭐20)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
+*   [aar-doc - Automated Ansible Role Documentation (⭐25)](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 
 ## [Mar 25, 2024](/content/2024/03/25/README.md)
 
 ### Tutorials
 
-*   [Ansible For DevOps (⭐8.4k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+*   [Ansible For DevOps (⭐8.6k)](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 
 ### Tools
 
@@ -67,7 +73,7 @@ Awesome Ansible List
 
 ### Editor and IDE Integrations / French
 
-*   [Ansible Language Server (⭐248)](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
+*   [Ansible Language Server (⭐249)](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
 *   [Emacs - Ansible client for Language Server Protocol](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Emacs support for Ansible Language Server Protocol.
 *   [VS Code - official Ansible Extension](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) - Adds language support for Ansible to Visual Studio Code and OpenVSX compatible editors by leveraging ansible-language-server.
 
@@ -75,7 +81,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [Ansible Semaphore (⭐10k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+*   [Ansible Semaphore (⭐11k)](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
 
 ### Playbooks, Roles and Collections / French
 
@@ -108,15 +114,15 @@ Awesome Ansible List
 
 ### Tools
 
-*   [php-ansible Library (⭐203)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
-*   [TD4A (⭐209)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
-*   [Ansible Playbook Grapher (⭐632)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
+*   [php-ansible Library (⭐204)](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
+*   [TD4A (⭐212)](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
+*   [Ansible Playbook Grapher (⭐646)](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐114)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐117)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -147,7 +153,7 @@ Awesome Ansible List
 ### Tools
 
 *   [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
-*   [ansible-runner (⭐962)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
+*   [ansible-runner (⭐977)](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 *   [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
@@ -172,7 +178,7 @@ Awesome Ansible List
 
 ### Tools
 
-*   [ansible-navigator (⭐383)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+*   [ansible-navigator (⭐398)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
 ## [Apr 03, 2021](/content/2021/04/03/README.md)
 
@@ -222,7 +228,7 @@ Awesome Ansible List
 ### Tools
 
 *   [Ansible Later (⭐111)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
-*   [Ansible Doctor (⭐127)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
+*   [Ansible Doctor (⭐133)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -250,7 +256,7 @@ Awesome Ansible List
 
 ### Tutorials
 
-*   [Ansible Tutorial by leucos (⭐2.2k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
+*   [Ansible Tutorial by leucos (⭐2.3k)](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 
 ### Videos
 
@@ -265,13 +271,13 @@ Awesome Ansible List
 
 ### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐82)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐86)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [Nov 26, 2019](/content/2019/11/26/README.md)
 
 ### Playbooks, Roles and Collections / French
 
-*   [T.A.D.S. boilerplate (⭐752)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+*   [T.A.D.S. boilerplate (⭐760)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
 ## [Aug 30, 2019](/content/2019/08/30/README.md)
 
@@ -309,7 +315,7 @@ Awesome Ansible List
 ### Tools
 
 *   [AWX (⭐14k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
-*   [Ansible cmdb (⭐2.3k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
+*   [Ansible cmdb (⭐2.4k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
