@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
@@ -14,6 +14,7 @@
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
   - [Awesome for Beginners](/content/content/MunGell/awesome-for-beginners/README.md)
+  - [Awesome Pentest](/content/content/enaqx/awesome-pentest/README.md)
   - [Awesome Remote Job](/content/content/lukasz-madon/awesome-remote-job/README.md)
   - [Awesome Readme](/content/content/matiassingers/awesome-readme/README.md)
   - [Awesome Neovim](/content/content/rockerBOO/awesome-neovim/README.md)
@@ -22,7 +23,6 @@
   - [Awesome Zsh Plugins](/content/content/unixorn/awesome-zsh-plugins/README.md)
   - [Awesome Osint](/content/content/jivoi/awesome-osint/README.md)
   - [Awesome Vite](/content/content/vitejs/awesome-vite/README.md)
-  - [Awesome Pentest](/content/content/enaqx/awesome-pentest/README.md)
   - [Static Analysis](/content/content/analysis-tools-dev/static-analysis/README.md)
   - [Awesome Angular](/content/content/PatrickJS/awesome-angular/README.md)
   - [Awesome Elixir](/content/content/h4cc/awesome-elixir/README.md)
