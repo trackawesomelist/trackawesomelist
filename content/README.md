@@ -28,6 +28,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [@luistabotelho/angular-signal-forms (⭐1)](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
 
+#### [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+
+##### Headless
+
+*   [Angular JSS starter kit for XM Cloud (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
+
+##### XM Cloud
+
+*   [Node XM Cloud Proxy (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
+
+#### [3. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Networking
+
+*   [bart (⭐37)](https://github.com/gaissmai/bart) - Package bart provides a fast routing table algorithm.
+
 ### [Dec 14, 2024](/content/2024/12/14/README.md)
 
 
@@ -82,19 +98,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Peninsula (⭐221)](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Celve/Peninsula) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [2. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Utilities
-
-*   [jet (⭐6)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
-
-#### [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+#### [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ##### Articles
 
 *   [Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software](https://embesozzi.medium.com/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)
 
-#### [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### IDE and Code Editing
 
@@ -108,13 +118,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ReqBin](https://reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 
-#### [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Miscellaneous
 
 *   [tiny::optional (⭐107)](https://github.com/Sedeniono/tiny-optional/) - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
 
-#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -132,6 +142,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-dialog (⭐2)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 
+#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Utilities
+
+*   [jet (⭐6)](https://github.com/NicoNex/jet) - Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
+
 ---
 
 - Next: [Dec 12, 2024](&#x2F;content&#x2F;2024&#x2F;12&#x2F;12&#x2F;README.md)
@@ -139,7 +155,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 205K 📝 12&#x2F;14 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 12&#x2F;13 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 12&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 90K 📝 12&#x2F;13 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 337K 📝 11&#x2F;29 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 78K 📝 12&#x2F;13 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -314,7 +330,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Plone](/content/collective/awesome-plone/README.md) - ([Source ⭐ 46, 📝 04&#x2F;30 ](https://github.com/collective/awesome-plone)) - Add-ons and resources for the CMS Plone
 - [Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/README.md) - ([Source ⭐ 29, 📝 16&#x2F;04&#x2F;07 ](https://github.com/refinerycms-contrib/awesome-refinerycms)) - A collection of awesome Refinery CMS extensions, resources and shiny things.
 - [Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md) - ([Source ⭐ 47, 📝 23&#x2F;07&#x2F;27 ](https://github.com/wernerkrauss/awesome-silverstripe-cms)) - Useful resources for Silverstripe CMS and framework
-- [Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md) - ([Source ⭐ 72, 📝 07&#x2F;16 ](https://github.com/MartinMiles/awesome-sitecore)) - Awesome lists of useful Sitecore tools, extensions and GitHub repositories 
+- [Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md) - ([Source ⭐ 72, 📝 12&#x2F;15 ](https://github.com/MartinMiles/awesome-sitecore)) - Awesome lists of useful Sitecore tools, extensions and GitHub repositories 
 - [Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md) - ([Source ⭐ 202, 📝 22&#x2F;08&#x2F;04 ](https://github.com/umbraco-community/awesome-umbraco)) - A curated list of awesome Umbraco packages, resources and tools
 - [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 2K, 📝 09&#x2F;28 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
@@ -845,7 +861,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 11&#x2F;25 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 12&#x2F;13 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 12&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources

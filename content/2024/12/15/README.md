@@ -1,12 +1,28 @@
 # Awesome List Updates on Dec 15, 2024
 
-1 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Networking
+
+*   [bart (⭐37)](https://github.com/gaissmai/bart) - Package bart provides a fast routing table algorithm.
+
+## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+
+### Headless
+
+*   [Angular JSS starter kit for XM Cloud (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
+
+### XM Cloud
+
+*   [Node XM Cloud Proxy (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
+
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
