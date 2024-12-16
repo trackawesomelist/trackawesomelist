@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.4K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -57,6 +57,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
     *   [Vue UI libraries:](#vue-ui-libraries)
     *   [React UI libraries:](#react-ui-libraries)
     *   [Angular UI libraries:](#angular-ui-libraries)
+    *   [Sustainability:](#sustainability)
     *   [Others:](#others)
 
 ## Hosting:
@@ -659,6 +660,20 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Taiga UI](https://taiga-ui.dev/)                | A powerful set of open source components for Angular                                                               |
 | [PrimeNG](https://www.primefaces.org/primeng/)   | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
 | [Angular Material](https://material.angular.io/) | Angular Material is a UI library component developed by Google in 2014.                                            |
+
+[⬆ back to top](#table-of-contents)
+
+## Sustainability
+
+| Website                                                                    | Description                                                                                                                       |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Beacon](https://digitalbeacon.co)                                         | Web page carbon calculator to help estimate and lower the carbon emissions of web pages                                           |
+| [Website Carbon](https://websitecarbon.com)                                | The first web page carbon calculator                                                                                              |
+| [Ecograder](https://ecograder.com)                                         | Web page carbon calculator with additional information on UX                                                                      |
+| [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/) | Sustainable design guidelines produced by W3C                                                                                     |
+| [Sustainable Web Design](https://sustainablewebdesign.org/)                | Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes                             |
+| [The Green Web Foundation](https://www.thegreenwebfoundation.org/)         | A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js                    |
+| [Tech Carbon Standard](https://www.techcarbonstandard.org/)                | A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas |
 
 [⬆ back to top](#table-of-contents)
 

@@ -6,6 +6,27 @@ Awesome Ansible List
 
 [ [Daily](/content/ansible-community/awesome-ansible/README.md) / Weekly / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### Tools
+
+*   [Ansible Inventory Grapher (⭐441)](https://github.com/willthames/ansible-inventory-grapher) - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
+
+### Editor and IDE Integrations / French
+
+*   [Vim](https://www.vim.org/) - An open-source, free command-line text editor. Useful Vim plugins include:
+    *   [Ansible vim (⭐800)](https://github.com/pearofducks/ansible-vim) - A vim syntax plugin for Ansible 2.x, it supports YAML playbooks, Jinja2 templates, and Ansible's hosts files.
+    *   [Ansible vim and neovim plugin](https://www.npmjs.com/package/@yaegassy/coc-ansible) - A vim plugin (lsp client) for Ansible, it supports autocompletion, syntax highlighting, hover, diagnostics, and goto support.
+*   [Emacs](https://www.gnu.org/software/emacs/) - A free, open-source text editor and IDE that supports auto-indentation, syntax highlighting and a built in terminal shell (among other things):
+    *   [lsp-mode](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Ansible Language Server Protocol support for Emacs: provides syntax highlighting, auto-completion and diagnostics.
+    *   [yaml-mode (⭐492)](https://github.com/yoshiki/yaml-mode) - YAML highlighting and syntax checking.
+    *   [jinja2-mode (⭐68)](https://github.com/paradoxxxzero/jinja2-mode) - Jinja2 highlighting and syntax checking.
+    *   [magit-mode (⭐6.6k)](https://github.com/magit/magit) - Git porcelain within Emacs.
+    *   [flymake-ansible-lint (⭐7)](https://github.com/jamescherti/flymake-ansible-lint.el) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
+*   [PyCharm](https://www.jetbrains.com/pycharm/) - A full IDE for Python software development. Useful plugins include:
+    *   [Ansible Lint](https://plugins.jetbrains.com/plugin/20905-ansible-lint) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
+    *   [Ansible Vault Integration](https://plugins.jetbrains.com/plugin/14353-ansible-vault-integration) - Ansible vault integration for IntelliJ IDEA with context actions for vaulting and unvaulting secrets.
+
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
 ### Tools
@@ -74,7 +95,6 @@ Awesome Ansible List
 ### Editor and IDE Integrations / French
 
 *   [Ansible Language Server (⭐249)](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
-*   [Emacs - Ansible client for Language Server Protocol](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Emacs support for Ansible Language Server Protocol.
 *   [VS Code - official Ansible Extension](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) - Adds language support for Ansible to Visual Studio Code and OpenVSX compatible editors by leveraging ansible-language-server.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)

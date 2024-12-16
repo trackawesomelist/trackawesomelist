@@ -2,9 +2,49 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 7.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Dec 16, 2024](/content/2024/12/16/README.md)
+
+### Sustainability
+
+- Website: [Beacon](https://digitalbeacon.co)
+
+  Description: Web page carbon calculator to help estimate and lower the carbon emissions of web pages
+
+
+- Website: [Website Carbon](https://websitecarbon.com)
+
+  Description: The first web page carbon calculator
+
+
+- Website: [Ecograder](https://ecograder.com)
+
+  Description: Web page carbon calculator with additional information on UX
+
+
+- Website: [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/)
+
+  Description: Sustainable design guidelines produced by W3C
+
+
+- Website: [Sustainable Web Design](https://sustainablewebdesign.org/)
+
+  Description: Design guidelines put together by a community of designers lead by Wholegrain Digital and MightyBytes
+
+
+- Website: [The Green Web Foundation](https://www.thegreenwebfoundation.org/)
+
+  Description: A database of web hosts that use renewable energy or are carbon neutral through offsets also authors of CO2.js
+
+
+- Website: [Tech Carbon Standard](https://www.techcarbonstandard.org/)
+
+  Description: A standardised model of tech emissions to help map out emissions created by tech within an organisation - touches on web and Saas
+
+
 
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
 
