@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### Distributed Systems
+
+*   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
+
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
 ### Networking
@@ -38,11 +44,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Search and Analytic Databases
 
-*   [zoekt (⭐751)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+*   [zoekt (⭐762)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 ### Game Development
 
-*   [Pixel (⭐251)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐256)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 
 ### Strings
 
@@ -50,7 +56,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Security
 
-*   [qrand (⭐15)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+*   [qrand (⭐16)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 
 ### Server Applications
 
@@ -136,7 +142,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [fatcontext (⭐12)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐14)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -3990,14 +3996,12 @@ A curated list of awesome Go frameworks, libraries and software
 ### Resource Embedding
 
 *   [debme (⭐33)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
-*   [esc (⭐637)](https://github.com/mjibson/esc) - Embeds files into Go programs and provides http.FileSystem interfaces to them.
 *   [fileb0x (⭐635)](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
 *   [go-resources (⭐176)](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
 *   [go.rice (⭐2.4k)](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as HTML, JS, CSS, images, and templates very easy.
 *   [mule (⭐15)](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focused on simplicity.
 *   [packr (⭐3.4k)](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 *   [rebed (⭐29)](https://github.com/soypat/rebed) - Recreate folder structures and files from Go 1.16's `embed.FS` type
-*   [statics (⭐66)](https://github.com/go-playground/statics) - Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks.
 *   [statik (⭐3.8k)](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
 *   [templify (⭐30)](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 *   [vfsgen (⭐984)](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
@@ -4564,7 +4568,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-cleanarch (⭐885)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 *   [go-critic (⭐1.9k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 *   [go-mod-outdated (⭐653)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
-*   [go-outdated (⭐43)](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 *   [goast-viewer (⭐773)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
 *   [golang-ifood-sdk (⭐12)](https://github.com/arxdsilva/golang-ifood-sdk) - iFood API SDK.
 *   [golines (⭐946)](https://github.com/segmentio/golines) - Formatter that automatically shortens long lines in Go code.
@@ -4660,7 +4663,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gonative (⭐338)](https://github.com/inconshreveable/gonative) - Tool which creates a build of Go that can cross compile to all platforms while still using the Cgo-enabled versions of the stdlib packages.
 *   [govvv (⭐539)](https://github.com/ahmetalpbalkan/govvv) - “go build” wrapper to easily add version information into Go binaries.
 *   [gox (⭐4.6k)](https://github.com/mitchellh/gox) - Dead simple, no frills Go cross compile tool.
-*   [goxc (⭐1.7k)](https://github.com/laher/goxc) - build tool for Go, with a focus on cross-compiling and packaging.
 *   [grapes (⭐169)](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 *   [GVM (⭐10k)](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 *   [Hey (⭐18k)](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.

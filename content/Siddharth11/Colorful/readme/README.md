@@ -15,7 +15,7 @@ A curated list of awesome resources to choose your next color scheme
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome (⭐330k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
+Inspired by the **[awesome (⭐337k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -33,18 +33,18 @@ Inspired by the **[awesome (⭐330k)](https://github.com/sindresorhus/awesome)**
 *   [pigment (⭐11)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 *   [GradStop.js (⭐154)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐333)](https://github.com/krasimir/coloor) - Image preloading utility.
 *   [Color Thief (⭐13k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 *   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 *   [Colofilter.css (⭐620)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 *   [Polychrome (⭐288)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-*   [Palettable (⭐772)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐780)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 *   [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 *   [granim.js (⭐5.3k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
 *   [tinygradient (⭐196)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
 *   [TinyColor (⭐5.1k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 *   [Distinct Colors (⭐121)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
-*   [color2k (⭐612)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐616)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
 
@@ -85,6 +85,8 @@ Inspired by the **[awesome (⭐330k)](https://github.com/sindresorhus/awesome)**
     with AI-Powered Palette Generator.
 *   [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 *   [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
+*   [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
+*   [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
 
 ## Color Palettes
 
@@ -109,6 +111,7 @@ Inspired by the **[awesome (⭐330k)](https://github.com/sindresorhus/awesome)**
 *   [Color Name List (⭐2.4k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 *   [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 *   [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
+*   [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
 
 ## Articles
 

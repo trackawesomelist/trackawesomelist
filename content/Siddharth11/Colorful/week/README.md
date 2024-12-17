@@ -6,6 +6,17 @@ A curated list of awesome resources to choose your next color scheme
 
 [ [Daily](/content/Siddharth11/Colorful/README.md) / Weekly / [Overview](/content/Siddharth11/Colorful/readme/README.md) ]
 
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### Tools / Web App
+
+*   [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
+*   [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+
+### Color Palettes / Web App
+
+*   [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
+
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
 ### Color Palettes / Web App
@@ -81,7 +92,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [color2k (⭐612)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐616)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
@@ -132,7 +143,7 @@ A curated list of awesome resources to choose your next color scheme
 
 ### Tools / Libraries
 
-*   [Palettable (⭐772)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐780)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 
@@ -256,7 +267,7 @@ A curated list of awesome resources to choose your next color scheme
 ### Tools / Libraries
 
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Coloor (⭐333)](https://github.com/krasimir/coloor) - Image preloading utility.
 
 ### Tools / Web App
 

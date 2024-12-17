@@ -1,12 +1,35 @@
 # Awesome List Updates on Dec 16 - Dec 22, 2024
 
-13 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Usability Evaluation of Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6511840) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199)]. \[[Preprint](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf)]. The purpose of this proposal is to contribute to the systematic activity of Software Language Engineering by focusing on the issue of the Usability evaluation of DSLs. Usability evaluation is often skipped, relaxed, or at least omitted from papers reporting development of DSLs. The authors argue that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs. For that purpose, the authors propose to merge common Usability evaluation processes with the DSL development process.
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Distributed Systems
+
+*   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
+
+## [3. Colorful](/content/Siddharth11/Colorful/week/README.md)
+
+### Tools / Web App
+
+*   [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
+*   [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+
+### Color Palettes / Web App
+
+*   [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
+
+## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Email Search / Email Check / Steam
 
@@ -22,14 +45,14 @@
 *   [Cyberbro (⭐51)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 
-## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [5. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :package: Packers / After 2010
 
 *   [ASM Guard (⭐242)](https://github.com/DosX-dev/ASM-Guard) - Free packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.
 *   [obfus.h (⭐986)](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation/virtualization (tcc, win x86/x64)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Operating systems
 
@@ -44,7 +67,7 @@
     *   [rinja-rs/askama (⭐3.5k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
     *   [Stebalien/horrorshow-rs (⭐325)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
@@ -54,7 +77,7 @@
 
 *   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
@@ -72,19 +95,23 @@
 
 *   [Hamilton (⭐1.9k)](https://github.com/dagworks-inc/hamilton) - a lightweight library to define data transformations as a directed-acyclic graph (DAG). It helps author reliable feature engineering and machine learning pipelines, and more.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Security & Privacy
+
+*   [Fuzzing Book](https://www.fuzzingbook.org) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler (HTML)
 
 ### Theoretical Computer Science
 
 *   [Introduction to Theoretical Computer Science](https://files.boazbarak.org/introtcs/lnotes_book.pdf) - Boaz Barak (PDF)
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Barometer
 
 *   [MicroPython-BMPxxx (⭐1)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 
-## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -105,7 +132,7 @@
     *   [Ansible Lint](https://plugins.jetbrains.com/plugin/20905-ansible-lint) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
     *   [Ansible Vault Integration](https://plugins.jetbrains.com/plugin/14353-ansible-vault-integration) - Ansible vault integration for IntelliJ IDEA with context actions for vaulting and unvaulting secrets.
 
-## [9. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [12. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Sustainability
 
@@ -145,19 +172,19 @@
 
 
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
 *   [phoenix\_storybook (⭐726)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 
-## [11. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [14. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Kotlin
 
 *   [Scribe-Android (⭐41)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
-## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -171,7 +198,7 @@
 
 *   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

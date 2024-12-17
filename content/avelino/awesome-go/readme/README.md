@@ -934,7 +934,7 @@ additional ordered map implementations.
 *   [go-elasticsearch (⭐5.7k)](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 *   [goes (⭐31)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 *   [skizze (⭐89)](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
-*   [zoekt (⭐751)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+*   [zoekt (⭐762)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 **[⬆ back to top](#contents)**
 
@@ -994,6 +994,7 @@ additional ordered map implementations.
 *   [glow (⭐3.2k)](https://github.com/chrislusf/glow) - Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.
 *   [gmsec (⭐25)](https://github.com/gmsec/micro) - A Go distributed systems development framework.
 *   [go-doudou (⭐1.4k)](https://github.com/unionj-cloud/go-doudou) - A gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. Built-in go-doudou cli focusing on low-code and rapid dev can power up your productivity.
+*   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
 *   [go-health (⭐751)](https://github.com/InVisionApp/go-health) - Library for enabling asynchronous dependency health checks in your service.
 *   [go-jump (⭐383)](https://github.com/dgryski/go-jump) - Port of Google's "Jump" Consistent Hash function.
 *   [go-kit (⭐27k)](https://github.com/go-kit/kit) - Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc.
@@ -1253,7 +1254,7 @@ additional ordered map implementations.
 *   [nano (⭐2.9k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.6k)](https://github.com/oakmound/oak) - Pure Go game engine.
 *   [Pitaya (⭐2.4k)](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-*   [Pixel (⭐251)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐256)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 *   [prototype (⭐88)](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 *   [raylib-go (⭐1.7k)](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 *   [termloop (⭐1.4k)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -2213,14 +2214,12 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 ## Resource Embedding
 
 *   [debme (⭐33)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
-*   [esc (⭐637)](https://github.com/mjibson/esc) - Embeds files into Go programs and provides http.FileSystem interfaces to them.
 *   [fileb0x (⭐635)](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
 *   [go-resources (⭐176)](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
 *   [go.rice (⭐2.4k)](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as HTML, JS, CSS, images, and templates very easy.
 *   [mule (⭐15)](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focused on simplicity.
 *   [packr (⭐3.4k)](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 *   [rebed (⭐29)](https://github.com/soypat/rebed) - Recreate folder structures and files from Go 1.16's `embed.FS` type
-*   [statics (⭐66)](https://github.com/go-playground/statics) - Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks.
 *   [statik (⭐3.8k)](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
 *   [templify (⭐30)](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 *   [vfsgen (⭐984)](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
@@ -2308,7 +2307,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [optimus-go (⭐363)](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 *   [passlib (⭐288)](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 *   [passwap (⭐54)](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
-*   [qrand (⭐15)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
+*   [qrand (⭐16)](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 *   [secret (⭐29)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 *   [secure (⭐2.3k)](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 *   [secureio (⭐33)](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
@@ -3180,13 +3179,12 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Chronos (⭐429)](https://github.com/amit-davidson/Chronos) - Detects race conditions statically
 *   [dupl (⭐346)](https://github.com/mibk/dupl) - Tool for code clone detection.
 *   [errcheck (⭐2.4k)](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
-*   [fatcontext (⭐12)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐14)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 *   [gcvis (⭐1.1k)](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 *   [go-checkstyle (⭐130)](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style referred to some points in Go Code Review Comments.
 *   [go-cleanarch (⭐885)](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 *   [go-critic (⭐1.9k)](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
 *   [go-mod-outdated (⭐653)](https://github.com/psampaz/go-mod-outdated) - An easy way to find outdated dependencies of your Go projects.
-*   [go-outdated (⭐43)](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 *   [goast-viewer (⭐773)](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
 *   [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) - Tool to fix (add, remove) your Go imports automatically.
 *   [golang-ifood-sdk (⭐12)](https://github.com/arxdsilva/golang-ifood-sdk) - iFood API SDK.
@@ -3323,7 +3321,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gonative (⭐338)](https://github.com/inconshreveable/gonative) - Tool which creates a build of Go that can cross compile to all platforms while still using the Cgo-enabled versions of the stdlib packages.
 *   [govvv (⭐539)](https://github.com/ahmetalpbalkan/govvv) - “go build” wrapper to easily add version information into Go binaries.
 *   [gox (⭐4.6k)](https://github.com/mitchellh/gox) - Dead simple, no frills Go cross compile tool.
-*   [goxc (⭐1.7k)](https://github.com/laher/goxc) - build tool for Go, with a focus on cross-compiling and packaging.
 *   [grapes (⭐169)](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 *   [GVM (⭐10k)](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 *   [Hey (⭐18k)](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
