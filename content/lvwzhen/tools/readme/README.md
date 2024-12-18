@@ -2,7 +2,7 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 956 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / [Weekly](/content/lvwzhen/tools/week/README.md) / Overview ]
 
@@ -48,7 +48,6 @@ Tools Online
 *   [xiconeditor](http://www.xiconeditor.com/)
 *   [tool.lu favicon](http://tool.lu/favicon/)
 *   [bitbug](http://www.bitbug.net/)
-*   [iconogen](http://iconogen.com/)
 *   [favicomatic](http://www.favicomatic.com/)
 *   [RealFaviconGenerator](https://realfavicongenerator.net/)
 *   [favicon.io](https://favicon.io/)
@@ -72,15 +71,9 @@ Tools Online
 
 *   [neumorphism css generator](https://neumorphism.io/)
 *   [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
-*   [css3lib](http://css3lib.alloyteam.com/)
 *   [csszengarden](http://www.csszengarden.com/)
-*   [css3Preview](http://www.css88.com/tool/css3Preview/)
 *   [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-*   [pleeease](http://pleeease.io/play/)
 *   [cssBeutify](http://tool.lu/css/)
-*   [css3-tool](http://isux.tencent.com/css3/tools.html)
-*   [css3 animation generator](http://isux.tencent.com/css3/tools.html)
-*   [css3 maker](http://www.css3maker.com/index.html)
 *   [css spritegen](http://spritegen.website-performance.org/)
 *   [csssprites](http://csssprites.com/)
 *   [sassme](http://sassme.arc90.com/)
@@ -88,10 +81,8 @@ Tools Online
 
 ### Image compression
 
-*   [punypng](http://www.punypng.com/)
 *   [webresizer](http://webresizer.com/resizer/)
 *   [TinyPNG](https://tinypng.com)
-*   [smushit](http://www.smushit.com/ysmush.it/)
 *   [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 *   [Compressor.io](https://compressor.io/)
 *   [Shrinkray](https://shrinkray.io)
@@ -104,14 +95,12 @@ Tools Online
 *   [jsbeautifier](http://jsbeautifier.org/)
 *   [jsfiddle](http://jsfiddle.net/)
 *   [jsbin](http://jsbin.com/)
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 *   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
 *   [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ### Pagespeed
 
 *   [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
-*   [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 *   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 *   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
@@ -123,7 +112,7 @@ Tools Online
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 *   [colourco.de](http://colourco.de)
 *   [flatuicolorpicker](http://www.flatuicolorpicker.com/)
@@ -142,7 +131,7 @@ Tools Online
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [webfonts](http://www.fonts.com/web-fonts)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐361)](https://github.com/lvwzhen/iconpark)
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 *   [Fontface Ninja](http://fontface.ninja/)
 *   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
@@ -195,9 +184,10 @@ Tools Online
 *   [DataFormsJS](https://www.dataformsjs.com/en/playground)
 *   [AnyChart Playground](https://playground.anychart.com/)
 
-### CheetSheet
+### CheatSheet
 
 *   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+*   [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
 ### UI Builders
 

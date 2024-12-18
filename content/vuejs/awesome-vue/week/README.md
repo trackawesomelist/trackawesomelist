@@ -6,6 +6,12 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### Resources / Examples
+
+*   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### Resources / Community
@@ -305,7 +311,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐239)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐241)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
@@ -813,7 +819,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -1084,7 +1090,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐4.1k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -2634,7 +2640,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐362)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐365)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 

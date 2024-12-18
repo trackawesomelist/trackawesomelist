@@ -19,7 +19,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-*   [Awesome Vue.js  ](#awesome-vuejs--)
+*   [Awesome Vue.js ](#awesome-vuejs--)
 *   [Resources](#resources)
     *   [Official Resources](#official-resources)
     *   [External Resources](#external-resources)
@@ -479,6 +479,7 @@
 *   [umo editor (⭐343)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 *   [Vitesse Starter (⭐8.9k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 *   [Vitesse-lite Starter (⭐1.1k)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
+*   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 
 ### Books
 
@@ -573,7 +574,7 @@
 *   [Laravel Enso (⭐1.1k)](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐362)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐365)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 *   [chrome-ribbon-reminder (⭐12)](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 *   [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
 *   [Minimal Notes (⭐133)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
@@ -605,7 +606,7 @@
 *   [Antares SQL (⭐1.9k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 *   [Bagisto (⭐16k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [GrandNode 2.0 (⭐1.1k)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
-*   [Aimeos (⭐4.1k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 *   [XIV ToDo (⭐128)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [Interface X (⭐80)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 *   [Balancer (⭐188)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
@@ -1526,7 +1527,7 @@ Tooltips / popovers
 *   [v-google-translate (⭐371)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 *   [fluent-vue (⭐248)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 *   [vue-next-i18n (⭐17)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
-*   [tolgee/vue (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 *   [intlify/vue-i18n-next (⭐2.2k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 
 #### Custom Events
@@ -1546,7 +1547,7 @@ Tooltips / popovers
 *   [v-bucket (⭐43)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [harlem (⭐516)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [exome (⭐239)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐241)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ##### Mobx
 

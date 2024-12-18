@@ -2,9 +2,15 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 956 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / Weekly / [Overview](/content/lvwzhen/tools/readme/README.md) ]
+
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### CheatSheet
+
+*   [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -74,7 +80,7 @@ Tools Online
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
-### CheetSheet
+### CheatSheet
 
 *   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
@@ -244,7 +250,6 @@ Tools Online
 ### Favicon
 
 *   [favicon.cc](http://www.favicon.cc/)
-*   [iconogen](http://iconogen.com/)
 
 ### CSS
 
@@ -261,11 +266,6 @@ Tools Online
 
 *   [Screensiz](http://screensiz.es/phone)
 
-### CSS
-
-*   [css3 animation generator](http://isux.tencent.com/css3/tools.html)
-*   [css3 maker](http://www.css3maker.com/index.html)
-
 ### Image compression
 
 *   [Shrinkray](https://shrinkray.io)
@@ -273,13 +273,6 @@ Tools Online
 ### API Doc
 
 *   [Easing functions](http://easings.net/en)
-
-## [Dec 08 - Dec 14, 2014](/content/2014/49/README.md)
-
-### CSS
-
-*   [pleeease](http://pleeease.io/play/)
-*   [css3-tool](http://isux.tencent.com/css3/tools.html)
 
 ## [Oct 27 - Nov 02, 2014](/content/2014/43/README.md)
 
@@ -296,10 +289,6 @@ Tools Online
 ### CDN
 
 *   [jsDelivr](http://www.jsdelivr.com/)
-
-### JavaScript
-
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 
 ### Pagespeed
 
@@ -358,17 +347,13 @@ Tools Online
 ### CSS
 
 *   [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
-*   [css3lib](http://css3lib.alloyteam.com/)
 *   [csszengarden](http://www.csszengarden.com/)
-*   [css3Preview](http://www.css88.com/tool/css3Preview/)
 *   [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 *   [cssBeutify](http://tool.lu/css/)
 
 ### Image compression
 
-*   [punypng](http://www.punypng.com/)
 *   [TinyPNG](https://tinypng.com)
-*   [smushit](http://www.smushit.com/ysmush.it/)
 *   [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 
 ### JavaScript
@@ -380,7 +365,6 @@ Tools Online
 
 ### Pagespeed
 
-*   [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 *   [Alibench](http://alibench.com/)
 *   [Webkaka](http://pagespeed.webkaka.com/)
 
@@ -390,7 +374,7 @@ Tools Online
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -401,7 +385,7 @@ Tools Online
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐361)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

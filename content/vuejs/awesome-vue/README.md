@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Dec 18, 2024](/content/2024/12/18/README.md)
+
+### Resources / Examples
+
+*   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
+
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
 ### Components & Libraries / Frameworks
@@ -339,7 +345,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐239)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐241)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
@@ -897,7 +903,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Feb 27, 2022](/content/2022/02/27/README.md)
 
@@ -1283,7 +1289,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐4.1k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.2k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [Jun 18, 2021](/content/2021/06/18/README.md)
 
@@ -3038,7 +3044,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐362)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐365)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 
