@@ -2,9 +2,15 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 127 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 129 · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevesong/awesome-connectivity-info/README.md) / Weekly / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
+
+## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
+
+### Global Connectivity Indexes
+
+*   [Emerging Digital Powerhouse Index](https://www.airgain.com/blog/emerging-digital-powerhouse-index/) 2024 - Ranking of OECD countries on factors ranging from tertiary enrollment to 5G connectivity.  Produced by wireless manufacturer [Airgain](https://www.airgain.com/).
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -44,7 +50,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Global Connectivity Indexes
 
-*   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
+*   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2024](https://download.networkreadinessindex.org/reports/data/2024/nri-2024.pdf)) ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 *   [Speedtest Global Index](https://www.speedtest.net/global-index) - (2024) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 *   cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 
@@ -84,7 +90,7 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 ### Other sources
 
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
-*   [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
+*   [Cloudflare Radar](https://radar.cloudflare.com/) - ([2024](https://blog.cloudflare.com/radar-2024-year-in-review/)) ([2023](https://blog.cloudflare.com/radar-2023-year-in-review/)) ([2022](https://blog.cloudflare.com/radar-2022-year-in-review/)) Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 
 ## [Aug 28 - Sep 03, 2023](/content/2023/35/README.md)
 

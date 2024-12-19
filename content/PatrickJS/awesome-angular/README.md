@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Dec 19, 2024](/content/2024/12/19/README.md)
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-html-syntax (⭐16)](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
+
+### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-hierarchy (⭐1)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
+
 ## [Dec 18, 2024](/content/2024/12/18/README.md)
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -3273,7 +3283,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐3)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
+*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐7)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 *   [prime-ng (⭐11k)](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

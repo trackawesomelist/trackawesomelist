@@ -12,6 +12,10 @@
 
 *   [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-html-syntax (⭐16)](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
+
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [trakk.js (⭐2)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
@@ -19,6 +23,7 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [sequential-workflow-designer (⭐1.1k)](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+*   [ngx-hierarchy (⭐1)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2866,7 +2871,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐3)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
+*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐7)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 *   [prime-ng (⭐11k)](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

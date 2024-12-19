@@ -1,24 +1,36 @@
 # Awesome List Updates on Dec 16 - Dec 22, 2024
 
-22 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+
+### Panic handling / WIP
+
+*   [`rp2040-panic-usb-boot`](https://crates.io/crates/rp2040-panic-usb-boot): Save panic message in XIP RAM and reboot RP2040 to USB mode [![crates.io](https://img.shields.io/crates/v/rp2040-panic-usb-boot.svg)](https://crates.io/crates/rp2040-panic-usb-boot)
+
+## [2. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+
+### Global Connectivity Indexes
+
+*   [Emerging Digital Powerhouse Index](https://www.airgain.com/blog/emerging-digital-powerhouse-index/) 2024 - Ranking of OECD countries on factors ranging from tertiary enrollment to 5G connectivity.  Produced by wireless manufacturer [Airgain](https://www.airgain.com/).
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
 
-## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -67,37 +79,37 @@
 *   [Protocol Buffers (⭐66k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐353) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Tools
 
 *   [CodeSandbox](https://codesandbox.io/templates/node-http-server) - Online IDE and prototyping.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 
-## [6. Tools](/content/lvwzhen/tools/week/README.md)
+## [8. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### CheatSheet
 
 *   [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Theory
 
 *   [Usability Evaluation of Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6511840) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199)]. \[[Preprint](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf)]. The purpose of this proposal is to contribute to the systematic activity of Software Language Engineering by focusing on the issue of the Usability evaluation of DSLs. Usability evaluation is often skipped, relaxed, or at least omitted from papers reporting development of DSLs. The authors argue that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs. For that purpose, the authors propose to merge common Usability evaluation processes with the DSL development process.
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Distributed Systems
 
 *   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
 
-## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [11. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
@@ -108,7 +120,7 @@
 
 *   [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Email Search / Email Check / Steam
 
@@ -124,14 +136,14 @@
 *   [Cyberbro (⭐51)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 
-## [11. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [13. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :package: Packers / After 2010
 
 *   [ASM Guard (⭐242)](https://github.com/DosX-dev/ASM-Guard) - Free packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.
 *   [obfus.h (⭐986)](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation/virtualization (tcc, win x86/x64)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Operating systems
 
@@ -146,7 +158,7 @@
     *   [rinja-rs/askama (⭐3.5k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
     *   [Stebalien/horrorshow-rs (⭐325)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Games
 
@@ -156,7 +168,7 @@
 
 *   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Rust / General-Purpose Machine Learning
 
@@ -174,7 +186,7 @@
 
 *   [Hamilton (⭐1.9k)](https://github.com/dagworks-inc/hamilton) - a lightweight library to define data transformations as a directed-acyclic graph (DAG). It helps author reliable feature engineering and machine learning pipelines, and more.
 
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Security & Privacy
 
@@ -184,13 +196,13 @@
 
 *   [Introduction to Theoretical Computer Science](https://files.boazbarak.org/introtcs/lnotes_book.pdf) - Boaz Barak (PDF)
 
-## [16. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [18. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Barometer
 
 *   [MicroPython-BMPxxx (⭐1)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 
-## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [19. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -211,7 +223,7 @@
     *   [Ansible Lint](https://plugins.jetbrains.com/plugin/20905-ansible-lint) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
     *   [Ansible Vault Integration](https://plugins.jetbrains.com/plugin/14353-ansible-vault-integration) - Ansible vault integration for IntelliJ IDEA with context actions for vaulting and unvaulting secrets.
 
-## [18. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [20. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Sustainability
 
@@ -251,23 +263,27 @@
 
 
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
 *   [phoenix\_storybook (⭐726)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 
-## [20. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [22. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### Kotlin
 
 *   [Scribe-Android (⭐41)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
-## [21. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-html-syntax (⭐16)](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -276,6 +292,7 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [sequential-workflow-designer (⭐1.1k)](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+*   [ngx-hierarchy (⭐1)](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -289,7 +306,7 @@
 
 *   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
-## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
