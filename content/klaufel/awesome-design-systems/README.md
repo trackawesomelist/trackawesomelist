@@ -2,9 +2,16 @@
 
 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 586 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/klaufel/awesome-design-systems/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems) · ⭐ 731 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / [Overview](/content/klaufel/awesome-design-systems/readme/README.md) ]
+
+## [Dec 20, 2024](/content/2024/12/20/README.md)
+
+### Accessibility (a11y)
+
+*   [Accessibility for developers](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
+*   [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
 
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
@@ -62,7 +69,7 @@
 
 ### Tools
 
-*   [Theo (⭐1.9k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+*   [Theo (⭐2k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
 ## [Oct 04, 2020](/content/2020/10/04/README.md)
 
@@ -83,10 +90,6 @@
 
 *   [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 
-### Accessibility (a11y)
-
-*   [Accessibility for developeres](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
-
 ### Design tokens
 
 *   [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
@@ -101,8 +104,8 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Source (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Viewport (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Source (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Viewport (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
 ### Books / Storybook addons
 
@@ -163,13 +166,13 @@
 
 ### Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐1.3k)](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐1.6k)](https://github.com/design-tokens/community-group)!
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Tools
 
-*   [Figmagic (⭐716)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary (⭐3.3k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [Figmagic (⭐819)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐4k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 
 ### Articles
@@ -193,14 +196,14 @@
 
 ### Develop isolated components / Storybook addons
 
-*   [Accessibility (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
-*   [Console (⭐187)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Storyshots (⭐79k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Accessibility (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Console (⭐200)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
+*   [Docs (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Storyshots (⭐85k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
 
 ### Pattern libraries articles / Storybook addons
 
@@ -245,5 +248,5 @@
 ### Pattern libraries articles / Storybook addons
 
 *   [How packaging makes it dead simple to share UI components](https://blog.hichroma.com/how-packaging-makes-it-dead-simple-to-share-ui-components-29912593539d)
-*   [Storybook design system (⭐1.8k)](https://github.com/storybookjs/design-system)
+*   [Storybook design system (⭐1.9k)](https://github.com/storybookjs/design-system)
 *   [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
