@@ -2,9 +2,15 @@
 
 A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) · ⭐ 431 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) · ⭐ 566 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/iamericfletcher/awesome-r-learning-resources/week/README.md) / [Overview](/content/iamericfletcher/awesome-r-learning-resources/readme/README.md) ]
+
+## [Dec 20, 2024](/content/2024/12/20/README.md)
+
+### Topic Areas / Viz
+
+*   [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
 
 ## [Jan 06, 2022](/content/2022/01/06/README.md)
 
@@ -81,7 +87,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Topic Areas / Web Scraping
 
-*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐353)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
+*   [Web Scraping Reference: Cheat Sheet for Web Scraping using R (⭐390)](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium. Author: [yifyan et al.](https://github.com/yusuzech)
 
 ### Topic Areas / Uncategorized
 
@@ -267,7 +273,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Topic Areas / Shiny
 
-*   [Awesome R Shiny (⭐720)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
+*   [Awesome R Shiny (⭐805)](https://github.com/grabear/awesome-rshiny) - A curated list of resources for R Shiny. Author: Rob Gilmore.
 *   [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#) - Introductory tutorial to Shiny. Note, this tutorial is deprecated. Author: RStudio.
 *   [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
 *   [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a) - Detailed introductory video tutorial. Author: Garrett Grolemund.
@@ -276,13 +282,13 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Topic Areas / Viz
 
-*   [Awesome ggplot2 (⭐1k)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
+*   [Awesome ggplot2 (⭐1.6k)](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 *   [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 *   [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
 *   [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. Author: Yan Holtz.
 *   [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
 *   [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
-*   [r-color-palettes (⭐1.2k)](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
+*   [r-color-palettes (⭐1.5k)](https://github.com/EmilHvitfeldt/r-color-palettes) - Comprehensive list of color palettes available in r. Author: Emil Hvitfeldt.
 *   [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualization Catalogue is a project developed by Severino Ribecca to create a library of different information visualization types.
 *   [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum) - The Graphic Continuum shows the many different types of visualizations available to us when we encode and present data. Authors: Jonathan Schwabish, and Severino Ribecca.
 *   [The R Graph Gallery](https://www.r-graph-gallery.com/) - A collection of charts made with the R programming language. Author: Yan Holtz.
@@ -327,7 +333,7 @@ A curated collection of free resources to help deepen your understanding of the 
 *   [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - Topics for the online course Data Analysis and Visualization Using R.
 *   [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - Topics include time series, analyzing word relationships with ggraph and tidytext, and tidymodels.
 *   [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) - The UC Berkeley R Bootcamp playlists include videos on R basics, handling data, performing calculations, programming, graphics, workflows, and statistics.
-*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐359)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
+*   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) - Topics include graphing for EDA, data manipulation, animated mapping, visualization, text mining, time series, forecasting, regression, bootstrapping, package development, network graphs, ANOVA, JSON, simulation, survival analysis, and tidymetrics. Click [here (⭐381)](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) for detailed TidyTuesday screencast annotations.
 *   [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) - Topics include numerical computing, generating random walks, markov chains, encoding categorical variables, probability, correlation plots, feature engineering, time series, binary classifiers, models, data.table, confusion matrices, machine learning, geocoding, summary statistics, and simulation.
 *   [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - Topics include predictive text modeling, impute missing data, tidymodels, sentiment analysis, multinomial classification, principal component analysis, data preprocessing and resampling, and multinomial classification.
 *   [Numyard](https://www.youtube.com/c/TheLearnR/videos) - Topics include working with dataframes, for loops, basic math, vectors, lists, creating functions, data types, and random sampling.
@@ -397,7 +403,7 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Contributing / Uncategorized
 
-*   Your contributions are always welcome! Please visit our [contributing.md (⭐431)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
+*   Your contributions are always welcome! Please visit our [contributing.md (⭐566)](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) to learn how to contribute to this list.
 
 ## [Aug 19, 2020](/content/2020/08/19/README.md)
 
@@ -407,4 +413,4 @@ A curated collection of free resources to help deepen your understanding of the 
 
 ### Communities of Practice / Uncategorized
 
-*   [TidyTuesday (⭐5.5k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
+*   [TidyTuesday (⭐7k)](https://github.com/rfordatascience/tidytuesday) - TidyTuesday is a weekly data project aimed at the R ecosystem with an emphasis placed on understanding how to summarize and arrange data to make meaningful charts.
