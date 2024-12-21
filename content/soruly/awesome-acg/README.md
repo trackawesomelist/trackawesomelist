@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Dec 21, 2024](/content/2024/12/21/README.md)
+
+### Image Generation
+
+*   [AniDoc (⭐201)](https://github.com/yihao-meng/AniDoc) - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
+
 ## [Dec 12, 2024](/content/2024/12/12/README.md)
 
 ### Subtitles
@@ -143,7 +149,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Image Generation
 
-*   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask \[English]
+*   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask. \[English]
 
 ## [Dec 07, 2021](/content/2021/12/07/README.md)
 
