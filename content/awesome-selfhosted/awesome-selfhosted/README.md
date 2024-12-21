@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 21, 2024](/content/2024/12/21/README.md)
+
+### Software / Miscellaneous
+
+*   [iSponsorBlockTV (⭐2.6k)](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads. `GPL-3.0` `Docker/Python`
+
 ## [Dec 17, 2024](/content/2024/12/17/README.md)
 
 ### Software / Games
@@ -3197,10 +3203,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python/deb`
 *   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo15.zentao.pm/), [Source Code (⭐1.3k)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
-### Software / Software Development - Testing
-
-*   [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code (⭐2.6k)](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
-
 ### Software / Task Management & To-do Lists
 
 *   [myTinyTodo](https://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](https://www.mytinytodo.net/demo/), [Source Code (⭐169)](https://github.com/maxpozdeev/mytinytodo/)) `GPL-2.0` `PHP`
@@ -3463,10 +3465,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ## [Jul 06, 2021](/content/2021/07/06/README.md)
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [ass (⭐676)](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs/Docker`
 
 ### Software / Office Suites
 

@@ -143,37 +143,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
 
-#### [10. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Distributed Systems
-
-*   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
-
-#### [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [cabovianco (⭐0)](https://github.com/cabovianco/cabovianco-zsh-theme) - Includes decorators for `git` status and current directory.
 
-#### [12. Tools](/content/lvwzhen/tools/README.md)
+#### [11. Tools](/content/lvwzhen/tools/README.md)
 
 ##### CheatSheet
 
 *   [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-#### [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Resources / Examples
 
 *   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 
-#### [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+#### [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ##### Resources / Tools
 
 *   [CodeSandbox](https://codesandbox.io/templates/node-http-server) - Online IDE and prototyping.
 
-#### [15. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -222,23 +216,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Protocol Buffers (⭐66k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐353) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [16. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 
-#### [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Games
-
-*   [Luanti](https://www.luanti.org/) - An open source voxel game engine (formerly Minetest). Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐11k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/Lua/deb`
-
-##### Software / Remote Access
-
-*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
-
-#### [18. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Email Search / Email Check / Steam
 
@@ -254,19 +238,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Cyberbro (⭐51)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
 
-#### [19. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Global Connectivity Indexes
 
 *   [Emerging Digital Powerhouse Index](https://www.airgain.com/blog/emerging-digital-powerhouse-index/) 2024 - Ranking of OECD countries on factors ranging from tertiary enrollment to 5G connectivity.  Produced by wireless manufacturer [Airgain](https://www.airgain.com/).
 
-#### [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Panic handling / WIP
 
 *   [`rp2040-panic-usb-boot`](https://crates.io/crates/rp2040-panic-usb-boot): Save panic message in XIP RAM and reboot RP2040 to USB mode [![crates.io](https://img.shields.io/crates/v/rp2040-panic-usb-boot.svg)](https://crates.io/crates/rp2040-panic-usb-boot)
 
-#### [21. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+#### [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ##### IDE
 
@@ -281,20 +265,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Querymon](https://codepip.com/games/querymon/) - Learn to use SQL queries on the Querydex, a database of monsters from common to legendary.
 
-#### [22. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+#### [20. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ##### Assembly / Tools
 
 *   **[Minimap2 (⭐1.8k)](https://github.com/lh3/minimap2)** - Minimap2 is an pairwise aligner for genomic and spliced nucleotide sequences. It can perform the assembly-to-assembly alignment, and works with gzip'd FASTQ, FASTA formats. It also finds overlaps between long-reads.
 *   **[D-GENIES](https://dgenies.toulouse.inra.fr/)** - **D**ot plot large **Gen**omes in an **I**nteractive, **E**fficient and **S**imple way. It is an online tool designed to support large genome, compare two genomes, and you can interact with the dot plot to improve the visualisation. It can also be used for extension of minimap2 by uploading the output generated in PAF(Pairwise mApping Format) or MAF(Multiple Alignment File) alignment files to D-GENIES
 
-#### [23. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [21. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Finder Tools
 
 *   [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one.
 
-#### [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [22. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Operating systems
 
@@ -313,7 +297,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [rinja-rs/askama (⭐3.5k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
     *   [Stebalien/horrorshow-rs (⭐326)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
-#### [25. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [23. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Database
 
@@ -323,56 +307,56 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JerryScript (⭐7k)](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
 
-#### [26. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+#### [24. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ##### Topic Areas / Viz
 
 *   [AISEKA](https://www.aiseka.com/) - Discover the best Color Palette & Color Tools. Author: meetqy.
 
-#### [27. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [25. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Make your life easier
 
 *   [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
 
-#### [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Theory
 
 *   [Usability Evaluation of Domain-Specific Languages](https://ieeexplore.ieee.org/abstract/document/6511840) - ***ICQICT'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=3047215455890195199)]. \[[Preprint](http://www-ctp.di.fct.unl.pt/QUASAR/Resources/Papers/2012/Barisic2012SEDES.pdf)]. The purpose of this proposal is to contribute to the systematic activity of Software Language Engineering by focusing on the issue of the Usability evaluation of DSLs. Usability evaluation is often skipped, relaxed, or at least omitted from papers reporting development of DSLs. The authors argue that a systematic approach based on User Interface experimental validation techniques should be used to assess the impact of new DSLs. For that purpose, the authors propose to merge common Usability evaluation processes with the DSL development process.
 
-#### [29. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [27. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Tools / CI
 
 *   [TF-via-PR (⭐127)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 
-#### [30. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+#### [28. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
 ##### Content Marketing / Content Management Systems (CMS)
 
 *   [BCMS](https://thebcms.com) - BCMS is an API-based Headless CMS, that provides flexible content modeling for creative projects in Next.js, Astro, Nuxt.js, and more
 
-#### [31. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [29. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### LLMs
 
 *   🌟🌟 [MarS (⭐142)](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 
-#### [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Motion / Diagnostics
 
 *   [sphamba/smear-cursor.nvim (⭐538)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 
-#### [33. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+#### [31. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ##### Accessibility (a11y)
 
 *   [Accessibility for developers](https://www.invisionapp.com/inside-design/accessibility-for-developers/) - 5 simple ways developers can help improve and enforce website accessibility.
 *   [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
 
-#### [34. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [32. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -420,7 +404,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
-#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Artifact Repos
 
@@ -430,11 +414,35 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
 
-#### [36. Awesome Acg](/content/soruly/awesome-acg/README.md)
+#### [34. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ##### Image Generation
 
 *   [AniDoc (⭐201)](https://github.com/yihao-meng/AniDoc) - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
+
+#### [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Games
+
+*   [Luanti](https://www.luanti.org/) - An open source voxel game engine (formerly Minetest). Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code (⭐11k)](https://github.com/minetest/minetest)) `LGPL-2.1/MIT/Zlib` `C++/Lua/deb`
+
+##### Software / Miscellaneous
+
+*   [iSponsorBlockTV (⭐2.6k)](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - SponsorBlock for YouTube TV, allows skipping sponsors, muting and skipping ads. `GPL-3.0` `Docker/Python`
+
+##### Software / Remote Access
+
+*   [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ([Source Code (⭐19)](https://github.com/engity-com/bifroest)) `Apache-2.0` `Go/Docker`
+
+#### [36. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Caches
+
+*   [sturdyc (⭐349)](https://github.com/viccon/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
+
+##### Distributed Systems
+
+*   [go-eagle (⭐2.2k)](https://github.com/go-eagle/eagle) - A Go framework for the API or Microservice with handy scaffolding tools.
 
 ---
 
@@ -442,8 +450,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ## Top 50 Awesome List
 
-1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 207K 📝 12&#x2F;17 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 12&#x2F;17 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 207K 📝 12&#x2F;21 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K 📝 12&#x2F;21 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 91K 📝 12&#x2F;21 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 78K 📝 12&#x2F;20 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 61K 📝 12&#x2F;20 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -1007,7 +1015,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.3K, 📝 12&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 995, 📝 01&#x2F;19 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 207K, 📝 12&#x2F;17 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 207K, 📝 12&#x2F;21 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1149,7 +1157,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 11&#x2F;25 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 12&#x2F;17 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 134K, 📝 12&#x2F;21 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
