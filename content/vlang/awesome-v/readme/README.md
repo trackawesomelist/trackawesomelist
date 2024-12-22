@@ -170,6 +170,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vorum (⭐216)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 *   [vss (⭐33)](https://github.com/vssio/vss) - Easy-to-use static site generator.
 *   [VTik (⭐18)](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+*   [rr-dl (⭐1)](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
 
 ## Libraries
 
@@ -238,6 +239,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vsdl (⭐12)](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 *   [vsdl2 (⭐45)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsl.vcl (⭐357)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+*   [vbmp (⭐1)](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
 
 ### IRC
 
@@ -300,7 +302,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [mui (⭐105)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [V UI (⭐2.3k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 *   [vgtk3 (⭐59)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-*   [vig (⭐54)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐54)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐62k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐49)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 *   [V-WebUI (⭐112)](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
 *   [webview (⭐63)](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.

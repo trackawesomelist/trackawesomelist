@@ -6,6 +6,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Dec 22, 2024](/content/2024/12/22/README.md)
+
+### Web
+
+*   [rr-dl (⭐1)](https://github.com/dy-tea/rr-dl) - Royal-Road Novel downloader.
+
+### Graphics
+
+*   [vbmp (⭐1)](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
+
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
 
 ### Text processing
@@ -731,5 +741,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### User Interface toolkits
 
-*   [vig (⭐54)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐61k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐54)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐62k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐49)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
