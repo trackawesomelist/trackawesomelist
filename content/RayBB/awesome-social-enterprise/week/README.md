@@ -2,9 +2,15 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 87 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 100 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / Weekly / [Overview](/content/RayBB/awesome-social-enterprise/readme/README.md) ]
+
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### Foundations / Articles
+
+*   [CA RISE](https://redf.org/ca-rise/) - A $25M California initiative providing capital ($100k-$500k grants) and technical assistance to employment social enterprises.
 
 ## [Jun 03 - Jun 09, 2024](/content/2024/23/README.md)
 

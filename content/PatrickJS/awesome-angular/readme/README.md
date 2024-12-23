@@ -64,7 +64,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [HTTP](#http)
     *   [Integrations](#integrations)
     *   [Internationalization](#internationalization)
-    *   [Module Federaion](#module-federation)
+    *   [Module Federation](#module-federation)
     *   [Monorepos](#monorepos)
     *   [Security](#security)
     *   [SEO](#seo)
@@ -642,7 +642,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-http-retry (⭐1)](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 *   [ng-memento (⭐1)](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 *   [ngx-suspense-of (⭐6)](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
-*   [ngx-http-request-state (⭐13)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
+*   [ngx-http-request-state (⭐14)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 
 #### Integrations
 
@@ -835,6 +835,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [nx-starter (⭐4)](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
 *   [ng-starter-template (⭐1)](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
 *   [angular-material-tailwind-playwright-starter (⭐2)](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
+*   [Angspire (⭐7)](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
 
 ##### Paid
 
@@ -1080,7 +1081,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [dhutaryan/ngx-mat-timepicker (⭐78)](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 *   [ngx-timeline (⭐1)](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 *   [ngx-prayertimes-api (⭐2)](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
-*   [frxjs-Ngx-Timeline (⭐35)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
+*   [frxjs-Ngx-Timeline (⭐37)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 #### DOM
 
@@ -1469,6 +1470,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-qrcode-generator (⭐1)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious (⭐1.6k)](https://github.com/neocotic/qrious) library.
 *   [ngx-scanner-qrcode (⭐57)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 *   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
+*   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐268)](https://github.com/lrsjng/kjua).
 
 #### Scroll
 
@@ -1543,7 +1545,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@tethys/store (⭐60)](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 *   [angular-redux (⭐73)](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 *   [ng (⭐5)](https://github.com/bitfiber/ng) - An Angular-specific extension of [@bitfiber/rx (⭐3)](https://github.com/bitfiber/rx) built on top of RxJS, designed to manage reactive state, asynchronous workflows, and events in Angular applications. It provides a structured approach to handling complex data flows using emitters, states, groups, and stores, allowing seamless integration of various reactive sources like emitters, states, and observables.
-*   [ngx-crud (⭐20)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
+*   [ngx-crud (⭐21)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
 *   [ngx-simple-state-manager (⭐1)](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
 *   [ngx-state-machine (⭐2)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 *   [@ng-state/store (⭐14)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.

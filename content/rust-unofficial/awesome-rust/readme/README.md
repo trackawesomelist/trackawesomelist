@@ -316,7 +316,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   PlayStation 4
     *   [Obliteration (⭐670)](https://github.com/obhq/obliteration) - Experimental PS4 emulator for Windows, macOS and Linux [![CI](https://github.com/obhq/obliteration/actions/workflows/main.yml/badge.svg)](https://github.com/obhq/obliteration/actions/workflows/main.yml)
 *   Shockwave Player
-    *   [DirPlayer (⭐53)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
+    *   [DirPlayer (⭐54)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
 *   ZX Spectrum
     *   [rustzx/rustzx (⭐205)](https://github.com/rustzx/rustzx) - [![RustZX CI](https://github.com/rustzx/rustzx/actions/workflows/ci.yml/badge.svg)](https://github.com/rustzx/rustzx/actions/workflows/ci.yml)
 
@@ -1106,7 +1106,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [dropbox/rust-brotli (⭐819)](https://github.com/dropbox/rust-brotli) - Brotli decompressor that optionally avoids the stdlib
     *   [ende76/brotli-rs (⭐63)](https://github.com/ende76/brotli-rs) - implementation of Brotli compression
 *   bzip2
-    *   [trifectatechfoundation/bzip2-rs (⭐98)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
+    *   [trifectatechfoundation/bzip2-rs (⭐105)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 *   gzip
     *   [zopfli (⭐38)](https://github.com/zopfli-rs/zopfli) \[[zopfli](https://crates.io/crates/zopfli)] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression
 *   gzp
@@ -1128,6 +1128,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [calebwin/emu (⭐1.6k)](https://github.com/calebwin/emu) - A language for GPGPU numerical computing
 *   [dimforge/nalgebra (⭐4.1k)](https://github.com/dimforge/nalgebra) - low-dimensional linear algebra library
 *   [faer-rs (⭐1.9k)](https://github.com/sarah-quinones/faer-rs) \[[faer](https://crates.io/crates/faer)] - Linear algebra foundation for Rust
+*   [fastnum (⭐68)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
 *   [GSL](http://www.gnu.org/software/gsl/)
     *   [GuillaumeGomez/rust-GSL (⭐191)](https://github.com/GuillaumeGomez/rust-GSL) - GSL bindings
 *   [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
@@ -1496,7 +1497,8 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   Game Servers
     *   [gamedig/rust-gamedig (⭐39)](https://github.com/gamedig/rust-gamedig) \[[gamedig](https://crates.io/crates/gamedig)] - Query game servers for informations such as name, players online, max players count etc. [![Crates.io](https://img.shields.io/crates/v/gamedig.svg)](https://crates.io/crates/gamedig) [![Crates.io](https://img.shields.io/crates/d/gamedig.svg)](https://crates.io/crates/gamedig)
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdext (⭐3.2k)](https://github.com/godot-rust/gdext) \[[gdext](https://crates.io/crates/gdext)] - Bindings to the Godot 4+ game engine [![CI](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot 3+ game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 *   [Raylib](https://www.raylib.com/)
     *   [deltaphc/raylib-rs (⭐801)](https://github.com/deltaphc/raylib-rs) \[[raylib](https://crates.io/crates/raylib)] - Bindings for raylib
 *   [SDL](http://www.libsdl.org/) \[[sdl](https://crates.io/keywords/sdl)]
@@ -1785,7 +1787,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [PistonDevelopers/dyon (⭐1.8k)](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language
 *   [rhaiscript/rhai (⭐3.9k)](https://github.com/rhaiscript/rhai) - A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
 *   [rune-rs/rune (⭐1.8k)](https://github.com/rune-rs/rune) - An embeddable dynamic programming language
-*   [trynova/nova (⭐959)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
+*   [trynova/nova (⭐983)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ### Simulation
 

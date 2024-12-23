@@ -2,7 +2,7 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 87 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 100 · 🏷️ Business
 
 [ [Daily](/content/RayBB/awesome-social-enterprise/README.md) / [Weekly](/content/RayBB/awesome-social-enterprise/week/README.md) / Overview ]
 
@@ -219,6 +219,7 @@ Academic institutions researching social enterprise:
 *   [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation) - Large foundation investing in social entrepreneurs.
 *   [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship) - Advocates for social entrepreneurss on a global level.
 *   [The Audacious Project](https://audaciousproject.org/) - A TED project funding social entrepreneurs and nonprofits.
+*   [CA RISE](https://redf.org/ca-rise/) - A $25M California initiative providing capital ($100k-$500k grants) and technical assistance to employment social enterprises.
 
 ### Consultants
 

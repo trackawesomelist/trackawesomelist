@@ -8,8 +8,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
+### Frameworks
+
+*   [AUI (⭐91)](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. \[MPL2]
+
 ### Miscellaneous
 
+*   [libONVIF (⭐168)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]
 *   [simdzone (⭐121)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 
 ## [Dec 20, 2024](/content/2024/12/20/README.md)

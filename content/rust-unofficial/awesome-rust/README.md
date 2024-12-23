@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 23, 2024](/content/2024/12/23/README.md)
+
+### Libraries / Computation
+
+*   [fastnum (⭐68)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
+
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
 ### Libraries / Macro
@@ -60,12 +66,12 @@ A curated list of Rust code and resources.
 ### Applications / Emulators
 
 *   Shockwave Player
-    *   [DirPlayer (⭐53)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
+    *   [DirPlayer (⭐54)](https://github.com/igorlira/dirplayer-rs) - A web-compatible Shockwave Player emulator written in Rust
 
 ### Libraries / Compression
 
 *   bzip2
-    *   [trifectatechfoundation/bzip2-rs (⭐98)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
+    *   [trifectatechfoundation/bzip2-rs (⭐105)](https://github.com/trifectatechfoundation/bzip2-rs) - [libbz2](https://www.sourceware.org/bzip2/) bindings
 
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
@@ -107,7 +113,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Scripting
 
-*   [trynova/nova (⭐959)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
+*   [trynova/nova (⭐983)](https://github.com/trynova/nova) - JavaScript engine written entirely in Rust
 
 ## [Nov 15, 2024](/content/2024/11/15/README.md)
 
@@ -2503,7 +2509,8 @@ A curated list of Rust code and resources.
 ### Libraries / Game development
 
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdext (⭐3.2k)](https://github.com/godot-rust/gdext) \[[gdext](https://crates.io/crates/gdext)] - Bindings to the Godot 4+ game engine [![CI](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdext/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.6k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Bindings to the Godot 3+ game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 

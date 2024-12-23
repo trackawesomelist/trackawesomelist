@@ -6,6 +6,28 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### AI / Diagnostics
+
+*   [milanglacier/yarepl.nvim#aider-extensions (⭐106)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
+
+### Utility / Diagnostics
+
+*   [MisanthropicBit/decipher.nvim (⭐34)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
+
+### Motion / Diagnostics
+
+*   [cxwx/specs.nvim (⭐3)](https://github.com/cxwx/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+
+### Keybinding / Diagnostics
+
+*   [TheBlob42/houdini.nvim (⭐34)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
+
+### Split and Window / Diagnostics
+
+*   [MisanthropicBit/winmove.nvim (⭐6)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Motion / Diagnostics
@@ -35,11 +57,11 @@ Collections of awesome neovim plugins.
 
 ### Completion / Diagnostics
 
-*   [brianaung/compl.nvim (⭐20)](https://github.com/brianaung/compl.nvim) - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+*   [brianaung/compl.nvim (⭐27)](https://github.com/brianaung/compl.nvim) - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 
 ### Git / Diagnostics
 
-*   [trevorhauter/gitportal.nvim (⭐38)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
+*   [trevorhauter/gitportal.nvim (⭐43)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
 
 ### Editing Support / Diagnostics
 
@@ -47,7 +69,7 @@ Collections of awesome neovim plugins.
 
 ### Tmux / Diagnostics
 
-*   [juselara1/tmutils.nvim (⭐2)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
+*   [juselara1/tmutils.nvim (⭐11)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -87,7 +109,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Diagnostics
 
-*   [chrisgrieser/nvim-justice (⭐11)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
+*   [chrisgrieser/nvim-justice (⭐12)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -95,7 +117,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [topaxi/pipeline.nvim (⭐138)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [topaxi/pipeline.nvim (⭐143)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [2KAbhishek/octohub.nvim (⭐66)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics
@@ -2915,7 +2937,6 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [edluffy/specs.nvim (⭐475)](https://github.com/edluffy/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 *   [abecodes/tabout.nvim (⭐768)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
 
 ### Formatting / Diagnostics

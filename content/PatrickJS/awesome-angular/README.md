@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Dec 23, 2024](/content/2024/12/23/README.md)
+
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angspire (⭐7)](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
+
+### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐268)](https://github.com/lrsjng/kjua).
+
 ## [Dec 21, 2024](/content/2024/12/21/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -159,7 +169,7 @@
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-http-request-state (⭐13)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
+*   [ngx-http-request-state (⭐14)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
@@ -169,7 +179,7 @@
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [frxjs-Ngx-Timeline (⭐35)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
+*   [frxjs-Ngx-Timeline (⭐37)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -357,7 +367,7 @@
 
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-crud (⭐20)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
+*   [ngx-crud (⭐21)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
 *   [ngx-simple-state-manager (⭐1)](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
 
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
