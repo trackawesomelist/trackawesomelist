@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 24, 2024](/content/2024/12/24/README.md)
+
+### Editing Support / Diagnostics
+
+*   [zongben/capsoff.nvim (⭐1)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
+
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
 ### AI / Diagnostics

@@ -488,6 +488,7 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [env (⭐6)](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 *   [envconfig (⭐241)](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 *   [envh (⭐99)](https://github.com/antham/envh) - Helpers to manage environment variables.
+*   [envyaml (⭐10)](https://github.com/yuseferi/envyaml) - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
 *   [fig (⭐381)](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
 *   [genv (⭐40)](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
 *   [go-array (⭐20)](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
@@ -2074,6 +2075,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *Libraries for making HTTP requests.*
 
+*   [azuretls-client (⭐187)](https://github.com/Noooste/azuretls-client) -  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
 *   [fast-shot (⭐72)](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 *   [gentleman (⭐1.1k)](https://github.com/h2non/gentleman) - Full-featured plugin-driven HTTP client library.
 *   [go-cleanhttp (⭐377)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
@@ -2092,6 +2094,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [resty (⭐10k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 *   [rq (⭐52)](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 *   [sling (⭐1.7k)](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
+*   [tls-client (⭐887)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 **[⬆ back to top](#contents)**
 
@@ -2290,6 +2293,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [Coraza (⭐2.3k)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 *   [dongle (⭐951)](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding\&decoding and encryption\&decryption.
 *   [encid (⭐3)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
+*   [entpassgen (⭐3)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 *   [firewalld-rest (⭐337)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 *   [go-generate-password (⭐55)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 *   [go-htpasswd (⭐39)](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.

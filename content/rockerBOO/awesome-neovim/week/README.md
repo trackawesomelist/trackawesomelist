@@ -24,6 +24,10 @@ Collections of awesome neovim plugins.
 
 *   [TheBlob42/houdini.nvim (⭐34)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
 
+### Editing Support / Diagnostics
+
+*   [zongben/capsoff.nvim (⭐1)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
+
 ### Split and Window / Diagnostics
 
 *   [MisanthropicBit/winmove.nvim (⭐6)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.

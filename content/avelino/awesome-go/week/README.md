@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [getopt (⭐3)](https://github.com/jon-codes/getopt) - An accurate Go `getopt`, validated against the GNU libc implementation.
 
+### Configuration
+
+*   [envyaml (⭐10)](https://github.com/yuseferi/envyaml) - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
+
 ### File Handling
 
 *   [gulter (⭐60)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
@@ -19,6 +23,15 @@ A curated list of awesome Go frameworks, libraries and software
 ### Generators
 
 *   [go-enum-encoding (⭐14)](https://github.com/nikolaydubina/go-enum-encoding) - Code generation for enum encoding from code comments.
+
+### HTTP Clients
+
+*   [azuretls-client (⭐187)](https://github.com/Noooste/azuretls-client) -  An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
+*   [tls-client (⭐887)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
+
+### Security
+
+*   [entpassgen (⭐3)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 
 ### Web Frameworks
 
