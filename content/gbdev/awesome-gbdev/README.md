@@ -6,11 +6,17 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Dec 24, 2024](/content/2024/12/24/README.md)
+
+### Tools / Music drivers and trackers
+
+*   [DevSoundX (⭐11)](https://github.com/DevEd2/DevSoundX) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
+
 ## [Dec 08, 2024](/content/2024/12/08/README.md)
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Rust-GB (⭐189)](https://github.com/zlfn/rust-gb) - A compiler and library that enable the development of GB ROMs using Rust.
+*   [Rust-GB (⭐202)](https://github.com/zlfn/rust-gb) - A compiler and library that enable the development of GB ROMs using Rust.
 
 ### ASM / Timings
 
@@ -79,7 +85,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Emulator Development / Misc
 
-*   [Game Boy Doctor (⭐195)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
+*   [Game Boy Doctor (⭐197)](https://github.com/robert/gameboy-doctor) - A command line tool for comparing logs from your emulator to those from a known-correct one. Useful for line-by-line debugging of Blargg's test ROMs.
 
 ### Tools / Development tools
 
@@ -158,7 +164,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### ASM / Sources
 
-*   [DeadCScroll (⭐22)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
+*   [DeadCScroll (⭐23)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
 ## [Sep 01, 2021](/content/2021/09/01/README.md)
 
@@ -177,14 +183,14 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### C / Syntax highlighting packages
 
-*   [Super Princess' 2092 Exodus (⭐27)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐712)](https://github.com/Zal0/ZGB/)).
-*   [Tobu Tobu Girl Deluxe (⭐80)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
+*   [Super Princess' 2092 Exodus (⭐27)](https://github.com/Zal0/gbjam2016) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Tobu Tobu Girl Deluxe (⭐81)](https://github.com/SimonLarsen/tobutobugirl-dx) - An arcade platformer for the Game Boy (Color).
 *   [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Side scrolling platformer for the Game Boy ([itch.io](https://user0x7f.itch.io/black-castle)).
 *   [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Shmup for the Game Boy ([itch.io](https://user0x7f.itch.io/genesis)).
 *   [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
-*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐712)](https://github.com/Zal0/ZGB/)).
-*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐712)](https://github.com/Zal0/ZGB/)).
-*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐712)](https://github.com/Zal0/ZGB/)).
+*   [Powa!](https://aiguanachein.itch.io/powa) - Side scrolling platformer for the Game Boy (Color)  ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
+*   [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine (⭐715)](https://github.com/Zal0/ZGB/)).
 *   [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
 *   [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
 
@@ -214,7 +220,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 *   [GBDK (⭐1.8k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
     *   [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
-    *   [Examples (⭐191)](https://github.com/mrombout/gbdk_playground)
+    *   [Examples (⭐193)](https://github.com/mrombout/gbdk_playground)
     *   [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 
 ### Game Disassemblies / Syntax highlighting packages
@@ -241,14 +247,14 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### C / Syntax highlighting packages
 
-*   [8-Bit Wonderland (⭐32)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
+*   [8-Bit Wonderland (⭐33)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
 *   [Infinity (⭐22)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
 ## [Mar 16, 2021](/content/2021/03/16/README.md)
 
 ### Retrieving images / Syntax highlighting packages
 
-*   [Arduino Gameboy Printer Emulator (⭐318)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
+*   [Arduino Gameboy Printer Emulator (⭐321)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulate a gameboy printer via the gameboy link cable.
 *   [ESP8266 Game Boy Printer (⭐48)](https://github.com/applefreak/esp8266-gameboy-printer) -  A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.
 *   [WiFi GBP Emulator (⭐67)](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
 *   [Game Boy WiFi Printer - D1 Mini Shield (⭐22)](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards.
@@ -258,7 +264,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 *   [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
 *   [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) - based on the above.
-*   [game-boy-camera-frame-replacer (⭐36)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
+*   [game-boy-camera-frame-replacer (⭐37)](https://github.com/cristofercruz/game-boy-camera-frame-replacer) - Manipulate the ROM of a camera to include custom frames
 
 ### Post processing / Syntax highlighting packages
 
@@ -277,7 +283,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Tools / Graphics utilities
 
-*   [Superfamiconv (⭐155)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+*   [Superfamiconv (⭐157)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
 ## [Feb 04, 2021](/content/2021/02/04/README.md)
 
@@ -287,13 +293,13 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer2 (⭐98)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
+*   [GBVideoPlayer2 (⭐99)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
 
 ## [Dec 30, 2020](/content/2020/12/30/README.md)
 
 ### Tools / Music drivers and trackers
 
-*   [hUGETracker (⭐295)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+*   [hUGETracker (⭐297)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 
 ### ASM / Boilerplates and libraries
 
@@ -304,7 +310,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### ASM / Boilerplates and libraries
 
 *   [gb-boilerplate (⭐72)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐56)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-starter-kit (⭐57)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ## [Dec 23, 2020](/content/2020/12/23/README.md)
 
@@ -319,16 +325,16 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Tools / Development tools
 
 *   [gbdk-lib-extension (⭐12)](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Game Boy Development Kit by Michael Hope.
-*   [mgbdis (⭐254)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
+*   [mgbdis (⭐258)](https://github.com/mattcurrie/mgbdis) - Game Boy ROM disassembler with RGBDS compatible output.
 *   [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - An online tool to inspect and modify a ROM's header data, including the logo.
 *   [romusage (⭐47)](https://github.com/bbbbbr/romusage) - Command line tool for estimating usage (free space) of Game Boy ROMs from a .map, .noi or ihx file. Works with GBDK-2020 and RGBDS.
-*   [awake (⭐66)](https://github.com/devdri/awake) - Game Boy decompiler.
+*   [awake (⭐68)](https://github.com/devdri/awake) - Game Boy decompiler.
 *   [Game Boy Text Tools (⭐10)](https://github.com/raphaklaus/gameboy-text-tools) - Set of tools for text manipulation and translation of Game Boy ROMs written in Node.js.
 
 ### Tools / Graphics utilities
 
 *   [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Some sources and home of Game Boy Tile Designer (GBTD) and Game Boy Map Builder (GBMB) tools.
-*   [Tilemap Studio (⭐397)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+*   [Tilemap Studio (⭐399)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 
 ### Tools / Hardware and ROM utilities
 
@@ -340,13 +346,13 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### C / Syntax highlighting packages
 
-*   [Petris (⭐32)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
+*   [Petris (⭐33)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
 ## [Dec 20, 2020](/content/2020/12/20/README.md)
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐182)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐77)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐184)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐78)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [Dec 08, 2020](/content/2020/12/08/README.md)
 
@@ -364,7 +370,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Assemblers / Misc
 
-*   [ASMotor (⭐75)](https://github.com/csoren/asmotor) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation (⭐75)](https://github.com/asmotor/asmotor/tree/develop#further-reading).
+*   [ASMotor (⭐78)](https://github.com/csoren/asmotor) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation (⭐78)](https://github.com/asmotor/asmotor/tree/develop#further-reading).
 
 ## [Oct 20, 2020](/content/2020/10/20/README.md)
 
@@ -380,7 +386,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Tools / Music drivers and trackers
 
-*   [DevSound (⭐49)](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 *   [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
 *   [GBT PLAYER (⭐284)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
 *   [mmlgb (⭐42)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
@@ -444,7 +449,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Peripherals / Opcodes
 
-*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐530)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
+*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐535)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
     *   [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Internet connectivity and DLC on the Game Boy Color.
     *   [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
     *   [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
@@ -472,12 +477,12 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Assemblers / Misc
 
-*   [wla-dx (⭐549)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
+*   [wla-dx (⭐552)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Binjgb (⭐551)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
-*   [gbe-plus (⭐530)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+*   [Binjgb (⭐553)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
+*   [gbe-plus (⭐535)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 ### ASM / Syntax highlighting packages
 
@@ -516,11 +521,11 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### ASM / Music drivers and trackers
 
-*   [Game Boy Assembly Programming for the Modern Game Developer (⭐152)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
+*   [Game Boy Assembly Programming for the Modern Game Developer (⭐153)](https://github.com/ahrnbom/gbapfomgd) - An e-book about making Game Boy games in Assembly.
 
 ### ASM / Boilerplates and libraries
 
-*   [GingerBread (⭐129)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐152)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
+*   [GingerBread (⭐129)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐153)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
 
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
 
@@ -544,7 +549,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Related projects / Syntax highlighting packages
 
 *   [GBCartRead (⭐65)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
-*   [GBxCart-RW (⭐96)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
+*   [GBxCart-RW (⭐95)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 
 ## [Oct 13, 2019](/content/2019/10/13/README.md)
 
@@ -580,7 +585,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Cartridges / Custom cartridges
 
-*   [Nekocart (⭐115)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+*   [Nekocart (⭐117)](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 *   [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/) - Commercial and homemade programmable cartridges and programming systems. Tutorials, wiring and schematics provided.
 
 ## [Apr 18, 2019](/content/2019/04/18/README.md)
@@ -617,7 +622,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Peripherals / Opcodes
 
 *   [Game Boy Camera RE (⭐82)](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino.
-*   [Arduino Game Boy Printer Emulator (⭐318)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
+*   [Arduino Game Boy Printer Emulator (⭐321)](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.
 
 ### Cartridges / Custom cartridges
 
@@ -631,7 +636,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### ASM / Syntax highlighting packages
 
-*   [waveform-gb (⭐18)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
+*   [waveform-gb (⭐19)](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
 
 ## [Dec 25, 2018](/content/2018/12/25/README.md)
 
@@ -721,7 +726,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [llvm-gbz80 (⭐36)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 (⭐23)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 (⭐9)](https://github.com/euclio/llvm-gbz80)).
+*   [llvm-gbz80 (⭐37)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 (⭐23)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 (⭐9)](https://github.com/euclio/llvm-gbz80)).
 
 ## [Oct 02, 2018](/content/2018/10/02/README.md)
 
@@ -770,11 +775,11 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐33)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐234)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐237)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Mooneye GB (⭐902)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐904)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -804,25 +809,25 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Related projects / Syntax highlighting packages
 
 *   [liblsdj (⭐93)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐173)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [lsdpatch (⭐176)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 
-*   [The Game Boy Archive - Salvage (⭐32)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
+*   [The Game Boy Archive - Salvage (⭐33)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
 ## [Aug 11, 2018](/content/2018/08/11/README.md)
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Wiz (⭐409)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-*   [gbforth (⭐128)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
+*   [Wiz (⭐411)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+*   [gbforth (⭐129)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐130)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 *   [Assembler (⭐118)](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
 
 ### Tools / Engines
 
-*   [ZGB (⭐712)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+*   [ZGB (⭐715)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 
 ### Tools / Graphics utilities
 
@@ -835,7 +840,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Documentation
 
-*   [The Cycle-Accurate Game Boy Docs (⭐191)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
+*   [The Cycle-Accurate Game Boy Docs (⭐192)](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - A precise documentation by AntonioND to make a cycle-accurate Game Boy emulator.
 
 ### Related projects / Syntax highlighting packages
 
@@ -853,14 +858,14 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### ASM / Syntax highlighting packages
 
 *   [Tuff (⭐306)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐112)](https://github.com/Sanqui/2048-gb)
+*   [2048-gb (⭐114)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 *   [Lazerpong (⭐14)](https://github.com/huderlem/lazerpong)
 *   [Geometrix (⭐29)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐432)](https://github.com/AntonioND/ucity)
+*   [µCity (⭐433)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐17)](https://github.com/mholtkamp/carazu)
 *   [Snake-gb (⭐19)](https://github.com/DonaldHays/snake-gb)
-*   [GB303 (⭐132)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
+*   [GB303 (⭐133)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
 *   [Sushi (⭐5)](https://github.com/JustSid/Sushi)
 *   [Flappy-boy-asm (⭐91)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐15)](https://github.com/tbsp/Adjustris)
@@ -900,13 +905,13 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐722)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐543)](https://github.com/pret/pokegold)
+*   [Pokémon Yellow (⭐725)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐548)](https://github.com/pret/pokegold)
 *   [pokegold-spaceworld (⭐352)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
 *   [Link's Awakening DX (⭐842)](https://github.com/mojobojo/LADX-Disassembly)
-*   [Oracle of Ages (⭐171)](https://github.com/drenn1/ages-disasm)
-*   [FX Hammer (⭐8)](https://github.com/DevEd2/FXHammer-Disasm)
-*   [Harvest Moon 3 (⭐18)](https://github.com/sanqui/hm3)
+*   [Oracle of Ages (⭐172)](https://github.com/drenn1/ages-disasm)
+*   [FX Hammer (⭐9)](https://github.com/DevEd2/FXHammer-Disasm)
+*   [Harvest Moon 3 (⭐19)](https://github.com/sanqui/hm3)
 
 ## [Jun 01, 2018](/content/2018/06/01/README.md)
 
@@ -914,18 +919,18 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 *   [rgbds-template (⭐42)](https://github.com/nezticle/rgbds-template) - Basic hello-world example for Game Boy using RGBDS.
 *   [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
-*   [bootstrap.gb (⭐30)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
-*   [Gameboy Boilerplate (⭐29)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
+*   [bootstrap.gb (⭐31)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
+*   [Gameboy Boilerplate (⭐30)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 
 ### C / Syntax highlighting packages
 
-*   [Simplified GBDK examples (⭐191)](https://github.com/mrombout/gbdk_playground)
+*   [Simplified GBDK examples (⭐193)](https://github.com/mrombout/gbdk_playground)
 
 ## [May 21, 2018](/content/2018/05/21/README.md)
 
 ### Related projects / Syntax highlighting packages
 
-*   [Game Boy video effects (⭐5)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
+*   [Game Boy video effects (⭐6)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
 
 ## [Mar 13, 2018](/content/2018/03/13/README.md)
 
@@ -999,7 +1004,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Cartridges / Opcodes
 
-*   [AntonioND's docs (⭐191)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
+*   [AntonioND's docs (⭐192)](https://github.com/AntonioND/giibiiadvance/tree/master/docs) - Corrected schematics and infos on cartridge header data.
 
 ### Related projects / Syntax highlighting packages
 
@@ -1015,7 +1020,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Related projects / Syntax highlighting packages
 
-*   [gb-save-states (⭐154)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [gb-save-states (⭐155)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [Sep 14, 2017](/content/2017/09/14/README.md)
 
@@ -1034,7 +1039,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐157)](https://github.com/pret/pokepinball)
+*   [Pokémon Pinball (⭐158)](https://github.com/pret/pokepinball)
 *   [Pokémon TCG (⭐265)](https://github.com/pret/poketcg)
 
 ## [Apr 21, 2017](/content/2017/04/21/README.md)
@@ -1067,7 +1072,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Related projects / Syntax highlighting packages
 
-*   [ArduinoGameBoy (⭐155)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+*   [ArduinoGameBoy (⭐156)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
 ## [Feb 06, 2017](/content/2017/02/06/README.md)
 
@@ -1106,7 +1111,7 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Red/Blue (⭐4k)](https://github.com/pret/pokered)
+*   [Pokémon Red/Blue (⭐4.1k)](https://github.com/pret/pokered)
 *   [Pokémon Crystal (⭐2.1k)](https://github.com/pret/pokecrystal)
 
 ### Related projects / Syntax highlighting packages

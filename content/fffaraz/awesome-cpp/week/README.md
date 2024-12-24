@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [AUI (⭐91)](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. \[MPL2]
 
+### Scripting
+
+*   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
+
 ### Miscellaneous
 
 *   [libONVIF (⭐168)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]

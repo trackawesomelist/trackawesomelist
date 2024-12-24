@@ -6,6 +6,32 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### Standard CLI
+
+*   [getopt (⭐3)](https://github.com/jon-codes/getopt) - An accurate Go `getopt`, validated against the GNU libc implementation.
+
+### File Handling
+
+*   [gulter (⭐60)](https://github.com/adelowo/gulter) - A simple HTTP middleware to automatically handle all your file upload needs
+
+### Generators
+
+*   [go-enum-encoding (⭐14)](https://github.com/nikolaydubina/go-enum-encoding) - Code generation for enum encoding from code comments.
+
+### Web Frameworks
+
+*   [templui (⭐216)](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
+
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [WebhookX (⭐111)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
+
+### Other Software / Libraries for creating HTTP middlewares
+
+*   [Chapar (⭐499)](https://github.com/chapar-rest/chapar) - Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Caches
@@ -34,11 +60,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Project Layout
 
-*   [kickstart.go (⭐72)](https://github.com/raeperd/kickstart.go) - Minimalistic single-file Go HTTP server template without third-party dependencies.
+*   [kickstart.go (⭐77)](https://github.com/raeperd/kickstart.go) - Minimalistic single-file Go HTTP server template without third-party dependencies.
 
 ### UUID
 
-*   [uuidcheck (⭐2)](https://github.com/ashwingopalsamy/uuidcheck) - A tiny, dependency-free Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into UTC timestamps.
+*   [uuidcheck (⭐3)](https://github.com/ashwingopalsamy/uuidcheck) - A tiny, dependency-free Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into UTC timestamps.
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -79,7 +105,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Authentication and OAuth
 
-*   [goiabada (⭐136)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
+*   [goiabada (⭐137)](https://github.com/leodip/goiabada) - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
 
 ### Utilities
 
@@ -182,7 +208,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐279)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐293)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
@@ -456,7 +482,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-multiproxy (⭐6)](https://github.com/presbrey/go-multiproxy) - Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 *   [sdns (⭐964)](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
-*   [webhooked (⭐37)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
 ### Security
 
@@ -482,6 +507,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### UUID
 
 *   [fastuuid (⭐0)](https://github.com/rekby/fastuuid) - Fast generate UUIDv4 as string or bytes.
+
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [webhooked (⭐37)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
 
@@ -1770,7 +1799,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [acmd (⭐116)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [command-chain (⭐62)](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
-*   [go-andotp (⭐30)](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP (⭐3.8k)](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
 *   [go-getoptions (⭐56)](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 *   [sflags (⭐156)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [wmenu (⭐216)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
@@ -2894,11 +2922,9 @@ A curated list of awesome Go frameworks, libraries and software
 *   [Dnote (⭐2.8k)](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 *   [elvish (⭐5.8k)](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 *   [env (⭐114)](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
-*   [flag (⭐131)](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
 *   [flaggy (⭐861)](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support.
 *   [flagvar (⭐43)](https://github.com/sgreben/flagvar) - A collection of flag argument types for Go's standard `flag` package.
 *   [go-arg (⭐2k)](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
-*   [go-commander (⭐35)](https://github.com/yitsushi/go-commander) - Go library to simplify CLI workflow.
 *   [go-flags (⭐2.6k)](https://github.com/jessevdk/go-flags) - go command line option parser.
 *   [gocmd (⭐65)](https://github.com/devfacet/gocmd) - Go library for building command line applications.
 *   [hiboot cli (⭐181)](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
@@ -4538,6 +4564,10 @@ A curated list of awesome Go frameworks, libraries and software
 *   [wasmbrowsertest (⭐192)](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests in your browser.
 *   [webapi (⭐176)](https://github.com/gowebapi/webapi) - Bindings for DOM and HTML generated from WebIDL.
 
+### Webhooks Server / Libraries for creating HTTP middlewares
+
+*   [webhook (⭐11k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
+
 ### Windows / Libraries for creating HTTP middlewares
 
 *   [d3d9 (⭐159)](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
@@ -4699,7 +4729,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [trubka (⭐333)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 *   [uTask (⭐1.2k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐24k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-*   [webhook (⭐11k)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
 *   [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 *   [winrm-cli (⭐163)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 

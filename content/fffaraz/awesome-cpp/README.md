@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Dec 24, 2024](/content/2024/12/24/README.md)
+
+### Scripting
+
+*   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
+
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
 ### Frameworks

@@ -6,41 +6,47 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 [ Daily / [Weekly](/content/typeddjango/awesome-python-typing/week/README.md) / [Overview](/content/typeddjango/awesome-python-typing/readme/README.md) ]
 
+## [Dec 24, 2024](/content/2024/12/24/README.md)
+
+### Tools / Helper tools to add annotations to existing code
+
+*   [RightTyper (⭐154)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
+
 ## [Sep 15, 2024](/content/2024/09/15/README.md)
 
 ### Stub packages
 
-*   [scipy-stubs (⭐2)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
+*   [scipy-stubs (⭐24)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
 
 ## [Jul 12, 2024](/content/2024/07/12/README.md)
 
 ### Backports and improvements
 
-*   [typing-extensions (⭐422)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
+*   [typing-extensions (⭐450)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
 ### Tools / Linters
 
-*   [Ruff (⭐31k)](https://github.com/astral-sh/ruff/) - Extremely fast linter which supports lint rules from many other lint tools, such as flake8.
+*   [Ruff (⭐34k)](https://github.com/astral-sh/ruff/) - Extremely fast linter which supports lint rules from many other lint tools, such as flake8.
 
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [no\_implicit\_optional (⭐78)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
+*   [no\_implicit\_optional (⭐87)](https://github.com/hauntsaninja/no_implicit_optional) - A codemod to make your implicit optional type hints [PEP 484](https://peps.python.org/pep-0484/#union-types) compliant.
 
 ## [Apr 02, 2024](/content/2024/04/02/README.md)
 
 ### Additional types
 
-*   [optype (⭐11)](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
+*   [optype (⭐25)](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
 
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
 ### Static type checkers
 
-*   [basedpyright (⭐944)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
+*   [basedpyright (⭐1.3k)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
@@ -50,25 +56,25 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Additional types
 
-*   [useful-types (⭐88)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
+*   [useful-types (⭐119)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
 ### Static type checkers
 
-*   [basedmypy (⭐134)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
+*   [basedmypy (⭐151)](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
 
 ## [May 30, 2023](/content/2023/05/30/README.md)
 
 ### Static type checkers
 
-*   [pylyzer (⭐2.4k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
+*   [pylyzer (⭐2.6k)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
 
 ## [Feb 09, 2023](/content/2023/02/09/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [jsonschema-gentypes (⭐38)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
+*   [jsonschema-gentypes (⭐41)](https://github.com/camptocamp/jsonschema-gentypes) - Generate Python types based on TypedDict from a JSON Schema.
 
 ### Articles / Third-party articles
 
@@ -96,7 +102,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Working with types
 
-*   [mypy-baseline (⭐51)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
+*   [mypy-baseline (⭐59)](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy with existing codebase. A CLI tool that filters out existing type errors and reports only new ones.
 *   [retype (⭐141)](https://github.com/ambv/retype) - Another tool to apply stubs to code.
 *   [typesplainer (⭐82)](https://github.com/wasi-master/typesplainer) - A Python type explainer.
 
@@ -104,19 +110,19 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [infer-types (⭐80)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
+*   [infer-types (⭐88)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
 ## [Mar 02, 2022](/content/2022/03/02/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [autotyping (⭐223)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
+*   [autotyping (⭐244)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
 
 ## [Feb 12, 2022](/content/2022/02/12/README.md)
 
 ### Stub packages
 
-*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐9k)](https://github.com/boto/boto3).
+*   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐9.1k)](https://github.com/boto/boto3).
 *   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐1.2k)](https://github.com/aio-libs/aiobotocore).
 
 ## [Jan 25, 2022](/content/2022/01/25/README.md)
@@ -127,7 +133,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Stub packages
 
-*   [celery-types (⭐79)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐24k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐679)](https://github.com/celery/django-celery-results), [ampq (⭐308)](https://github.com/celery/py-amqp), [kombu (⭐2.9k)](https://github.com/celery/kombu), [billiard (⭐410)](https://github.com/celery/billiard), [vine (⭐122)](https://github.com/celery/vine) and [ephem (⭐766)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐88)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐25k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐698)](https://github.com/celery/django-celery-results), [ampq (⭐309)](https://github.com/celery/py-amqp), [kombu (⭐2.9k)](https://github.com/celery/kombu), [billiard (⭐419)](https://github.com/celery/billiard), [vine (⭐123)](https://github.com/celery/vine) and [ephem (⭐787)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -137,7 +143,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Testing
 
-*   [mypy-test (⭐5)](https://github.com/orsinium-labs/mypy-test) - Test mypy plugins, stubs, custom types.
+*   [mypy-test (⭐6)](https://github.com/orsinium-labs/mypy-test) - Test mypy plugins, stubs, custom types.
 
 ### Tools / Working with types
 
@@ -147,7 +153,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Dynamic type checkers
 
-*   [trycast (⭐76)](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
+*   [trycast (⭐79)](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
 
 ### Tools / Linters
 
@@ -155,7 +161,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [auto-optional (⭐16)](https://github.com/Luttik/auto-optional) - Makes typed arguments Optional when the default argument is `None`.
+*   [auto-optional (⭐17)](https://github.com/Luttik/auto-optional) - Makes typed arguments Optional when the default argument is `None`.
 
 ### Articles / Third-party articles
 
@@ -168,7 +174,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐112)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐116)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [Oct 02, 2021](/content/2021/10/02/README.md)
 
@@ -181,7 +187,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Mypy plugins
 
-*   [kubernetes-typed (⭐19)](https://github.com/gordonbondon/kubernetes-typed) - Plugin for kubernetes [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) type checking.
+*   [kubernetes-typed (⭐21)](https://github.com/gordonbondon/kubernetes-typed) - Plugin for kubernetes [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) type checking.
 
 ## [Jul 21, 2021](/content/2021/07/21/README.md)
 
@@ -191,7 +197,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐1k)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐1.1k)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [Jul 20, 2021](/content/2021/07/20/README.md)
 
@@ -203,47 +209,47 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Static type checkers
 
-*   [mypy (⭐18k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐333)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [mypy (⭐19k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
+*   [pyanalyze (⭐350)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐4.7k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4.8k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [strongtyping (⭐107)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [strongtyping (⭐111)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
 *   [asgiref (⭐1.5k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.5k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-*   [typeshed (⭐4.3k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [typeshed (⭐4.4k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
 *   [meiga (⭐76)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐83)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐194)](https://github.com/antonagestam/phantom-types) - Phantom types.
-*   [returns (⭐3.5k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐43)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
-*   [typet (⭐21)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
+*   [option (⭐85)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐205)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [returns (⭐3.7k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+*   [safetywrap (⭐44)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [typet (⭐22)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Tools / Linters
 
-*   [wemake-python-styleguide (⭐2.5k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [wemake-python-styleguide (⭐2.6k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐140)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [typing-inspect (⭐347)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐143)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [typing-inspect (⭐352)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4.7k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [type4py (⭐61)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [monkeytype (⭐4.8k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [type4py (⭐62)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 
 ### Integrations / Mypy plugins
 
-*   [mypy-playground (⭐69)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐313)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐72)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐314)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.7k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ## [Jul 15, 2021](/content/2021/07/15/README.md)
@@ -254,13 +260,13 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐200)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [pytypes (⭐201)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
 
 ### Stub packages
 
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [PyQt5-stubs (⭐67)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐570)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐9.4k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [PyQt5-stubs (⭐68)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐571)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐9.8k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
@@ -272,23 +278,23 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐246)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐249)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [merge-pyi (⭐4.7k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [merge-pyi (⭐4.8k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
 *   [mypy-silent (⭐14)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pytest-annotate (⭐109)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐43)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [typilus (⭐58)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐41)](https://github.com/typilus/typilus-action)
+*   [typilus (⭐59)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐42)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐19)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐19k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.4k)](https://github.com/pynamodb/PynamoDB) support.
+*   [loguru-mypy (⭐20)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐20k)](https://github.com/Delgan/loguru) support.
+*   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.5k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
@@ -320,26 +326,26 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Stub packages
 
-*   [lxml-stubs (⭐42)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
+*   [lxml-stubs (⭐45)](https://github.com/lxml/lxml-stubs) - Stubs for [lxml](https://lxml.de).
 
 ## [Mar 13, 2021](/content/2021/03/13/README.md)
 
 ### Tools / Linters
 
 *   [flake8-typing-imports (⭐48)](https://github.com/asottile/flake8-typing-imports) - Plugin which checks that typing imports are properly guarded.
-*   [flake8-typing-only-imports (⭐112)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
+*   [flake8-typing-only-imports (⭐116)](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 plugin that helps identify which imports to put into type-checking blocks, and how to adjust your type annotations once imports are moved.
 
 ## [Mar 03, 2021](/content/2021/03/03/README.md)
 
 ### Dynamic type checkers
 
-*   [beartype (⭐2.6k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+*   [beartype (⭐2.8k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐6.8k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
-*   [pytype annotate-ast (⭐4.7k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
+*   [pyre infer (⭐6.9k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+*   [pytype annotate-ast (⭐4.8k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
@@ -357,7 +363,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Testing
 
-*   [pytest-mypy-testing (⭐28)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
+*   [pytest-mypy-testing (⭐31)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
 ## [May 19, 2020](/content/2020/05/19/README.md)
 
@@ -392,8 +398,8 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐20k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1.5k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐22k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.6k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
 ## [Oct 06, 2019](/content/2019/10/06/README.md)
 
@@ -405,7 +411,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Working with types
 
-*   [mypyc (⭐18k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
+*   [mypyc (⭐19k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
@@ -418,13 +424,13 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Static type checkers
 
-*   [pyright (⭐13k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+*   [pyright (⭐14k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 ### Stub packages
 
-*   [django-stubs (⭐1.6k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐79k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐431)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐28k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐35)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
+*   [django-stubs (⭐1.6k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐81k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐459)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐29k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐37)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -432,16 +438,16 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐99)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐109)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐643)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐660)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
-*   [mypy-zope (⭐38)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
-*   [mypy/plugins (⭐18k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
+*   [mypy-zope (⭐39)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
+*   [mypy/plugins (⭐19k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 
 ### Integrations / Mypy plugins
 
@@ -458,5 +464,5 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐219k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
-*   [python-typecheckers (⭐61)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
+*   [awesome-python (⭐227k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [python-typecheckers (⭐63)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
