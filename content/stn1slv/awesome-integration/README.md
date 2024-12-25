@@ -6,21 +6,46 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Dec 18, 2024](/content/2024/12/18/README.md)
+## [Dec 25, 2024](/content/2024/12/25/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐207) (⭐207)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐863) (⭐863)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+*   [Gravitee.io API Management (⭐209) (⭐207)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [WSO2 API Manager (⭐864) (⭐863)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐844) (⭐844)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐214) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [OpenAPI Diff (⭐848) (⭐844)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐213) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Documentation
 
-*   [Zudoku (⭐108) (⭐106)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
+*   [DapperDox (⭐411) (⭐410)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
+*   [Zudoku (⭐116) (⭐116)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
+
+### Projects / Data Mapping Solution
+
+*   [JSLT (⭐643) (⭐641)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+
+### Projects / ESB
+
+*   [WSO2 Enterprise Integrator (⭐378) (⭐376)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+
+### Projects / Workflow engine
+
+*   [Apache Airflow (⭐38k) (⭐38k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
+*   [Bonita (⭐156) (⭐155)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐695) (⭐690)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐355) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+### Resources / Structure and Validation
+
+*   [JSON Schema (⭐3.9k) (⭐3.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+
+## [Dec 18, 2024](/content/2024/12/18/README.md)
 
 ### Projects / API Gateway
 
@@ -34,11 +59,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Data Mapping Solution
 
 *   [AltasMap (⭐199) (⭐199)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-*   [JSLT (⭐641) (⭐641)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐376) (⭐376)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 ### Projects / Integration Frameworks
 
@@ -51,9 +71,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐690) (⭐690)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐66k) (⭐66k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-*   [YAML (⭐353) (⭐353)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [Dec 11, 2024](/content/2024/12/11/README.md)
 
@@ -63,7 +81,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐410) (⭐410)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
 *   [OpenAPI Explorer (⭐317) (⭐317)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 
 ### Projects / Integration Frameworks
@@ -135,7 +152,7 @@ A curated list of awesome system integration software and resources.
     *   [Imposter (⭐374) (⭐374)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
     *   [Microcks (⭐1.4k) (⭐1.5k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
     *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐95) (⭐95)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
+    *   [Mockbin (⭐96) (⭐96)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
     *   [Mockoon (⭐6.6k) (⭐6.7k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
     *   [MockServer (⭐4.6k) (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
@@ -149,10 +166,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Temporal (⭐12k) (⭐12k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐3.8k) (⭐3.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
@@ -169,7 +182,7 @@ A curated list of awesome system integration software and resources.
 
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐8.4k) (⭐8.5k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.4k) (⭐6.5k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
+    *   [Gatling (⭐6.5k) (⭐6.5k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
     *   [Karate (⭐8.3k) (⭐8.4k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
     *   [REST Assured (⭐6.8k) (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
@@ -196,7 +209,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐37k) (⭐38k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
 *   [Cadence (⭐8.3k) (⭐8.4k)](https://github.com/uber/cadence) - A fault-tolerant, stateful code platform that makes it easier to build and manage complex, long-running applications.
 
 ### Resources / Certifications
@@ -222,7 +234,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / Workflow engine
 
 *   [Argo Workflows (⭐15k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
-*   [Bonita (⭐155) (⭐155)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 
 ## [Oct 23, 2024](/content/2024/10/23/README.md)
 
@@ -311,11 +322,11 @@ A curated list of awesome system integration software and resources.
     *   [Advanced REST Client (⭐1.4k) (⭐1.4k)](https://github.com/advanced-rest-client/arc-electron) - An open-source API tool designed for testing and debugging RESTful web services.
     *   [Bruno (⭐28k) (⭐29k)](https://github.com/usebruno/bruno) - A fast, git-friendly, and offline-only opensource API client.
     *   [curl (⭐36k) (⭐36k)](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
-    *   [curlie (⭐2.8k) (⭐2.9k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
+    *   [curlie (⭐2.9k) (⭐2.9k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
     *   [HTTPie (⭐34k) (⭐34k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
     *   [Hoppscotch (⭐66k) (⭐66k)](https://github.com/hoppscotch/hoppscotch) - A fast, open-source API development tool available as a web app.
     *   [Insomnia (⭐35k) (⭐35k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
-    *   [posting (⭐6.3k) (⭐6.3k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+    *   [posting (⭐6.4k) (⭐6.3k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
     *   [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
     *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
     *   [SoapUI (⭐1.5k) (⭐1.6k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.

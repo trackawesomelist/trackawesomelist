@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### Miscellaneous
+
+*   [rain (⭐121)](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
+
 ## [Dec 24, 2024](/content/2024/12/24/README.md)
 
 ### Scripting

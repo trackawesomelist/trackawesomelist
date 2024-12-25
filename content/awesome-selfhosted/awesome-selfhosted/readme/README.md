@@ -217,8 +217,8 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 *   [Mylar3](https://mylarcomics.com/) - Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ([Source Code (⭐1.1k)](https://github.com/mylar3/mylar3)) `GPL-3.0` `Python/Docker`
 *   [nefarious (⭐1.1k)](https://github.com/lardbit/nefarious) - Web application that automates downloading Movies and TV Shows. `GPL-3.0` `Python`
 *   [OliveTin (⭐2.6k)](https://github.com/OliveTin/OliveTin) - OliveTin is a web interface for running Linux shell commands. `AGPL-3.0` `Go`
-*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐291)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
-*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐291)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
+*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐302)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
+*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐302)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
 *   [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to. ([Source Code (⭐3.4k)](https://github.com/pyload/pyload)) `GPL-3.0` `Python`
 *   [Radarr](https://radarr.video/) - Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato. ([Source Code (⭐11k)](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#/Docker`
 *   [SickChill](https://sickchill.github.io/) - SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code (⭐2.4k)](https://github.com/SickChill/SickChill)) `GPL-3.0` `Python/Docker`
@@ -725,7 +725,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 *   [OpenSign](https://www.opensignlabs.com) `⚠` - Free, open source & self-hosted document signing software (alternative to DocuSign). ([Source Code (⭐3.4k)](https://github.com/opensignlabs/opensign)) `AGPL-3.0` `Nodejs/Docker`
 *   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐23k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 *   [Papermerge](https://papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐2.6k)](https://github.com/ciur/papermerge)) `Apache-2.0` `Python/Docker/K8S`
-*   [PdfDing (⭐39)](https://github.com/mrmn2/PdfDing) - PDF manager and viewer offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. `GPL-3.0` `Docker`
+*   [PdfDing (⭐97)](https://github.com/mrmn2/PdfDing) - PDF manager and viewer offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. `GPL-3.0` `Docker`
 *   [SeedDMS](https://www.seeddms.org) - Document Management System with workflows, access rights, fulltext search, and more. ([Demo](https://www.seeddms.org/about/), [Source Code](https://sourceforge.net/p/seeddms/code/ci/master/tree/)) `GPL-2.0` `PHP`
 *   [Stirling-PDF (⭐47k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 *   [Teedy](https://teedy.io/) - Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ([Demo](https://demo.teedy.io/), [Source Code (⭐2k)](https://github.com/sismics/docs)) `GPL-2.0` `Docker/Java`
@@ -908,6 +908,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 
 *   [Chibisafe](https://chibisafe.moe) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐1.9k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 *   [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
+*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.1k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
 *   [Files Sharing (⭐230)](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPL-3.0` `PHP/Docker`
 *   [FileShelter (⭐495)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
 *   [Gokapi (⭐1.7k)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go/Docker`
@@ -976,6 +977,7 @@ Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Brows
 *   [Quizmaster (⭐237)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
 *   [Red Eclipse 2](https://redeclipse.net) - A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ([Source Code (⭐445)](https://github.com/redeclipse/base)) `Zlib/MIT/CC-BY-SA-4.0` `C/C++/deb`
 *   [Scribble.rs (⭐471)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
+*   [Scribble.rs (⭐471)](https://github.com/scribble-rs/scribble.rs) - A web-based pictionary game. ([Demo](https://scribblers.fly.dev)) `BSD-3-Clause` `Go/Docker`
 *   [Suroi](https://suroi.io/) - An open-source 2D battle royale game inspired by surviv.io. ([Demo](https://suroi.io/), [Source Code (⭐302)](https://github.com/HasangerGames/suroi)) `GPL-3.0` `Nodejs`
 *   [The Battle for Wesnoth (⭐5.6k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++/deb`
 *   [Veloren](https://veloren.net/) - Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ([Source Code](https://gitlab.com/veloren/veloren)) `GPL-3.0` `Rust`
@@ -1002,7 +1004,7 @@ Utilities for managing game servers.
 *   [Pterodactyl](https://pterodactyl.io/) - Management panel for game servers, with an intuitive UI for end users. ([Source Code (⭐6.9k)](https://github.com/pterodactyl/panel)) `MIT` `PHP`
 *   [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code (⭐1.4k)](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 *   [RconCli (⭐508)](https://github.com/gorcon/rcon-cli) - CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. `MIT` `Go`
-*   [Retrom (⭐752)](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher. `GPL-3.0` `Docker/Rust`
+*   [Retrom (⭐769)](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher. `GPL-3.0` `Docker/Rust`
 *   [Romm (⭐2.6k)](https://github.com/zurdi15/romm) `⚠` - RomM (Rom Manager) is a web based retro roms manager integrated with IGDB. `GPL-3.0` `Docker`
 *   [SourceBans++](https://sbpp.github.io/) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code (⭐341)](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`
 *   [Sunshine](https://app.lizardbyte.dev/Sunshine/) - Remote game stream host for Moonlight with support up to 120 frames per second and 4K resolution. ([Source Code (⭐21k)](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
@@ -1084,7 +1086,7 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 *See also: [awesome-sysadmin/IT Asset Management (⭐26k)](https://github.com/awesome-foss/awesome-sysadmin#it-asset-management)*
 
 *   [Cannery](https://cannery.app) - Firearm and ammunition tracker app. ([Source Code](https://gitea.bubbletea.dev/shibao/cannery)) `AGPL-3.0` `Docker`
-*   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the Home User. ([Demo](https://demo.homebox.software/), [Source Code (⭐1.3k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
+*   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the Home User. ([Demo](https://demo.homebox.software/), [Source Code (⭐1.4k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
 *   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐445)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 *   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.4k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 *   [Open QuarterMaster](https://openquartermaster.com/) - Powerful inventory management system, designed to be flexible and scalable. ([Source Code (⭐19)](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster)) `GPL-3.0` `deb/Docker`
@@ -1149,7 +1151,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 
 *See also: [awesome-openstreetmap (⭐682)](https://github.com/osmlab/awesome-openstreetmap), [awesome-gis (⭐4.6k)](https://github.com/sshuair/awesome-gis)*
 
-*   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://adventurelog.app), [Source Code (⭐614)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
+*   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://adventurelog.app), [Source Code (⭐629)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
 *   [Bicimon (⭐52)](https://github.com/knrdl/bicimon) - Bike Speedometer as Progressive Web App. ([Demo](https://knrdl.github.io/bicimon/)) `MIT` `Javascript`
 *   [Geo2tz (⭐74)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 *   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.5k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
@@ -1376,6 +1378,7 @@ Software that does not fit in another section.
 *   [Receipt Wrangler](https://receiptwrangler.io) `⚠` - Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more. ([Demo](https://demo.receiptwrangler.io), [Source Code (⭐87)](https://github.com/Receipt-Wrangler/receipt-wrangler-api)) `AGPL-3.0` `Docker`
 *   [REI3](https://rei3.de/home_en/) - Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ([Demo](https://rei3.de/demo_en/), [Source Code (⭐361)](https://github.com/r3-team/r3)) `MIT` `Go`
 *   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐601)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
+*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
 ### Monitoring
 
@@ -1456,6 +1459,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 *   [FlashPaper (⭐412)](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
 *   [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code (⭐759)](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 *   [lesma](https://lesma.eu) - Simple paste app friendly with browser and command line. ([Demo](https://lesma.eu), [Source Code](https://gitlab.com/ogarcia/lesma)) `GPL-3.0` `Rust/Docker`
+*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐2)](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
 *   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐2)](https://github.com/not-three/main)) `NPOSL-3.0` `Nodejs/Docker`
 *   [Opengist (⭐1.9k)](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://demo.opengist.io)) `AGPL-3.0` `Docker/Go/Nodejs`
 *   [paaster](https://paaster.io) - Paaster is a secure by default end-to-end encrypted pastebin built with the objective of simplicity. ([Source Code (⭐456)](https://github.com/WardPearce/paaster)) `GPL-3.0` `Docker`
@@ -1591,6 +1595,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 *   [Recipya](https://recipes.musicavis.ca) - A clean, simple and powerful recipe manager your whole family will enjoy. ([Demo](https://recipes.musicavis.ca/guide/login), [Source Code (⭐227)](https://github.com/reaper47/recipya)) `GPL-3.0` `Docker/Go`
 *   [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Demo](https://www.specificallyclementines.com/), [Source Code (⭐223)](https://github.com/davideshay/groceries)) `MIT` `Docker`
 *   [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code (⭐75)](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
+*   [What To Cook? (⭐6)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
 *   [What To Cook? (⭐6)](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
 
 ### Remote Access
@@ -1902,7 +1907,7 @@ Tools and software for [software testing](https://en.wikipedia.org/wiki/Software
 *   [ActivityWatch](https://activitywatch.net) - An app that automatically tracks how you spend time on your devices. ([Source Code (⭐13k)](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
 *   [Beaver Habit Tracker (⭐180)](https://github.com/daya0576/beaverhabits) - Habit tracking app to save your precious moments in your fleeting life. ([Demo](https://beaverhabits.com/demo)) `BSD-3-Clause` `Docker`
 *   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐3.4k)](https://github.com/kimai/kimai)) `AGPL-3.0` `PHP`
-*   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.4k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
+*   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.6k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
 *   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐1.2k)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 *   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐1.2k)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
@@ -1981,7 +1986,7 @@ A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively ed
 *   [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Demo](https://sandbox.amusewiki.org), [Source Code (⭐179)](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
 *   [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code (⭐16k)](https://github.com/BookStackApp/BookStack)) `MIT` `PHP/Docker`
 *   [django-wiki (⭐1.8k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
-*   [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐7k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+*   [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐7.2k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
 *   [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code (⭐2.2k)](https://github.com/documize/community)) `AGPL-3.0` `Go`
 *   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐4.2k)](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`
 *   [Feather Wiki](https://feather.wiki) - A lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. ([Demo](https://feather.wiki/?page=gallery#wikis), [Source Code](https://codeberg.org/Alamantus/FeatherWiki), [Clients](https://feather.wiki/?page=gallery#extensions)) `AGPL-3.0` `Javascript`

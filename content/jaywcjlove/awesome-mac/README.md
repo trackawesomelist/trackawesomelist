@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### Utilities / Productivity
+
+*   [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/iconed/id6739444407)
+
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
 ### Utilities / Finder Tools
@@ -26,7 +32,7 @@
 
 ### Utilities / Window Management
 
-*   [JankyBorders (⭐1.5k)](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FelixKratz/JankyBorders) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [JankyBorders (⭐1.6k)](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/FelixKratz/JankyBorders) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
@@ -91,7 +97,7 @@
 
 ### Utilities / Productivity
 
-*   [escrcpy (⭐2.9k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/viarotel-org/escrcpy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [escrcpy (⭐3.2k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/viarotel-org/escrcpy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / Window Management
 
@@ -101,7 +107,7 @@
 
 ### Utilities / Finder Tools
 
-*   [RClick (⭐124)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wflixu/RClick) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [RClick (⭐139)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wflixu/RClick) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Nov 16, 2024](/content/2024/11/16/README.md)
 

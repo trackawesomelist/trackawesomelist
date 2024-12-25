@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### Software Architecture
+
+*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐254)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak (PDF, EPUB, DOCX) (CC BY)
+
 ## [Dec 17, 2024](/content/2024/12/17/README.md)
 
 ### Security & Privacy
@@ -57,7 +63,7 @@
 
 ### Blockchain
 
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐279)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐293)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 

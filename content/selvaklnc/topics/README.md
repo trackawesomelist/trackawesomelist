@@ -1,8 +1,18 @@
 # Track Topics Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/selvaklnc/topics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 selvaklnc/topics](https://github.com/selvaklnc/topics) · ⭐ 0 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/selvaklnc/topics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 selvaklnc/topics](https://github.com/selvaklnc/topics) · ⭐ 1 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
+
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### List of public profiles of Selvakumaran Krishnan
+
+*   Selvakumaran Krishnan with [Notion Profile](https://frosted-system-200.notion.site/Selvakumaran-Krishnan-165cd7277d458068bdb1c1c79cdd5784)
+
+### List of important bookmarks
+
+*   [Bio link profile](https://bio.link/ourmaster) Selvakumaran.
 
 ## [Oct 24, 2024](/content/2024/10/24/README.md)
 

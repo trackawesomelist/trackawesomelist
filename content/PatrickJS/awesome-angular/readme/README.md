@@ -1136,6 +1136,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-swapy (⭐6)](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy (⭐6.9k)](https://github.com/TahaSh/swapy).
 *   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
 *   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
+*   [ng-keyboard-sort (⭐2)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 
 #### Editor Components
 
@@ -1234,6 +1235,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-mat-birthday-input (⭐1)](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
 *   [ngx-countries-dropdown (⭐5)](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 *   [ngx-mat-split-button (⭐2)](https://github.com/feature23/ngx-mat-split-button) - A split button component for Angular Material. Split buttons (also known as "split button dropdowns" in Bootstrap) have a primary action button with a conjoined dropdown toggle that opens a menu for secondary actions.
+*   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
 
 ##### Validation
 

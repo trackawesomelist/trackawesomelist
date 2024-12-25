@@ -163,7 +163,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 *   [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 *   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐279)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐293)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 *   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *(:card\_file\_box: archived)*
 *   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
 *   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
@@ -858,6 +858,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 *   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 *   [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
+*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐254)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak (PDF, EPUB, DOCX) (CC BY)
 *   [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 *   [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
 *   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)

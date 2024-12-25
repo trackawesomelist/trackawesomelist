@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 274 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 292 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / Weekly / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [How can I make a pull request for a Wiki page on GitHub?](https://stackoverflow.com/questions/10642928/how-can-i-make-a-pull-request-for-a-wiki-page-on-github)
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -46,7 +52,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5.2k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.3k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -58,7 +64,7 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐344)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐348)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -146,7 +152,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐833)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐849)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -158,7 +164,7 @@
 
 ### Examples
 
-*   [uber/NullAway (⭐3.6k)](https://github.com/uber/NullAway/wiki)
+*   [uber/NullAway (⭐3.7k)](https://github.com/uber/NullAway/wiki)
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -187,7 +193,7 @@
 
 *   [guard/guard (⭐6.2k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
-*   [facebook/react-native (⭐119k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐120k)](https://github.com/facebook/react-native/wiki)
 
 ### Useful links with tips & tricks
 

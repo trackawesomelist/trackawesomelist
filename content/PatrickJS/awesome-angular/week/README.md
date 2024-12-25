@@ -12,6 +12,14 @@
 
 *   [Angspire (⭐7)](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
 
+### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-keyboard-sort (⭐2)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
+
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐268)](https://github.com/lrsjng/kjua).

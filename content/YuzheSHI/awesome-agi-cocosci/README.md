@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### Communications / Pragmatics
+
+*   [Predicting Pragmatic Reasoning in Language Games](https://www.science.org/doi/abs/10.1126/science.1218633) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. \[[Preprint](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf)]. One of the most astonishing features of human language is its capacity to convey information efficiently in context. Many theories provide informal accounts of communicative inference, yet there have been few successes in making precise, quantitative predictions about pragmatic reasoning. This work examined judgments about simple referential communication games, modeling behavior in these games by assuming that speakers attempt to be informative and that listeners use Bayesian inference to recover speakers’ intended referents. The model provides a close, parameter-free fit to human judgments, suggesting that the use of information-theoretic tools to predict pragmatic reasoning may lead to more effective formal models of communication.
+
 ## [Dec 24, 2024](/content/2024/12/24/README.md)
 
 ### Communications / Pragmatics
@@ -1854,7 +1860,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Communications / Pragmatics
 
 *   [Pragmatics](https://plato.stanford.edu/entries/pragmatics/) - ***Plato Stanford***. A computational philosophy account of Pragmatics, whilch studies utterances in specific contexts.
-*   [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. The original paper on Rational Speech Act (RSA).
 *   [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
 *   [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579)]. Adjective understanding as a rational inference in the context.
 *   [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920)]. A piece of evidence for children's capability on social pragmatics.

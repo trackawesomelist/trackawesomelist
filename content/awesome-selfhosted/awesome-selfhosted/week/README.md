@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.1k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
+
+### Software / Money, Budgeting & Management
+
+*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Software / Document Management - E-books
@@ -63,24 +73,24 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐291)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
+*   [PlexRipper](https://www.plexripper.rocks/) `⚠` - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code (⭐302)](https://github.com/PlexRipper/PlexRipper)) `GPL-3.0` `Docker`
 
 ### Software / Document Management
 
-*   [PdfDing (⭐39)](https://github.com/mrmn2/PdfDing) - PDF manager and viewer offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. `GPL-3.0` `Docker`
+*   [PdfDing (⭐97)](https://github.com/mrmn2/PdfDing) - PDF manager and viewer offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. `GPL-3.0` `Docker`
 *   [SeedDMS](https://www.seeddms.org) - Document Management System with workflows, access rights, fulltext search, and more. ([Demo](https://www.seeddms.org/about/), [Source Code](https://sourceforge.net/p/seeddms/code/ci/master/tree/)) `GPL-2.0` `PHP`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Retrom (⭐752)](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher. `GPL-3.0` `Docker/Rust`
+*   [Retrom (⭐769)](https://github.com/JMBeresford/retrom) - Private cloud game library distribution server + frontend/launcher. `GPL-3.0` `Docker/Rust`
 
 ### Software / Inventory Management
 
-*   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the Home User. ([Demo](https://demo.homebox.software/), [Source Code (⭐1.3k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
+*   [HomeBox (SysAdminsMedia)](https://homebox.software/) - Inventory and organization system built for the Home User. ([Demo](https://demo.homebox.software/), [Source Code (⭐1.4k)](https://github.com/sysadminsmedia/homebox)) `AGPL-3.0` `Docker/Go`
 
 ### Software / Wikis
 
-*   [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐7k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+*   [docmost](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code (⭐7.2k)](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -108,11 +118,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://adventurelog.app), [Source Code (⭐614)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
+*   [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://adventurelog.app), [Source Code (⭐629)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
-*   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.4k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
+*   [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code (⭐2.6k)](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 

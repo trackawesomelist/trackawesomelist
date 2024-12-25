@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Dec 25, 2024](/content/2024/12/25/README.md)
+
+### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-keyboard-sort (⭐2)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
+
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
+
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

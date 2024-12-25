@@ -40,6 +40,7 @@ Any comments, suggestions? [Let us know! (⭐78k)](https://github.com/jaywcjlove
 ✦ My macOS application:
 
 <p style="display: inline_block">
+  <a target="_blank" href="https://wangchujiang.com/iconed/" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
   <a target="_blank" href="https://wangchujiang.com/rightmenu-master/" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
   <a target="_blank" href="https://wangchujiang.com/paste-quick/" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
   <a target="_blank" href="https://wangchujiang.com/quick-rss/" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="50" width="50" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
@@ -1115,7 +1116,7 @@ Any comments, suggestions? [Let us know! (⭐78k)](https://github.com/jaywcjlove
 *   [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Mouse & trackpad driver that lets you tweak the acceleration curve and more.
 *   [Day Progress](https://sindresorhus.com/day-progress) - Time remaining today in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450280202)
 *   [Dropzone](https://aptonic.com) - Create a popup grid of customizable actions. Scriptable in Ruby & Python.
-*   [escrcpy (⭐2.9k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
+*   [escrcpy (⭐3.2k)](https://github.com/viarotel-org/escrcpy) -📱 Graphical Scrcpy to display and control Android, devices powered by Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 *   [Focalboard](https://www.focalboard.com/) - Open source, self-hosted alternative to Trello, Notion, and Asana. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
 *   [Freeter](https://freeter.io/) - Open-source app that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 *   [Hammerspoon](http://www.hammerspoon.org/) - Tool for powerful OSX automation with the Lua scripting engine. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
@@ -1149,6 +1150,7 @@ Any comments, suggestions? [Let us know! (⭐78k)](https://github.com/jaywcjlove
 *   [RecurseChat](https://recurse.chat) - RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.
 *   [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 *   [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.
+*   [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful. [![App Store][app-store Icon]](https://apps.apple.com/app/iconed/id6739444407)
 *   [Selectric](https://selectric.io/) - Private personal search engine for your emails, documents and messages. Search across Gmail, Outlook, Drive, Dropbox, Teams, Slack and more applications right from your computer.
 *   [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 *   [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
@@ -1172,7 +1174,7 @@ Any comments, suggestions? [Let us know! (⭐78k)](https://github.com/jaywcjlove
 *   [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 *   [Hummingbird](https://finestructure.co/hummingbird) - Easily move and resize windows without mouse clicks, from anywhere within a window.  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
 *   [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
-*   [JankyBorders (⭐1.5k)](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
+*   [JankyBorders (⭐1.6k)](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]
 *   [Loop (⭐7.3k)](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 *   [Lasso](https://thelasso.app) - Intuitive and easy to use grid-based window manager.
 *   [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/id441258766)
@@ -1214,7 +1216,7 @@ Any comments, suggestions? [Let us know! (⭐78k)](https://github.com/jaywcjlove
 *   [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 *   [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
 *   [QSpace](https://qspace.awehunt.com) - A clean and efficient Multi-view File Manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
-*   [RClick (⭐124)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
+*   [RClick (⭐139)](https://github.com/wflixu/RClick) - Add new functionality to the macOS Finder context menu.  [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 *   [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 *   [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder. ![Freeware][Freeware Icon]
 
