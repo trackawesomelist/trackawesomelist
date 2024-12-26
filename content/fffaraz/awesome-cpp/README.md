@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Dec 26, 2024](/content/2024/12/26/README.md)
+
+### Miscellaneous
+
+*   [libpopcnt (⭐335)](https://github.com/kimwalisch/libpopcnt) - Fast C/C++ bit population count library. \[BSD-2-Clause]
+
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
 ### Miscellaneous

@@ -643,6 +643,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-memento (⭐1)](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 *   [ngx-suspense-of (⭐6)](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
 *   [ngx-http-request-state (⭐14)](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
+*   [ngs-request-tracker (⭐1)](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
 
 #### Integrations
 
@@ -727,6 +728,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-i18n-extract-regex-cli (⭐2)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
 *   [ngx-translate-version (⭐3)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 *   [ngx-signal-translate (⭐2)](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
+*   [ngs-plural (⭐1)](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
 
 #### Module Federation
 
@@ -1471,7 +1473,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-qrcode-svg (⭐2)](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 *   [ngx-qrcode-generator (⭐1)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious (⭐1.6k)](https://github.com/neocotic/qrious) library.
 *   [ngx-scanner-qrcode (⭐57)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
-*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.1k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
+*   [Angular-html5qrcode (⭐2)](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode (⭐5.2k)](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 *   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐268)](https://github.com/lrsjng/kjua).
 
 #### Scroll
@@ -1728,6 +1730,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 *   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 *   [ng-whiteboard (⭐51)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+*   [ngs-json-utils (⭐1)](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
 
 ***
 
