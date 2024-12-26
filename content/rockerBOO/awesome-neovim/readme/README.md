@@ -117,7 +117,7 @@ Collections of awesome neovim plugins.
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐37)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐38)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 *   [neovim/nvim-lspconfig (⭐11k)](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the LSP client.
 *   [nvim-lua/lsp-status.nvim (⭐633)](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
 *   [RishabhRD/nvim-lsputils (⭐459)](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
@@ -239,7 +239,7 @@ Collections of awesome neovim plugins.
 *   [Kurama622/llm.nvim (⭐66)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 *   [3v0k4/exit.nvim (⭐11)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 *   [k2589/LLuMinate.nvim (⭐12)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
-*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐812)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 *   [milanglacier/yarepl.nvim#aider-extensions (⭐106)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 
 <!--lint disable double-link -->
@@ -374,6 +374,7 @@ Collections of awesome neovim plugins.
 
 *   [norcalli/snippets.nvim (⭐275)](https://github.com/norcalli/snippets.nvim) - Snippets in Lua.
 *   [L3MON4D3/LuaSnip (⭐3.6k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
+*   [echasnovski/mini.nvim#mini.snippets (⭐5.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-snippets.md) - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
 *   [smjonas/snippet-converter.nvim (⭐179)](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 *   [dcampos/nvim-snippy (⭐324)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.8k)](https://github.com/honza/vim-snippets).
 *   [ellisonleao/carbon-now.nvim (⭐177)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
@@ -421,7 +422,7 @@ Collections of awesome neovim plugins.
 *   [tristone13th/lspmark.nvim (⭐54)](https://github.com/tristone13th/lspmark.nvim) - Sane project-wise bookmarks with persistent storage based on LSP.
 *   [EvWilson/spelunk.nvim (⭐78)](https://github.com/EvWilson/spelunk.nvim) - Create and manage bookmarks as stacks with a friendly UI.
 *   [2KAbhishek/markit.nvim (⭐13)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
-*   [you-n-g/navigate-note.nvim (⭐14)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐17)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 <!--lint disable double-link -->
 
@@ -894,6 +895,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [rgroli/other.nvim (⭐399)](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 *   [toppair/reach.nvim (⭐243)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 *   [axieax/urlview.nvim (⭐235)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
+*   [cxwx/lazyUrlUpdate.nvim (⭐2)](https://github.com/cxwx/lazyUrlUpdate.nvim) - Update plugin under cursor by `lazy.nvim`.
 *   [nkakouros-original/numbers.nvim (⭐34)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 *   [ghillb/cybu.nvim (⭐315)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 *   [sontungexpt/url-open (⭐88)](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
@@ -976,7 +978,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Terminal Integration
 
-*   [Dan7h3x/neaterm.nvim (⭐35)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐37)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 *   [LoricAndre/OneTerm.nvim (⭐56)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
 
@@ -1144,7 +1146,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [CWood-sdf/banana.nvim (⭐149)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 *   [OXY2DEV/helpview.nvim (⭐220)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
 *   [niuiic/omega.nvim (⭐5)](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
-*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+*   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐42)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
 
 <!--lint disable double-link -->

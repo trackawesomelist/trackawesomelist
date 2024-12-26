@@ -6,6 +6,20 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Dec 26, 2024](/content/2024/12/26/README.md)
+
+### GUI
+
+*   [Antares SQL (⭐1.9k)](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
+
+### SQL / Formatters
+
+*   [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
+
+### Papers / Compare
+
+*   [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
+
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
 ### IDE
@@ -15,7 +29,7 @@ Everything that makes working with databases easier
 
 ### SQL / Formatters
 
-*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser (⭐5.4k)](https://github.com/JSQLParser/JSqlParser).
+*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
 
 ### SQL / Games
 

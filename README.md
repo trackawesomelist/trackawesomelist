@@ -44,6 +44,30 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Computer Arithmetic and Formal Proofs](https://www.sciencedirect.com/book/9781785481123/computer-arithmetic-and-formal-proofs) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 
+#### [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+
+##### GUI
+
+*   [Antares SQL (⭐1.9k)](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
+
+##### SQL / Formatters
+
+*   [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
+
+##### Papers / Compare
+
+*   [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
+
+#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Snippet / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.snippets (⭐5.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-snippets.md) - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
+
+##### Utility / Diagnostics
+
+*   [cxwx/lazyUrlUpdate.nvim (⭐2)](https://github.com/cxwx/lazyUrlUpdate.nvim) - Update plugin under cursor by `lazy.nvim`.
+
 ### [Dec 25, 2024](/content/2024/12/25/README.md)
 
 
@@ -68,23 +92,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   :money\_with\_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 
-#### [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.1k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
-
-##### Software / Money, Budgeting & Management
-
-*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
-
-#### [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Productivity
 
 *   [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/iconed/id6739444407)
 
-#### [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -123,19 +137,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JSON Schema (⭐3.9k) (⭐3.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-#### [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Communications / Pragmatics
-
-*   [Predicting Pragmatic Reasoning in Language Games](https://www.science.org/doi/abs/10.1126/science.1218633) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. \[[Preprint](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf)]. One of the most astonishing features of human language is its capacity to convey information efficiently in context. Many theories provide informal accounts of communicative inference, yet there have been few successes in making precise, quantitative predictions about pragmatic reasoning. This work examined judgments about simple referential communication games, modeling behavior in these games by assuming that speakers attempt to be informative and that listeners use Bayesian inference to recover speakers’ intended referents. The model provides a close, parameter-free fit to human judgments, suggesting that the use of information-theoretic tools to predict pragmatic reasoning may lead to more effective formal models of communication.
-
-#### [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+#### [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ##### Useful Stack Overflow questions & answers
 
 *   [How can I make a pull request for a Wiki page on GitHub?](https://stackoverflow.com/questions/10642928/how-can-i-make-a-pull-request-for-a-wiki-page-on-github)
 
-#### [8. Topics](/content/selvaklnc/topics/README.md)
+#### [6. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of public profiles of Selvakumaran Krishnan
 
@@ -145,7 +153,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bio link profile](https://bio.link/ourmaster) Selvakumaran.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -155,11 +163,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
 
-#### [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Miscellaneous
 
 *   [rain (⭐121)](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
+
+#### [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Enclosed](https://enclosed.cc/) - A minimalistic web application designed for sending private and secure notes. ([Demo](https://enclosed.cc/), [Source Code (⭐1.1k)](https://github.com/CorentinTh/enclosed)) `Apache-2.0` `Docker/Nodejs`
+
+##### Software / Money, Budgeting & Management
+
+*   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
+
+#### [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Communications / Pragmatics
+
+*   [Predicting Pragmatic Reasoning in Language Games](https://www.science.org/doi/abs/10.1126/science.1218633) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. \[[Preprint](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf)]. One of the most astonishing features of human language is its capacity to convey information efficiently in context. Many theories provide informal accounts of communicative inference, yet there have been few successes in making precise, quantitative predictions about pragmatic reasoning. This work examined judgments about simple referential communication games, modeling behavior in these games by assuming that speakers attempt to be informative and that listeners use Bayesian inference to recover speakers’ intended referents. The model provides a close, parameter-free fit to human judgments, suggesting that the use of information-theoretic tools to predict pragmatic reasoning may lead to more effective formal models of communication.
 
 ### [Dec 24, 2024](/content/2024/12/24/README.md)
 
@@ -177,13 +201,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [RightTyper (⭐154)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
 
-#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Editing Support / Diagnostics
-
-*   [zongben/capsoff.nvim (⭐1)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
-
-#### [4. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Data Sources
 
@@ -193,13 +211,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AFML (⭐639)](https://github.com/boyboi86/AFML) - All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
 
-#### [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Communications / Pragmatics
-
-*   [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9) - ***Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)]. The present study sets out to experimentally investigate how environmental factors come to shape the emergence of linguistic conventions. To this end, the authors adapt the classical Maze Game task to test the hypothesis that participants routinise different linguistic strategies to communicate positions in the maze contingent on particular environmental affordances (i.e. structure of the mazes). The results confirm that subtle environmental motivations drive the emergence of different communicative conventions in an otherwise identical task, suggesting that linguistic adaptations are highly sensitive to factors of the shared task environment.
-
-#### [6. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [4. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Application Launchers
 
@@ -256,7 +268,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
 
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Standard CLI
 
@@ -295,11 +307,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Chapar (⭐499)](https://github.com/chapar-rest/chapar) - Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
 
-#### [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Scripting
 
 *   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
+
+#### [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Editing Support / Diagnostics
+
+*   [zongben/capsoff.nvim (⭐1)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Communications / Pragmatics
+
+*   [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9) - ***Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)]. The present study sets out to experimentally investigate how environmental factors come to shape the emergence of linguistic conventions. To this end, the authors adapt the classical Maze Game task to test the hypothesis that participants routinise different linguistic strategies to communicate positions in the maze contingent on particular environmental affordances (i.e. structure of the mazes). The results confirm that subtle environmental motivations drive the emergence of different communicative conventions in an otherwise identical task, suggesting that linguistic adaptations are highly sensitive to factors of the shared task environment.
 
 ---
 
@@ -318,8 +342,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 9. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 59K 📝 12&#x2F;18 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 10. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 70K 📝 12&#x2F;16 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 11. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 337K 📝 11&#x2F;29 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-12. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 19K 📝 12&#x2F;24 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 12&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K 📝 12&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 19K 📝 12&#x2F;24 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 14. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 54K 📝 12&#x2F;12 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 15. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 14K 📝 12&#x2F;25 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 16. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 12&#x2F;18 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -330,14 +354,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 21. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 12&#x2F;16 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 22. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 35K 📝 12&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 23. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 13K 📝 12&#x2F;16 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-24. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 12&#x2F;11 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-25. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K 📝 12&#x2F;14 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-26. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 17K 📝 12&#x2F;09 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
-27. [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source ⭐ 4K 📝 12&#x2F;24 ](https://github.com/gbdev/awesome-gbdev)) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
-28. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.4K 📝 12&#x2F;19 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-29. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 15K 📝 12&#x2F;09 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-30. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 12&#x2F;10 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-31. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K 📝 12&#x2F;20 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+24. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K 📝 12&#x2F;26 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+25. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 18K 📝 12&#x2F;11 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+26. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K 📝 12&#x2F;14 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
+27. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 17K 📝 12&#x2F;09 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
+28. [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source ⭐ 4K 📝 12&#x2F;24 ](https://github.com/gbdev/awesome-gbdev)) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+29. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.4K 📝 12&#x2F;19 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+30. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 15K 📝 12&#x2F;09 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+31. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 12&#x2F;10 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 32. [Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md) - ([Source ⭐ 13K 📝 12&#x2F;08 ](https://github.com/lnishan/awesome-competitive-programming)) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 33. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 3.6K 📝 12&#x2F;20 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 34. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.6K 📝 12&#x2F;23 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
@@ -467,7 +491,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K, 📝 23&#x2F;01&#x2F;05 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md) - ([Source ⭐ 139, 📝 21&#x2F;04&#x2F;04 ](https://github.com/aaronhma/awesome-tensorflow-js)) - Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js
 - [Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md) - ([Source ⭐ 960, 📝 22&#x2F;02&#x2F;15 ](https://github.com/margaretmz/awesome-tensorflow-lite)) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
-- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 723, 📝 12&#x2F;02 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
+- [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 761, 📝 12&#x2F;02 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 - [Awesome Xai](/content/altamiracorp/awesome-xai/README.md) - ([Source ⭐ 54, 📝 21&#x2F;05&#x2F;04 ](https://github.com/altamiracorp/awesome-xai)) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
 - [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 173K, 📝 21&#x2F;07&#x2F;23 ](https://github.com/ossu/computer-science)) - 🎓 Path to a free self-taught education in Computer Science!
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
@@ -492,7 +516,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Cassandra](/content/Anant/awesome-cassandra/README.md) - ([Source ⭐ 201, 📝 21&#x2F;11&#x2F;29 ](https://github.com/Anant/awesome-cassandra)) - A curated list of the best resources in the Cassandra community.
 - [Awesome Couchdb](/content/quangv/awesome-couchdb/README.md) - ([Source ⭐ 159, 📝 23&#x2F;05&#x2F;09 ](https://github.com/quangv/awesome-couchdb)) - CouchDB - curated meta resources & best practices list
 - [Awesome Db](/content/numetriclabz/awesome-db/README.md) - ([Source ⭐ 1K, 📝 15&#x2F;11&#x2F;04 ](https://github.com/numetriclabz/awesome-db)) - A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
-- [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K, 📝 12&#x2F;20 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+- [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K, 📝 12&#x2F;26 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
 - [Awesome Hbase](/content/rayokota/awesome-hbase/README.md) - ([Source ⭐ 157, 📝 22&#x2F;06&#x2F;04 ](https://github.com/rayokota/awesome-hbase)) - A curated list of awesome HBase projects and resources.
 - [Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md) - ([Source ⭐ 761, 📝 21&#x2F;11&#x2F;12 ](https://github.com/mark-rushakoff/awesome-influxdb)) - A curated list of awesome projects, libraries, tools, etc. related to InfluxDB
 - [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source ⭐ 2.5K, 📝 10&#x2F;03 ](https://github.com/ramnes/awesome-mongodb)) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
@@ -562,7 +586,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K, 📝 12&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 16K, 📝 12&#x2F;26 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!

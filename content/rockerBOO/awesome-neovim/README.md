@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 26, 2024](/content/2024/12/26/README.md)
+
+### Snippet / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.snippets (⭐5.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-snippets.md) - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
+
+### Utility / Diagnostics
+
+*   [cxwx/lazyUrlUpdate.nvim (⭐2)](https://github.com/cxwx/lazyUrlUpdate.nvim) - Update plugin under cursor by `lazy.nvim`.
+
 ## [Dec 24, 2024](/content/2024/12/24/README.md)
 
 ### Editing Support / Diagnostics
@@ -61,7 +71,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐776)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐812)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
@@ -109,21 +119,21 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐14)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐17)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐37)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐38)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
 ### Terminal Integration / Diagnostics
 
-*   [Dan7h3x/neaterm.nvim (⭐35)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐37)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [2KAbhishek/utils.nvim (⭐9)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
+*   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 
 ### GitHub / Diagnostics
 

@@ -106,6 +106,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 *   [Adminer (⭐6.3k)](https://github.com/vrana/adminer) - Database management in a single PHP file.
 *   [Another Redis Desktop Manager (⭐31k)](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
+*   [Antares SQL (⭐1.9k)](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
 *   [Azure Data Studio (⭐7.6k)](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 *   [Beekeeper Studio (⭐17k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 *   [Clidey WhoDB (⭐2.1k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
@@ -383,7 +384,8 @@ Low-code and no-code platforms for application building
 ### Formatters
 
 *   [CodeBuff (⭐448)](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on [JSqlParser (⭐5.4k)](https://github.com/JSQLParser/JSqlParser).
+*   [JSQLFormatter (⭐28)](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
+*   [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
 *   [pgFormatter (⭐1.7k)](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 *   [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting.
 *   [SQL Formatter (⭐2.4k)](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
@@ -504,6 +506,7 @@ Useful SQL-scripts for various purposes
 Documents, articles, manifestos and other theoretical materials on database tools
 
 *   [The "Database as Code" Manifesto (⭐96)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+*   [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
 
 ## Machine Learning
 
