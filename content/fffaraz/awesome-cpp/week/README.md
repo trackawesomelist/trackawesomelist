@@ -16,6 +16,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
 
+### Yaml
+
+*   [LibYAML (⭐982)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
+
 ### Miscellaneous
 
 *   [libONVIF (⭐168)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]

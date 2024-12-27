@@ -2,9 +2,15 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 46 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 57 · 🏷️ Content Management Systems
 
 [ [Daily](/content/collective/awesome-plone/README.md) / Weekly / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### Media
+
+*   [collective.behavior.relatedmedia (⭐4)](https://github.com/collective/collective.behavior.relatedmedia) - A behavior to create/upload/manage media relations (Image, File) for content types.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
@@ -35,7 +41,7 @@ Add-ons and resources for the CMS Plone
 ### Searching and Categorizing
 
 *   [collective.elasticsearch (⭐18)](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
-*   [zopyx.typesense (⭐2)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
+*   [zopyx.typesense (⭐3)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 
 ### Develop
 
@@ -45,7 +51,7 @@ Add-ons and resources for the CMS Plone
 
 ### Content and utilities for content
 
-*   [collective.documentgenerator (⭐15)](https://github.com/collective/collective.documentgenerator) - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
+*   [collective.documentgenerator (⭐16)](https://github.com/collective/collective.documentgenerator) - Generate Documents (.odt, .pdf, .doc) from content based on appy framework (<https://appyframe.work/>) and OpenOffice/LibreOffice.
 *   [collective.embeddedpage (⭐0)](https://github.com/collective/collective.embeddedpage) - A content type to embed remote HTML pages in Plone Classic and Volto.
 
 ### Sysadmin
@@ -102,7 +108,7 @@ Add-ons and resources for the CMS Plone
 *   [collective.workspace (⭐7)](https://github.com/collective/collective.workspace) - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 *   [plone.pdfexport (⭐3)](https://github.com/plone/plone.pdfexport) - Generic PDF export functionality for Plone content.
 *   [Products.EasyNewsletter (⭐28)](https://github.com/collective/Products.EasyNewsletter) - Powerful newsletter/mailing product for Plone.
-*   [zopyx.ipsumplone (⭐2)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
+*   [zopyx.ipsumplone (⭐1)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
 
 ### Searching and Categorizing
 
@@ -111,16 +117,16 @@ Add-ons and resources for the CMS Plone
 *   [collective.collectionfilter (⭐9)](https://github.com/collective/collective.collectionfilter) - Faceted navigation filter for collection or contentlisting tiles.
 *   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - ElasticSearch Integration for Plone content.
 *   [collective.searchandreplace (⭐6)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
-*   [collective.solr (⭐21)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
-*   [collective.taxonomy (⭐18)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
+*   [collective.solr (⭐22)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
+*   [collective.taxonomy (⭐19)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 *   [Products.PloneKeywordManager (⭐4)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 
 ### Layout
 
-*   [plone.app.mosaic (⭐34)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-*   [collective.cover (⭐48)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-*   [collective.contentsections (⭐7)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+*   [plone.app.mosaic (⭐36)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+*   [collective.cover (⭐49)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+*   [collective.contentsections (⭐9)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
 
@@ -139,7 +145,7 @@ Add-ons and resources for the CMS Plone
 
 *   [collective.easyform (⭐13)](https://github.com/collective/collective.easyform) - EasyForm provides a Plone form builder through-the-web using fields, widgets, actions and validators. Form input can be saved or emailed. A simple and user-friendly interface allows non-programmers to create custom forms.
 *   [collective.fieldedit (⭐3)](https://github.com/collective/collective.fieldedit) - A flexible form to edit selected fields of a content type.
-*   [collective.honeypot (⭐3)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
+*   [collective.honeypot (⭐5)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
 *   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
 *   [plone.formwidgets.hcaptcha (⭐1)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
@@ -168,7 +174,7 @@ Add-ons and resources for the CMS Plone
 ### SEO
 
 *   [bda.plone.gtm (⭐2)](https://github.com/bluedynamics/bda.plone.gtm) - Google Tag Manager Integration.
-*   [collective.behavior.seo (⭐2)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
+*   [collective.behavior.seo (⭐3)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
 
 ### Authentication
 
@@ -181,7 +187,7 @@ Add-ons and resources for the CMS Plone
 
 ### Shop
 
-*   [bda.plone.productshop (⭐6)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
+*   [bda.plone.productshop (⭐7)](https://github.com/bluedynamics/bda.plone.productshop) - Flexible and modular e-commerce solution for Plone.
 
 ### Export, Import and Migrations
 
@@ -208,7 +214,7 @@ Add-ons and resources for the CMS Plone
 ### Sysadmin
 
 *   [collective.catalogcleanup (⭐4)](https://github.com/collective/collective.catalogcleanup) - Removes data from the catalog that no longer belong to an actual object.
-*   [collective.fingerpointing (⭐4)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
+*   [collective.fingerpointing (⭐5)](https://github.com/collective/collective.fingerpointing) - Keeps track of different events and write them down to an audit log.
 *   [collective.ifttt (⭐2)](https://github.com/collective/collective.ifttt) - Enables any Plone site to play in the IFTTT ecosystem. For example when a news item is published, then tweet about it or post it on Facebook.
 *   [collective.recipe.backup (⭐5)](https://github.com/collective/collective.recipe.backup) - Powerful and flexible backup/restore solution for Plone.
 *   [collective.revisionmanager (⭐6)](https://github.com/collective/collective.revisionmanager) - Manage Products.CMFEditions histories that can bloat your database.

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 27, 2024](/content/2024/12/27/README.md)
+
+### Applications / Embedded
+
+*   [rmk (⭐670)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
+
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
 ### Libraries / Computation
@@ -49,7 +55,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Message Queue
 
-*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+*   [Rocketmq-Rust (⭐861)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### Applications / Web
 
@@ -59,7 +65,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐62)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
@@ -107,7 +113,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Rust Iot Platform (⭐97)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
+*   [Rust Iot Platform (⭐102)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 

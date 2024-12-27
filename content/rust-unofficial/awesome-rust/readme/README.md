@@ -22,6 +22,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Audio and Music](#audio-and-music)
     *   [Blockchain](#blockchain)
     *   [Database](#database)
+    *   [Embedded](#embedded)
     *   [Emulators](#emulators)
     *   [File manager](#file-manager)
     *   [Games](#games)
@@ -51,7 +52,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Build system](#build-system)
     *   [Debugging](#debugging)
     *   [Deployment](#deployment)
-    *   [Embedded](#embedded)
+    *   [Embedded](#embedded-1)
     *   [FFI](#ffi)
     *   [Formatters](#formatters)
     *   [IDEs](#ides)
@@ -158,7 +159,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
 *   [Rauthy (⭐374)](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 *   [Rio (⭐4.3k)](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
-*   [Rust Iot Platform (⭐97)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
+*   [Rust Iot Platform (⭐102)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 *   [rx (⭐3.2k)](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 *   [Ryot (⭐2.1k)](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
 *   [Servo (⭐29k)](https://github.com/servo/servo) - A prototype web browser engine
@@ -249,7 +250,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [FnckSQL (⭐571)](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
 *   [Garage (⭐624)](https://github.com/deuxfleurs-org/garage) \[[garage](https://crates.io/crates/garage)] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. [![status-badge](https://woodpecker.deuxfleurs.fr/api/badges/1/status.svg)](https://woodpecker.deuxfleurs.fr/repos/1)
 *   [GreptimeDB (⭐4.5k)](https://github.com/grepTimeTeam/greptimedb/) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.[![CI](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml/badge.svg)](https://github.com/greptimeTeam/greptimedb/actions/workflows/develop.yml)
-*   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐62)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 *   [indradb](https://crates.io/crates/indradb) - Graph database
 *   [lancedb (⭐5k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
 *   [Lucid (⭐378)](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
@@ -277,6 +278,10 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [valentinus (⭐8)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 *   [vorot93/libmdbx-rs (⭐85)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] - Bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 *   [WooriDB (⭐131)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
+
+### Embedded
+
+*   [rmk (⭐670)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
 
 ### Emulators
 
@@ -382,7 +387,7 @@ See also [Games Made With Piston (⭐4.6k)](https://github.com/PistonDevelopers/
 ### Message Queue
 
 *   [RobustMQ (⭐216)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
-*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+*   [Rocketmq-Rust (⭐861)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### MLOps
 

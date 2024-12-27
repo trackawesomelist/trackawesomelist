@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Dec 27, 2024](/content/2024/12/27/README.md)
+
+### Yaml
+
+*   [LibYAML (⭐982)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
+
 ## [Dec 26, 2024](/content/2024/12/26/README.md)
 
 ### Miscellaneous

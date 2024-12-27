@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
+### Advanced Console UIs
+
+*   [fx (⭐19k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
+
 ### Standard CLI
 
 *   [getopt (⭐3)](https://github.com/jon-codes/getopt) - An accurate Go `getopt`, validated against the GNU libc implementation.
@@ -2447,7 +2451,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
 *   [mongo-go-driver (⭐8.2k)](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
 *   [neo4j (⭐28)](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang.
-*   [Neo4j-GO (⭐79)](https://github.com/davemeehan/Neo4j-GO) - Neo4j REST Client in golang.
 *   [neoism (⭐388)](https://github.com/jmcvetta/neoism) - Neo4j client for Golang.
 *   [qmgo (⭐1.3k)](https://github.com/qiniu/qmgo) - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
 *   [redeo (⭐442)](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
@@ -2551,10 +2554,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Miscellaneous Data Structures and Algorithms
 
 *   [go18ds (⭐46)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
-
-### Databases Implemented in Go
-
-*   [dtf (⭐212)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 
 ### Functional
 
@@ -3300,7 +3299,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [afero (⭐6k)](https://github.com/spf13/afero) - FileSystem Abstraction System for Go.
 *   [afs (⭐306)](https://github.com/viant/afs) - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 *   [baraka (⭐58)](https://github.com/xis/baraka) - A library to process http file uploads easily.
-*   [bigfile (⭐252)](https://github.com/bigfile/bigfile) - A file transfer system, support to manage files with http api, rpc call and ftp client.
 *   [checksum (⭐105)](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 *   [copy (⭐730)](https://github.com/otiai10/copy) - Copy directory recursively.
 *   [flop (⭐33)](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
@@ -3525,7 +3523,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [steganography (⭐320)](https://github.com/auyer/steganography) - Pure Go Library for LSB steganography.
 *   [stegify (⭐1.2k)](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
 *   [svgo (⭐2.2k)](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
-*   [tga (⭐34)](https://github.com/ftrvxmtrx/tga) - Package tga is a TARGA image format decoder/encoder.
 *   [webp-server (⭐73)](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
 ### IoT (Internet of Things)

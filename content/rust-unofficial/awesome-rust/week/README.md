@@ -8,6 +8,10 @@ A curated list of Rust code and resources.
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
+### Applications / Embedded
+
+*   [rmk (⭐670)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
+
 ### Libraries / Computation
 
 *   [fastnum (⭐68)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
@@ -35,11 +39,11 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Hiqlite (⭐51)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐62)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
 ### Applications / Message Queue
 
-*   [Rocketmq-Rust (⭐779)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+*   [Rocketmq-Rust (⭐861)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
 
 ### Applications / Web
 
@@ -95,7 +99,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [Rust Iot Platform (⭐97)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
+*   [Rust Iot Platform (⭐102)](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 
 ### Libraries / Scripting
 

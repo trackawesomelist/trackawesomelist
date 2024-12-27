@@ -1,12 +1,36 @@
 # Awesome List Updates on Dec 23 - Dec 29, 2024
 
-23 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Stacks](https://betterstacks.com/) - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.
+
+## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### Scaffold
+
+*   [svelte-docs-starter (⭐12)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+
+## [3. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+
+### Media
+
+*   [collective.behavior.relatedmedia (⭐4)](https://github.com/collective/collective.behavior.relatedmedia) - A behavior to create/upload/manage media relations (Image, File) for content types.
+
+## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+
+### Machine Learning Libraries / Frameworks
+
+*   [Instruct (⭐32)](https://github.com/instruct-rb/instruct) - Inspired by Guidance; weave code, prompts and completions together to instruct LLMs to do what you want.
+
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -20,13 +44,13 @@
 
 *   [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
 
-## [2. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [6. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Books
 
 *   [Computer Arithmetic and Formal Proofs](https://www.sciencedirect.com/book/9781785481123/computer-arithmetic-and-formal-proofs) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 
-## [3. Topics](/content/selvaklnc/topics/week/README.md)
+## [7. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan
 
@@ -36,13 +60,13 @@
 
 *   [Bio link profile](https://bio.link/ourmaster) Selvakumaran.
 
-## [4. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [8. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Useful Stack Overflow questions & answers
 
 *   [How can I make a pull request for a Wiki page on GitHub?](https://stackoverflow.com/questions/10642928/how-can-i-make-a-pull-request-for-a-wiki-page-on-github)
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -81,13 +105,13 @@
 
 *   [JSON Schema (⭐3.9k) (⭐3.9k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/iconed/id6739444407)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -97,7 +121,7 @@
 
 *   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐3)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
-## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [12. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
@@ -111,13 +135,13 @@
 
 *   :money\_with\_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Software Architecture
 
 *   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐254)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak (PDF, EPUB, DOCX) (CC BY)
 
-## [10. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [14. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Application Launchers
 
@@ -174,7 +198,7 @@
 
 *   [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
 
-## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Data Sources
 
@@ -184,14 +208,18 @@
 
 *   [AFML (⭐639)](https://github.com/boyboi86/AFML) - All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Communications / Pragmatics
 
 *   [Predicting Pragmatic Reasoning in Language Games](https://www.science.org/doi/abs/10.1126/science.1218633) - ***Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054)]. \[[Preprint](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf)]. One of the most astonishing features of human language is its capacity to convey information efficiently in context. Many theories provide informal accounts of communicative inference, yet there have been few successes in making precise, quantitative predictions about pragmatic reasoning. This work examined judgments about simple referential communication games, modeling behavior in these games by assuming that speakers attempt to be informative and that listeners use Bayesian inference to recover speakers’ intended referents. The model provides a close, parameter-free fit to human judgments, suggesting that the use of information-theoretic tools to predict pragmatic reasoning may lead to more effective formal models of communication.
 *   [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9) - ***Humanities and Social Sciences Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987)]. \[[Code & Data](https://osf.io/sxtaq)]. \[[Dialogue Experimental Toolkit(DiET)](https://dialoguetoolkit.github.io/chattool/)]. The present study sets out to experimentally investigate how environmental factors come to shape the emergence of linguistic conventions. To this end, the authors adapt the classical Maze Game task to test the hypothesis that participants routinise different linguistic strategies to communicate positions in the maze contingent on particular environmental affordances (i.e. structure of the mazes). The results confirm that subtle environmental motivations drive the emergence of different communicative conventions in an otherwise identical task, suggesting that linguistic adaptations are highly sensitive to factors of the shared task environment.
 
-## [13. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Advanced Console UIs
+
+*   [fx (⭐19k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
 
 ### Standard CLI
 
@@ -230,31 +258,35 @@
 
 *   [Chapar (⭐499)](https://github.com/chapar-rest/chapar) - Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
 
-## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [18. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [RightTyper (⭐154)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
 
-## [15. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [19. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Music drivers and trackers
 
 *   [DevSoundX (⭐11)](https://github.com/DevEd2/DevSoundX) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Embedded
+
+*   [rmk (⭐670)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
 
 ### Libraries / Computation
 
 *   [fastnum (⭐68)](https://github.com/neogenie/fastnum) [fastnum](https://crates.io/crates/fastnum) - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-carousel (⭐757)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 
-## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -276,6 +308,10 @@
 
 *   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
 
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [dz-ngx-element (⭐1)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
+
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐268)](https://github.com/lrsjng/kjua).
@@ -284,7 +320,7 @@
 
 *   [ngs-json-utils (⭐1)](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
 
-## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -315,13 +351,13 @@
 
 *   [MisanthropicBit/winmove.nvim (⭐6)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 
-## [20. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [24. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
 ### Foundations / Articles
 
 *   [CA RISE](https://redf.org/ca-rise/) - A $25M California initiative providing capital ($100k-$500k grants) and technical assistance to employment social enterprises.
 
-## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -331,6 +367,10 @@
 
 *   [Luau (⭐4.1k)](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
 
+### Yaml
+
+*   [LibYAML (⭐982)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
+
 ### Miscellaneous
 
 *   [libONVIF (⭐168)](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. \[GPL-3.0]
@@ -338,7 +378,7 @@
 *   [rain (⭐121)](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
 *   [simdzone (⭐121)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 
-## [22. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
@@ -352,7 +392,7 @@
 
 *   [Keywords AI](https://www.keywordsai.co/): The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.
 
-## [23. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [27. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Specialized
 

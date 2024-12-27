@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 27, 2024](/content/2024/12/27/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Stacks](https://betterstacks.com/) - Content workspace with integrated notes, links, and file storage to navigate information overload. Forever free personal plan.
+
 ## [Dec 21, 2024](/content/2024/12/21/README.md)
 
 ### Artifact Repos

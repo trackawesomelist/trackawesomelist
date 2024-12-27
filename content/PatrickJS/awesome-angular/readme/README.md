@@ -1299,7 +1299,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
 *   [ngx-img-cropper (⭐193)](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
-*   [ngx-smart-cropper (⭐1)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+*   [ngx-smart-cropper (⭐3)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 
 #### Keyboard Mouse
 
@@ -1350,6 +1350,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [nx-svg-loaders (⭐3)](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 *   [ngx-hover-preload (⭐171)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
 *   [skeletonizer (⭐4)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
+*   [dz-ngx-element (⭐1)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 
 #### Loggers
 

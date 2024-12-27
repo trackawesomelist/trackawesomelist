@@ -383,6 +383,7 @@ Please take a quick gander at the [contribution guidelines (⭐134k)](https://gi
 *   [colourize (⭐27)](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals.
 *   [crab-config-files-templating (⭐7)](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 *   [ctc (⭐46)](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method.
+*   [fx (⭐19k)](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor.
 *   [go-ataman (⭐17)](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
 *   [go-colorable (⭐775)](https://github.com/mattn/go-colorable) - Colorable writer for windows.
 *   [go-colortext (⭐214)](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals.
@@ -750,7 +751,6 @@ additional ordered map implementations.
 *   [dgraph (⭐21k)](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 *   [diskv (⭐1.4k)](https://github.com/peterbourgon/diskv) - Home-grown disk-backed key-value store.
 *   [dolt (⭐18k)](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
-*   [dtf (⭐212)](https://github.com/dtm-labs/dtf) - A distributed transaction manager. Support XA, TCC, SAGA, Reliable Messages.
 *   [eliasdb (⭐1k)](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
 *   [godis (⭐3.5k)](https://github.com/hdt3213/godis) - A Golang implemented high-performance Redis server and cluster.
 *   [goleveldb (⭐6.2k)](https://github.com/syndtr/goleveldb) - Implementation of the [LevelDB (⭐37k)](https://github.com/google/leveldb) key/value database in Go.
@@ -915,7 +915,6 @@ additional ordered map implementations.
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
 *   [mongo-go-driver (⭐8.2k)](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
 *   [neo4j (⭐28)](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang.
-*   [Neo4j-GO (⭐79)](https://github.com/davemeehan/Neo4j-GO) - Neo4j REST Client in golang.
 *   [neoism (⭐388)](https://github.com/jmcvetta/neoism) - Neo4j client for Golang.
 *   [qmgo (⭐1.3k)](https://github.com/qiniu/qmgo) - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
 *   [redeo (⭐442)](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
@@ -1141,7 +1140,6 @@ additional ordered map implementations.
 *   [afero (⭐6k)](https://github.com/spf13/afero) - FileSystem Abstraction System for Go.
 *   [afs (⭐306)](https://github.com/viant/afs) - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 *   [baraka (⭐58)](https://github.com/xis/baraka) - A library to process http file uploads easily.
-*   [bigfile (⭐252)](https://github.com/bigfile/bigfile) - A file transfer system, support to manage files with http api, rpc call and ftp client.
 *   [checksum (⭐105)](https://github.com/codingsince1985/checksum) - Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 *   [copy (⭐730)](https://github.com/otiai10/copy) - Copy directory recursively.
 *   [flop (⭐33)](https://github.com/homedepot/flop) - File operations library which aims to mirror feature parity with [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
@@ -1477,7 +1475,6 @@ additional ordered map implementations.
 *   [steganography (⭐320)](https://github.com/auyer/steganography) - Pure Go Library for LSB steganography.
 *   [stegify (⭐1.2k)](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
 *   [svgo (⭐2.2k)](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
-*   [tga (⭐34)](https://github.com/ftrvxmtrx/tga) - Package tga is a TARGA image format decoder/encoder.
 *   [transformimgs (⭐235)](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 *   [webp-server (⭐73)](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
